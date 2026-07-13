@@ -12,11 +12,11 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**18 / 136 countries.**
+**20 / 136 countries.**
 
 **Africa:** ⬜ Botswana ⬜ Egypt ⬜ Eswatini ⬜ Ghana ⬜ Kenya ⬜ Lesotho ⬜ Madagascar ⬜ Mali ⬜ Namibia ⬜ Nigeria ⬜ Reunion ⬜ Rwanda ⬜ Senegal ⬜ South Africa ⬜ São Tomé and Príncipe ⬜ Tanzania ⬜ Tunisia ⬜ Uganda
 **Asia:** ⬜ Bangladesh ⬜ Bhutan ⬜ British Indian Ocean Territory ⬜ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ⬜ Iraq ⬜ Israel & the West Bank ✅ Japan ⬜ Jordan ⬜ Kazakhstan ⬜ Kyrgyzstan ⬜ Laos ⬜ Lebanon ⬜ Macau ⬜ Malaysia ⬜ Mongolia ⬜ Nepal ⬜ Oman ⬜ Pakistan ⬜ Philippines ⬜ Qatar ⬜ Singapore ⬜ South Korea ⬜ Sri Lanka ⬜ Taiwan ⬜ Thailand ⬜ Turkey ⬜ United Arab Emirates ⬜ Vietnam
-**Europe:** ⬜ Albania ⬜ Andorra ⬜ Austria ⬜ Azores ⬜ Belarus ⬜ Belgium ⬜ Bulgaria ⬜ Croatia ⬜ Czechia ⬜ Denmark ⬜ Estonia ⬜ Faroe Islands ⬜ Finland ✅ France ✅ Germany ⬜ Gibraltar ⬜ Greece ⬜ Hungary ⬜ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ⬜ Latvia ⬜ Liechtenstein ⬜ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ⬜ Norway ⬜ Poland ⬜ Portugal ⬜ Romania ✅ Russia ⬜ San Marino ⬜ Serbia ⬜ Slovakia ⬜ Slovenia ✅ Spain ⬜ Svalbard ⬜ Sweden ⬜ Switzerland ⬜ Ukraine ✅ United Kingdom
+**Europe:** ⬜ Albania ⬜ Andorra ⬜ Austria ⬜ Azores ⬜ Belarus ⬜ Belgium ⬜ Bulgaria ⬜ Croatia ⬜ Czechia ⬜ Denmark ⬜ Estonia ⬜ Faroe Islands ⬜ Finland ✅ France ✅ Germany ⬜ Gibraltar ⬜ Greece ⬜ Hungary ⬜ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ⬜ Latvia ⬜ Liechtenstein ⬜ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ⬜ Norway ✅ Poland ⬜ Portugal ⬜ Romania ✅ Russia ⬜ San Marino ⬜ Serbia ⬜ Slovakia ⬜ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ⬜ Switzerland ⬜ Ukraine ✅ United Kingdom
 **North America:** ⬜ Alaska ⬜ Bermuda ✅ Canada ⬜ Costa Rica ⬜ Dominican Republic ⬜ Greenland ⬜ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ⬜ Panama ⬜ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
 **South America:** ✅ Argentina ⬜ Bolivia ✅ Brazil ⬜ Chile ⬜ Colombia ⬜ Curaçao ⬜ Ecuador ⬜ Falkland Islands ⬜ Peru ⬜ Uruguay
 **Oceania:** ⬜ American Samoa ✅ Australia ⬜ Christmas Island ⬜ Cocos Islands ⬜ Guam ⬜ New Zealand ⬜ Northern Mariana Islands ⬜ Pitcairn Islands ⬜ Vanuatu
@@ -155,6 +155,23 @@ Study: [Plonk It](https://www.plonkit.net/spain)
 | State | **Catalan** (à, ç, "i" for and, street = carrer, "Gual permanent") → Catalonia / Valencia / Balearics | [P](https://www.plonkit.net/spain) |  |
 | State | Basque (x/k/tx heavy, non-Romance) → Basque Country/Navarre; Galician → NW (Galicia) | [P](https://www.plonkit.net/spain) |  |
 
+## Sweden
+Study: [Plonk It](https://www.plonkit.net/sweden)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Swedish: **Å Ä Ö** (Danish/Norwegian have only Å; Finnish has Ä Ö + long double-vowel words) | [P](https://www.plonkit.net/sweden) |  |
+| Country | **All road lines white** (Norway & Finland use yellow); highway outer line split into sectioned pattern | [P](https://www.plonkit.net/sweden) |  |
+| Country | Road signs = red border + **yellow background**; **chevrons = yellow arrows on blue** (only Sweden in Europe) | [P](https://www.plonkit.net/sweden) |  |
+| Country | Lots of **red+yellow** infrastructure (roadwork, signpost stripes) — distinctive to Sweden | [P](https://www.plonkit.net/sweden) |  |
+| Country | Bollards black+white (orange reflector at intersections); wooden poles w/ small **black cap on top** (Nordic) | [P](https://www.plonkit.net/sweden) |  |
+| Country | Pedestrian sign **4 stripes** (Finland/Denmark = 5); blue signs with a large white **M** on small roads | [P](https://www.plonkit.net/sweden) |  |
+| Country | Street suffixes **vägen / gatan** (v / g); dark-red painted wooden countryside houses (Nordic) | [P](https://www.plonkit.net/sweden) |  |
+| Country | **Volvo ≈ 30% of cars**; Swedish church flag (yellow, red cross, crown) near churches | [P](https://www.plonkit.net/sweden) |  |
+| Country | Gen4 cars: red / white / blue (only the blue one appears in NO/FI/DK); Gen3 white car long antenna | [P](https://www.plonkit.net/sweden) |  |
+| Region | North & west = mountainous w/ long narrow lakes; south & east = flatter; boreal forest + many lakes | [P](https://www.plonkit.net/sweden) |  |
+| Region | Snow poles orange w/ reflector above middle (Finland's is thinner, near the top) | [P](https://www.plonkit.net/sweden) |  |
+
 ## Germany
 Study: [Plonk It](https://www.plonkit.net/germany)
 
@@ -173,6 +190,24 @@ Study: [Plonk It](https://www.plonkit.net/germany)
 | State | Place-name suffixes: **-ow / -itz = east** (Slavic); **-weiler / -ach = south** | [P](https://www.plonkit.net/germany) |  |
 | State | Bavaria: white 3-section road markers + round wooden bollards; black-disk bollard bases → all of eastern Germany | [P](https://www.plonkit.net/germany) |  |
 | State | Roadside post styles differ by state (rocky unpainted → Rhineland-Palatinate/Saxony; tall white → Saarland/Thuringia) | [P](https://www.plonkit.net/germany) |  |
+
+## Poland
+Study: [Plonk It](https://www.plonkit.net/poland)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plate: long white + blue strip left (EV = green) | [P](https://www.plonkit.net/poland) |  |
+| Country | Bollard: **red strip wraps all the way around** (red front / white back reflector) | [P](https://www.plonkit.net/poland) |  |
+| Country | **Holey poles** (thin concrete, see-through holes NOT reaching the bottom) — HU/RO ones are wider & holes reach bottom | [P](https://www.plonkit.net/poland) |  |
+| Country | **Warning signs = yellow background + thin red border** (unique in Europe to Poland) | [P](https://www.plonkit.net/poland) |  |
+| Country | Pedestrian sign = **single horizontal line** (Austria/Belgium use two); chevrons white w/ red arrows | [P](https://www.plonkit.net/poland) |  |
+| Country | All-white lines, **double middle lines common**; B-type guardrails w/ round red reflectors | [P](https://www.plonkit.net/poland) |  |
+| Country | Polish: **Ł** (unique), Ń, Ż, Ą/Ę; consonant-heavy, uses **W not V**; direction signs green w/ distinct font | [P](https://www.plonkit.net/poland) |  |
+| Country | Flat & green, tree-lined roads; very Catholic → roadside shrines & Polish Catholic flags | [P](https://www.plonkit.net/poland) |  |
+| Region | South border = hilly/mountainous (Tatras); rest flat; wooden houses → east (Podlaskie) | [P](https://www.plonkit.net/poland) |  |
+| State | Regional roads 3-digit, **first digit = region** (yellow boxes); landline area codes 2-digit, well-clustered | [P](https://www.plonkit.net/poland) |  |
+| State | Place names: **-owo → north, -ów → south** (Kraków is southern), -ino/-yno → NW | [P](https://www.plonkit.net/poland) |  |
+| State | Minority languages: German → Opole; Kashubian → north; Lithuanian → Puńsk | [P](https://www.plonkit.net/poland) |  |
 
 ## Italy
 Study: [Plonk It](https://www.plonkit.net/italy)

@@ -1,0 +1,20 @@
+{
+ "name": "Sweden",
+ "slug": "sweden",
+ "continent": "Europe",
+ "area_km2": 450295,
+ "links": { "plonkit": "https://www.plonkit.net/sweden", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Swedish: **Å Ä Ö** (Danish/Norwegian have only Å; Finnish has Ä Ö + long double-vowel words)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "**All road lines white** (Norway & Finland use yellow); highway outer line split into sectioned pattern", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Road signs = red border + **yellow background**; **chevrons = yellow arrows on blue** (only Sweden in Europe)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Lots of **red+yellow** infrastructure (roadwork, signpost stripes) — distinctive to Sweden", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Bollards black+white (orange reflector at intersections); wooden poles w/ small **black cap on top** (Nordic)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Pedestrian sign **4 stripes** (Finland/Denmark = 5); blue signs with a large white **M** on small roads", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Street suffixes **vägen / gatan** (v / g); dark-red painted wooden countryside houses (Nordic)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "**Volvo ≈ 30% of cars**; Swedish church flag (yellow, red cross, crown) near churches", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Gen4 cars: red / white / blue (only the blue one appears in NO/FI/DK); Gen3 white car long antenna", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "North & west = mountainous w/ long narrow lakes; south & east = flatter; boreal forest + many lakes", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Snow poles orange w/ reflector above middle (Finland's is thinner, near the top)", "src": ["plonkit"], "sv": null }
+ ]
+}

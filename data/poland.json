@@ -1,0 +1,21 @@
+{
+ "name": "Poland",
+ "slug": "poland",
+ "continent": "Europe",
+ "area_km2": 312696,
+ "links": { "plonkit": "https://www.plonkit.net/poland", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Plate: long white + blue strip left (EV = green)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Bollard: **red strip wraps all the way around** (red front / white back reflector)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "**Holey poles** (thin concrete, see-through holes NOT reaching the bottom) — HU/RO ones are wider & holes reach bottom", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "**Warning signs = yellow background + thin red border** (unique in Europe to Poland)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Pedestrian sign = **single horizontal line** (Austria/Belgium use two); chevrons white w/ red arrows", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "All-white lines, **double middle lines common**; B-type guardrails w/ round red reflectors", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Polish: **Ł** (unique), Ń, Ż, Ą/Ę; consonant-heavy, uses **W not V**; direction signs green w/ distinct font", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Flat & green, tree-lined roads; very Catholic → roadside shrines & Polish Catholic flags", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "Regional roads 3-digit, **first digit = region** (yellow boxes); landline area codes 2-digit, well-clustered", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "Place names: **-owo → north, -ów → south** (Kraków is southern), -ino/-yno → NW", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "South border = hilly/mountainous (Tatras); rest flat; wooden houses → east (Podlaskie)", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "Minority languages: German → Opole; Kashubian → north; Lithuanian → Puńsk", "src": ["plonkit"], "sv": null }
+ ]
+}
