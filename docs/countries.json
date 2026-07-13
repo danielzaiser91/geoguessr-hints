@@ -1101,6 +1101,136 @@
    ]
   },
   {
+   "name": "Ireland",
+   "slug": "ireland",
+   "continent": "Europe",
+   "area_km2": 70273,
+   "links": {
+    "plonkit": "https://www.plonkit.net/ireland",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plate: long **white** (incl. back) + blue strip left — **white backplate** distinguishes from UK (yellow back)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "**Yellow dashed outer road lines** — common in Ireland, ~never in UK (also NZ)",
+     "src": [
+      "plonkit",
+      "geometas"
+     ],
+     "src_url": "https://geometas.com/metas/countries/ireland/",
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "**Only European country with yellow diamond warning signs** (regulatory signs stay red/white)",
+     "src": [
+      "plonkit",
+      "geometas"
+     ],
+     "src_url": "https://geometas.com/metas/countries/ireland/",
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Signage **bilingual English + Irish** (Irish in italics)",
+     "src": [
+      "plonkit",
+      "geometas"
+     ],
+     "src_url": "https://geometas.com/metas/countries/ireland/",
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Chevrons **yellow-on-black** (UK = white-on-black); yield says **\"YIELD\"** (UK = \"GIVE WAY\")",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Pole sticker: lightning bolt but **no man being zapped** (UK sticker has the man)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Green+white bollards; rural gates **rounded corners** (UK square; but N. Ireland also rounded)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "\"Boreens\" — tiny rural roads with a **strip of grass down the middle**; drives on the left; smallcam",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Cream-white buildings w/ black roofs, sometimes grey corner stones",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Regional roads = 3-digit; **first digit = region**, numbered **anti-clockwise from Dublin**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Phone area codes grouped by first digit (learnable) → region",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "West coast = rugged hilly moorland, brownish/yellow grass, exposed rock (vs neat green fields of the east)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "**EV Gen4 car** (grey back w/ black semicircle) covers most of the east & parts of NW",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "special",
+     "text": "Distinctive flat **tabletop mountains** → north Sligo / Leitrim; hilly tiny Gen4 roads → Donegal",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    }
+   ]
+  },
+  {
    "name": "Italy",
    "slug": "italy",
    "continent": "Europe",
@@ -2191,7 +2321,7 @@
   "Antarctica"
  ],
  "counts": {
-  "done": 17,
+  "done": 18,
   "total": 136
  }
 }

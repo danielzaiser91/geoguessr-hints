@@ -12,11 +12,11 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**17 / 136 countries.**
+**18 / 136 countries.**
 
 **Africa:** ⬜ Botswana ⬜ Egypt ⬜ Eswatini ⬜ Ghana ⬜ Kenya ⬜ Lesotho ⬜ Madagascar ⬜ Mali ⬜ Namibia ⬜ Nigeria ⬜ Reunion ⬜ Rwanda ⬜ Senegal ⬜ South Africa ⬜ São Tomé and Príncipe ⬜ Tanzania ⬜ Tunisia ⬜ Uganda
 **Asia:** ⬜ Bangladesh ⬜ Bhutan ⬜ British Indian Ocean Territory ⬜ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ⬜ Iraq ⬜ Israel & the West Bank ✅ Japan ⬜ Jordan ⬜ Kazakhstan ⬜ Kyrgyzstan ⬜ Laos ⬜ Lebanon ⬜ Macau ⬜ Malaysia ⬜ Mongolia ⬜ Nepal ⬜ Oman ⬜ Pakistan ⬜ Philippines ⬜ Qatar ⬜ Singapore ⬜ South Korea ⬜ Sri Lanka ⬜ Taiwan ⬜ Thailand ⬜ Turkey ⬜ United Arab Emirates ⬜ Vietnam
-**Europe:** ⬜ Albania ⬜ Andorra ⬜ Austria ⬜ Azores ⬜ Belarus ⬜ Belgium ⬜ Bulgaria ⬜ Croatia ⬜ Czechia ⬜ Denmark ⬜ Estonia ⬜ Faroe Islands ⬜ Finland ✅ France ✅ Germany ⬜ Gibraltar ⬜ Greece ⬜ Hungary ⬜ Iceland ⬜ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ⬜ Latvia ⬜ Liechtenstein ⬜ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ⬜ Norway ⬜ Poland ⬜ Portugal ⬜ Romania ✅ Russia ⬜ San Marino ⬜ Serbia ⬜ Slovakia ⬜ Slovenia ✅ Spain ⬜ Svalbard ⬜ Sweden ⬜ Switzerland ⬜ Ukraine ✅ United Kingdom
+**Europe:** ⬜ Albania ⬜ Andorra ⬜ Austria ⬜ Azores ⬜ Belarus ⬜ Belgium ⬜ Bulgaria ⬜ Croatia ⬜ Czechia ⬜ Denmark ⬜ Estonia ⬜ Faroe Islands ⬜ Finland ✅ France ✅ Germany ⬜ Gibraltar ⬜ Greece ⬜ Hungary ⬜ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ⬜ Latvia ⬜ Liechtenstein ⬜ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ⬜ Norway ⬜ Poland ⬜ Portugal ⬜ Romania ✅ Russia ⬜ San Marino ⬜ Serbia ⬜ Slovakia ⬜ Slovenia ✅ Spain ⬜ Svalbard ⬜ Sweden ⬜ Switzerland ⬜ Ukraine ✅ United Kingdom
 **North America:** ⬜ Alaska ⬜ Bermuda ✅ Canada ⬜ Costa Rica ⬜ Dominican Republic ⬜ Greenland ⬜ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ⬜ Panama ⬜ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
 **South America:** ✅ Argentina ⬜ Bolivia ✅ Brazil ⬜ Chile ⬜ Colombia ⬜ Curaçao ⬜ Ecuador ⬜ Falkland Islands ⬜ Peru ⬜ Uruguay
 **Oceania:** ⬜ American Samoa ✅ Australia ⬜ Christmas Island ⬜ Cocos Islands ⬜ Guam ⬜ New Zealand ⬜ Northern Mariana Islands ⬜ Pitcairn Islands ⬜ Vanuatu
@@ -211,6 +211,26 @@ Study: [Plonk It](https://www.plonkit.net/united-kingdom)
 | State | Scotland stone: granite → Aberdeen, red sandstone → Glasgow/Dumfries, yellow sandstone → Edinburgh | [P](https://www.plonkit.net/united-kingdom) |  |
 | Special | Warning stickers wrapped all the way around the pole → Northern Ireland; Cornish palms → far SW coast | [P](https://www.plonkit.net/united-kingdom) |  |
 | Special | Isle of Man = **Gen2 only**, counts as UK for country streaks | [P](https://www.plonkit.net/united-kingdom) |  |
+
+## Ireland
+Study: [Plonk It](https://www.plonkit.net/ireland)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plate: long **white** (incl. back) + blue strip left — **white backplate** distinguishes from UK (yellow back) | [P](https://www.plonkit.net/ireland) |  |
+| Country | **Yellow dashed outer road lines** — common in Ireland, ~never in UK (also NZ) | [P](https://www.plonkit.net/ireland) [geometas](https://geometas.com/metas/countries/ireland/) |  |
+| Country | **Only European country with yellow diamond warning signs** (regulatory signs stay red/white) | [P](https://www.plonkit.net/ireland) [geometas](https://geometas.com/metas/countries/ireland/) |  |
+| Country | Signage **bilingual English + Irish** (Irish in italics) | [P](https://www.plonkit.net/ireland) [geometas](https://geometas.com/metas/countries/ireland/) |  |
+| Country | Chevrons **yellow-on-black** (UK = white-on-black); yield says **"YIELD"** (UK = "GIVE WAY") | [P](https://www.plonkit.net/ireland) |  |
+| Country | Pole sticker: lightning bolt but **no man being zapped** (UK sticker has the man) | [P](https://www.plonkit.net/ireland) |  |
+| Country | Green+white bollards; rural gates **rounded corners** (UK square; but N. Ireland also rounded) | [P](https://www.plonkit.net/ireland) |  |
+| Country | "Boreens" — tiny rural roads with a **strip of grass down the middle**; drives on the left; smallcam | [P](https://www.plonkit.net/ireland) |  |
+| Country | Cream-white buildings w/ black roofs, sometimes grey corner stones | [P](https://www.plonkit.net/ireland) |  |
+| Region | West coast = rugged hilly moorland, brownish/yellow grass, exposed rock (vs neat green fields of the east) | [P](https://www.plonkit.net/ireland) |  |
+| Region | **EV Gen4 car** (grey back w/ black semicircle) covers most of the east & parts of NW | [P](https://www.plonkit.net/ireland) |  |
+| State | Regional roads = 3-digit; **first digit = region**, numbered **anti-clockwise from Dublin** | [P](https://www.plonkit.net/ireland) |  |
+| State | Phone area codes grouped by first digit (learnable) → region | [P](https://www.plonkit.net/ireland) |  |
+| Special | Distinctive flat **tabletop mountains** → north Sligo / Leitrim; hilly tiny Gen4 roads → Donegal | [P](https://www.plonkit.net/ireland) |  |
 
 ## Netherlands
 Study: [Plonk It](https://www.plonkit.net/netherlands)
