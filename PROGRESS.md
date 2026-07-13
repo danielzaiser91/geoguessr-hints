@@ -3,6 +3,21 @@
 Persistent resume file. If work is interrupted, read this + `geoguessr-hints.md` coverage
 tracker and continue from the first unchecked box.
 
+## v2 REQUESTS (in progress — do not lose)
+1. **Official coverage feature.** Find how sv-map.netlify.app sources official SV coverage (network
+   inspect / web search). Add: when a country is selected → a button "Official coverage for
+   <country>" → dialog with image OR live embed focused on that country showing where official SV
+   exists. Also a global "Official coverage" button (no country selected) → world coverage view.
+2. **Globe colouring = 2 states only:** has official coverage vs no coverage (drop the per-hint
+   continent colours on the globe). Also: change country selection from mouseup → **mousedown**
+   (clicks sometimes not registering).
+3. **Full-screen country view:** when a country is selected, use the whole viewport; much more room
+   per hint, clearer separation by specificity, **embed images** (like Plonk It does).
+4. **Title the filter section** so it's obvious the chips filter the hints by specificity/source.
+5. Keep going until finished/interrupted (no premature stops).
+6. **Multi-source:** also use geometas.com (e.g. /metas/countries/ireland/) + other helpful sites,
+   not only Plonk It. Tag each hint's source so the filter works.
+
 ## STATUS: LIVE
 Site published: **https://danielzaiser91.github.io/geoguessr-hints/** (repo
 `danielzaiser91/geoguessr-hints`, Pages = main `/docs`). Webpage + publish DONE.
