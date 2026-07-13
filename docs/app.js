@@ -281,8 +281,11 @@ function cardsEl(hints) {
 function imgUrl(h) {
   if (!h.img) return null;
   if (/^(https?:)?\/\//.test(h.img) || /^img\//.test(h.img)) return h.img;
+  // Plonk It's image folder can differ from the page slug (e.g. link /usa but folder
+  // /united-states) — prefer an explicit img_folder, else derive from the plonkit link.
   const link = (selected.links && selected.links.plonkit) || "";
-  const folder = link.replace(/^https?:\/\/(www\.)?plonkit\.net\//i, "").replace(/\/.*$/, "") || selected.slug;
+  const folder = selected.img_folder ||
+    link.replace(/^https?:\/\/(www\.)?plonkit\.net\//i, "").replace(/\/.*$/, "") || selected.slug;
   return `https://www.plonkit.net/images/resize/900/80/${folder}/${encodeURIComponent(h.img)}`;
 }
 function cardEl(h) {

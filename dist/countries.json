@@ -2249,22 +2249,34 @@
     "plonkit": "https://www.plonkit.net/usa",
     "geoguessr": null
    },
+   "img_folder": "united-states",
    "hints": [
     {
      "cat": "country",
-     "text": "Speed signs say **\"SPEED LIMIT\"** (Canada = \"MAXIMUM\"); **miles**, feet/inches",
+     "text": "Speed signs say **\"SPEED LIMIT\"** (Canada = \"MAXIMUM\"); **miles**, feet/inches; limits often end in 5",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "speedsign.png"
     },
     {
      "cat": "country",
-     "text": "Wordy signs (railway crossing spelled out); US English (center, color)",
+     "text": "Wordy signs (railway crossing spelled out); **US English** (center, color)",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "wordysigns.png"
+    },
+    {
+     "cat": "country",
+     "text": "**\"No Passing Zone\"** yellow triangle = US only; rectangular junction signs (Canada = diamond)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "nopassingzone.png"
     },
     {
      "cat": "country",
@@ -2272,47 +2284,44 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "road_lines.png"
     },
     {
      "cat": "country",
-     "text": "White+orange fibre-optic markers ~unique to US; rumble strips common",
+     "text": "White+orange **fibre-optic markers** ~unique to US; rumble strips common",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "fibre_line.png"
     },
     {
      "cat": "country",
-     "text": "Trailer/mobile homes rural (esp. SE); Baptist churches common",
+     "text": "Trailer/mobile homes rural (esp. SE); **Baptist churches** common",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "mobile_home.png"
     },
     {
      "cat": "country",
-     "text": "\"No Passing Zone\" yellow triangle = US only",
+     "text": "US+Canada: post mailbox w/ flag; wooden poles + **cylindrical transformers**; short plates (no blue strip); overhead signal bars; long-nose semis (Europe = cabover)",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "us_mailbox.png"
     },
     {
      "cat": "country",
-     "text": "US+Canada: post mailbox w/ flag; wooden poles + cylindrical transformers; short plates (no blue strip); overhead signal bars; long-nose semis (Europe = cabover)",
+     "text": "Gen2 rare → if Gen2 in N. America likely **Canada** (except Alaska, some Hawaii); Gen3 mirror = **single peak** (Canada = two peaks); NA Gen3 usually **no antenna**",
      "src": [
       "plonkit"
      ],
-     "sv": null
-    },
-    {
-     "cat": "country",
-     "text": "Gen2 rare → if Gen2 in N. America likely **Canada** (except Alaska, some Hawaii); Gen3 mirror = single peak (Canada = two peaks)",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null
+     "sv": null,
+     "img": "gen3_blurs.png"
     },
     {
      "cat": "region",
@@ -2320,27 +2329,66 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "US_population_map.png"
     },
     {
      "cat": "region",
-     "text": "Deep South (OK→SC) reddish soil; SW Four Corners red mesas/tablelands",
+     "text": "Deep South (OK→SC) **reddish soil**; SW Four Corners red mesas/tablelands",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Red_soil2.png"
     },
     {
      "cat": "region",
-     "text": "PNW (WA/OR/N.CA coast) temperate rainforest; Great Plains flat, few trees",
+     "text": "PNW (WA/OR/N.CA coast) **temperate rainforest**; Great Plains flat, few trees",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Pacific_rainforests_final.png"
     },
     {
      "cat": "region",
-     "text": "New England architecture (wood panel, porch, high roof) → north",
+     "text": "New England architecture (shingle/wood panel, porch, high roof) + **three-deckers** → Northeast",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "three-decker.png"
+    },
+    {
+     "cat": "state",
+     "text": "Interstates: **even = W–E** (low #s at Gulf/Mexico), **odd = S–N** (low #s at West Coast); US Highways numbered inversely",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "us_highway_map_final.png"
+    },
+    {
+     "cat": "state",
+     "text": "~half of states have **no front plate**; each state has a unique plate design (some readable through blur)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "us_licenceplates_2025.png"
+    },
+    {
+     "cat": "state",
+     "text": "3-digit **area codes** (not clustered but learnable); each state has its own **flag** (distinct ones appear often)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "us_stateflags_v2.png"
+    },
+    {
+     "cat": "state",
+     "text": "Appalachians (low forested mtns) → east; Rockies → MT–NM; Great Basin (mtns + dry shrubby plains) → NV/UT",
      "src": [
       "plonkit"
      ],
@@ -2348,35 +2396,325 @@
     },
     {
      "cat": "state",
-     "text": "Interstates: **even = W–E, odd = S–N**; lowest numbers south & west",
+     "area": "Arizona",
+     "text": "**Saguaro cacti** (tall tubes w/ branching arms) → southern Arizona, Sonoran border",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "36saguaro_cactus__281_29.png"
     },
     {
      "cat": "state",
-     "text": "~half of states have **no front plate**; each state has a unique plate design",
+     "area": "California",
+     "text": "Utility poles w/ **3 yellow stripes** at the base (most of CA, exc. Modoc/Lassen NE)",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Cali_Striped_Updated.png"
     },
     {
      "cat": "state",
-     "text": "3-digit area codes (not clustered but learnable); state flags appear",
+     "area": "Colorado",
+     "text": "**Front Range**: a N–S mountain ridge flanking Denver/Boulder/Colorado Springs, plains to the east",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "32colorado_front_range_final.png"
     },
     {
      "cat": "state",
-     "text": "Appalachians (low forested mtns) → east; Rockies → MT–NM; Great Basin (mtns + dry plains) → NV",
+     "area": "Florida",
+     "text": "Central FL (Orlando↔Lakeland) = the only real **rolling hills**, lakes + groves; jungle-straight roads far south",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "us_floridahills.png"
+    },
+    {
+     "cat": "state",
+     "area": "Idaho",
+     "text": "**Square-reflector bollard** (also UT/AZ) — Idaho appears with both 1 and 2 bolts",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Square_Bollard_3.png"
+    },
+    {
+     "cat": "state",
+     "area": "Iowa",
+     "text": "**Concrete paving** on ordinary rural roads much more common than elsewhere (ignore bridges/highways/cities)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "concrete_roads_updated.png",
+     "type": "markings"
+    },
+    {
+     "cat": "state",
+     "area": "Kansas",
+     "text": "**White reflectors** on rural signposts (esp. stop signs) — unique to Kansas",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "19Only_interesting_thing_in_Kansas.png"
+    },
+    {
+     "cat": "state",
+     "area": "Kentucky",
+     "text": "Uniquely-shaped **rumble strips**: thin, long recessed lines on the very outside road edges",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "us_kentuckyrumblestrip.png",
+     "type": "markings"
+    },
+    {
+     "cat": "state",
+     "area": "Louisiana",
+     "text": "**Shotgun houses** (very narrow 1-storey wood) → New Orleans area (also Houston, Louisville, Mississippi)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "46shotgun_house_maybe.png"
+    },
+    {
+     "cat": "state",
+     "area": "Michigan",
+     "text": "Stoplights & signs **hang from wires** across big intersections, often in yellow boxes",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "26michigan_hanging_signs_final.png",
+     "type": "utility"
+    },
+    {
+     "cat": "state",
+     "area": "Minnesota",
+     "text": "**Yellow signs w/ vertical black triangles** before bridges at major river crossings & guardrail ends",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "20mn_bridge_updated.png"
+    },
+    {
+     "cat": "state",
+     "area": "Missouri",
+     "text": "County highways use a **letter system (A–ZZZ)** — Missouri signs lack the word 'county' (Wisconsin has it)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "5us_wisconsinmissourilettering.png",
+     "type": "signs"
+    },
+    {
+     "cat": "state",
+     "area": "Nebraska",
+     "text": "**Sandhills**: rolling grass-covered dunes in the central-north of the state",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Nebraska_Sandhills.png"
+    },
+    {
+     "cat": "state",
+     "area": "Nevada",
+     "text": "Bollard = **white vertical-rectangle reflector w/ black outline** on a thin stick",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "15Nevada_bollard.png"
+    },
+    {
+     "cat": "state",
+     "area": "New Hampshire",
+     "text": "White metal **\"E-2\" sign** beside the road, typically at bridge ends",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "36us_nhsign.png"
+    },
+    {
+     "cat": "state",
+     "area": "New Mexico",
+     "text": "Bollard with **3 circular reflectors**; Pueblo-Revival adobe (flat roofs, rounded, sand-brown) buildings",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "NM_Bollard.png"
+    },
+    {
+     "cat": "state",
+     "area": "New York",
+     "text": "**Square guardrails** (long top bar on square legs) dominant here (also Wyoming)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "35us_newyorkwisconsinguardrail.png",
+     "type": "utility"
+    },
+    {
+     "cat": "state",
+     "area": "North Carolina",
+     "text": "Street signs showing **street numbers + arrows** alongside the name",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "30us_ncstreetsign.png"
+    },
+    {
+     "cat": "state",
+     "area": "Oklahoma",
+     "text": "**Green sign, 3 rows of numbers** on the back of rural stop signs at intersections",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "31us_okmarker.png"
+    },
+    {
+     "cat": "state",
+     "area": "Oregon",
+     "text": "Speed signs often say just **\"SPEED\"** (not \"SPEED LIMIT\"); bollard = very long rectangular reflector on top",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "11Oregon_speed_sign.png"
+    },
+    {
+     "cat": "state",
+     "area": "Pennsylvania",
+     "text": "White intersection signs w/ the **converging state-route number** on top; **keystone** route markers",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Pennsylvania_signs.png"
+    },
+    {
+     "cat": "state",
+     "area": "South Dakota",
+     "text": "**White diamond reflector** bollard, usually **2 bolts** (Montana = 1 bolt); Black Hills (conifers) far west",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Diamond_bollard.png"
+    },
+    {
+     "cat": "state",
+     "area": "Texas",
+     "text": "**Yellow/red bands** ('ketchup & mustard') around signposts; grainy salt-and-pepper roads; Hill Country oaks W of Austin",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "18ketchup_and_mustard.png"
+    },
+    {
+     "cat": "state",
+     "area": "Utah",
+     "text": "Bollard = **white square reflector atop a black rectangle** (unique); streets named like **\"600 South\"**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Utah_bollard.png"
+    },
+    {
+     "cat": "state",
+     "area": "Vermont",
+     "text": "Small **green signs, 3 rows of numbers**, 2nd row starts with **0** (New York's starts with a NYSDOT district #)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "VT_Green_sign_updated.png"
+    },
+    {
+     "cat": "state",
+     "area": "Washington",
+     "text": "Bollard = white/brown post, **white rectangle on front + two small squares on back**; golden wheat fields east",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "washingtonbollard.png"
+    },
+    {
+     "cat": "state",
+     "area": "West Virginia",
+     "text": "Street signs with a **fraction-in-a-circle** symbol",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "29us_wv_fractional_roads.png"
+    },
+    {
+     "cat": "state",
+     "area": "Wisconsin",
+     "text": "Simple **white bollards w/ black reflectors** (unique); green **ATV Route** signs; orange rectangle+diamond pole plate (also MI UP)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Wisconsin_Bollard_Hint.png"
+    },
+    {
+     "cat": "state",
+     "area": "Wyoming",
+     "text": "Bollard: dark post, white circular reflector w/ post rising **above** it; top sometimes painted **white/grey** (unique)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Wyoming_Bollard.png"
+    },
+    {
+     "cat": "special",
+     "text": "**Interstate 19** (Tucson → Mexico) is the only US highway signed in **kilometres** (speed still MPH)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "35Interstate_19_KM_hint.png"
+    },
+    {
+     "cat": "special",
+     "text": "**Ford Bronco** (unblurred black roof, red hood) on unpaved roads = TransAmerica Trail promo, OR→NC",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "fordbronco.png"
+    },
+    {
+     "cat": "special",
+     "text": "**Devil's Tower** (lone butte, NE Wyoming) visible for miles; Badlands/Theodore Roosevelt = sand-brown eroded rock",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "42devils_tower_final.png"
     }
    ]
   }
