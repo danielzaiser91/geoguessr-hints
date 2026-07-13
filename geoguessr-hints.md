@@ -12,11 +12,11 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**20 / 136 countries.**
+**23 / 136 countries.**
 
 **Africa:** ⬜ Botswana ⬜ Egypt ⬜ Eswatini ⬜ Ghana ⬜ Kenya ⬜ Lesotho ⬜ Madagascar ⬜ Mali ⬜ Namibia ⬜ Nigeria ⬜ Reunion ⬜ Rwanda ⬜ Senegal ⬜ South Africa ⬜ São Tomé and Príncipe ⬜ Tanzania ⬜ Tunisia ⬜ Uganda
 **Asia:** ⬜ Bangladesh ⬜ Bhutan ⬜ British Indian Ocean Territory ⬜ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ⬜ Iraq ⬜ Israel & the West Bank ✅ Japan ⬜ Jordan ⬜ Kazakhstan ⬜ Kyrgyzstan ⬜ Laos ⬜ Lebanon ⬜ Macau ⬜ Malaysia ⬜ Mongolia ⬜ Nepal ⬜ Oman ⬜ Pakistan ⬜ Philippines ⬜ Qatar ⬜ Singapore ⬜ South Korea ⬜ Sri Lanka ⬜ Taiwan ⬜ Thailand ⬜ Turkey ⬜ United Arab Emirates ⬜ Vietnam
-**Europe:** ⬜ Albania ⬜ Andorra ⬜ Austria ⬜ Azores ⬜ Belarus ⬜ Belgium ⬜ Bulgaria ⬜ Croatia ⬜ Czechia ⬜ Denmark ⬜ Estonia ⬜ Faroe Islands ⬜ Finland ✅ France ✅ Germany ⬜ Gibraltar ⬜ Greece ⬜ Hungary ⬜ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ⬜ Latvia ⬜ Liechtenstein ⬜ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ⬜ Norway ✅ Poland ⬜ Portugal ⬜ Romania ✅ Russia ⬜ San Marino ⬜ Serbia ⬜ Slovakia ⬜ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ⬜ Switzerland ⬜ Ukraine ✅ United Kingdom
+**Europe:** ⬜ Albania ⬜ Andorra ⬜ Austria ⬜ Azores ⬜ Belarus ⬜ Belgium ⬜ Bulgaria ⬜ Croatia ⬜ Czechia ✅ Denmark ⬜ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ⬜ Gibraltar ⬜ Greece ⬜ Hungary ⬜ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ⬜ Latvia ⬜ Liechtenstein ⬜ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ✅ Norway ✅ Poland ⬜ Portugal ⬜ Romania ✅ Russia ⬜ San Marino ⬜ Serbia ⬜ Slovakia ⬜ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ⬜ Switzerland ⬜ Ukraine ✅ United Kingdom
 **North America:** ⬜ Alaska ⬜ Bermuda ✅ Canada ⬜ Costa Rica ⬜ Dominican Republic ⬜ Greenland ⬜ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ⬜ Panama ⬜ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
 **South America:** ✅ Argentina ⬜ Bolivia ✅ Brazil ⬜ Chile ⬜ Colombia ⬜ Curaçao ⬜ Ecuador ⬜ Falkland Islands ⬜ Peru ⬜ Uruguay
 **Oceania:** ⬜ American Samoa ✅ Australia ⬜ Christmas Island ⬜ Cocos Islands ⬜ Guam ⬜ New Zealand ⬜ Northern Mariana Islands ⬜ Pitcairn Islands ⬜ Vanuatu
@@ -172,6 +172,36 @@ Study: [Plonk It](https://www.plonkit.net/sweden)
 | Region | North & west = mountainous w/ long narrow lakes; south & east = flatter; boreal forest + many lakes | [P](https://www.plonkit.net/sweden) |  |
 | Region | Snow poles orange w/ reflector above middle (Finland's is thinner, near the top) | [P](https://www.plonkit.net/sweden) |  |
 
+## Norway
+Study: [Plonk It](https://www.plonkit.net/norway)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Very **mountainous, fjords** along most of the coast (Finland/Denmark flat; Sweden mixed) | [P](https://www.plonkit.net/norway) |  |
+| Country | Mostly **wooden houses**; many **red or black-painted**; Norway has more **white** houses & fewer brick than SE/FI | [P](https://www.plonkit.net/norway) |  |
+| Country | Long white plate + EU strip; **green commercial plates** common on vans (green plates most-likely Norway in Europe) | [P](https://www.plonkit.net/norway) |  |
+| Country | Letters **Æ Ø Å** (Danish also; Swedish only Å); more E's than Swedish; Norwegian **kk** vs Swedish **ck** | [P](https://www.plonkit.net/norway) |  |
+| Country | Small roads = **long dashed white outer lines**; big roads solid + **orange-tinged yellow** middle; lines often dotted | [P](https://www.plonkit.net/norway) |  |
+| Country | Bollard: thin curved rectangle, reflector inside a **black parallelogram** | [P](https://www.plonkit.net/norway) |  |
+| Country | **Snow poles orange**, thin white reflector **mid-pole** (Sweden wider/higher; Finland at very top); wooden ones w/ painted reflectors | [P](https://www.plonkit.net/norway) |  |
+| Country | Guardrails often on **wooden posts** (not common in SE/FI) | [P](https://www.plonkit.net/norway) |  |
+| Country | Pedestrian sign: **4 stripes**, simply-drawn person (Sweden detailed no hat; Finland 5 stripes) | [P](https://www.plonkit.net/norway) |  |
+| Country | Road signs = **red outline + white background** (Sweden & Finland = yellow); chevrons yellow-on-black | [P](https://www.plonkit.net/norway) |  |
+| Country | Directional signs **yellow + black border**; road # in green box (Euro/major) or white (minor); blue **M** signs on small roads | [P](https://www.plonkit.net/norway) |  |
+| Country | Wooden poles w/ small **black metal cap**; lamp mounted w/ **single bolt** (Sweden/Finland double) | [P](https://www.plonkit.net/norway) |  |
+| Country | Traditional houses often have **grass-covered roofs** (far rarer in SE/FI) | [P](https://www.plonkit.net/norway) |  |
+| Country | Street suffixes **-veien / -gata / -gate**; street signs **centred on top** of the post (Sweden = side/lamp) | [P](https://www.plonkit.net/norway) |  |
+| Region | **Sámi bilingual signs** in the north — letters **Á Đ** and many vowels in a row | [P](https://www.plonkit.net/norway) |  |
+| Region | Deep **fjords + tall mountains** between Bergen–Trondheim; sharp rocky treeless peaks on **Lofoten** | [P](https://www.plonkit.net/norway) |  |
+| Region | Farmlands in 3 zones: **SE/Oslo** (flat, rolling forested hills), **Trondheim** (steep hilly), **Stavanger** (vast open, round rock walls, grass) | [P](https://www.plonkit.net/norway) |  |
+| Region | **Black snow poles** most common between Bergen and Trondheim | [P](https://www.plonkit.net/norway) |  |
+| State | Road number **first digit = region**; small white signs show road # (prefix **R** = findable, **F**/Fv = hard) + distance | [P](https://www.plonkit.net/norway) |  |
+| Special | **Oslo**: fairly large black or red pole plates; SE Norway = small wide black plates | [P](https://www.plonkit.net/norway) |  |
+| Special | **Stavanger**: two **red stripes** around lamp posts | [P](https://www.plonkit.net/norway) |  |
+| Special | **Bergen**: distinctive green **fire hydrants** | [P](https://www.plonkit.net/norway) |  |
+| Special | **Russian border** (Kirkenes, E6/E105): humid green foggy road, thin birches/pines; Russian text on signs | [P](https://www.plonkit.net/norway) |  |
+| Special | **Røros**: densely-built traditional wooden mining town | [P](https://www.plonkit.net/norway) |  |
+
 ## Germany
 Study: [Plonk It](https://www.plonkit.net/germany)
 
@@ -190,6 +220,34 @@ Study: [Plonk It](https://www.plonkit.net/germany)
 | State | Place-name suffixes: **-ow / -itz = east** (Slavic); **-weiler / -ach = south** | [P](https://www.plonkit.net/germany) |  |
 | State | Bavaria: white 3-section road markers + round wooden bollards; black-disk bollard bases → all of eastern Germany | [P](https://www.plonkit.net/germany) |  |
 | State | Roadside post styles differ by state (rocky unpainted → Rhineland-Palatinate/Saxony; tall white → Saarland/Thuringia) | [P](https://www.plonkit.net/germany) |  |
+
+## Finland
+Study: [Plonk It](https://www.plonkit.net/finland)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | **Short** white plate + EU blue strip (Åland = short, fully white, no strip) | [P](https://www.plonkit.net/finland) |  |
+| Country | Outer lines **always solid white** (Sweden/Norway use dashes); middle lines varied — yellow lines being **phased out** | [P](https://www.plonkit.net/finland) |  |
+| Country | Bollard: long black-and-white, **white rectangle reflector front + two dots back**, **diagonal** black strip | [P](https://www.plonkit.net/finland) |  |
+| Country | Snow poles orange w/ a **thin white band near the top** (single band; Norway/Sweden = wider, lower, multiple) | [P](https://www.plonkit.net/finland) |  |
+| Country | Finnish looks **unique**: long words, **double vowels**, letters **ä ö** (Estonian similar but adds õ ü) | [P](https://www.plonkit.net/finland) |  |
+| Country | Street names end **-tie / -katu**; white street sign, black text | [P](https://www.plonkit.net/finland) |  |
+| Country | Road signs **yellow background**; red-border signs have a **thin yellow stroke** on the edge (unique to Finland) | [P](https://www.plonkit.net/finland) |  |
+| Country | Pedestrian signs have **5 stripes** (Sweden/Norway usually 4) | [P](https://www.plonkit.net/finland) |  |
+| Country | Directional signs = **solid blue bg, white text + arrows**; chevrons black w/ yellow arrows | [P](https://www.plonkit.net/finland) |  |
+| Country | Wooden poles w/ streetlight, **lamp double-bolted at the top** (Sweden double too but lower & angled) | [P](https://www.plonkit.net/finland) |  |
+| Country | Signposts often have **blue-and-white striped** markings | [P](https://www.plonkit.net/finland) |  |
+| Country | Dense **boreal forest** (pines + white-trunk **birches**); **Land of a Thousand Lakes** — water everywhere | [P](https://www.plonkit.net/finland) |  |
+| Country | Much Gen3 shot in **autumn** → distinct fall colours = good Finland tiebreaker vs other Nordics | [P](https://www.plonkit.net/finland) |  |
+| Country | Architecture modern/utilitarian (concrete apartments downtown); wooden-clad suburbs, some dark-red painted | [P](https://www.plonkit.net/finland) |  |
+| Country | **K-Market & S-Market** supermarkets operate only in Finland (recognisable logos) | [P](https://www.plonkit.net/finland) |  |
+| Country | 'Shitcam' (Ari) low-quality camera: wide circular blur, **no sky halo**, brownish tint — Finland (& Spain) have the most | [P](https://www.plonkit.net/finland) |  |
+| Region | **Swedish bilingual** signs on the south/west coast → don't guess inland; **Sámi** bilingual far north (alphabet uses **c**) | [P](https://www.plonkit.net/finland) |  |
+| Region | **Wind turbines** & most farmland concentrated along the **west/south coast** | [P](https://www.plonkit.net/finland) |  |
+| Region | **Lapland**: snow poles with **2 long reflectors** (2023+ coverage); small stunted spindly trees in the north | [P](https://www.plonkit.net/finland) |  |
+| State | Regional roads **3–4 digit, first digit = region**, distributed **south→north** (1 south … 9 north) | [P](https://www.plonkit.net/finland) |  |
+| Special | **Åland Islands**: monolingually **Swedish**, **red-tinted** pavement, **dashed** outer lines, short all-white plates | [P](https://www.plonkit.net/finland) |  |
+| Special | City transit: **Helsinki** green-yellow trams + blue/white buses; **Tampere** red trams ('NYSSE' buses); **Turku** yellow buses; **Jyväskylä** green; **Oulu** pink front | [P](https://www.plonkit.net/finland) |  |
 
 ## Poland
 Study: [Plonk It](https://www.plonkit.net/poland)
@@ -266,6 +324,31 @@ Study: [Plonk It](https://www.plonkit.net/ireland)
 | State | Regional roads = 3-digit; **first digit = region**, numbered **anti-clockwise from Dublin** | [P](https://www.plonkit.net/ireland) |  |
 | State | Phone area codes grouped by first digit (learnable) → region | [P](https://www.plonkit.net/ireland) |  |
 | Special | Distinctive flat **tabletop mountains** → north Sligo / Leitrim; hilly tiny Gen4 roads → Donegal | [P](https://www.plonkit.net/ireland) |  |
+
+## Denmark
+Study: [Plonk It](https://www.plonkit.net/denmark)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Long white plate + blue strip; commercial = **yellow**; **"Parrot" plates** (yellow section on the left) are unique to Denmark | [P](https://www.plonkit.net/denmark) |  |
+| Country | Generally **flat** with wide open fields; spacious suburbs, denser urban cores | [P](https://www.plonkit.net/denmark) |  |
+| Country | All-white lines, **double middle common**; **outer lines made of small white squares** — a great Denmark tell | [P](https://www.plonkit.net/denmark) |  |
+| Country | Very unique **direction signs**: low to the ground, **pipe-framed**, red/white or blue/white with the arrow in the background | [P](https://www.plonkit.net/denmark) |  |
+| Country | Street names end **-vej**; blue street sign, white text | [P](https://www.plonkit.net/denmark) |  |
+| Country | Unique **white bollard: yellow reflector + dark-orange stripe** (also a green variant); Belgium's lacks the orange stripe | [P](https://www.plonkit.net/denmark) |  |
+| Country | Danish letters **Æ Ø Å** (Norwegian same; Swedish uses Å Ä Ö instead) | [P](https://www.plonkit.net/denmark) |  |
+| Country | Architecture **red brick**, orange/brown/black tiled roofs; **thatched roofs** rural; timber-frame on historical buildings | [P](https://www.plonkit.net/denmark) |  |
+| Country | Signpost with the **pipe frame bent around the sign** = unique to Denmark | [P](https://www.plonkit.net/denmark) |  |
+| Country | **Square B-type guardrails, no reflectors** — only a few European countries use this | [P](https://www.plonkit.net/denmark) |  |
+| Country | Pedestrian sign **5 stripes**, first & fifth **touch the triangle edge** | [P](https://www.plonkit.net/denmark) |  |
+| Country | Red-and-white **chevrons**, often low to the ground; unique **town-entry sign** (red slash when leaving) | [P](https://www.plonkit.net/denmark) |  |
+| Country | Street-level poles **rare** → mostly big **overhead power lines** near highways; bicycle paths common | [P](https://www.plonkit.net/denmark) |  |
+| Country | **PostNord** postal boxes; gas brands Ingo / OK / Uno-X / YX (each shared with one neighbour) | [P](https://www.plonkit.net/denmark) |  |
+| Region | **6 regional bus companies**, each with its own colour scheme + bus-stop sign | [P](https://www.plonkit.net/denmark) |  |
+| State | Road numbering runs **east→west**; roads 2–5 grouped by region; **Bornholm only has 1-roads** | [P](https://www.plonkit.net/denmark) |  |
+| Special | **Bornholm**: green/red/white bus stops + green bicycle signs | [P](https://www.plonkit.net/denmark) |  |
+| Special | **Læsø** island: traditional **seaweed (eelgrass) roofs** | [P](https://www.plonkit.net/denmark) |  |
+| Special | **Anholt** island: only **Gen2**, gloomy overcast, sandy dirt on the roadside | [P](https://www.plonkit.net/denmark) |  |
 
 ## Netherlands
 Study: [Plonk It](https://www.plonkit.net/netherlands)

@@ -629,6 +629,436 @@
    ]
   },
   {
+   "name": "Denmark",
+   "slug": "denmark",
+   "continent": "Europe",
+   "area_km2": 43094,
+   "links": {
+    "plonkit": "https://www.plonkit.net/denmark",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Long white plate + blue strip; commercial = **yellow**; **\"Parrot\" plates** (yellow section on the left) are unique to Denmark",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Denmark_License_Plate.png"
+    },
+    {
+     "cat": "country",
+     "text": "Generally **flat** with wide open fields; spacious suburbs, denser urban cores",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "General_Landscape.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "All-white lines, **double middle common**; **outer lines made of small white squares** — a great Denmark tell",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Blocky_Gapped_Outside_Road_Lines.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "Very unique **direction signs**: low to the ground, **pipe-framed**, red/white or blue/white with the arrow in the background",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Directional_Signs.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Street names end **-vej**; blue street sign, white text",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Street_Vej.png",
+     "type": "naming"
+    },
+    {
+     "cat": "country",
+     "text": "Unique **white bollard: yellow reflector + dark-orange stripe** (also a green variant); Belgium's lacks the orange stripe",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Bollard.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "country",
+     "text": "Danish letters **Æ Ø Å** (Norwegian same; Swedish uses Å Ä Ö instead)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "dk_language.png"
+    },
+    {
+     "cat": "country",
+     "text": "Architecture **red brick**, orange/brown/black tiled roofs; **thatched roofs** rural; timber-frame on historical buildings",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Architecture.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "Signpost with the **pipe frame bent around the sign** = unique to Denmark",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Signpost.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**Square B-type guardrails, no reflectors** — only a few European countries use this",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Guardrail.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Pedestrian sign **5 stripes**, first & fifth **touch the triangle edge**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Pedestrian_sign.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Red-and-white **chevrons**, often low to the ground; unique **town-entry sign** (red slash when leaving)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Chevron.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Street-level poles **rare** → mostly big **overhead power lines** near highways; bicycle paths common",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Large_Poles.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "**PostNord** postal boxes; gas brands Ingo / OK / Uno-X / YX (each shared with one neighbour)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "PostNord_Postal_Box.png",
+     "type": "general"
+    },
+    {
+     "cat": "state",
+     "text": "Road numbering runs **east→west**; roads 2–5 grouped by region; **Bornholm only has 1-roads**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Denmark_Road_Numbers.png",
+     "type": "naming"
+    },
+    {
+     "cat": "region",
+     "text": "**6 regional bus companies**, each with its own colour scheme + bus-stop sign",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Denmark_Bus_Companies.png",
+     "type": "general"
+    },
+    {
+     "cat": "special",
+     "text": "**Bornholm**: green/red/white bus stops + green bicycle signs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Area_-_Bornholm_Bus_Stop.png",
+     "type": "general"
+    },
+    {
+     "cat": "special",
+     "text": "**Læsø** island: traditional **seaweed (eelgrass) roofs**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "L_C3_A6s_C3_B8_Roof.png",
+     "type": "arch"
+    },
+    {
+     "cat": "special",
+     "text": "**Anholt** island: only **Gen2**, gloomy overcast, sandy dirt on the roadside",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Anholt_Generation_2.png",
+     "type": "landscape"
+    }
+   ]
+  },
+  {
+   "name": "Finland",
+   "slug": "finland",
+   "continent": "Europe",
+   "area_km2": 338455,
+   "links": {
+    "plonkit": "https://www.plonkit.net/finland",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "**Short** white plate + EU blue strip (Åland = short, fully white, no strip)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Finland_License_Plate.png"
+    },
+    {
+     "cat": "country",
+     "text": "Outer lines **always solid white** (Sweden/Norway use dashes); middle lines varied — yellow lines being **phased out**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Finland_road_lines_comp_2.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "Bollard: long black-and-white, **white rectangle reflector front + two dots back**, **diagonal** black strip",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Untitled_design6.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "country",
+     "text": "Snow poles orange w/ a **thin white band near the top** (single band; Norway/Sweden = wider, lower, multiple)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Finland_snowpole.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "country",
+     "text": "Finnish looks **unique**: long words, **double vowels**, letters **ä ö** (Estonian similar but adds õ ü)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "fi_language.png"
+    },
+    {
+     "cat": "country",
+     "text": "Street names end **-tie / -katu**; white street sign, black text",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Finland_street_sign.png",
+     "type": "naming"
+    },
+    {
+     "cat": "country",
+     "text": "Road signs **yellow background**; red-border signs have a **thin yellow stroke** on the edge (unique to Finland)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Finland-yellow-stroke.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Pedestrian signs have **5 stripes** (Sweden/Norway usually 4)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "FInland_Pedestrian_Signs.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Directional signs = **solid blue bg, white text + arrows**; chevrons black w/ yellow arrows",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Untitled_design4.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Wooden poles w/ streetlight, **lamp double-bolted at the top** (Sweden double too but lower & angled)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "fi_lamp.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Signposts often have **blue-and-white striped** markings",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Blue_and_white_signposts.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Dense **boreal forest** (pines + white-trunk **birches**); **Land of a Thousand Lakes** — water everywhere",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "2022-12-19_4.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Much Gen3 shot in **autumn** → distinct fall colours = good Finland tiebreaker vs other Nordics",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Autumn_vibe.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Architecture modern/utilitarian (concrete apartments downtown); wooden-clad suburbs, some dark-red painted",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Finland_architecture.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "**K-Market & S-Market** supermarkets operate only in Finland (recognisable logos)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Finnish_supermarkets.png",
+     "type": "general"
+    },
+    {
+     "cat": "country",
+     "text": "'Shitcam' (Ari) low-quality camera: wide circular blur, **no sky halo**, brownish tint — Finland (& Spain) have the most",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "fi_shitcam.png",
+     "type": "cars"
+    },
+    {
+     "cat": "state",
+     "text": "Regional roads **3–4 digit, first digit = region**, distributed **south→north** (1 south … 9 north)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Finland-road-numbering3.png",
+     "type": "naming"
+    },
+    {
+     "cat": "region",
+     "text": "**Swedish bilingual** signs on the south/west coast → don't guess inland; **Sámi** bilingual far north (alphabet uses **c**)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Finland-Swedish-bilingualism2.png",
+     "type": "language"
+    },
+    {
+     "cat": "region",
+     "text": "**Wind turbines** & most farmland concentrated along the **west/south coast**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Windmills_map.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "region",
+     "text": "**Lapland**: snow poles with **2 long reflectors** (2023+ coverage); small stunted spindly trees in the north",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Lapland_Snowpoles.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "special",
+     "text": "**Åland Islands**: monolingually **Swedish**, **red-tinted** pavement, **dashed** outer lines, short all-white plates",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Aland_-_Roads.png",
+     "type": "general"
+    },
+    {
+     "cat": "special",
+     "text": "City transit: **Helsinki** green-yellow trams + blue/white buses; **Tampere** red trams ('NYSSE' buses); **Turku** yellow buses; **Jyväskylä** green; **Oulu** pink front",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Helsinki_Tram_hint.png",
+     "type": "general"
+    }
+   ]
+  },
+  {
    "name": "France",
    "slug": "france",
    "continent": "Europe",
@@ -1681,6 +2111,247 @@
       "plonkit"
      ],
      "sv": null
+    }
+   ]
+  },
+  {
+   "name": "Norway",
+   "slug": "norway",
+   "continent": "Europe",
+   "area_km2": 385207,
+   "links": {
+    "plonkit": "https://www.plonkit.net/norway",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Very **mountainous, fjords** along most of the coast (Finland/Denmark flat; Sweden mixed)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_landscape.png"
+    },
+    {
+     "cat": "country",
+     "text": "Mostly **wooden houses**; many **red or black-painted**; Norway has more **white** houses & fewer brick than SE/FI",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_architecture.png"
+    },
+    {
+     "cat": "country",
+     "text": "Long white plate + EU strip; **green commercial plates** common on vans (green plates most-likely Norway in Europe)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_licenceplate.png"
+    },
+    {
+     "cat": "country",
+     "text": "Letters **Æ Ø Å** (Danish also; Swedish only Å); more E's than Swedish; Norwegian **kk** vs Swedish **ck**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_language.png"
+    },
+    {
+     "cat": "country",
+     "text": "Small roads = **long dashed white outer lines**; big roads solid + **orange-tinged yellow** middle; lines often dotted",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_roadlines.png"
+    },
+    {
+     "cat": "country",
+     "text": "Bollard: thin curved rectangle, reflector inside a **black parallelogram**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_bollard.png"
+    },
+    {
+     "cat": "country",
+     "text": "**Snow poles orange**, thin white reflector **mid-pole** (Sweden wider/higher; Finland at very top); wooden ones w/ painted reflectors",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_snowpole.png"
+    },
+    {
+     "cat": "country",
+     "text": "Guardrails often on **wooden posts** (not common in SE/FI)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_woodenguardrailsupport.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Pedestrian sign: **4 stripes**, simply-drawn person (Sweden detailed no hat; Finland 5 stripes)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_pedestriansign.png"
+    },
+    {
+     "cat": "country",
+     "text": "Road signs = **red outline + white background** (Sweden & Finland = yellow); chevrons yellow-on-black",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_roadsigns.png"
+    },
+    {
+     "cat": "country",
+     "text": "Directional signs **yellow + black border**; road # in green box (Euro/major) or white (minor); blue **M** signs on small roads",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_directionalsigns.png"
+    },
+    {
+     "cat": "country",
+     "text": "Wooden poles w/ small **black metal cap**; lamp mounted w/ **single bolt** (Sweden/Finland double)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_lamp.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Traditional houses often have **grass-covered roofs** (far rarer in SE/FI)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_grassroof.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "Street suffixes **-veien / -gata / -gate**; street signs **centred on top** of the post (Sweden = side/lamp)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_streetnames.png",
+     "type": "naming"
+    },
+    {
+     "cat": "state",
+     "text": "Road number **first digit = region**; small white signs show road # (prefix **R** = findable, **F**/Fv = hard) + distance",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_roadnumbers_darkmode.webp",
+     "type": "naming"
+    },
+    {
+     "cat": "region",
+     "text": "**Sámi bilingual signs** in the north — letters **Á Đ** and many vowels in a row",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_sami.png",
+     "type": "language"
+    },
+    {
+     "cat": "region",
+     "text": "Deep **fjords + tall mountains** between Bergen–Trondheim; sharp rocky treeless peaks on **Lofoten**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_fjordsregion.png"
+    },
+    {
+     "cat": "region",
+     "text": "Farmlands in 3 zones: **SE/Oslo** (flat, rolling forested hills), **Trondheim** (steep hilly), **Stavanger** (vast open, round rock walls, grass)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_farmlands.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "region",
+     "text": "**Black snow poles** most common between Bergen and Trondheim",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_blacksnowpoles.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "special",
+     "text": "**Oslo**: fairly large black or red pole plates; SE Norway = small wide black plates",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_osloblackredplate.png",
+     "type": "utility"
+    },
+    {
+     "cat": "special",
+     "text": "**Stavanger**: two **red stripes** around lamp posts",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_stavangerredstripes.png",
+     "type": "utility"
+    },
+    {
+     "cat": "special",
+     "text": "**Bergen**: distinctive green **fire hydrants**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_bergenfirehydrant.png",
+     "type": "utility"
+    },
+    {
+     "cat": "special",
+     "text": "**Russian border** (Kirkenes, E6/E105): humid green foggy road, thin birches/pines; Russian text on signs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_russianborder.png",
+     "type": "language"
+    },
+    {
+     "cat": "special",
+     "text": "**Røros**: densely-built traditional wooden mining town",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "no_roros.png",
+     "type": "arch"
     }
    ]
   },
@@ -2881,7 +3552,7 @@
   "Antarctica"
  ],
  "counts": {
-  "done": 20,
+  "done": 23,
   "total": 136
  }
 }
