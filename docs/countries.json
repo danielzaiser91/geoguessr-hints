@@ -2662,7 +2662,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Poland_License_Plate.png"
     },
     {
      "cat": "country",
@@ -2670,7 +2671,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Poland-bollard.png",
+     "type": "bollards"
     },
     {
      "cat": "country",
@@ -2678,7 +2681,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Poland-poles-comp2.png",
+     "type": "utility"
     },
     {
      "cat": "country",
@@ -2686,7 +2691,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Poland-yellow-sign2.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -2694,7 +2701,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Poland-pedestrian-sign.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -2702,7 +2711,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Poland-road-lines.png",
+     "type": "markings"
     },
     {
      "cat": "country",
@@ -2710,7 +2721,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "pl_language.png",
+     "type": "language"
     },
     {
      "cat": "country",
@@ -2718,7 +2731,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Poland-tree-lined-roads.png",
+     "type": "landscape"
     },
     {
      "cat": "state",
@@ -2726,7 +2741,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Poland-road-numbering2_nobg.png",
+     "type": "naming"
     },
     {
      "cat": "state",
@@ -2734,7 +2751,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Poland_Suffix_Map.png",
+     "type": "naming"
     },
     {
      "cat": "region",
@@ -2742,7 +2761,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Poland-southern-hills.png",
+     "type": "landscape"
     },
     {
      "cat": "state",
@@ -2750,7 +2771,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Poland_Bilingual_Signs_Infographic.png",
+     "type": "language"
     }
    ]
   },
@@ -2770,7 +2793,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "licenceplate.png"
     },
     {
      "cat": "country",
@@ -2778,7 +2802,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "cyrillic.png",
+     "type": "language"
     },
     {
      "cat": "country",
@@ -2786,7 +2812,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "bollardspam.png",
+     "type": "bollards"
     },
     {
      "cat": "country",
@@ -2794,7 +2822,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Russian_pole.png",
+     "type": "utility"
     },
     {
      "cat": "country",
@@ -2802,7 +2832,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "blackandwhiteguardrail.png",
+     "type": "utility"
     },
     {
      "cat": "country",
@@ -2810,7 +2842,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "gen3car.png",
+     "type": "cars"
     },
     {
      "cat": "region",
@@ -2818,7 +2852,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "birchtree.png",
+     "type": "landscape"
     },
     {
      "cat": "region",
@@ -2826,7 +2862,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "kamchatkalandscape.png",
+     "type": "landscape"
     },
     {
      "cat": "region",
@@ -2834,7 +2872,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "type": "cars"
     },
     {
      "cat": "state",
@@ -2842,7 +2881,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "type": "naming"
     },
     {
      "cat": "state",
@@ -2850,7 +2890,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "type": "naming"
     },
     {
      "cat": "state",
@@ -2858,7 +2899,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "kaliningradtrees.png",
+     "type": "landscape"
     },
     {
      "cat": "state",
@@ -2866,7 +2909,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "type": "language"
     }
    ]
   },
@@ -3115,7 +3159,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "spr_C3_A5k.png",
+     "type": "language"
     },
     {
      "cat": "country",
@@ -3123,7 +3169,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "vaglinje_motorvag.png",
+     "type": "markings"
     },
     {
      "cat": "country",
@@ -3131,7 +3179,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "chevron.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -3139,7 +3189,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "r_C3_B6dgulinfrastruktur.png",
+     "type": "utility"
     },
     {
      "cat": "country",
@@ -3147,7 +3199,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "pollare.png",
+     "type": "bollards"
     },
     {
      "cat": "country",
@@ -3155,7 +3209,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "motesplats.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -3163,7 +3219,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "vagnamn.png",
+     "type": "naming"
     },
     {
      "cat": "country",
@@ -3171,7 +3229,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "volvo.png",
+     "type": "cars"
     },
     {
      "cat": "country",
@@ -3179,7 +3239,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "gen4bil.png",
+     "type": "cars"
     },
     {
      "cat": "region",
@@ -3187,7 +3249,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "landskap.png",
+     "type": "landscape"
     },
     {
      "cat": "region",
@@ -3195,7 +3259,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "snostolpe.png",
+     "type": "bollards"
     }
    ]
   },
