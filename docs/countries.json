@@ -1848,7 +1848,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "it_licenceplate.png"
     },
     {
      "cat": "country",
@@ -1856,7 +1857,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "it_bollard.png",
+     "type": "bollards"
     },
     {
      "cat": "country",
@@ -1864,7 +1867,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "it_roadlines.png",
+     "type": "markings"
     },
     {
      "cat": "country",
@@ -1872,7 +1877,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "it_language.png",
+     "type": "language"
     },
     {
      "cat": "country",
@@ -1880,7 +1887,19 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "it_concretepole.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Directional signs **blue w/ white arrow, ALL CAPS**; Autostrade (motorway) signs green",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "it_directionalsign.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -1888,7 +1907,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "it_kmmarker.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -1896,7 +1917,19 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "it_roadnumbers.png",
+     "type": "naming"
+    },
+    {
+     "cat": "country",
+     "text": "Pastel stone houses w/ terracotta roofs; **Tuscany** = irregular brown-grey brick",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "it_architecture.png",
+     "type": "arch"
     },
     {
      "cat": "region",
@@ -1904,23 +1937,41 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "it_phonecodes.png",
+     "type": "naming"
     },
     {
      "cat": "state",
-     "text": "German bilingual signs → South Tyrol; French (\"via/rue\") → Aosta Valley; Slovene → near Slovenia border",
+     "area": "South Tyrol",
+     "text": "**German** bilingual signs (German majority) → South Tyrol / Alto Adige",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "it_german.png",
+     "type": "language"
+    },
+    {
+     "cat": "state",
+     "area": "Aosta Valley",
+     "text": "**French** bilingual signs (\"rue\") → Aosta Valley in the NW Alps",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "it_aostafrench.png",
+     "type": "language"
     },
     {
      "cat": "region",
-     "text": "**Po Valley** = dead flat + hazy air (north); Bari = olive groves + red dirt + rock walls (SE)",
+     "text": "**Po Valley** = dead flat + hazy air (north); Apulia (Bari) = olive groves + red dirt + rock walls (SE)",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "it_povalley.png",
+     "type": "landscape"
     },
     {
      "cat": "region",
@@ -1928,23 +1979,39 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "it_sicilylandscape.png",
+     "type": "landscape"
     },
     {
      "cat": "special",
-     "text": "**Trulli** (conical stone roofs) → Itria Valley / Alberobello; Tuscany = irregular brown-grey brick",
+     "text": "**Trulli** (conical stone roofs) → Itria Valley / Alberobello; Apulian flat-roof light houses",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "it_trullo.png",
+     "type": "arch"
     },
     {
      "cat": "special",
-     "text": "Volcanoes as landmarks: **Etna** → E Sicily, **Vesuvius** → Naples; Venice = canals everywhere",
+     "text": "Volcanoes as landmarks: **Etna** → E Sicily, **Vesuvius** → Naples; **Venice** = canals everywhere",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "it_etna.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "special",
+     "text": "**Slovene** bilingual signs near the Slovenian border (Friuli / Trieste)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "it_slovene.png",
+     "type": "language"
     }
    ]
   },
@@ -2211,7 +2278,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Netherlands_plate.png"
     },
     {
      "cat": "country",
@@ -2219,7 +2287,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Lack_of_utility_poles.png",
+     "type": "utility"
     },
     {
      "cat": "country",
@@ -2227,7 +2297,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Water_landscape.png",
+     "type": "landscape"
     },
     {
      "cat": "country",
@@ -2235,7 +2307,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Bicycle_path_2.png",
+     "type": "general"
     },
     {
      "cat": "country",
@@ -2243,15 +2317,19 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Rumble_strip_v2.png",
+     "type": "markings"
     },
     {
      "cat": "country",
-     "text": "Street signs **blue w/ white text**; street = straat (-weg, -laan, -plein); Dutch double vowels, ij/oe, \"IJ\" one letter",
+     "text": "Dutch: double vowels, ij/oe, \"IJ\" one letter; street = straat / -weg / -laan / -plein; signs blue w/ white text",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "nl_language.png",
+     "type": "language"
     },
     {
      "cat": "country",
@@ -2259,31 +2337,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
-    },
-    {
-     "cat": "region",
-     "text": "Landline area codes (3–4 digit) are geographically grouped → region",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null
-    },
-    {
-     "cat": "state",
-     "text": "N-road **hectometre markers** have province-specific designs → identify province",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null
-    },
-    {
-     "cat": "state",
-     "text": "**Frisian** language on some signs → Friesland (north); low hills → S. Limburg / De Veluwe (rare)",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null
+     "sv": null,
+     "img": "Road_marker.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -2291,7 +2347,61 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Row_houses.png",
+     "type": "arch"
+    },
+    {
+     "cat": "region",
+     "text": "Landline area codes (3–4 digit) are geographically grouped → region",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Area_codes_of_the_Netherlands.png",
+     "type": "naming"
+    },
+    {
+     "cat": "state",
+     "text": "N-road **hectometre markers** have province-specific designs → identify province",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Hectometer_roads_with_attribution.png",
+     "type": "naming"
+    },
+    {
+     "cat": "state",
+     "area": "Friesland",
+     "text": "**Frisian** language on some signs (vowels w/ circumflex Â Ê Ô Û) → Friesland (north)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Frisian_language.png",
+     "type": "language"
+    },
+    {
+     "cat": "state",
+     "area": "Limburg",
+     "text": "**Low rolling hills** (rare for NL) → Southern Limburg",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Limburg_hills.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "region",
+     "text": "West & north are **below sea level** → polder landscape (grid ditches); dunes line the North Sea coast",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Polder_landscape.png",
+     "type": "landscape"
     }
    ]
   },
@@ -2776,7 +2886,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Spain_License_Plate.png"
     },
     {
      "cat": "country",
@@ -2784,15 +2895,19 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Spain_bollards.png",
+     "type": "bollards"
     },
     {
      "cat": "country",
-     "text": "**Hunting signs** (\"coto…caza\" or black/white diagonal split) = Spain-unique; lots of high-voltage pylons",
+     "text": "**Hunting signs** (\"coto…caza\", black/white diagonal split) = Spain-unique; lots of high-voltage pylons",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Caza.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -2800,7 +2915,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "2022-12-11_11.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -2808,7 +2925,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Red_border.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -2816,7 +2935,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Ladder_and_wooden_poles.png",
+     "type": "utility"
     },
     {
      "cat": "country",
@@ -2824,7 +2945,19 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "es_language.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Rural roads may have **dashed outer lines** (helps vs Portugal/Italy where they're absent)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Dashed_road_lines.png",
+     "type": "markings"
     },
     {
      "cat": "state",
@@ -2832,7 +2965,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Spain-road-codes-small-version-v2_darkmode.png",
+     "type": "naming"
     },
     {
      "cat": "state",
@@ -2840,39 +2975,127 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Spain-telephone-codes__281_29_darkmode.png",
+     "type": "naming"
     },
     {
      "cat": "state",
+     "area": "Catalonia",
      "text": "**Catalan** (à, ç, \"i\" for and, street = carrer, \"Gual permanent\") → Catalonia / Valencia / Balearics",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "es_catalan_language.png",
+     "type": "language"
     },
     {
      "cat": "state",
-     "text": "Basque (x/k/tx heavy, non-Romance) → Basque Country/Navarre; Galician → NW (Galicia)",
+     "area": "Catalonia",
+     "text": "Big **square chevrons** with a single arrow common in Catalonia",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Catalan_chevron.png",
+     "type": "signs"
+    },
+    {
+     "cat": "state",
+     "area": "Basque Country",
+     "text": "**Basque** (x/k/tx heavy, non-Romance; street = kalea) → Basque Country & Navarre",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "es_basque_language.png",
+     "type": "language"
+    },
+    {
+     "cat": "state",
+     "area": "Galicia",
+     "text": "**Galician** (like Portuguese but uses ñ; street = **Rúa**, municipality = concello) → NW",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "es_galician_language.png",
+     "type": "language"
+    },
+    {
+     "cat": "state",
+     "area": "Galicia",
+     "text": "Unique granaries **\"hórreos\"** (raised stone/wood); plain concrete-block buildings",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Gal_horreos.png",
+     "type": "arch"
+    },
+    {
+     "cat": "state",
+     "area": "Asturias",
+     "text": "**Yellow snow poles** with 1–2 reflectors are unique to Asturias",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Asturias_snowpole_new.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "state",
+     "area": "Aragón",
+     "text": "Strip of **semi-desert** cutting Navarra→Aragón (white rocky soil; red soil in Teruel)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Aragon_semidesert.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "state",
+     "area": "Andalusia",
+     "text": "**White villages** on mountain faces; vast olive plantations; Sierra Nevada snow-capped Nov–May",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Malaga_style_villages.png",
+     "type": "arch"
     },
     {
      "cat": "region",
-     "text": "Diverse: dry Mediterranean plateaus & hills common; lush Atlantic green → far N (Galicia/Asturias)",
+     "text": "Diverse: dry Mediterranean plateaus & hills common; lush green Atlantic → far N (Galicia/Asturias)",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Spain_landscape_diversity.png",
+     "type": "landscape"
     },
     {
-     "cat": "region",
-     "text": "Rural roads may have **dashed outer lines** (helps vs Portugal/Italy where they're absent)",
+     "cat": "special",
+     "text": "**Canary Islands**: arid/volcanic (Lanzarote moon-like black soil); own bollards",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Spain-Lanzarote-moon-landscape.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "special",
+     "text": "**Ceuta & Melilla** (enclaves in N. Africa): black-and-white guardrails are unique to Ceuta",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Ceuta_guardrail.png",
+     "type": "general"
     }
    ]
   },

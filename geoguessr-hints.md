@@ -143,17 +143,25 @@ Study: [Plonk It](https://www.plonkit.net/spain)
 |---|---|---|---|
 | Country | Plate: long white, single **blue strip left** (Portugal = yellow strip right; Italy = two blue strips) | [P](https://www.plonkit.net/spain) |  |
 | Country | Bollard: yellow-orange front reflector + **two white dots on the back**, hollow | [P](https://www.plonkit.net/spain) |  |
-| Country | **Hunting signs** ("coto…caza" or black/white diagonal split) = Spain-unique; lots of high-voltage pylons | [P](https://www.plonkit.net/spain) |  |
+| Country | **Hunting signs** ("coto…caza", black/white diagonal split) = Spain-unique; lots of high-voltage pylons | [P](https://www.plonkit.net/spain) |  |
 | Country | Pedestrian crossing = **8 stripes** (most in Europe; else only Andorra) | [P](https://www.plonkit.net/spain) |  |
 | Country | Red sign borders run **to the edge** (France/Italy/Portugal keep a white edge); flat signposts | [P](https://www.plonkit.net/spain) |  |
 | Country | Ladder poles + French poletops; chevrons black/white or **blue/white** (blue = only Spain + France) | [P](https://www.plonkit.net/spain) |  |
 | Country | Spanish: **Ñ** (vs Portuguese ç/lh/-ão); street = **calle**; garage no-parking = "Vado permanente" | [P](https://www.plonkit.net/spain) |  |
-| Region | Diverse: dry Mediterranean plateaus & hills common; lush Atlantic green → far N (Galicia/Asturias) | [P](https://www.plonkit.net/spain) |  |
-| Region | Rural roads may have **dashed outer lines** (helps vs Portugal/Italy where they're absent) | [P](https://www.plonkit.net/spain) |  |
+| Country | Rural roads may have **dashed outer lines** (helps vs Portugal/Italy where they're absent) | [P](https://www.plonkit.net/spain) |  |
+| Region | Diverse: dry Mediterranean plateaus & hills common; lush green Atlantic → far N (Galicia/Asturias) | [P](https://www.plonkit.net/spain) |  |
 | State | **Regional road codes** on markers (SG = Segovia, etc.) → pinpoint province | [P](https://www.plonkit.net/spain) |  |
 | State | Area codes: 2 digits → very accurate; all landlines start with **9** | [P](https://www.plonkit.net/spain) |  |
 | State | **Catalan** (à, ç, "i" for and, street = carrer, "Gual permanent") → Catalonia / Valencia / Balearics | [P](https://www.plonkit.net/spain) |  |
-| State | Basque (x/k/tx heavy, non-Romance) → Basque Country/Navarre; Galician → NW (Galicia) | [P](https://www.plonkit.net/spain) |  |
+| State | Big **square chevrons** with a single arrow common in Catalonia | [P](https://www.plonkit.net/spain) |  |
+| State | **Basque** (x/k/tx heavy, non-Romance; street = kalea) → Basque Country & Navarre | [P](https://www.plonkit.net/spain) |  |
+| State | **Galician** (like Portuguese but uses ñ; street = **Rúa**, municipality = concello) → NW | [P](https://www.plonkit.net/spain) |  |
+| State | Unique granaries **"hórreos"** (raised stone/wood); plain concrete-block buildings | [P](https://www.plonkit.net/spain) |  |
+| State | **Yellow snow poles** with 1–2 reflectors are unique to Asturias | [P](https://www.plonkit.net/spain) |  |
+| State | Strip of **semi-desert** cutting Navarra→Aragón (white rocky soil; red soil in Teruel) | [P](https://www.plonkit.net/spain) |  |
+| State | **White villages** on mountain faces; vast olive plantations; Sierra Nevada snow-capped Nov–May | [P](https://www.plonkit.net/spain) |  |
+| Special | **Canary Islands**: arid/volcanic (Lanzarote moon-like black soil); own bollards | [P](https://www.plonkit.net/spain) |  |
+| Special | **Ceuta & Melilla** (enclaves in N. Africa): black-and-white guardrails are unique to Ceuta | [P](https://www.plonkit.net/spain) |  |
 
 ## Sweden
 Study: [Plonk It](https://www.plonkit.net/sweden)
@@ -277,14 +285,18 @@ Study: [Plonk It](https://www.plonkit.net/italy)
 | Country | Road lines often = white outer + **no middle line**; **double guardrails** common w/ red reflectors (Spain = yellow) | [P](https://www.plonkit.net/italy) |  |
 | Country | Italian: double consonants, lots of i's, words end in vowels; street = **via** | [P](https://www.plonkit.net/italy) |  |
 | Country | Round concrete poles (unusual for the Med) + concrete trident poletops; black/dark sign backs | [P](https://www.plonkit.net/italy) |  |
+| Country | Directional signs **blue w/ white arrow, ALL CAPS**; Autostrade (motorway) signs green | [P](https://www.plonkit.net/italy) |  |
 | Country | km markers: white square, **Roman numeral (100 m) over Arabic (km)**; "passo carrabile" no-parking signs | [P](https://www.plonkit.net/italy) |  |
 | Country | Road codes **SS / SR / SP** = State / Regional / Provincial; chevrons white-on-black | [P](https://www.plonkit.net/italy) |  |
+| Country | Pastel stone houses w/ terracotta roofs; **Tuscany** = irregular brown-grey brick | [P](https://www.plonkit.net/italy) |  |
 | Region | Area-code first digit generally increases **east then south** | [P](https://www.plonkit.net/italy) |  |
-| Region | **Po Valley** = dead flat + hazy air (north); Bari = olive groves + red dirt + rock walls (SE) | [P](https://www.plonkit.net/italy) |  |
+| Region | **Po Valley** = dead flat + hazy air (north); Apulia (Bari) = olive groves + red dirt + rock walls (SE) | [P](https://www.plonkit.net/italy) |  |
 | Region | Sicily = arid hilly + rocky mtns; Sardinia = grey rocks poking up (NE); cacti → far south | [P](https://www.plonkit.net/italy) |  |
-| State | German bilingual signs → South Tyrol; French ("via/rue") → Aosta Valley; Slovene → near Slovenia border | [P](https://www.plonkit.net/italy) |  |
-| Special | **Trulli** (conical stone roofs) → Itria Valley / Alberobello; Tuscany = irregular brown-grey brick | [P](https://www.plonkit.net/italy) |  |
-| Special | Volcanoes as landmarks: **Etna** → E Sicily, **Vesuvius** → Naples; Venice = canals everywhere | [P](https://www.plonkit.net/italy) |  |
+| State | **German** bilingual signs (German majority) → South Tyrol / Alto Adige | [P](https://www.plonkit.net/italy) |  |
+| State | **French** bilingual signs ("rue") → Aosta Valley in the NW Alps | [P](https://www.plonkit.net/italy) |  |
+| Special | **Trulli** (conical stone roofs) → Itria Valley / Alberobello; Apulian flat-roof light houses | [P](https://www.plonkit.net/italy) |  |
+| Special | Volcanoes as landmarks: **Etna** → E Sicily, **Vesuvius** → Naples; **Venice** = canals everywhere | [P](https://www.plonkit.net/italy) |  |
+| Special | **Slovene** bilingual signs near the Slovenian border (Friuli / Trieste) | [P](https://www.plonkit.net/italy) |  |
 
 ## United Kingdom
 Study: [Plonk It](https://www.plonkit.net/united-kingdom)
@@ -360,12 +372,14 @@ Study: [Plonk It](https://www.plonkit.net/netherlands)
 | Country | Water everywhere: canals, ditches, dikes, bridges; windmills (old & wind turbines) | [P](https://www.plonkit.net/netherlands) |  |
 | Country | **Bike paths everywhere** (reddish-pink lanes) + tons of cyclists; brick roads common | [P](https://www.plonkit.net/netherlands) |  |
 | Country | Brick **rumble strip** on rural road edges (~unique); speed bumps w/ long/short white stripes | [P](https://www.plonkit.net/netherlands) |  |
-| Country | Street signs **blue w/ white text**; street = straat (-weg, -laan, -plein); Dutch double vowels, ij/oe, "IJ" one letter | [P](https://www.plonkit.net/netherlands) |  |
+| Country | Dutch: double vowels, ij/oe, "IJ" one letter; street = straat / -weg / -laan / -plein; signs blue w/ white text | [P](https://www.plonkit.net/netherlands) |  |
 | Country | Road markers **green**: **A-road = red box** (highway), **N-road = yellow box** (regional); sign edges wrap to the back | [P](https://www.plonkit.net/netherlands) |  |
 | Country | Row houses ≈ half of housing (very high); red-brown brick, orange/grey tiles | [P](https://www.plonkit.net/netherlands) |  |
 | Region | Landline area codes (3–4 digit) are geographically grouped → region | [P](https://www.plonkit.net/netherlands) |  |
+| Region | West & north are **below sea level** → polder landscape (grid ditches); dunes line the North Sea coast | [P](https://www.plonkit.net/netherlands) |  |
 | State | N-road **hectometre markers** have province-specific designs → identify province | [P](https://www.plonkit.net/netherlands) |  |
-| State | **Frisian** language on some signs → Friesland (north); low hills → S. Limburg / De Veluwe (rare) | [P](https://www.plonkit.net/netherlands) |  |
+| State | **Frisian** language on some signs (vowels w/ circumflex Â Ê Ô Û) → Friesland (north) | [P](https://www.plonkit.net/netherlands) |  |
+| State | **Low rolling hills** (rare for NL) → Southern Limburg | [P](https://www.plonkit.net/netherlands) |  |
 
 # North America
 
