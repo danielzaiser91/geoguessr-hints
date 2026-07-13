@@ -1,0 +1,16 @@
+{
+ "name": "China",
+ "slug": "china",
+ "continent": "Asia",
+ "area_km2": 9596960,
+ "links": { "plonkit": "https://www.plonkit.net/china", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Mainland = **tripod coverage** only (motion blur, saturated colours), no car (HK & Macau have car coverage)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "**Simplified** Chinese characters (Traditional → Taiwan/HK/Macau)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Plates **blue with white text**", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Coverage = small spots near east-coast cities (Beijing, Shanghai, Shenzhen, Chengdu, Yangzhou); much is inside museums / ancient cities", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "Plate 1st character = province indicator (京 Beijing, 沪 Shanghai, 粤 Guangdong…) — learnable", "src": ["plonkit"], "sv": null },
+  { "cat": "special", "text": "Forbidden City / Palace Museum = central Beijing; Zhoucun = only pinpointable ancient city (straight N–S street)", "src": ["plonkit"], "sv": null },
+  { "cat": "special", "text": "Museum tells the city: Hubei (Wuhan, palace grey roofs), Suzhou (white/grey angular), Long Museum (Shanghai, boxy concrete)", "src": ["plonkit"], "sv": null }
+ ]
+}

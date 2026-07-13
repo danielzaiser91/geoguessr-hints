@@ -1,0 +1,25 @@
+{
+ "name": "Canada",
+ "slug": "canada",
+ "continent": "North America",
+ "area_km2": 9984670,
+ "links": { "plonkit": "https://www.plonkit.net/canada", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Speed signs say **\"MAXIMUM\"** (US = \"SPEED LIMIT\"); km/h, higher numbers", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "British English (centre, colour) + metric; less wordy signs than US", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "**Diamond-shaped T-intersection sign = Canada only** (US uses rectangular)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Usually **single** yellow centre line (US = more double yellow)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Lots of **Gen2** (rural/remote) → if Gen2 in N. America, likely Canada; Gen3 mirror = two peaks (US single)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Canada Post **red** logo; communal mailboxes (rare in US, USPS = blue)", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "**Alberta bollard**: cylindrical, 2 black bands (white/yellow between); very common at intersections", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "**BC bollard**: thin, slightly curved, black+white (esp. Vancouver Island)", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "**NWT bollard**: cylindrical w/ 2 *thick* black bands (AB bands are thinner)", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "Manitoba: black+grey bollard w/ orange stripe", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "**French majority → Québec** + parts of New Brunswick; \"Arrêt\" stop sign = QC only; \"Stop/Arrêt\" bilingual = NB", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "Québec: white guardrail bollards w/ red/green reflector; yellow fire-hydrant markers on signposts", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "Ontario: km markers w/ white square at bottom (unique); diamond roadside markers", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "Saskatchewan: alternating pole-top insulators (1L/2R then 2L/1R); white triangles on posts", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "BC: green sign backsides; PEI/Nova Scotia transformers mounted at 45°", "src": ["plonkit"], "sv": null },
+  { "cat": "special", "text": "**Alberta rural roads numbered sequentially** (Twp Rd / Range Rd) → near-exact location from a sign", "src": ["plonkit"], "sv": null }
+ ]
+}

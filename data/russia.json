@@ -1,0 +1,22 @@
+{
+ "name": "Russia",
+ "slug": "russia",
+ "continent": "Europe",
+ "area_km2": 17098246,
+ "links": { "plonkit": "https://www.plonkit.net/russia", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Plates **fully white, black text** (Europe usu. has blue strip)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Cyrillic w/ **Ы Э Ё Ъ**; улица = street (ул.), город = city (г.)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Many bollards + unusually **wide intersections**", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Square concrete poles (also post-Soviet states); concrete support blocks at pole base", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "B&W striped guardrails / kerbs / pole shields", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Gen3: black or white car w/ **long antenna**; pedestrian crossings = alternating white+yellow stripes", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Birch everywhere; **larch** more common further east (Siberia)", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Kamchatka = grey volcanic soil + volcanoes; Caucasus mtns → south (Dagestan dry/flat)", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "RHD Japanese cars more common **east of Novosibirsk**", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "Area codes: **8-** = west, **3-** = central, **4-** = east/Moscow", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "Gen3 unblurred plate regional code (right side): 01 = Adygea … learnable list", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "Omsk = birch patches in green farm fields (summer Gen4); Kaliningrad = white-striped lined oaks", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "Bilingual signs (Tatar, Bashkir…) → Tatarstan / Bashkortostan", "src": ["plonkit"], "sv": null }
+ ]
+}

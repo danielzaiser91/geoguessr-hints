@@ -1,0 +1,22 @@
+{
+ "name": "France",
+ "slug": "france",
+ "continent": "Europe",
+ "area_km2": 551695,
+ "links": { "plonkit": "https://www.plonkit.net/france", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Plates: long white, **blue strips both sides** (left more visible) — Italy has equal strips + shorter front plate", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "French: é à è â ê î ô û, œ, ç; **-ux** suffix only French; street = **rue**", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "**French bollard**: round white, **pointed top**, reflector band all around (Scotland's is blunt-topped)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "**Waffle/ladder poles** (step indents; also Spain) + small **blue plates** on poles (France-unique) + diamond \"French poletops\"", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "**Yellow \"D\" road-number signs** = France only; town-entry signs red border w/ thin white outline", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Chevrons **white-on-blue** (only France + Spain; Spain uses only 2 or 4 arrows)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Middle-line dashes = **two offset blocks** → France; blue house numbers (Italy rarely blue)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Peugeot / Renault / Citroën ≈ half of all cars; smallcam (most of W. Europe)", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "**Postal code first 2 digits = department number** (alphabetical); also inside the right blue plate strip", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "Phone: **01 = Île-de-France**, 02–05 run clockwise from the NW", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "**Department logos** on bus stops / km markers / signbacks → identify department", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Stone houses, gable roofs w/ orange tiles (S) or black slate (N); very diverse regional architecture", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Regional languages appear (Breton NW, Alsatian E, Occitan/Basque/Catalan S)", "src": ["plonkit"], "sv": null }
+ ]
+}

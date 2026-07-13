@@ -1,0 +1,22 @@
+{
+ "name": "Mexico",
+ "slug": "mexico",
+ "continent": "North America",
+ "area_km2": 1964375,
+ "links": { "plonkit": "https://www.plonkit.net/mexico", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "**Octagonal concrete poles** (also Colombia); short plates, front plate required", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Small **white cylindrical bollards w/ black base** = Mexico-unique; white outer + single yellow middle lines", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Stop sign **\"ALTO\"** (S. America + PR = \"PARE\"; also PA/CR/GT use ALTO)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Cacti everywhere; thick arrows on signs; yellow accents on kerbs; rooftop cylindrical water tanks", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "**OXXO** & **Pemex** stations; Nahuatl place names (lots of x, tl, -tlan, -ec)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Has **Gen2** (rare in Latin America); Gen3 white car w/ stubby coiled antenna; US pickups common", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "Area-code 1st digit = region; postal codes ordered alphabetically by state name", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "**Blue agave fields → Jalisco/Nayarit** (tequila); Mexican Giant Cardon cactus → Baja California", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Saguaro cactus → Sonora; **boojum trees** (tentacle-like) → southern Baja California", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Monterrey = tall mountains ringing the city; blinding **white soil → Yucatán** (Quintana Roo)", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Red brick buildings → states west of CDMX (Jalisco, Michoacán, Guanajuato)", "src": ["plonkit"], "sv": null },
+  { "cat": "special", "text": "**Jalisco bollards** have crown + \"Jalisco\" text (only Mexican bollard with writing)", "src": ["plonkit"], "sv": null },
+  { "cat": "special", "text": "Bollards w/ red band near top → Nayarit; thick cross on sign backs → Chihuahua", "src": ["plonkit"], "sv": null }
+ ]
+}

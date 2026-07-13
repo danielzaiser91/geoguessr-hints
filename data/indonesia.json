@@ -1,0 +1,22 @@
+{
+ "name": "Indonesia",
+ "slug": "indonesia",
+ "continent": "Asia",
+ "area_km2": 1904569,
+ "links": { "plonkit": "https://www.plonkit.net/indonesia", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Plates **black w/ white letters** (3 white sections through blur); commercial = yellow; newer = white (Malaysia = 2 sections)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Drives on the **left**; **motorcycles have front plates** (unique in SE Asia)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "**Red-and-white banners** everywhere; cigarette ads (word **PERINGATAN**, ~18,000 Rp)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Yellow **waystones** angled toward road w/ cutout naming 3 towns (Philippines = perpendicular, text away)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Language Dutch-influenced: **televisi** (Malay = televisyen); currency Rupiah (Rp)", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "**No coverage on Papua**; sparse Kalimantan/Aceh/Central Sulawesi", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "**Kabupaten (Kab.)** regency names on signs → pinpoint region (learnable)", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Postal codes: **1xxxx = Jakarta → 9xxxx = Maluku/Papua** (west→east)", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Satellite-dish angle → which side of equator + how far (points to W. Kalimantan)", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Oil palm → Sumatra/Kalimantan; rice → Java; Nusa (Lesser Sunda) drier & shrubbier", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "**Bali**: crown-like roof pinnacles, Hindu temples, dark andesite stone; blue horizontal pole text", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "Cardinal words in addresses: Utara(N) Timur(E) Selatan(S) Barat(W) Tengah(C)", "src": ["plonkit"], "sv": null },
+  { "cat": "special", "text": "Red soil w/ white-soil layer spilling on road → Bangka Belitung islands", "src": ["plonkit"], "sv": null }
+ ]
+}

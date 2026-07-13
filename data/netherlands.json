@@ -1,0 +1,20 @@
+{
+ "name": "Netherlands",
+ "slug": "netherlands",
+ "continent": "Europe",
+ "area_km2": 41850,
+ "links": { "plonkit": "https://www.plonkit.net/netherlands", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Plates long **yellow** + blue strip left (Europe yellow = only NL, Luxembourg, UK-back)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "**Essentially no street-level utility poles** (Belgium has them); extraordinarily **flat** land", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Water everywhere: canals, ditches, dikes, bridges; windmills (old & wind turbines)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "**Bike paths everywhere** (reddish-pink lanes) + tons of cyclists; brick roads common", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Brick **rumble strip** on rural road edges (~unique); speed bumps w/ long/short white stripes", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Street signs **blue w/ white text**; street = straat (-weg, -laan, -plein); Dutch double vowels, ij/oe, \"IJ\" one letter", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Road markers **green**: **A-road = red box** (highway), **N-road = yellow box** (regional); sign edges wrap to the back", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Landline area codes (3–4 digit) are geographically grouped → region", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "N-road **hectometre markers** have province-specific designs → identify province", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "**Frisian** language on some signs → Friesland (north); low hills → S. Limburg / De Veluwe (rare)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Row houses ≈ half of housing (very high); red-brown brick, orange/grey tiles", "src": ["plonkit"], "sv": null }
+ ]
+}

@@ -1,0 +1,2197 @@
+{
+ "countries": [
+  {
+   "name": "Argentina",
+   "slug": "argentina",
+   "continent": "South America",
+   "area_km2": 2780400,
+   "links": {
+    "plonkit": "https://www.plonkit.net/argentina",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plate: black w/ **black dot** in middle (**AR only**), or white w/ blue top bar (blue bar also Brazil)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Gen3 **black car** (S. America: only AR/PE/UY); smallcam exists (AR/PE/BR)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "**White-and-red chevrons** (only country in the Americas with these)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Round concrete poles (3 lines, alternating) + doubled poles; **wooden A-frame poles** (only AR in S. America)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "km markers white w/ black top strip: **RN** = national, **RP** = provincial road",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Default vibe: flat, treeless, sparsely populated, \"wide open\" & desolate",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Far **west** mountainous (Andes); east rarely has mountains",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "**Red soil → Misiones** (Brazil-like); Chaco/Formosa = sandy soil + low bushes",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "**Cardón cactus** (candelabra) → NW mountains (Salta, Jujuy, Catamarca, Tucumán)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Tierra del Fuego: flat grass + beech forest; Neuquén = flat w/ single poplar rows",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Pampas grass → Pampas; sugarcane → Tucumán",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Vineyards + mountains west + flat east → **Mendoza** wine region",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "special",
+     "text": "Salt pans → Jujuy; red bricks (Bolivia-like) → NW (western Jujuy)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    }
+   ]
+  },
+  {
+   "name": "Australia",
+   "slug": "australia",
+   "continent": "Oceania",
+   "area_km2": 7692024,
+   "links": {
+    "plonkit": "https://www.plonkit.net/australia",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "**Eucalyptus (gum) trees** everywhere, light bark; drives on the **left**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Bollard: white, **red reflector front / grey back** (NZ = red wraps around the back)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Almost all **white** road lines — yellow lines → South Africa or NZ instead",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Give-way sign: white border + **black** text (NZ = red text); speed sign red circle on white rectangle (NZ = no rectangle)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Gen3 = long antenna; chevrons white-on-black & black-on-yellow",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**Stobie pole** (steel + concrete) = **South Australia** (iconic)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Rusty metal poles w/ holes = **Northern Territory**; 130 km/h speed limit = NT only",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**Yellow signposts = Western Australia**; ~64% of concrete poles → Victoria",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**Red 'No Stopping' signs = NSW only** (others white)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "'C' roads only in Victoria & Tasmania; fluorescent-border road signs → Queensland",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Darwin (NT): dark red soil, black tree trunks; termite mounds → NT",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Tasmania: cool temperate green rolling hills (like NZ/S. Chile)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Coastal N. Queensland tropical: palms + sugarcane; inland NSW flat, redder soil further inland",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Bus-stop designs unique per state (Darwin = concrete shelters; Tasmania say 'metro')",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "special",
+     "text": "Snorkel rare cars → NSW/ACT (2 in WA); Christmas I. & Cocos count as Australia for streaks",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    }
+   ]
+  },
+  {
+   "name": "Brazil",
+   "slug": "brazil",
+   "continent": "South America",
+   "area_km2": 8515767,
+   "links": {
+    "plonkit": "https://www.plonkit.net/brazil",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plate: white + **blue top stripe** (since 2018); red = commercial",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "**Portuguese**: -ão (not -ón), -nh (not -ñ), -lh (not -ll)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "**Red soil** across most of the country (not NE, not most of Rio Grande do Sul)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "\"Ladder\" poles: rectangular, small holes near top (also Paraguay)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Road-sign backs painted **black** (also Paraguay)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Chevrons **yellow-on-black** (rest of S. America uses black-on-yellow)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Roads: double yellow centre + white outer lines; white painted kerbs common",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Transparent satellite dishes (unique in Latin America); blue Fortlev roof water tanks",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Gen3 car: white, stubby antenna w/ diagonal coil (also EC/CO/MX); smallcam exists (only BR/PE/AR in S. America)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Coverage mostly eastern half; Amazon very sparse",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "NE = Caatinga: dry soil, shrubs, succulents",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Paraná pines (araucaria, flat-top branches) → south: PR, SC, RS",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Carnaúba palms (fan leaves, spiked lower trunk) → CE, PI, RN",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Area codes (DDD) grouped by 1st digit; ending in **1** = state capital",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "2-letter state acronyms on km markers / state road numbers",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "CEP postcode first 2 digits: numbering runs anti-clockwise from São Paulo → ends Rio Grande do Sul",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Round concrete poles → south (esp. São Paulo); wooden poles → RS, Roraima, Amazonas, RJ",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Roraima: open grassy plains, distant mountains, thin bunched grass",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "special",
+     "text": "\"Brown mushroom\" insulators → only Pernambuco; \"white mushroom\" → Bahia",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "special",
+     "text": "\"Pencil pole\" (smooth cone top) → Rio de Janeiro; pole street-names painted → Paraná",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    }
+   ]
+  },
+  {
+   "name": "Canada",
+   "slug": "canada",
+   "continent": "North America",
+   "area_km2": 9984670,
+   "links": {
+    "plonkit": "https://www.plonkit.net/canada",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Speed signs say **\"MAXIMUM\"** (US = \"SPEED LIMIT\"); km/h, higher numbers",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "British English (centre, colour) + metric; less wordy signs than US",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "**Diamond-shaped T-intersection sign = Canada only** (US uses rectangular)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Usually **single** yellow centre line (US = more double yellow)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Lots of **Gen2** (rural/remote) → if Gen2 in N. America, likely Canada; Gen3 mirror = two peaks (US single)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Canada Post **red** logo; communal mailboxes (rare in US, USPS = blue)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**Alberta bollard**: cylindrical, 2 black bands (white/yellow between); very common at intersections",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**BC bollard**: thin, slightly curved, black+white (esp. Vancouver Island)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**NWT bollard**: cylindrical w/ 2 *thick* black bands (AB bands are thinner)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Manitoba: black+grey bollard w/ orange stripe",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**French majority → Québec** + parts of New Brunswick; \"Arrêt\" stop sign = QC only; \"Stop/Arrêt\" bilingual = NB",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Québec: white guardrail bollards w/ red/green reflector; yellow fire-hydrant markers on signposts",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Ontario: km markers w/ white square at bottom (unique); diamond roadside markers",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Saskatchewan: alternating pole-top insulators (1L/2R then 2L/1R); white triangles on posts",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "BC: green sign backsides; PEI/Nova Scotia transformers mounted at 45°",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "special",
+     "text": "**Alberta rural roads numbered sequentially** (Twp Rd / Range Rd) → near-exact location from a sign",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    }
+   ]
+  },
+  {
+   "name": "China",
+   "slug": "china",
+   "continent": "Asia",
+   "area_km2": 9596960,
+   "links": {
+    "plonkit": "https://www.plonkit.net/china",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Mainland = **tripod coverage** only (motion blur, saturated colours), no car (HK & Macau have car coverage)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "**Simplified** Chinese characters (Traditional → Taiwan/HK/Macau)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Plates **blue with white text**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Coverage = small spots near east-coast cities (Beijing, Shanghai, Shenzhen, Chengdu, Yangzhou); much is inside museums / ancient cities",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Plate 1st character = province indicator (京 Beijing, 沪 Shanghai, 粤 Guangdong…) — learnable",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "special",
+     "text": "Forbidden City / Palace Museum = central Beijing; Zhoucun = only pinpointable ancient city (straight N–S street)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "special",
+     "text": "Museum tells the city: Hubei (Wuhan, palace grey roofs), Suzhou (white/grey angular), Long Museum (Shanghai, boxy concrete)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    }
+   ]
+  },
+  {
+   "name": "France",
+   "slug": "france",
+   "continent": "Europe",
+   "area_km2": 551695,
+   "links": {
+    "plonkit": "https://www.plonkit.net/france",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plates: long white, **blue strips both sides** (left more visible) — Italy has equal strips + shorter front plate",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "French: é à è â ê î ô û, œ, ç; **-ux** suffix only French; street = **rue**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "**French bollard**: round white, **pointed top**, reflector band all around (Scotland's is blunt-topped)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "**Waffle/ladder poles** (step indents; also Spain) + small **blue plates** on poles (France-unique) + diamond \"French poletops\"",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "**Yellow \"D\" road-number signs** = France only; town-entry signs red border w/ thin white outline",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Chevrons **white-on-blue** (only France + Spain; Spain uses only 2 or 4 arrows)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Middle-line dashes = **two offset blocks** → France; blue house numbers (Italy rarely blue)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Peugeot / Renault / Citroën ≈ half of all cars; smallcam (most of W. Europe)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**Postal code first 2 digits = department number** (alphabetical); also inside the right blue plate strip",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Phone: **01 = Île-de-France**, 02–05 run clockwise from the NW",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**Department logos** on bus stops / km markers / signbacks → identify department",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Stone houses, gable roofs w/ orange tiles (S) or black slate (N); very diverse regional architecture",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Regional languages appear (Breton NW, Alsatian E, Occitan/Basque/Catalan S)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    }
+   ]
+  },
+  {
+   "name": "Germany",
+   "slug": "germany",
+   "continent": "Europe",
+   "area_km2": 357022,
+   "links": {
+    "plonkit": "https://www.plonkit.net/germany",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "All car coverage = **Gen4**; **bollard roughly every 50 m** (B&W, white/grey reflectors, orange at intersections)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "German: **Ä Ö Ü ß**; Luxembourg has near-identical bollards but **3 bolts** (Germany = 2)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "**Yellow town-entry signs** (black text, metal frame) = town / municipality / county",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "**\"Einbahnstraße\"** one-way sign = Germany (Austria = \"EINBAHN\"); yellow mailboxes",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "km markers: **blue = Autobahn (A-road)**, white w/ black border = B/local; black/dark sign backs (also IT/RO/AL)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "**Wind turbines** far more common than anywhere else in Europe; green windshield sticker (\"4\")",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Elevation: NW very flat · centre hilly · **south = Alps** (Austrian border)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**Postal codes counter-clockwise: 0 = Saxony (E) → 9 = N. Bavaria**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Place-name suffixes: **-ow / -itz = east** (Slavic); **-weiler / -ach = south**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "\"Commie blocks\" (socialist-era apartments) → former **East** Germany",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Brick houses → NW; thatched roofs + rock walls → Schleswig-Holstein / N. Frisian islands; vineyards → SW",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Bavaria: white 3-section road markers + round wooden bollards; black-disk bollard bases → all of eastern Germany",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Roadside post styles differ by state (rocky unpainted → Rhineland-Palatinate/Saxony; tall white → Saarland/Thuringia)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    }
+   ]
+  },
+  {
+   "name": "India",
+   "slug": "india",
+   "continent": "Asia",
+   "area_km2": 3287263,
+   "links": {
+    "plonkit": "https://www.plonkit.net/india",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Mostly **\"shitcam\"** (brownish colours, big circular blur); Gen4 = smallcam; drives on the **left**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Plates: long, usually **white**; commercial = **yellow**, EV = **green**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "**B&W striped signposts** (also BD/NP/LK); poles almost always concrete/metal (wood v. rare); common = square concrete pole w/ trident top",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "English on much signage; many regional scripts (best region tool → below)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**Devanagari** (bar across top of words) = Hindi → central/north; Marathi (has ळ) → Maharashtra",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**Gujarati** = like Hindi but **no top bar** → Gujarat",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**Bengali** (left-facing triangles) → West Bengal/NE (& Bangladesh); Assamese variant (ৰ ৱ) → Assam",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**Kannada** (curves + small circles) → Karnataka; **Telugu** (checkmark diacritics on top) → Telangana/Andhra",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**Tamil** (curves + 90° angles) → Tamil Nadu (& Sri Lanka); **Malayalam** (upside-down U shapes) → Kerala",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**Oriya** (round \"skull-emoji\" tops) → Odisha; **Punjabi** (broken top bar, soft letters) → Punjab",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Meghalaya = almost exclusively **English**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**Holey concrete poles** = Gujarat; yellow tuk-tuks w/ black roofs → south (TG/AP/TN)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Pole paint: **5+ thin** black/yellow stripes → Delhi; **exactly 4 thick** → Bihar",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Gurdwaras (white domes, Khanda symbol) → Punjab; bright flat orange ridged roof tiles → Tamil Nadu",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    }
+   ]
+  },
+  {
+   "name": "Indonesia",
+   "slug": "indonesia",
+   "continent": "Asia",
+   "area_km2": 1904569,
+   "links": {
+    "plonkit": "https://www.plonkit.net/indonesia",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plates **black w/ white letters** (3 white sections through blur); commercial = yellow; newer = white (Malaysia = 2 sections)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Drives on the **left**; **motorcycles have front plates** (unique in SE Asia)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "**Red-and-white banners** everywhere; cigarette ads (word **PERINGATAN**, ~18,000 Rp)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Yellow **waystones** angled toward road w/ cutout naming 3 towns (Philippines = perpendicular, text away)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Language Dutch-influenced: **televisi** (Malay = televisyen); currency Rupiah (Rp)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "**No coverage on Papua**; sparse Kalimantan/Aceh/Central Sulawesi",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "**Kabupaten (Kab.)** regency names on signs → pinpoint region (learnable)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Postal codes: **1xxxx = Jakarta → 9xxxx = Maluku/Papua** (west→east)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Satellite-dish angle → which side of equator + how far (points to W. Kalimantan)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Oil palm → Sumatra/Kalimantan; rice → Java; Nusa (Lesser Sunda) drier & shrubbier",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**Bali**: crown-like roof pinnacles, Hindu temples, dark andesite stone; blue horizontal pole text",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Cardinal words in addresses: Utara(N) Timur(E) Selatan(S) Barat(W) Tengah(C)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "special",
+     "text": "Red soil w/ white-soil layer spilling on road → Bangka Belitung islands",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    }
+   ]
+  },
+  {
+   "name": "Italy",
+   "slug": "italy",
+   "continent": "Europe",
+   "area_km2": 301340,
+   "links": {
+    "plonkit": "https://www.plonkit.net/italy",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plate: two blue strips + **short front plate** (unique; Albania has 2 strips but not short)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "**Triangular** bollard, white w/ black top, red front / white rear (Albania identical)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Road lines often = white outer + **no middle line**; **double guardrails** common w/ red reflectors (Spain = yellow)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Italian: double consonants, lots of i's, words end in vowels; street = **via**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Round concrete poles (unusual for the Med) + concrete trident poletops; black/dark sign backs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "km markers: white square, **Roman numeral (100 m) over Arabic (km)**; \"passo carrabile\" no-parking signs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Road codes **SS / SR / SP** = State / Regional / Provincial; chevrons white-on-black",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Area-code first digit generally increases **east then south**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "German bilingual signs → South Tyrol; French (\"via/rue\") → Aosta Valley; Slovene → near Slovenia border",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "**Po Valley** = dead flat + hazy air (north); Bari = olive groves + red dirt + rock walls (SE)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Sicily = arid hilly + rocky mtns; Sardinia = grey rocks poking up (NE); cacti → far south",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "special",
+     "text": "**Trulli** (conical stone roofs) → Itria Valley / Alberobello; Tuscany = irregular brown-grey brick",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "special",
+     "text": "Volcanoes as landmarks: **Etna** → E Sicily, **Vesuvius** → Naples; Venice = canals everywhere",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    }
+   ]
+  },
+  {
+   "name": "Japan",
+   "slug": "japan",
+   "continent": "Asia",
+   "area_km2": 377975,
+   "links": {
+    "plonkit": "https://www.plonkit.net/japan",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "**Low-cam** (camera looks down, road looks wide) — only other always-low-cam = Switzerland (blurred there)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Drives **left**; writing = kanji + hiragana (loopy, soft) + katakana (geometric, loan words)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Plates: short white w/ **green text**; Kei cars = **yellow w/ black text**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Round concrete poles w/ screw-like extensions + info plates (region key); road lines **never yellow on the outside**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Prefecture roads = **hexagonal shields** (kanji under the number); distinctive red inverted-triangle stop sign; traffic mirrors; rural retaining walls",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "**Area codes increase toward the south**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Learn place-name kanji: 県 (prefecture), 市 (city), 北/南/東/西 (N/S/E/W) → fast city finding",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "4 main islands N→S: Hokkaidō, Honshū, Shikoku, Kyūshū; 47 prefectures",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Pole plates, reflectors, guy-wires & transformer mounting styles differ per region (Hokkaidō, Tōhoku, Kantō, Kansai…) — strong pinpoint tools",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Orange arrow above top pole plate → Chūgoku; orange/black pole bands → Shikoku",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Hokkaidō = wide flat grid farmland, snow; subtropical dense green → Kyūshū/Okinawa",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "special",
+     "text": "Bollards may have the city/prefecture written in kanji → near-pinpoint",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    }
+   ]
+  },
+  {
+   "name": "Mexico",
+   "slug": "mexico",
+   "continent": "North America",
+   "area_km2": 1964375,
+   "links": {
+    "plonkit": "https://www.plonkit.net/mexico",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "**Octagonal concrete poles** (also Colombia); short plates, front plate required",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Small **white cylindrical bollards w/ black base** = Mexico-unique; white outer + single yellow middle lines",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Stop sign **\"ALTO\"** (S. America + PR = \"PARE\"; also PA/CR/GT use ALTO)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Cacti everywhere; thick arrows on signs; yellow accents on kerbs; rooftop cylindrical water tanks",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "**OXXO** & **Pemex** stations; Nahuatl place names (lots of x, tl, -tlan, -ec)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Has **Gen2** (rare in Latin America); Gen3 white car w/ stubby coiled antenna; US pickups common",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Area-code 1st digit = region; postal codes ordered alphabetically by state name",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "**Blue agave fields → Jalisco/Nayarit** (tequila); Mexican Giant Cardon cactus → Baja California",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Saguaro cactus → Sonora; **boojum trees** (tentacle-like) → southern Baja California",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Monterrey = tall mountains ringing the city; blinding **white soil → Yucatán** (Quintana Roo)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Red brick buildings → states west of CDMX (Jalisco, Michoacán, Guanajuato)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "special",
+     "text": "**Jalisco bollards** have crown + \"Jalisco\" text (only Mexican bollard with writing)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "special",
+     "text": "Bollards w/ red band near top → Nayarit; thick cross on sign backs → Chihuahua",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    }
+   ]
+  },
+  {
+   "name": "Netherlands",
+   "slug": "netherlands",
+   "continent": "Europe",
+   "area_km2": 41850,
+   "links": {
+    "plonkit": "https://www.plonkit.net/netherlands",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plates long **yellow** + blue strip left (Europe yellow = only NL, Luxembourg, UK-back)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "**Essentially no street-level utility poles** (Belgium has them); extraordinarily **flat** land",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Water everywhere: canals, ditches, dikes, bridges; windmills (old & wind turbines)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "**Bike paths everywhere** (reddish-pink lanes) + tons of cyclists; brick roads common",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Brick **rumble strip** on rural road edges (~unique); speed bumps w/ long/short white stripes",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Street signs **blue w/ white text**; street = straat (-weg, -laan, -plein); Dutch double vowels, ij/oe, \"IJ\" one letter",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Road markers **green**: **A-road = red box** (highway), **N-road = yellow box** (regional); sign edges wrap to the back",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Landline area codes (3–4 digit) are geographically grouped → region",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "N-road **hectometre markers** have province-specific designs → identify province",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**Frisian** language on some signs → Friesland (north); low hills → S. Limburg / De Veluwe (rare)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Row houses ≈ half of housing (very high); red-brown brick, orange/grey tiles",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    }
+   ]
+  },
+  {
+   "name": "Russia",
+   "slug": "russia",
+   "continent": "Europe",
+   "area_km2": 17098246,
+   "links": {
+    "plonkit": "https://www.plonkit.net/russia",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plates **fully white, black text** (Europe usu. has blue strip)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Cyrillic w/ **Ы Э Ё Ъ**; улица = street (ул.), город = city (г.)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Many bollards + unusually **wide intersections**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Square concrete poles (also post-Soviet states); concrete support blocks at pole base",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "B&W striped guardrails / kerbs / pole shields",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Gen3: black or white car w/ **long antenna**; pedestrian crossings = alternating white+yellow stripes",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Birch everywhere; **larch** more common further east (Siberia)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Kamchatka = grey volcanic soil + volcanoes; Caucasus mtns → south (Dagestan dry/flat)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "RHD Japanese cars more common **east of Novosibirsk**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Area codes: **8-** = west, **3-** = central, **4-** = east/Moscow",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Gen3 unblurred plate regional code (right side): 01 = Adygea … learnable list",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Omsk = birch patches in green farm fields (summer Gen4); Kaliningrad = white-striped lined oaks",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Bilingual signs (Tatar, Bashkir…) → Tatarstan / Bashkortostan",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    }
+   ]
+  },
+  {
+   "name": "Spain",
+   "slug": "spain",
+   "continent": "Europe",
+   "area_km2": 505992,
+   "links": {
+    "plonkit": "https://www.plonkit.net/spain",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plate: long white, single **blue strip left** (Portugal = yellow strip right; Italy = two blue strips)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Bollard: yellow-orange front reflector + **two white dots on the back**, hollow",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "**Hunting signs** (\"coto…caza\" or black/white diagonal split) = Spain-unique; lots of high-voltage pylons",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Pedestrian crossing = **8 stripes** (most in Europe; else only Andorra)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Red sign borders run **to the edge** (France/Italy/Portugal keep a white edge); flat signposts",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Ladder poles + French poletops; chevrons black/white or **blue/white** (blue = only Spain + France)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Spanish: **Ñ** (vs Portuguese ç/lh/-ão); street = **calle**; garage no-parking = \"Vado permanente\"",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**Regional road codes** on markers (SG = Segovia, etc.) → pinpoint province",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Area codes: 2 digits → very accurate; all landlines start with **9**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**Catalan** (à, ç, \"i\" for and, street = carrer, \"Gual permanent\") → Catalonia / Valencia / Balearics",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Basque (x/k/tx heavy, non-Romance) → Basque Country/Navarre; Galician → NW (Galicia)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Diverse: dry Mediterranean plateaus & hills common; lush Atlantic green → far N (Galicia/Asturias)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Rural roads may have **dashed outer lines** (helps vs Portugal/Italy where they're absent)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    }
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "slug": "united-kingdom",
+   "continent": "Europe",
+   "area_km2": 242495,
+   "links": {
+    "plonkit": "https://www.plonkit.net/united-kingdom",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plates: **white front, yellow back** (Ireland = white both + always a blue strip); drives **left**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Middle line = long dashes with **cat's-eye reflectors** in the gaps; double-yellow no-stopping lines at kerbs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "UK bollard: rounded, red-front/white-back reflector, black base & top w/ white stripe",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Chevrons **black w/ white arrows** (Ireland = yellow arrows); **triangular** red warning signs (Ireland = diamond yellow)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "**\"GIVE WAY\"** yield (Ireland = \"YIELD\"); pole warning sticker shows a **man being zapped** (Ireland = no man)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Roads: **A / M** = major, **B** = minor; terraced / semi-detached houses (61%); brick + chimney pots",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "A/B-road **first digit = zone** (grouped, like a pie); NI phone = **028**, London = **020**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**Wales**: bilingual English/Welsh signs; road marking **\"Araf\"** (= Slow) is Wales-only; Welsh uses LL, W, Y",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "**Scotland**: Scottish Gaelic (green/yellow text) north of Glasgow; barren mountainous **Highlands**; 'Passing Place' diamond signs; red+white round bollards",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Scotland stone: granite → Aberdeen, red sandstone → Glasgow/Dumfries, yellow sandstone → Edinburgh",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "England countryside = green, hedgerows, low rolling hills (Ireland looks similar — check other clues)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "special",
+     "text": "Warning stickers wrapped all the way around the pole → Northern Ireland; Cornish palms → far SW coast",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "special",
+     "text": "Isle of Man = **Gen2 only**, counts as UK for country streaks",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    }
+   ]
+  },
+  {
+   "name": "United States",
+   "slug": "usa",
+   "continent": "North America",
+   "area_km2": 9833517,
+   "links": {
+    "plonkit": "https://www.plonkit.net/usa",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Speed signs say **\"SPEED LIMIT\"** (Canada = \"MAXIMUM\"); **miles**, feet/inches",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Wordy signs (railway crossing spelled out); US English (center, color)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Yellow centre + white outer lines; **double yellow** common (v. rare in Europe)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "White+orange fibre-optic markers ~unique to US; rumble strips common",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Trailer/mobile homes rural (esp. SE); Baptist churches common",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "\"No Passing Zone\" yellow triangle = US only",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "US+Canada: post mailbox w/ flag; wooden poles + cylindrical transformers; short plates (no blue strip); overhead signal bars; long-nose semis (Europe = cabover)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "country",
+     "text": "Gen2 rare → if Gen2 in N. America likely **Canada** (except Alaska, some Hawaii); Gen3 mirror = single peak (Canada = two peaks)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "East of Missouri R. = denser pop. & greener; West = mountains, drier",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "Deep South (OK→SC) reddish soil; SW Four Corners red mesas/tablelands",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "PNW (WA/OR/N.CA coast) temperate rainforest; Great Plains flat, few trees",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "region",
+     "text": "New England architecture (wood panel, porch, high roof) → north",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Interstates: **even = W–E, odd = S–N**; lowest numbers south & west",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "~half of states have **no front plate**; each state has a unique plate design",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "3-digit area codes (not clustered but learnable); state flags appear",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    },
+    {
+     "cat": "state",
+     "text": "Appalachians (low forested mtns) → east; Rockies → MT–NM; Great Basin (mtns + dry plains) → NV",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null
+    }
+   ]
+  }
+ ],
+ "master": {
+  "Africa": [
+   "Botswana",
+   "Egypt",
+   "Eswatini",
+   "Ghana",
+   "Kenya",
+   "Lesotho",
+   "Madagascar",
+   "Mali",
+   "Namibia",
+   "Nigeria",
+   "Reunion",
+   "Rwanda",
+   "Senegal",
+   "South Africa",
+   "São Tomé and Príncipe",
+   "Tanzania",
+   "Tunisia",
+   "Uganda"
+  ],
+  "Asia": [
+   "Bangladesh",
+   "Bhutan",
+   "British Indian Ocean Territory",
+   "Cambodia",
+   "China",
+   "Cyprus",
+   "Hong Kong",
+   "India",
+   "Indonesia",
+   "Iraq",
+   "Israel & the West Bank",
+   "Japan",
+   "Jordan",
+   "Kazakhstan",
+   "Kyrgyzstan",
+   "Laos",
+   "Lebanon",
+   "Macau",
+   "Malaysia",
+   "Mongolia",
+   "Nepal",
+   "Oman",
+   "Pakistan",
+   "Philippines",
+   "Qatar",
+   "Singapore",
+   "South Korea",
+   "Sri Lanka",
+   "Taiwan",
+   "Thailand",
+   "Turkey",
+   "United Arab Emirates",
+   "Vietnam"
+  ],
+  "Europe": [
+   "Albania",
+   "Andorra",
+   "Austria",
+   "Azores",
+   "Belarus",
+   "Belgium",
+   "Bulgaria",
+   "Croatia",
+   "Czechia",
+   "Denmark",
+   "Estonia",
+   "Faroe Islands",
+   "Finland",
+   "France",
+   "Germany",
+   "Gibraltar",
+   "Greece",
+   "Hungary",
+   "Iceland",
+   "Ireland",
+   "Isle of Man",
+   "Italy",
+   "Jersey",
+   "Latvia",
+   "Liechtenstein",
+   "Lithuania",
+   "Luxembourg",
+   "Madeira",
+   "Malta",
+   "Monaco",
+   "Montenegro",
+   "Netherlands",
+   "North Macedonia",
+   "Norway",
+   "Poland",
+   "Portugal",
+   "Romania",
+   "Russia",
+   "San Marino",
+   "Serbia",
+   "Slovakia",
+   "Slovenia",
+   "Spain",
+   "Svalbard",
+   "Sweden",
+   "Switzerland",
+   "Ukraine",
+   "United Kingdom"
+  ],
+  "North America": [
+   "Alaska",
+   "Bermuda",
+   "Canada",
+   "Costa Rica",
+   "Dominican Republic",
+   "Greenland",
+   "Guatemala",
+   "Hawaii",
+   "Martinique",
+   "Mexico",
+   "Panama",
+   "Puerto Rico",
+   "Saint Pierre and Miquelon",
+   "US Minor Outlying Islands",
+   "US Virgin Islands",
+   "United States"
+  ],
+  "South America": [
+   "Argentina",
+   "Bolivia",
+   "Brazil",
+   "Chile",
+   "Colombia",
+   "Curaçao",
+   "Ecuador",
+   "Falkland Islands",
+   "Peru",
+   "Uruguay"
+  ],
+  "Oceania": [
+   "American Samoa",
+   "Australia",
+   "Christmas Island",
+   "Cocos Islands",
+   "Guam",
+   "New Zealand",
+   "Northern Mariana Islands",
+   "Pitcairn Islands",
+   "Vanuatu"
+  ],
+  "Antarctica": [
+   "Antarctica",
+   "South Georgia & Sandwich Islands"
+  ]
+ },
+ "continent_order": [
+  "Africa",
+  "Asia",
+  "Europe",
+  "North America",
+  "South America",
+  "Oceania",
+  "Antarctica"
+ ],
+ "counts": {
+  "done": 17,
+  "total": 136
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "name": "Spain",
+ "slug": "spain",
+ "continent": "Europe",
+ "area_km2": 505992,
+ "links": { "plonkit": "https://www.plonkit.net/spain", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Plate: long white, single **blue strip left** (Portugal = yellow strip right; Italy = two blue strips)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Bollard: yellow-orange front reflector + **two white dots on the back**, hollow", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "**Hunting signs** (\"coto…caza\" or black/white diagonal split) = Spain-unique; lots of high-voltage pylons", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Pedestrian crossing = **8 stripes** (most in Europe; else only Andorra)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Red sign borders run **to the edge** (France/Italy/Portugal keep a white edge); flat signposts", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Ladder poles + French poletops; chevrons black/white or **blue/white** (blue = only Spain + France)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Spanish: **Ñ** (vs Portuguese ç/lh/-ão); street = **calle**; garage no-parking = \"Vado permanente\"", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "**Regional road codes** on markers (SG = Segovia, etc.) → pinpoint province", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "Area codes: 2 digits → very accurate; all landlines start with **9**", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "**Catalan** (à, ç, \"i\" for and, street = carrer, \"Gual permanent\") → Catalonia / Valencia / Balearics", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "Basque (x/k/tx heavy, non-Romance) → Basque Country/Navarre; Galician → NW (Galicia)", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Diverse: dry Mediterranean plateaus & hills common; lush Atlantic green → far N (Galicia/Asturias)", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Rural roads may have **dashed outer lines** (helps vs Portugal/Italy where they're absent)", "src": ["plonkit"], "sv": null }
+ ]
+}

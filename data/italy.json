@@ -1,0 +1,22 @@
+{
+ "name": "Italy",
+ "slug": "italy",
+ "continent": "Europe",
+ "area_km2": 301340,
+ "links": { "plonkit": "https://www.plonkit.net/italy", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Plate: two blue strips + **short front plate** (unique; Albania has 2 strips but not short)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "**Triangular** bollard, white w/ black top, red front / white rear (Albania identical)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Road lines often = white outer + **no middle line**; **double guardrails** common w/ red reflectors (Spain = yellow)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Italian: double consonants, lots of i's, words end in vowels; street = **via**", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Round concrete poles (unusual for the Med) + concrete trident poletops; black/dark sign backs", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "km markers: white square, **Roman numeral (100 m) over Arabic (km)**; \"passo carrabile\" no-parking signs", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Road codes **SS / SR / SP** = State / Regional / Provincial; chevrons white-on-black", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Area-code first digit generally increases **east then south**", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "German bilingual signs → South Tyrol; French (\"via/rue\") → Aosta Valley; Slovene → near Slovenia border", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "**Po Valley** = dead flat + hazy air (north); Bari = olive groves + red dirt + rock walls (SE)", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Sicily = arid hilly + rocky mtns; Sardinia = grey rocks poking up (NE); cacti → far south", "src": ["plonkit"], "sv": null },
+  { "cat": "special", "text": "**Trulli** (conical stone roofs) → Itria Valley / Alberobello; Tuscany = irregular brown-grey brick", "src": ["plonkit"], "sv": null },
+  { "cat": "special", "text": "Volcanoes as landmarks: **Etna** → E Sicily, **Vesuvius** → Naples; Venice = canals everywhere", "src": ["plonkit"], "sv": null }
+ ]
+}

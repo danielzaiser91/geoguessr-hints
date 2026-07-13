@@ -1,0 +1,25 @@
+{
+ "name": "United States",
+ "slug": "usa",
+ "continent": "North America",
+ "area_km2": 9833517,
+ "links": { "plonkit": "https://www.plonkit.net/usa", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Speed signs say **\"SPEED LIMIT\"** (Canada = \"MAXIMUM\"); **miles**, feet/inches", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Wordy signs (railway crossing spelled out); US English (center, color)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Yellow centre + white outer lines; **double yellow** common (v. rare in Europe)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "White+orange fibre-optic markers ~unique to US; rumble strips common", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Trailer/mobile homes rural (esp. SE); Baptist churches common", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "\"No Passing Zone\" yellow triangle = US only", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "US+Canada: post mailbox w/ flag; wooden poles + cylindrical transformers; short plates (no blue strip); overhead signal bars; long-nose semis (Europe = cabover)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Gen2 rare → if Gen2 in N. America likely **Canada** (except Alaska, some Hawaii); Gen3 mirror = single peak (Canada = two peaks)", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "East of Missouri R. = denser pop. & greener; West = mountains, drier", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Deep South (OK→SC) reddish soil; SW Four Corners red mesas/tablelands", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "PNW (WA/OR/N.CA coast) temperate rainforest; Great Plains flat, few trees", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "New England architecture (wood panel, porch, high roof) → north", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "Interstates: **even = W–E, odd = S–N**; lowest numbers south & west", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "~half of states have **no front plate**; each state has a unique plate design", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "3-digit area codes (not clustered but learnable); state flags appear", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "Appalachians (low forested mtns) → east; Rockies → MT–NM; Great Basin (mtns + dry plains) → NV", "src": ["plonkit"], "sv": null }
+ ]
+}

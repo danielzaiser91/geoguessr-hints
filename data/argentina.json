@@ -1,0 +1,22 @@
+{
+ "name": "Argentina",
+ "slug": "argentina",
+ "continent": "South America",
+ "area_km2": 2780400,
+ "links": { "plonkit": "https://www.plonkit.net/argentina", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Plate: black w/ **black dot** in middle (**AR only**), or white w/ blue top bar (blue bar also Brazil)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Gen3 **black car** (S. America: only AR/PE/UY); smallcam exists (AR/PE/BR)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "**White-and-red chevrons** (only country in the Americas with these)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Round concrete poles (3 lines, alternating) + doubled poles; **wooden A-frame poles** (only AR in S. America)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "km markers white w/ black top strip: **RN** = national, **RP** = provincial road", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Default vibe: flat, treeless, sparsely populated, \"wide open\" & desolate", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Far **west** mountainous (Andes); east rarely has mountains", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "**Red soil → Misiones** (Brazil-like); Chaco/Formosa = sandy soil + low bushes", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "**Cardón cactus** (candelabra) → NW mountains (Salta, Jujuy, Catamarca, Tucumán)", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Tierra del Fuego: flat grass + beech forest; Neuquén = flat w/ single poplar rows", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Pampas grass → Pampas; sugarcane → Tucumán", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "Vineyards + mountains west + flat east → **Mendoza** wine region", "src": ["plonkit"], "sv": null },
+  { "cat": "special", "text": "Salt pans → Jujuy; red bricks (Bolivia-like) → NW (western Jujuy)", "src": ["plonkit"], "sv": null }
+ ]
+}

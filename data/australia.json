@@ -1,0 +1,24 @@
+{
+ "name": "Australia",
+ "slug": "australia",
+ "continent": "Oceania",
+ "area_km2": 7692024,
+ "links": { "plonkit": "https://www.plonkit.net/australia", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "**Eucalyptus (gum) trees** everywhere, light bark; drives on the **left**", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Bollard: white, **red reflector front / grey back** (NZ = red wraps around the back)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Almost all **white** road lines — yellow lines → South Africa or NZ instead", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Give-way sign: white border + **black** text (NZ = red text); speed sign red circle on white rectangle (NZ = no rectangle)", "src": ["plonkit"], "sv": null },
+  { "cat": "country", "text": "Gen3 = long antenna; chevrons white-on-black & black-on-yellow", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "**Stobie pole** (steel + concrete) = **South Australia** (iconic)", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "Rusty metal poles w/ holes = **Northern Territory**; 130 km/h speed limit = NT only", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "**Yellow signposts = Western Australia**; ~64% of concrete poles → Victoria", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "**Red 'No Stopping' signs = NSW only** (others white)", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "'C' roads only in Victoria & Tasmania; fluorescent-border road signs → Queensland", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Darwin (NT): dark red soil, black tree trunks; termite mounds → NT", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Tasmania: cool temperate green rolling hills (like NZ/S. Chile)", "src": ["plonkit"], "sv": null },
+  { "cat": "region", "text": "Coastal N. Queensland tropical: palms + sugarcane; inland NSW flat, redder soil further inland", "src": ["plonkit"], "sv": null },
+  { "cat": "state", "text": "Bus-stop designs unique per state (Darwin = concrete shelters; Tasmania say 'metro')", "src": ["plonkit"], "sv": null },
+  { "cat": "special", "text": "Snorkel rare cars → NSW/ACT (2 in WA); Christmas I. & Cocos count as Australia for streaks", "src": ["plonkit"], "sv": null }
+ ]
+}
