@@ -12,10 +12,10 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**23 / 136 countries.**
+**24 / 136 countries.**
 
 **Africa:** ⬜ Botswana ⬜ Egypt ⬜ Eswatini ⬜ Ghana ⬜ Kenya ⬜ Lesotho ⬜ Madagascar ⬜ Mali ⬜ Namibia ⬜ Nigeria ⬜ Reunion ⬜ Rwanda ⬜ Senegal ⬜ South Africa ⬜ São Tomé and Príncipe ⬜ Tanzania ⬜ Tunisia ⬜ Uganda
-**Asia:** ⬜ Bangladesh ⬜ Bhutan ⬜ British Indian Ocean Territory ⬜ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ⬜ Iraq ⬜ Israel & the West Bank ✅ Japan ⬜ Jordan ⬜ Kazakhstan ⬜ Kyrgyzstan ⬜ Laos ⬜ Lebanon ⬜ Macau ⬜ Malaysia ⬜ Mongolia ⬜ Nepal ⬜ Oman ⬜ Pakistan ⬜ Philippines ⬜ Qatar ⬜ Singapore ⬜ South Korea ⬜ Sri Lanka ⬜ Taiwan ⬜ Thailand ⬜ Turkey ⬜ United Arab Emirates ⬜ Vietnam
+**Asia:** ⬜ Bangladesh ⬜ Bhutan ⬜ British Indian Ocean Territory ⬜ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ⬜ Iraq ⬜ Israel & the West Bank ✅ Japan ⬜ Jordan ⬜ Kazakhstan ⬜ Kyrgyzstan ⬜ Laos ⬜ Lebanon ⬜ Macau ⬜ Malaysia ⬜ Mongolia ⬜ Nepal ⬜ Oman ⬜ Pakistan ⬜ Philippines ⬜ Qatar ⬜ Singapore ⬜ South Korea ⬜ Sri Lanka ⬜ Taiwan ⬜ Thailand ✅ Turkey ⬜ United Arab Emirates ⬜ Vietnam
 **Europe:** ⬜ Albania ⬜ Andorra ⬜ Austria ⬜ Azores ⬜ Belarus ⬜ Belgium ⬜ Bulgaria ⬜ Croatia ⬜ Czechia ✅ Denmark ⬜ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ⬜ Gibraltar ⬜ Greece ⬜ Hungary ⬜ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ⬜ Latvia ⬜ Liechtenstein ⬜ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ✅ Norway ✅ Poland ⬜ Portugal ⬜ Romania ✅ Russia ⬜ San Marino ⬜ Serbia ⬜ Slovakia ⬜ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ⬜ Switzerland ⬜ Ukraine ✅ United Kingdom
 **North America:** ⬜ Alaska ⬜ Bermuda ✅ Canada ⬜ Costa Rica ⬜ Dominican Republic ⬜ Greenland ⬜ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ⬜ Panama ⬜ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
 **South America:** ✅ Argentina ⬜ Bolivia ✅ Brazil ⬜ Chile ⬜ Colombia ⬜ Curaçao ⬜ Ecuador ⬜ Falkland Islands ⬜ Peru ⬜ Uruguay
@@ -77,6 +77,28 @@ Study: [Plonk It](https://www.plonkit.net/indonesia)
 | Region | Cardinal words in addresses: Utara(N) Timur(E) Selatan(S) Barat(W) Tengah(C) | [P](https://www.plonkit.net/indonesia) |  |
 | State | Crown-like roof pinnacles, Hindu temples, dark andesite stone; blue horizontal pole text | [P](https://www.plonkit.net/indonesia) |  |
 | Special | Red soil w/ white-soil layer spilling on road → Bangka Belitung islands | [P](https://www.plonkit.net/indonesia) |  |
+
+## Turkey
+Study: [Plonk It](https://www.plonkit.net/turkey)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plate: long white + blue strip left (like most of Europe) | [P](https://www.plonkit.net/turkey) |  |
+| Country | Turkish: **Ç Ş Ö Ü Ğ** + **dotless ı** (essentially unique) & dotted **İ** | [P](https://www.plonkit.net/turkey) |  |
+| Country | Bollard: thin **rectangular plain white**, red front reflector (rare yellow in snowy areas) | [P](https://www.plonkit.net/turkey) |  |
+| Country | Road lines inconsistent (white, yellow, or mixed); grainy **"salt-and-pepper" pavement** common | [P](https://www.plonkit.net/turkey) |  |
+| Country | **Divided highways extremely common** (vs other Mediterranean countries) | [P](https://www.plonkit.net/turkey) |  |
+| Country | Chevrons usually **red-on-white** (arrow tip doesn't touch the edge); black/yellow multi-arrow at intersections | [P](https://www.plonkit.net/turkey) |  |
+| Country | Stop sign says **"DUR"** (unique to Turkey); direction signs have very wide letter spacing | [P](https://www.plonkit.net/turkey) |  |
+| Country | Snow poles = **black-orange-black-white** sequence w/ small red reflectors | [P](https://www.plonkit.net/turkey) |  |
+| Country | Uses **both A- and B-type guardrails** (seeing both excludes most of S. Europe & Middle East) | [P](https://www.plonkit.net/turkey) |  |
+| Country | **Metal ladder or mesh poles** extremely common | [P](https://www.plonkit.net/turkey) |  |
+| Country | Gen3 = no antenna; Gen4 white car; grey **pickup truck** in some Gen4 (also Georgia); smallcam exists | [P](https://www.plonkit.net/turkey) |  |
+| Country | Tall square **apartment blocks**; Muslim-majority → **mosques w/ tall minarets** in most towns | [P](https://www.plonkit.net/turkey) |  |
+| Region | North = lush/forested; **NE = deep-green grassy round hills** (Gen3), few trees; SE arid; SW Mediterranean | [P](https://www.plonkit.net/turkey) |  |
+| Region | Roofs: tiled → western ⅔; flat → SE + south coast; metal/low-pyramid → far east (Lake Van) | [P](https://www.plonkit.net/turkey) |  |
+| State | Area codes **1st digit 2 (west) → 4 (east)**; km markers show **province code (first 2 digits, ~alphabetical 01–76)** | [P](https://www.plonkit.net/turkey) |  |
+| Special | **Göreme/Cappadocia** (Nevşehir): sandstone monoliths w/ carved dwellings; **Mt. Ararat** volcano far east; whitewashed flat-roof houses → Bodrum | [P](https://www.plonkit.net/turkey) |  |
 
 ## Japan
 Study: [Plonk It](https://www.plonkit.net/japan)
