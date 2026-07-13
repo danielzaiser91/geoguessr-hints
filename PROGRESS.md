@@ -75,8 +75,17 @@ Collection priority = play value / size first, micro-territories last.
 - [ ] Final review pass for duplicates / weak hints; tighten.
 
 ## Resume pointer
-Last done: **12 countries** (Brazil, USA, Russia, Canada, China, Australia, India, Indonesia,
-Argentina, Mexico, Japan, France). Pipeline solid. **Next:** finish Tier-1 majors (Germany, UK,
-Spain, Italy, then rest), then build the `web/` globe, then create GitHub repo + Pages, then QA.
-Workflow per country: browser navigate `plonkit.net/<slug>` → get_page_text → write
+Last done: **17 countries** (Brazil, USA, Russia, Canada, China, Australia, India, Indonesia,
+Argentina, Mexico, Japan, France, Germany, United Kingdom, Spain, Italy, Netherlands).
+**Site is BUILT & verified** in `docs/` (self-contained globe; filters/search/panel/links all
+tested locally OK). Local git repo initialised + first commit made.
+
+**BLOCKER:** saved GitHub PAT is secrets-scoped → cannot create repo / push (`Resource not
+accessible`). Need a token with Administration (repo create) + Contents (push) + Pages (write),
+or user pre-creates public repo `geoguessr-hints`. Once unblocked: add remote, push, enable Pages
+(branch `main`, folder `/docs`).
+
+**Then continue:** collect remaining ~119 countries (same per-country workflow), rerun build, push
+(live page auto-updates). QA passes throughout.
+Per-country workflow: browser navigate `plonkit.net/<slug>` → get_page_text → write
 `data/<slug>.json` (distill top hints, tag `src`) → rerun `scripts/build.py`.
