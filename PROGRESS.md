@@ -135,12 +135,19 @@ image-backed + typed).
 `guessType` keywords→type live in app.js (plates/signs/markings/bollards/language/arch/landscape/cars/
 naming/utility/general). Shields dialog wired for United States + Canada (docs/img/shields-*).
 
+### DONE: image backfill
+✅ **All 23 collected countries now image-backed** (379 hints, 95% with `img`). Per-state/region
+sub-sections added for USA (29), Canada (8 prov), Australia (6), UK, Germany, Brazil, Spain (6),
+Italy, Netherlands, India (scripts), Indonesia, Argentina, Mexico. Highway-shield dialogs live for
+US + Canada.
+
 ### Still TODO
-- **Backfill images** into the 17 original countries (Brazil, Russia, Canada, China, Australia, India,
-  Indonesia, Argentina, Mexico, Japan, France, Germany, UK, Spain, Italy, Netherlands, Poland, Sweden) —
-  navigate each, extract, add `img` (+ `img_folder` if needed). Canada: also add per-province `state`
-  hints (shields dialog already wired).
-- Keep adding the remaining ~110 countries (continent order, biggest first).
+- Keep adding the remaining ~110 countries (continent order, biggest first). Popular next: Kazakhstan,
+  Turkey, Thailand, Peru, Colombia, Chile, South Africa, Ukraine, Philippines, South Korea, Vietnam,
+  Malaysia, Kenya, Portugal, Switzerland, Austria, Belgium, Greece, Czechia, Romania, New Zealand …
+  Use the per-country workflow above (each new country gets images/types/areas from the start).
+- Numbered-filename Plonk It pages (e.g. Japan): use the caption-pairing extractor variant (grabs the
+  preceding <p> per image) to map images to hints.
 
 ## Resume pointer
 Last done: **17 countries** (Brazil, USA, Russia, Canada, China, Australia, India, Indonesia,

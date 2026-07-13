@@ -5,19 +5,19 @@
  "area_km2": 3287263,
  "links": { "plonkit": "https://www.plonkit.net/india", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Mostly **\"shitcam\"** (brownish colours, big circular blur); Gen4 = smallcam; drives on the **left**", "src": ["plonkit"], "sv": null },
-  { "cat": "country", "text": "Plates: long, usually **white**; commercial = **yellow**, EV = **green**", "src": ["plonkit"], "sv": null },
-  { "cat": "country", "text": "**B&W striped signposts** (also BD/NP/LK); poles almost always concrete/metal (wood v. rare); common = square concrete pole w/ trident top", "src": ["plonkit"], "sv": null },
-  { "cat": "country", "text": "English on much signage; many regional scripts (best region tool → below)", "src": ["plonkit"], "sv": null },
-  { "cat": "state", "text": "**Devanagari** (bar across top of words) = Hindi → central/north; Marathi (has ळ) → Maharashtra", "src": ["plonkit"], "sv": null },
-  { "cat": "state", "text": "**Gujarati** = like Hindi but **no top bar** → Gujarat", "src": ["plonkit"], "sv": null },
-  { "cat": "state", "text": "**Bengali** (left-facing triangles) → West Bengal/NE (& Bangladesh); Assamese variant (ৰ ৱ) → Assam", "src": ["plonkit"], "sv": null },
-  { "cat": "state", "text": "**Kannada** (curves + small circles) → Karnataka; **Telugu** (checkmark diacritics on top) → Telangana/Andhra", "src": ["plonkit"], "sv": null },
-  { "cat": "state", "text": "**Tamil** (curves + 90° angles) → Tamil Nadu (& Sri Lanka); **Malayalam** (upside-down U shapes) → Kerala", "src": ["plonkit"], "sv": null },
-  { "cat": "state", "text": "**Oriya** (round \"skull-emoji\" tops) → Odisha; **Punjabi** (broken top bar, soft letters) → Punjab", "src": ["plonkit"], "sv": null },
-  { "cat": "state", "text": "Meghalaya = almost exclusively **English**", "src": ["plonkit"], "sv": null },
-  { "cat": "state", "text": "**Holey concrete poles** = Gujarat; yellow tuk-tuks w/ black roofs → south (TG/AP/TN)", "src": ["plonkit"], "sv": null },
-  { "cat": "state", "text": "Pole paint: **5+ thin** black/yellow stripes → Delhi; **exactly 4 thick** → Bihar", "src": ["plonkit"], "sv": null },
-  { "cat": "state", "text": "Gurdwaras (white domes, Khanda symbol) → Punjab; bright flat orange ridged roof tiles → Tamil Nadu", "src": ["plonkit"], "sv": null }
+  { "cat": "country", "text": "Mostly **\"shitcam\"** (brownish colours, big circular blur); Gen4 = smallcam; drives on the **left**", "src": ["plonkit"], "sv": null, "img": "in_shitcam.png", "type": "cars" },
+  { "cat": "country", "text": "Plates: long, usually **white**; commercial = **yellow**, EV = **green**", "src": ["plonkit"], "sv": null, "img": "in_licenceplates.png", "type": "plates" },
+  { "cat": "country", "text": "**B&W striped signposts** (also BD/NP/LK); poles almost always concrete/metal (wood v. rare); common = square concrete pole w/ trident top", "src": ["plonkit"], "sv": null, "img": "ingen4_blackandwhitesignposts.png", "type": "utility" },
+  { "cat": "country", "text": "English on much signage; many regional **scripts** (best region tool → below)", "src": ["plonkit"], "sv": null, "img": "in_scripts.png", "type": "language" },
+  { "cat": "state", "text": "**Devanagari** (bar across top of words) = Hindi → central/north; Marathi (has ळ) → Maharashtra", "src": ["plonkit"], "sv": null, "img": "in_languagehindi.png", "type": "language" },
+  { "cat": "state", "text": "**Gujarati** = like Hindi but **no top bar** → Gujarat", "src": ["plonkit"], "sv": null, "img": "in_languagegujarati.png", "type": "language" },
+  { "cat": "state", "text": "**Bengali** (left-facing triangles) → West Bengal/NE (& Bangladesh); Assamese variant (ৰ ৱ) → Assam", "src": ["plonkit"], "sv": null, "img": "in_languagebengali.png", "type": "language" },
+  { "cat": "state", "text": "**Kannada** (curves + small circles) → Karnataka; **Telugu** (checkmark diacritics on top) → Telangana/Andhra", "src": ["plonkit"], "sv": null, "img": "in_languagekannada.png", "type": "language" },
+  { "cat": "state", "text": "**Tamil** (curves + 90° angles) → Tamil Nadu (& Sri Lanka); **Malayalam** (upside-down U shapes) → Kerala", "src": ["plonkit"], "sv": null, "img": "in_languagetamil.png", "type": "language" },
+  { "cat": "state", "text": "**Oriya** (round \"skull-emoji\" tops) → Odisha; **Punjabi** (broken top bar, soft letters) → Punjab", "src": ["plonkit"], "sv": null, "img": "in_languageoriya.png", "type": "language" },
+  { "cat": "state", "text": "Meghalaya = almost exclusively **English**", "src": ["plonkit"], "sv": null, "img": "in_languageenglish.png", "type": "language" },
+  { "cat": "state", "text": "**Holey concrete poles** = Gujarat; yellow tuk-tuks w/ black roofs → south (TG/AP/TN)", "src": ["plonkit"], "sv": null, "img": "in_gujaratholeypole.png", "type": "utility" },
+  { "cat": "state", "text": "Pole paint: **5+ thin** black/yellow stripes → Delhi; **exactly 4 thick** → Bihar", "src": ["plonkit"], "sv": null, "type": "utility" },
+  { "cat": "state", "text": "Gurdwaras (white domes, Khanda symbol) → Punjab; bright flat orange ridged roof tiles → Tamil Nadu", "src": ["plonkit"], "sv": null, "type": "arch" }
  ]
 }

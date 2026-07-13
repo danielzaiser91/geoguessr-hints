@@ -16,7 +16,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Argentina_License_Plate.png",
+     "type": "plates"
     },
     {
      "cat": "country",
@@ -24,7 +26,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "gen3car.png",
+     "type": "cars"
     },
     {
      "cat": "country",
@@ -32,7 +36,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "ar_chevron.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -40,7 +46,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Argentina_wooden_poles.png",
+     "type": "utility"
     },
     {
      "cat": "country",
@@ -48,7 +56,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "kmmarker.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -56,7 +66,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Argentina_Barren_landscape.png",
+     "type": "landscape"
     },
     {
      "cat": "region",
@@ -64,7 +76,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Landscape_-_Western_Argentina.png",
+     "type": "landscape"
     },
     {
      "cat": "region",
@@ -72,7 +86,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "ar_red_dirt.png",
+     "type": "landscape"
     },
     {
      "cat": "region",
@@ -80,7 +96,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "cardoncactus.png",
+     "type": "landscape"
     },
     {
      "cat": "region",
@@ -88,7 +106,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "ar_tierradelfuego_beechforests.png",
+     "type": "landscape"
     },
     {
      "cat": "region",
@@ -96,15 +116,19 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "ar_grasslands.png",
+     "type": "landscape"
     },
     {
      "cat": "state",
-     "text": "Vineyards + mountains west + flat east → **Mendoza** wine region",
+     "area": "Mendoza",
+     "text": "Vineyards + mountains to the west + flat east → Mendoza wine region",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "type": "landscape"
     },
     {
      "cat": "special",
@@ -112,7 +136,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "type": "landscape"
     }
    ]
   },
@@ -132,7 +157,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Eucalyptus.png",
+     "type": "landscape"
     },
     {
      "cat": "country",
@@ -140,7 +167,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Australian_bollard.png",
+     "type": "bollards"
     },
     {
      "cat": "country",
@@ -148,7 +177,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "round.png",
+     "type": "markings"
     },
     {
      "cat": "country",
@@ -156,7 +187,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Speed_limit_sign.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -164,55 +197,84 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "au_antenna.webp",
+     "type": "cars"
     },
     {
      "cat": "state",
-     "text": "**Stobie pole** (steel + concrete) = **South Australia** (iconic)",
+     "area": "South Australia",
+     "text": "**Stobie pole** (two steel joists + concrete slab middle) is iconic to South Australia",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Stobie_pole.png",
+     "type": "utility"
     },
     {
      "cat": "state",
-     "text": "Rusty metal poles w/ holes = **Northern Territory**; 130 km/h speed limit = NT only",
+     "area": "Northern Territory",
+     "text": "Rusty metal poles w/ holes; **130 km/h** speed limit = NT only; termite mounds",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "NT_poles.png",
+     "type": "utility"
     },
     {
      "cat": "state",
-     "text": "**Yellow signposts = Western Australia**; ~64% of concrete poles → Victoria",
+     "area": "Western Australia",
+     "text": "**Yellow signposts**; black-and-white **stripy bollards** unique to WA; green-based poles",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "WA_stripy_bollard.png",
+     "type": "bollards"
     },
     {
      "cat": "state",
-     "text": "**Red 'No Stopping' signs = NSW only** (others white)",
+     "area": "Victoria",
+     "text": "~**64% of concrete poles** are in Victoria; 'C' roads only in Victoria & Tasmania",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Vic_concrete_pole.png",
+     "type": "utility"
     },
     {
      "cat": "state",
-     "text": "'C' roads only in Victoria & Tasmania; fluorescent-border road signs → Queensland",
+     "area": "Queensland",
+     "text": "Unique **pole-top coils** angled upward; fluorescent-border road signs; black-and-yellow bollard",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "qld_coils.png",
+     "type": "utility"
+    },
+    {
+     "cat": "state",
+     "area": "New South Wales",
+     "text": "**Red 'No Stopping' signs** (other states white); snorkel-fitted rare cars → NSW/ACT",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "signs"
     },
     {
      "cat": "region",
-     "text": "Darwin (NT): dark red soil, black tree trunks; termite mounds → NT",
+     "text": "Interior = **red soil**, dry; SE + SW corners greener; can \"fry eggs\" red outback",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "fry_eggs_on_the_road.png",
+     "type": "landscape"
     },
     {
      "cat": "region",
@@ -220,31 +282,29 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "taswomania.png",
+     "type": "landscape"
     },
     {
      "cat": "region",
-     "text": "Coastal N. Queensland tropical: palms + sugarcane; inland NSW flat, redder soil further inland",
+     "text": "Coastal N. Queensland tropical: palms + sugarcane; Darwin (NT) dark red soil + black tree trunks",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "northern_qld_veggies.png",
+     "type": "landscape"
     },
     {
      "cat": "state",
-     "text": "Bus-stop designs unique per state (Darwin = concrete shelters; Tasmania say 'metro')",
+     "text": "Different states use different **licence-plate** designs + slogans; 2-digit phone area codes map to state",
      "src": [
       "plonkit"
      ],
-     "sv": null
-    },
-    {
-     "cat": "special",
-     "text": "Snorkel rare cars → NSW/ACT (2 in WA); Christmas I. & Cocos count as Australia for streaks",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null
+     "sv": null,
+     "img": "aus_license_plates.png",
+     "type": "plates"
     }
    ]
   },
@@ -686,7 +746,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "cn_tripod.png",
+     "type": "cars"
     },
     {
      "cat": "country",
@@ -694,7 +756,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "cn_language.png",
+     "type": "language"
     },
     {
      "cat": "country",
@@ -702,7 +766,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "cn_licenceplate.png"
     },
     {
      "cat": "region",
@@ -710,7 +775,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "cn_coverage.png",
+     "type": "general"
     },
     {
      "cat": "state",
@@ -718,7 +785,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "cn_licenceplate.png",
+     "type": "naming"
     },
     {
      "cat": "special",
@@ -726,7 +795,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "cn_forbiddencity.png",
+     "type": "general"
     },
     {
      "cat": "special",
@@ -734,7 +805,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "cn_hubeimuseum.png",
+     "type": "arch"
     }
    ]
   },
@@ -1464,7 +1537,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "in_shitcam.png",
+     "type": "cars"
     },
     {
      "cat": "country",
@@ -1472,7 +1547,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "in_licenceplates.png",
+     "type": "plates"
     },
     {
      "cat": "country",
@@ -1480,15 +1557,19 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "ingen4_blackandwhitesignposts.png",
+     "type": "utility"
     },
     {
      "cat": "country",
-     "text": "English on much signage; many regional scripts (best region tool → below)",
+     "text": "English on much signage; many regional **scripts** (best region tool → below)",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "in_scripts.png",
+     "type": "language"
     },
     {
      "cat": "state",
@@ -1496,7 +1577,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "in_languagehindi.png",
+     "type": "language"
     },
     {
      "cat": "state",
@@ -1504,7 +1587,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "in_languagegujarati.png",
+     "type": "language"
     },
     {
      "cat": "state",
@@ -1512,7 +1597,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "in_languagebengali.png",
+     "type": "language"
     },
     {
      "cat": "state",
@@ -1520,7 +1607,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "in_languagekannada.png",
+     "type": "language"
     },
     {
      "cat": "state",
@@ -1528,7 +1617,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "in_languagetamil.png",
+     "type": "language"
     },
     {
      "cat": "state",
@@ -1536,7 +1627,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "in_languageoriya.png",
+     "type": "language"
     },
     {
      "cat": "state",
@@ -1544,7 +1637,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "in_languageenglish.png",
+     "type": "language"
     },
     {
      "cat": "state",
@@ -1552,7 +1647,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "in_gujaratholeypole.png",
+     "type": "utility"
     },
     {
      "cat": "state",
@@ -1560,7 +1657,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "type": "utility"
     },
     {
      "cat": "state",
@@ -1568,7 +1666,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "type": "arch"
     }
    ]
   },
@@ -1588,7 +1687,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Indonesia_License_Plate_2.png",
+     "type": "plates"
     },
     {
      "cat": "country",
@@ -1596,7 +1697,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Front_License_Plate_on_Motorcycle.png",
+     "type": "plates"
     },
     {
      "cat": "country",
@@ -1604,7 +1707,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "round__281_29.png",
+     "type": "general"
     },
     {
      "cat": "country",
@@ -1612,7 +1717,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Waystones_1.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -1620,7 +1727,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Indonesian_language.png",
+     "type": "language"
     },
     {
      "cat": "region",
@@ -1628,7 +1737,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "id_coveragemap.png",
+     "type": "general"
     },
     {
      "cat": "region",
@@ -1636,7 +1747,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Kabupaten_Rotate.png",
+     "type": "naming"
     },
     {
      "cat": "region",
@@ -1644,7 +1757,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Indonesian_postal_code_zones_map.png",
+     "type": "naming"
     },
     {
      "cat": "region",
@@ -1652,7 +1767,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "alien_detectors.png",
+     "type": "general"
     },
     {
      "cat": "region",
@@ -1660,23 +1777,29 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "type": "landscape"
     },
     {
      "cat": "state",
-     "text": "**Bali**: crown-like roof pinnacles, Hindu temples, dark andesite stone; blue horizontal pole text",
+     "area": "Bali",
+     "text": "Crown-like roof pinnacles, Hindu temples, dark andesite stone; blue horizontal pole text",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Bali_sticker_updated.png",
+     "type": "arch"
     },
     {
-     "cat": "state",
+     "cat": "region",
      "text": "Cardinal words in addresses: Utara(N) Timur(E) Selatan(S) Barat(W) Tengah(C)",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Cardinal_Directions_1.png",
+     "type": "naming"
     },
     {
      "cat": "special",
@@ -1684,7 +1807,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "type": "landscape"
     }
    ]
   },
@@ -2162,7 +2286,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "mx_octopole.png",
+     "type": "utility"
     },
     {
      "cat": "country",
@@ -2170,7 +2296,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "mx_bollard.png",
+     "type": "bollards"
     },
     {
      "cat": "country",
@@ -2178,7 +2306,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "mx_alto.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -2186,7 +2316,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "mx_cacti.jpg",
+     "type": "landscape"
     },
     {
      "cat": "country",
@@ -2194,7 +2326,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "mx_brands.png",
+     "type": "general"
     },
     {
      "cat": "country",
@@ -2202,7 +2336,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "mx_gen2.png",
+     "type": "cars"
     },
     {
      "cat": "state",
@@ -2210,7 +2346,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "mx_areacodes_nobg.png",
+     "type": "naming"
     },
     {
      "cat": "region",
@@ -2218,7 +2356,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "mx_tequilafield.png",
+     "type": "landscape"
     },
     {
      "cat": "region",
@@ -2226,7 +2366,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "mx_saguarocacti.png",
+     "type": "landscape"
     },
     {
      "cat": "region",
@@ -2234,7 +2376,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "type": "landscape"
     },
     {
      "cat": "region",
@@ -2242,15 +2385,18 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "type": "arch"
     },
     {
-     "cat": "special",
-     "text": "**Jalisco bollards** have crown + \"Jalisco\" text (only Mexican bollard with writing)",
+     "cat": "state",
+     "area": "Jalisco",
+     "text": "**Jalisco bollards** have a crown + \"Jalisco\" text (only Mexican bollard with writing)",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "type": "bollards"
     },
     {
      "cat": "special",
@@ -2258,7 +2404,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "type": "bollards"
     }
    ]
   },

@@ -5,18 +5,18 @@
  "area_km2": 2780400,
  "links": { "plonkit": "https://www.plonkit.net/argentina", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Plate: black w/ **black dot** in middle (**AR only**), or white w/ blue top bar (blue bar also Brazil)", "src": ["plonkit"], "sv": null },
-  { "cat": "country", "text": "Gen3 **black car** (S. America: only AR/PE/UY); smallcam exists (AR/PE/BR)", "src": ["plonkit"], "sv": null },
-  { "cat": "country", "text": "**White-and-red chevrons** (only country in the Americas with these)", "src": ["plonkit"], "sv": null },
-  { "cat": "country", "text": "Round concrete poles (3 lines, alternating) + doubled poles; **wooden A-frame poles** (only AR in S. America)", "src": ["plonkit"], "sv": null },
-  { "cat": "country", "text": "km markers white w/ black top strip: **RN** = national, **RP** = provincial road", "src": ["plonkit"], "sv": null },
-  { "cat": "country", "text": "Default vibe: flat, treeless, sparsely populated, \"wide open\" & desolate", "src": ["plonkit"], "sv": null },
-  { "cat": "region", "text": "Far **west** mountainous (Andes); east rarely has mountains", "src": ["plonkit"], "sv": null },
-  { "cat": "region", "text": "**Red soil → Misiones** (Brazil-like); Chaco/Formosa = sandy soil + low bushes", "src": ["plonkit"], "sv": null },
-  { "cat": "region", "text": "**Cardón cactus** (candelabra) → NW mountains (Salta, Jujuy, Catamarca, Tucumán)", "src": ["plonkit"], "sv": null },
-  { "cat": "region", "text": "Tierra del Fuego: flat grass + beech forest; Neuquén = flat w/ single poplar rows", "src": ["plonkit"], "sv": null },
-  { "cat": "region", "text": "Pampas grass → Pampas; sugarcane → Tucumán", "src": ["plonkit"], "sv": null },
-  { "cat": "state", "text": "Vineyards + mountains west + flat east → **Mendoza** wine region", "src": ["plonkit"], "sv": null },
-  { "cat": "special", "text": "Salt pans → Jujuy; red bricks (Bolivia-like) → NW (western Jujuy)", "src": ["plonkit"], "sv": null }
+  { "cat": "country", "text": "Plate: black w/ **black dot** in middle (**AR only**), or white w/ blue top bar (blue bar also Brazil)", "src": ["plonkit"], "sv": null, "img": "Argentina_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "Gen3 **black car** (S. America: only AR/PE/UY); smallcam exists (AR/PE/BR)", "src": ["plonkit"], "sv": null, "img": "gen3car.png", "type": "cars" },
+  { "cat": "country", "text": "**White-and-red chevrons** (only country in the Americas with these)", "src": ["plonkit"], "sv": null, "img": "ar_chevron.png", "type": "signs" },
+  { "cat": "country", "text": "Round concrete poles (3 lines, alternating) + doubled poles; **wooden A-frame poles** (only AR in S. America)", "src": ["plonkit"], "sv": null, "img": "Argentina_wooden_poles.png", "type": "utility" },
+  { "cat": "country", "text": "km markers white w/ black top strip: **RN** = national, **RP** = provincial road", "src": ["plonkit"], "sv": null, "img": "kmmarker.png", "type": "signs" },
+  { "cat": "country", "text": "Default vibe: flat, treeless, sparsely populated, \"wide open\" & desolate", "src": ["plonkit"], "sv": null, "img": "Argentina_Barren_landscape.png", "type": "landscape" },
+  { "cat": "region", "text": "Far **west** mountainous (Andes); east rarely has mountains", "src": ["plonkit"], "sv": null, "img": "Landscape_-_Western_Argentina.png", "type": "landscape" },
+  { "cat": "region", "text": "**Red soil → Misiones** (Brazil-like); Chaco/Formosa = sandy soil + low bushes", "src": ["plonkit"], "sv": null, "img": "ar_red_dirt.png", "type": "landscape" },
+  { "cat": "region", "text": "**Cardón cactus** (candelabra) → NW mountains (Salta, Jujuy, Catamarca, Tucumán)", "src": ["plonkit"], "sv": null, "img": "cardoncactus.png", "type": "landscape" },
+  { "cat": "region", "text": "Tierra del Fuego: flat grass + beech forest; Neuquén = flat w/ single poplar rows", "src": ["plonkit"], "sv": null, "img": "ar_tierradelfuego_beechforests.png", "type": "landscape" },
+  { "cat": "region", "text": "Pampas grass → Pampas; sugarcane → Tucumán", "src": ["plonkit"], "sv": null, "img": "ar_grasslands.png", "type": "landscape" },
+  { "cat": "state", "area": "Mendoza", "text": "Vineyards + mountains to the west + flat east → Mendoza wine region", "src": ["plonkit"], "sv": null, "type": "landscape" },
+  { "cat": "special", "text": "Salt pans → Jujuy; red bricks (Bolivia-like) → NW (western Jujuy)", "src": ["plonkit"], "sv": null, "type": "landscape" }
  ]
 }

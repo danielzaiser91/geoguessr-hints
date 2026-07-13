@@ -47,7 +47,7 @@ Study: [Plonk It](https://www.plonkit.net/india)
 | Country | Mostly **"shitcam"** (brownish colours, big circular blur); Gen4 = smallcam; drives on the **left** | [P](https://www.plonkit.net/india) |  |
 | Country | Plates: long, usually **white**; commercial = **yellow**, EV = **green** | [P](https://www.plonkit.net/india) |  |
 | Country | **B&W striped signposts** (also BD/NP/LK); poles almost always concrete/metal (wood v. rare); common = square concrete pole w/ trident top | [P](https://www.plonkit.net/india) |  |
-| Country | English on much signage; many regional scripts (best region tool → below) | [P](https://www.plonkit.net/india) |  |
+| Country | English on much signage; many regional **scripts** (best region tool → below) | [P](https://www.plonkit.net/india) |  |
 | State | **Devanagari** (bar across top of words) = Hindi → central/north; Marathi (has ळ) → Maharashtra | [P](https://www.plonkit.net/india) |  |
 | State | **Gujarati** = like Hindi but **no top bar** → Gujarat | [P](https://www.plonkit.net/india) |  |
 | State | **Bengali** (left-facing triangles) → West Bengal/NE (& Bangladesh); Assamese variant (ৰ ৱ) → Assam | [P](https://www.plonkit.net/india) |  |
@@ -74,8 +74,8 @@ Study: [Plonk It](https://www.plonkit.net/indonesia)
 | Region | Postal codes: **1xxxx = Jakarta → 9xxxx = Maluku/Papua** (west→east) | [P](https://www.plonkit.net/indonesia) |  |
 | Region | Satellite-dish angle → which side of equator + how far (points to W. Kalimantan) | [P](https://www.plonkit.net/indonesia) |  |
 | Region | Oil palm → Sumatra/Kalimantan; rice → Java; Nusa (Lesser Sunda) drier & shrubbier | [P](https://www.plonkit.net/indonesia) |  |
-| State | **Bali**: crown-like roof pinnacles, Hindu temples, dark andesite stone; blue horizontal pole text | [P](https://www.plonkit.net/indonesia) |  |
-| State | Cardinal words in addresses: Utara(N) Timur(E) Selatan(S) Barat(W) Tengah(C) | [P](https://www.plonkit.net/indonesia) |  |
+| Region | Cardinal words in addresses: Utara(N) Timur(E) Selatan(S) Barat(W) Tengah(C) | [P](https://www.plonkit.net/indonesia) |  |
+| State | Crown-like roof pinnacles, Hindu temples, dark andesite stone; blue horizontal pole text | [P](https://www.plonkit.net/indonesia) |  |
 | Special | Red soil w/ white-soil layer spilling on road → Bangka Belitung islands | [P](https://www.plonkit.net/indonesia) |  |
 
 ## Japan
@@ -478,7 +478,7 @@ Study: [Plonk It](https://www.plonkit.net/mexico)
 | Region | Monterrey = tall mountains ringing the city; blinding **white soil → Yucatán** (Quintana Roo) | [P](https://www.plonkit.net/mexico) |  |
 | Region | Red brick buildings → states west of CDMX (Jalisco, Michoacán, Guanajuato) | [P](https://www.plonkit.net/mexico) |  |
 | State | Area-code 1st digit = region; postal codes ordered alphabetically by state name | [P](https://www.plonkit.net/mexico) |  |
-| Special | **Jalisco bollards** have crown + "Jalisco" text (only Mexican bollard with writing) | [P](https://www.plonkit.net/mexico) |  |
+| State | **Jalisco bollards** have a crown + "Jalisco" text (only Mexican bollard with writing) | [P](https://www.plonkit.net/mexico) |  |
 | Special | Bollards w/ red band near top → Nayarit; thick cross on sign backs → Chihuahua | [P](https://www.plonkit.net/mexico) |  |
 
 # South America
@@ -525,7 +525,7 @@ Study: [Plonk It](https://www.plonkit.net/argentina)
 | Region | **Cardón cactus** (candelabra) → NW mountains (Salta, Jujuy, Catamarca, Tucumán) | [P](https://www.plonkit.net/argentina) |  |
 | Region | Tierra del Fuego: flat grass + beech forest; Neuquén = flat w/ single poplar rows | [P](https://www.plonkit.net/argentina) |  |
 | Region | Pampas grass → Pampas; sugarcane → Tucumán | [P](https://www.plonkit.net/argentina) |  |
-| State | Vineyards + mountains west + flat east → **Mendoza** wine region | [P](https://www.plonkit.net/argentina) |  |
+| State | Vineyards + mountains to the west + flat east → Mendoza wine region | [P](https://www.plonkit.net/argentina) |  |
 | Special | Salt pans → Jujuy; red bricks (Bolivia-like) → NW (western Jujuy) | [P](https://www.plonkit.net/argentina) |  |
 
 # Oceania
@@ -540,13 +540,13 @@ Study: [Plonk It](https://www.plonkit.net/australia)
 | Country | Almost all **white** road lines — yellow lines → South Africa or NZ instead | [P](https://www.plonkit.net/australia) |  |
 | Country | Give-way sign: white border + **black** text (NZ = red text); speed sign red circle on white rectangle (NZ = no rectangle) | [P](https://www.plonkit.net/australia) |  |
 | Country | Gen3 = long antenna; chevrons white-on-black & black-on-yellow | [P](https://www.plonkit.net/australia) |  |
-| Region | Darwin (NT): dark red soil, black tree trunks; termite mounds → NT | [P](https://www.plonkit.net/australia) |  |
+| Region | Interior = **red soil**, dry; SE + SW corners greener; can "fry eggs" red outback | [P](https://www.plonkit.net/australia) |  |
 | Region | Tasmania: cool temperate green rolling hills (like NZ/S. Chile) | [P](https://www.plonkit.net/australia) |  |
-| Region | Coastal N. Queensland tropical: palms + sugarcane; inland NSW flat, redder soil further inland | [P](https://www.plonkit.net/australia) |  |
-| State | **Stobie pole** (steel + concrete) = **South Australia** (iconic) | [P](https://www.plonkit.net/australia) |  |
-| State | Rusty metal poles w/ holes = **Northern Territory**; 130 km/h speed limit = NT only | [P](https://www.plonkit.net/australia) |  |
-| State | **Yellow signposts = Western Australia**; ~64% of concrete poles → Victoria | [P](https://www.plonkit.net/australia) |  |
-| State | **Red 'No Stopping' signs = NSW only** (others white) | [P](https://www.plonkit.net/australia) |  |
-| State | 'C' roads only in Victoria & Tasmania; fluorescent-border road signs → Queensland | [P](https://www.plonkit.net/australia) |  |
-| State | Bus-stop designs unique per state (Darwin = concrete shelters; Tasmania say 'metro') | [P](https://www.plonkit.net/australia) |  |
-| Special | Snorkel rare cars → NSW/ACT (2 in WA); Christmas I. & Cocos count as Australia for streaks | [P](https://www.plonkit.net/australia) |  |
+| Region | Coastal N. Queensland tropical: palms + sugarcane; Darwin (NT) dark red soil + black tree trunks | [P](https://www.plonkit.net/australia) |  |
+| State | **Stobie pole** (two steel joists + concrete slab middle) is iconic to South Australia | [P](https://www.plonkit.net/australia) |  |
+| State | Rusty metal poles w/ holes; **130 km/h** speed limit = NT only; termite mounds | [P](https://www.plonkit.net/australia) |  |
+| State | **Yellow signposts**; black-and-white **stripy bollards** unique to WA; green-based poles | [P](https://www.plonkit.net/australia) |  |
+| State | ~**64% of concrete poles** are in Victoria; 'C' roads only in Victoria & Tasmania | [P](https://www.plonkit.net/australia) |  |
+| State | Unique **pole-top coils** angled upward; fluorescent-border road signs; black-and-yellow bollard | [P](https://www.plonkit.net/australia) |  |
+| State | **Red 'No Stopping' signs** (other states white); snorkel-fitted rare cars → NSW/ACT | [P](https://www.plonkit.net/australia) |  |
+| State | Different states use different **licence-plate** designs + slogans; 2-digit phone area codes map to state | [P](https://www.plonkit.net/australia) |  |
