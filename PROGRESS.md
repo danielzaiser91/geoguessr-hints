@@ -3,6 +3,12 @@
 Persistent resume file. If work is interrupted, read this + `geoguessr-hints.md` coverage
 tracker and continue from the first unchecked box.
 
+## STATUS: LIVE
+Site published: **https://danielzaiser91.github.io/geoguessr-hints/** (repo
+`danielzaiser91/geoguessr-hints`, Pages = main `/docs`). Webpage + publish DONE.
+Remaining: keep adding countries (17/136 done). To update live: edit `data/`, run
+`python scripts/build.py`, `git add -A && git commit && git push`. Pages auto-rebuilds.
+
 ## Goal
 Interactive 3D-globe learning site for GeoGuessr metas. Click a country → hints filterable by
 **source** and **specificity** → link out to GeoGuessr to practice + Street View to verify.
