@@ -31,9 +31,15 @@
 
 <section class="detail" id="detail">
   <header class="d-head">
-    <button class="back" id="back">← Globe</button>
+    <button class="back" id="back" title="Back to globe" aria-label="Back to globe">
+      <span class="arrow">←</span>
+      <span class="globe"></span>
+    </button>
     <div class="d-title">
-      <h1 id="d-name"></h1>
+      <div class="d-title-row">
+        <h1 id="d-name"></h1>
+        <button class="btn cov" id="covBtn">🗺 Official coverage</button>
+      </div>
       <div class="d-sub" id="d-sub"></div>
     </div>
     <div class="d-actions" id="d-actions"></div>
@@ -43,6 +49,8 @@
     <span class="f-group" id="f-cats"></span>
     <span class="f-label sep">source:</span>
     <span class="f-group" id="f-srcs"></span>
+    <span class="f-label sep">type:</span>
+    <span class="f-group" id="f-types"></span>
     <input id="d-search" class="d-search" type="text" placeholder="Search clues…" autocomplete="off">
   </div>
   <div class="d-body" id="d-body"></div>
@@ -56,6 +64,17 @@
     </div>
     <div id="covmap"></div>
     <div class="modal-foot">Blue lines = official Google Street View. Coverage overlay: Google SV tiles (technique via sv-map.netlify.app).</div>
+  </div>
+</div>
+
+<div class="modal" id="imgModal">
+  <div class="modal-box img">
+    <div class="modal-head">
+      <h3 id="img-title">Image</h3>
+      <div class="x" id="img-close">&times;</div>
+    </div>
+    <div class="img-wrap"><img id="img-el" src="" alt=""></div>
+    <div class="img-cap" id="img-cap"></div>
   </div>
 </div>
 

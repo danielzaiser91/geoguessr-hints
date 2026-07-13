@@ -18,6 +18,24 @@ tracker and continue from the first unchecked box.
    tags). Ireland done multi-sourced. Continue layering GeoMetas onto major countries; images:
    populate `img` per hint where a good source image exists (GeoMetas/Plonk It).
 
+## v3 REQUESTS
+1. ✅ Country detail overlay **flies in from the bottom** (`.detail` transform translateY 100%→0,
+   .44s cubic-bezier + opacity). Verified via transition-off layout test (top 720→0).
+2. ✅ Back button = **spinning globe** div (CSS radial-gradient sphere + `globespin` continents
+   scroll) with a **back arrow above it**. HTML `#back > .arrow + .globe`.
+3. ✅ Per-hint **image button → dialog** (hint text + image). Plonk It images **hotlink fine**
+   cross-origin (tested from live github.io). `img` = bare Plonk It filename; `imgUrl()` builds
+   `https://www.plonkit.net/images/resize/900/80/<folder>/<file>`. Ireland fully imaged (14/14).
+4. ✅ Hint **type** system: `TYPE_META` + `guessType()` (plates/signs/markings/bollards/language/
+   arch/landscape/cars/naming/utility/general); coloured badge per card + **type filter row**.
+   Per-**area sub-sections** for state/region hints (`area` field → grouped). **Highway-shield
+   dialog**: `SHIELDS` map + 🛡 button in state section. US chart vendored `docs/img/shields-us.jpg`
+   (brilliantmaps); **Canada montage built** `docs/img/shields-ca.png` (12 prov/terr, Pillow from
+   Wikimedia). ⏳ still to do: ≥1 specific hint per US state (with `area`).
+5. ⏳ Continue ALL countries (20/136 done).
+6. ✅ "Official coverage" button moved **into the title row** (`#covBtn`, wired to selected) and
+   relabelled just **"🗺 Official coverage"** (country name dropped).
+
 ## STATUS: LIVE
 Site published: **https://danielzaiser91.github.io/geoguessr-hints/** (repo
 `danielzaiser91/geoguessr-hints`, Pages = main `/docs`). Webpage + publish DONE.

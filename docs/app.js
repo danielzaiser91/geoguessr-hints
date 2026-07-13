@@ -10,6 +10,45 @@ const CAT_DESC = {
   state: "First-level subdivision (state/province)", city: "A specific town or city",
   special: "Rare, near-pinpoint clue",
 };
+// Hint "type" — what kind of clue it is. Explicit `type` on a hint wins; else inferred.
+const TYPE_META = {
+  plates:    { label: "Plates",        color: "#8fd6ff" },
+  signs:     { label: "Road signs",    color: "#ff9e6a" },
+  markings:  { label: "Road markings", color: "#f0d15b" },
+  bollards:  { label: "Bollards/poles",color: "#c78bff" },
+  language:  { label: "Language",      color: "#6aa9ff" },
+  arch:      { label: "Architecture",  color: "#e0a878" },
+  landscape: { label: "Landscape",     color: "#5bd6a0" },
+  cars:      { label: "Cars/camera",   color: "#ff6b8b" },
+  naming:    { label: "Names/codes",   color: "#b7c0d6" },
+  utility:   { label: "Infrastructure",color: "#9aa7c4" },
+  general:   { label: "General",       color: "#93a0bd" },
+};
+function guessType(h) {
+  if (h.type) return h.type;
+  const t = (h.text || "").toLowerCase();
+  const has = (...w) => w.some(x => t.includes(x));
+  if (has("plate", "licen", "number plate")) return "plates";
+  if (has("bollard", "snow pole", "guardrail", "reflector", "utility pole", "wooden pole", "delineator")) return "bollards";
+  if (has("chevron", "warning sign", "road sign", "pedestrian sign", "yield", "give way", "stop sign", "signpost", "direction sign", "diamond", "sign =", "signs =", "signage")) return "signs";
+  if (has("road line", "all-white line", "white line", "yellow line", "dashes", "marking", "centre line", "center line", "road edge", "double middle", "outer line")) return "markings";
+  if (has("language", "letter", "script", "alphabet", "cyrillic", "diacritic", "font", "writing", "bilingual", "consonant", "suffix", "å ä ö", "ł ")) return "language";
+  if (has("architect", "building", "house", "roof", "church", "shrine", "brick", "facade", "wooden house", "painted")) return "arch";
+  if (has("forest", "vegetation", "tree-lined", "trees", "grass", "biome", "mountain", "desert", "landscape", "snow", "climate", "palm", "fields", "terrain", "hilly", "flat", "moorland", "rugged", "boreal")) return "landscape";
+  if (has("gen4", "gen3", "gen2", "gen 4", "gen 3", "camera", "antenna", "rig", "blur", "volvo", "vehicle", " car", "cars")) return "cars";
+  if (has("road number", "area code", "phone", "numbered", "road numbering", "anti-clockwise", "first digit", "3-digit", "postcode", "place names", "-owo", "-ów")) return "naming";
+  if (has("pole", "power line", "infrastructure", "roadwork")) return "utility";
+  return "general";
+}
+// Highway-shield reference images (keyed by data country name). Files vendored in docs/img/.
+const SHIELDS = {
+  "United States": { img: "img/shields-us.jpg", title: "US State Route Marker Shields",
+    cap: "Every US state has its **own route-marker shape**. When you see a numbered state route, the shield shape alone narrows the state fast (e.g. California spade, Florida circle-in-oval, Michigan diamond).",
+    credit: 'Reference chart — <a href="https://en.wikipedia.org/wiki/State_highway" target="_blank" rel="noopener">state route markers</a>' },
+  "Canada": { img: "img/shields-ca.png", title: "Canada Provincial Route Shields",
+    cap: "Each **province/territory has its own highway shield** (Ontario crown, Québec fleur-de-lis/route number, BC shield, etc.) — the marker pins the province.",
+    credit: 'Reference chart — <a href="https://en.wikipedia.org/wiki/Numbered_highways_in_Canada" target="_blank" rel="noopener">provincial route markers</a>' },
+};
 // GeoJSON ADMIN name (normalized) -> data country name (normalized)
 const ALIAS = {
   "united states of america": "united states", "russian federation": "russia",
@@ -27,7 +66,7 @@ const norm = (s) => (s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,
 let DATA = null, byNorm = {}, features = [], world = null, selected = null;
 let hovered = null, globe = null, covMap = null, covBase = null, covOverlay = null;
 const covSet = new Set(COVERAGE.map(norm));
-const state = { cats: new Set(CAT_ORDER), srcs: new Set(Object.keys(SRC_NAME)), q: "" };
+const state = { cats: new Set(CAT_ORDER), srcs: new Set(Object.keys(SRC_NAME)), types: new Set(), q: "" };
 
 const featName = (f) => f.properties.ADMIN || f.properties.NAME || f.properties.name;
 const dataForName = (name) => { const n = norm(name); return byNorm[ALIAS[n] || n] || null; };
@@ -133,9 +172,6 @@ function openCountry(d) {
 
   const act = document.getElementById("d-actions"); act.innerHTML = "";
   act.appendChild(mkBtn("gg", (d.links && d.links.geoguessr) || ("https://www.geoguessr.com/maps/community?query=" + encodeURIComponent(d.name)), "▶ Practice on GeoGuessr"));
-  const covBtn = document.createElement("button"); covBtn.className = "btn cov";
-  covBtn.textContent = "🗺 Official coverage for " + d.name;
-  covBtn.onclick = () => openCoverage(d); act.appendChild(covBtn);
   if (d.links && d.links.plonkit) act.appendChild(mkBtn("pk", d.links.plonkit, "Plonk It ↗"));
 
   buildFilters(); state.q = ""; document.getElementById("d-search").value = "";
@@ -163,8 +199,25 @@ function buildFilters() {
     c.onclick = () => { state.srcs.has(s) ? state.srcs.delete(s) : state.srcs.add(s); c.classList.toggle("on"); renderHints(); };
     fs.appendChild(c);
   });
-  document.querySelector(".d-filterbar .f-label.sep").style.display = present.size > 1 ? "" : "none";
+  const seps = document.querySelectorAll(".d-filterbar .f-label.sep");
+  seps[0].style.display = present.size > 1 ? "" : "none";
   fs.style.display = present.size > 1 ? "" : "none";
+
+  // type chips (what kind of clue) — all on by default
+  const ft = document.getElementById("f-types"); ft.innerHTML = "";
+  const types = [...new Set(selected.hints.map(guessType))];
+  state.types = new Set(types);
+  types.forEach(t => {
+    const tm = TYPE_META[t] || TYPE_META.general;
+    const c = document.createElement("span");
+    c.className = "chip ty on"; c.dataset.t = t; c.style.setProperty("--tc", tm.color);
+    c.innerHTML = `<i style="background:${tm.color}"></i>${tm.label}`;
+    c.onclick = () => { state.types.has(t) ? state.types.delete(t) : state.types.add(t); c.classList.toggle("on"); renderHints(); };
+    ft.appendChild(c);
+  });
+  const showTypes = types.length > 1;
+  seps[1].style.display = showTypes ? "" : "none";
+  ft.style.display = showTypes ? "" : "none";
 }
 const mdBold = (s) => s.replace(/\*\*(.+?)\*\*/g, "<b>$1</b>").replace(/`(.+?)`/g, "<code>$1</code>");
 function srcRefs(h) {
@@ -173,6 +226,7 @@ function srcRefs(h) {
     return u ? `<a href="${u}" target="_blank" rel="noopener">${SRC_NAME[s] || s}</a>` : (SRC_NAME[s] || s);
   }).join(" · ");
 }
+const cap = (s) => s[0].toUpperCase() + s.slice(1);
 function renderHints() {
   const body = document.getElementById("d-body"); body.innerHTML = "";
   let total = 0;
@@ -180,22 +234,74 @@ function renderHints() {
     if (!state.cats.has(cat)) return;
     const hints = selected.hints.filter(h => h.cat === cat)
       .filter(h => (h.src || []).some(s => state.srcs.has(s)))
+      .filter(h => state.types.has(guessType(h)))
       .filter(h => !state.q || h.text.toLowerCase().includes(state.q));
     if (!hints.length) return;
     total += hints.length;
     const sec = document.createElement("div"); sec.className = "sec"; sec.dataset.cat = cat;
-    sec.innerHTML = `<div class="sec-h"><span class="bar"></span><span class="c">${cat[0].toUpperCase() + cat.slice(1)}</span><span class="desc">— ${CAT_DESC[cat]}</span></div>`;
-    const cards = document.createElement("div"); cards.className = "cards";
-    hints.forEach(h => {
-      const card = document.createElement("div"); card.className = "card";
-      const img = h.img ? `<img src="${h.img}" loading="lazy" alt="">` : "";
-      const sv = h.sv ? ` · <a href="${h.sv}" target="_blank" rel="noopener">Street View ↗</a>` : "";
-      card.innerHTML = img + `<div class="body"><div class="t">${mdBold(h.text)}</div><div class="m">${srcRefs(h)}${sv}</div></div>`;
-      cards.appendChild(card);
-    });
-    sec.appendChild(cards); body.appendChild(sec);
+    const head = document.createElement("div"); head.className = "sec-h";
+    head.innerHTML = `<span class="bar"></span><span class="c">${cap(cat)}</span><span class="desc">— ${CAT_DESC[cat]}</span>`;
+    if (cat === "state" && SHIELDS[selected.name]) {
+      const sh = SHIELDS[selected.name];
+      const b = document.createElement("button"); b.className = "hbtn"; b.textContent = "🛡 Highway shields";
+      b.onclick = () => openImg(sh.title, sh.img, sh.cap, sh.credit);
+      head.appendChild(b);
+    }
+    sec.appendChild(head);
+    // group by `area` (state/province name) into sub-sections when present
+    const areas = [...new Set(hints.map(h => h.area).filter(Boolean))].sort();
+    if (areas.length) {
+      const noArea = hints.filter(h => !h.area);
+      if (noArea.length) sec.appendChild(subSec(null, noArea, cat));
+      areas.forEach(a => sec.appendChild(subSec(a, hints.filter(h => h.area === a), cat)));
+    } else {
+      sec.appendChild(cardsEl(hints));
+    }
+    body.appendChild(sec);
   });
   if (!total) body.innerHTML = `<div class="empty">No clues match the current filters.</div>`;
+}
+function subSec(area, hints, cat) {
+  const wrap = document.createElement("div"); wrap.className = "subsec";
+  if (area) {
+    const h = document.createElement("div"); h.className = "subsec-h";
+    h.style.color = `var(--${cat})`; h.textContent = area;
+    wrap.appendChild(h);
+  }
+  wrap.appendChild(cardsEl(hints));
+  return wrap;
+}
+function cardsEl(hints) {
+  const cards = document.createElement("div"); cards.className = "cards";
+  hints.forEach(h => cards.appendChild(cardEl(h)));
+  return cards;
+}
+// Resolve a hint's image. Bare filename -> Plonk It image server (folder = plonkit link
+// slug). Full http(s) URL or local "img/…" path pass through unchanged.
+function imgUrl(h) {
+  if (!h.img) return null;
+  if (/^(https?:)?\/\//.test(h.img) || /^img\//.test(h.img)) return h.img;
+  const link = (selected.links && selected.links.plonkit) || "";
+  const folder = link.replace(/^https?:\/\/(www\.)?plonkit\.net\//i, "").replace(/\/.*$/, "") || selected.slug;
+  return `https://www.plonkit.net/images/resize/900/80/${folder}/${encodeURIComponent(h.img)}`;
+}
+function cardEl(h) {
+  const ty = guessType(h); const tm = TYPE_META[ty] || TYPE_META.general;
+  const card = document.createElement("div"); card.className = "card";
+  const sv = h.sv ? ` · <a href="${h.sv}" target="_blank" rel="noopener">Street View ↗</a>` : "";
+  card.innerHTML =
+    `<div class="body">` +
+      `<div class="type"><i style="background:${tm.color}"></i>${tm.label}</div>` +
+      `<div class="t">${mdBold(h.text)}</div>` +
+      `<div class="m">${srcRefs(h)}${sv}</div>` +
+    `</div>`;
+  if (h.img) {
+    const url = imgUrl(h);
+    const b = document.createElement("button"); b.className = "imgbtn"; b.textContent = "📷 Show image";
+    b.onclick = () => openImg(selected.name + " — " + tm.label, url, h.text, "Source: " + srcRefs(h));
+    card.querySelector(".body").appendChild(b);
+  }
+  return card;
 }
 
 /* ---------- coverage modal (Leaflet + Google svv tiles) ---------- */
@@ -221,12 +327,24 @@ function openCoverage(d) {
   }, 60);
 }
 
+/* ---------- image dialog (hint images + highway shields) ---------- */
+function openImg(title, url, capText, creditHTML) {
+  document.getElementById("img-title").textContent = title;
+  const el = document.getElementById("img-el"); el.src = url; el.alt = title;
+  document.getElementById("img-cap").innerHTML =
+    (capText ? mdBold(capText) : "") + (creditHTML ? `<span class="src">${creditHTML}</span>` : "");
+  document.getElementById("imgModal").classList.add("open");
+}
+
 function wireUI() {
   document.getElementById("back").onclick = () => {
     document.getElementById("detail").classList.remove("open");
     globe.controls().autoRotate = true;
   };
   document.getElementById("worldCov").onclick = () => openCoverage(null);
+  document.getElementById("covBtn").onclick = () => { if (selected) openCoverage(selected); };
+  document.getElementById("img-close").onclick = () => document.getElementById("imgModal").classList.remove("open");
+  document.getElementById("imgModal").addEventListener("click", e => { if (e.target.id === "imgModal") document.getElementById("imgModal").classList.remove("open"); });
   document.getElementById("cov-close").onclick = () => document.getElementById("covModal").classList.remove("open");
   document.getElementById("covModal").addEventListener("click", e => { if (e.target.id === "covModal") document.getElementById("covModal").classList.remove("open"); });
   document.getElementById("d-search").oninput = (e) => { state.q = e.target.value.trim().toLowerCase(); renderHints(); };
@@ -242,9 +360,10 @@ function wireUI() {
   };
   document.addEventListener("keydown", e => {
     if (e.key !== "Escape") return;
-    const m = document.getElementById("covModal");
-    if (m.classList.contains("open")) m.classList.remove("open");
-    else document.getElementById("back").click();
+    const im = document.getElementById("imgModal"), cm = document.getElementById("covModal");
+    if (im.classList.contains("open")) im.classList.remove("open");
+    else if (cm.classList.contains("open")) cm.classList.remove("open");
+    else if (document.getElementById("detail").classList.contains("open")) document.getElementById("back").click();
   });
 }
 

@@ -1116,7 +1116,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "ireland_plate.png"
     },
     {
      "cat": "country",
@@ -1126,7 +1127,8 @@
       "geometas"
      ],
      "src_url": "https://geometas.com/metas/countries/ireland/",
-     "sv": null
+     "sv": null,
+     "img": "Yellow_dashes.png"
     },
     {
      "cat": "country",
@@ -1136,7 +1138,8 @@
       "geometas"
      ],
      "src_url": "https://geometas.com/metas/countries/ireland/",
-     "sv": null
+     "sv": null,
+     "img": "Diamond_road_sign.png"
     },
     {
      "cat": "country",
@@ -1146,7 +1149,8 @@
       "geometas"
      ],
      "src_url": "https://geometas.com/metas/countries/ireland/",
-     "sv": null
+     "sv": null,
+     "img": "Bilingual_signs.png"
     },
     {
      "cat": "country",
@@ -1154,7 +1158,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Chevrons.png"
     },
     {
      "cat": "country",
@@ -1162,7 +1167,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Pole_warning_stickers.png"
     },
     {
      "cat": "country",
@@ -1170,7 +1176,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Bollards.png"
     },
     {
      "cat": "country",
@@ -1178,7 +1185,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Grassy_roads.png"
     },
     {
      "cat": "country",
@@ -1186,7 +1194,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "ie_architecture.png"
     },
     {
      "cat": "state",
@@ -1194,7 +1203,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Ireland-road-numbers2.png"
     },
     {
      "cat": "state",
@@ -1202,7 +1212,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "ie_phonecodes.png"
     },
     {
      "cat": "region",
@@ -1210,7 +1221,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Western_coastal_landscape.png"
     },
     {
      "cat": "region",
@@ -1218,7 +1230,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Donegal_Gen_4_roads.png"
     },
     {
      "cat": "special",
@@ -1226,7 +1239,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Tabletop_mountains.png"
     }
    ]
   },
