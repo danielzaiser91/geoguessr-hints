@@ -211,14 +211,14 @@ Study: [Plonk It](https://www.plonkit.net/germany)
 | Country | German: **Ä Ö Ü ß**; Luxembourg has near-identical bollards but **3 bolts** (Germany = 2) | [P](https://www.plonkit.net/germany) |  |
 | Country | **Yellow town-entry signs** (black text, metal frame) = town / municipality / county | [P](https://www.plonkit.net/germany) |  |
 | Country | **"Einbahnstraße"** one-way sign = Germany (Austria = "EINBAHN"); yellow mailboxes | [P](https://www.plonkit.net/germany) |  |
-| Country | km markers: **blue = Autobahn (A-road)**, white w/ black border = B/local; black/dark sign backs (also IT/RO/AL) | [P](https://www.plonkit.net/germany) |  |
+| Country | km markers: **blue = Autobahn (A-road)**, white w/ black border = B/local; black/dark **sign backs** (also IT/RO/AL) | [P](https://www.plonkit.net/germany) |  |
 | Country | **Wind turbines** far more common than anywhere else in Europe; green windshield sticker ("4") | [P](https://www.plonkit.net/germany) |  |
 | Region | Elevation: NW very flat · centre hilly · **south = Alps** (Austrian border) | [P](https://www.plonkit.net/germany) |  |
 | Region | "Commie blocks" (socialist-era apartments) → former **East** Germany | [P](https://www.plonkit.net/germany) |  |
 | Region | Brick houses → NW; thatched roofs + rock walls → Schleswig-Holstein / N. Frisian islands; vineyards → SW | [P](https://www.plonkit.net/germany) |  |
 | State | **Postal codes counter-clockwise: 0 = Saxony (E) → 9 = N. Bavaria** | [P](https://www.plonkit.net/germany) |  |
 | State | Place-name suffixes: **-ow / -itz = east** (Slavic); **-weiler / -ach = south** | [P](https://www.plonkit.net/germany) |  |
-| State | Bavaria: white 3-section road markers + round wooden bollards; black-disk bollard bases → all of eastern Germany | [P](https://www.plonkit.net/germany) |  |
+| State | White **3-section road markers** + round wooden bollards; black-disk bollard bases → all of eastern Germany | [P](https://www.plonkit.net/germany) |  |
 | State | Roadside post styles differ by state (rocky unpainted → Rhineland-Palatinate/Saxony; tall white → Saarland/Thuringia) | [P](https://www.plonkit.net/germany) |  |
 
 ## Finland
@@ -299,9 +299,9 @@ Study: [Plonk It](https://www.plonkit.net/united-kingdom)
 | Country | Roads: **A / M** = major, **B** = minor; terraced / semi-detached houses (61%); brick + chimney pots | [P](https://www.plonkit.net/united-kingdom) |  |
 | Region | A/B-road **first digit = zone** (grouped, like a pie); NI phone = **028**, London = **020** | [P](https://www.plonkit.net/united-kingdom) |  |
 | Region | England countryside = green, hedgerows, low rolling hills (Ireland looks similar — check other clues) | [P](https://www.plonkit.net/united-kingdom) |  |
-| State | **Wales**: bilingual English/Welsh signs; road marking **"Araf"** (= Slow) is Wales-only; Welsh uses LL, W, Y | [P](https://www.plonkit.net/united-kingdom) |  |
-| State | **Scotland**: Scottish Gaelic (green/yellow text) north of Glasgow; barren mountainous **Highlands**; 'Passing Place' diamond signs; red+white round bollards | [P](https://www.plonkit.net/united-kingdom) |  |
-| State | Scotland stone: granite → Aberdeen, red sandstone → Glasgow/Dumfries, yellow sandstone → Edinburgh | [P](https://www.plonkit.net/united-kingdom) |  |
+| State | Bilingual English/Welsh signs; road marking **"Araf"** (= Slow) is Wales-only; Welsh uses LL, W, Y | [P](https://www.plonkit.net/united-kingdom) |  |
+| State | Scottish Gaelic (green/yellow text) north of Glasgow; barren mountainous **Highlands**; 'Passing Place' diamond signs; red+white round bollards | [P](https://www.plonkit.net/united-kingdom) |  |
+| State | Stone buildings: granite → Aberdeen, red sandstone → Glasgow/Dumfries, yellow sandstone → Edinburgh | [P](https://www.plonkit.net/united-kingdom) |  |
 | Special | Warning stickers wrapped all the way around the pole → Northern Ireland; Cornish palms → far SW coast | [P](https://www.plonkit.net/united-kingdom) |  |
 | Special | Isle of Man = **Gen2 only**, counts as UK for country streaks | [P](https://www.plonkit.net/united-kingdom) |  |
 
@@ -375,21 +375,24 @@ Study: [Plonk It](https://www.plonkit.net/canada)
 | Cat | Hint | Src | SV |
 |---|---|---|---|
 | Country | Speed signs say **"MAXIMUM"** (US = "SPEED LIMIT"); km/h, higher numbers | [P](https://www.plonkit.net/canada) |  |
-| Country | British English (centre, colour) + metric; less wordy signs than US | [P](https://www.plonkit.net/canada) |  |
-| Country | **Diamond-shaped T-intersection sign = Canada only** (US uses rectangular) | [P](https://www.plonkit.net/canada) |  |
+| Country | British English (centre, colour) + metric; less wordy signs than the US | [P](https://www.plonkit.net/canada) |  |
+| Country | **Diamond/checkerboard T-intersection sign = Canada only** (US uses rectangular) | [P](https://www.plonkit.net/canada) |  |
 | Country | Usually **single** yellow centre line (US = more double yellow) | [P](https://www.plonkit.net/canada) |  |
 | Country | Lots of **Gen2** (rural/remote) → if Gen2 in N. America, likely Canada; Gen3 mirror = two peaks (US single) | [P](https://www.plonkit.net/canada) |  |
 | Country | Canada Post **red** logo; communal mailboxes (rare in US, USPS = blue) | [P](https://www.plonkit.net/canada) |  |
-| State | **Alberta bollard**: cylindrical, 2 black bands (white/yellow between); very common at intersections | [P](https://www.plonkit.net/canada) |  |
-| State | **BC bollard**: thin, slightly curved, black+white (esp. Vancouver Island) | [P](https://www.plonkit.net/canada) |  |
-| State | **NWT bollard**: cylindrical w/ 2 *thick* black bands (AB bands are thinner) | [P](https://www.plonkit.net/canada) |  |
-| State | Manitoba: black+grey bollard w/ orange stripe | [P](https://www.plonkit.net/canada) |  |
-| State | **French majority → Québec** + parts of New Brunswick; "Arrêt" stop sign = QC only; "Stop/Arrêt" bilingual = NB | [P](https://www.plonkit.net/canada) |  |
-| State | Québec: white guardrail bollards w/ red/green reflector; yellow fire-hydrant markers on signposts | [P](https://www.plonkit.net/canada) |  |
-| State | Ontario: km markers w/ white square at bottom (unique); diamond roadside markers | [P](https://www.plonkit.net/canada) |  |
-| State | Saskatchewan: alternating pole-top insulators (1L/2R then 2L/1R); white triangles on posts | [P](https://www.plonkit.net/canada) |  |
-| State | BC: green sign backsides; PEI/Nova Scotia transformers mounted at 45° | [P](https://www.plonkit.net/canada) |  |
-| Special | **Alberta rural roads numbered sequentially** (Twp Rd / Range Rd) → near-exact location from a sign | [P](https://www.plonkit.net/canada) |  |
+| Region | West very **mountainous** (BC, W. Alberta, Yukon); Great Plains prairies flat w/ agriculture in the centre | [P](https://www.plonkit.net/canada) |  |
+| Region | **Canadian Shield** (rocky outcrops + lakes + boreal forest) across the east | [P](https://www.plonkit.net/canada) |  |
+| State | Area codes learnable by province; each province has its own **plate** design + flag | [P](https://www.plonkit.net/canada) |  |
+| State | **Bollard**: cylindrical, 2 black bands (white or yellow band between); very common at intersections | [P](https://www.plonkit.net/canada) |  |
+| State | Rural roads **numbered sequentially** (Twp Rd / Range Rd) → near-exact location from a sign | [P](https://www.plonkit.net/canada) |  |
+| State | Thin, slightly curved black+white **bollard** (esp. Vancouver Island); often **concrete barriers** instead of guardrails | [P](https://www.plonkit.net/canada) |  |
+| State | Bollard with a plain **black top** (also Saskatchewan); green+white striped sticker on signposts | [P](https://www.plonkit.net/canada) |  |
+| State | **Bollard**: cylindrical with 2 *thick* black bands (Alberta's bands are thinner) | [P](https://www.plonkit.net/canada) |  |
+| State | **Diamond** roadside markers; km markers with a white square at the bottom | [P](https://www.plonkit.net/canada) |  |
+| State | **French majority**; **"Arrêt"** stop sign = QC only ("Stop/Arrêt" bilingual = New Brunswick) | [P](https://www.plonkit.net/canada) |  |
+| State | White **bollards attached to guardrails** (red/green reflector); orange & white striped traffic cones | [P](https://www.plonkit.net/canada) |  |
+| State | Alternating pole-top insulators (1L/2R ↔ 2L/1R); **white triangles** on signposts | [P](https://www.plonkit.net/canada) |  |
+| State | Guardrail wooden posts with a **pyramid-shaped top**; diamond marker beside fire hydrants | [P](https://www.plonkit.net/canada) |  |
 
 ## United States
 Study: [Plonk It](https://www.plonkit.net/usa)
@@ -488,7 +491,7 @@ Study: [Plonk It](https://www.plonkit.net/brazil)
 | State | 2-letter state acronyms on km markers / state road numbers | [P](https://www.plonkit.net/brazil) |  |
 | State | CEP postcode first 2 digits: numbering runs anti-clockwise from São Paulo → ends Rio Grande do Sul | [P](https://www.plonkit.net/brazil) |  |
 | State | Round concrete poles → south (esp. São Paulo); wooden poles → RS, Roraima, Amazonas, RJ | [P](https://www.plonkit.net/brazil) |  |
-| State | Roraima: open grassy plains, distant mountains, thin bunched grass | [P](https://www.plonkit.net/brazil) |  |
+| State | Open grassy plains, distant mountains, thin bunched grass | [P](https://www.plonkit.net/brazil) |  |
 | Special | "Brown mushroom" insulators → only Pernambuco; "white mushroom" → Bahia | [P](https://www.plonkit.net/brazil) |  |
 | Special | "Pencil pole" (smooth cone top) → Rio de Janeiro; pole street-names painted → Paraná | [P](https://www.plonkit.net/brazil) |  |
 

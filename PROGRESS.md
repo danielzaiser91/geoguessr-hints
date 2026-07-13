@@ -113,6 +113,35 @@ Collection priority = play value / size first, micro-territories last.
 - [ ] Test site: globe interaction, filters, links resolve, mobile layout, no console errors.
 - [ ] Final review pass for duplicates / weak hints; tighten.
 
+## Resume pointer (v3 grind)
+**23/136 countries.** Done: Brazil, USA (⭐ upgraded: 29 per-state sections + images), Russia, Canada,
+China, Australia, India, Indonesia, Argentina, Mexico, Japan, France, Germany, United Kingdom, Spain,
+Italy, Netherlands, Ireland (⭐ imaged 14/14), Poland, Sweden, **Norway, Finland, Denmark** (new, fully
+image-backed + typed).
+
+### Per-country workflow (FAST — ~3 calls each)
+1. `navigate` browser (tab `seed`) to `plonkit.net/<slug>`.
+2. One `javascript_tool` call — the **combined extractor** returns `{folder, imgs:[{file,h}], text}`:
+   walks h1–h4 + img in doc order (heading carries down), regex `\/images\/resize\/\d+\/\d+\/([^/]+)\/(.+)$`
+   → group1 = **real image folder**, group2 = filename; plus `main.innerText.slice(0,~15000)`.
+3. Write `data/<slug>.json`: distill 12–24 high-signal hints. Each hint: `cat` (country/region/state/city/
+   special), `src:["plonkit"]`, `sv:null`, **`img`** = bare Plonk It filename (from extractor), optional
+   `type` (only when guessType would misfire), optional `area` (state/province name → per-area sub-section).
+   If the extractor `folder` ≠ what imgUrl derives from the plonkit link slug, add top-level
+   **`"img_folder": "<folder>"`** (e.g. USA link /usa but folder `united-states`).
+4. Every ~3 countries: `python scripts/build.py` → `git add -A && commit && push` (Pages auto-updates).
+   Optionally verify a few image URLs load via the browser Image() test from the github.io origin.
+
+`guessType` keywords→type live in app.js (plates/signs/markings/bollards/language/arch/landscape/cars/
+naming/utility/general). Shields dialog wired for United States + Canada (docs/img/shields-*).
+
+### Still TODO
+- **Backfill images** into the 17 original countries (Brazil, Russia, Canada, China, Australia, India,
+  Indonesia, Argentina, Mexico, Japan, France, Germany, UK, Spain, Italy, Netherlands, Poland, Sweden) —
+  navigate each, extract, add `img` (+ `img_folder` if needed). Canada: also add per-province `state`
+  hints (shields dialog already wired).
+- Keep adding the remaining ~110 countries (continent order, biggest first).
+
 ## Resume pointer
 Last done: **17 countries** (Brazil, USA, Russia, Canada, China, Australia, India, Indonesia,
 Argentina, Mexico, Japan, France, Germany, United Kingdom, Spain, Italy, Netherlands).

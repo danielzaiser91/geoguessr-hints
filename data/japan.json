@@ -5,17 +5,17 @@
  "area_km2": 377975,
  "links": { "plonkit": "https://www.plonkit.net/japan", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "**Low-cam** (camera looks down, road looks wide) — only other always-low-cam = Switzerland (blurred there)", "src": ["plonkit"], "sv": null },
-  { "cat": "country", "text": "Drives **left**; writing = kanji + hiragana (loopy, soft) + katakana (geometric, loan words)", "src": ["plonkit"], "sv": null },
-  { "cat": "country", "text": "Plates: short white w/ **green text**; Kei cars = **yellow w/ black text**", "src": ["plonkit"], "sv": null },
-  { "cat": "country", "text": "Round concrete poles w/ screw-like extensions + info plates (region key); road lines **never yellow on the outside**", "src": ["plonkit"], "sv": null },
-  { "cat": "country", "text": "Prefecture roads = **hexagonal shields** (kanji under the number); distinctive red inverted-triangle stop sign; traffic mirrors; rural retaining walls", "src": ["plonkit"], "sv": null },
-  { "cat": "region", "text": "**Area codes increase toward the south**", "src": ["plonkit"], "sv": null },
-  { "cat": "region", "text": "Learn place-name kanji: 県 (prefecture), 市 (city), 北/南/東/西 (N/S/E/W) → fast city finding", "src": ["plonkit"], "sv": null },
-  { "cat": "region", "text": "4 main islands N→S: Hokkaidō, Honshū, Shikoku, Kyūshū; 47 prefectures", "src": ["plonkit"], "sv": null },
-  { "cat": "state", "text": "Pole plates, reflectors, guy-wires & transformer mounting styles differ per region (Hokkaidō, Tōhoku, Kantō, Kansai…) — strong pinpoint tools", "src": ["plonkit"], "sv": null },
-  { "cat": "state", "text": "Orange arrow above top pole plate → Chūgoku; orange/black pole bands → Shikoku", "src": ["plonkit"], "sv": null },
-  { "cat": "region", "text": "Hokkaidō = wide flat grid farmland, snow; subtropical dense green → Kyūshū/Okinawa", "src": ["plonkit"], "sv": null },
-  { "cat": "special", "text": "Bollards may have the city/prefecture written in kanji → near-pinpoint", "src": ["plonkit"], "sv": null }
+  { "cat": "country", "text": "**Low-cam** (camera looks down, road looks wide) — only other always-low-cam = Switzerland (blurred there)", "src": ["plonkit"], "sv": null, "img": "4.png", "type": "cars" },
+  { "cat": "country", "text": "Drives **left**; writing = kanji + hiragana (loopy, soft) + katakana (geometric, loan words)", "src": ["plonkit"], "sv": null, "img": "6.png", "type": "language" },
+  { "cat": "country", "text": "Plates: short white w/ **green text**; Kei cars = **yellow w/ black text**", "src": ["plonkit"], "sv": null, "img": "12.png" },
+  { "cat": "country", "text": "Round concrete poles w/ screw-like extensions + info plates (region key); road lines **never yellow on the outside**", "src": ["plonkit"], "sv": null, "img": "10.png", "type": "utility" },
+  { "cat": "country", "text": "Prefecture roads = **hexagonal shields** (kanji under the number); distinctive red inverted-triangle stop sign; traffic mirrors; rural retaining walls", "src": ["plonkit"], "sv": null, "img": "16.png", "type": "signs" },
+  { "cat": "region", "text": "**Area codes increase toward the south**", "src": ["plonkit"], "sv": null, "img": "jp_areacodes_darkmode.png", "type": "naming" },
+  { "cat": "region", "text": "Learn place-name kanji: 県 (prefecture), 市 (city), 北/南/東/西 (N/S/E/W) → fast city finding", "src": ["plonkit"], "sv": null, "img": "8.png", "type": "language" },
+  { "cat": "region", "text": "4 main islands N→S: Hokkaidō, Honshū, Shikoku, Kyūshū; 47 prefectures", "src": ["plonkit"], "sv": null, "img": "3.png", "type": "naming" },
+  { "cat": "state", "text": "Pole plates, reflectors, guy-wires & transformer mounting styles differ per region (Hokkaidō, Tōhoku, Kantō, Kansai…) — strong pinpoint tools", "src": ["plonkit"], "sv": null, "img": "Japan Pole Reflector.jpg", "type": "utility" },
+  { "cat": "state", "text": "Orange arrow above top pole plate → Chūgoku; orange/black pole bands → Shikoku", "src": ["plonkit"], "sv": null, "img": "23.png", "type": "utility" },
+  { "cat": "region", "text": "Hokkaidō = wide flat grid farmland, snow; subtropical dense green → Kyūshū/Okinawa", "src": ["plonkit"], "sv": null, "img": "68.png", "type": "landscape" },
+  { "cat": "special", "text": "Bollards may have the city/prefecture written in kanji → near-pinpoint", "src": ["plonkit"], "sv": null, "img": "14.png", "type": "bollards" }
  ]
 }

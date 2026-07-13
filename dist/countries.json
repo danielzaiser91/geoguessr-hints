@@ -264,7 +264,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Brazil_License_Plate.png"
     },
     {
      "cat": "country",
@@ -272,7 +273,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Portuguese.png"
     },
     {
      "cat": "country",
@@ -280,7 +282,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "soil.png",
+     "type": "landscape"
     },
     {
      "cat": "country",
@@ -288,7 +292,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "ladders.png",
+     "type": "utility"
     },
     {
      "cat": "country",
@@ -296,7 +302,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Black_sign_back.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -304,7 +312,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Untitled_design32.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -312,7 +322,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "doubleyellow.png",
+     "type": "markings"
     },
     {
      "cat": "country",
@@ -320,7 +332,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "transparentdish.png",
+     "type": "utility"
     },
     {
      "cat": "country",
@@ -328,7 +342,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "gen3.png",
+     "type": "cars"
     },
     {
      "cat": "region",
@@ -336,7 +352,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "br_coverage.png",
+     "type": "general"
     },
     {
      "cat": "region",
@@ -344,7 +362,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "caatinga.png",
+     "type": "landscape"
     },
     {
      "cat": "region",
@@ -352,7 +372,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "paranapine.png",
+     "type": "landscape"
     },
     {
      "cat": "region",
@@ -360,7 +382,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Carnauba_2.png",
+     "type": "landscape"
     },
     {
      "cat": "state",
@@ -368,7 +392,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Brasil_-_C_C3_B3digos_de__C3_A1rea_DDD.png",
+     "type": "naming"
     },
     {
      "cat": "state",
@@ -376,7 +402,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "State_acronyms.png",
+     "type": "naming"
     },
     {
      "cat": "state",
@@ -384,7 +412,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "cepcodes.png",
+     "type": "naming"
     },
     {
      "cat": "state",
@@ -392,15 +422,19 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Brazil_Round_Poles_2.png",
+     "type": "utility"
     },
     {
      "cat": "state",
-     "text": "Roraima: open grassy plains, distant mountains, thin bunched grass",
+     "area": "Roraima",
+     "text": "Open grassy plains, distant mountains, thin bunched grass",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "roraima.png"
     },
     {
      "cat": "special",
@@ -408,7 +442,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "brown_mushroom.png",
+     "type": "utility"
     },
     {
      "cat": "special",
@@ -416,7 +452,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "br_riopencilpole.png",
+     "type": "utility"
     }
    ]
   },
@@ -436,23 +474,29 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Canada_maximum_sign.png",
+     "type": "signs"
     },
     {
      "cat": "country",
-     "text": "British English (centre, colour) + metric; less wordy signs than US",
+     "text": "British English (centre, colour) + metric; less wordy signs than the US",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Canada_British_English_and_metric_v2.png",
+     "type": "general"
     },
     {
      "cat": "country",
-     "text": "**Diamond-shaped T-intersection sign = Canada only** (US uses rectangular)",
+     "text": "**Diamond/checkerboard T-intersection sign = Canada only** (US uses rectangular)",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Checkerboard.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -460,7 +504,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Road_lines.png",
+     "type": "markings"
     },
     {
      "cat": "country",
@@ -468,7 +514,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Canada_gen_2.png",
+     "type": "cars"
     },
     {
      "cat": "country",
@@ -476,87 +524,149 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Canada_communal_mailbox.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "West very **mountainous** (BC, W. Alberta, Yukon); Great Plains prairies flat w/ agriculture in the centre",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Canada_mountains2.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "region",
+     "text": "**Canadian Shield** (rocky outcrops + lakes + boreal forest) across the east",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Canada_Map32.png",
+     "type": "landscape"
     },
     {
      "cat": "state",
-     "text": "**Alberta bollard**: cylindrical, 2 black bands (white/yellow between); very common at intersections",
+     "text": "Area codes learnable by province; each province has its own **plate** design + flag",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Canada_area_codes2.png",
+     "type": "naming"
     },
     {
      "cat": "state",
-     "text": "**BC bollard**: thin, slightly curved, black+white (esp. Vancouver Island)",
+     "area": "Alberta",
+     "text": "**Bollard**: cylindrical, 2 black bands (white or yellow band between); very common at intersections",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Alberta_bollard.png",
+     "type": "bollards"
     },
     {
      "cat": "state",
-     "text": "**NWT bollard**: cylindrical w/ 2 *thick* black bands (AB bands are thinner)",
+     "area": "Alberta",
+     "text": "Rural roads **numbered sequentially** (Twp Rd / Range Rd) → near-exact location from a sign",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Alberta_road_system.png",
+     "type": "naming"
     },
     {
      "cat": "state",
-     "text": "Manitoba: black+grey bollard w/ orange stripe",
+     "area": "British Columbia",
+     "text": "Thin, slightly curved black+white **bollard** (esp. Vancouver Island); often **concrete barriers** instead of guardrails",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Canada_Map18.png",
+     "type": "bollards"
     },
     {
      "cat": "state",
-     "text": "**French majority → Québec** + parts of New Brunswick; \"Arrêt\" stop sign = QC only; \"Stop/Arrêt\" bilingual = NB",
+     "area": "Manitoba",
+     "text": "Bollard with a plain **black top** (also Saskatchewan); green+white striped sticker on signposts",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Canada_Map16.png",
+     "type": "bollards"
     },
     {
      "cat": "state",
-     "text": "Québec: white guardrail bollards w/ red/green reflector; yellow fire-hydrant markers on signposts",
+     "area": "Northwest Territories",
+     "text": "**Bollard**: cylindrical with 2 *thick* black bands (Alberta's bands are thinner)",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "NWT_bollard.png",
+     "type": "bollards"
     },
     {
      "cat": "state",
-     "text": "Ontario: km markers w/ white square at bottom (unique); diamond roadside markers",
+     "area": "Ontario",
+     "text": "**Diamond** roadside markers; km markers with a white square at the bottom",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Untitled_2200_1080_px_1.png",
+     "type": "signs"
     },
     {
      "cat": "state",
-     "text": "Saskatchewan: alternating pole-top insulators (1L/2R then 2L/1R); white triangles on posts",
+     "area": "Québec",
+     "text": "**French majority**; **\"Arrêt\"** stop sign = QC only (\"Stop/Arrêt\" bilingual = New Brunswick)",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "French_In_Canada_4.png",
+     "type": "language"
     },
     {
      "cat": "state",
-     "text": "BC: green sign backsides; PEI/Nova Scotia transformers mounted at 45°",
+     "area": "Québec",
+     "text": "White **bollards attached to guardrails** (red/green reflector); orange & white striped traffic cones",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Quebec_bollard_v2.png",
+     "type": "bollards"
     },
     {
-     "cat": "special",
-     "text": "**Alberta rural roads numbered sequentially** (Twp Rd / Range Rd) → near-exact location from a sign",
+     "cat": "state",
+     "area": "Saskatchewan",
+     "text": "Alternating pole-top insulators (1L/2R ↔ 2L/1R); **white triangles** on signposts",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Sask_Spikes.png",
+     "type": "utility"
+    },
+    {
+     "cat": "state",
+     "area": "Newfoundland & Labrador",
+     "text": "Guardrail wooden posts with a **pyramid-shaped top**; diamond marker beside fire hydrants",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Newfounland_and_Labrador_pyramids.png",
+     "type": "utility"
     }
    ]
   },
@@ -1074,7 +1184,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "1_licenceplate2.png"
     },
     {
      "cat": "country",
@@ -1082,7 +1193,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "1_language.png"
     },
     {
      "cat": "country",
@@ -1090,7 +1202,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Bollard.png",
+     "type": "bollards"
     },
     {
      "cat": "country",
@@ -1098,7 +1212,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Ladder_poles.png",
+     "type": "utility"
     },
     {
      "cat": "country",
@@ -1106,7 +1222,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "1_roadnumber.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -1114,7 +1232,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Chevrons.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -1122,7 +1242,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Middle_Z_line.png",
+     "type": "markings"
     },
     {
      "cat": "country",
@@ -1130,7 +1252,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "1_carbrands.png",
+     "type": "cars"
     },
     {
      "cat": "state",
@@ -1138,7 +1262,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "2_postcodes.png",
+     "type": "naming"
     },
     {
      "cat": "state",
@@ -1146,7 +1272,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "2_areacodes.png",
+     "type": "naming"
     },
     {
      "cat": "state",
@@ -1154,7 +1282,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "2_departmentlogo2.png",
+     "type": "naming"
     },
     {
      "cat": "region",
@@ -1162,7 +1292,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "1_architecture.jpg",
+     "type": "arch"
     },
     {
      "cat": "region",
@@ -1170,7 +1302,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "2_languageoverview.png",
+     "type": "language"
     }
    ]
   },
@@ -1190,7 +1324,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Germany_Bollard_v2.png"
     },
     {
      "cat": "country",
@@ -1198,7 +1333,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "German.png"
     },
     {
      "cat": "country",
@@ -1206,7 +1342,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "German_town_entry_signs.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -1214,15 +1352,19 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "de_einbahnstrasse.png",
+     "type": "signs"
     },
     {
      "cat": "country",
-     "text": "km markers: **blue = Autobahn (A-road)**, white w/ black border = B/local; black/dark sign backs (also IT/RO/AL)",
+     "text": "km markers: **blue = Autobahn (A-road)**, white w/ black border = B/local; black/dark **sign backs** (also IT/RO/AL)",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "German_Signback.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -1230,7 +1372,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Windmills_Hint.png",
+     "type": "landscape"
     },
     {
      "cat": "region",
@@ -1238,7 +1382,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Improved_Terrain_Map_of_Germany.png"
     },
     {
      "cat": "state",
@@ -1246,7 +1391,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "postleitzahlen_deutschland_cropped.png",
+     "type": "naming"
     },
     {
      "cat": "state",
@@ -1254,7 +1401,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "German_Suffixes_Map.png",
+     "type": "naming"
     },
     {
      "cat": "region",
@@ -1262,7 +1411,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Commie_Blocks_Hint.png",
+     "type": "arch"
     },
     {
      "cat": "region",
@@ -1270,15 +1421,20 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Brick_Houses_Hint.png",
+     "type": "arch"
     },
     {
      "cat": "state",
-     "text": "Bavaria: white 3-section road markers + round wooden bollards; black-disk bollard bases → all of eastern Germany",
+     "area": "Bavaria",
+     "text": "White **3-section road markers** + round wooden bollards; black-disk bollard bases → all of eastern Germany",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Bavaria_Markers.png",
+     "type": "bollards"
     },
     {
      "cat": "state",
@@ -1286,7 +1442,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Germany_Triangle_Posts_Map.png",
+     "type": "utility"
     }
    ]
   },
@@ -1806,7 +1964,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "4.png",
+     "type": "cars"
     },
     {
      "cat": "country",
@@ -1814,7 +1974,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "6.png",
+     "type": "language"
     },
     {
      "cat": "country",
@@ -1822,7 +1984,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "12.png"
     },
     {
      "cat": "country",
@@ -1830,7 +1993,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "10.png",
+     "type": "utility"
     },
     {
      "cat": "country",
@@ -1838,7 +2003,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "16.png",
+     "type": "signs"
     },
     {
      "cat": "region",
@@ -1846,7 +2013,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "jp_areacodes_darkmode.png",
+     "type": "naming"
     },
     {
      "cat": "region",
@@ -1854,7 +2023,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "8.png",
+     "type": "language"
     },
     {
      "cat": "region",
@@ -1862,7 +2033,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "3.png",
+     "type": "naming"
     },
     {
      "cat": "state",
@@ -1870,7 +2043,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Japan Pole Reflector.jpg",
+     "type": "utility"
     },
     {
      "cat": "state",
@@ -1878,7 +2053,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "23.png",
+     "type": "utility"
     },
     {
      "cat": "region",
@@ -1886,7 +2063,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "68.png",
+     "type": "landscape"
     },
     {
      "cat": "special",
@@ -1894,7 +2073,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "14.png",
+     "type": "bollards"
     }
    ]
   },
@@ -2811,7 +2992,8 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "United_Kingdom_License_Plate.png"
     },
     {
      "cat": "country",
@@ -2819,7 +3001,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Cats_eyes_dashes2.png",
+     "type": "markings"
     },
     {
      "cat": "country",
@@ -2827,7 +3011,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Bollard.png",
+     "type": "bollards"
     },
     {
      "cat": "country",
@@ -2835,7 +3021,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Chevron.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -2843,7 +3031,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Yield_signs2.png",
+     "type": "signs"
     },
     {
      "cat": "country",
@@ -2851,7 +3041,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Red_brick_architecture.png",
+     "type": "arch"
     },
     {
      "cat": "region",
@@ -2859,31 +3051,42 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "gb_phone_numbers.webp",
+     "type": "naming"
     },
     {
      "cat": "state",
-     "text": "**Wales**: bilingual English/Welsh signs; road marking **\"Araf\"** (= Slow) is Wales-only; Welsh uses LL, W, Y",
+     "area": "Wales",
+     "text": "Bilingual English/Welsh signs; road marking **\"Araf\"** (= Slow) is Wales-only; Welsh uses LL, W, Y",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Welsh.png",
+     "type": "language"
     },
     {
      "cat": "state",
-     "text": "**Scotland**: Scottish Gaelic (green/yellow text) north of Glasgow; barren mountainous **Highlands**; 'Passing Place' diamond signs; red+white round bollards",
+     "area": "Scotland",
+     "text": "Scottish Gaelic (green/yellow text) north of Glasgow; barren mountainous **Highlands**; 'Passing Place' diamond signs; red+white round bollards",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "UK-Scottish-Gaelic.png",
+     "type": "language"
     },
     {
      "cat": "state",
-     "text": "Scotland stone: granite → Aberdeen, red sandstone → Glasgow/Dumfries, yellow sandstone → Edinburgh",
+     "area": "Scotland",
+     "text": "Stone buildings: granite → Aberdeen, red sandstone → Glasgow/Dumfries, yellow sandstone → Edinburgh",
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Scottish_Buildings.png",
+     "type": "arch"
     },
     {
      "cat": "region",
@@ -2891,7 +3094,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "Rural_landscape.png",
+     "type": "landscape"
     },
     {
      "cat": "special",
@@ -2899,7 +3104,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "ni_wraparound_warning.png",
+     "type": "general"
     },
     {
      "cat": "special",
@@ -2907,7 +3114,9 @@
      "src": [
       "plonkit"
      ],
-     "sv": null
+     "sv": null,
+     "img": "uk_isleofmanlocation.png",
+     "type": "general"
     }
    ]
   },
