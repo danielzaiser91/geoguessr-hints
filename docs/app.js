@@ -392,6 +392,12 @@ function cardEl(h) {
     b.onclick = () => openImg(selected.name + " — " + tm.label, url, h.text, "Source: " + srcRefs(h));
     card.querySelector(".body").appendChild(b);
   }
+  if (h.src && h.src.length) {
+    const sb = document.createElement("button"); sb.className = "srcbtn"; sb.type = "button";
+    sb.innerHTML = "🔗 src"; sb.title = "Where to verify this clue";
+    sb.onclick = (e) => { e.stopPropagation(); openSources(h); };
+    card.appendChild(sb);
+  }
   if (gallery) wireGalleryZoom(card, h);
   return card;
 }
@@ -463,6 +469,21 @@ function openImg(title, url, capText, creditHTML) {
   document.getElementById("imgModal").classList.add("open");
 }
 
+/* ---------- per-clue source dialog ---------- */
+const PK_STEP = { country: "Step 1 · Identifying", region: "Step 2 · Regional clues",
+  state: "Step 2 · Regional / subdivision clues", city: "Step 3 · Spotlight", special: "Step 3 · Spotlight" };
+function openSources(h) {
+  const rows = (h.src || []).map(s => {
+    let url, sub;
+    if (s === "plonkit") { url = (selected.links && selected.links.plonkit) || ""; sub = selected.name + " guide" + (PK_STEP[h.cat] ? " · " + PK_STEP[h.cat] : ""); }
+    else { url = h.src_url || SRC_URL[s] || ""; sub = "Reference"; }
+    return `<div class="srcrow"><div class="srcmeta"><span class="srcname">${SRC_NAME[s] || s}</span><span class="srcsub">${sub}</span></div>` +
+      (url ? `<a class="srcgo" href="${url}" target="_blank" rel="noopener">Open ↗</a>` : `<span class="srcgo off">no link</span>`) + `</div>`;
+  }).join("");
+  document.getElementById("src-quote").innerHTML = flagify(mdBold(h.text));
+  document.getElementById("src-body").innerHTML = rows || `<div class="srcempty">No source recorded for this clue.</div>`;
+  document.getElementById("srcModal").classList.add("open");
+}
 function syncViewToggle() {
   document.querySelectorAll("#viewtoggle .vt-btn").forEach(b => b.classList.toggle("on", b.dataset.view === state.view));
 }
@@ -486,6 +507,8 @@ function wireUI() {
   document.getElementById("imgModal").addEventListener("click", e => { if (e.target.id === "imgModal") document.getElementById("imgModal").classList.remove("open"); });
   document.getElementById("cov-close").onclick = () => document.getElementById("covModal").classList.remove("open");
   document.getElementById("covModal").addEventListener("click", e => { if (e.target.id === "covModal") document.getElementById("covModal").classList.remove("open"); });
+  document.getElementById("src-close").onclick = () => document.getElementById("srcModal").classList.remove("open");
+  document.getElementById("srcModal").addEventListener("click", e => { if (e.target.id === "srcModal") document.getElementById("srcModal").classList.remove("open"); });
   document.querySelectorAll("#viewtoggle .vt-btn").forEach(b => {
     b.onclick = () => { state.view = b.dataset.view; saveView(state.view); syncViewToggle(); if (selected) renderHints(); };
   });
@@ -503,8 +526,9 @@ function wireUI() {
   };
   document.addEventListener("keydown", e => {
     if (e.key !== "Escape") return;
-    const im = document.getElementById("imgModal"), cm = document.getElementById("covModal");
-    if (im.classList.contains("open")) im.classList.remove("open");
+    const im = document.getElementById("imgModal"), cm = document.getElementById("covModal"), sm = document.getElementById("srcModal");
+    if (sm.classList.contains("open")) sm.classList.remove("open");
+    else if (im.classList.contains("open")) im.classList.remove("open");
     else if (cm.classList.contains("open")) cm.classList.remove("open");
     else if (document.getElementById("detail").classList.contains("open")) document.getElementById("back").click();
   });

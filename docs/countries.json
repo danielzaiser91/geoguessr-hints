@@ -11180,11 +11180,12 @@
     {
      "super": true,
      "cat": "state",
-     "text": "Area codes: **8-** = west, **3-** = central, **4-** = east/Moscow",
+     "text": "Area codes: **8-** = west, **3-** = fairly central, **4-** = **far-east or the Moscow area** (a leading 4 is ambiguous — Moscow itself is 495/499, in the west)",
      "src": [
       "plonkit"
      ],
      "sv": null,
+     "img": "areacodes.png",
      "type": "naming"
     },
     {
