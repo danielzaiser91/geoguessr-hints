@@ -330,7 +330,9 @@ function buildFilters() {
 const mdBold = (s) => s.replace(/\*\*(.+?)\*\*/g, "<b>$1</b>").replace(/`(.+?)`/g, "<code>$1</code>");
 function srcRefs(h, opt) {
   return (h.src || []).filter(s => !(opt && opt.noPlonkit && s === "plonkit")).map(s => {
-    const u = s === "plonkit" ? (selected.links && selected.links.plonkit) : (h.src_url || SRC_URL[s]);
+    let u;
+    if (s === "plonkit") { u = (selected.links && selected.links.plonkit) || ""; if (u && h.anchor) u += "#" + h.anchor; }
+    else u = h.src_url || SRC_URL[s];
     return u ? `<a href="${u}" target="_blank" rel="noopener">${SRC_NAME[s] || s}</a>` : (SRC_NAME[s] || s);
   }).join(" · ");
 }
