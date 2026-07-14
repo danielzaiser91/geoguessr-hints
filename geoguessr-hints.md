@@ -12,11 +12,11 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**99 / 136 countries.**
+**105 / 136 countries.**
 
 **Africa:** ✅ Botswana ✅ Egypt ✅ Eswatini ✅ Ghana ✅ Kenya ✅ Lesotho ✅ Madagascar ✅ Mali ✅ Namibia ✅ Nigeria ⬜ Reunion ✅ Rwanda ✅ Senegal ✅ South Africa ⬜ São Tomé and Príncipe ✅ Tanzania ✅ Tunisia ✅ Uganda
-**Asia:** ✅ Bangladesh ✅ Bhutan ⬜ British Indian Ocean Territory ✅ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ✅ Iraq ⬜ Israel & the West Bank ✅ Japan ✅ Jordan ✅ Kazakhstan ✅ Kyrgyzstan ✅ Laos ✅ Lebanon ⬜ Macau ✅ Malaysia ✅ Mongolia ✅ Nepal ✅ Oman ✅ Pakistan ✅ Philippines ✅ Qatar ⬜ Singapore ✅ South Korea ✅ Sri Lanka ✅ Taiwan ✅ Thailand ✅ Turkey ✅ United Arab Emirates ✅ Vietnam
-**Europe:** ✅ Albania ⬜ Andorra ✅ Austria ⬜ Azores ✅ Belarus ✅ Belgium ✅ Bulgaria ✅ Croatia ✅ Czechia ✅ Denmark ✅ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ⬜ Gibraltar ✅ Greece ✅ Hungary ✅ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ✅ Latvia ⬜ Liechtenstein ✅ Lithuania ✅ Luxembourg ⬜ Madeira ✅ Malta ⬜ Monaco ✅ Montenegro ✅ Netherlands ✅ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ✅ Romania ✅ Russia ⬜ San Marino ✅ Serbia ✅ Slovakia ✅ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
+**Asia:** ✅ Bangladesh ✅ Bhutan ⬜ British Indian Ocean Territory ✅ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ✅ Iraq ⬜ Israel & the West Bank ✅ Japan ✅ Jordan ✅ Kazakhstan ✅ Kyrgyzstan ✅ Laos ✅ Lebanon ⬜ Macau ✅ Malaysia ✅ Mongolia ✅ Nepal ✅ Oman ✅ Pakistan ✅ Philippines ✅ Qatar ✅ Singapore ✅ South Korea ✅ Sri Lanka ✅ Taiwan ✅ Thailand ✅ Turkey ✅ United Arab Emirates ✅ Vietnam
+**Europe:** ✅ Albania ✅ Andorra ✅ Austria ⬜ Azores ✅ Belarus ✅ Belgium ✅ Bulgaria ✅ Croatia ✅ Czechia ✅ Denmark ✅ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ✅ Gibraltar ✅ Greece ✅ Hungary ✅ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ✅ Latvia ✅ Liechtenstein ✅ Lithuania ✅ Luxembourg ⬜ Madeira ✅ Malta ✅ Monaco ✅ Montenegro ✅ Netherlands ✅ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ✅ Romania ✅ Russia ✅ San Marino ✅ Serbia ✅ Slovakia ✅ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
 **North America:** ⬜ Alaska ⬜ Bermuda ✅ Canada ✅ Costa Rica ✅ Dominican Republic ✅ Greenland ✅ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ✅ Panama ✅ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
 **South America:** ✅ Argentina ✅ Bolivia ✅ Brazil ✅ Chile ✅ Colombia ⬜ Curaçao ✅ Ecuador ⬜ Falkland Islands ✅ Peru ✅ Uruguay
 **Oceania:** ⬜ American Samoa ✅ Australia ⬜ Christmas Island ⬜ Cocos Islands ⬜ Guam ✅ New Zealand ⬜ Northern Mariana Islands ⬜ Pitcairn Islands ⬜ Vanuatu
@@ -700,6 +700,20 @@ Study: [Plonk It](https://www.plonkit.net/lebanon)
 | Region | Coverage concentrated on the **west coast, north of Beirut**; Zahle = flat fields + black car; snowy tops → NE mountains | [P](https://www.plonkit.net/lebanon) |  |
 | Special | Gen3 trekkers: **Beirut** high-rises + palm promenade; **Byblos** ancient stone city; **Baalbek** Roman ruins; several university campuses | [P](https://www.plonkit.net/lebanon) |  |
 
+## Singapore
+Study: [Plonk It](https://www.plonkit.net/singapore)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Developed **city-state** — clean & orderly; divided main roads w/ **B&W curbs + double yellow outer lines** + tall apartment blocks (often all you need) | [P](https://www.plonkit.net/singapore) |  |
+| Country | Street signs = **green, rounded edges, distinct white font** (one unique nationwide format) | [P](https://www.plonkit.net/singapore) |  |
+| Country | Plates mostly **black w/ white text** (MY/ID also black, but their letters split into 2–3 sections; Singapore's don't) | [P](https://www.plonkit.net/singapore) |  |
+| Country | Directional signs green + English; expressways have **3-letter codes** (e.g. TPE); road signs sit on a **square white background** (unique) | [P](https://www.plonkit.net/singapore) |  |
+| Country | **Rain trees** along main roads; warnings painted large on the road (famous **"HUMP AHEAD"**) | [P](https://www.plonkit.net/singapore) |  |
+| Country | Buses mostly **lime-green**; bus stops protected by concrete **black-and-yellow warning-band bollards** | [P](https://www.plonkit.net/singapore) |  |
+| Country | Traffic lights on a **curved perforated metal sheet** | [P](https://www.plonkit.net/singapore) |  |
+| Region | Streets named after their **neighbourhood** (appears fast on the map, e.g. Ang Mo Kio); Sentosa = resort feel; Tuas = industrial cranes/containers | [P](https://www.plonkit.net/singapore) |  |
+
 # Europe
 
 ## Russia
@@ -1372,6 +1386,20 @@ Study: [Plonk It](https://www.plonkit.net/luxembourg)
 | Country | Directional signs **yellow, fully framed, pointed tip, UPPERCASE**; regional road # in a **red box** (1–2 digit), local in a **yellow box** (3-digit) | [P](https://www.plonkit.net/luxembourg) |  |
 | Country | Signs on **white signposts**; short white street signs (often slanted blue corners); pedestrian sign = 5 vertical stripes; green rolling-hill landscape | [P](https://www.plonkit.net/luxembourg) |  |
 
+## Andorra
+Study: [Plonk It](https://www.plonkit.net/andorra)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plate has an **orange dot on the left** — unique in Europe to Andorra | [P](https://www.plonkit.net/andorra) |  |
+| Country | Only **Gen2 + Gen3**; Gen3 car has a medium-short antenna & was all shot in **October → autumn colours** | [P](https://www.plonkit.net/andorra) |  |
+| Country | Lots of **stone buildings** everywhere (also just over the border in the French/Spanish Pyrenees) | [P](https://www.plonkit.net/andorra) |  |
+| Country | **Catalan** (street = **carrer**; uses *i* not *y* for 'and'); wooden snow poles | [P](https://www.plonkit.net/andorra) |  |
+| Country | km markers use **CG / CS** road numbers | [P](https://www.plonkit.net/andorra) |  |
+| Country | Guardrails w/ **yellow reflectors** (in Europe only AD/ES/BE); bollard w/ an orange reflector (also Spain) | [P](https://www.plonkit.net/andorra) |  |
+| Country | Pedestrian sign **8 stripes** (only Spain also has 8); yellow & turquoise-green traffic cones countrywide | [P](https://www.plonkit.net/andorra) |  |
+| Region | Mountainous; **Andorra la Vella** = highest European capital (Caldea tower + sky wheel); **Pas de la Casa** = treeless high ski town | [P](https://www.plonkit.net/andorra) |  |
+
 ## Malta
 Study: [Plonk It](https://www.plonkit.net/malta)
 
@@ -1385,6 +1413,55 @@ Study: [Plonk It](https://www.plonkit.net/malta)
 | Country | Street = **"triq"** on almost every street sign | [P](https://www.plonkit.net/malta) |  |
 | Country | **Double yellow no-parking lines** (like UK/Ireland); bus stops common (often naming the location) | [P](https://www.plonkit.net/malta) |  |
 | Country | **English** primary + **Maltese** (Latin w/ unique **Ċ Ġ Ħ Ż**); Gozo = stone barriers + bus routes all in the **300s** | [P](https://www.plonkit.net/malta) |  |
+
+## Liechtenstein
+Study: [Plonk It](https://www.plonkit.net/liechtenstein)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates **black w/ white lettering + a yellow-and-red emblem** near the left (looks grey through blur, emblem colours visible) | [P](https://www.plonkit.net/liechtenstein) |  |
+| Country | All coverage is **low-cam** (bigger blur, low angle) — only Switzerland & Japan are also always low-cam | [P](https://www.plonkit.net/liechtenstein) |  |
+| Country | Flat **Rhine Valley** with tall mountains in almost every direction (especially towering to the east); lots of pasture | [P](https://www.plonkit.net/liechtenstein) |  |
+| Country | Bollards **B&W cylindrical, rounded top, often a blue side attachment** (wedge design on guardrails); Switzerland near-identical | [P](https://www.plonkit.net/liechtenstein) |  |
+| Country | Bus stops = green-and-white with **LIEMOBIL** written on top | [P](https://www.plonkit.net/liechtenstein) |  |
+| Country | Directional signs white (small roads) / blue (big roads) w/ a pointed arrowhead; pedestrian sign = **7 stripes** in a tall rectangle (identical to Switzerland) | [P](https://www.plonkit.net/liechtenstein) |  |
+| Region | Alpine + modern architecture; town-specific bus stops (**Vaduz** red, **Balzers** black); Triesenberg on the eastern mountain slope | [P](https://www.plonkit.net/liechtenstein) |  |
+
+## San Marino
+Study: [Plonk It](https://www.plonkit.net/san-marino)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | **Monte Titano** (739 m, with its **three towers**) dominates and is visible from almost every point | [P](https://www.plonkit.net/san-marino) |  |
+| Country | Landscape = smooth **agricultural hills**, many small winding roads, lush Mediterranean vegetation | [P](https://www.plonkit.net/san-marino) |  |
+| Country | Plates **short, white, blue lettering** (most European plates are longer w/ blue strips) | [P](https://www.plonkit.net/san-marino) |  |
+| Country | Road signs, bollards & poles **identical to Italy's**; many signs point to nearby **Rimini** (Italy) | [P](https://www.plonkit.net/san-marino) |  |
+| Country | The only country with **yellow chevrons + burgundy-red arrows**; elaborate blue-painted crosswalks w/ hanging signs | [P](https://www.plonkit.net/san-marino) |  |
+| Country | **Lime-green bins** common (some now black in Gen4); Superstrada = the only divided road; historic centre = Gen3 trekker | [P](https://www.plonkit.net/san-marino) |  |
+
+## Gibraltar
+Study: [Plonk It](https://www.plonkit.net/gibraltar)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | British Overseas Territory (counts as UK); all **Gen3** w/ a unique long **'Gibraltar antenna'** (silver tip; else only parts of Spain) | [P](https://www.plonkit.net/gibraltar) |  |
+| Country | The **Rock of Gibraltar** — a massive white-limestone mountain — dominates every part of the territory | [P](https://www.plonkit.net/gibraltar) |  |
+| Country | Plates **white front / yellow back** (UK-style) but drives on the **right** (unlike the UK) | [P](https://www.plonkit.net/gibraltar) |  |
+| Country | **English** on signs in a Mediterranean setting (also Malta) | [P](https://www.plonkit.net/gibraltar) |  |
+| Country | Dense pastel buildings w/ **louvered wooden shutters** (green/blue/brown); December coverage → Christmas decorations | [P](https://www.plonkit.net/gibraltar) |  |
+| Special | Famous **Barbary macaques** — the only wild monkeys in Europe; Ibrahim-al-Ibrahim mosque minarets (southernmost mosque in continental Europe) | [P](https://www.plonkit.net/gibraltar) |  |
+
+## Monaco
+Study: [Plonk It](https://www.plonkit.net/monaco)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Microstate on the **French Riviera** (a few km west of Italy); dense, rich, Mediterranean — essentially **no rural areas** | [P](https://www.plonkit.net/monaco) |  |
+| Country | Monaco plates are **short & lack the blue strip**; many French cars too (often old yellow rear plates, since coverage is old Gen2) | [P](https://www.plonkit.net/monaco) |  |
+| Country | **Hilly**; luxurious apartment buildings, neoclassical details, pastel colours | [P](https://www.plonkit.net/monaco) |  |
+| Country | Planted **palm trees** common | [P](https://www.plonkit.net/monaco) |  |
+| Country | Lots of coverage **inside tunnels**; rows of parked **mopeds** everywhere | [P](https://www.plonkit.net/monaco) |  |
+| Special | Harbour **Gen3 boat trekker** (expensive yachts + skyline) shows up a lot in competitive modes | [P](https://www.plonkit.net/monaco) |  |
 
 # North America
 

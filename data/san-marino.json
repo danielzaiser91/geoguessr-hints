@@ -1,0 +1,15 @@
+{
+ "name": "San Marino",
+ "slug": "san-marino",
+ "continent": "Europe",
+ "area_km2": 61,
+ "links": { "plonkit": "https://www.plonkit.net/san-marino", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "**Monte Titano** (739 m, with its **three towers**) dominates and is visible from almost every point", "src": ["plonkit"], "sv": null, "img": "San_Marino_Monte_Titano.png", "type": "landscape" },
+  { "cat": "country", "text": "Landscape = smooth **agricultural hills**, many small winding roads, lush Mediterranean vegetation", "src": ["plonkit"], "sv": null, "img": "San_Marino_Landscape.png", "type": "landscape" },
+  { "cat": "country", "text": "Plates **short, white, blue lettering** (most European plates are longer w/ blue strips)", "src": ["plonkit"], "sv": null, "img": "San_Marino_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "Road signs, bollards & poles **identical to Italy's**; many signs point to nearby **Rimini** (Italy)", "src": ["plonkit"], "sv": null, "img": "San_Marino_Italian_infrastructure.png", "type": "signs" },
+  { "cat": "country", "text": "The only country with **yellow chevrons + burgundy-red arrows**; elaborate blue-painted crosswalks w/ hanging signs", "src": ["plonkit"], "sv": null, "img": "San_Marino_Chevron.png", "type": "signs" },
+  { "cat": "country", "text": "**Lime-green bins** common (some now black in Gen4); Superstrada = the only divided road; historic centre = Gen3 trekker", "src": ["plonkit"], "sv": null, "img": "San_Marino_Trash_Bins.png", "type": "general" }
+ ]
+}

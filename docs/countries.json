@@ -102,6 +102,97 @@
    ]
   },
   {
+   "name": "Andorra",
+   "slug": "andorra",
+   "continent": "Europe",
+   "area_km2": 468,
+   "links": {
+    "plonkit": "https://www.plonkit.net/andorra",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plate has an **orange dot on the left** — unique in Europe to Andorra",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Andorra_License_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Only **Gen2 + Gen3**; Gen3 car has a medium-short antenna & was all shot in **October → autumn colours**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Camera_gens.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Lots of **stone buildings** everywhere (also just over the border in the French/Spanish Pyrenees)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "architecture.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "**Catalan** (street = **carrer**; uses *i* not *y* for 'and'); wooden snow poles",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Andorra_Catalan.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "km markers use **CG / CS** road numbers",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Copy_of_Copy_of_Copy_of_Copy_of_Small_Pin_281_29.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Guardrails w/ **yellow reflectors** (in Europe only AD/ES/BE); bollard w/ an orange reflector (also Spain)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "bollard.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Pedestrian sign **8 stripes** (only Spain also has 8); yellow & turquoise-green traffic cones countrywide",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Pedestrian_sign.png",
+     "type": "signs"
+    },
+    {
+     "cat": "region",
+     "text": "Mountainous; **Andorra la Vella** = highest European capital (Caldea tower + sky wheel); **Pas de la Casa** = treeless high ski town",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "naming"
+    }
+   ]
+  },
+  {
    "name": "Argentina",
    "slug": "argentina",
    "continent": "South America",
@@ -3851,6 +3942,78 @@
    ]
   },
   {
+   "name": "Gibraltar",
+   "slug": "gibraltar",
+   "continent": "Europe",
+   "area_km2": 7,
+   "links": {
+    "plonkit": "https://www.plonkit.net/gibraltar",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "British Overseas Territory (counts as UK); all **Gen3** w/ a unique long **'Gibraltar antenna'** (silver tip; else only parts of Spain)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Gibraltar_antenna.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "The **Rock of Gibraltar** — a massive white-limestone mountain — dominates every part of the territory",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Rock_of_Gibraltar.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Plates **white front / yellow back** (UK-style) but drives on the **right** (unlike the UK)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Back_plates.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "**English** on signs in a Mediterranean setting (also Malta)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "English_language.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Dense pastel buildings w/ **louvered wooden shutters** (green/blue/brown); December coverage → Christmas decorations",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Gibraltar_architecture.png",
+     "type": "arch"
+    },
+    {
+     "cat": "special",
+     "text": "Famous **Barbary macaques** — the only wild monkeys in Europe; Ibrahim-al-Ibrahim mosque minarets (southernmost mosque in continental Europe)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gi_monke.png",
+     "type": "general"
+    }
+   ]
+  },
+  {
    "name": "Greece",
    "slug": "greece",
    "continent": "Europe",
@@ -6054,6 +6217,88 @@
    ]
   },
   {
+   "name": "Liechtenstein",
+   "slug": "liechtenstein",
+   "continent": "Europe",
+   "area_km2": 160,
+   "links": {
+    "plonkit": "https://www.plonkit.net/liechtenstein",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plates **black w/ white lettering + a yellow-and-red emblem** near the left (looks grey through blur, emblem colours visible)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Liechtenstein_plates.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "All coverage is **low-cam** (bigger blur, low angle) — only Switzerland & Japan are also always low-cam",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "2.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Flat **Rhine Valley** with tall mountains in almost every direction (especially towering to the east); lots of pasture",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "FL_Landscape.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Bollards **B&W cylindrical, rounded top, often a blue side attachment** (wedge design on guardrails); Switzerland near-identical",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Screenshot__281398_29.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "country",
+     "text": "Bus stops = green-and-white with **LIEMOBIL** written on top",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Liechtenstein_Architecture__281_29.png",
+     "type": "general"
+    },
+    {
+     "cat": "country",
+     "text": "Directional signs white (small roads) / blue (big roads) w/ a pointed arrowhead; pedestrian sign = **7 stripes** in a tall rectangle (identical to Switzerland)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "6.png",
+     "type": "signs"
+    },
+    {
+     "cat": "region",
+     "text": "Alpine + modern architecture; town-specific bus stops (**Vaduz** red, **Balzers** black); Triesenberg on the eastern mountain slope",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Triesenberg_area.png",
+     "type": "arch"
+    }
+   ]
+  },
+  {
    "name": "Lithuania",
    "slug": "lithuania",
    "continent": "Europe",
@@ -6758,6 +7003,78 @@
      ],
      "sv": null,
      "type": "bollards"
+    }
+   ]
+  },
+  {
+   "name": "Monaco",
+   "slug": "monaco",
+   "continent": "Europe",
+   "area_km2": 2,
+   "links": {
+    "plonkit": "https://www.plonkit.net/monaco",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Microstate on the **French Riviera** (a few km west of Italy); dense, rich, Mediterranean — essentially **no rural areas**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Monaco_Rich.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Monaco plates are **short & lack the blue strip**; many French cars too (often old yellow rear plates, since coverage is old Gen2)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Monaco_Licence_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "**Hilly**; luxurious apartment buildings, neoclassical details, pastel colours",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Monaco_Hilly.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "Planted **palm trees** common",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Palm_trees.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Lots of coverage **inside tunnels**; rows of parked **mopeds** everywhere",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Tunnels.png",
+     "type": "general"
+    },
+    {
+     "cat": "special",
+     "text": "Harbour **Gen3 boat trekker** (expensive yachts + skyline) shows up a lot in competitive modes",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Harbour_trekker.png",
+     "type": "general"
     }
    ]
   },
@@ -9269,6 +9586,78 @@
    ]
   },
   {
+   "name": "San Marino",
+   "slug": "san-marino",
+   "continent": "Europe",
+   "area_km2": 61,
+   "links": {
+    "plonkit": "https://www.plonkit.net/san-marino",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "**Monte Titano** (739 m, with its **three towers**) dominates and is visible from almost every point",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "San_Marino_Monte_Titano.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Landscape = smooth **agricultural hills**, many small winding roads, lush Mediterranean vegetation",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "San_Marino_Landscape.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Plates **short, white, blue lettering** (most European plates are longer w/ blue strips)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "San_Marino_License_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Road signs, bollards & poles **identical to Italy's**; many signs point to nearby **Rimini** (Italy)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "San_Marino_Italian_infrastructure.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "The only country with **yellow chevrons + burgundy-red arrows**; elaborate blue-painted crosswalks w/ hanging signs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "San_Marino_Chevron.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**Lime-green bins** common (some now black in Gen4); Superstrada = the only divided road; historic centre = Gen3 trekker",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "San_Marino_Trash_Bins.png",
+     "type": "general"
+    }
+   ]
+  },
+  {
    "name": "Senegal",
    "slug": "senegal",
    "continent": "Africa",
@@ -9478,6 +9867,98 @@
      ],
      "sv": null,
      "type": "general"
+    }
+   ]
+  },
+  {
+   "name": "Singapore",
+   "slug": "singapore",
+   "continent": "Asia",
+   "area_km2": 728,
+   "links": {
+    "plonkit": "https://www.plonkit.net/singapore",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Developed **city-state** — clean & orderly; divided main roads w/ **B&W curbs + double yellow outer lines** + tall apartment blocks (often all you need)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "landscape.png",
+     "type": "general"
+    },
+    {
+     "cat": "country",
+     "text": "Street signs = **green, rounded edges, distinct white font** (one unique nationwide format)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "streetsign.png",
+     "type": "naming"
+    },
+    {
+     "cat": "country",
+     "text": "Plates mostly **black w/ white text** (MY/ID also black, but their letters split into 2–3 sections; Singapore's don't)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Singapore_License_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Directional signs green + English; expressways have **3-letter codes** (e.g. TPE); road signs sit on a **square white background** (unique)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "directionalsign.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**Rain trees** along main roads; warnings painted large on the road (famous **\"HUMP AHEAD\"**)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "raintrees.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Buses mostly **lime-green**; bus stops protected by concrete **black-and-yellow warning-band bollards**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "busstopbollard.png",
+     "type": "general"
+    },
+    {
+     "cat": "country",
+     "text": "Traffic lights on a **curved perforated metal sheet**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "trafficlight.png",
+     "type": "utility"
+    },
+    {
+     "cat": "region",
+     "text": "Streets named after their **neighbourhood** (appears fast on the map, e.g. Ang Mo Kio); Sentosa = resort feel; Tuas = industrial cranes/containers",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Untitled_design__2845_29.png",
+     "type": "naming"
     }
    ]
   },
@@ -12613,7 +13094,7 @@
   "Antarctica"
  ],
  "counts": {
-  "done": 99,
+  "done": 105,
   "total": 136
  }
 }

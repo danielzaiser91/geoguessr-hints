@@ -1,0 +1,17 @@
+{
+ "name": "Andorra",
+ "slug": "andorra",
+ "continent": "Europe",
+ "area_km2": 468,
+ "links": { "plonkit": "https://www.plonkit.net/andorra", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Plate has an **orange dot on the left** — unique in Europe to Andorra", "src": ["plonkit"], "sv": null, "img": "Andorra_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "Only **Gen2 + Gen3**; Gen3 car has a medium-short antenna & was all shot in **October → autumn colours**", "src": ["plonkit"], "sv": null, "img": "Camera_gens.png", "type": "cars" },
+  { "cat": "country", "text": "Lots of **stone buildings** everywhere (also just over the border in the French/Spanish Pyrenees)", "src": ["plonkit"], "sv": null, "img": "architecture.png", "type": "arch" },
+  { "cat": "country", "text": "**Catalan** (street = **carrer**; uses *i* not *y* for 'and'); wooden snow poles", "src": ["plonkit"], "sv": null, "img": "Andorra_Catalan.png", "type": "language" },
+  { "cat": "country", "text": "km markers use **CG / CS** road numbers", "src": ["plonkit"], "sv": null, "img": "Copy_of_Copy_of_Copy_of_Copy_of_Small_Pin_281_29.png", "type": "signs" },
+  { "cat": "country", "text": "Guardrails w/ **yellow reflectors** (in Europe only AD/ES/BE); bollard w/ an orange reflector (also Spain)", "src": ["plonkit"], "sv": null, "img": "bollard.png", "type": "utility" },
+  { "cat": "country", "text": "Pedestrian sign **8 stripes** (only Spain also has 8); yellow & turquoise-green traffic cones countrywide", "src": ["plonkit"], "sv": null, "img": "Pedestrian_sign.png", "type": "signs" },
+  { "cat": "region", "text": "Mountainous; **Andorra la Vella** = highest European capital (Caldea tower + sky wheel); **Pas de la Casa** = treeless high ski town", "src": ["plonkit"], "sv": null, "type": "naming" }
+ ]
+}

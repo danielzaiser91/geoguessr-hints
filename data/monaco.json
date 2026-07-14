@@ -1,0 +1,15 @@
+{
+ "name": "Monaco",
+ "slug": "monaco",
+ "continent": "Europe",
+ "area_km2": 2,
+ "links": { "plonkit": "https://www.plonkit.net/monaco", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Microstate on the **French Riviera** (a few km west of Italy); dense, rich, Mediterranean — essentially **no rural areas**", "src": ["plonkit"], "sv": null, "img": "Monaco_Rich.png", "type": "landscape" },
+  { "cat": "country", "text": "Monaco plates are **short & lack the blue strip**; many French cars too (often old yellow rear plates, since coverage is old Gen2)", "src": ["plonkit"], "sv": null, "img": "Monaco_Licence_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "**Hilly**; luxurious apartment buildings, neoclassical details, pastel colours", "src": ["plonkit"], "sv": null, "img": "Monaco_Hilly.png", "type": "arch" },
+  { "cat": "country", "text": "Planted **palm trees** common", "src": ["plonkit"], "sv": null, "img": "Palm_trees.png", "type": "landscape" },
+  { "cat": "country", "text": "Lots of coverage **inside tunnels**; rows of parked **mopeds** everywhere", "src": ["plonkit"], "sv": null, "img": "Tunnels.png", "type": "general" },
+  { "cat": "special", "text": "Harbour **Gen3 boat trekker** (expensive yachts + skyline) shows up a lot in competitive modes", "src": ["plonkit"], "sv": null, "img": "Harbour_trekker.png", "type": "general" }
+ ]
+}

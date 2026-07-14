@@ -1,0 +1,15 @@
+{
+ "name": "Gibraltar",
+ "slug": "gibraltar",
+ "continent": "Europe",
+ "area_km2": 7,
+ "links": { "plonkit": "https://www.plonkit.net/gibraltar", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "British Overseas Territory (counts as UK); all **Gen3** w/ a unique long **'Gibraltar antenna'** (silver tip; else only parts of Spain)", "src": ["plonkit"], "sv": null, "img": "Gibraltar_antenna.png", "type": "cars" },
+  { "cat": "country", "text": "The **Rock of Gibraltar** — a massive white-limestone mountain — dominates every part of the territory", "src": ["plonkit"], "sv": null, "img": "Rock_of_Gibraltar.png", "type": "landscape" },
+  { "cat": "country", "text": "Plates **white front / yellow back** (UK-style) but drives on the **right** (unlike the UK)", "src": ["plonkit"], "sv": null, "img": "Back_plates.png", "type": "plates" },
+  { "cat": "country", "text": "**English** on signs in a Mediterranean setting (also Malta)", "src": ["plonkit"], "sv": null, "img": "English_language.png", "type": "language" },
+  { "cat": "country", "text": "Dense pastel buildings w/ **louvered wooden shutters** (green/blue/brown); December coverage → Christmas decorations", "src": ["plonkit"], "sv": null, "img": "Gibraltar_architecture.png", "type": "arch" },
+  { "cat": "special", "text": "Famous **Barbary macaques** — the only wild monkeys in Europe; Ibrahim-al-Ibrahim mosque minarets (southernmost mosque in continental Europe)", "src": ["plonkit"], "sv": null, "img": "gi_monke.png", "type": "general" }
+ ]
+}

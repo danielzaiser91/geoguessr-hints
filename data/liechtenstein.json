@@ -1,0 +1,16 @@
+{
+ "name": "Liechtenstein",
+ "slug": "liechtenstein",
+ "continent": "Europe",
+ "area_km2": 160,
+ "links": { "plonkit": "https://www.plonkit.net/liechtenstein", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Plates **black w/ white lettering + a yellow-and-red emblem** near the left (looks grey through blur, emblem colours visible)", "src": ["plonkit"], "sv": null, "img": "Liechtenstein_plates.png", "type": "plates" },
+  { "cat": "country", "text": "All coverage is **low-cam** (bigger blur, low angle) — only Switzerland & Japan are also always low-cam", "src": ["plonkit"], "sv": null, "img": "2.png", "type": "cars" },
+  { "cat": "country", "text": "Flat **Rhine Valley** with tall mountains in almost every direction (especially towering to the east); lots of pasture", "src": ["plonkit"], "sv": null, "img": "FL_Landscape.png", "type": "landscape" },
+  { "cat": "country", "text": "Bollards **B&W cylindrical, rounded top, often a blue side attachment** (wedge design on guardrails); Switzerland near-identical", "src": ["plonkit"], "sv": null, "img": "Screenshot__281398_29.png", "type": "bollards" },
+  { "cat": "country", "text": "Bus stops = green-and-white with **LIEMOBIL** written on top", "src": ["plonkit"], "sv": null, "img": "Liechtenstein_Architecture__281_29.png", "type": "general" },
+  { "cat": "country", "text": "Directional signs white (small roads) / blue (big roads) w/ a pointed arrowhead; pedestrian sign = **7 stripes** in a tall rectangle (identical to Switzerland)", "src": ["plonkit"], "sv": null, "img": "6.png", "type": "signs" },
+  { "cat": "region", "text": "Alpine + modern architecture; town-specific bus stops (**Vaduz** red, **Balzers** black); Triesenberg on the eastern mountain slope", "src": ["plonkit"], "sv": null, "img": "Triesenberg_area.png", "type": "arch" }
+ ]
+}
