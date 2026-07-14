@@ -364,7 +364,7 @@ function openImg(title, url, capText, creditHTML) {
     (capText ? mdBold(capText) : "") + (creditHTML ? `<span class="src">${creditHTML}</span>` : "");
   // Amazon-style hover zoom: start with the display image, upgrade to the original when it loads.
   const stage = document.getElementById("img-stage"), zoom = document.getElementById("img-zoom");
-  stage.classList.remove("zoomable"); zoom.style.backgroundPosition = "50% 50%";
+  stage.classList.remove("zoomable", "zoom-on"); zoom.style.backgroundPosition = "50% 50%";
   const setBg = (src) => { zoom.style.backgroundImage = `url("${src}")`; zoom.style.backgroundSize = (IMG_ZOOM * 100) + "%"; stage.classList.add("zoomable"); };
   setBg(url);
   const hi = hiRes(url);
@@ -386,6 +386,8 @@ function wireUI() {
     const py = Math.min(1, Math.max(0, (e.clientY - r.top) / r.height));
     document.getElementById("img-zoom").style.backgroundPosition = `${px * 100}% ${py * 100}%`;
   });
+  // click the image to toggle hover-zoom on/off
+  stage.addEventListener("click", () => { if (stage.classList.contains("zoomable")) stage.classList.toggle("zoom-on"); });
   document.getElementById("img-close").onclick = () => document.getElementById("imgModal").classList.remove("open");
   document.getElementById("imgModal").addEventListener("click", e => { if (e.target.id === "imgModal") document.getElementById("imgModal").classList.remove("open"); });
   document.getElementById("cov-close").onclick = () => document.getElementById("covModal").classList.remove("open");

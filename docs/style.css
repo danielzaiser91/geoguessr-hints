@@ -169,16 +169,19 @@ code{background:#0a1120;border:1px solid var(--line);border-radius:4px;padding:0
 .modal-box.img{width:min(900px,96vw);height:auto;max-height:94vh}
 .img-wrap{flex:1;min-height:0;display:flex;align-items:center;justify-content:center;
   background:#0a1120;padding:12px;overflow:auto}
-.img-stage{position:relative;display:inline-block;line-height:0;max-width:100%;cursor:zoom-in}
+.img-stage{position:relative;display:inline-block;line-height:0;max-width:100%}
+.img-stage.zoomable{cursor:zoom-in}
+.img-stage.zoom-on{cursor:zoom-out}
 .img-wrap img{max-width:100%;max-height:74vh;border-radius:8px;display:block}
 .img-zoom{position:absolute;inset:0;border-radius:8px;background-repeat:no-repeat;background-color:#0a1120;
   opacity:0;pointer-events:none;transition:opacity .12s ease}
-.img-stage.zoomable:hover .img-zoom{opacity:1}
+/* hover-zoom only fires once the user has clicked the image to enable it */
+.img-stage.zoom-on:hover .img-zoom{opacity:1}
 .zoom-hint{position:absolute;left:8px;bottom:8px;font-size:10.5px;font-weight:700;color:#eaf0ff;line-height:1;
   background:rgba(6,10,20,.66);border:1px solid var(--line);padding:4px 7px;border-radius:6px;
   pointer-events:none;transition:opacity .12s}
-.img-stage.zoomable:hover .zoom-hint{opacity:0}
-@media (hover:none){.img-stage{cursor:default}.zoom-hint{display:none}.img-zoom{display:none}}
+.img-stage.zoom-on:hover .zoom-hint{opacity:0}
+@media (hover:none){.zoom-hint{display:none}.img-zoom{display:none}}
 .img-cap{padding:12px 18px;font-size:13px;line-height:1.5;color:var(--ink);border-top:1px solid var(--line)}
 .img-cap .src{display:block;margin-top:6px;font-size:11px;color:var(--dim)}
 .modal-head{display:flex;align-items:center;justify-content:space-between;padding:13px 18px;border-bottom:1px solid var(--line)}
