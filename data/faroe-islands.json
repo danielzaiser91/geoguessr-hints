@@ -1,0 +1,16 @@
+{
+ "name": "Faroe Islands",
+ "slug": "faroe-islands",
+ "continent": "Europe",
+ "area_km2": 1393,
+ "links": { "plonkit": "https://www.plonkit.net/faroe-islands", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Wide **fjords + jagged green mountains** rising straight from the water w/ rocky ridgelines (greener & more imposing than Iceland); **almost no trees**", "src": ["plonkit"], "sv": null, "img": "fo1.png", "type": "landscape" },
+  { "cat": "country", "text": "Gen4 = **black pickup w/ a front antenna** (always blurred; Iceland's truck has no antenna); Gen3 = black car w/ a plain grey roof rack", "src": ["plonkit"], "sv": null, "img": "fo_car.png", "type": "cars" },
+  { "cat": "country", "text": "Houses = wood w/ an above-ground **stone basement in a different colour**; roofs are **metal or grass (turf)**", "src": ["plonkit"], "sv": null, "img": "fo4.png", "type": "arch" },
+  { "cat": "country", "text": "**Faroese** (closest to Icelandic): Á Ð Í Ó Ú Ý Æ **Ø** — the Ø (vs Icelandic's É/Þ) is the tell", "src": ["plonkit"], "sv": null, "img": "fo_language.png", "type": "language" },
+  { "cat": "country", "text": "Bollards = small **wooden sticks painted yellow** (sometimes red on top); guardrails have **yellow reflectors** (unique in Northern Europe)", "src": ["plonkit"], "sv": null, "img": "fo_reflector.png", "type": "bollards" },
+  { "cat": "country", "text": "Directional signs yellow w/ a thin black border + metal frame (very like Iceland's)", "src": ["plonkit"], "sv": null, "img": "fo6.png", "type": "signs" },
+  { "cat": "region", "text": "**Tórshavn** = biggest (only place w/ 3+ floor buildings); **Klaksvík** = narrow N-S fjord; **Kirkjubøur** = black turf-roof houses + a church ruin", "src": ["plonkit"], "sv": null, "img": "Torshavn.png", "type": "naming" }
+ ]
+}

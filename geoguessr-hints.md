@@ -12,11 +12,11 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**105 / 136 countries.**
+**111 / 136 countries.**
 
 **Africa:** ✅ Botswana ✅ Egypt ✅ Eswatini ✅ Ghana ✅ Kenya ✅ Lesotho ✅ Madagascar ✅ Mali ✅ Namibia ✅ Nigeria ⬜ Reunion ✅ Rwanda ✅ Senegal ✅ South Africa ⬜ São Tomé and Príncipe ✅ Tanzania ✅ Tunisia ✅ Uganda
-**Asia:** ✅ Bangladesh ✅ Bhutan ⬜ British Indian Ocean Territory ✅ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ✅ Iraq ⬜ Israel & the West Bank ✅ Japan ✅ Jordan ✅ Kazakhstan ✅ Kyrgyzstan ✅ Laos ✅ Lebanon ⬜ Macau ✅ Malaysia ✅ Mongolia ✅ Nepal ✅ Oman ✅ Pakistan ✅ Philippines ✅ Qatar ✅ Singapore ✅ South Korea ✅ Sri Lanka ✅ Taiwan ✅ Thailand ✅ Turkey ✅ United Arab Emirates ✅ Vietnam
-**Europe:** ✅ Albania ✅ Andorra ✅ Austria ⬜ Azores ✅ Belarus ✅ Belgium ✅ Bulgaria ✅ Croatia ✅ Czechia ✅ Denmark ✅ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ✅ Gibraltar ✅ Greece ✅ Hungary ✅ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ✅ Latvia ✅ Liechtenstein ✅ Lithuania ✅ Luxembourg ⬜ Madeira ✅ Malta ✅ Monaco ✅ Montenegro ✅ Netherlands ✅ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ✅ Romania ✅ Russia ✅ San Marino ✅ Serbia ✅ Slovakia ✅ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
+**Asia:** ✅ Bangladesh ✅ Bhutan ⬜ British Indian Ocean Territory ✅ Cambodia ✅ China ⬜ Cyprus ✅ Hong Kong ✅ India ✅ Indonesia ✅ Iraq ⬜ Israel & the West Bank ✅ Japan ✅ Jordan ✅ Kazakhstan ✅ Kyrgyzstan ✅ Laos ✅ Lebanon ✅ Macau ✅ Malaysia ✅ Mongolia ✅ Nepal ✅ Oman ✅ Pakistan ✅ Philippines ✅ Qatar ✅ Singapore ✅ South Korea ✅ Sri Lanka ✅ Taiwan ✅ Thailand ✅ Turkey ✅ United Arab Emirates ✅ Vietnam
+**Europe:** ✅ Albania ✅ Andorra ✅ Austria ⬜ Azores ✅ Belarus ✅ Belgium ✅ Bulgaria ✅ Croatia ✅ Czechia ✅ Denmark ✅ Estonia ✅ Faroe Islands ✅ Finland ✅ France ✅ Germany ✅ Gibraltar ✅ Greece ✅ Hungary ✅ Iceland ✅ Ireland ✅ Isle of Man ✅ Italy ✅ Jersey ✅ Latvia ✅ Liechtenstein ✅ Lithuania ✅ Luxembourg ✅ Madeira ✅ Malta ✅ Monaco ✅ Montenegro ✅ Netherlands ✅ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ✅ Romania ✅ Russia ✅ San Marino ✅ Serbia ✅ Slovakia ✅ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
 **North America:** ⬜ Alaska ⬜ Bermuda ✅ Canada ✅ Costa Rica ✅ Dominican Republic ✅ Greenland ✅ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ✅ Panama ✅ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
 **South America:** ✅ Argentina ✅ Bolivia ✅ Brazil ✅ Chile ✅ Colombia ⬜ Curaçao ✅ Ecuador ⬜ Falkland Islands ✅ Peru ✅ Uruguay
 **Oceania:** ⬜ American Samoa ✅ Australia ⬜ Christmas Island ⬜ Cocos Islands ⬜ Guam ✅ New Zealand ⬜ Northern Mariana Islands ⬜ Pitcairn Islands ⬜ Vanuatu
@@ -700,6 +700,20 @@ Study: [Plonk It](https://www.plonkit.net/lebanon)
 | Region | Coverage concentrated on the **west coast, north of Beirut**; Zahle = flat fields + black car; snowy tops → NE mountains | [P](https://www.plonkit.net/lebanon) |  |
 | Special | Gen3 trekkers: **Beirut** high-rises + palm promenade; **Byblos** ancient stone city; **Baalbek** Roman ruins; several university campuses | [P](https://www.plonkit.net/lebanon) |  |
 
+## Hong Kong
+Study: [Plonk It](https://www.plonkit.net/hong-kong)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Chinese SAR (counts as China); plates **white front / yellow rear** (long or short); some cars carry an extra black mainland plate | [P](https://www.plonkit.net/hong-kong) |  |
+| Country | Drives on the **left** (Singapore too; Taiwan drives right) | [P](https://www.plonkit.net/hong-kong) |  |
+| Country | Dense city of skyscrapers & busy streets; **rural areas mountainous + subtropical green** (Singapore is very flat) | [P](https://www.plonkit.net/hong-kong) |  |
+| Country | **Extremely tall apartment buildings** (taller than SG/Taiwan); wall-mounted **air conditioners** everywhere | [P](https://www.plonkit.net/hong-kong) |  |
+| Country | **English + Traditional Chinese** bilingual signs (residents mainly speak Cantonese) | [P](https://www.plonkit.net/hong-kong) |  |
+| Country | Grey cylindrical lamp posts (wide base, white sticker); **no striped kerbs** (unlike Singapore); grey pedestrian guardrails; rural = wooden poles only | [P](https://www.plonkit.net/hong-kong) |  |
+| Country | **Yellow pedestrian crossings** (some yellow grids); white centre + white/yellow outer lines; roads often concrete | [P](https://www.plonkit.net/hong-kong) |  |
+| Region | Taxi colour = region: **red** (HK Island/Kowloon), **green** (New Territories), **blue** (Lantau); double-decker buses; bright-orange sidewalk bins | [P](https://www.plonkit.net/hong-kong) |  |
+
 ## Singapore
 Study: [Plonk It](https://www.plonkit.net/singapore)
 
@@ -713,6 +727,18 @@ Study: [Plonk It](https://www.plonkit.net/singapore)
 | Country | Buses mostly **lime-green**; bus stops protected by concrete **black-and-yellow warning-band bollards** | [P](https://www.plonkit.net/singapore) |  |
 | Country | Traffic lights on a **curved perforated metal sheet** | [P](https://www.plonkit.net/singapore) |  |
 | Region | Streets named after their **neighbourhood** (appears fast on the map, e.g. Ang Mo Kio); Sentosa = resort feel; Tuas = industrial cranes/containers | [P](https://www.plonkit.net/singapore) |  |
+
+## Macau
+Study: [Plonk It](https://www.plonkit.net/macau)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Chinese SAR (counts as China); coverage only **Gen2** — some of the **oldest**, so extra washed-out & overexposed (a tell in itself) | [P](https://www.plonkit.net/macau) |  |
+| Country | Plates **black w/ white text** (long or square) | [P](https://www.plonkit.net/macau) |  |
+| Country | Grey cylindrical lamp posts with a **black-painted bottom** (Hong Kong's similar posts lack the black bottom) | [P](https://www.plonkit.net/macau) |  |
+| Country | **Chinese + Portuguese** (former Portuguese colony) — Portuguese common on storefronts | [P](https://www.plonkit.net/macau) |  |
+| Country | White street signs w/ a **blue border** around Chinese + Portuguese text — unique to Macau | [P](https://www.plonkit.net/macau) |  |
+| Region | **Casinos & gambling ads** everywhere (kitsch; some newer ones under construction in the old Gen2); dense apartments north, hilly rural south | [P](https://www.plonkit.net/macau) |  |
 
 # Europe
 
@@ -1386,6 +1412,45 @@ Study: [Plonk It](https://www.plonkit.net/luxembourg)
 | Country | Directional signs **yellow, fully framed, pointed tip, UPPERCASE**; regional road # in a **red box** (1–2 digit), local in a **yellow box** (3-digit) | [P](https://www.plonkit.net/luxembourg) |  |
 | Country | Signs on **white signposts**; short white street signs (often slanted blue corners); pedestrian sign = 5 vertical stripes; green rolling-hill landscape | [P](https://www.plonkit.net/luxembourg) |  |
 
+## Faroe Islands
+Study: [Plonk It](https://www.plonkit.net/faroe-islands)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Wide **fjords + jagged green mountains** rising straight from the water w/ rocky ridgelines (greener & more imposing than Iceland); **almost no trees** | [P](https://www.plonkit.net/faroe-islands) |  |
+| Country | Gen4 = **black pickup w/ a front antenna** (always blurred; Iceland's truck has no antenna); Gen3 = black car w/ a plain grey roof rack | [P](https://www.plonkit.net/faroe-islands) |  |
+| Country | Houses = wood w/ an above-ground **stone basement in a different colour**; roofs are **metal or grass (turf)** | [P](https://www.plonkit.net/faroe-islands) |  |
+| Country | **Faroese** (closest to Icelandic): Á Ð Í Ó Ú Ý Æ **Ø** — the Ø (vs Icelandic's É/Þ) is the tell | [P](https://www.plonkit.net/faroe-islands) |  |
+| Country | Bollards = small **wooden sticks painted yellow** (sometimes red on top); guardrails have **yellow reflectors** (unique in Northern Europe) | [P](https://www.plonkit.net/faroe-islands) |  |
+| Country | Directional signs yellow w/ a thin black border + metal frame (very like Iceland's) | [P](https://www.plonkit.net/faroe-islands) |  |
+| Region | **Tórshavn** = biggest (only place w/ 3+ floor buildings); **Klaksvík** = narrow N-S fjord; **Kirkjubøur** = black turf-roof houses + a church ruin | [P](https://www.plonkit.net/faroe-islands) |  |
+
+## Madeira
+Study: [Plonk It](https://www.plonkit.net/madeira)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Autonomous region of Portugal → Portuguese infra (poles, chevrons); very **mountainous, semi-tropical** island w/ **eucalyptus** forests (Azores = less mountainous, no eucalyptus) | [P](https://www.plonkit.net/madeira) |  |
+| Country | **African lilies** (Agapanthus, white/blue round clusters) very common; hydrangeas & ferns too | [P](https://www.plonkit.net/madeira) |  |
+| Country | **Terrace farming** everywhere (no flat land), plateaus split by stone walls | [P](https://www.plonkit.net/madeira) |  |
+| Country | Houses white/grey/**pastel** w/ well-kept **red tile roofs**; white concrete-block barriers along roads | [P](https://www.plonkit.net/madeira) |  |
+| Country | Unique small **stone bollards w/ a red reflector** (cuboid or cylindrical) | [P](https://www.plonkit.net/madeira) |  |
+| Country | **Bus-stop signs** in a black/white/yellow scheme; taxis yellow w/ a blue stripe; yellow-&-black mountain guardrails | [P](https://www.plonkit.net/madeira) |  |
+| Country | '**Shitcam**' (official Ari): wide circular blur, gloomy tone, often an unblurred **white car back**; low cloud/fog + tunnels very common | [P](https://www.plonkit.net/madeira) |  |
+| Region | Banana plantations in the **south**; misty central-west **plateau** w/ wind turbines; **arid eastern tip** w/ little vegetation | [P](https://www.plonkit.net/madeira) |  |
+
+## Isle of Man
+Study: [Plonk It](https://www.plonkit.net/isle-of-man)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | British Crown dependency between the UK & Ireland (counts as UK); coverage is only **Gen2** (lower quality, washed-out) | [P](https://www.plonkit.net/isle-of-man) |  |
+| Country | Plates UK-style (white front / yellow rear) but with a **red strip on the left** | [P](https://www.plonkit.net/isle-of-man) |  |
+| Country | Landscape = **hilly farmland** w/ narrow roads; drives on the left | [P](https://www.plonkit.net/isle-of-man) |  |
+| Country | **Whitewashed houses** w/ entrance walls (like Ireland); striped kerbs along main roads | [P](https://www.plonkit.net/isle-of-man) |  |
+| Country | **Blue bollards** common in urban areas | [P](https://www.plonkit.net/isle-of-man) |  |
+| Region | **Gorse** (bright yellow flowers) very common; Douglas = capital w/ terraced rows; lamp-post stickers narrow you to 1 of 21 parishes | [P](https://www.plonkit.net/isle-of-man) |  |
+
 ## Andorra
 Study: [Plonk It](https://www.plonkit.net/andorra)
 
@@ -1426,6 +1491,19 @@ Study: [Plonk It](https://www.plonkit.net/liechtenstein)
 | Country | Bus stops = green-and-white with **LIEMOBIL** written on top | [P](https://www.plonkit.net/liechtenstein) |  |
 | Country | Directional signs white (small roads) / blue (big roads) w/ a pointed arrowhead; pedestrian sign = **7 stripes** in a tall rectangle (identical to Switzerland) | [P](https://www.plonkit.net/liechtenstein) |  |
 | Region | Alpine + modern architecture; town-specific bus stops (**Vaduz** red, **Balzers** black); Triesenberg on the eastern mountain slope | [P](https://www.plonkit.net/liechtenstein) |  |
+
+## Jersey
+Study: [Plonk It](https://www.plonkit.net/jersey)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | British Crown Dependency in the Channel Islands (off NW France; counts as UK); all **Gen2**; winding hedgerow lanes, usually **sunny** | [P](https://www.plonkit.net/jersey) |  |
+| Country | Plates UK-model (white front / yellow rear) + island **red coat of arms** + a **'J'** prefix; **no blue strip** (never in the EU) | [P](https://www.plonkit.net/jersey) |  |
+| Country | UK-style infrastructure (drives left, chevrons, warning signs) but **French street & locality names** (Jèrriais on some signs) | [P](https://www.plonkit.net/jersey) |  |
+| Country | Architecture like northern France: pastel walls + **dark slate roofs**; **red-granite** walls & houses; British terraced houses too | [P](https://www.plonkit.net/jersey) |  |
+| Country | **Yellow telephone booths** (UK's are red); Cornish palms used as decorative plants | [P](https://www.plonkit.net/jersey) |  |
+| Country | **Yellow give-way lines** at intersections (UK = double dotted white); '**Green Lane**' cycling signs + blue island-map route markers | [P](https://www.plonkit.net/jersey) |  |
+| Region | Street signs carry the **parish coat of arms**; St Helier = urbanised capital; Les Mielles = treeless western coast | [P](https://www.plonkit.net/jersey) |  |
 
 ## San Marino
 Study: [Plonk It](https://www.plonkit.net/san-marino)

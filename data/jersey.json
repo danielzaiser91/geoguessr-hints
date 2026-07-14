@@ -1,0 +1,16 @@
+{
+ "name": "Jersey",
+ "slug": "jersey",
+ "continent": "Europe",
+ "area_km2": 119,
+ "links": { "plonkit": "https://www.plonkit.net/jersey", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "British Crown Dependency in the Channel Islands (off NW France; counts as UK); all **Gen2**; winding hedgerow lanes, usually **sunny**", "src": ["plonkit"], "sv": null, "img": "Jersey_vibe.png", "type": "cars" },
+  { "cat": "country", "text": "Plates UK-model (white front / yellow rear) + island **red coat of arms** + a **'J'** prefix; **no blue strip** (never in the EU)", "src": ["plonkit"], "sv": null, "img": "Jersey_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "UK-style infrastructure (drives left, chevrons, warning signs) but **French street & locality names** (Jèrriais on some signs)", "src": ["plonkit"], "sv": null, "img": "French_locality_names.png", "type": "language" },
+  { "cat": "country", "text": "Architecture like northern France: pastel walls + **dark slate roofs**; **red-granite** walls & houses; British terraced houses too", "src": ["plonkit"], "sv": null, "img": "Red_granite.png", "type": "arch" },
+  { "cat": "country", "text": "**Yellow telephone booths** (UK's are red); Cornish palms used as decorative plants", "src": ["plonkit"], "sv": null, "img": "Yellow_phone_booths.png", "type": "general" },
+  { "cat": "country", "text": "**Yellow give-way lines** at intersections (UK = double dotted white); '**Green Lane**' cycling signs + blue island-map route markers", "src": ["plonkit"], "sv": null, "img": "Yellow_give_way_lines.png", "type": "markings" },
+  { "cat": "region", "text": "Street signs carry the **parish coat of arms**; St Helier = urbanised capital; Les Mielles = treeless western coast", "src": ["plonkit"], "sv": null, "img": "Cycling_route_signs.png", "type": "naming" }
+ ]
+}
