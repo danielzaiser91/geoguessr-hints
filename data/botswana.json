@@ -1,0 +1,18 @@
+{
+ "name": "Botswana",
+ "slug": "botswana",
+ "continent": "Africa",
+ "area_km2": 581730,
+ "links": { "plonkit": "https://www.plonkit.net/botswana", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "**White car, no antenna** (in Africa also ZA / Lesotho / Eswatini)", "src": ["plonkit"], "sv": null, "img": "Botswana_car.png", "type": "cars" },
+  { "cat": "country", "text": "Plates **white front / yellow rear** (UK-style) — only Botswana & Namibia in southern Africa predominantly have yellow rear plates", "src": ["plonkit"], "sv": null, "img": "Botswana_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "Signs in **English**; town names from indigenous languages; **Afrikaans very rare** (unlike South Africa)", "src": ["plonkit"], "sv": null, "img": "Botswana_-_language_v2.png", "type": "language" },
+  { "cat": "country", "text": "Landscape **dry & mostly flat**: shrubs, small trees, golden grass; sandy soil white → red", "src": ["plonkit"], "sv": null, "img": "bw_landscape.png", "type": "landscape" },
+  { "cat": "country", "text": "Road lines **yellow outer / white middle** (Southern Africa; note Botswana drives **left**)", "src": ["plonkit"], "sv": null, "img": "bw_roadlines.png", "type": "markings" },
+  { "cat": "country", "text": "Unique **black-and-yellow striped signposts** (in S. Africa only Botswana); striped kerbs & guardrails", "src": ["plonkit"], "sv": null, "img": "Botswana_stripeys.png", "type": "signs" },
+  { "cat": "country", "text": "Green direction signs; **road numbers start with A** (South Africa never starts with A); some older **blue-background** signs (~unique to Botswana)", "src": ["plonkit"], "sv": null, "img": "Blue_road_signs.png", "type": "signs" },
+  { "cat": "country", "text": "Houses range shack → bungalow, exposed grey brick, occasional round huts; **random small blurs** common in coverage", "src": ["plonkit"], "sv": null, "img": "Botswana_-_architecture.png", "type": "arch" },
+  { "cat": "region", "text": "Coverage sparse (densest in the east + near Gaborone); mostly **pancake-flat**, hills only in ~2 areas (SE between Gaborone & Lobatse)", "src": ["plonkit"], "sv": null, "img": "Botswana_Region_Map.png", "type": "naming" }
+ ]
+}

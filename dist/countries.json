@@ -925,6 +925,108 @@
    ]
   },
   {
+   "name": "Botswana",
+   "slug": "botswana",
+   "continent": "Africa",
+   "area_km2": 581730,
+   "links": {
+    "plonkit": "https://www.plonkit.net/botswana",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "**White car, no antenna** (in Africa also ZA / Lesotho / Eswatini)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Botswana_car.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Plates **white front / yellow rear** (UK-style) — only Botswana & Namibia in southern Africa predominantly have yellow rear plates",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Botswana_License_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Signs in **English**; town names from indigenous languages; **Afrikaans very rare** (unlike South Africa)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Botswana_-_language_v2.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Landscape **dry & mostly flat**: shrubs, small trees, golden grass; sandy soil white → red",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "bw_landscape.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Road lines **yellow outer / white middle** (Southern Africa; note Botswana drives **left**)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "bw_roadlines.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "Unique **black-and-yellow striped signposts** (in S. Africa only Botswana); striped kerbs & guardrails",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Botswana_stripeys.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Green direction signs; **road numbers start with A** (South Africa never starts with A); some older **blue-background** signs (~unique to Botswana)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Blue_road_signs.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Houses range shack → bungalow, exposed grey brick, occasional round huts; **random small blurs** common in coverage",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Botswana_-_architecture.png",
+     "type": "arch"
+    },
+    {
+     "cat": "region",
+     "text": "Coverage sparse (densest in the east + near Gaborone); mostly **pancake-flat**, hills only in ~2 areas (SE between Gaborone & Lobatse)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Botswana_Region_Map.png",
+     "type": "naming"
+    }
+   ]
+  },
+  {
    "name": "Brazil",
    "slug": "brazil",
    "continent": "South America",
@@ -5582,6 +5684,68 @@
    ]
   },
   {
+   "name": "Madagascar",
+   "slug": "madagascar",
+   "continent": "Africa",
+   "area_km2": 587041,
+   "links": {
+    "plonkit": "https://www.plonkit.net/madagascar",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "All coverage = **Gen3 trekker** (plus several **boat trekkers**); only two spots have a visible car",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "mg_trekker.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Most coverage features **people walking alongside** the trekker — their clothing identifies the country & the exact region",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "mg_followpeople.png",
+     "type": "general"
+    },
+    {
+     "cat": "country",
+     "text": "**French + Malagasy** (Latin script, long multi-syllable words); some English on commercial signs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "mg_language.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Climate **extremely dry south/central → tropical north**; iconic **baobab** trees (Baobab Avenue near Morondava)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "mg_dryness.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "region",
+     "text": "Coverage very limited, mostly the **west coast** (+ boat trekkers & small atolls); landmarks = Baobab Avenue, Morondava beach, **Antananarivo** (Queen's Palace hill), Kirindy Mitea (reddest soil)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "mg_coverage.png",
+     "type": "naming"
+    }
+   ]
+  },
+  {
    "name": "Malaysia",
    "slug": "malaysia",
    "continent": "Asia",
@@ -5959,6 +6123,98 @@
      "sv": null,
      "img": "Mongolia_Coverage_Map.png",
      "type": "naming"
+    }
+   ]
+  },
+  {
+   "name": "Namibia",
+   "slug": "namibia",
+   "continent": "Africa",
+   "area_km2": 825615,
+   "links": {
+    "plonkit": "https://www.plonkit.net/namibia",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plates **yellow front & back** (vanity plates = white w/ blue text) — only Botswana & Namibia predominantly use yellow rear plates",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "0.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Drives **left**; all coverage = white pickup w/ a **short front antenna that leans slightly left** (Oman's leans right)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "2.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Roads: single **yellow outer + white centre** lines (like the rest of Southern Africa)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "3.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "Green direction signs w/ yellow road numbers; roads use **A/B/C/D/M (+ F)** — South Africa uses N & R",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "5.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Former **German colony** → German place names + some German-style old buildings; small stone bollards at intersections; green/white round bins at rest stops",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "6.png",
+     "type": "arch"
+    },
+    {
+     "cat": "region",
+     "text": "Coverage mostly main roads; **area codes** narrow urban rounds; where the **car is blurred** correlates with region (2024 coverage)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "11.png",
+     "type": "naming"
+    },
+    {
+     "cat": "region",
+     "text": "**D-road first digit = region**; 3-digit numbers (D203) in the far south → 4-digit (1/2/3) further north",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Namibia_D-Roads_Infographic.png",
+     "type": "naming"
+    },
+    {
+     "cat": "region",
+     "text": "East of Windhoek = Botswana-like flat/red; NW greener; **coastal sand dunes** around Swakopmund; tall **pink dunes** east of Sossusvlei; lush green → S of Tsumeb",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "10.png",
+     "type": "landscape"
     }
    ]
   },
@@ -7919,6 +8175,209 @@
    ]
   },
   {
+   "name": "Rwanda",
+   "slug": "rwanda",
+   "continent": "Africa",
+   "area_km2": 26338,
+   "links": {
+    "plonkit": "https://www.plonkit.net/rwanda",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plates **long white front / yellow back**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Rwanda_License_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "All Gen4; **pickup usually fully blurred** (white or brown w/ a brakelight); coverage has a noticeable **hazy** tint (also Senegal)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Big_blur.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Architecture brick/concrete, single-family, steep roofs, fences — signature **ventilation bricks**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Rwanda_Architecture.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "Generally **hilly** (not very mountainous); soil has a noticeable **red tint**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "rw_hills.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "**Eucalyptus** + **banana** plants very common",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Eucalyptus.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Red-and-white **cylindrical bollards** + white concrete waystones",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Rwandan_Bollards.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "country",
+     "text": "Streets very **clean**; **black-and-white striped kerbs**; drives right; motorcyclists all wear **red vests & helmets**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Clean_streets.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "Limited coverage (mainly **Kigali** + patches); street names carry a **2-letter district code**; national roads paint the road number on lampposts",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Rwanda_Waystones.png",
+     "type": "naming"
+    },
+    {
+     "cat": "region",
+     "text": "Tea plantations in the west; **volcanoes + volcanic rock NW**; Akagera NP = dry-vegetated, wide reddish-brown unpaved roads",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "landscape"
+    }
+   ]
+  },
+  {
+   "name": "Senegal",
+   "slug": "senegal",
+   "continent": "Africa",
+   "area_km2": 196722,
+   "links": {
+    "plonkit": "https://www.plonkit.net/senegal",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "The **only African country with fully blue plates** (newer Gen4 = white w/ a blue strip left)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "senegal_plates.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Gen4 = silver/white **truck cab** (region-specific variants) + a black pickup near Dakar/Thies; Gen3 car has the **right mirror visible** (unique to Senegal)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "image.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Drives **right**; French-colonial infrastructure (bollards, poles, signs, road lines)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "image__281_29.png",
+     "type": "general"
+    },
+    {
+     "cat": "country",
+     "text": "**French** is the main language (the other sub-Saharan SV countries use English)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "fr_language.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "White **km markers w/ a red top** (road number + distances; the farthest town is usually the biggest)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "image__282_29.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Town-entry signs = white w/ a **thick pink outline** and bold black town name",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "image__283_29.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Simple black **lamps with a solar panel** on top are common",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "image__284_29.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "**Yellow-orange taxis with black fenders**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "image__285_29.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "Coverage mostly west of Touba; north = flat arid savannah-desert (sparse faded trees); south of The Gambia = greener + palms; Diourbel = rural sandy roads",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Senegal_Coverage_Map_v2.png",
+     "type": "naming"
+    }
+   ]
+  },
+  {
    "name": "Serbia",
    "slug": "serbia",
    "continent": "Europe",
@@ -9286,6 +9745,68 @@
      ],
      "sv": null,
      "type": "landscape"
+    }
+   ]
+  },
+  {
+   "name": "Tanzania",
+   "slug": "tanzania",
+   "continent": "Africa",
+   "area_km2": 947303,
+   "links": {
+    "plonkit": "https://www.plonkit.net/tanzania",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Extremely limited coverage: **Gen3 trekkers in Gombe NP**, tripods on **Kilimanjaro**, + car spills on the Kenya border (none on roads / pinpointable)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Coverage-map.png",
+     "type": "cars"
+    },
+    {
+     "cat": "special",
+     "text": "**Kilimanjaro tripods**: high-altitude dark grey rock, eternal snow, mountaineers/tents; ethereal motion-blur look",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Mt_kilimanjaro_explainer.png",
+     "type": "general"
+    },
+    {
+     "cat": "special",
+     "text": "**Gombe NP trekker**: lowland dense dark jungle (chimps) → savannah trees → bare grassland w/ Lake Tanganyika views",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Gombe_trekker_chimps.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "special",
+     "text": "**Boat trekker** on Lake Tanganyika (olive-green & white boat; the coast is always to your east) — don't confuse with Madagascar's boats",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Gombe_boat.png",
+     "type": "general"
+    },
+    {
+     "cat": "special",
+     "text": "One more tripod inside **Jane Goodall's house** (Gombe NP)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Jane_Goodalls_house.png",
+     "type": "general"
     }
    ]
   },
@@ -11099,7 +11620,7 @@
   "Antarctica"
  ],
  "counts": {
-  "done": 81,
+  "done": 87,
   "total": 136
  }
 }

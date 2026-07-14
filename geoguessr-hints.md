@@ -12,9 +12,9 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**81 / 136 countries.**
+**87 / 136 countries.**
 
-**Africa:** ⬜ Botswana ✅ Egypt ⬜ Eswatini ✅ Ghana ✅ Kenya ⬜ Lesotho ⬜ Madagascar ⬜ Mali ⬜ Namibia ✅ Nigeria ⬜ Reunion ⬜ Rwanda ⬜ Senegal ✅ South Africa ⬜ São Tomé and Príncipe ⬜ Tanzania ✅ Tunisia ✅ Uganda
+**Africa:** ✅ Botswana ✅ Egypt ⬜ Eswatini ✅ Ghana ✅ Kenya ⬜ Lesotho ✅ Madagascar ⬜ Mali ✅ Namibia ✅ Nigeria ⬜ Reunion ✅ Rwanda ✅ Senegal ✅ South Africa ⬜ São Tomé and Príncipe ✅ Tanzania ✅ Tunisia ✅ Uganda
 **Asia:** ✅ Bangladesh ✅ Bhutan ⬜ British Indian Ocean Territory ✅ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ✅ Iraq ⬜ Israel & the West Bank ✅ Japan ✅ Jordan ✅ Kazakhstan ✅ Kyrgyzstan ✅ Laos ✅ Lebanon ⬜ Macau ✅ Malaysia ✅ Mongolia ✅ Nepal ✅ Oman ✅ Pakistan ✅ Philippines ✅ Qatar ⬜ Singapore ✅ South Korea ✅ Sri Lanka ✅ Taiwan ✅ Thailand ✅ Turkey ✅ United Arab Emirates ✅ Vietnam
 **Europe:** ⬜ Albania ⬜ Andorra ✅ Austria ⬜ Azores ⬜ Belarus ✅ Belgium ✅ Bulgaria ✅ Croatia ✅ Czechia ✅ Denmark ✅ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ⬜ Gibraltar ✅ Greece ✅ Hungary ✅ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ✅ Latvia ⬜ Liechtenstein ✅ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ✅ Romania ✅ Russia ⬜ San Marino ✅ Serbia ✅ Slovakia ✅ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
 **North America:** ⬜ Alaska ⬜ Bermuda ✅ Canada ✅ Costa Rica ⬜ Dominican Republic ⬜ Greenland ✅ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ✅ Panama ⬜ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
@@ -60,6 +60,17 @@ Study: [Plonk It](https://www.plonkit.net/egypt)
 | Special | **Alexandria — Qaitbay Citadel**: sandstone castle surrounded by thick walls | [P](https://www.plonkit.net/egypt) |  |
 | Special | **Saint Mina monastery** (palace-like, Christian spires/crosses) + **Abu Mena** excavation (small yellow wooden chapel) SW of Alexandria | [P](https://www.plonkit.net/egypt) |  |
 
+## Tanzania
+Study: [Plonk It](https://www.plonkit.net/tanzania)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Extremely limited coverage: **Gen3 trekkers in Gombe NP**, tripods on **Kilimanjaro**, + car spills on the Kenya border (none on roads / pinpointable) | [P](https://www.plonkit.net/tanzania) |  |
+| Special | **Kilimanjaro tripods**: high-altitude dark grey rock, eternal snow, mountaineers/tents; ethereal motion-blur look | [P](https://www.plonkit.net/tanzania) |  |
+| Special | **Gombe NP trekker**: lowland dense dark jungle (chimps) → savannah trees → bare grassland w/ Lake Tanganyika views | [P](https://www.plonkit.net/tanzania) |  |
+| Special | **Boat trekker** on Lake Tanganyika (olive-green & white boat; the coast is always to your east) — don't confuse with Madagascar's boats | [P](https://www.plonkit.net/tanzania) |  |
+| Special | One more tripod inside **Jane Goodall's house** (Gombe NP) | [P](https://www.plonkit.net/tanzania) |  |
+
 ## Nigeria
 Study: [Plonk It](https://www.plonkit.net/nigeria)
 
@@ -74,6 +85,46 @@ Study: [Plonk It](https://www.plonkit.net/nigeria)
 | Country | **City & state names on storefronts and banners** → very useful for region-guessing | [P](https://www.plonkit.net/nigeria) |  |
 | Country | **Shitcam** (Nigeria is the only mainland-African country with it; 2023–25 coverage is extra low-quality, only otherwise in Lebanon) | [P](https://www.plonkit.net/nigeria) |  |
 | Region | Fairly flat; **Christian south / Muslim north**; climate tropical (S) → savannah (centre) → arid steppe (N); some states have yellow tuk-tuks; Kaduna haystacks; monolithic rocks around Abuja | [P](https://www.plonkit.net/nigeria) |  |
+
+## Namibia
+Study: [Plonk It](https://www.plonkit.net/namibia)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates **yellow front & back** (vanity plates = white w/ blue text) — only Botswana & Namibia predominantly use yellow rear plates | [P](https://www.plonkit.net/namibia) |  |
+| Country | Drives **left**; all coverage = white pickup w/ a **short front antenna that leans slightly left** (Oman's leans right) | [P](https://www.plonkit.net/namibia) |  |
+| Country | Roads: single **yellow outer + white centre** lines (like the rest of Southern Africa) | [P](https://www.plonkit.net/namibia) |  |
+| Country | Green direction signs w/ yellow road numbers; roads use **A/B/C/D/M (+ F)** — South Africa uses N & R | [P](https://www.plonkit.net/namibia) |  |
+| Country | Former **German colony** → German place names + some German-style old buildings; small stone bollards at intersections; green/white round bins at rest stops | [P](https://www.plonkit.net/namibia) |  |
+| Region | Coverage mostly main roads; **area codes** narrow urban rounds; where the **car is blurred** correlates with region (2024 coverage) | [P](https://www.plonkit.net/namibia) |  |
+| Region | **D-road first digit = region**; 3-digit numbers (D203) in the far south → 4-digit (1/2/3) further north | [P](https://www.plonkit.net/namibia) |  |
+| Region | East of Windhoek = Botswana-like flat/red; NW greener; **coastal sand dunes** around Swakopmund; tall **pink dunes** east of Sossusvlei; lush green → S of Tsumeb | [P](https://www.plonkit.net/namibia) |  |
+
+## Madagascar
+Study: [Plonk It](https://www.plonkit.net/madagascar)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | All coverage = **Gen3 trekker** (plus several **boat trekkers**); only two spots have a visible car | [P](https://www.plonkit.net/madagascar) |  |
+| Country | Most coverage features **people walking alongside** the trekker — their clothing identifies the country & the exact region | [P](https://www.plonkit.net/madagascar) |  |
+| Country | **French + Malagasy** (Latin script, long multi-syllable words); some English on commercial signs | [P](https://www.plonkit.net/madagascar) |  |
+| Country | Climate **extremely dry south/central → tropical north**; iconic **baobab** trees (Baobab Avenue near Morondava) | [P](https://www.plonkit.net/madagascar) |  |
+| Region | Coverage very limited, mostly the **west coast** (+ boat trekkers & small atolls); landmarks = Baobab Avenue, Morondava beach, **Antananarivo** (Queen's Palace hill), Kirindy Mitea (reddest soil) | [P](https://www.plonkit.net/madagascar) |  |
+
+## Botswana
+Study: [Plonk It](https://www.plonkit.net/botswana)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | **White car, no antenna** (in Africa also ZA / Lesotho / Eswatini) | [P](https://www.plonkit.net/botswana) |  |
+| Country | Plates **white front / yellow rear** (UK-style) — only Botswana & Namibia in southern Africa predominantly have yellow rear plates | [P](https://www.plonkit.net/botswana) |  |
+| Country | Signs in **English**; town names from indigenous languages; **Afrikaans very rare** (unlike South Africa) | [P](https://www.plonkit.net/botswana) |  |
+| Country | Landscape **dry & mostly flat**: shrubs, small trees, golden grass; sandy soil white → red | [P](https://www.plonkit.net/botswana) |  |
+| Country | Road lines **yellow outer / white middle** (Southern Africa; note Botswana drives **left**) | [P](https://www.plonkit.net/botswana) |  |
+| Country | Unique **black-and-yellow striped signposts** (in S. Africa only Botswana); striped kerbs & guardrails | [P](https://www.plonkit.net/botswana) |  |
+| Country | Green direction signs; **road numbers start with A** (South Africa never starts with A); some older **blue-background** signs (~unique to Botswana) | [P](https://www.plonkit.net/botswana) |  |
+| Country | Houses range shack → bungalow, exposed grey brick, occasional round huts; **random small blurs** common in coverage | [P](https://www.plonkit.net/botswana) |  |
+| Region | Coverage sparse (densest in the east + near Gaborone); mostly **pancake-flat**, hills only in ~2 areas (SE between Gaborone & Lobatse) | [P](https://www.plonkit.net/botswana) |  |
 
 ## Kenya
 Study: [Plonk It](https://www.plonkit.net/kenya)
@@ -120,6 +171,21 @@ Study: [Plonk It](https://www.plonkit.net/ghana)
 | Country | Patriotic country — things painted **red/yellow/green (+ black star)**; B&W striped signposts in cities | [P](https://www.plonkit.net/ghana) |  |
 | Region | Coverage limited (densest south: Accra/Kumasi); **3 tape types on the car** (unpeeled SW, peeled E/N, scotched N of Kumasi); north = savannah, SW/E = dense forest + palms | [P](https://www.plonkit.net/ghana) |  |
 
+## Senegal
+Study: [Plonk It](https://www.plonkit.net/senegal)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | The **only African country with fully blue plates** (newer Gen4 = white w/ a blue strip left) | [P](https://www.plonkit.net/senegal) |  |
+| Country | Gen4 = silver/white **truck cab** (region-specific variants) + a black pickup near Dakar/Thies; Gen3 car has the **right mirror visible** (unique to Senegal) | [P](https://www.plonkit.net/senegal) |  |
+| Country | Drives **right**; French-colonial infrastructure (bollards, poles, signs, road lines) | [P](https://www.plonkit.net/senegal) |  |
+| Country | **French** is the main language (the other sub-Saharan SV countries use English) | [P](https://www.plonkit.net/senegal) |  |
+| Country | White **km markers w/ a red top** (road number + distances; the farthest town is usually the biggest) | [P](https://www.plonkit.net/senegal) |  |
+| Country | Town-entry signs = white w/ a **thick pink outline** and bold black town name | [P](https://www.plonkit.net/senegal) |  |
+| Country | Simple black **lamps with a solar panel** on top are common | [P](https://www.plonkit.net/senegal) |  |
+| Country | **Yellow-orange taxis with black fenders** | [P](https://www.plonkit.net/senegal) |  |
+| Region | Coverage mostly west of Touba; north = flat arid savannah-desert (sparse faded trees); south of The Gambia = greener + palms; Diourbel = rural sandy roads | [P](https://www.plonkit.net/senegal) |  |
+
 ## Tunisia
 Study: [Plonk It](https://www.plonkit.net/tunisia)
 
@@ -135,6 +201,21 @@ Study: [Plonk It](https://www.plonkit.net/tunisia)
 | Country | White concrete **markers w/ a rounded red/yellow/green top** (distances + road number → pinpoint) | [P](https://www.plonkit.net/tunisia) |  |
 | Country | Fairly unique **stop sign** with Arabic + Latin (Jordan/UAE similar; Israel/Palestine use a hand) | [P](https://www.plonkit.net/tunisia) |  |
 | Region | Coverage mostly **east coast** (Bizerte→Medenine); **follow-car type = region** (light-green Toyota north, dark-green Mazda Hammamet→Djerba, Kairouan white Mitsubishi, **Djerba = no follow car**); N Mediterranean/hilly, centre flat/arid, S desert | [P](https://www.plonkit.net/tunisia) |  |
+
+## Rwanda
+Study: [Plonk It](https://www.plonkit.net/rwanda)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates **long white front / yellow back** | [P](https://www.plonkit.net/rwanda) |  |
+| Country | All Gen4; **pickup usually fully blurred** (white or brown w/ a brakelight); coverage has a noticeable **hazy** tint (also Senegal) | [P](https://www.plonkit.net/rwanda) |  |
+| Country | Architecture brick/concrete, single-family, steep roofs, fences — signature **ventilation bricks** | [P](https://www.plonkit.net/rwanda) |  |
+| Country | Generally **hilly** (not very mountainous); soil has a noticeable **red tint** | [P](https://www.plonkit.net/rwanda) |  |
+| Country | **Eucalyptus** + **banana** plants very common | [P](https://www.plonkit.net/rwanda) |  |
+| Country | Red-and-white **cylindrical bollards** + white concrete waystones | [P](https://www.plonkit.net/rwanda) |  |
+| Country | Streets very **clean**; **black-and-white striped kerbs**; drives right; motorcyclists all wear **red vests & helmets** | [P](https://www.plonkit.net/rwanda) |  |
+| Region | Limited coverage (mainly **Kigali** + patches); street names carry a **2-letter district code**; national roads paint the road number on lampposts | [P](https://www.plonkit.net/rwanda) |  |
+| Region | Tea plantations in the west; **volcanoes + volcanic rock NW**; Akagera NP = dry-vegetated, wide reddish-brown unpaved roads | [P](https://www.plonkit.net/rwanda) |  |
 
 # Asia
 

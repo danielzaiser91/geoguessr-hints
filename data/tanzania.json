@@ -1,0 +1,14 @@
+{
+ "name": "Tanzania",
+ "slug": "tanzania",
+ "continent": "Africa",
+ "area_km2": 947303,
+ "links": { "plonkit": "https://www.plonkit.net/tanzania", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Extremely limited coverage: **Gen3 trekkers in Gombe NP**, tripods on **Kilimanjaro**, + car spills on the Kenya border (none on roads / pinpointable)", "src": ["plonkit"], "sv": null, "img": "Coverage-map.png", "type": "cars" },
+  { "cat": "special", "text": "**Kilimanjaro tripods**: high-altitude dark grey rock, eternal snow, mountaineers/tents; ethereal motion-blur look", "src": ["plonkit"], "sv": null, "img": "Mt_kilimanjaro_explainer.png", "type": "general" },
+  { "cat": "special", "text": "**Gombe NP trekker**: lowland dense dark jungle (chimps) → savannah trees → bare grassland w/ Lake Tanganyika views", "src": ["plonkit"], "sv": null, "img": "Gombe_trekker_chimps.png", "type": "landscape" },
+  { "cat": "special", "text": "**Boat trekker** on Lake Tanganyika (olive-green & white boat; the coast is always to your east) — don't confuse with Madagascar's boats", "src": ["plonkit"], "sv": null, "img": "Gombe_boat.png", "type": "general" },
+  { "cat": "special", "text": "One more tripod inside **Jane Goodall's house** (Gombe NP)", "src": ["plonkit"], "sv": null, "img": "Jane_Goodalls_house.png", "type": "general" }
+ ]
+}

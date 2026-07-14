@@ -1,0 +1,17 @@
+{
+ "name": "Namibia",
+ "slug": "namibia",
+ "continent": "Africa",
+ "area_km2": 825615,
+ "links": { "plonkit": "https://www.plonkit.net/namibia", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Plates **yellow front & back** (vanity plates = white w/ blue text) — only Botswana & Namibia predominantly use yellow rear plates", "src": ["plonkit"], "sv": null, "img": "0.png", "type": "plates" },
+  { "cat": "country", "text": "Drives **left**; all coverage = white pickup w/ a **short front antenna that leans slightly left** (Oman's leans right)", "src": ["plonkit"], "sv": null, "img": "2.png", "type": "cars" },
+  { "cat": "country", "text": "Roads: single **yellow outer + white centre** lines (like the rest of Southern Africa)", "src": ["plonkit"], "sv": null, "img": "3.png", "type": "markings" },
+  { "cat": "country", "text": "Green direction signs w/ yellow road numbers; roads use **A/B/C/D/M (+ F)** — South Africa uses N & R", "src": ["plonkit"], "sv": null, "img": "5.png", "type": "signs" },
+  { "cat": "country", "text": "Former **German colony** → German place names + some German-style old buildings; small stone bollards at intersections; green/white round bins at rest stops", "src": ["plonkit"], "sv": null, "img": "6.png", "type": "arch" },
+  { "cat": "region", "text": "Coverage mostly main roads; **area codes** narrow urban rounds; where the **car is blurred** correlates with region (2024 coverage)", "src": ["plonkit"], "sv": null, "img": "11.png", "type": "naming" },
+  { "cat": "region", "text": "**D-road first digit = region**; 3-digit numbers (D203) in the far south → 4-digit (1/2/3) further north", "src": ["plonkit"], "sv": null, "img": "Namibia_D-Roads_Infographic.png", "type": "naming" },
+  { "cat": "region", "text": "East of Windhoek = Botswana-like flat/red; NW greener; **coastal sand dunes** around Swakopmund; tall **pink dunes** east of Sossusvlei; lush green → S of Tsumeb", "src": ["plonkit"], "sv": null, "img": "10.png", "type": "landscape" }
+ ]
+}
