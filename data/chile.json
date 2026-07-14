@@ -1,0 +1,21 @@
+{
+ "name": "Chile",
+ "slug": "chile",
+ "continent": "South America",
+ "area_km2": 756096,
+ "links": { "plonkit": "https://www.plonkit.net/chile", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Road lines **all white or all yellow** — all-yellow (parks / snowy areas) is ~unique to Chile in the Americas", "src": ["plonkit"], "sv": null, "img": "road_lines.png", "type": "markings" },
+  { "cat": "country", "text": "Gen3 solid **white car, no antenna** (variant with a black section = unique to Chile); Gen4 blue car", "src": ["plonkit"], "sv": null, "img": "google_car.png", "type": "cars" },
+  { "cat": "country", "text": "**Square concrete poles, indent on both sides** + pinholes on top (fewer supports than Brazil); wooden poles too", "src": ["plonkit"], "sv": null, "img": "pole.png", "type": "utility" },
+  { "cat": "country", "text": "Plates white; **commercial & taxi = orange** (also seen in Ecuador)", "src": ["plonkit"], "sv": null, "img": "Chile_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "**Slots at the top of signposts**; chevrons yellow base w/ black arrows (Argentina = white w/ red)", "src": ["plonkit"], "sv": null, "img": "Slotted_Signs.png", "type": "signs" },
+  { "cat": "country", "text": "Bollards Spanish-style (white front / yellow-orange back), fairly rare; **bridges with red-painted fence posts**", "src": ["plonkit"], "sv": null, "img": "red_bridges.png", "type": "general" },
+  { "cat": "region", "text": "Long narrow country → **climate by latitude**: arid desert north · Mediterranean centre · cool wet oceanic south", "src": ["plonkit"], "sv": null, "img": "Atacama.png", "type": "landscape" },
+  { "cat": "state", "text": "Road naming: **first letter A→Y from north→south**; area codes memorable & regional", "src": ["plonkit"], "sv": null, "img": "Chile_Road_Naming_System_nobg.png", "type": "naming" },
+  { "cat": "region", "text": "**Atacama** (northern third) = extreme arid desert, just sand & bare rock, ~no vegetation", "src": ["plonkit"], "sv": null, "img": "Atacama_Red_Soil.png", "type": "landscape" },
+  { "cat": "region", "text": "Santiago = semi-arid dry hills; **Maule greener w/ vineyards**; eucalyptus + dry climate → SW Valparaíso", "src": ["plonkit"], "sv": null, "img": "Maule_Vineyards_gen4.png", "type": "landscape" },
+  { "cat": "region", "text": "Radiata (**Concepción**) pines w/ puffy needles → Biobío; **monkey-puzzle** trees → far-E Araucanía; narrow tree-lined roads → Biobío/Araucanía", "src": ["plonkit"], "sv": null, "img": "Concepcion_Pines.png", "type": "landscape" },
+  { "cat": "special", "text": "**Triple yellow lines** common in national parks/reserves; all-yellow on concrete → Magallanes (barren treeless far south)", "src": ["plonkit"], "sv": null, "type": "markings" }
+ ]
+}

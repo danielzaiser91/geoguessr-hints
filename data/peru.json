@@ -1,0 +1,22 @@
+{
+ "name": "Peru",
+ "slug": "peru",
+ "continent": "South America",
+ "area_km2": 1285216,
+ "links": { "plonkit": "https://www.plonkit.net/peru", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Plates white or **yellow** (in S. America yellow = only Peru/Colombia); taxis = yellow top / white bottom", "src": ["plonkit"], "sv": null, "img": "Peru_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "Gen3 solid **black or white** Google car; **has Gen4** (Bolivia doesn't; Ecuador Gen4 = big pickup); smallcam exists", "src": ["plonkit"], "sv": null, "img": "1.gen3cars.png", "type": "cars" },
+  { "cat": "country", "text": "White outer lines; highways single-dashed/double yellow; **rural mountain roads have no centre line** (mostly Peru in SA)", "src": ["plonkit"], "sv": null, "img": "1.roadlines.png", "type": "markings" },
+  { "cat": "country", "text": "**Black-and-white striped signposts** (only Peru in S. America); metal signposts have **concrete blocks at the base**", "src": ["plonkit"], "sv": null, "img": "1.signpost.png", "type": "utility" },
+  { "cat": "country", "text": "Bollards red or yellow, mostly **triangular concrete**; guardrails black/yellow striped (Peru's outer stripe black; Bolivia yellow)", "src": ["plonkit"], "sv": null, "img": "1.bollard.png", "type": "bollards" },
+  { "cat": "country", "text": "km markers = **concrete, black-and-white**; **bridges commonly painted orange**", "src": ["plonkit"], "sv": null, "img": "1.orangebridge.png", "type": "general" },
+  { "cat": "country", "text": "**Mototaxis** (tuk-tuks) common in cities; red-and-white stickers on taxis; rectangular metal electricity counters (2–3 slits)", "src": ["plonkit"], "sv": null, "img": "1.tuktuk.png", "type": "general" },
+  { "cat": "country", "text": "Currency **Sol (S/.)**; many country-unique political-party logos painted on walls", "src": ["plonkit"], "sv": null, "img": "1.currency.png", "type": "general" },
+  { "cat": "region", "text": "Coverage mostly west + main highways; **flat east, mountainous west**; dry desert west, rainforest east", "src": ["plonkit"], "sv": null, "img": "Peru_terrain.png", "type": "landscape" },
+  { "cat": "state", "text": "Highways numbered **north→south** (mostly west); 1 / 3 / 5 longest, cross multiple departments", "src": ["plonkit"], "sv": null, "img": "2.highwaynumbers.png", "type": "naming" },
+  { "cat": "state", "text": "Pole markings: **yellow vertical numbers** + a 2–3 letter city code (e.g. CH = Chimbote) → north coast & Tacna", "src": ["plonkit"], "sv": null, "img": "Peru_pole_paint.png", "type": "utility" },
+  { "cat": "region", "text": "**Red brick + blue-glass buildings** → near Lake Titicaca (like W. Bolivia); overhanging wood-supported roofs → north", "src": ["plonkit"], "sv": null, "img": "1.architecture.png", "type": "arch" },
+  { "cat": "special", "text": "**Lima** lamp posts have a sweeping **inverted-J** top; cylindrical black/yellow-top bollard = Moquegua (south)", "src": ["plonkit"], "sv": null, "type": "utility" }
+ ]
+}

@@ -12,17 +12,39 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**24 / 136 countries.**
+**30 / 136 countries.**
 
-**Africa:** ⬜ Botswana ⬜ Egypt ⬜ Eswatini ⬜ Ghana ⬜ Kenya ⬜ Lesotho ⬜ Madagascar ⬜ Mali ⬜ Namibia ⬜ Nigeria ⬜ Reunion ⬜ Rwanda ⬜ Senegal ⬜ South Africa ⬜ São Tomé and Príncipe ⬜ Tanzania ⬜ Tunisia ⬜ Uganda
-**Asia:** ⬜ Bangladesh ⬜ Bhutan ⬜ British Indian Ocean Territory ⬜ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ⬜ Iraq ⬜ Israel & the West Bank ✅ Japan ⬜ Jordan ⬜ Kazakhstan ⬜ Kyrgyzstan ⬜ Laos ⬜ Lebanon ⬜ Macau ⬜ Malaysia ⬜ Mongolia ⬜ Nepal ⬜ Oman ⬜ Pakistan ⬜ Philippines ⬜ Qatar ⬜ Singapore ⬜ South Korea ⬜ Sri Lanka ⬜ Taiwan ⬜ Thailand ✅ Turkey ⬜ United Arab Emirates ⬜ Vietnam
+**Africa:** ⬜ Botswana ⬜ Egypt ⬜ Eswatini ⬜ Ghana ⬜ Kenya ⬜ Lesotho ⬜ Madagascar ⬜ Mali ⬜ Namibia ⬜ Nigeria ⬜ Reunion ⬜ Rwanda ⬜ Senegal ✅ South Africa ⬜ São Tomé and Príncipe ⬜ Tanzania ⬜ Tunisia ⬜ Uganda
+**Asia:** ⬜ Bangladesh ⬜ Bhutan ⬜ British Indian Ocean Territory ⬜ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ⬜ Iraq ⬜ Israel & the West Bank ✅ Japan ⬜ Jordan ✅ Kazakhstan ⬜ Kyrgyzstan ⬜ Laos ⬜ Lebanon ⬜ Macau ⬜ Malaysia ⬜ Mongolia ⬜ Nepal ⬜ Oman ⬜ Pakistan ⬜ Philippines ⬜ Qatar ⬜ Singapore ⬜ South Korea ⬜ Sri Lanka ⬜ Taiwan ✅ Thailand ✅ Turkey ⬜ United Arab Emirates ⬜ Vietnam
 **Europe:** ⬜ Albania ⬜ Andorra ⬜ Austria ⬜ Azores ⬜ Belarus ⬜ Belgium ⬜ Bulgaria ⬜ Croatia ⬜ Czechia ✅ Denmark ⬜ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ⬜ Gibraltar ⬜ Greece ⬜ Hungary ⬜ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ⬜ Latvia ⬜ Liechtenstein ⬜ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ✅ Norway ✅ Poland ⬜ Portugal ⬜ Romania ✅ Russia ⬜ San Marino ⬜ Serbia ⬜ Slovakia ⬜ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ⬜ Switzerland ⬜ Ukraine ✅ United Kingdom
 **North America:** ⬜ Alaska ⬜ Bermuda ✅ Canada ⬜ Costa Rica ⬜ Dominican Republic ⬜ Greenland ⬜ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ⬜ Panama ⬜ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
-**South America:** ✅ Argentina ⬜ Bolivia ✅ Brazil ⬜ Chile ⬜ Colombia ⬜ Curaçao ⬜ Ecuador ⬜ Falkland Islands ⬜ Peru ⬜ Uruguay
+**South America:** ✅ Argentina ⬜ Bolivia ✅ Brazil ✅ Chile ✅ Colombia ⬜ Curaçao ⬜ Ecuador ⬜ Falkland Islands ✅ Peru ⬜ Uruguay
 **Oceania:** ⬜ American Samoa ✅ Australia ⬜ Christmas Island ⬜ Cocos Islands ⬜ Guam ⬜ New Zealand ⬜ Northern Mariana Islands ⬜ Pitcairn Islands ⬜ Vanuatu
 **Antarctica:** ⬜ Antarctica ⬜ South Georgia & Sandwich Islands
 
 ---
+
+# Africa
+
+## South Africa
+Study: [Plonk It](https://www.plonkit.net/south-africa)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Drives **left**; **single yellow outer + white centre lines** (also BW/SZ/LS/NA); unique **triple centre lines** on main roads | [P](https://www.plonkit.net/south-africa) |  |
+| Country | **Gen2 common** (the only African country with it) — big circular blur + sky halo; Gen4 = blue car w/ short antenna | [P](https://www.plonkit.net/south-africa) |  |
+| Country | **11 official languages**, English most on signage; **Afrikaans** suffixes -fontein/-kraal/-kop/-berg (nationwide, not region-useful) | [P](https://www.plonkit.net/south-africa) |  |
+| Country | Most common pole = **"bird poles"** (1–5 horizontal bars w/ thin white insulators like rows of birds) | [P](https://www.plonkit.net/south-africa) |  |
+| Country | **Green directional signs, yellow road number**; N & R roads = South Africa (A/B = BW/LS/NA, MR = Eswatini) | [P](https://www.plonkit.net/south-africa) |  |
+| Country | Triangular red/white warning signs; **white-and-red chevrons** + unique thin single-arrow chevrons | [P](https://www.plonkit.net/south-africa) |  |
+| Country | Suburban houses behind **high walls, fences & gates** (security) | [P](https://www.plonkit.net/south-africa) |  |
+| Region | NE = dry/barren orange-red soil + shrubby hills; **Western Cape** = rocky treeless sharp peaks + vineyards; Northern Cape = red-soil desert | [P](https://www.plonkit.net/south-africa) |  |
+| State | Each **province = own plate design** (Free State greenish, KwaZulu-Natal bluish); N-roads show as a **blue pentagon** on maps | [P](https://www.plonkit.net/south-africa) |  |
+| State | Landline area codes geographically grouped (even the first digit helps); 10-digit numbers | [P](https://www.plonkit.net/south-africa) |  |
+| State | Pole tops = **3 bars forming an 'A'**, bottom insulators on a horizontal bar (Eastern Cape's 'A' is wider) | [P](https://www.plonkit.net/south-africa) |  |
+| State | **Trident pole tops** almost unique to KwaZulu-Natal; sugarcane along the coast | [P](https://www.plonkit.net/south-africa) |  |
+| State | Poles with **1–2 metal arms** holding insulators most common here; '<'-shaped poles → NE provinces | [P](https://www.plonkit.net/south-africa) |  |
+| Special | **Kruger NP** = camo car + savanna (Mozambique border); Johannesburg poles plastered w/ dodgy adverts; **Table Mountain** flat plateau W of Cape Town | [P](https://www.plonkit.net/south-africa) |  |
 
 # Asia
 
@@ -58,6 +80,25 @@ Study: [Plonk It](https://www.plonkit.net/india)
 | State | **Holey concrete poles** = Gujarat; yellow tuk-tuks w/ black roofs → south (TG/AP/TN) | [P](https://www.plonkit.net/india) |  |
 | State | Pole paint: **5+ thin** black/yellow stripes → Delhi; **exactly 4 thick** → Bihar | [P](https://www.plonkit.net/india) |  |
 | State | Gurdwaras (white domes, Khanda symbol) → Punjab; bright flat orange ridged roof tiles → Tamil Nadu | [P](https://www.plonkit.net/india) |  |
+
+## Kazakhstan
+Study: [Plonk It](https://www.plonkit.net/kazakhstan)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | All coverage = **white pickup truck** (fully visible or mostly blurred); plate mostly white w/ small blue hint left | [P](https://www.plonkit.net/kazakhstan) |  |
+| Country | **Kazakh** in Cyrillic (extra letters **Ә Ғ Қ Ң Ө Ұ Ү Һ І**) + some Latin; sometimes monolingual Russian | [P](https://www.plonkit.net/kazakhstan) |  |
+| Country | Infrastructure very **Russia-like** (poles, signs, houses); tree-trunk bottoms often painted white | [P](https://www.plonkit.net/kazakhstan) |  |
+| Country | Pedestrian crossings yellow+white stripes **with white dashes on either side** (Russia lacks the dashes) | [P](https://www.plonkit.net/kazakhstan) |  |
+| Country | Post-Soviet + Turkish-style bollards; **two thin bollards joined at 90°** are unique to Kazakhstan | [P](https://www.plonkit.net/kazakhstan) |  |
+| Country | **Gas pipes everywhere** in cities; chevrons **yellow-and-black** (T-junctions = red/white) | [P](https://www.plonkit.net/kazakhstan) |  |
+| Country | **Koshkar-muiz** ornamental pattern in decorations; ornate town **entrance arcs** | [P](https://www.plonkit.net/kazakhstan) |  |
+| Region | Coverage limited; **season ≈ region**: summer = W/central, autumn = NE, winter = SE | [P](https://www.plonkit.net/kazakhstan) |  |
+| Region | Generally **flat** steppe; hills → Karaganda/Aktobe; big snow-capped mountains → south & east | [P](https://www.plonkit.net/kazakhstan) |  |
+| Region | Lush **birch forests + green fields** → north (like Omsk); vast grassy plains → NW (Akmola/Kostanay) | [P](https://www.plonkit.net/kazakhstan) |  |
+| Region | Sandy shrubby **desert** → SW; tall snow-capped **mountains** → SE (east of Almaty) | [P](https://www.plonkit.net/kazakhstan) |  |
+| State | **Area codes east→west** along 3 horizontal bands; plate region codes run alphabetically | [P](https://www.plonkit.net/kazakhstan) |  |
+| Special | **Pole paints** identify the city (Kostanay turquoise+yellow, Taraz red/yellow/black…); city bus colours (Almaty green, Karaganda turquoise) | [P](https://www.plonkit.net/kazakhstan) |  |
 
 ## Indonesia
 Study: [Plonk It](https://www.plonkit.net/indonesia)
@@ -99,6 +140,26 @@ Study: [Plonk It](https://www.plonkit.net/turkey)
 | Region | Roofs: tiled → western ⅔; flat → SE + south coast; metal/low-pyramid → far east (Lake Van) | [P](https://www.plonkit.net/turkey) |  |
 | State | Area codes **1st digit 2 (west) → 4 (east)**; km markers show **province code (first 2 digits, ~alphabetical 01–76)** | [P](https://www.plonkit.net/turkey) |  |
 | Special | **Göreme/Cappadocia** (Nevşehir): sandstone monoliths w/ carved dwellings; **Mt. Ararat** volcano far east; whitewashed flat-roof houses → Bodrum | [P](https://www.plonkit.net/turkey) |  |
+
+## Thailand
+Study: [Plonk It](https://www.plonkit.net/thailand)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plate white (passenger), **yellow = commercial** (unique in SE Asia; Laos yellow = regular); drives **left** (KH/VN/LA drive right) | [P](https://www.plonkit.net/thailand) |  |
+| Country | **Thai script**: compact, with tiny circles inside most letters (Khmer = longer lines/accents; Lao similar → check driving side) | [P](https://www.plonkit.net/thailand) |  |
+| Country | Bollard = **square with a pointed top**, black-and-white stripes (also KH/LA/ID) | [P](https://www.plonkit.net/thailand) |  |
+| Country | **Concrete roads** with a large square-slab pattern common (also Philippines); **yellow middle lines** (Malaysia = white) | [P](https://www.plonkit.net/thailand) |  |
+| Country | Square poles with small **vertical holes**; street-light poles striped red/black or black/white at the base | [P](https://www.plonkit.net/thailand) |  |
+| Country | Very distinctive **long thin lamp posts** overhanging the road; square bulky white signposts w/ black-painted bottom | [P](https://www.plonkit.net/thailand) |  |
+| Country | Directional signs: small roads white (2-part, **Garuda** emblem if no place name); highways green w/ Latin below Thai | [P](https://www.plonkit.net/thailand) |  |
+| Country | Distinctive **green village signs** (found in no other country); many street flags incl. yellow royal flags | [P](https://www.plonkit.net/thailand) |  |
+| Country | Most **Gen3 has no visible car**; Thai-script stop signs (3 chars; Lao = 2) | [P](https://www.plonkit.net/thailand) |  |
+| Region | **Muslim south**: Jawi (Arabic-based) script on signs, mosques, Islamic attire | [P](https://www.plonkit.net/thailand) |  |
+| Region | Tall mountains → NW; low forested mtns → centre-north; flat & dry → N/E of Bangkok; **red soil** → NE | [P](https://www.plonkit.net/thailand) |  |
+| State | National road **first digit = region**: 1 = north, 2 = NE, 3 = centre, 4 = south; Bangkok phone code 02 | [P](https://www.plonkit.net/thailand) |  |
+| State | Provincial waystones + **black boxes** carry a 2–3 letter **province abbreviation** (Thai script) → pinpoint province | [P](https://www.plonkit.net/thailand) |  |
+| Special | **Bangkok pink & yellow-on-green taxis**; red **songthaew** pickups → Chiang Mai; Phuket = touristy, hilly, resorts | [P](https://www.plonkit.net/thailand) |  |
 
 ## Japan
 Study: [Plonk It](https://www.plonkit.net/japan)
@@ -549,6 +610,61 @@ Study: [Plonk It](https://www.plonkit.net/argentina)
 | Region | Pampas grass → Pampas; sugarcane → Tucumán | [P](https://www.plonkit.net/argentina) |  |
 | State | Vineyards + mountains to the west + flat east → Mendoza wine region | [P](https://www.plonkit.net/argentina) |  |
 | Special | Salt pans → Jujuy; red bricks (Bolivia-like) → NW (western Jujuy) | [P](https://www.plonkit.net/argentina) |  |
+
+## Peru
+Study: [Plonk It](https://www.plonkit.net/peru)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates white or **yellow** (in S. America yellow = only Peru/Colombia); taxis = yellow top / white bottom | [P](https://www.plonkit.net/peru) |  |
+| Country | Gen3 solid **black or white** Google car; **has Gen4** (Bolivia doesn't; Ecuador Gen4 = big pickup); smallcam exists | [P](https://www.plonkit.net/peru) |  |
+| Country | White outer lines; highways single-dashed/double yellow; **rural mountain roads have no centre line** (mostly Peru in SA) | [P](https://www.plonkit.net/peru) |  |
+| Country | **Black-and-white striped signposts** (only Peru in S. America); metal signposts have **concrete blocks at the base** | [P](https://www.plonkit.net/peru) |  |
+| Country | Bollards red or yellow, mostly **triangular concrete**; guardrails black/yellow striped (Peru's outer stripe black; Bolivia yellow) | [P](https://www.plonkit.net/peru) |  |
+| Country | km markers = **concrete, black-and-white**; **bridges commonly painted orange** | [P](https://www.plonkit.net/peru) |  |
+| Country | **Mototaxis** (tuk-tuks) common in cities; red-and-white stickers on taxis; rectangular metal electricity counters (2–3 slits) | [P](https://www.plonkit.net/peru) |  |
+| Country | Currency **Sol (S/.)**; many country-unique political-party logos painted on walls | [P](https://www.plonkit.net/peru) |  |
+| Region | Coverage mostly west + main highways; **flat east, mountainous west**; dry desert west, rainforest east | [P](https://www.plonkit.net/peru) |  |
+| Region | **Red brick + blue-glass buildings** → near Lake Titicaca (like W. Bolivia); overhanging wood-supported roofs → north | [P](https://www.plonkit.net/peru) |  |
+| State | Highways numbered **north→south** (mostly west); 1 / 3 / 5 longest, cross multiple departments | [P](https://www.plonkit.net/peru) |  |
+| State | Pole markings: **yellow vertical numbers** + a 2–3 letter city code (e.g. CH = Chimbote) → north coast & Tacna | [P](https://www.plonkit.net/peru) |  |
+| Special | **Lima** lamp posts have a sweeping **inverted-J** top; cylindrical black/yellow-top bollard = Moquegua (south) | [P](https://www.plonkit.net/peru) |  |
+
+## Colombia
+Study: [Plonk It](https://www.plonkit.net/colombia)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates typically **yellow** (in S. America almost exclusively Colombia) | [P](https://www.plonkit.net/colombia) |  |
+| Country | Gen3 short thick **antenna on a black car** (unique — MX/EC/BR have the antenna but not on black); Gen4 white/silver car | [P](https://www.plonkit.net/colombia) |  |
+| Country | km markers: tall **green "Pr"** version + traditional stone marker (both unique to Colombia) | [P](https://www.plonkit.net/colombia) |  |
+| Country | Concrete **dark-coloured poles** w/ black-and-yellow/orange stripe markings; octagonal poles possible (only CO/MX/EC in Americas) | [P](https://www.plonkit.net/colombia) |  |
+| Country | **Wooden fences** very common; some painted with sharp-cut tops (almost unique to Colombia) | [P](https://www.plonkit.net/colombia) |  |
+| Country | **Taxis pastel yellow** with white plates, city name often printed on the side/roof (Ecuador's are more saturated w/ orange plates) | [P](https://www.plonkit.net/colombia) |  |
+| Region | Coverage mostly **north & west** + Caribbean islands San Andrés / Providencia | [P](https://www.plonkit.net/colombia) |  |
+| Region | **North** = white sandy arid soil, cacti (La Guajira = extreme dryness, low vegetation) | [P](https://www.plonkit.net/colombia) |  |
+| Region | **Llanos** (east of the Andes) = open tropical grasslands & savanna w/ scattered trees, seasonal flooding | [P](https://www.plonkit.net/colombia) |  |
+| Region | **Pacific coast** = majority Afro-Colombian; sugarcane along the Cauca river (Valle del Cauca) | [P](https://www.plonkit.net/colombia) |  |
+| State | Pole markings = short black strip top & bottom + longer **yellow middle** → Antioquia (sometimes Córdoba) | [P](https://www.plonkit.net/colombia) |  |
+| Special | **Barranquilla** intersections marked by concrete **mojones** (street-name posts); San Andrés = white car, Providencia = grey truck | [P](https://www.plonkit.net/colombia) |  |
+
+## Chile
+Study: [Plonk It](https://www.plonkit.net/chile)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Road lines **all white or all yellow** — all-yellow (parks / snowy areas) is ~unique to Chile in the Americas | [P](https://www.plonkit.net/chile) |  |
+| Country | Gen3 solid **white car, no antenna** (variant with a black section = unique to Chile); Gen4 blue car | [P](https://www.plonkit.net/chile) |  |
+| Country | **Square concrete poles, indent on both sides** + pinholes on top (fewer supports than Brazil); wooden poles too | [P](https://www.plonkit.net/chile) |  |
+| Country | Plates white; **commercial & taxi = orange** (also seen in Ecuador) | [P](https://www.plonkit.net/chile) |  |
+| Country | **Slots at the top of signposts**; chevrons yellow base w/ black arrows (Argentina = white w/ red) | [P](https://www.plonkit.net/chile) |  |
+| Country | Bollards Spanish-style (white front / yellow-orange back), fairly rare; **bridges with red-painted fence posts** | [P](https://www.plonkit.net/chile) |  |
+| Region | Long narrow country → **climate by latitude**: arid desert north · Mediterranean centre · cool wet oceanic south | [P](https://www.plonkit.net/chile) |  |
+| Region | **Atacama** (northern third) = extreme arid desert, just sand & bare rock, ~no vegetation | [P](https://www.plonkit.net/chile) |  |
+| Region | Santiago = semi-arid dry hills; **Maule greener w/ vineyards**; eucalyptus + dry climate → SW Valparaíso | [P](https://www.plonkit.net/chile) |  |
+| Region | Radiata (**Concepción**) pines w/ puffy needles → Biobío; **monkey-puzzle** trees → far-E Araucanía; narrow tree-lined roads → Biobío/Araucanía | [P](https://www.plonkit.net/chile) |  |
+| State | Road naming: **first letter A→Y from north→south**; area codes memorable & regional | [P](https://www.plonkit.net/chile) |  |
+| Special | **Triple yellow lines** common in national parks/reserves; all-yellow on concrete → Magallanes (barren treeless far south) | [P](https://www.plonkit.net/chile) |  |
 
 # Oceania
 
