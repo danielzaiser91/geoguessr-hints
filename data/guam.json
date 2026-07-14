@@ -1,0 +1,15 @@
+{
+ "name": "Guam",
+ "slug": "guam",
+ "continent": "Oceania",
+ "area_km2": 544,
+ "links": { "plonkit": "https://www.plonkit.net/guam", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "US overseas territory (counts as US); car fully blurred but a **front-right antenna + tiny roof-rack** show (the N. Mariana car has NO roof rack)", "src": ["plonkit"], "sv": null, "img": "gu_car.png", "type": "cars" },
+  { "cat": "country", "text": "Poles almost always **thick concrete** (N. Mariana Islands use wooden poles)", "src": ["plonkit"], "sv": null, "img": "gu_pole.png", "type": "utility" },
+  { "cat": "country", "text": "**Green** street signs (N. Mariana Islands use blue)", "src": ["plonkit"], "sv": null, "img": "streetsign.png", "type": "signs" },
+  { "cat": "country", "text": "Tropical, dense low vegetation; a very large number of **road reflectors** (also true of N. Mariana)", "src": ["plonkit"], "sv": null, "img": "gu_reflectorspam.png", "type": "landscape" },
+  { "cat": "country", "text": "**East Asian languages** common — Japanese, Chinese, Korean, even Russian", "src": ["plonkit"], "sv": null, "img": "gu_asian.png", "type": "language" },
+  { "cat": "region", "text": "Coverage limited (little inland in the south); **hilly south, flat north**; LeoPalace Resort = white buildings w/ orange tiled roofs", "src": ["plonkit"], "sv": null, "img": "gu_hillysouth.png", "type": "general" }
+ ]
+}

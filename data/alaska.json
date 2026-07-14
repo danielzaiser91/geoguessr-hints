@@ -1,0 +1,15 @@
+{
+ "name": "Alaska",
+ "slug": "alaska",
+ "continent": "North America",
+ "area_km2": 1723337,
+ "links": { "plonkit": "https://www.plonkit.net/alaska", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "US state; most common plate is **all-yellow** (Gen4 can show one w/ a big orange circle); front plates required", "src": ["plonkit"], "sv": null, "img": "ak_licenceplates.png", "type": "plates" },
+  { "cat": "country", "text": "Alaska **highway shield has the Big Dipper** constellation (bottom-left) — unique tell", "src": ["plonkit"], "sv": null, "img": "ak_sign.png", "type": "signs" },
+  { "cat": "country", "text": "Tall **snow-covered mountains** on much coverage; trees thinner & less broad-leaved than the lower 48", "src": ["plonkit"], "sv": null, "img": "ak_mountains.png", "type": "landscape" },
+  { "cat": "country", "text": "Lots of **Gen2** (rare elsewhere in the US), Gen4 **smallcam**, and **shitcam** (faded, low-res, big bottom blur) — Alaska is the only US state where shitcam is prevalent", "src": ["plonkit"], "sv": null, "img": "ak_shitcam.png", "type": "cars" },
+  { "cat": "region", "text": "Interior/north = **tundra/subarctic** (short trees, low undergrowth); the **Alaska pipeline** is often visible from roads (nothing like it in the rest of the US)", "src": ["plonkit"], "sv": null, "img": "ak_tundra.png", "type": "general" },
+  { "cat": "region", "text": "Only 2 urban areas: **Anchorage** (Gen4 + suburbs concentrated here) & **Fairbanks**; panhandle towns (Alexander Archipelago) = wooden buildings + misty Gen2; Juneau = capital", "src": ["plonkit"], "sv": null, "img": "ak_cities.png", "type": "general" }
+ ]
+}

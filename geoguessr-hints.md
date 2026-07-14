@@ -12,14 +12,14 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**117 / 136 countries.**
+**123 / 136 countries.**
 
 **Africa:** ✅ Botswana ✅ Egypt ✅ Eswatini ✅ Ghana ✅ Kenya ✅ Lesotho ✅ Madagascar ✅ Mali ✅ Namibia ✅ Nigeria ✅ Reunion ✅ Rwanda ✅ Senegal ✅ South Africa ⬜ São Tomé and Príncipe ✅ Tanzania ✅ Tunisia ✅ Uganda
 **Asia:** ✅ Bangladesh ✅ Bhutan ⬜ British Indian Ocean Territory ✅ Cambodia ✅ China ✅ Cyprus ✅ Hong Kong ✅ India ✅ Indonesia ✅ Iraq ⬜ Israel & the West Bank ✅ Japan ✅ Jordan ✅ Kazakhstan ✅ Kyrgyzstan ✅ Laos ✅ Lebanon ✅ Macau ✅ Malaysia ✅ Mongolia ✅ Nepal ✅ Oman ✅ Pakistan ✅ Philippines ✅ Qatar ✅ Singapore ✅ South Korea ✅ Sri Lanka ✅ Taiwan ✅ Thailand ✅ Turkey ✅ United Arab Emirates ✅ Vietnam
 **Europe:** ✅ Albania ✅ Andorra ✅ Austria ✅ Azores ✅ Belarus ✅ Belgium ✅ Bulgaria ✅ Croatia ✅ Czechia ✅ Denmark ✅ Estonia ✅ Faroe Islands ✅ Finland ✅ France ✅ Germany ✅ Gibraltar ✅ Greece ✅ Hungary ✅ Iceland ✅ Ireland ✅ Isle of Man ✅ Italy ✅ Jersey ✅ Latvia ✅ Liechtenstein ✅ Lithuania ✅ Luxembourg ✅ Madeira ✅ Malta ✅ Monaco ✅ Montenegro ✅ Netherlands ✅ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ✅ Romania ✅ Russia ✅ San Marino ✅ Serbia ✅ Slovakia ✅ Slovenia ✅ Spain ✅ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
-**North America:** ⬜ Alaska ✅ Bermuda ✅ Canada ✅ Costa Rica ✅ Dominican Republic ✅ Greenland ✅ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ✅ Panama ✅ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
-**South America:** ✅ Argentina ✅ Bolivia ✅ Brazil ✅ Chile ✅ Colombia ✅ Curaçao ✅ Ecuador ⬜ Falkland Islands ✅ Peru ✅ Uruguay
-**Oceania:** ⬜ American Samoa ✅ Australia ⬜ Christmas Island ⬜ Cocos Islands ⬜ Guam ✅ New Zealand ⬜ Northern Mariana Islands ⬜ Pitcairn Islands ⬜ Vanuatu
+**North America:** ✅ Alaska ✅ Bermuda ✅ Canada ✅ Costa Rica ✅ Dominican Republic ✅ Greenland ✅ Guatemala ✅ Hawaii ✅ Martinique ✅ Mexico ✅ Panama ✅ Puerto Rico ✅ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
+**South America:** ✅ Argentina ✅ Bolivia ✅ Brazil ✅ Chile ✅ Colombia ✅ Curaçao ✅ Ecuador ✅ Falkland Islands ✅ Peru ✅ Uruguay
+**Oceania:** ⬜ American Samoa ✅ Australia ⬜ Christmas Island ⬜ Cocos Islands ✅ Guam ✅ New Zealand ⬜ Northern Mariana Islands ⬜ Pitcairn Islands ⬜ Vanuatu
 **Antarctica:** ⬜ Antarctica ⬜ South Georgia & Sandwich Islands
 
 ---
@@ -1702,6 +1702,18 @@ Study: [Plonk It](https://www.plonkit.net/mexico)
 | State | **Jalisco bollards** have a crown + "Jalisco" text (only Mexican bollard with writing) | [P](https://www.plonkit.net/mexico) |  |
 | Special | Bollards w/ red band near top → Nayarit; thick cross on sign backs → Chihuahua | [P](https://www.plonkit.net/mexico) |  |
 
+## Alaska
+Study: [Plonk It](https://www.plonkit.net/alaska)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | US state; most common plate is **all-yellow** (Gen4 can show one w/ a big orange circle); front plates required | [P](https://www.plonkit.net/alaska) |  |
+| Country | Alaska **highway shield has the Big Dipper** constellation (bottom-left) — unique tell | [P](https://www.plonkit.net/alaska) |  |
+| Country | Tall **snow-covered mountains** on much coverage; trees thinner & less broad-leaved than the lower 48 | [P](https://www.plonkit.net/alaska) |  |
+| Country | Lots of **Gen2** (rare elsewhere in the US), Gen4 **smallcam**, and **shitcam** (faded, low-res, big bottom blur) — Alaska is the only US state where shitcam is prevalent | [P](https://www.plonkit.net/alaska) |  |
+| Region | Interior/north = **tundra/subarctic** (short trees, low undergrowth); the **Alaska pipeline** is often visible from roads (nothing like it in the rest of the US) | [P](https://www.plonkit.net/alaska) |  |
+| Region | Only 2 urban areas: **Anchorage** (Gen4 + suburbs concentrated here) & **Fairbanks**; panhandle towns (Alexander Archipelago) = wooden buildings + misty Gen2; Juneau = capital | [P](https://www.plonkit.net/alaska) |  |
+
 ## Guatemala
 Study: [Plonk It](https://www.plonkit.net/guatemala)
 
@@ -1761,6 +1773,19 @@ Study: [Plonk It](https://www.plonkit.net/dominican-republic)
 | Region | Coverage only **Santo Domingo + Santiago de los Caballeros**; proper **mountains to the north = Santiago** | [P](https://www.plonkit.net/dominican-republic) |  |
 | Region | **Santo Domingo** = developed downtown, wide avenues, **"ADN"** on street signs (Distrito Nacional), black-and-purple pole markings | [P](https://www.plonkit.net/dominican-republic) |  |
 
+## Hawaii
+Study: [Plonk It](https://www.plonkit.net/hawaii)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | US state; most common plate = white w/ an **arcing rainbow** across the centre (visible even through blur); front plates required | [P](https://www.plonkit.net/hawaii) |  |
+| Country | Only US state w/ its **own language** — Hawaiian place names on signs; vowel-heavy, just 8 consonants (H K L M N P W + ʻokina), macrons Ā Ē Ī Ō Ū | [P](https://www.plonkit.net/hawaii) |  |
+| Country | Lots of Gen4 **smallcam**; Gen3 often has a stubby **antenna**; fair amount of **Gen2** (rural) — all rare/notable for the US | [P](https://www.plonkit.net/hawaii) |  |
+| Country | Lush tropical vegetation (ferns, tall grass) on **volcanic topography** — sloping volcanoes, cliffs, valleys, craters | [P](https://www.plonkit.net/hawaii) |  |
+| Country | Homes = 1–2 storey **wood**, light colours, often w/ **volcanic-rock retaining walls**; thick **yellow bands** on poles (not California's 3 stripes) | [P](https://www.plonkit.net/hawaii) |  |
+| Country | Highway shields shaped like a **guitar pick** (number at the bottom) on yellow posts | [P](https://www.plonkit.net/hawaii) |  |
+| Region | State-highway first digit = island (1–2 Hawaiʻi, 3 Maui, 5 Kauaʻi, 6–9 Oʻahu); **Kauaʻi** = deep red soil + jungle; **Oʻahu** = Honolulu, the largest city | [P](https://www.plonkit.net/hawaii) |  |
+
 ## Puerto Rico
 Study: [Plonk It](https://www.plonkit.net/puerto-rico)
 
@@ -1772,6 +1797,27 @@ Study: [Plonk It](https://www.plonkit.net/puerto-rico)
 | Country | **No front plate** required; US-shape speed signs but **in Spanish**; stop sign = **PARE** | [P](https://www.plonkit.net/puerto-rico) |  |
 | Country | Unique **highway shields** (primary/secondary/tertiary — not in any US state); tall **green km markers** ("km" + a vertical number) | [P](https://www.plonkit.net/puerto-rico) |  |
 | Region | Homes concrete w/ flat roofs + metal gates; **south drier**, mountains in the middle (mostly divided-highway coverage); **Ponce Creole** architecture; colourful Old San Juan | [P](https://www.plonkit.net/puerto-rico) |  |
+
+## Martinique
+Study: [Plonk It](https://www.plonkit.net/martinique)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Overseas **department of France** (counts as France), Caribbean between Dominica & St Lucia; coverage = only **3 Gen3 trekkers** — memorise them rather than metas | [P](https://www.plonkit.net/martinique) |  |
+| Region | **Habitation Clément** rum distillery trekker: warehouse w/ truck & forklift, an **H-beam steel** structure, a red-soil dirt track w/ palm trees | [P](https://www.plonkit.net/martinique) |  |
+| Region | **Coastal southern trekker**: hilly path w/ other people, houses w/ orange roofs, ends at a car park w/ stalls | [P](https://www.plonkit.net/martinique) |  |
+| Region | **Jardin de Balata** trekker: dark, humid jungle — buttress-root trees, ferns & bamboo; a man in a black shirt & grey cap sometimes visible | [P](https://www.plonkit.net/martinique) |  |
+
+## Saint Pierre and Miquelon
+Study: [Plonk It](https://www.plonkit.net/saint-pierre-and-miquelon)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Overseas collectivity of **France** (counts as France), south of Newfoundland; all coverage is a **Gen3 trekker** | [P](https://www.plonkit.net/saint-pierre-and-miquelon) |  |
+| Country | Plates white or yellow, all w/ a **blue EU strip** (white ones also have a French blue strip on the right) | [P](https://www.plonkit.net/saint-pierre-and-miquelon) |  |
+| Country | Houses = **boxy wooden panels in vivid, bold colours** | [P](https://www.plonkit.net/saint-pierre-and-miquelon) |  |
+| Country | Flat to rolling **grassland**, the coast visible more often than not | [P](https://www.plonkit.net/saint-pierre-and-miquelon) |  |
+| Region | Coverage only in E **Saint-Pierre** (capital; sidewalk trekker, bigger buildings, busier) and the N tip of **Miquelon-Langlade** (ATV shadow + vivid timber cladding) | [P](https://www.plonkit.net/saint-pierre-and-miquelon) |  |
 
 ## Bermuda
 Study: [Plonk It](https://www.plonkit.net/bermuda)
@@ -1937,6 +1983,16 @@ Study: [Plonk It](https://www.plonkit.net/uruguay)
 | Country | Chevrons **yellow w/ black arrows** (Argentina uniquely = white w/ red); **reddish soil** common (a good clue vs Argentina) | [P](https://www.plonkit.net/uruguay) |  |
 | Country | Houses **cube-shaped concrete**, drab & weathered, flat roofs common; short stocky palms; **cattle everywhere** (≈4:1 vs people) | [P](https://www.plonkit.net/uruguay) |  |
 
+## Falkland Islands
+Study: [Plonk It](https://www.plonkit.net/falkland-islands)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | British Overseas Territory east of Argentina's Tierra del Fuego (counts as UK); only a few **Gen3 trekkers** on 3 western islands (Carcass, West Point, New Island) — memorise them | [P](https://www.plonkit.net/falkland-islands) |  |
+| Region | **Carcass Island** trekker: open plains, ocean clearly visible, ground can get rocky (don't confuse w/ the Faroe Islands trekker) | [P](https://www.plonkit.net/falkland-islands) |  |
+| Region | **West Point Island**: open plains w/ slightly yellow grass, ocean not clearly visible; a boat trekker in West Point Bay shows the MS National Geographic Explorer | [P](https://www.plonkit.net/falkland-islands) |  |
+| Region | **New Island**: sandy beach w/ people in red & blue jackets; inland = dark brown soil + tyre tracks; distinct steep cliffs | [P](https://www.plonkit.net/falkland-islands) |  |
+
 ## Curaçao
 Study: [Plonk It](https://www.plonkit.net/curacao)
 
@@ -1990,3 +2046,15 @@ Study: [Plonk It](https://www.plonkit.net/new-zealand)
 | State | Two-digit **state-highway numbers run N→S**; **Fonterra farm-sign** first digit = region | [P](https://www.plonkit.net/new-zealand) |  |
 | State | Phone = 7 digits + 2-digit area code (02 = mobile); city rubbish bins & bus-stop signs identify Auckland/Wellington/Christchurch | [P](https://www.plonkit.net/new-zealand) |  |
 | Special | Pole stickers & possum-guard styles pinpoint region (Gisborne yellow cow-tag; Marlborough olive-brown guard; Southland cylindrical); Canterbury = tall hedge rows on flat plains | [P](https://www.plonkit.net/new-zealand) |  |
+
+## Guam
+Study: [Plonk It](https://www.plonkit.net/guam)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | US overseas territory (counts as US); car fully blurred but a **front-right antenna + tiny roof-rack** show (the N. Mariana car has NO roof rack) | [P](https://www.plonkit.net/guam) |  |
+| Country | Poles almost always **thick concrete** (N. Mariana Islands use wooden poles) | [P](https://www.plonkit.net/guam) |  |
+| Country | **Green** street signs (N. Mariana Islands use blue) | [P](https://www.plonkit.net/guam) |  |
+| Country | Tropical, dense low vegetation; a very large number of **road reflectors** (also true of N. Mariana) | [P](https://www.plonkit.net/guam) |  |
+| Country | **East Asian languages** common — Japanese, Chinese, Korean, even Russian | [P](https://www.plonkit.net/guam) |  |
+| Region | Coverage limited (little inland in the south); **hilly south, flat north**; LeoPalace Resort = white buildings w/ orange tiled roofs | [P](https://www.plonkit.net/guam) |  |

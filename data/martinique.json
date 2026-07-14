@@ -1,0 +1,13 @@
+{
+ "name": "Martinique",
+ "slug": "martinique",
+ "continent": "North America",
+ "area_km2": 1128,
+ "links": { "plonkit": "https://www.plonkit.net/martinique", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Overseas **department of France** (counts as France), Caribbean between Dominica & St Lucia; coverage = only **3 Gen3 trekkers** — memorise them rather than metas", "src": ["plonkit"], "sv": null, "type": "general" },
+  { "cat": "region", "text": "**Habitation Clément** rum distillery trekker: warehouse w/ truck & forklift, an **H-beam steel** structure, a red-soil dirt track w/ palm trees", "src": ["plonkit"], "sv": null, "img": "Martinique_Habitation_Clement.png", "type": "general" },
+  { "cat": "region", "text": "**Coastal southern trekker**: hilly path w/ other people, houses w/ orange roofs, ends at a car park w/ stalls", "src": ["plonkit"], "sv": null, "img": "Martinique_Coastal_Trekker.png", "type": "general" },
+  { "cat": "region", "text": "**Jardin de Balata** trekker: dark, humid jungle — buttress-root trees, ferns & bamboo; a man in a black shirt & grey cap sometimes visible", "src": ["plonkit"], "sv": null, "img": "Martinique_Jardin.png", "type": "general" }
+ ]
+}

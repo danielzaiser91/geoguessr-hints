@@ -1,0 +1,14 @@
+{
+ "name": "Saint Pierre and Miquelon",
+ "slug": "saint-pierre-and-miquelon",
+ "continent": "North America",
+ "area_km2": 242,
+ "links": { "plonkit": "https://www.plonkit.net/saint-pierre-and-miquelon", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Overseas collectivity of **France** (counts as France), south of Newfoundland; all coverage is a **Gen3 trekker**", "src": ["plonkit"], "sv": null, "img": "pm_trekker.png", "type": "cars" },
+  { "cat": "country", "text": "Plates white or yellow, all w/ a **blue EU strip** (white ones also have a French blue strip on the right)", "src": ["plonkit"], "sv": null, "img": "pm_licenceplate.png", "type": "plates" },
+  { "cat": "country", "text": "Houses = **boxy wooden panels in vivid, bold colours**", "src": ["plonkit"], "sv": null, "img": "pm_architecture.png", "type": "arch" },
+  { "cat": "country", "text": "Flat to rolling **grassland**, the coast visible more often than not", "src": ["plonkit"], "sv": null, "img": "pm_landscape.png", "type": "landscape" },
+  { "cat": "region", "text": "Coverage only in E **Saint-Pierre** (capital; sidewalk trekker, bigger buildings, busier) and the N tip of **Miquelon-Langlade** (ATV shadow + vivid timber cladding)", "src": ["plonkit"], "sv": null, "img": "St_Pierre_Town.png", "type": "general" }
+ ]
+}

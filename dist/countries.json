@@ -1,6 +1,78 @@
 {
  "countries": [
   {
+   "name": "Alaska",
+   "slug": "alaska",
+   "continent": "North America",
+   "area_km2": 1723337,
+   "links": {
+    "plonkit": "https://www.plonkit.net/alaska",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "US state; most common plate is **all-yellow** (Gen4 can show one w/ a big orange circle); front plates required",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ak_licenceplates.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Alaska **highway shield has the Big Dipper** constellation (bottom-left) — unique tell",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ak_sign.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Tall **snow-covered mountains** on much coverage; trees thinner & less broad-leaved than the lower 48",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ak_mountains.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Lots of **Gen2** (rare elsewhere in the US), Gen4 **smallcam**, and **shitcam** (faded, low-res, big bottom blur) — Alaska is the only US state where shitcam is prevalent",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ak_shitcam.png",
+     "type": "cars"
+    },
+    {
+     "cat": "region",
+     "text": "Interior/north = **tundra/subarctic** (short trees, low undergrowth); the **Alaska pipeline** is often visible from roads (nothing like it in the rest of the US)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ak_tundra.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "Only 2 urban areas: **Anchorage** (Gen4 + suburbs concentrated here) & **Fairbanks**; panhandle towns (Alexander Archipelago) = wooden buildings + misty Gen2; Juneau = capital",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ak_cities.png",
+     "type": "general"
+    }
+   ]
+  },
+  {
    "name": "Albania",
    "slug": "albania",
    "continent": "Europe",
@@ -3648,6 +3720,57 @@
    ]
   },
   {
+   "name": "Falkland Islands",
+   "slug": "falkland-islands",
+   "continent": "South America",
+   "area_km2": 12173,
+   "links": {
+    "plonkit": "https://www.plonkit.net/falkland-islands",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "British Overseas Territory east of Argentina's Tierra del Fuego (counts as UK); only a few **Gen3 trekkers** on 3 western islands (Carcass, West Point, New Island) — memorise them",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "**Carcass Island** trekker: open plains, ocean clearly visible, ground can get rocky (don't confuse w/ the Faroe Islands trekker)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Falklands_Carcass_Island.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "**West Point Island**: open plains w/ slightly yellow grass, ocean not clearly visible; a boat trekker in West Point Bay shows the MS National Geographic Explorer",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Falklands_West_Point_Island.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "**New Island**: sandy beach w/ people in red & blue jackets; inland = dark brown soil + tyre tracks; distinct steep cliffs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Falklands_New_Island_Cliffs.png",
+     "type": "general"
+    }
+   ]
+  },
+  {
    "name": "Faroe Islands",
    "slug": "faroe-islands",
    "continent": "Europe",
@@ -4627,6 +4750,78 @@
    ]
   },
   {
+   "name": "Guam",
+   "slug": "guam",
+   "continent": "Oceania",
+   "area_km2": 544,
+   "links": {
+    "plonkit": "https://www.plonkit.net/guam",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "US overseas territory (counts as US); car fully blurred but a **front-right antenna + tiny roof-rack** show (the N. Mariana car has NO roof rack)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gu_car.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Poles almost always **thick concrete** (N. Mariana Islands use wooden poles)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gu_pole.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "**Green** street signs (N. Mariana Islands use blue)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "streetsign.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Tropical, dense low vegetation; a very large number of **road reflectors** (also true of N. Mariana)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gu_reflectorspam.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "**East Asian languages** common — Japanese, Chinese, Korean, even Russian",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gu_asian.png",
+     "type": "language"
+    },
+    {
+     "cat": "region",
+     "text": "Coverage limited (little inland in the south); **hilly south, flat north**; LeoPalace Resort = white buildings w/ orange tiled roofs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gu_hillysouth.png",
+     "type": "general"
+    }
+   ]
+  },
+  {
    "name": "Guatemala",
    "slug": "guatemala",
    "continent": "North America",
@@ -4725,6 +4920,88 @@
      "sv": null,
      "img": "gt_coverage.png",
      "type": "naming"
+    }
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "slug": "hawaii",
+   "continent": "North America",
+   "area_km2": 28311,
+   "links": {
+    "plonkit": "https://www.plonkit.net/hawaii",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "US state; most common plate = white w/ an **arcing rainbow** across the centre (visible even through blur); front plates required",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "hi_plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Only US state w/ its **own language** — Hawaiian place names on signs; vowel-heavy, just 8 consonants (H K L M N P W + ʻokina), macrons Ā Ē Ī Ō Ū",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "I_want_to_visit_Honolulu_.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Lots of Gen4 **smallcam**; Gen3 often has a stubby **antenna**; fair amount of **Gen2** (rural) — all rare/notable for the US",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "hawaii_smallcam.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Lush tropical vegetation (ferns, tall grass) on **volcanic topography** — sloping volcanoes, cliffs, valleys, craters",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Yes_I_know_its_beautiful.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Homes = 1–2 storey **wood**, light colours, often w/ **volcanic-rock retaining walls**; thick **yellow bands** on poles (not California's 3 stripes)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "hawaii_architecture.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "Highway shields shaped like a **guitar pick** (number at the bottom) on yellow posts",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "hawaii_statehighway.png",
+     "type": "signs"
+    },
+    {
+     "cat": "region",
+     "text": "State-highway first digit = island (1–2 Hawaiʻi, 3 Maui, 5 Kauaʻi, 6–9 Oʻahu); **Kauaʻi** = deep red soil + jungle; **Oʻahu** = Honolulu, the largest city",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "hawaii_numbering.png",
+     "type": "general"
     }
    ]
   },
@@ -7665,6 +7942,57 @@
    ]
   },
   {
+   "name": "Martinique",
+   "slug": "martinique",
+   "continent": "North America",
+   "area_km2": 1128,
+   "links": {
+    "plonkit": "https://www.plonkit.net/martinique",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Overseas **department of France** (counts as France), Caribbean between Dominica & St Lucia; coverage = only **3 Gen3 trekkers** — memorise them rather than metas",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "**Habitation Clément** rum distillery trekker: warehouse w/ truck & forklift, an **H-beam steel** structure, a red-soil dirt track w/ palm trees",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Martinique_Habitation_Clement.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "**Coastal southern trekker**: hilly path w/ other people, houses w/ orange roofs, ends at a car park w/ stalls",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Martinique_Coastal_Trekker.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "**Jardin de Balata** trekker: dark, humid jungle — buttress-root trees, ferns & bamboo; a man in a black shirt & grey cap sometimes visible",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Martinique_Jardin.png",
+     "type": "general"
+    }
+   ]
+  },
+  {
    "name": "Mexico",
    "slug": "mexico",
    "continent": "North America",
@@ -10450,6 +10778,68 @@
      ],
      "sv": null,
      "type": "landscape"
+    }
+   ]
+  },
+  {
+   "name": "Saint Pierre and Miquelon",
+   "slug": "saint-pierre-and-miquelon",
+   "continent": "North America",
+   "area_km2": 242,
+   "links": {
+    "plonkit": "https://www.plonkit.net/saint-pierre-and-miquelon",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Overseas collectivity of **France** (counts as France), south of Newfoundland; all coverage is a **Gen3 trekker**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "pm_trekker.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Plates white or yellow, all w/ a **blue EU strip** (white ones also have a French blue strip on the right)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "pm_licenceplate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Houses = **boxy wooden panels in vivid, bold colours**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "pm_architecture.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "Flat to rolling **grassland**, the coast visible more often than not",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "pm_landscape.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "region",
+     "text": "Coverage only in E **Saint-Pierre** (capital; sidewalk trekker, bigger buildings, busier) and the N tip of **Miquelon-Langlade** (ATV shadow + vivid timber cladding)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "St_Pierre_Town.png",
+     "type": "general"
     }
    ]
   },
@@ -14014,7 +14404,7 @@
   "Antarctica"
  ],
  "counts": {
-  "done": 117,
+  "done": 123,
   "total": 136
  }
 }
