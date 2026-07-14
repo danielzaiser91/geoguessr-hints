@@ -98,7 +98,9 @@ const norm = (s) => (s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,
 let DATA = null, byNorm = {}, features = [], world = null, selected = null;
 let hovered = null, globe = null, covMap = null, covBase = null, covOverlay = null;
 const covSet = new Set(COVERAGE.map(norm));
-const state = { cats: new Set(CAT_ORDER), srcs: new Set(Object.keys(SRC_NAME)), types: new Set(), q: "", superOnly: false };
+function loadView() { try { return localStorage.getItem("geohint-view") === "gallery" ? "gallery" : "pills"; } catch (e) { return "pills"; } }
+function saveView(v) { try { localStorage.setItem("geohint-view", v); } catch (e) {} }
+const state = { cats: new Set(CAT_ORDER), srcs: new Set(Object.keys(SRC_NAME)), types: new Set(), q: "", superOnly: false, view: loadView() };
 
 const featName = (f) => f.properties.ADMIN || f.properties.NAME || f.properties.name;
 const dataForName = (name) => { const n = norm(name); return byNorm[ALIAS[n] || n] || null; };
@@ -325,13 +327,13 @@ function subSec(area, hints, cat) {
   return wrap;
 }
 function cardsEl(hints) {
-  const cards = document.createElement("div"); cards.className = "cards";
+  const cards = document.createElement("div"); cards.className = "cards" + (state.view === "gallery" ? " gallery" : "");
   hints.forEach(h => cards.appendChild(cardEl(h)));
   return cards;
 }
 // Resolve a hint's image. Bare filename -> Plonk It image server (folder = plonkit link
 // slug). Full http(s) URL or local "img/…" path pass through unchanged.
-function imgUrl(h) {
+function imgUrl(h, w) {
   if (!h.img) return null;
   if (/^(https?:)?\/\//.test(h.img) || /^img\//.test(h.img)) return h.img;
   // Plonk It's image folder can differ from the page slug (e.g. link /usa but folder
@@ -339,7 +341,7 @@ function imgUrl(h) {
   const link = (selected.links && selected.links.plonkit) || "";
   const folder = selected.img_folder ||
     link.replace(/^https?:\/\/(www\.)?plonkit\.net\//i, "").replace(/\/.*$/, "") || selected.slug;
-  return `https://www.plonkit.net/images/resize/900/80/${folder}/${encodeURIComponent(h.img)}`;
+  return `https://www.plonkit.net/images/resize/${w || 900}/80/${folder}/${encodeURIComponent(h.img)}`;
 }
 function cardEl(h) {
   const ty = guessType(h); const tm = TYPE_META[ty] || TYPE_META.general;
@@ -347,20 +349,43 @@ function cardEl(h) {
   // Card meta omits the Plonk It link (redundant — already in the header button + image dialog).
   const svRef = h.sv ? `<a href="${h.sv}" target="_blank" rel="noopener">Street View ↗</a>` : "";
   const meta = [srcRefs(h, { noPlonkit: true }), svRef].filter(Boolean).join(" · ");
+  const gallery = state.view === "gallery" && !!h.img;
   card.innerHTML =
+    (gallery ? `<div class="gimg"><img src="${imgUrl(h, 600)}" alt="" draggable="false" onerror="this.closest('.gimg').style.display='none'"><div class="gimg-zoom"></div><div class="zoom-hint">🔍 click to toggle hover-zoom</div></div>` : "") +
     `<div class="body">` +
       (isSuper(h) ? `<div class="keytag">⭐ Key regional clue</div>` : "") +
       `<div class="type"><i style="background:${tm.color}"></i>${tm.label}</div>` +
       `<div class="t">${mdBold(h.text)}</div>` +
       (meta ? `<div class="m">${meta}</div>` : "") +
     `</div>`;
-  if (h.img) {
+  if (h.img && !gallery) {
     const url = imgUrl(h);
     const b = document.createElement("button"); b.className = "imgbtn"; b.textContent = "📷 Show image";
     b.onclick = () => openImg(selected.name + " — " + tm.label, url, h.text, "Source: " + srcRefs(h));
     card.querySelector(".body").appendChild(b);
   }
+  if (gallery) wireGalleryZoom(card, h);
   return card;
+}
+// Inline (gallery-mode) click-to-toggle hover-zoom, mirroring the image dialog. Hi-res
+// original is loaded lazily on first enable so gallery entry stays light.
+function wireGalleryZoom(card, h) {
+  const gi = card.querySelector(".gimg"); if (!gi) return;
+  const zoom = gi.querySelector(".gimg-zoom"); let bgReady = false;
+  const ensureBg = () => {
+    if (bgReady) return; bgReady = true;
+    zoom.style.backgroundImage = `url("${imgUrl(h, 600)}")`; zoom.style.backgroundSize = (IMG_ZOOM * 100) + "%";
+    const hi = hiRes(imgUrl(h, 900)); const pre = new Image();
+    pre.onload = () => { zoom.style.backgroundImage = `url("${hi}")`; }; pre.src = hi;
+  };
+  gi.classList.add("zoomable");
+  gi.addEventListener("mousemove", e => {
+    const r = gi.getBoundingClientRect();
+    const px = Math.min(1, Math.max(0, (e.clientX - r.left) / r.width));
+    const py = Math.min(1, Math.max(0, (e.clientY - r.top) / r.height));
+    zoom.style.backgroundPosition = `${px * 100}% ${py * 100}%`;
+  });
+  gi.addEventListener("click", () => { ensureBg(); gi.classList.toggle("zoom-on"); });
 }
 
 /* ---------- coverage modal (Leaflet + Google svv tiles) ---------- */
@@ -410,6 +435,9 @@ function openImg(title, url, capText, creditHTML) {
   document.getElementById("imgModal").classList.add("open");
 }
 
+function syncViewToggle() {
+  document.querySelectorAll("#viewtoggle .vt-btn").forEach(b => b.classList.toggle("on", b.dataset.view === state.view));
+}
 function wireUI() {
   document.getElementById("back").onclick = () => {
     document.getElementById("detail").classList.remove("open");
@@ -430,6 +458,10 @@ function wireUI() {
   document.getElementById("imgModal").addEventListener("click", e => { if (e.target.id === "imgModal") document.getElementById("imgModal").classList.remove("open"); });
   document.getElementById("cov-close").onclick = () => document.getElementById("covModal").classList.remove("open");
   document.getElementById("covModal").addEventListener("click", e => { if (e.target.id === "covModal") document.getElementById("covModal").classList.remove("open"); });
+  document.querySelectorAll("#viewtoggle .vt-btn").forEach(b => {
+    b.onclick = () => { state.view = b.dataset.view; saveView(state.view); syncViewToggle(); if (selected) renderHints(); };
+  });
+  syncViewToggle();
   document.getElementById("d-search").oninput = (e) => { state.q = e.target.value.trim().toLowerCase(); renderHints(); };
   const s = document.getElementById("search");
   s.oninput = () => {
