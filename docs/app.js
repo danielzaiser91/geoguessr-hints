@@ -481,18 +481,27 @@ function cardEl(h) {
       (h.bullets && h.bullets.length ? `<ul class="blist">${h.bullets.map(b => `<li>${flagify(mdBold(b))}</li>`).join("")}</ul>` : "") +
       (meta ? `<div class="m">${meta}</div>` : "") +
     `</div>`;
-  if (imgs.length && !gallery) {
-    const urls = imgs.map(f => imgUrlFor(f, 900));
-    const b = document.createElement("button"); b.className = "imgbtn";
-    b.textContent = imgs.length > 1 ? `📷 ${imgs.length} images` : "📷 Show image";
-    b.onclick = () => openImg(selected.name + " — " + tm.label, urls, h.text, "Source: " + srcRefs(h));
-    card.querySelector(".body").appendChild(b);
-  }
-  if (h.src && h.src.length) {
-    const sb = document.createElement("button"); sb.className = "srcbtn"; sb.type = "button";
+  const body = card.querySelector(".body");
+  const openBtn = (label) => {
+    const b = document.createElement("button"); b.className = "imgbtn"; b.textContent = label;
+    b.onclick = () => openImg(selected.name + " — " + tm.label, imgs.map(f => imgUrlFor(f, 900)), h.text, "Source: " + srcRefs(h));
+    return b;
+  };
+  const srcBtn = (cls) => {
+    const sb = document.createElement("button"); sb.className = cls; sb.type = "button";
     sb.innerHTML = "🔗 src"; sb.title = "Where to verify this clue";
     sb.onclick = (e) => { e.stopPropagation(); openSources(h); };
-    card.appendChild(sb);
+    return sb;
+  };
+  if (gallery) {
+    // gallery: put the actions in a footer row (off the image) — open-in-dialog + src at bottom
+    const row = document.createElement("div"); row.className = "card-actions";
+    row.appendChild(openBtn(imgs.length > 1 ? `🔍 Open ${imgs.length}` : "🔍 Open"));
+    if (h.src && h.src.length) row.appendChild(srcBtn("srcbtn inline"));
+    body.appendChild(row);
+  } else {
+    if (imgs.length) body.appendChild(openBtn(imgs.length > 1 ? `📷 ${imgs.length} images` : "📷 Show image"));
+    if (h.src && h.src.length) card.appendChild(srcBtn("srcbtn"));  // absolute top-right (no image there)
   }
   if (gallery) wireGalleryImgs(card);
   return card;

@@ -142,6 +142,10 @@ code{background:#0a1120;border:1px solid var(--line);border-radius:4px;padding:0
   padding:3px 8px;border-radius:999px;cursor:pointer;color:var(--dim);
   background:rgba(10,17,32,.72);border:1px solid var(--line)}
 .srcbtn:hover{color:var(--accent);border-color:var(--accent);background:rgba(10,17,32,.9)}
+/* gallery-mode footer action row (open-in-dialog + src, off the image) */
+.card-actions{display:flex;gap:8px;align-items:center;justify-content:space-between;margin-top:11px}
+.card-actions .imgbtn{margin-top:0}
+.srcbtn.inline{position:static;top:auto;right:auto;z-index:auto}
 .sec[data-cat="country"] .card{border-left-color:var(--country)}
 .sec[data-cat="region"] .card{border-left-color:var(--region)}
 .sec[data-cat="state"] .card{border-left-color:var(--state)}
