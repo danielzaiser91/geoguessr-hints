@@ -12,11 +12,11 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**30 / 136 countries.**
+**35 / 136 countries.**
 
 **Africa:** ⬜ Botswana ⬜ Egypt ⬜ Eswatini ⬜ Ghana ⬜ Kenya ⬜ Lesotho ⬜ Madagascar ⬜ Mali ⬜ Namibia ⬜ Nigeria ⬜ Reunion ⬜ Rwanda ⬜ Senegal ✅ South Africa ⬜ São Tomé and Príncipe ⬜ Tanzania ⬜ Tunisia ⬜ Uganda
-**Asia:** ⬜ Bangladesh ⬜ Bhutan ⬜ British Indian Ocean Territory ⬜ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ⬜ Iraq ⬜ Israel & the West Bank ✅ Japan ⬜ Jordan ✅ Kazakhstan ⬜ Kyrgyzstan ⬜ Laos ⬜ Lebanon ⬜ Macau ⬜ Malaysia ⬜ Mongolia ⬜ Nepal ⬜ Oman ⬜ Pakistan ⬜ Philippines ⬜ Qatar ⬜ Singapore ⬜ South Korea ⬜ Sri Lanka ⬜ Taiwan ✅ Thailand ✅ Turkey ⬜ United Arab Emirates ⬜ Vietnam
-**Europe:** ⬜ Albania ⬜ Andorra ⬜ Austria ⬜ Azores ⬜ Belarus ⬜ Belgium ⬜ Bulgaria ⬜ Croatia ⬜ Czechia ✅ Denmark ⬜ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ⬜ Gibraltar ⬜ Greece ⬜ Hungary ⬜ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ⬜ Latvia ⬜ Liechtenstein ⬜ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ✅ Norway ✅ Poland ⬜ Portugal ⬜ Romania ✅ Russia ⬜ San Marino ⬜ Serbia ⬜ Slovakia ⬜ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ⬜ Switzerland ⬜ Ukraine ✅ United Kingdom
+**Asia:** ⬜ Bangladesh ⬜ Bhutan ⬜ British Indian Ocean Territory ⬜ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ⬜ Iraq ⬜ Israel & the West Bank ✅ Japan ⬜ Jordan ✅ Kazakhstan ⬜ Kyrgyzstan ⬜ Laos ⬜ Lebanon ⬜ Macau ✅ Malaysia ⬜ Mongolia ⬜ Nepal ⬜ Oman ⬜ Pakistan ✅ Philippines ⬜ Qatar ⬜ Singapore ✅ South Korea ⬜ Sri Lanka ⬜ Taiwan ✅ Thailand ✅ Turkey ⬜ United Arab Emirates ✅ Vietnam
+**Europe:** ⬜ Albania ⬜ Andorra ⬜ Austria ⬜ Azores ⬜ Belarus ⬜ Belgium ⬜ Bulgaria ⬜ Croatia ⬜ Czechia ✅ Denmark ⬜ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ⬜ Gibraltar ⬜ Greece ⬜ Hungary ⬜ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ⬜ Latvia ⬜ Liechtenstein ⬜ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ✅ Norway ✅ Poland ⬜ Portugal ⬜ Romania ✅ Russia ⬜ San Marino ⬜ Serbia ⬜ Slovakia ⬜ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ⬜ Switzerland ✅ Ukraine ✅ United Kingdom
 **North America:** ⬜ Alaska ⬜ Bermuda ✅ Canada ⬜ Costa Rica ⬜ Dominican Republic ⬜ Greenland ⬜ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ⬜ Panama ⬜ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
 **South America:** ✅ Argentina ⬜ Bolivia ✅ Brazil ✅ Chile ✅ Colombia ⬜ Curaçao ⬜ Ecuador ⬜ Falkland Islands ✅ Peru ⬜ Uruguay
 **Oceania:** ⬜ American Samoa ✅ Australia ⬜ Christmas Island ⬜ Cocos Islands ⬜ Guam ⬜ New Zealand ⬜ Northern Mariana Islands ⬜ Pitcairn Islands ⬜ Vanuatu
@@ -179,6 +179,81 @@ Study: [Plonk It](https://www.plonkit.net/japan)
 | State | Orange arrow above top pole plate → Chūgoku; orange/black pole bands → Shikoku | [P](https://www.plonkit.net/japan) |  |
 | Special | Bollards may have the city/prefecture written in kanji → near-pinpoint | [P](https://www.plonkit.net/japan) |  |
 
+## Vietnam
+Study: [Plonk It](https://www.plonkit.net/vietnam)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Drives on the **right**; plates white with black lettering (long or short) | [P](https://www.plonkit.net/vietnam) |  |
+| Country | **Vietnamese** = Latin script with **more diacritics than any other** on Street View; short, mostly single-syllable words | [P](https://www.plonkit.net/vietnam) |  |
+| Country | Common bollard = small **square concrete, painted white with a red top** | [P](https://www.plonkit.net/vietnam) |  |
+| Country | Road-sign posts painted **red-and-white striped**; road signs have a **yellow-orange background** (unique in SE Asia) | [P](https://www.plonkit.net/vietnam) |  |
+| Country | **Waystones** white w/ colourful (red/blue) top, road number + distances → great for pinpointing | [P](https://www.plonkit.net/vietnam) |  |
+| Country | Chevrons black/yellow or white/red (single arrow); direction signs blue, arrows often point in **odd directions** | [P](https://www.plonkit.net/vietnam) |  |
+| Country | Unusually **short yellow middle dashes** are distinctive; concrete-block minor roads common | [P](https://www.plonkit.net/vietnam) |  |
+| Country | A-type guardrails with reflectors **red on one side / yellow on the other**; red-white concrete barriers on mountain roads | [P](https://www.plonkit.net/vietnam) |  |
+| Country | Big pole variety: **holey poles** (also Sri Lanka), round indented poles, trapezoid poletops, grey electricity boxes w/ a sloped bottom | [P](https://www.plonkit.net/vietnam) |  |
+| Country | **Most motorcycle coverage in the world** — bone-shaped blur (sometimes just a helmet); rural motorcycle coverage ≈ Vietnam | [P](https://www.plonkit.net/vietnam) |  |
+| Region | **Mekong Delta** = ultra-flat, canals + linear villages, palms; **Red River Delta** flat fields (north); **Central Highlands** = red soil, hilly, rubber/tea/pepper | [P](https://www.plonkit.net/vietnam) |  |
+| State | **Addresses everywhere** (storefronts) → scan for the **province** (tỉnh / TP abbreviations); learn OLD provinces (2025 reform merged many) | [P](https://www.plonkit.net/vietnam) |  |
+| State | Area codes start with **2**, ordered north→south; plate region codes painted on trucks | [P](https://www.plonkit.net/vietnam) |  |
+
+## Malaysia
+Study: [Plonk It](https://www.plonkit.net/malaysia)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates **black with 2 white sections** (Indonesia = 3 sections); drives on the **left** | [P](https://www.plonkit.net/malaysia) |  |
+| Country | **Double white centre lines** (only SE Asian country to do so); thick **yellow bar** markings ~exclusive to Malaysia | [P](https://www.plonkit.net/malaysia) |  |
+| Country | Electricity poles often have **black or white stickers** (sometimes red-white / red-blue stripes below) | [P](https://www.plonkit.net/malaysia) |  |
+| Country | **BERHENTI** (stop) & **BERI LALUAN** (yield) signs are unique to Malaysia; bollards in black/white/grey/red | [P](https://www.plonkit.net/malaysia) |  |
+| Country | Directional signs w/ **hexagonal yellow highway shields** (unique); km markers white-and-blue | [P](https://www.plonkit.net/malaysia) |  |
+| Country | **Malay** (Latin, ≈ Indonesian); **Chinese characters** common (≈25% of Malaysians are of Chinese descent) | [P](https://www.plonkit.net/malaysia) |  |
+| Country | Signposts almost always **black-and-white striped**; black-and-white kerbs common | [P](https://www.plonkit.net/malaysia) |  |
+| Region | Borneo: **Sabah very mountainous** (much coverage on mountain roads); Sarawak flatter, wooden diagonal-support poles; isolated karst near Perlis (Thai border) | [P](https://www.plonkit.net/malaysia) |  |
+| State | Each state has its **own road-letter prefix**; state flags appear regularly (worth learning) | [P](https://www.plonkit.net/malaysia) |  |
+| State | **Postal codes on most street signs** → narrow the region | [P](https://www.plonkit.net/malaysia) |  |
+| State | Pole stickers: black = mainland, **white = Sarawak (Borneo)**; 'TEL TNB' stickers = Johor | [P](https://www.plonkit.net/malaysia) |  |
+| Special | Arrow-shaped street signs (Malaysia-unique): **yellow = Johor**, green w/ JKR hexagon = Sabah; trash-bin logos cluster by state | [P](https://www.plonkit.net/malaysia) |  |
+
+## Philippines
+Study: [Plonk It](https://www.plonkit.net/philippines)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | **Concrete roads** extremely common (also Thailand); drives on the **right** | [P](https://www.plonkit.net/philippines) |  |
+| Country | Plate white/black (older 2002 series has a **green tint**); **tricycles** (tuk-tuks) often outnumber cars | [P](https://www.plonkit.net/philippines) |  |
+| Country | **Octagonal metal poles** common; single insulator on a vertical bar attached to the pole's side | [P](https://www.plonkit.net/philippines) |  |
+| Country | Middle lines yellow or white — often **combined yellow+white** (unique in East Asia); yellow has an orange tint | [P](https://www.plonkit.net/philippines) |  |
+| Country | Tall **square yellow km stones** are unique to the Philippines; chevrons red-on-white; signposts painted red/orange/yellow | [P](https://www.plonkit.net/philippines) |  |
+| Country | **English on signs** everywhere — the only major SE Asian country where this is common | [P](https://www.plonkit.net/philippines) |  |
+| Country | Gen3 white car w/ visible **black roof**; silvery-grey car (also Bhutan); **grains spread on roads to dry** | [P](https://www.plonkit.net/philippines) |  |
+| Country | Many regional **tricycle/tuk-tuk designs** (roughly mappable by area) | [P](https://www.plonkit.net/philippines) |  |
+| Region | N. Luzon = forested dry **pine mountains**; oil palm/pineapple/banana → Mindanao; sugarcane → Negros/Panay | [P](https://www.plonkit.net/philippines) |  |
+| State | **Black/white pole boxes** carry a 3-letter **municipality abbreviation** → pinpoint the town | [P](https://www.plonkit.net/philippines) |  |
+| State | **Province names on signs** (memorise — not on the map); motorcycle plates colour-coded (north = strip on top, south = bottom) | [P](https://www.plonkit.net/philippines) |  |
+| Special | **Chocolate Hills** (round grassy hills) → Bohol; **Mayon** perfect-cone volcano; Cordillera = yellow/black striped concrete guardrails | [P](https://www.plonkit.net/philippines) |  |
+| Special | **Amakan** woven-bamboo walls → south; western Mindanao majority **Muslim**; Mountain-Dew-bottle decorations → N. Luzon | [P](https://www.plonkit.net/philippines) |  |
+
+## South Korea
+Study: [Plonk It](https://www.plonkit.net/south-korea)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates: pre-2006 short **green**; post-2006 white (private) / **yellow** (commercial), long or short | [P](https://www.plonkit.net/south-korea) |  |
+| Country | Almost all **Gen3**; car back often visible (black/white/silver), **never an antenna**; lots of autumn/winter coverage | [P](https://www.plonkit.net/south-korea) |  |
+| Country | **Hangul** script — recognisable by the **circles** in many letters (unlike other East Asian scripts) | [P](https://www.plonkit.net/south-korea) |  |
+| Country | Utility poles: **black-yellow diagonal stripes** near the base (don't reach the bottom; Taiwan's do & are oranger); tapered **spike** on top | [P](https://www.plonkit.net/south-korea) |  |
+| Country | Drives **right**; yellow middle + white outer lines; occasional red block markings; yellow/white speed bumps | [P](https://www.plonkit.net/south-korea) |  |
+| Country | Triangular warning signs **yellow bg** (prohibition/yield = white); direction signs green w/ white text | [P](https://www.plonkit.net/south-korea) |  |
+| Country | Street signs **blue, arrow-shaped, hanging** from a bar on utility poles | [P](https://www.plonkit.net/south-korea) |  |
+| Country | Pedestrian-crossing signs = distinctive **pentagon shape, blue background** | [P](https://www.plonkit.net/south-korea) |  |
+| Country | Distinctive **house numbers**: blue, literally **house-shaped**, full address in Hangul + Latin | [P](https://www.plonkit.net/south-korea) |  |
+| Country | Wedge-shaped B&W bollards (round yellow reflector front, grey back) | [P](https://www.plonkit.net/south-korea) |  |
+| Country | Predominantly **mountainous** (almost always elevation on the horizon); red brick; traditional tiled roofs w/ upturned corners (blue roofs common) | [P](https://www.plonkit.net/south-korea) |  |
+| Region | **Jeju** = volcanic island: dark volcanic soil, **volcanic-rock walls**, volcanoes on the horizon; Gen2 → Seoul & Busan | [P](https://www.plonkit.net/south-korea) |  |
+| State | Coverage spotty (cities + highways); **area codes increase south** (02 Seoul → 064 Jeju; Seoul = only 2-digit code) | [P](https://www.plonkit.net/south-korea) |  |
+
 # Europe
 
 ## Russia
@@ -199,6 +274,25 @@ Study: [Plonk It](https://www.plonkit.net/russia)
 | State | Gen3 unblurred plate regional code (right side): 01 = Adygea … learnable list | [P](https://www.plonkit.net/russia) |  |
 | State | Omsk = birch patches in green farm fields (summer Gen4); Kaliningrad = white-striped lined oaks | [P](https://www.plonkit.net/russia) |  |
 | State | Bilingual signs (Tatar, Bashkir…) → Tatarstan / Bashkortostan | [P](https://www.plonkit.net/russia) |  |
+
+## Ukraine
+Study: [Plonk It](https://www.plonkit.net/ukraine)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plate white + **blue-and-yellow strip left** (flag colours) — Russia = fully white, no strip | [P](https://www.plonkit.net/ukraine) |  |
+| Country | All coverage is **Gen3**, mostly a **red Google car** (~unique to Ukraine); no antenna → consider Ukraine (Russia's Gen3 always has an antenna, & has Gen2/Gen4) | [P](https://www.plonkit.net/ukraine) |  |
+| Country | Some of the **worst roads in Europe** (potholes, warped pavement) — good vs Russia; random objects painted **blue-yellow** (fences) | [P](https://www.plonkit.net/ukraine) |  |
+| Country | Ukrainian Cyrillic w/ unique **Є Ґ І Ї**; street = вулиця (вул.), city = місто (м.) | [P](https://www.plonkit.net/ukraine) |  |
+| Country | Square concrete poles (post-Soviet) often w/ **diagonal support beams**; wooden poles w/ concrete base blocks | [P](https://www.plonkit.net/ukraine) |  |
+| Country | Red chevrons w/ white arrows (like Russia/Estonia); pedestrian sign **3 stripes**; white town-entry signs | [P](https://www.plonkit.net/ukraine) |  |
+| Country | B&W painted guardrails; big **Soviet-era apartment blocks** (grey brick, rundown); fenced brick single-family homes | [P](https://www.plonkit.net/ukraine) |  |
+| Country | Rural vibe: bad road, flat/slightly hilly, tree line + wide open fields, low traffic, **summer green** foliage | [P](https://www.plonkit.net/ukraine) |  |
+| Country | Tall **poplar trees** common in many parts (most of Russia lacks them) | [P](https://www.plonkit.net/ukraine) |  |
+| Region | Coverage mostly urban + main (yellow) roads; almost none in the SE (except Donetsk) or south of Odesa | [P](https://www.plonkit.net/ukraine) |  |
+| Region | **Carpathian Mtns** (west) = hillier/forested, pine, curvy roads; Baltic pines (orange-red bark) → north near Belarus; arider south | [P](https://www.plonkit.net/ukraine) |  |
+| State | Landline **2-digit area code per oblast**; **plate first two letters = oblast** (codes non-intuitive → learn them) | [P](https://www.plonkit.net/ukraine) |  |
+| Special | 5 cities have **2011 autumn coverage** (long antenna): black car = Donetsk (no newer coverage!), white car = Lviv/Kyiv/Kharkiv (rare now) | [P](https://www.plonkit.net/ukraine) |  |
 
 ## France
 Study: [Plonk It](https://www.plonkit.net/france)

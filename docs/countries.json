@@ -2675,6 +2675,136 @@
    ]
   },
   {
+   "name": "Malaysia",
+   "slug": "malaysia",
+   "continent": "Asia",
+   "area_km2": 330803,
+   "links": {
+    "plonkit": "https://www.plonkit.net/malaysia",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plates **black with 2 white sections** (Indonesia = 3 sections); drives on the **left**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Malaysia_License_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "**Double white centre lines** (only SE Asian country to do so); thick **yellow bar** markings ~exclusive to Malaysia",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Road_lines.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "Electricity poles often have **black or white stickers** (sometimes red-white / red-blue stripes below)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Untitled_design__2824_29.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "**BERHENTI** (stop) & **BERI LALUAN** (yield) signs are unique to Malaysia; bollards in black/white/grey/red",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Untitled_design__2823_29.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Directional signs w/ **hexagonal yellow highway shields** (unique); km markers white-and-blue",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Untitled_design__2830_29.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**Malay** (Latin, ≈ Indonesian); **Chinese characters** common (≈25% of Malaysians are of Chinese descent)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "my_language.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Signposts almost always **black-and-white striped**; black-and-white kerbs common",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "signpost.png",
+     "type": "utility"
+    },
+    {
+     "cat": "state",
+     "text": "Each state has its **own road-letter prefix**; state flags appear regularly (worth learning)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "my_roads.png",
+     "type": "naming"
+    },
+    {
+     "cat": "state",
+     "text": "**Postal codes on most street signs** → narrow the region",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "malaysia_postal_codes_new.png",
+     "type": "naming"
+    },
+    {
+     "cat": "state",
+     "text": "Pole stickers: black = mainland, **white = Sarawak (Borneo)**; 'TEL TNB' stickers = Johor",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "MalayBlackStickers.png",
+     "type": "utility"
+    },
+    {
+     "cat": "region",
+     "text": "Borneo: **Sabah very mountainous** (much coverage on mountain roads); Sarawak flatter, wooden diagonal-support poles; isolated karst near Perlis (Thai border)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "landscape"
+    },
+    {
+     "cat": "special",
+     "text": "Arrow-shaped street signs (Malaysia-unique): **yellow = Johor**, green w/ JKR hexagon = Sabah; trash-bin logos cluster by state",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "signs"
+    }
+   ]
+  },
+  {
    "name": "Mexico",
    "slug": "mexico",
    "continent": "North America",
@@ -3339,6 +3469,146 @@
    ]
   },
   {
+   "name": "Philippines",
+   "slug": "philippines",
+   "continent": "Asia",
+   "area_km2": 300000,
+   "links": {
+    "plonkit": "https://www.plonkit.net/philippines",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "**Concrete roads** extremely common (also Thailand); drives on the **right**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "1_concreteroad.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "Plate white/black (older 2002 series has a **green tint**); **tricycles** (tuk-tuks) often outnumber cars",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "2_licenseplate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "**Octagonal metal poles** common; single insulator on a vertical bar attached to the pole's side",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "1_octopole.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Middle lines yellow or white — often **combined yellow+white** (unique in East Asia); yellow has an orange tint",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "1_roadline.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "Tall **square yellow km stones** are unique to the Philippines; chevrons red-on-white; signposts painted red/orange/yellow",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "1_kmstone.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**English on signs** everywhere — the only major SE Asian country where this is common",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "1_english.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Gen3 white car w/ visible **black roof**; silvery-grey car (also Bhutan); **grains spread on roads to dry**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "1_gen3car.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Many regional **tricycle/tuk-tuk designs** (roughly mappable by area)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "1_tuktuk.png",
+     "type": "general"
+    },
+    {
+     "cat": "state",
+     "text": "**Black/white pole boxes** carry a 3-letter **municipality abbreviation** → pinpoint the town",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "2_blackwhiteboxes.png",
+     "type": "naming"
+    },
+    {
+     "cat": "state",
+     "text": "**Province names on signs** (memorise — not on the map); motorcycle plates colour-coded (north = strip on top, south = bottom)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "2_licenceplates.png",
+     "type": "naming"
+    },
+    {
+     "cat": "region",
+     "text": "N. Luzon = forested dry **pine mountains**; oil palm/pineapple/banana → Mindanao; sugarcane → Negros/Panay",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "2_luzonmountain.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "special",
+     "text": "**Chocolate Hills** (round grassy hills) → Bohol; **Mayon** perfect-cone volcano; Cordillera = yellow/black striped concrete guardrails",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "landscape"
+    },
+    {
+     "cat": "special",
+     "text": "**Amakan** woven-bamboo walls → south; western Mindanao majority **Muslim**; Mountain-Dew-bottle decorations → N. Luzon",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "general"
+    }
+   ]
+  },
+  {
    "name": "Poland",
    "slug": "poland",
    "continent": "Europe",
@@ -3756,6 +4026,148 @@
      ],
      "sv": null,
      "type": "general"
+    }
+   ]
+  },
+  {
+   "name": "South Korea",
+   "slug": "south-korea",
+   "continent": "Asia",
+   "area_km2": 100210,
+   "links": {
+    "plonkit": "https://www.plonkit.net/south-korea",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plates: pre-2006 short **green**; post-2006 white (private) / **yellow** (commercial), long or short",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "licen_plae.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Almost all **Gen3**; car back often visible (black/white/silver), **never an antenna**; lots of autumn/winter coverage",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "kr_cars.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "**Hangul** script — recognisable by the **circles** in many letters (unlike other East Asian scripts)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "kr_script.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Utility poles: **black-yellow diagonal stripes** near the base (don't reach the bottom; Taiwan's do & are oranger); tapered **spike** on top",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "kr_pole_marking.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Drives **right**; yellow middle + white outer lines; occasional red block markings; yellow/white speed bumps",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "kr_yellow_middle_line.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "Triangular warning signs **yellow bg** (prohibition/yield = white); direction signs green w/ white text",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "kr_yellow_road_signs.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Street signs **blue, arrow-shaped, hanging** from a bar on utility poles",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "kr_bluestreetsigns.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Pedestrian-crossing signs = distinctive **pentagon shape, blue background**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "kr_pedestrian_crossing.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Distinctive **house numbers**: blue, literally **house-shaped**, full address in Hangul + Latin",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "kr_house_number.png",
+     "type": "naming"
+    },
+    {
+     "cat": "country",
+     "text": "Wedge-shaped B&W bollards (round yellow reflector front, grey back)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "kr_regular_bollards.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "country",
+     "text": "Predominantly **mountainous** (almost always elevation on the horizon); red brick; traditional tiled roofs w/ upturned corners (blue roofs common)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "kr_mountains.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "state",
+     "text": "Coverage spotty (cities + highways); **area codes increase south** (02 Seoul → 064 Jeju; Seoul = only 2-digit code)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "kr_phonecodes v4.png",
+     "type": "naming"
+    },
+    {
+     "cat": "region",
+     "text": "**Jeju** = volcanic island: dark volcanic soil, **volcanic-rock walls**, volcanoes on the horizon; Gen2 → Seoul & Busan",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "kr_gen2.png",
+     "type": "landscape"
     }
    ]
   },
@@ -4431,6 +4843,145 @@
    ]
   },
   {
+   "name": "Ukraine",
+   "slug": "ukraine",
+   "continent": "Europe",
+   "area_km2": 603500,
+   "links": {
+    "plonkit": "https://www.plonkit.net/ukraine",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plate white + **blue-and-yellow strip left** (flag colours) — Russia = fully white, no strip",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Ukraine_License_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "All coverage is **Gen3**, mostly a **red Google car** (~unique to Ukraine); no antenna → consider Ukraine (Russia's Gen3 always has an antenna, & has Gen2/Gen4)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Red_car.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Some of the **worst roads in Europe** (potholes, warped pavement) — good vs Russia; random objects painted **blue-yellow** (fences)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Bad_roads2.png",
+     "type": "general"
+    },
+    {
+     "cat": "country",
+     "text": "Ukrainian Cyrillic w/ unique **Є Ґ І Ї**; street = вулиця (вул.), city = місто (м.)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Ukrainian_language.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Square concrete poles (post-Soviet) often w/ **diagonal support beams**; wooden poles w/ concrete base blocks",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Diagonal_support_beam.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Red chevrons w/ white arrows (like Russia/Estonia); pedestrian sign **3 stripes**; white town-entry signs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Chevron.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "B&W painted guardrails; big **Soviet-era apartment blocks** (grey brick, rundown); fenced brick single-family homes",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Apartment_blocks.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "Rural vibe: bad road, flat/slightly hilly, tree line + wide open fields, low traffic, **summer green** foliage",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Rural_vibe.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Tall **poplar trees** common in many parts (most of Russia lacks them)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Poplar_trees.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "region",
+     "text": "Coverage mostly urban + main (yellow) roads; almost none in the SE (except Donetsk) or south of Odesa",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Ukraine_Coverage_Map.png",
+     "type": "general"
+    },
+    {
+     "cat": "state",
+     "text": "Landline **2-digit area code per oblast**; **plate first two letters = oblast** (codes non-intuitive → learn them)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "naming"
+    },
+    {
+     "cat": "region",
+     "text": "**Carpathian Mtns** (west) = hillier/forested, pine, curvy roads; Baltic pines (orange-red bark) → north near Belarus; arider south",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "landscape"
+    },
+    {
+     "cat": "special",
+     "text": "5 cities have **2011 autumn coverage** (long antenna): black car = Donetsk (no newer coverage!), white car = Lviv/Kyiv/Kharkiv (rare now)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "cars"
+    }
+   ]
+  },
+  {
    "name": "United Kingdom",
    "slug": "united-kingdom",
    "continent": "Europe",
@@ -5051,6 +5602,145 @@
      "img": "42devils_tower_final.png"
     }
    ]
+  },
+  {
+   "name": "Vietnam",
+   "slug": "vietnam",
+   "continent": "Asia",
+   "area_km2": 331212,
+   "links": {
+    "plonkit": "https://www.plonkit.net/vietnam",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Drives on the **right**; plates white with black lettering (long or short)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "vietnam_plate2.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "**Vietnamese** = Latin script with **more diacritics than any other** on Street View; short, mostly single-syllable words",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "vn_language.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Common bollard = small **square concrete, painted white with a red top**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "vn_bollard.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "country",
+     "text": "Road-sign posts painted **red-and-white striped**; road signs have a **yellow-orange background** (unique in SE Asia)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "vn_roadsigncolour.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**Waystones** white w/ colourful (red/blue) top, road number + distances → great for pinpointing",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "vn_waystones.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Chevrons black/yellow or white/red (single arrow); direction signs blue, arrows often point in **odd directions**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "vn_directionalsign.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Unusually **short yellow middle dashes** are distinctive; concrete-block minor roads common",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "vn_yellowmiddleline.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "A-type guardrails with reflectors **red on one side / yellow on the other**; red-white concrete barriers on mountain roads",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "vietnam_guardrail.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Big pole variety: **holey poles** (also Sri Lanka), round indented poles, trapezoid poletops, grey electricity boxes w/ a sloped bottom",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "vn_holeypoles.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "**Most motorcycle coverage in the world** — bone-shaped blur (sometimes just a helmet); rural motorcycle coverage ≈ Vietnam",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "vn_motorbike.png",
+     "type": "cars"
+    },
+    {
+     "cat": "state",
+     "text": "**Addresses everywhere** (storefronts) → scan for the **province** (tỉnh / TP abbreviations); learn OLD provinces (2025 reform merged many)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "naming"
+    },
+    {
+     "cat": "region",
+     "text": "**Mekong Delta** = ultra-flat, canals + linear villages, palms; **Red River Delta** flat fields (north); **Central Highlands** = red soil, hilly, rubber/tea/pepper",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "landscape"
+    },
+    {
+     "cat": "state",
+     "text": "Area codes start with **2**, ordered north→south; plate region codes painted on trucks",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "naming"
+    }
+   ]
   }
  ],
  "master": {
@@ -5215,7 +5905,7 @@
   "Antarctica"
  ],
  "counts": {
-  "done": 30,
+  "done": 35,
   "total": 136
  }
 }

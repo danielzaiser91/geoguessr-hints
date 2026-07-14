@@ -1,0 +1,22 @@
+{
+ "name": "South Korea",
+ "slug": "south-korea",
+ "continent": "Asia",
+ "area_km2": 100210,
+ "links": { "plonkit": "https://www.plonkit.net/south-korea", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Plates: pre-2006 short **green**; post-2006 white (private) / **yellow** (commercial), long or short", "src": ["plonkit"], "sv": null, "img": "licen_plae.png", "type": "plates" },
+  { "cat": "country", "text": "Almost all **Gen3**; car back often visible (black/white/silver), **never an antenna**; lots of autumn/winter coverage", "src": ["plonkit"], "sv": null, "img": "kr_cars.png", "type": "cars" },
+  { "cat": "country", "text": "**Hangul** script — recognisable by the **circles** in many letters (unlike other East Asian scripts)", "src": ["plonkit"], "sv": null, "img": "kr_script.png", "type": "language" },
+  { "cat": "country", "text": "Utility poles: **black-yellow diagonal stripes** near the base (don't reach the bottom; Taiwan's do & are oranger); tapered **spike** on top", "src": ["plonkit"], "sv": null, "img": "kr_pole_marking.png", "type": "utility" },
+  { "cat": "country", "text": "Drives **right**; yellow middle + white outer lines; occasional red block markings; yellow/white speed bumps", "src": ["plonkit"], "sv": null, "img": "kr_yellow_middle_line.png", "type": "markings" },
+  { "cat": "country", "text": "Triangular warning signs **yellow bg** (prohibition/yield = white); direction signs green w/ white text", "src": ["plonkit"], "sv": null, "img": "kr_yellow_road_signs.png", "type": "signs" },
+  { "cat": "country", "text": "Street signs **blue, arrow-shaped, hanging** from a bar on utility poles", "src": ["plonkit"], "sv": null, "img": "kr_bluestreetsigns.png", "type": "signs" },
+  { "cat": "country", "text": "Pedestrian-crossing signs = distinctive **pentagon shape, blue background**", "src": ["plonkit"], "sv": null, "img": "kr_pedestrian_crossing.png", "type": "signs" },
+  { "cat": "country", "text": "Distinctive **house numbers**: blue, literally **house-shaped**, full address in Hangul + Latin", "src": ["plonkit"], "sv": null, "img": "kr_house_number.png", "type": "naming" },
+  { "cat": "country", "text": "Wedge-shaped B&W bollards (round yellow reflector front, grey back)", "src": ["plonkit"], "sv": null, "img": "kr_regular_bollards.png", "type": "bollards" },
+  { "cat": "country", "text": "Predominantly **mountainous** (almost always elevation on the horizon); red brick; traditional tiled roofs w/ upturned corners (blue roofs common)", "src": ["plonkit"], "sv": null, "img": "kr_mountains.png", "type": "landscape" },
+  { "cat": "state", "text": "Coverage spotty (cities + highways); **area codes increase south** (02 Seoul → 064 Jeju; Seoul = only 2-digit code)", "src": ["plonkit"], "sv": null, "img": "kr_phonecodes v4.png", "type": "naming" },
+  { "cat": "region", "text": "**Jeju** = volcanic island: dark volcanic soil, **volcanic-rock walls**, volcanoes on the horizon; Gen2 → Seoul & Busan", "src": ["plonkit"], "sv": null, "img": "kr_gen2.png", "type": "landscape" }
+ ]
+}
