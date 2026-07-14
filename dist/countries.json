@@ -11204,12 +11204,18 @@
     {
      "super": true,
      "cat": "state",
-     "text": "Area codes: **8-** = west, **3-** = fairly central, **4-** = **far-east or the Moscow area** (a leading 4 is ambiguous — Moscow itself is 495/499, in the west)",
+     "text": "Area codes — the leading digit gives the zone:",
+     "bullets": [
+      "**8-** = west",
+      "**3-** = central",
+      "**4-** = ambiguous, the next digits split it: **401** Kaliningrad, **~410–430** (far) east, **470+** Moscow region (Moscow city itself = 495/499)"
+     ],
      "src": [
       "plonkit"
      ],
      "sv": null,
      "img": "areacodes.png",
+     "anchor": "MXl5",
      "type": "naming"
     },
     {

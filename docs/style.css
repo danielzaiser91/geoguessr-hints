@@ -153,6 +153,9 @@ code{background:#0a1120;border:1px solid var(--line);border-radius:4px;padding:0
 .card .type i{width:8px;height:8px;border-radius:50%;background:var(--dim);flex:none}
 .card .t{font-size:14px;line-height:1.55}
 .card .t b{color:#fff} .card .t code{font-size:12.5px}
+.card .blist{margin:9px 0 0;padding-left:18px;font-size:13px;line-height:1.5;display:flex;flex-direction:column;gap:5px}
+.card .blist li{list-style:disc}
+.card .blist b{color:#fff}
 /* inline country flags inside clue text + captions */
 .tflag{width:15px;height:11px;object-fit:cover;border-radius:1.5px;vertical-align:-1px;margin-right:3px;
   box-shadow:0 0 0 .5px rgba(0,0,0,.5);display:inline-block}
@@ -167,9 +170,9 @@ code{background:#0a1120;border:1px solid var(--line);border-radius:4px;padding:0
 .card.super .keytag{align-self:flex-start;display:inline-flex;align-items:center;gap:5px;margin-bottom:9px;
   font-size:9.5px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:#0b0b0b;
   background:linear-gradient(90deg,#ffdb70,#e6a521);padding:3px 9px;border-radius:999px}
-/* gallery view — masonry columns, images shown inline */
-.cards.gallery{display:block;column-width:300px;column-gap:14px}
-.cards.gallery .card{break-inside:avoid;width:100%;margin:0 0 14px;display:inline-block;vertical-align:top}
+/* gallery view — grid (equal-height rows, fills a row before wrapping), images inline */
+.cards.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px;align-items:stretch}
+.cards.gallery .card{height:100%}
 .gimg{position:relative;line-height:0;overflow:hidden;background:#0a1120;border-bottom:1px solid var(--line)}
 .gimg>img{width:100%;height:auto;display:block}
 .gimg.zoomable{cursor:zoom-in}

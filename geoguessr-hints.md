@@ -804,7 +804,7 @@ Study: [Plonk It](https://www.plonkit.net/russia)
 | Region | Birch everywhere; **larch** more common further east (Siberia) | [P](https://www.plonkit.net/russia) |  |
 | Region | Kamchatka = grey volcanic soil + volcanoes; Caucasus mtns → south (Dagestan dry/flat) | [P](https://www.plonkit.net/russia) |  |
 | Region | **RHD Japanese import cars** (steering wheel on the right) get commoner the further **east** you go (common from ~Novosibirsk eastward) — a fast east/west tell | [P](https://www.plonkit.net/russia) |  |
-| State | Area codes: **8-** = west, **3-** = fairly central, **4-** = **far-east or the Moscow area** (a leading 4 is ambiguous — Moscow itself is 495/499, in the west) | [P](https://www.plonkit.net/russia) |  |
+| State | Area codes — the leading digit gives the zone: | [P](https://www.plonkit.net/russia) |  |
 | State | Gen3 unblurred plate regional code (right side): 01 = Adygea … learnable list | [P](https://www.plonkit.net/russia) |  |
 | State | Omsk = birch patches in green farm fields (summer Gen4); Kaliningrad = white-striped lined oaks | [P](https://www.plonkit.net/russia) |  |
 | State | Bilingual signs (Tatar, Bashkir…) → Tatarstan / Bashkortostan | [P](https://www.plonkit.net/russia) |  |

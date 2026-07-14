@@ -113,7 +113,7 @@ function flagify(html) {
   });
 }
 
-let DATA = null, byNorm = {}, features = [], world = null, selected = null;
+let DATA = null, byNorm = {}, bySlug = {}, features = [], world = null, selected = null;
 let hovered = null, globe = null, covMap = null, covBase = null, covOverlay = null;
 const covSet = new Set(COVERAGE.map(norm));
 function loadView() { try { return localStorage.getItem("geohint-view") === "gallery" ? "gallery" : "pills"; } catch (e) { return "pills"; } }
@@ -149,12 +149,27 @@ async function init() {
     fetch("countries.json", { cache: "no-cache" }).then(r => r.json()),
     fetch(GEOJSON_URL).then(r => r.json()),
   ]);
-  DATA.countries.forEach(c => { byNorm[norm(c.name)] = c; });
+  DATA.countries.forEach(c => { byNorm[norm(c.name)] = c; if (c.slug) bySlug[c.slug] = c; });
   features = world.features.filter(f => norm(featName(f)) !== "antarctica");
   const covCount = features.filter(hasCoverage).length;
   document.getElementById("prog").innerHTML =
     `<b>${DATA.counts.done}</b> countries with hints · ${covCount} with official coverage`;
   buildGlobe(); buildList(); wireUI();
+  window.addEventListener("hashchange", openByHash);
+  openByHash();  // restore country from the URL hash on load/reload
+}
+// URL hash routing: #<slug> opens that country; empty hash closes the detail.
+function openByHash() {
+  const slug = decodeURIComponent(location.hash.replace(/^#\/?/, ""));
+  if (!slug) { if (selected) closeDetail(); return; }
+  const d = bySlug[slug];
+  if (d && (!selected || selected.slug !== slug)) openCountry(d, true);
+}
+function closeDetail() {
+  document.getElementById("detail").classList.remove("open");
+  document.querySelectorAll(".c-item.sel").forEach(e => e.classList.remove("sel"));
+  if (globe) globe.controls().autoRotate = true;
+  selected = null;
 }
 
 function buildGlobe() {
@@ -222,8 +237,9 @@ function flyTo(d) {
 }
 
 /* ---------- full-screen country detail ---------- */
-function openCountry(d) {
+function openCountry(d, fromHash) {
   selected = d;
+  if (!fromHash && d.slug && location.hash.replace(/^#\/?/, "") !== d.slug) location.hash = d.slug;
   globe.controls().autoRotate = false;
   document.querySelectorAll(".c-item.sel").forEach(e => e.classList.remove("sel"));
   const li = [...document.querySelectorAll(".c-item")].find(e => e.dataset.name === d.name.toLowerCase());
@@ -394,6 +410,7 @@ function cardEl(h) {
       (isSuper(h) ? `<div class="keytag">⭐ Key regional clue</div>` : "") +
       `<div class="type"><i style="background:${tm.color}"></i>${tm.label}</div>` +
       `<div class="t">${flagify(mdBold(h.text))}</div>` +
+      (h.bullets && h.bullets.length ? `<ul class="blist">${h.bullets.map(b => `<li>${flagify(mdBold(b))}</li>`).join("")}</ul>` : "") +
       (meta ? `<div class="m">${meta}</div>` : "") +
     `</div>`;
   if (imgs.length && !gallery) {
@@ -503,7 +520,7 @@ const PK_STEP = { country: "Step 1 · Identifying", region: "Step 2 · Regional 
 function openSources(h) {
   const rows = (h.src || []).map(s => {
     let url, sub;
-    if (s === "plonkit") { url = (selected.links && selected.links.plonkit) || ""; sub = selected.name + " guide" + (PK_STEP[h.cat] ? " · " + PK_STEP[h.cat] : ""); }
+    if (s === "plonkit") { url = (selected.links && selected.links.plonkit) || ""; if (url && h.anchor) url += "#" + h.anchor; sub = selected.name + " guide" + (h.anchor ? " · this clue ↴" : (PK_STEP[h.cat] ? " · " + PK_STEP[h.cat] : "")); }
     else { url = h.src_url || SRC_URL[s] || ""; sub = "Reference"; }
     return `<div class="srcrow"><div class="srcmeta"><span class="srcname">${SRC_NAME[s] || s}</span><span class="srcsub">${sub}</span></div>` +
       (url ? `<a class="srcgo" href="${url}" target="_blank" rel="noopener">Open ↗</a>` : `<span class="srcgo off">no link</span>`) + `</div>`;
@@ -517,8 +534,8 @@ function syncViewToggle() {
 }
 function wireUI() {
   document.getElementById("back").onclick = () => {
-    document.getElementById("detail").classList.remove("open");
-    globe.controls().autoRotate = true;
+    closeDetail();
+    if (location.hash) history.replaceState(null, "", location.pathname + location.search);
   };
   document.getElementById("worldCov").onclick = () => openCoverage(null);
   document.getElementById("covBtn").onclick = () => { if (selected) openCoverage(selected); };
