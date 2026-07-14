@@ -5,16 +5,16 @@
  "area_km2": 450295,
  "links": { "plonkit": "https://www.plonkit.net/sweden", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Swedish: **Å Ä Ö** (Danish/Norwegian have only Å; Finnish has Ä Ö + long double-vowel words)", "src": ["plonkit"], "sv": null, "img": "spr_C3_A5k.png", "type": "language" },
-  { "cat": "country", "text": "**All road lines white** (Norway & Finland use yellow); highway outer line split into sectioned pattern", "src": ["plonkit"], "sv": null, "img": "vaglinje_motorvag.png", "type": "markings" },
-  { "cat": "country", "text": "Road signs = red border + **yellow background**; **chevrons = yellow arrows on blue** (only Sweden in Europe)", "src": ["plonkit"], "sv": null, "img": "chevron.png", "type": "signs" },
-  { "cat": "country", "text": "Lots of **red+yellow** infrastructure (roadwork, signpost stripes) — distinctive to Sweden", "src": ["plonkit"], "sv": null, "img": "r_C3_B6dgulinfrastruktur.png", "type": "utility" },
-  { "cat": "country", "text": "Bollards black+white (orange reflector at intersections); wooden poles w/ small **black cap on top** (Nordic)", "src": ["plonkit"], "sv": null, "img": "pollare.png", "type": "bollards" },
-  { "cat": "country", "text": "Pedestrian sign **4 stripes** (Finland/Denmark = 5); blue signs with a large white **M** on small roads", "src": ["plonkit"], "sv": null, "img": "motesplats.png", "type": "signs" },
-  { "cat": "country", "text": "Street suffixes **vägen / gatan** (v / g); dark-red painted wooden countryside houses (Nordic)", "src": ["plonkit"], "sv": null, "img": "vagnamn.png", "type": "naming" },
-  { "cat": "country", "text": "**Volvo ≈ 30% of cars**; Swedish church flag (yellow, red cross, crown) near churches", "src": ["plonkit"], "sv": null, "img": "volvo.png", "type": "cars" },
-  { "cat": "country", "text": "Gen4 cars: red / white / blue (only the blue one appears in NO/FI/DK); Gen3 white car long antenna", "src": ["plonkit"], "sv": null, "img": "gen4bil.png", "type": "cars" },
-  { "cat": "region", "text": "North & west = mountainous w/ long narrow lakes; south & east = flatter; boreal forest + many lakes", "src": ["plonkit"], "sv": null, "img": "landskap.png", "type": "landscape" },
-  { "cat": "region", "text": "Snow poles orange w/ reflector above middle (Finland's is thinner, near the top)", "src": ["plonkit"], "sv": null, "img": "snostolpe.png", "type": "bollards" }
+  { "cat": "country", "text": "Swedish: **Å Ä Ö** (Danish/Norwegian have only Å; Finnish has Ä Ö + long double-vowel words)", "src": ["plonkit"], "sv": null, "anchor": "TMZ2", "img": "spr_C3_A5k.png", "type": "language" },
+  { "cat": "country", "text": "**All road lines white** (Norway & Finland use yellow); highway outer line split into sectioned pattern", "src": ["plonkit"], "sv": null, "anchor": "YHDK", "img": "vaglinje_motorvag.png", "type": "markings" },
+  { "cat": "country", "text": "Road signs = red border + **yellow background**; **chevrons = yellow arrows on blue** (only Sweden in Europe)", "src": ["plonkit"], "sv": null, "anchor": "sN4Z", "img": "chevron.png", "type": "signs" },
+  { "cat": "country", "text": "Lots of **red+yellow** infrastructure (roadwork, signpost stripes) — distinctive to Sweden", "src": ["plonkit"], "sv": null, "anchor": "5n8T", "img": "r_C3_B6dgulinfrastruktur.png", "type": "utility" },
+  { "cat": "country", "text": "Bollards black+white (orange reflector at intersections); wooden poles w/ small **black cap on top** (Nordic)", "src": ["plonkit"], "sv": null, "anchor": "mJ0O", "img": "pollare.png", "type": "bollards" },
+  { "cat": "country", "text": "Pedestrian sign **4 stripes** (Finland/Denmark = 5); blue signs with a large white **M** on small roads", "src": ["plonkit"], "sv": null, "anchor": "FJkx", "img": "motesplats.png", "type": "signs" },
+  { "cat": "country", "text": "Street suffixes **vägen / gatan** (v / g); dark-red painted wooden countryside houses (Nordic)", "src": ["plonkit"], "sv": null, "anchor": "4Tj8", "img": "vagnamn.png", "type": "naming" },
+  { "cat": "country", "text": "**Volvo ≈ 30% of cars**; Swedish church flag (yellow, red cross, crown) near churches", "src": ["plonkit"], "sv": null, "anchor": "f9QK", "img": "volvo.png", "type": "cars" },
+  { "cat": "country", "text": "Gen4 cars: red / white / blue (only the blue one appears in NO/FI/DK); Gen3 white car long antenna", "src": ["plonkit"], "sv": null, "anchor": "GCla", "img": "gen4bil.png", "type": "cars" },
+  { "cat": "region", "text": "North & west = mountainous w/ long narrow lakes; south & east = flatter; boreal forest + many lakes", "src": ["plonkit"], "sv": null, "anchor": "B5Nf", "img": "landskap.png", "type": "landscape" },
+  { "cat": "region", "text": "Snow poles orange w/ reflector above middle (Finland's is thinner, near the top)", "src": ["plonkit"], "sv": null, "anchor": "Wh27", "img": "snostolpe.png", "type": "bollards" }
  ]
 }

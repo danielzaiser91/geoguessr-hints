@@ -5,14 +5,14 @@
  "area_km2": 309500,
  "links": { "plonkit": "https://www.plonkit.net/oman", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Mostly **desert** w/ little vegetation; **dry mountains** on the north coast + some on the south coast", "src": ["plonkit"], "sv": null, "img": "2.png", "type": "landscape" },
-  { "cat": "country", "text": "Plates: private **yellow**, commercial **red**; white **taxis w/ orange side panels**", "src": ["plonkit"], "sv": null, "img": "3.png", "type": "plates" },
-  { "cat": "country", "text": "Coverage = **white pickup** (usually fully blurred; sometimes antenna or the front is visible)", "src": ["plonkit"], "sv": null, "img": "oman_blurred.png", "type": "cars" },
-  { "cat": "country", "text": "Arabic + **English** (tourism, like the UAE)", "src": ["plonkit"], "sv": null, "img": "5.png", "type": "language" },
-  { "cat": "country", "text": "Roads yellow outer / white middle; **black-and-yellow curbs** (also common in UAE)", "src": ["plonkit"], "sv": null, "img": "7.png", "type": "markings" },
-  { "cat": "country", "text": "Buildings **light stone, blocky but ornate**, usually with matching ornate fences & gates", "src": ["plonkit"], "sv": null, "img": "8.png", "type": "arch" },
-  { "cat": "country", "text": "**Striped signposts** (in the ME only Oman + UAE); directional signs blue in Arabic + English", "src": ["plonkit"], "sv": null, "img": "10.png", "type": "signs" },
-  { "cat": "country", "text": "**Wooden poles**, 3 pole-top designs — the one w/ a **metal triangle above the pole is unique to Oman**; poles are commoner here than in UAE/Qatar", "src": ["plonkit"], "sv": null, "img": "11.png", "type": "utility" },
-  { "cat": "country", "text": "**Black-yellow chevrons with many arrows**; **red-and-white painted pylons**; **be'ah** garbage bins (numbers on them = region)", "src": ["plonkit"], "sv": null, "img": "12.png", "type": "signs" }
+  { "cat": "country", "text": "Mostly **desert** w/ little vegetation; **dry mountains** on the north coast + some on the south coast", "src": ["plonkit"], "sv": null, "anchor": "EFME", "img": "2.png", "type": "landscape" },
+  { "cat": "country", "text": "Plates: private **yellow**, commercial **red**; white **taxis w/ orange side panels**", "src": ["plonkit"], "sv": null, "anchor": "n8zU", "img": "3.png", "type": "plates" },
+  { "cat": "country", "text": "Coverage = **white pickup** (usually fully blurred; sometimes antenna or the front is visible)", "src": ["plonkit"], "sv": null, "anchor": "qr8t", "img": "oman_blurred.png", "type": "cars" },
+  { "cat": "country", "text": "Arabic + **English** (tourism, like the UAE)", "src": ["plonkit"], "sv": null, "anchor": "5QM5", "img": "5.png", "type": "language" },
+  { "cat": "country", "text": "Roads yellow outer / white middle; **black-and-yellow curbs** (also common in UAE)", "src": ["plonkit"], "sv": null, "anchor": "ZG0K", "img": "7.png", "type": "markings" },
+  { "cat": "country", "text": "Buildings **light stone, blocky but ornate**, usually with matching ornate fences & gates", "src": ["plonkit"], "sv": null, "anchor": "eWEb", "img": "8.png", "type": "arch" },
+  { "cat": "country", "text": "**Striped signposts** (in the ME only Oman + UAE); directional signs blue in Arabic + English", "src": ["plonkit"], "sv": null, "anchor": "hxXh", "img": "10.png", "type": "signs" },
+  { "cat": "country", "text": "**Wooden poles**, 3 pole-top designs — the one w/ a **metal triangle above the pole is unique to Oman**; poles are commoner here than in UAE/Qatar", "src": ["plonkit"], "sv": null, "anchor": "zoUC", "img": "11.png", "type": "utility" },
+  { "cat": "country", "text": "**Black-yellow chevrons with many arrows**; **red-and-white painted pylons**; **be'ah** garbage bins (numbers on them = region)", "src": ["plonkit"], "sv": null, "anchor": "Bmam", "img": "12.png", "type": "signs" }
  ]
 }

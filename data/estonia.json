@@ -5,16 +5,16 @@
  "area_km2": 45227,
  "links": { "plonkit": "https://www.plonkit.net/estonia", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Plate long white + standard EU blue strip left", "src": ["plonkit"], "sv": null, "img": "Estonia_License_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "Bollards **round, baton-like**: rectangular reflector front + **two circular reflectors** back (Latvia/Lithuania differ)", "src": ["plonkit"], "sv": null, "img": "Estonian_bollards.png", "type": "bollards" },
-  { "cat": "country", "text": "Least consistent Baltic poles: round wooden (metal cap) + square concrete; **trident poletops** somewhat common", "src": ["plonkit"], "sv": null, "img": "Trident.png", "type": "utility" },
-  { "cat": "country", "text": "Chevrons **red w/ white arrows** (like Russia/Ukraine; Latvia & Lithuania = the opposite)", "src": ["plonkit"], "sv": null, "img": "Chevron.png", "type": "signs" },
-  { "cat": "country", "text": "Blue **km marker perpendicular to the road**, numbers on both sides (all Baltics share the marker; angle distinguishes them)", "src": ["plonkit"], "sv": null, "img": "KM_sign_Estonia.png", "type": "signs" },
-  { "cat": "country", "text": "Signs = **thin red border running to the edge, no white outline**; A-type guardrails w/ no reflectors", "src": ["plonkit"], "sv": null, "img": "Estonian_Signs.png", "type": "signs" },
-  { "cat": "country", "text": "Pedestrian sign **3 stripes, detailed person** (Lithuania 3 but less detailed; Latvia 5)", "src": ["plonkit"], "sv": null, "img": "Pedestrian_sign_Estonia.png", "type": "signs" },
-  { "cat": "country", "text": "**Estonian** (Finnic, ≈ Finnish): letters **Ä Ö Ü Õ**; street = tänav (tn) / tee; oval blue house numbers", "src": ["plonkit"], "sv": null, "img": "Estonian_language.png", "type": "language" },
-  { "cat": "country", "text": "Bus-stop sign bus has **4 windows** (Latvia = 5; Lithuania same as EE); blue-and-white signpost wrappings common", "src": ["plonkit"], "sv": null, "img": "Bus_stop_sign.png", "type": "signs" },
-  { "cat": "country", "text": "Outer road lines sometimes **short dashes** (also Lithuania & Sweden); Gen3 often has a green-tinted **'green blur'**", "src": ["plonkit"], "sv": null, "img": "Road_lines.png", "type": "markings" },
+  { "cat": "country", "text": "Plate long white + standard EU blue strip left", "src": ["plonkit"], "sv": null, "anchor": "vr14", "img": "Estonia_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "Bollards **round, baton-like**: rectangular reflector front + **two circular reflectors** back (Latvia/Lithuania differ)", "src": ["plonkit"], "sv": null, "anchor": "N6Ec", "img": "Estonian_bollards.png", "type": "bollards" },
+  { "cat": "country", "text": "Least consistent Baltic poles: round wooden (metal cap) + square concrete; **trident poletops** somewhat common", "src": ["plonkit"], "sv": null, "anchor": "KNav", "img": "Trident.png", "type": "utility" },
+  { "cat": "country", "text": "Chevrons **red w/ white arrows** (like Russia/Ukraine; Latvia & Lithuania = the opposite)", "src": ["plonkit"], "sv": null, "anchor": "eXbS", "img": "Chevron.png", "type": "signs" },
+  { "cat": "country", "text": "Blue **km marker perpendicular to the road**, numbers on both sides (all Baltics share the marker; angle distinguishes them)", "src": ["plonkit"], "sv": null, "anchor": "YCqH", "img": "KM_sign_Estonia.png", "type": "signs" },
+  { "cat": "country", "text": "Signs = **thin red border running to the edge, no white outline**; A-type guardrails w/ no reflectors", "src": ["plonkit"], "sv": null, "anchor": "hkpv", "img": "Estonian_Signs.png", "type": "signs" },
+  { "cat": "country", "text": "Pedestrian sign **3 stripes, detailed person** (Lithuania 3 but less detailed; Latvia 5)", "src": ["plonkit"], "sv": null, "anchor": "Kvsf", "img": "Pedestrian_sign_Estonia.png", "type": "signs" },
+  { "cat": "country", "text": "**Estonian** (Finnic, ≈ Finnish): letters **Ä Ö Ü Õ**; street = tänav (tn) / tee; oval blue house numbers", "src": ["plonkit"], "sv": null, "anchor": "XXzb", "img": "Estonian_language.png", "type": "language" },
+  { "cat": "country", "text": "Bus-stop sign bus has **4 windows** (Latvia = 5; Lithuania same as EE); blue-and-white signpost wrappings common", "src": ["plonkit"], "sv": null, "anchor": "DexW", "img": "Bus_stop_sign.png", "type": "signs" },
+  { "cat": "country", "text": "Outer road lines sometimes **short dashes** (also Lithuania & Sweden); Gen3 often has a green-tinted **'green blur'**", "src": ["plonkit"], "sv": null, "anchor": "bdr3", "img": "Road_lines.png", "type": "markings" },
   { "cat": "region", "text": "Fairly flat (hilliest SE + S Lääne-Viru); large **Russian minority** → bilingual Cyrillic signs around **Narva / Ida-Viru** (NE); Tallinn old town = medieval", "src": ["plonkit"], "sv": null, "type": "language" }
  ]
 }

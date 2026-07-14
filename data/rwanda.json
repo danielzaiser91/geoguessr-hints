@@ -5,14 +5,14 @@
  "area_km2": 26338,
  "links": { "plonkit": "https://www.plonkit.net/rwanda", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Plates **long white front / yellow back**", "src": ["plonkit"], "sv": null, "img": "Rwanda_License_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "All Gen4; **pickup usually fully blurred** (white or brown w/ a brakelight); coverage has a noticeable **hazy** tint (also Senegal)", "src": ["plonkit"], "sv": null, "img": "Big_blur.png", "type": "cars" },
-  { "cat": "country", "text": "Architecture brick/concrete, single-family, steep roofs, fences — signature **ventilation bricks**", "src": ["plonkit"], "sv": null, "img": "Rwanda_Architecture.png", "type": "arch" },
-  { "cat": "country", "text": "Generally **hilly** (not very mountainous); soil has a noticeable **red tint**", "src": ["plonkit"], "sv": null, "img": "rw_hills.png", "type": "landscape" },
-  { "cat": "country", "text": "**Eucalyptus** + **banana** plants very common", "src": ["plonkit"], "sv": null, "img": "Eucalyptus.png", "type": "landscape" },
-  { "cat": "country", "text": "Red-and-white **cylindrical bollards** + white concrete waystones", "src": ["plonkit"], "sv": null, "img": "Rwandan_Bollards.png", "type": "bollards" },
-  { "cat": "country", "text": "Streets very **clean**; **black-and-white striped kerbs**; drives right; motorcyclists all wear **red vests & helmets**", "src": ["plonkit"], "sv": null, "img": "Clean_streets.png", "type": "general" },
-  { "cat": "region", "text": "Limited coverage (mainly **Kigali** + patches); street names carry a **2-letter district code**; national roads paint the road number on lampposts", "src": ["plonkit"], "sv": null, "img": "Rwanda_Waystones.png", "type": "naming" },
+  { "cat": "country", "text": "Plates **long white front / yellow back**", "src": ["plonkit"], "sv": null, "anchor": "6v8t", "img": "Rwanda_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "All Gen4; **pickup usually fully blurred** (white or brown w/ a brakelight); coverage has a noticeable **hazy** tint (also Senegal)", "src": ["plonkit"], "sv": null, "anchor": "kgGt", "img": "Big_blur.png", "type": "cars" },
+  { "cat": "country", "text": "Architecture brick/concrete, single-family, steep roofs, fences — signature **ventilation bricks**", "src": ["plonkit"], "sv": null, "anchor": "w8kf", "img": "Rwanda_Architecture.png", "type": "arch" },
+  { "cat": "country", "text": "Generally **hilly** (not very mountainous); soil has a noticeable **red tint**", "src": ["plonkit"], "sv": null, "anchor": "mjV9", "img": "rw_hills.png", "type": "landscape" },
+  { "cat": "country", "text": "**Eucalyptus** + **banana** plants very common", "src": ["plonkit"], "sv": null, "anchor": "UOlK", "img": "Eucalyptus.png", "type": "landscape" },
+  { "cat": "country", "text": "Red-and-white **cylindrical bollards** + white concrete waystones", "src": ["plonkit"], "sv": null, "anchor": "g5Yq", "img": "Rwandan_Bollards.png", "type": "bollards" },
+  { "cat": "country", "text": "Streets very **clean**; **black-and-white striped kerbs**; drives right; motorcyclists all wear **red vests & helmets**", "src": ["plonkit"], "sv": null, "anchor": "Hh5T", "img": "Clean_streets.png", "type": "general" },
+  { "cat": "region", "text": "Limited coverage (mainly **Kigali** + patches); street names carry a **2-letter district code**; national roads paint the road number on lampposts", "src": ["plonkit"], "sv": null, "anchor": "J31h", "img": "Rwanda_Waystones.png", "type": "naming" },
   { "cat": "region", "text": "Tea plantations in the west; **volcanoes + volcanic rock NW**; Akagera NP = dry-vegetated, wide reddish-brown unpaved roads", "src": ["plonkit"], "sv": null, "type": "landscape" }
  ]
 }

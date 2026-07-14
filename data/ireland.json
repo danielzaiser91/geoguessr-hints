@@ -5,19 +5,19 @@
  "area_km2": 70273,
  "links": { "plonkit": "https://www.plonkit.net/ireland", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Plate: long **white** (incl. back) + blue strip left — **white backplate** distinguishes from UK (yellow back)", "src": ["plonkit"], "sv": null, "img": "ireland_plate.png" },
-  { "cat": "country", "text": "**Yellow dashed outer road lines** — common in Ireland, ~never in UK (also NZ)", "src": ["plonkit", "geometas"], "src_url": "https://geometas.com/metas/countries/ireland/", "sv": null, "img": "Yellow_dashes.png" },
-  { "cat": "country", "text": "**Only European country with yellow diamond warning signs** (regulatory signs stay red/white)", "src": ["plonkit", "geometas"], "src_url": "https://geometas.com/metas/countries/ireland/", "sv": null, "img": "Diamond_road_sign.png" },
-  { "cat": "country", "text": "Signage **bilingual English + Irish** (Irish in italics)", "src": ["plonkit", "geometas"], "src_url": "https://geometas.com/metas/countries/ireland/", "sv": null, "img": "Bilingual_signs.png" },
-  { "cat": "country", "text": "Chevrons **yellow-on-black** (UK = white-on-black); yield says **\"YIELD\"** (UK = \"GIVE WAY\")", "src": ["plonkit"], "sv": null, "img": "Chevrons.png" },
-  { "cat": "country", "text": "Pole sticker: lightning bolt but **no man being zapped** (UK sticker has the man)", "src": ["plonkit"], "sv": null, "img": "Pole_warning_stickers.png" },
-  { "cat": "country", "text": "Green+white bollards; rural gates **rounded corners** (UK square; but N. Ireland also rounded)", "src": ["plonkit"], "sv": null, "img": "Bollards.png" },
-  { "cat": "country", "text": "\"Boreens\" — tiny rural roads with a **strip of grass down the middle**; drives on the left; smallcam", "src": ["plonkit"], "sv": null, "img": "Grassy_roads.png" },
-  { "cat": "country", "text": "Cream-white buildings w/ black roofs, sometimes grey corner stones", "src": ["plonkit"], "sv": null, "img": "ie_architecture.png" },
-  { "cat": "state", "text": "Regional roads = 3-digit; **first digit = region**, numbered **anti-clockwise from Dublin**", "src": ["plonkit"], "sv": null, "img": "Ireland-road-numbers2.png" },
-  { "cat": "state", "text": "Phone area codes grouped by first digit (learnable) → region", "src": ["plonkit"], "sv": null, "img": "ie_phonecodes.png" },
-  { "cat": "region", "text": "West coast = rugged hilly moorland, brownish/yellow grass, exposed rock (vs neat green fields of the east)", "src": ["plonkit"], "sv": null, "img": "Western_coastal_landscape.png" },
-  { "cat": "region", "text": "**EV Gen4 car** (grey back w/ black semicircle) covers most of the east & parts of NW", "src": ["plonkit"], "sv": null, "img": "Donegal_Gen_4_roads.png" },
-  { "cat": "special", "text": "Distinctive flat **tabletop mountains** → north Sligo / Leitrim; hilly tiny Gen4 roads → Donegal", "src": ["plonkit"], "sv": null, "img": "Tabletop_mountains.png" }
+  { "cat": "country", "text": "Plate: long **white** (incl. back) + blue strip left — **white backplate** distinguishes from UK (yellow back)", "src": ["plonkit"], "sv": null, "anchor": "rRE9", "img": "ireland_plate.png" },
+  { "cat": "country", "text": "**Yellow dashed outer road lines** — common in Ireland, ~never in UK (also NZ)", "src": ["plonkit", "geometas"], "src_url": "https://geometas.com/metas/countries/ireland/", "sv": null, "anchor": "5CWT", "img": "Yellow_dashes.png" },
+  { "cat": "country", "text": "**Only European country with yellow diamond warning signs** (regulatory signs stay red/white)", "src": ["plonkit", "geometas"], "src_url": "https://geometas.com/metas/countries/ireland/", "sv": null, "anchor": "Avrb", "img": "Diamond_road_sign.png" },
+  { "cat": "country", "text": "Signage **bilingual English + Irish** (Irish in italics)", "src": ["plonkit", "geometas"], "src_url": "https://geometas.com/metas/countries/ireland/", "sv": null, "anchor": "7jug", "img": "Bilingual_signs.png" },
+  { "cat": "country", "text": "Chevrons **yellow-on-black** (UK = white-on-black); yield says **\"YIELD\"** (UK = \"GIVE WAY\")", "src": ["plonkit"], "sv": null, "anchor": "q0Q1", "img": "Chevrons.png" },
+  { "cat": "country", "text": "Pole sticker: lightning bolt but **no man being zapped** (UK sticker has the man)", "src": ["plonkit"], "sv": null, "anchor": "liz2", "img": "Pole_warning_stickers.png" },
+  { "cat": "country", "text": "Green+white bollards; rural gates **rounded corners** (UK square; but N. Ireland also rounded)", "src": ["plonkit"], "sv": null, "anchor": "FO2a", "img": "Bollards.png" },
+  { "cat": "country", "text": "\"Boreens\" — tiny rural roads with a **strip of grass down the middle**; drives on the left; smallcam", "src": ["plonkit"], "sv": null, "anchor": "Gvq4", "img": "Grassy_roads.png" },
+  { "cat": "country", "text": "Cream-white buildings w/ black roofs, sometimes grey corner stones", "src": ["plonkit"], "sv": null, "anchor": "Iiqc", "img": "ie_architecture.png" },
+  { "cat": "state", "text": "Regional roads = 3-digit; **first digit = region**, numbered **anti-clockwise from Dublin**", "src": ["plonkit"], "sv": null, "anchor": "N93o", "img": "Ireland-road-numbers2.png" },
+  { "cat": "state", "text": "Phone area codes grouped by first digit (learnable) → region", "src": ["plonkit"], "sv": null, "anchor": "5rT8", "img": "ie_phonecodes.png" },
+  { "cat": "region", "text": "West coast = rugged hilly moorland, brownish/yellow grass, exposed rock (vs neat green fields of the east)", "src": ["plonkit"], "sv": null, "anchor": "2Zr0", "img": "Western_coastal_landscape.png" },
+  { "cat": "region", "text": "**EV Gen4 car** (grey back w/ black semicircle) covers most of the east & parts of NW", "src": ["plonkit"], "sv": null, "anchor": "wmsQ", "img": "Donegal_Gen_4_roads.png" },
+  { "cat": "special", "text": "Distinctive flat **tabletop mountains** → north Sligo / Leitrim; hilly tiny Gen4 roads → Donegal", "src": ["plonkit"], "sv": null, "anchor": "k4AI", "img": "Tabletop_mountains.png" }
  ]
 }

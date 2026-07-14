@@ -5,10 +5,10 @@
  "area_km2": 12189,
  "links": { "plonkit": "https://www.plonkit.net/vanuatu", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Pacific island nation NE of Brisbane; all coverage = **Gen3 trekker**", "src": ["plonkit"], "sv": null, "img": "vu_trekker.png", "type": "cars" },
-  { "cat": "country", "text": "Volcanic island → **dark volcanic soil**; tropical, much coverage in dense forest", "src": ["plonkit"], "sv": null, "img": "vu_tropical.png", "type": "landscape" },
-  { "cat": "region", "text": "Of 13 islands, only **Ambrym Island** has coverage (find the 'Port Vato' label, N of Port Vila); a unique volcano trekker is in the centre", "src": ["plonkit"], "sv": null, "img": "Volcano.png", "type": "general" },
-  { "cat": "region", "text": "E of the volcano: a plateau w/ dark brown soil, then jungle w/ ferns (man in a red cap), then a **black-sand beach** on the east coast", "src": ["plonkit"], "sv": null, "img": "Beach.png", "type": "general" },
-  { "cat": "region", "text": "**Endu Pahakol** = the only village w/ coverage — small **thatched huts** + dark soil", "src": ["plonkit"], "sv": null, "img": "Village.png", "type": "general" }
+  { "cat": "country", "text": "Pacific island nation NE of Brisbane; all coverage = **Gen3 trekker**", "src": ["plonkit"], "sv": null, "anchor": "Bssm", "img": "vu_trekker.png", "type": "cars" },
+  { "cat": "country", "text": "Volcanic island → **dark volcanic soil**; tropical, much coverage in dense forest", "src": ["plonkit"], "sv": null, "anchor": "2S4i", "img": "vu_tropical.png", "type": "landscape" },
+  { "cat": "region", "text": "Of 13 islands, only **Ambrym Island** has coverage (find the 'Port Vato' label, N of Port Vila); a unique volcano trekker is in the centre", "src": ["plonkit"], "sv": null, "anchor": "8ppR", "img": "Volcano.png", "type": "general" },
+  { "cat": "region", "text": "E of the volcano: a plateau w/ dark brown soil, then jungle w/ ferns (man in a red cap), then a **black-sand beach** on the east coast", "src": ["plonkit"], "sv": null, "anchor": "g0KZ", "img": "Beach.png", "type": "general" },
+  { "cat": "region", "text": "**Endu Pahakol** = the only village w/ coverage — small **thatched huts** + dark soil", "src": ["plonkit"], "sv": null, "anchor": "DTRR", "img": "Village.png", "type": "general" }
  ]
 }

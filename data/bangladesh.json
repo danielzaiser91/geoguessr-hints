@@ -5,15 +5,15 @@
  "area_km2": 148460,
  "links": { "plonkit": "https://www.plonkit.net/bangladesh", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Plates white, black, or **turquoise** (the turquoise plate is unique to Bangladesh)", "src": ["plonkit"], "sv": null, "img": "Bangladesh_License_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "**Bengali** script: continuous **line along the top** of words + many **triangular** letter shapes (vs Devanagari)", "src": ["plonkit"], "sv": null, "img": "bd_language.png", "type": "language" },
-  { "cat": "country", "text": "Gen3 cars: red-mirror-w/-bars, classic white, **striped white** (don't confuse w/ Cambodia); Gen4 black/white; shitcam exists", "src": ["plonkit"], "sv": null, "img": "gen4cars.png", "type": "cars" },
-  { "cat": "country", "text": "**Green auto-rickshaws** very common throughout the country", "src": ["plonkit"], "sv": null, "img": "Rickshaw.png", "type": "general" },
-  { "cat": "country", "text": "**Black-and-white striped signposts** (also LK/BT/IN/NP/MY)", "src": ["plonkit"], "sv": null, "img": "signpost.png", "type": "signs" },
-  { "cat": "country", "text": "**Red-and-white concrete bollards** nationwide (round or square form)", "src": ["plonkit"], "sv": null, "img": "bollard.png", "type": "bollards" },
-  { "cat": "country", "text": "Streets often **tree-lined** (white-painted trunk bottoms); water bodies + rice fields right beside roads", "src": ["plonkit"], "sv": null, "img": "treealleys.png", "type": "landscape" },
-  { "cat": "country", "text": "**Tin roofs** very common; Gen4 coverage often has a **smoky/hazy feel**", "src": ["plonkit"], "sv": null, "img": "Tin_roofs.png", "type": "arch" },
-  { "cat": "region", "text": "Roof east/west divide: **west = sheet-metal hip roofs**; **east (Sylhet) = metal roofs w/ a triangular 'window' below the ridge**", "src": ["plonkit"], "sv": null, "img": "western_roof.png", "type": "arch" },
+  { "cat": "country", "text": "Plates white, black, or **turquoise** (the turquoise plate is unique to Bangladesh)", "src": ["plonkit"], "sv": null, "anchor": "s4hQ", "img": "Bangladesh_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "**Bengali** script: continuous **line along the top** of words + many **triangular** letter shapes (vs Devanagari)", "src": ["plonkit"], "sv": null, "anchor": "eLme", "img": "bd_language.png", "type": "language" },
+  { "cat": "country", "text": "Gen3 cars: red-mirror-w/-bars, classic white, **striped white** (don't confuse w/ Cambodia); Gen4 black/white; shitcam exists", "src": ["plonkit"], "sv": null, "anchor": "cdPX", "img": "gen4cars.png", "type": "cars" },
+  { "cat": "country", "text": "**Green auto-rickshaws** very common throughout the country", "src": ["plonkit"], "sv": null, "anchor": "xulk", "img": "Rickshaw.png", "type": "general" },
+  { "cat": "country", "text": "**Black-and-white striped signposts** (also LK/BT/IN/NP/MY)", "src": ["plonkit"], "sv": null, "anchor": "kiNu", "img": "signpost.png", "type": "signs" },
+  { "cat": "country", "text": "**Red-and-white concrete bollards** nationwide (round or square form)", "src": ["plonkit"], "sv": null, "anchor": "iyC8", "img": "bollard.png", "type": "bollards" },
+  { "cat": "country", "text": "Streets often **tree-lined** (white-painted trunk bottoms); water bodies + rice fields right beside roads", "src": ["plonkit"], "sv": null, "anchor": "RhN6", "img": "treealleys.png", "type": "landscape" },
+  { "cat": "country", "text": "**Tin roofs** very common; Gen4 coverage often has a **smoky/hazy feel**", "src": ["plonkit"], "sv": null, "anchor": "DzsR", "img": "Tin_roofs.png", "type": "arch" },
+  { "cat": "region", "text": "Roof east/west divide: **west = sheet-metal hip roofs**; **east (Sylhet) = metal roofs w/ a triangular 'window' below the ridge**", "src": ["plonkit"], "sv": null, "anchor": "xIo2", "img": "western_roof.png", "type": "arch" },
   { "cat": "region", "text": "Mostly dead-flat; **rice** grown twice yearly (its growth stage/colour → region in Gen4); forested hills in E. Chittagong; tea → Sylhet highlands", "src": ["plonkit"], "sv": null, "type": "landscape" }
  ]
 }

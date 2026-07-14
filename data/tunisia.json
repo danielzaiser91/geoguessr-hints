@@ -5,15 +5,15 @@
  "area_km2": 163610,
  "links": { "plonkit": "https://www.plonkit.net/tunisia", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Plates **black w/ white text** (military plates have a small Tunisian flag on the left)", "src": ["plonkit"], "sv": null, "img": "Tunisia_License_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "A **follow car** escorts the Google car in most coverage (can be ahead or far behind — pan & zoom to find it)", "src": ["plonkit"], "sv": null, "img": "followcars.png", "type": "cars" },
-  { "cat": "country", "text": "Google car is **black with a medium-length thin antenna**", "src": ["plonkit"], "sv": null, "img": "googlecar.jpg", "type": "cars" },
-  { "cat": "country", "text": "**Olive-tree plantations** in neat rows on raked, weedless soil; road lines white (outer dashed or solid)", "src": ["plonkit"], "sv": null, "img": "oliveplantations.jpg", "type": "landscape" },
-  { "cat": "country", "text": "**French + Arabic** common — often bilingual signs; distinctive Latin font", "src": ["plonkit"], "sv": null, "img": "Tunisia_language_tips.png", "type": "language" },
-  { "cat": "country", "text": "Direction signs white bg, towns in Arabic + Latin (Tunis often listed even far away)", "src": ["plonkit"], "sv": null, "img": "directionalsigns.png", "type": "signs" },
-  { "cat": "country", "text": "Traditional **blue** doors/windows/gates (esp. on Djerba); red-and-white striped curbs (also Israel/Palestine)", "src": ["plonkit"], "sv": null, "img": "round.jpg", "type": "arch" },
-  { "cat": "country", "text": "White concrete **markers w/ a rounded red/yellow/green top** (distances + road number → pinpoint)", "src": ["plonkit"], "sv": null, "img": "marker2.jpg", "type": "signs" },
-  { "cat": "country", "text": "Fairly unique **stop sign** with Arabic + Latin (Jordan/UAE similar; Israel/Palestine use a hand)", "src": ["plonkit"], "sv": null, "img": "Tunisia_stop_sign.png", "type": "signs" },
-  { "cat": "region", "text": "Coverage mostly **east coast** (Bizerte→Medenine); **follow-car type = region** (light-green Toyota north, dark-green Mazda Hammamet→Djerba, Kairouan white Mitsubishi, **Djerba = no follow car**); N Mediterranean/hilly, centre flat/arid, S desert", "src": ["plonkit"], "sv": null, "img": "tn_coverage.png", "type": "naming" }
+  { "cat": "country", "text": "Plates **black w/ white text** (military plates have a small Tunisian flag on the left)", "src": ["plonkit"], "sv": null, "anchor": "1chu", "img": "Tunisia_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "A **follow car** escorts the Google car in most coverage (can be ahead or far behind — pan & zoom to find it)", "src": ["plonkit"], "sv": null, "anchor": "LVo2", "img": "followcars.png", "type": "cars" },
+  { "cat": "country", "text": "Google car is **black with a medium-length thin antenna**", "src": ["plonkit"], "sv": null, "anchor": "qWoW", "img": "googlecar.jpg", "type": "cars" },
+  { "cat": "country", "text": "**Olive-tree plantations** in neat rows on raked, weedless soil; road lines white (outer dashed or solid)", "src": ["plonkit"], "sv": null, "anchor": "RpiN", "img": "oliveplantations.jpg", "type": "landscape" },
+  { "cat": "country", "text": "**French + Arabic** common — often bilingual signs; distinctive Latin font", "src": ["plonkit"], "sv": null, "anchor": "64G4", "img": "Tunisia_language_tips.png", "type": "language" },
+  { "cat": "country", "text": "Direction signs white bg, towns in Arabic + Latin (Tunis often listed even far away)", "src": ["plonkit"], "sv": null, "anchor": "2bxW", "img": "directionalsigns.png", "type": "signs" },
+  { "cat": "country", "text": "Traditional **blue** doors/windows/gates (esp. on Djerba); red-and-white striped curbs (also Israel/Palestine)", "src": ["plonkit"], "sv": null, "anchor": "3AwV", "img": "round.jpg", "type": "arch" },
+  { "cat": "country", "text": "White concrete **markers w/ a rounded red/yellow/green top** (distances + road number → pinpoint)", "src": ["plonkit"], "sv": null, "anchor": "g0dg", "img": "marker2.jpg", "type": "signs" },
+  { "cat": "country", "text": "Fairly unique **stop sign** with Arabic + Latin (Jordan/UAE similar; Israel/Palestine use a hand)", "src": ["plonkit"], "sv": null, "anchor": "2b6O", "img": "Tunisia_stop_sign.png", "type": "signs" },
+  { "cat": "region", "text": "Coverage mostly **east coast** (Bizerte→Medenine); **follow-car type = region** (light-green Toyota north, dark-green Mazda Hammamet→Djerba, Kairouan white Mitsubishi, **Djerba = no follow car**); N Mediterranean/hilly, centre flat/arid, S desert", "src": ["plonkit"], "sv": null, "anchor": "V6UL", "img": "tn_coverage.png", "type": "naming" }
  ]
 }

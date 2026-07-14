@@ -5,17 +5,17 @@
  "area_km2": 1141748,
  "links": { "plonkit": "https://www.plonkit.net/colombia", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Plates typically **yellow** (in S. America almost exclusively Colombia)", "src": ["plonkit"], "sv": null, "img": "Colombia_License_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "Gen3 short thick **antenna on a black car** (unique — MX/EC/BR have the antenna but not on black); Gen4 white/silver car", "src": ["plonkit"], "sv": null, "img": "Copy_of_Copy_of_Copy_of_Copy_of_Untitled.png", "type": "cars" },
-  { "cat": "country", "text": "km markers: tall **green \"Pr\"** version + traditional stone marker (both unique to Colombia)", "src": ["plonkit"], "sv": null, "img": "kmmarker.png", "type": "naming" },
-  { "cat": "country", "text": "Concrete **dark-coloured poles** w/ black-and-yellow/orange stripe markings; octagonal poles possible (only CO/MX/EC in Americas)", "src": ["plonkit"], "sv": null, "img": "import.png", "type": "utility" },
-  { "cat": "country", "text": "**Wooden fences** very common; some painted with sharp-cut tops (almost unique to Colombia)", "src": ["plonkit"], "sv": null, "img": "woodenfence.png", "type": "general" },
-  { "cat": "country", "text": "**Taxis pastel yellow** with white plates, city name often printed on the side/roof (Ecuador's are more saturated w/ orange plates)", "src": ["plonkit"], "sv": null, "img": "Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Untitled.png", "type": "cars" },
-  { "cat": "region", "text": "Coverage mostly **north & west** + Caribbean islands San Andrés / Providencia", "src": ["plonkit"], "sv": null, "img": "co_verage.png", "type": "general" },
-  { "cat": "region", "text": "**North** = white sandy arid soil, cacti (La Guajira = extreme dryness, low vegetation)", "src": ["plonkit"], "sv": null, "img": "Landscape_-_Northern_Arid.png", "type": "landscape" },
-  { "cat": "region", "text": "**Llanos** (east of the Andes) = open tropical grasslands & savanna w/ scattered trees, seasonal flooding", "src": ["plonkit"], "sv": null, "img": "Landscape_-_Llanos_Lowland.png", "type": "landscape" },
-  { "cat": "state", "area": "Antioquia", "text": "Pole markings = short black strip top & bottom + longer **yellow middle** → Antioquia (sometimes Córdoba)", "src": ["plonkit"], "sv": null, "img": "Colombia_Antiqoia_pole_meta.png", "type": "utility" },
-  { "cat": "region", "text": "**Pacific coast** = majority Afro-Colombian; sugarcane along the Cauca river (Valle del Cauca)", "src": ["plonkit"], "sv": null, "img": "cauca_valley_sugarcane_3.png", "type": "landscape" },
-  { "cat": "special", "text": "**Barranquilla** intersections marked by concrete **mojones** (street-name posts); San Andrés = white car, Providencia = grey truck", "src": ["plonkit"], "sv": null, "img": "mojones.png", "type": "general" }
+  { "cat": "country", "text": "Plates typically **yellow** (in S. America almost exclusively Colombia)", "src": ["plonkit"], "sv": null, "anchor": "ay1W", "img": "Colombia_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "Gen3 short thick **antenna on a black car** (unique — MX/EC/BR have the antenna but not on black); Gen4 white/silver car", "src": ["plonkit"], "sv": null, "anchor": "JMPO", "img": "Copy_of_Copy_of_Copy_of_Copy_of_Untitled.png", "type": "cars" },
+  { "cat": "country", "text": "km markers: tall **green \"Pr\"** version + traditional stone marker (both unique to Colombia)", "src": ["plonkit"], "sv": null, "anchor": "45F4", "img": "kmmarker.png", "type": "naming" },
+  { "cat": "country", "text": "Concrete **dark-coloured poles** w/ black-and-yellow/orange stripe markings; octagonal poles possible (only CO/MX/EC in Americas)", "src": ["plonkit"], "sv": null, "anchor": "2901", "img": "import.png", "type": "utility" },
+  { "cat": "country", "text": "**Wooden fences** very common; some painted with sharp-cut tops (almost unique to Colombia)", "src": ["plonkit"], "sv": null, "anchor": "uYGd", "img": "woodenfence.png", "type": "general" },
+  { "cat": "country", "text": "**Taxis pastel yellow** with white plates, city name often printed on the side/roof (Ecuador's are more saturated w/ orange plates)", "src": ["plonkit"], "sv": null, "anchor": "OUrh", "img": "Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Untitled.png", "type": "cars" },
+  { "cat": "region", "text": "Coverage mostly **north & west** + Caribbean islands San Andrés / Providencia", "src": ["plonkit"], "sv": null, "anchor": "oKQt", "img": "co_verage.png", "type": "general" },
+  { "cat": "region", "text": "**North** = white sandy arid soil, cacti (La Guajira = extreme dryness, low vegetation)", "src": ["plonkit"], "sv": null, "anchor": "A1PS", "img": "Landscape_-_Northern_Arid.png", "type": "landscape" },
+  { "cat": "region", "text": "**Llanos** (east of the Andes) = open tropical grasslands & savanna w/ scattered trees, seasonal flooding", "src": ["plonkit"], "sv": null, "anchor": "mZY9", "img": "Landscape_-_Llanos_Lowland.png", "type": "landscape" },
+  { "cat": "state", "area": "Antioquia", "text": "Pole markings = short black strip top & bottom + longer **yellow middle** → Antioquia (sometimes Córdoba)", "src": ["plonkit"], "sv": null, "anchor": "fexW", "img": "Colombia_Antiqoia_pole_meta.png", "type": "utility" },
+  { "cat": "region", "text": "**Pacific coast** = majority Afro-Colombian; sugarcane along the Cauca river (Valle del Cauca)", "src": ["plonkit"], "sv": null, "anchor": "AsK1", "img": "cauca_valley_sugarcane_3.png", "type": "landscape" },
+  { "cat": "special", "text": "**Barranquilla** intersections marked by concrete **mojones** (street-name posts); San Andrés = white car, Providencia = grey truck", "src": ["plonkit"], "sv": null, "anchor": "kWTr", "img": "mojones.png", "type": "general" }
  ]
 }

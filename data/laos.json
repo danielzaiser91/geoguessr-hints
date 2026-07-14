@@ -5,14 +5,14 @@
  "area_km2": 236800,
  "links": { "plonkit": "https://www.plonkit.net/laos", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Coverage = only **5 cities** (Vientiane, Vang Vieng, Luang Prabang, Savannakhet, Pakse), all **Gen3**", "src": ["plonkit"], "sv": null, "img": "Laos_coverage.png", "type": "cars" },
-  { "cat": "country", "text": "Car = **silver, roof rack w/ two metal bars, black mirrors** (visible in all cities except Vientiane; Guatemala's is similar)", "src": ["plonkit"], "sv": null, "img": "Laos_car.png", "type": "cars" },
-  { "cat": "country", "text": "Drives **right** (Thailand left); plates short **yellow** (Thai/Cambodian non-commercial plates are white); commercial white, government blue", "src": ["plonkit"], "sv": null, "img": "Laos_License_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "**Lao script** — compact & curvy, with fewer straight lines than Thai", "src": ["plonkit"], "sv": null, "img": "la_language.png", "type": "language" },
-  { "cat": "country", "text": "Majority **Buddhist** (ornate gold-leaf temples); **stop signs have 2 characters** (Thailand's have 3)", "src": ["plonkit"], "sv": null, "img": "Laos_buddhism.png", "type": "general" },
-  { "cat": "country", "text": "**Striped curbs** in various colours (red / yellow / black with white)", "src": ["plonkit"], "sv": null, "img": "Laos_striped_curbs.png", "type": "markings" },
-  { "cat": "country", "text": "Square concrete poles with a **vertical row of pinholes** (also Thailand/Sri Lanka)", "src": ["plonkit"], "sv": null, "img": "laos_Pole_Graphic.png", "type": "utility" },
-  { "cat": "country", "text": "Square concrete **black-and-white bollards w/ black bands**; occasional red-white cuboid concrete bollard off the road", "src": ["plonkit"], "sv": null, "img": "Laos_bollards.png", "type": "bollards" },
-  { "cat": "region", "text": "Communist govt → **hammer-and-sickle flags**; cities differ: Luang Prabang (historical + hills + palms), Vang Vieng (rugged mountains), Savannakhet (very flat), Pakse (red soil, arid, hills)", "src": ["plonkit"], "sv": null, "img": "Laos_communist_flag.png", "type": "general" }
+  { "cat": "country", "text": "Coverage = only **5 cities** (Vientiane, Vang Vieng, Luang Prabang, Savannakhet, Pakse), all **Gen3**", "src": ["plonkit"], "sv": null, "anchor": "wMAB", "img": "Laos_coverage.png", "type": "cars" },
+  { "cat": "country", "text": "Car = **silver, roof rack w/ two metal bars, black mirrors** (visible in all cities except Vientiane; Guatemala's is similar)", "src": ["plonkit"], "sv": null, "anchor": "lqdo", "img": "Laos_car.png", "type": "cars" },
+  { "cat": "country", "text": "Drives **right** (Thailand left); plates short **yellow** (Thai/Cambodian non-commercial plates are white); commercial white, government blue", "src": ["plonkit"], "sv": null, "anchor": "N7h9", "img": "Laos_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "**Lao script** — compact & curvy, with fewer straight lines than Thai", "src": ["plonkit"], "sv": null, "anchor": "q4i1", "img": "la_language.png", "type": "language" },
+  { "cat": "country", "text": "Majority **Buddhist** (ornate gold-leaf temples); **stop signs have 2 characters** (Thailand's have 3)", "src": ["plonkit"], "sv": null, "anchor": "p67D", "img": "Laos_buddhism.png", "type": "general" },
+  { "cat": "country", "text": "**Striped curbs** in various colours (red / yellow / black with white)", "src": ["plonkit"], "sv": null, "anchor": "XxPH", "img": "Laos_striped_curbs.png", "type": "markings" },
+  { "cat": "country", "text": "Square concrete poles with a **vertical row of pinholes** (also Thailand/Sri Lanka)", "src": ["plonkit"], "sv": null, "anchor": "rwz1", "img": "laos_Pole_Graphic.png", "type": "utility" },
+  { "cat": "country", "text": "Square concrete **black-and-white bollards w/ black bands**; occasional red-white cuboid concrete bollard off the road", "src": ["plonkit"], "sv": null, "anchor": "VMbz", "img": "Laos_bollards.png", "type": "bollards" },
+  { "cat": "region", "text": "Communist govt → **hammer-and-sickle flags**; cities differ: Luang Prabang (historical + hills + palms), Vang Vieng (rugged mountains), Savannakhet (very flat), Pakse (red soil, arid, hills)", "src": ["plonkit"], "sv": null, "anchor": "sHs4", "img": "Laos_communist_flag.png", "type": "general" }
  ]
 }

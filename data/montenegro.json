@@ -5,12 +5,12 @@
  "area_km2": 13812,
  "links": { "plonkit": "https://www.plonkit.net/montenegro", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Plate = EU blue strip + the **coat of arms on a red circle** (visible through the blur; Albania's has no red circle)", "src": ["plonkit"], "sv": null, "img": "Montenegro_Licence_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "All Gen4 = smallcam; Gen3 = **long antenna + rifts inland**, **short antenna + no rifts on the coast**", "src": ["plonkit"], "sv": null, "img": "Smallcam.png", "type": "cars" },
-  { "cat": "country", "text": "Small & **mountainous**: inland lush green, coastal mountains = exposed light-coloured rock; roads only 1–2 lanes", "src": ["plonkit"], "sv": null, "img": "General_Landscape.png", "type": "landscape" },
-  { "cat": "country", "text": "Bollard white w/ **red front / white back reflector + a black top** (also found in Slovenia)", "src": ["plonkit"], "sv": null, "img": "Bollard.png", "type": "bollards" },
-  { "cat": "country", "text": "Chevrons **black-on-white or red-on-yellow** (Albania = white-on-black)", "src": ["plonkit"], "sv": null, "img": "Chevrons.png", "type": "signs" },
-  { "cat": "country", "text": "Guardrails often **rusted**; Montenegro is the only Balkan country where both **A- and B-type** guardrails are common", "src": ["plonkit"], "sv": null, "img": "Guardrail.png", "type": "utility" },
-  { "cat": "region", "text": "North = green farmland valleys; **Bay of Kotor** touristy w/ a steep rocky ridge; Podgorica = dry mountains + vineyards; **Durmitor NP** = grassy treeless high mountains", "src": ["plonkit"], "sv": null, "img": "Bay_of_Kotor.png", "type": "naming" }
+  { "cat": "country", "text": "Plate = EU blue strip + the **coat of arms on a red circle** (visible through the blur; Albania's has no red circle)", "src": ["plonkit"], "sv": null, "anchor": "y5eW", "img": "Montenegro_Licence_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "All Gen4 = smallcam; Gen3 = **long antenna + rifts inland**, **short antenna + no rifts on the coast**", "src": ["plonkit"], "sv": null, "anchor": "ioMs", "img": "Smallcam.png", "type": "cars" },
+  { "cat": "country", "text": "Small & **mountainous**: inland lush green, coastal mountains = exposed light-coloured rock; roads only 1–2 lanes", "src": ["plonkit"], "sv": null, "anchor": "9laJ", "img": "General_Landscape.png", "type": "landscape" },
+  { "cat": "country", "text": "Bollard white w/ **red front / white back reflector + a black top** (also found in Slovenia)", "src": ["plonkit"], "sv": null, "anchor": "MYa5", "img": "Bollard.png", "type": "bollards" },
+  { "cat": "country", "text": "Chevrons **black-on-white or red-on-yellow** (Albania = white-on-black)", "src": ["plonkit"], "sv": null, "anchor": "ESKL", "img": "Chevrons.png", "type": "signs" },
+  { "cat": "country", "text": "Guardrails often **rusted**; Montenegro is the only Balkan country where both **A- and B-type** guardrails are common", "src": ["plonkit"], "sv": null, "anchor": "31mF", "img": "Guardrail.png", "type": "utility" },
+  { "cat": "region", "text": "North = green farmland valleys; **Bay of Kotor** touristy w/ a steep rocky ridge; Podgorica = dry mountains + vineyards; **Durmitor NP** = grassy treeless high mountains", "src": ["plonkit"], "sv": null, "anchor": "arxV", "img": "Bay_of_Kotor.png", "type": "naming" }
  ]
 }

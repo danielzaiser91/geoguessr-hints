@@ -5,13 +5,13 @@
  "area_km2": 316,
  "links": { "plonkit": "https://www.plonkit.net/malta", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Drives on the **left** (Cyprus does too)", "src": ["plonkit"], "sv": null, "img": "mt_drivingside.png", "type": "cars" },
-  { "cat": "country", "text": "Plates have a blue strip left, but **short plates are very common** (unlike most of Europe)", "src": ["plonkit"], "sv": null, "img": "mt_licenceplate.png", "type": "plates" },
-  { "cat": "country", "text": "Landscape = slightly hilly **dry agricultural** fields, 1–2 lane roads, cacti & dry shrubs (Mediterranean)", "src": ["plonkit"], "sv": null, "img": "mt_landscape.png", "type": "landscape" },
-  { "cat": "country", "text": "**Limestone rock walls** everywhere — this alone is usually enough to know you're in Malta", "src": ["plonkit"], "sv": null, "img": "mt_rockwall.png", "type": "landscape" },
-  { "cat": "country", "text": "Low buildings, white-to-beige/limestone walls; traditional **covered balconies** (often brightly painted)", "src": ["plonkit"], "sv": null, "img": "mt_balconies.png", "type": "arch" },
-  { "cat": "country", "text": "Street = **\"triq\"** on almost every street sign", "src": ["plonkit"], "sv": null, "img": "mt_triq.png", "type": "naming" },
-  { "cat": "country", "text": "**Double yellow no-parking lines** (like UK/Ireland); bus stops common (often naming the location)", "src": ["plonkit"], "sv": null, "img": "mt_doubleyellowline.png", "type": "markings" },
-  { "cat": "country", "text": "**English** primary + **Maltese** (Latin w/ unique **Ċ Ġ Ħ Ż**); Gozo = stone barriers + bus routes all in the **300s**", "src": ["plonkit"], "sv": null, "img": "mt_language.png", "type": "language" }
+  { "cat": "country", "text": "Drives on the **left** (Cyprus does too)", "src": ["plonkit"], "sv": null, "anchor": "vABj", "img": "mt_drivingside.png", "type": "cars" },
+  { "cat": "country", "text": "Plates have a blue strip left, but **short plates are very common** (unlike most of Europe)", "src": ["plonkit"], "sv": null, "anchor": "0i5u", "img": "mt_licenceplate.png", "type": "plates" },
+  { "cat": "country", "text": "Landscape = slightly hilly **dry agricultural** fields, 1–2 lane roads, cacti & dry shrubs (Mediterranean)", "src": ["plonkit"], "sv": null, "anchor": "ZuPI", "img": "mt_landscape.png", "type": "landscape" },
+  { "cat": "country", "text": "**Limestone rock walls** everywhere — this alone is usually enough to know you're in Malta", "src": ["plonkit"], "sv": null, "anchor": "A85X", "img": "mt_rockwall.png", "type": "landscape" },
+  { "cat": "country", "text": "Low buildings, white-to-beige/limestone walls; traditional **covered balconies** (often brightly painted)", "src": ["plonkit"], "sv": null, "anchor": "xVAC", "img": "mt_balconies.png", "type": "arch" },
+  { "cat": "country", "text": "Street = **\"triq\"** on almost every street sign", "src": ["plonkit"], "sv": null, "anchor": "CkGF", "img": "mt_triq.png", "type": "naming" },
+  { "cat": "country", "text": "**Double yellow no-parking lines** (like UK/Ireland); bus stops common (often naming the location)", "src": ["plonkit"], "sv": null, "anchor": "S9ac", "img": "mt_doubleyellowline.png", "type": "markings" },
+  { "cat": "country", "text": "**English** primary + **Maltese** (Latin w/ unique **Ċ Ġ Ħ Ż**); Gozo = stone barriers + bus routes all in the **300s**", "src": ["plonkit"], "sv": null, "anchor": "XUts", "img": "mt_language.png", "type": "language" }
  ]
 }

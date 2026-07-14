@@ -5,11 +5,11 @@
  "area_km2": 54,
  "links": { "plonkit": "https://www.plonkit.net/bermuda", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "British overseas territory (counts as UK); drives on the **left**; black SV car w/ its front sides visible", "src": ["plonkit"], "sv": null, "img": "bm_googlecar.png", "type": "cars" },
-  { "cat": "country", "text": "Plates **all-white**, fairly long, black digits bunched in the **middle**", "src": ["plonkit"], "sv": null, "img": "bm_licenceplate.png", "type": "plates" },
-  { "cat": "country", "text": "Roads have a single **solid yellow centre line, no outer lines**; occasional white **zig-zag** markings", "src": ["plonkit"], "sv": null, "img": "bm_yellowroadline.png", "type": "markings" },
-  { "cat": "country", "text": "Single-family **stone houses in pastel colours w/ bright white roofs** (rainwater catchment)", "src": ["plonkit"], "sv": null, "img": "bm_architecture.png", "type": "arch" },
-  { "cat": "country", "text": "Dense small trees & bushes, lots of **palms**; you're never far from the distinctly **light-blue** ocean", "src": ["plonkit"], "sv": null, "img": "bm_bluewater.png", "type": "landscape" },
-  { "cat": "region", "text": "**Hamilton** = by far the largest town (dense multi-floor downtown); NW tip has big **unpainted grey-brick** buildings (dockyard)", "src": ["plonkit"], "sv": null, "img": "bm_downtownhamilton.png", "type": "general" }
+  { "cat": "country", "text": "British overseas territory (counts as UK); drives on the **left**; black SV car w/ its front sides visible", "src": ["plonkit"], "sv": null, "anchor": "iYFp", "img": "bm_googlecar.png", "type": "cars" },
+  { "cat": "country", "text": "Plates **all-white**, fairly long, black digits bunched in the **middle**", "src": ["plonkit"], "sv": null, "anchor": "Wp1S", "img": "bm_licenceplate.png", "type": "plates" },
+  { "cat": "country", "text": "Roads have a single **solid yellow centre line, no outer lines**; occasional white **zig-zag** markings", "src": ["plonkit"], "sv": null, "anchor": "pS17", "img": "bm_yellowroadline.png", "type": "markings" },
+  { "cat": "country", "text": "Single-family **stone houses in pastel colours w/ bright white roofs** (rainwater catchment)", "src": ["plonkit"], "sv": null, "anchor": "plHU", "img": "bm_architecture.png", "type": "arch" },
+  { "cat": "country", "text": "Dense small trees & bushes, lots of **palms**; you're never far from the distinctly **light-blue** ocean", "src": ["plonkit"], "sv": null, "anchor": "2FIK", "img": "bm_bluewater.png", "type": "landscape" },
+  { "cat": "region", "text": "**Hamilton** = by far the largest town (dense multi-floor downtown); NW tip has big **unpainted grey-brick** buildings (dockyard)", "src": ["plonkit"], "sv": null, "anchor": "1Tff", "img": "bm_downtownhamilton.png", "type": "general" }
  ]
 }

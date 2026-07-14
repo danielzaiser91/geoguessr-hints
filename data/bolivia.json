@@ -5,16 +5,16 @@
  "area_km2": 1098581,
  "links": { "plonkit": "https://www.plonkit.net/bolivia", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Plates **short, white w/ blue text** (blue hard to see → often looks plain white)", "src": ["plonkit"], "sv": null, "img": "1_licenceplate.png", "type": "plates" },
-  { "cat": "country", "text": "Only **Gen3**, a solid **white car, no antenna** (in Latin America also Peru & Chile)", "src": ["plonkit"], "sv": null, "img": "1_googlecar.png", "type": "cars" },
-  { "cat": "country", "text": "Buildings often **large red brick w/ an 'unfinished' look** (also common in parts of Peru)", "src": ["plonkit"], "sv": null, "img": "1_redbrick.png", "type": "arch" },
-  { "cat": "country", "text": "Middle lines yellow / white / **mixed**, outer always white (Chile never mixes; Peru often has outer-only roads)", "src": ["plonkit"], "sv": null, "img": "1_roadlines.png", "type": "markings" },
-  { "cat": "country", "text": "Concrete-slab + **cobblestone roads** (neat stone lines separating disorganised cobbles in between)", "src": ["plonkit"], "sv": null, "img": "1_cobblestoneroad.png", "type": "markings" },
-  { "cat": "country", "text": "**Bulky white square signposts** (Peru uses black-and-white 'zebra' signposts)", "src": ["plonkit"], "sv": null, "img": "1_signpost.png", "type": "signs" },
-  { "cat": "country", "text": "Guardrail markings with **yellow stripes on the outside** (Peru = inverse, black outside)", "src": ["plonkit"], "sv": null, "img": "1_guardrailmarking.png", "type": "utility" },
-  { "cat": "country", "text": "Poles inconsistent (round concrete w/ pinholes + wooden); **extremely curvy wooden poles** (east) are a great Bolivia clue", "src": ["plonkit"], "sv": null, "img": "1_scuffedpole.png", "type": "utility" },
-  { "cat": "country", "text": "km markers = **black top ('Km') / white bottom**, no road number (Argentina's have a road number)", "src": ["plonkit"], "sv": null, "img": "1_kmmarker.png", "type": "signs" },
-  { "cat": "country", "text": "Traditional dress (bowler hats, pollera skirts); **MAS/Evo** graffiti + party colours (black/white/blue); **Wiphala** flag; **Tigo** telecom (not in Peru)", "src": ["plonkit"], "sv": null, "img": "1_MASandEVO.png", "type": "general" },
+  { "cat": "country", "text": "Plates **short, white w/ blue text** (blue hard to see → often looks plain white)", "src": ["plonkit"], "sv": null, "anchor": "qrcc", "img": "1_licenceplate.png", "type": "plates" },
+  { "cat": "country", "text": "Only **Gen3**, a solid **white car, no antenna** (in Latin America also Peru & Chile)", "src": ["plonkit"], "sv": null, "anchor": "jgzQ", "img": "1_googlecar.png", "type": "cars" },
+  { "cat": "country", "text": "Buildings often **large red brick w/ an 'unfinished' look** (also common in parts of Peru)", "src": ["plonkit"], "sv": null, "anchor": "5Eqs", "img": "1_redbrick.png", "type": "arch" },
+  { "cat": "country", "text": "Middle lines yellow / white / **mixed**, outer always white (Chile never mixes; Peru often has outer-only roads)", "src": ["plonkit"], "sv": null, "anchor": "wFBZ", "img": "1_roadlines.png", "type": "markings" },
+  { "cat": "country", "text": "Concrete-slab + **cobblestone roads** (neat stone lines separating disorganised cobbles in between)", "src": ["plonkit"], "sv": null, "anchor": "rTJh", "img": "1_cobblestoneroad.png", "type": "markings" },
+  { "cat": "country", "text": "**Bulky white square signposts** (Peru uses black-and-white 'zebra' signposts)", "src": ["plonkit"], "sv": null, "anchor": "IcXQ", "img": "1_signpost.png", "type": "signs" },
+  { "cat": "country", "text": "Guardrail markings with **yellow stripes on the outside** (Peru = inverse, black outside)", "src": ["plonkit"], "sv": null, "anchor": "8kIo", "img": "1_guardrailmarking.png", "type": "utility" },
+  { "cat": "country", "text": "Poles inconsistent (round concrete w/ pinholes + wooden); **extremely curvy wooden poles** (east) are a great Bolivia clue", "src": ["plonkit"], "sv": null, "anchor": "qTVY", "img": "1_scuffedpole.png", "type": "utility" },
+  { "cat": "country", "text": "km markers = **black top ('Km') / white bottom**, no road number (Argentina's have a road number)", "src": ["plonkit"], "sv": null, "anchor": "D81j", "img": "1_kmmarker.png", "type": "signs" },
+  { "cat": "country", "text": "Traditional dress (bowler hats, pollera skirts); **MAS/Evo** graffiti + party colours (black/white/blue); **Wiphala** flag; **Tigo** telecom (not in Peru)", "src": ["plonkit"], "sv": null, "anchor": "dcL2", "img": "1_MASandEVO.png", "type": "general" },
   { "cat": "region", "text": "Coverage limited to central & central-west (6 cities: La Paz/El Alto, Cochabamba, Oruro, Sucre, Potosí, Santa Cruz); **Altiplano** plateau (tufted 'hedgehog' grass), lusher north / arider south; reddish soil", "src": ["plonkit"], "sv": null, "type": "landscape" }
  ]
 }

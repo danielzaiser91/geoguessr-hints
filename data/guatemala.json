@@ -5,14 +5,14 @@
  "area_km2": 108889,
  "links": { "plonkit": "https://www.plonkit.net/guatemala", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Short plates that show a **blue tinge or a hint of green on the left** through the blur", "src": ["plonkit"], "sv": null, "img": "gt_licenceplate.png", "type": "plates" },
-  { "cat": "country", "text": "**Grey car w/ a visible roof rack + side mirrors** on all car coverage (Laos similar; DR's car has black bar-stripes)", "src": ["plonkit"], "sv": null, "img": "gt_googlecar.png", "type": "cars" },
-  { "cat": "country", "text": "Tropical, mostly **rainforest**; pastel stone houses w/ **rusted sheet-metal roofs** + exposed white brick", "src": ["plonkit"], "sv": null, "img": "gt_architecture.png", "type": "arch" },
-  { "cat": "country", "text": "Roads: solid white outer + single yellow middle, **thinner than Mexico's**; stop sign says **\"ALTO\"** (like MX/PA/CR)", "src": ["plonkit"], "sv": null, "img": "gt_roadlines.png", "type": "markings" },
-  { "cat": "country", "text": "Utility poles very commonly painted **pink, green, or both**", "src": ["plonkit"], "sv": null, "img": "gt_polepaint.png", "type": "utility" },
-  { "cat": "region", "text": "**Green utility poles** → SE + far NE; white **pole plates** (top two characters = which road you're on)", "src": ["plonkit"], "sv": null, "img": "gt_greenpoles.png", "type": "utility" },
-  { "cat": "region", "text": "Middle of the country **mountainous**; south = flat & built-up; north = fairly flat / slightly rolling", "src": ["plonkit"], "sv": null, "img": "gt_topography.png", "type": "landscape" },
-  { "cat": "region", "text": "Oil-palm plantations SW + just north of the central mountains; **Lago de Atitlán** = big lake ringed by mountains & volcanoes", "src": ["plonkit"], "sv": null, "img": "gt_oilpalm.png", "type": "landscape" },
-  { "cat": "special", "text": "Phone: **2 = Guatemala City, 6 = Guatemala Dept**; **Tikal** Mayan-temple trekker (far north); 'electricista' stickers = Guatemala City", "src": ["plonkit"], "sv": null, "img": "gt_coverage.png", "type": "naming" }
+  { "cat": "country", "text": "Short plates that show a **blue tinge or a hint of green on the left** through the blur", "src": ["plonkit"], "sv": null, "anchor": "quLJ", "img": "gt_licenceplate.png", "type": "plates" },
+  { "cat": "country", "text": "**Grey car w/ a visible roof rack + side mirrors** on all car coverage (Laos similar; DR's car has black bar-stripes)", "src": ["plonkit"], "sv": null, "anchor": "gZYw", "img": "gt_googlecar.png", "type": "cars" },
+  { "cat": "country", "text": "Tropical, mostly **rainforest**; pastel stone houses w/ **rusted sheet-metal roofs** + exposed white brick", "src": ["plonkit"], "sv": null, "anchor": "PGLM", "img": "gt_architecture.png", "type": "arch" },
+  { "cat": "country", "text": "Roads: solid white outer + single yellow middle, **thinner than Mexico's**; stop sign says **\"ALTO\"** (like MX/PA/CR)", "src": ["plonkit"], "sv": null, "anchor": "PUP5", "img": "gt_roadlines.png", "type": "markings" },
+  { "cat": "country", "text": "Utility poles very commonly painted **pink, green, or both**", "src": ["plonkit"], "sv": null, "anchor": "kyzr", "img": "gt_polepaint.png", "type": "utility" },
+  { "cat": "region", "text": "**Green utility poles** → SE + far NE; white **pole plates** (top two characters = which road you're on)", "src": ["plonkit"], "sv": null, "anchor": "wuun", "img": "gt_greenpoles.png", "type": "utility" },
+  { "cat": "region", "text": "Middle of the country **mountainous**; south = flat & built-up; north = fairly flat / slightly rolling", "src": ["plonkit"], "sv": null, "anchor": "bviD", "img": "gt_topography.png", "type": "landscape" },
+  { "cat": "region", "text": "Oil-palm plantations SW + just north of the central mountains; **Lago de Atitlán** = big lake ringed by mountains & volcanoes", "src": ["plonkit"], "sv": null, "anchor": "urVz", "img": "gt_oilpalm.png", "type": "landscape" },
+  { "cat": "special", "text": "Phone: **2 = Guatemala City, 6 = Guatemala Dept**; **Tikal** Mayan-temple trekker (far north); 'electricista' stickers = Guatemala City", "src": ["plonkit"], "sv": null, "anchor": "UdGx", "img": "gt_coverage.png", "type": "naming" }
  ]
 }

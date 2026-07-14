@@ -5,18 +5,18 @@
  "area_km2": 357022,
  "links": { "plonkit": "https://www.plonkit.net/germany", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "All car coverage = **Gen4**; **bollard roughly every 50 m** (B&W, white/grey reflectors, orange at intersections)", "src": ["plonkit"], "sv": null, "img": "Germany_Bollard_v2.png" },
-  { "cat": "country", "text": "German: **Ä Ö Ü ß**; Luxembourg has near-identical bollards but **3 bolts** (Germany = 2)", "src": ["plonkit"], "sv": null, "img": "German.png" },
-  { "cat": "country", "text": "**Yellow town-entry signs** (black text, metal frame) = town / municipality / county", "src": ["plonkit"], "sv": null, "img": "German_town_entry_signs.png", "type": "signs" },
-  { "cat": "country", "text": "**\"Einbahnstraße\"** one-way sign = Germany (Austria = \"EINBAHN\"); yellow mailboxes", "src": ["plonkit"], "sv": null, "img": "de_einbahnstrasse.png", "type": "signs" },
-  { "cat": "country", "text": "km markers: **blue = Autobahn (A-road)**, white w/ black border = B/local; black/dark **sign backs** (also IT/RO/AL)", "src": ["plonkit"], "sv": null, "img": "German_Signback.png", "type": "signs" },
-  { "cat": "country", "text": "**Wind turbines** far more common than anywhere else in Europe; green windshield sticker (\"4\")", "src": ["plonkit"], "sv": null, "img": "Windmills_Hint.png", "type": "landscape" },
-  { "cat": "region", "text": "Elevation: NW very flat · centre hilly · **south = Alps** (Austrian border)", "src": ["plonkit"], "sv": null, "img": "Improved_Terrain_Map_of_Germany.png" },
-  { "super": true, "cat": "state", "text": "**Postal codes counter-clockwise: 0 = Saxony (E) → 9 = N. Bavaria**", "src": ["plonkit"], "sv": null, "img": "postleitzahlen_deutschland_cropped.png", "type": "naming" },
-  { "cat": "state", "text": "Place-name suffixes: **-ow / -itz = east** (Slavic); **-weiler / -ach = south**", "src": ["plonkit"], "sv": null, "img": "German_Suffixes_Map.png", "type": "naming" },
-  { "cat": "region", "text": "\"Commie blocks\" (socialist-era apartments) → former **East** Germany", "src": ["plonkit"], "sv": null, "img": "Commie_Blocks_Hint.png", "type": "arch" },
-  { "cat": "region", "text": "Brick houses → NW; thatched roofs + rock walls → Schleswig-Holstein / N. Frisian islands; vineyards → SW", "src": ["plonkit"], "sv": null, "img": "Brick_Houses_Hint.png", "type": "arch" },
-  { "cat": "state", "area": "Bavaria", "text": "White **3-section road markers** + round wooden bollards; black-disk bollard bases → all of eastern Germany", "src": ["plonkit"], "sv": null, "img": "Bavaria_Markers.png", "type": "bollards" },
-  { "cat": "state", "text": "Roadside post styles differ by state (rocky unpainted → Rhineland-Palatinate/Saxony; tall white → Saarland/Thuringia)", "src": ["plonkit"], "sv": null, "img": "Germany_Triangle_Posts_Map.png", "type": "utility" }
+  { "cat": "country", "text": "All car coverage = **Gen4**; **bollard roughly every 50 m** (B&W, white/grey reflectors, orange at intersections)", "src": ["plonkit"], "sv": null, "anchor": "LIr8", "img": "Germany_Bollard_v2.png" },
+  { "cat": "country", "text": "German: **Ä Ö Ü ß**; Luxembourg has near-identical bollards but **3 bolts** (Germany = 2)", "src": ["plonkit"], "sv": null, "anchor": "1NkZ", "img": "German.png" },
+  { "cat": "country", "text": "**Yellow town-entry signs** (black text, metal frame) = town / municipality / county", "src": ["plonkit"], "sv": null, "anchor": "iiZK", "img": "German_town_entry_signs.png", "type": "signs" },
+  { "cat": "country", "text": "**\"Einbahnstraße\"** one-way sign = Germany (Austria = \"EINBAHN\"); yellow mailboxes", "src": ["plonkit"], "sv": null, "anchor": "OO0W", "img": "de_einbahnstrasse.png", "type": "signs" },
+  { "cat": "country", "text": "km markers: **blue = Autobahn (A-road)**, white w/ black border = B/local; black/dark **sign backs** (also IT/RO/AL)", "src": ["plonkit"], "sv": null, "anchor": "2QHh", "img": "German_Signback.png", "type": "signs" },
+  { "cat": "country", "text": "**Wind turbines** far more common than anywhere else in Europe; green windshield sticker (\"4\")", "src": ["plonkit"], "sv": null, "anchor": "iPnK", "img": "Windmills_Hint.png", "type": "landscape" },
+  { "cat": "region", "text": "Elevation: NW very flat · centre hilly · **south = Alps** (Austrian border)", "src": ["plonkit"], "sv": null, "anchor": "KfVL", "img": "Improved_Terrain_Map_of_Germany.png" },
+  { "super": true, "cat": "state", "text": "**Postal codes counter-clockwise: 0 = Saxony (E) → 9 = N. Bavaria**", "src": ["plonkit"], "sv": null, "anchor": "0QTU", "img": "postleitzahlen_deutschland_cropped.png", "type": "naming" },
+  { "cat": "state", "text": "Place-name suffixes: **-ow / -itz = east** (Slavic); **-weiler / -ach = south**", "src": ["plonkit"], "sv": null, "anchor": "8CJo", "img": "German_Suffixes_Map.png", "type": "naming" },
+  { "cat": "region", "text": "\"Commie blocks\" (socialist-era apartments) → former **East** Germany", "src": ["plonkit"], "sv": null, "anchor": "o1vB", "img": "Commie_Blocks_Hint.png", "type": "arch" },
+  { "cat": "region", "text": "Brick houses → NW; thatched roofs + rock walls → Schleswig-Holstein / N. Frisian islands; vineyards → SW", "src": ["plonkit"], "sv": null, "anchor": "vfTH", "img": "Brick_Houses_Hint.png", "type": "arch" },
+  { "cat": "state", "area": "Bavaria", "text": "White **3-section road markers** + round wooden bollards; black-disk bollard bases → all of eastern Germany", "src": ["plonkit"], "sv": null, "anchor": "Lhfc", "img": "Bavaria_Markers.png", "type": "bollards" },
+  { "cat": "state", "text": "Roadside post styles differ by state (rocky unpainted → Rhineland-Palatinate/Saxony; tall white → Saarland/Thuringia)", "src": ["plonkit"], "sv": null, "anchor": "8xMd", "img": "Germany_Triangle_Posts_Map.png", "type": "utility" }
  ]
 }

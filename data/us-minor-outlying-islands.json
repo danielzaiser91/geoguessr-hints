@@ -5,10 +5,10 @@
  "area_km2": 34,
  "links": { "plonkit": "https://www.plonkit.net/us-minor-outlying-islands", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "US territory chain (counts as US); nearly all pinpointable coverage is the **Midway Atoll**, shot on a **Gen2** camera (find it just west of the 'North Pacific Ocean' map label)", "src": ["plonkit"], "sv": null, "img": "midway_gen2.png", "type": "cars" },
-  { "cat": "country", "text": "**Albatrosses on almost every Midway location** (and birds all over the chain) — the standout tell", "src": ["plonkit"], "sv": null, "img": "midway_albatrosses.png", "type": "general" },
-  { "cat": "region", "text": "Midway = two **runways** (nicely paved W–E on the south side; poorly paved N–S) + a small village on the east side", "src": ["plonkit"], "sv": null, "img": "midway_runways.png", "type": "general" },
-  { "cat": "region", "text": "Other islands = **Gen3 trekker**, low bushy vegetation, many birds (Lisianski = shore bushes ring; French Frigate Shoals = most birds; East Island = tiny, ocean all around)", "src": ["plonkit"], "sv": null, "img": "midway_otherislands.png", "type": "general" },
-  { "cat": "region", "text": "The western corner of the Midway runway is **one of the most common spots on the official GeoGuessr world map** — worth memorising", "src": ["plonkit"], "sv": null, "img": "midway_nicerunway.png", "type": "general" }
+  { "cat": "country", "text": "US territory chain (counts as US); nearly all pinpointable coverage is the **Midway Atoll**, shot on a **Gen2** camera (find it just west of the 'North Pacific Ocean' map label)", "src": ["plonkit"], "sv": null, "anchor": "72r4", "img": "midway_gen2.png", "type": "cars" },
+  { "cat": "country", "text": "**Albatrosses on almost every Midway location** (and birds all over the chain) — the standout tell", "src": ["plonkit"], "sv": null, "anchor": "RgPj", "img": "midway_albatrosses.png", "type": "general" },
+  { "cat": "region", "text": "Midway = two **runways** (nicely paved W–E on the south side; poorly paved N–S) + a small village on the east side", "src": ["plonkit"], "sv": null, "anchor": "ware", "img": "midway_runways.png", "type": "general" },
+  { "cat": "region", "text": "Other islands = **Gen3 trekker**, low bushy vegetation, many birds (Lisianski = shore bushes ring; French Frigate Shoals = most birds; East Island = tiny, ocean all around)", "src": ["plonkit"], "sv": null, "anchor": "9Msy", "img": "midway_otherislands.png", "type": "general" },
+  { "cat": "region", "text": "The western corner of the Midway runway is **one of the most common spots on the official GeoGuessr world map** — worth memorising", "src": ["plonkit"], "sv": null, "anchor": "9k4l", "img": "midway_nicerunway.png", "type": "general" }
  ]
 }

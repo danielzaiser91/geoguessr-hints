@@ -5,13 +5,13 @@
  "area_km2": 1106,
  "links": { "plonkit": "https://www.plonkit.net/hong-kong", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Chinese SAR (counts as China); plates **white front / yellow rear** (long or short); some cars carry an extra black mainland plate", "src": ["plonkit"], "sv": null, "img": "Hong_Kong_License_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "Drives on the **left** (Singapore too; Taiwan drives right)", "src": ["plonkit"], "sv": null, "img": "driving_side.png", "type": "cars" },
-  { "cat": "country", "text": "Dense city of skyscrapers & busy streets; **rural areas mountainous + subtropical green** (Singapore is very flat)", "src": ["plonkit"], "sv": null, "img": "urban_landscape.png", "type": "landscape" },
-  { "cat": "country", "text": "**Extremely tall apartment buildings** (taller than SG/Taiwan); wall-mounted **air conditioners** everywhere", "src": ["plonkit"], "sv": null, "img": "Tall_apartment_buildings.png", "type": "arch" },
-  { "cat": "country", "text": "**English + Traditional Chinese** bilingual signs (residents mainly speak Cantonese)", "src": ["plonkit"], "sv": null, "img": "bilingual.png", "type": "language" },
-  { "cat": "country", "text": "Grey cylindrical lamp posts (wide base, white sticker); **no striped kerbs** (unlike Singapore); grey pedestrian guardrails; rural = wooden poles only", "src": ["plonkit"], "sv": null, "img": "utility_poles.png", "type": "utility" },
-  { "cat": "country", "text": "**Yellow pedestrian crossings** (some yellow grids); white centre + white/yellow outer lines; roads often concrete", "src": ["plonkit"], "sv": null, "img": "yellow_road_markings.png", "type": "markings" },
+  { "cat": "country", "text": "Chinese SAR (counts as China); plates **white front / yellow rear** (long or short); some cars carry an extra black mainland plate", "src": ["plonkit"], "sv": null, "anchor": "ixNM", "img": "Hong_Kong_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "Drives on the **left** (Singapore too; Taiwan drives right)", "src": ["plonkit"], "sv": null, "anchor": "1TPi", "img": "driving_side.png", "type": "cars" },
+  { "cat": "country", "text": "Dense city of skyscrapers & busy streets; **rural areas mountainous + subtropical green** (Singapore is very flat)", "src": ["plonkit"], "sv": null, "anchor": "Mg72", "img": "urban_landscape.png", "type": "landscape" },
+  { "cat": "country", "text": "**Extremely tall apartment buildings** (taller than SG/Taiwan); wall-mounted **air conditioners** everywhere", "src": ["plonkit"], "sv": null, "anchor": "MfZN", "img": "Tall_apartment_buildings.png", "type": "arch" },
+  { "cat": "country", "text": "**English + Traditional Chinese** bilingual signs (residents mainly speak Cantonese)", "src": ["plonkit"], "sv": null, "anchor": "cYCy", "img": "bilingual.png", "type": "language" },
+  { "cat": "country", "text": "Grey cylindrical lamp posts (wide base, white sticker); **no striped kerbs** (unlike Singapore); grey pedestrian guardrails; rural = wooden poles only", "src": ["plonkit"], "sv": null, "anchor": "Bt5r", "img": "utility_poles.png", "type": "utility" },
+  { "cat": "country", "text": "**Yellow pedestrian crossings** (some yellow grids); white centre + white/yellow outer lines; roads often concrete", "src": ["plonkit"], "sv": null, "anchor": "Qc6r", "img": "yellow_road_markings.png", "type": "markings" },
   { "cat": "region", "text": "Taxi colour = region: **red** (HK Island/Kowloon), **green** (New Territories), **blue** (Lantau); double-decker buses; bright-orange sidewalk bins", "src": ["plonkit"], "sv": null, "type": "general" }
  ]
 }

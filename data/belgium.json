@@ -5,18 +5,18 @@
  "area_km2": 30528,
  "links": { "plonkit": "https://www.plonkit.net/belgium", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Plates use **red text** (recognisable even through the blur)", "src": ["plonkit"], "sv": null, "img": "Belgium_License_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "Bollards white w/ a **yellow rectangular reflector** (Denmark = red stripe on top); also a dark-brown bollard w/ two red stripes", "src": ["plonkit"], "sv": null, "img": "Belgium_Bollards.png", "type": "bollards" },
-  { "cat": "country", "text": "A-type guardrails w/ **yellow reflectors** (in Europe only ES/AD/BE)", "src": ["plonkit"], "sv": null, "img": "Ontwerp_zonder_titel_1.png", "type": "utility" },
-  { "cat": "country", "text": "Poles concrete, square, w/ **tiny holes** + small metal wrappings (oval-hole variant too)", "src": ["plonkit"], "sv": null, "img": "Belgium_Poles.png", "type": "utility" },
-  { "cat": "country", "text": "Directional signs blue/white; road signs often carry an **additional small blue sub-sign** (white in other countries)", "src": ["plonkit"], "sv": null, "img": "Blue_sign.png", "type": "signs" },
-  { "cat": "country", "text": "Pedestrian sign = **two dotted lines, man with a square head** (France/Netherlands use a 5-stripe zebra)", "src": ["plonkit"], "sv": null, "img": "Ontwerp_zonder_titel_13.png", "type": "signs" },
-  { "cat": "country", "text": "Chevrons **white w/ red arrow** (also NL, never France); km markers often **green** (sometimes red text)", "src": ["plonkit"], "sv": null, "img": "Ontwerp_zonder_titel_3.png", "type": "signs" },
-  { "cat": "country", "text": "Many rural roads are **concrete slabs** (like PH/TH; NL almost never); all-white lines + **bike lanes on both sides**", "src": ["plonkit"], "sv": null, "img": "concreteroad.png", "type": "markings" },
-  { "cat": "country", "text": "**Red brick houses** (north/west); stone, grey, more French-looking houses (south)", "src": ["plonkit"], "sv": null, "img": "redbrickarchitecutre.png", "type": "arch" },
-  { "cat": "country", "text": "Signposts (and sometimes sign backs) often **orange** — unique to Belgium; **gutters on both sides** of almost all roads", "src": ["plonkit"], "sv": null, "img": "Ontwerp_zonder_titel_6.png", "type": "utility" },
-  { "cat": "country", "text": "Bus stops = **yellow signposts** (yellow shelter roofs); small orange-diamond priority signs; red **H hydrant** signs", "src": ["plonkit"], "sv": null, "img": "Ontwerp_zonder_titel_12.png", "type": "signs" },
+  { "cat": "country", "text": "Plates use **red text** (recognisable even through the blur)", "src": ["plonkit"], "sv": null, "anchor": "AXSi", "img": "Belgium_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "Bollards white w/ a **yellow rectangular reflector** (Denmark = red stripe on top); also a dark-brown bollard w/ two red stripes", "src": ["plonkit"], "sv": null, "anchor": "LF07", "img": "Belgium_Bollards.png", "type": "bollards" },
+  { "cat": "country", "text": "A-type guardrails w/ **yellow reflectors** (in Europe only ES/AD/BE)", "src": ["plonkit"], "sv": null, "anchor": "aGFv", "img": "Ontwerp_zonder_titel_1.png", "type": "utility" },
+  { "cat": "country", "text": "Poles concrete, square, w/ **tiny holes** + small metal wrappings (oval-hole variant too)", "src": ["plonkit"], "sv": null, "anchor": "UD8T", "img": "Belgium_Poles.png", "type": "utility" },
+  { "cat": "country", "text": "Directional signs blue/white; road signs often carry an **additional small blue sub-sign** (white in other countries)", "src": ["plonkit"], "sv": null, "anchor": "ahrj", "img": "Blue_sign.png", "type": "signs" },
+  { "cat": "country", "text": "Pedestrian sign = **two dotted lines, man with a square head** (France/Netherlands use a 5-stripe zebra)", "src": ["plonkit"], "sv": null, "anchor": "IlY6", "img": "Ontwerp_zonder_titel_13.png", "type": "signs" },
+  { "cat": "country", "text": "Chevrons **white w/ red arrow** (also NL, never France); km markers often **green** (sometimes red text)", "src": ["plonkit"], "sv": null, "anchor": "73Bz", "img": "Ontwerp_zonder_titel_3.png", "type": "signs" },
+  { "cat": "country", "text": "Many rural roads are **concrete slabs** (like PH/TH; NL almost never); all-white lines + **bike lanes on both sides**", "src": ["plonkit"], "sv": null, "anchor": "ecIc", "img": "concreteroad.png", "type": "markings" },
+  { "cat": "country", "text": "**Red brick houses** (north/west); stone, grey, more French-looking houses (south)", "src": ["plonkit"], "sv": null, "anchor": "xzJZ", "img": "redbrickarchitecutre.png", "type": "arch" },
+  { "cat": "country", "text": "Signposts (and sometimes sign backs) often **orange** — unique to Belgium; **gutters on both sides** of almost all roads", "src": ["plonkit"], "sv": null, "anchor": "5jYM", "img": "Ontwerp_zonder_titel_6.png", "type": "utility" },
+  { "cat": "country", "text": "Bus stops = **yellow signposts** (yellow shelter roofs); small orange-diamond priority signs; red **H hydrant** signs", "src": ["plonkit"], "sv": null, "anchor": "npN9", "img": "Ontwerp_zonder_titel_12.png", "type": "signs" },
   { "cat": "country", "text": "**Most blurred houses after Germany**; rarely a red car w/ long antenna (far more common in Ukraine)", "src": ["plonkit"], "sv": null, "type": "cars" },
-  { "cat": "region", "text": "**3 languages**: Dutch/Flemish (N), French (S/Wallonia), German (Ostbelgien E); Brussels bilingual; Flanders warning signs = thick red, no white border (= Spain); **Ardennes** SE = steep forested hills", "src": ["plonkit"], "sv": null, "img": "southarchitecture.png", "type": "language" }
+  { "cat": "region", "text": "**3 languages**: Dutch/Flemish (N), French (S/Wallonia), German (Ostbelgien E); Brussels bilingual; Flanders warning signs = thick red, no white border (= Spain); **Ardennes** SE = steep forested hills", "src": ["plonkit"], "sv": null, "anchor": "Qz6K", "img": "southarchitecture.png", "type": "language" }
  ]
 }

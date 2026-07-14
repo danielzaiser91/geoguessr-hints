@@ -5,11 +5,11 @@
  "area_km2": 2511,
  "links": { "plonkit": "https://www.plonkit.net/reunion", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Overseas **department of France** (counts as France), east of Madagascar → French signs, bollards & poles", "src": ["plonkit"], "sv": null, "img": "General_Landscape.png", "type": "landscape" },
+  { "cat": "country", "text": "Overseas **department of France** (counts as France), east of Madagascar → French signs, bollards & poles", "src": ["plonkit"], "sv": null, "anchor": "Ccd5", "img": "General_Landscape.png", "type": "landscape" },
   { "cat": "country", "text": "SV car has visible **side mirrors, a roof rack, and black tape on the end of the rear-RIGHT bar** (Ghana's car has tape on the front-right bar)", "src": ["plonkit"], "sv": null, "type": "cars" },
   { "cat": "country", "text": "Mountainous **volcanic** island; roads hug the coast w/ lush green mountains close by; palms, ferns, pines higher up", "src": ["plonkit"], "sv": null, "img": "mafate-reunion-island-irt-frog-974-photographies.jpg", "type": "landscape" },
-  { "cat": "region", "text": "**Six bus-stop designs** — yellow is most common (island-wide); pink/orange/green/red/L-shaped narrow the region (see Plonk It infographic)", "src": ["plonkit"], "sv": null, "img": "Reunion_Bus_Stops.png", "type": "general" },
-  { "cat": "region", "text": "**Sugarcane** grows in the NE & SW; the SW is more built-up/populated", "src": ["plonkit"], "sv": null, "img": "Sugarcane.png", "type": "landscape" },
-  { "cat": "region", "text": "**Cilaos** = town inside a caldera (ring of mountains, overcast); **Route du Volcan** = Martian brown-red soil + white roadside stones; Saint-Paul = black bollards, Saint-Denis (capital) = green bollards w/ white balls", "src": ["plonkit"], "sv": null, "img": "Cilaos.png", "type": "general" }
+  { "cat": "region", "text": "**Six bus-stop designs** — yellow is most common (island-wide); pink/orange/green/red/L-shaped narrow the region (see Plonk It infographic)", "src": ["plonkit"], "sv": null, "anchor": "oFny", "img": "Reunion_Bus_Stops.png", "type": "general" },
+  { "cat": "region", "text": "**Sugarcane** grows in the NE & SW; the SW is more built-up/populated", "src": ["plonkit"], "sv": null, "anchor": "5wwx", "img": "Sugarcane.png", "type": "landscape" },
+  { "cat": "region", "text": "**Cilaos** = town inside a caldera (ring of mountains, overcast); **Route du Volcan** = Martian brown-red soil + white roadside stones; Saint-Paul = black bollards, Saint-Denis (capital) = green bollards w/ white balls", "src": ["plonkit"], "sv": null, "anchor": "m512", "img": "Cilaos.png", "type": "general" }
  ]
 }

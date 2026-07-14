@@ -5,13 +5,13 @@
  "area_km2": 89342,
  "links": { "plonkit": "https://www.plonkit.net/jordan", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "**Black car, no antenna, no red brake light** — the only Middle Eastern country covered by this car", "src": ["plonkit"], "sv": null, "img": "Untitled_design89.png", "type": "cars" },
-  { "cat": "country", "text": "Plates white (long or short); commercial/taxis have a **green strip on the left** (only Jordan in the ME; Israel = yellow plates)", "src": ["plonkit"], "sv": null, "img": "Jordan_License_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "**Arabic**; unlike the UAE, **little English** on commercial signs (a good UAE-vs-Jordan tell)", "src": ["plonkit"], "sv": null, "img": "arabic_language.png", "type": "language" },
-  { "cat": "country", "text": "Roads: **yellow outer, white middle** lines; chevrons **white w/ red arrows** (Israel = black w/ white arrows)", "src": ["plonkit"], "sv": null, "img": "roadlines.png", "type": "markings" },
-  { "cat": "country", "text": "Electricity poles: rounded concrete w/ a diagonal support or **three horizontal 'Y' tops**; thin metal poles w/ 3 vertical coils", "src": ["plonkit"], "sv": null, "img": "Untitled_design92.png", "type": "utility" },
-  { "cat": "country", "text": "Very **arid** — lots of lifeless desert; even the lushest parts look like arid Mediterranean", "src": ["plonkit"], "sv": null, "img": "jo_landscape.png", "type": "landscape" },
-  { "cat": "country", "text": "Buildings mostly **bright sandstone brick w/ flat roofs**; roads often warped/cracked (worse than Israel)", "src": ["plonkit"], "sv": null, "img": "jo_architecture.png", "type": "arch" },
-  { "cat": "region", "text": "Coverage only in the **far west** (Amman = big-city; ends N of Jerash; south reaches Aqaba); **Madaba = red soil**; highways 15/35/40/65/80 each distinct", "src": ["plonkit"], "sv": null, "img": "jo_coverage.png", "type": "naming" }
+  { "cat": "country", "text": "**Black car, no antenna, no red brake light** — the only Middle Eastern country covered by this car", "src": ["plonkit"], "sv": null, "anchor": "4E7V", "img": "Untitled_design89.png", "type": "cars" },
+  { "cat": "country", "text": "Plates white (long or short); commercial/taxis have a **green strip on the left** (only Jordan in the ME; Israel = yellow plates)", "src": ["plonkit"], "sv": null, "anchor": "xs0t", "img": "Jordan_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "**Arabic**; unlike the UAE, **little English** on commercial signs (a good UAE-vs-Jordan tell)", "src": ["plonkit"], "sv": null, "anchor": "pOx9", "img": "arabic_language.png", "type": "language" },
+  { "cat": "country", "text": "Roads: **yellow outer, white middle** lines; chevrons **white w/ red arrows** (Israel = black w/ white arrows)", "src": ["plonkit"], "sv": null, "anchor": "VLxu", "img": "roadlines.png", "type": "markings" },
+  { "cat": "country", "text": "Electricity poles: rounded concrete w/ a diagonal support or **three horizontal 'Y' tops**; thin metal poles w/ 3 vertical coils", "src": ["plonkit"], "sv": null, "anchor": "Ol57", "img": "Untitled_design92.png", "type": "utility" },
+  { "cat": "country", "text": "Very **arid** — lots of lifeless desert; even the lushest parts look like arid Mediterranean", "src": ["plonkit"], "sv": null, "anchor": "7uVv", "img": "jo_landscape.png", "type": "landscape" },
+  { "cat": "country", "text": "Buildings mostly **bright sandstone brick w/ flat roofs**; roads often warped/cracked (worse than Israel)", "src": ["plonkit"], "sv": null, "anchor": "VL43", "img": "jo_architecture.png", "type": "arch" },
+  { "cat": "region", "text": "Coverage only in the **far west** (Amman = big-city; ends N of Jerash; south reaches Aqaba); **Madaba = red soil**; highways 15/35/40/65/80 each distinct", "src": ["plonkit"], "sv": null, "anchor": "FniX", "img": "jo_coverage.png", "type": "naming" }
  ]
 }

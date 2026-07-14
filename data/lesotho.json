@@ -5,13 +5,13 @@
  "area_km2": 30355,
  "links": { "plonkit": "https://www.plonkit.net/lesotho", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "All Gen3, **white car no antenna** (also ZA/BW/Eswatini); BW & Eswatini only have Gen3, South Africa also has Gen2/Gen4", "src": ["plonkit"], "sv": null, "img": "Car_meta.png", "type": "cars" },
-  { "cat": "country", "text": "Characteristic **'Lesotho mountains'**: bare & treeless, **tabletop shapes**, recognizable horizontal rocky ridgelines", "src": ["plonkit"], "sv": null, "img": "Lesotho_mountains.png", "type": "landscape" },
-  { "cat": "country", "text": "Plates **long white w/ blue text** (Mokorotlo hat symbol on the left)", "src": ["plonkit"], "sv": null, "img": "Lesotho_License_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "Road lines **yellow outer / white inner**; unique **triple middle lines** (2 solid + dashed between — only in the 5 Southern African countries)", "src": ["plonkit"], "sv": null, "img": "Triple_road_lines.png", "type": "markings" },
-  { "cat": "country", "text": "Drives **left**; traditional **round thatched huts** common in rural areas", "src": ["plonkit"], "sv": null, "img": "Traditional_huts2.png", "type": "arch" },
-  { "cat": "country", "text": "**Agave** plants common; grasslands are **short grass** (Eswatini famously has tall grass)", "src": ["plonkit"], "sv": null, "img": "Agave.png", "type": "landscape" },
-  { "cat": "country", "text": "Traditional clothing — many people wear a **Basotho woollen blanket**; lots of free-roaming **livestock** on roads", "src": ["plonkit"], "sv": null, "img": "Traditional_clothing.png", "type": "general" },
-  { "cat": "region", "text": "Coverage sparse (all urban coverage in the NW); **flat** region (tabletops far off) vs **mountainous** (road hugs the mountainside; only ~6 main roads covered)", "src": ["plonkit"], "sv": null, "img": "ls_coverage.png", "type": "naming" }
+  { "cat": "country", "text": "All Gen3, **white car no antenna** (also ZA/BW/Eswatini); BW & Eswatini only have Gen3, South Africa also has Gen2/Gen4", "src": ["plonkit"], "sv": null, "anchor": "TZam", "img": "Car_meta.png", "type": "cars" },
+  { "cat": "country", "text": "Characteristic **'Lesotho mountains'**: bare & treeless, **tabletop shapes**, recognizable horizontal rocky ridgelines", "src": ["plonkit"], "sv": null, "anchor": "kxM2", "img": "Lesotho_mountains.png", "type": "landscape" },
+  { "cat": "country", "text": "Plates **long white w/ blue text** (Mokorotlo hat symbol on the left)", "src": ["plonkit"], "sv": null, "anchor": "JzJz", "img": "Lesotho_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "Road lines **yellow outer / white inner**; unique **triple middle lines** (2 solid + dashed between — only in the 5 Southern African countries)", "src": ["plonkit"], "sv": null, "anchor": "0ojD", "img": "Triple_road_lines.png", "type": "markings" },
+  { "cat": "country", "text": "Drives **left**; traditional **round thatched huts** common in rural areas", "src": ["plonkit"], "sv": null, "anchor": "mefQ", "img": "Traditional_huts2.png", "type": "arch" },
+  { "cat": "country", "text": "**Agave** plants common; grasslands are **short grass** (Eswatini famously has tall grass)", "src": ["plonkit"], "sv": null, "anchor": "njvL", "img": "Agave.png", "type": "landscape" },
+  { "cat": "country", "text": "Traditional clothing — many people wear a **Basotho woollen blanket**; lots of free-roaming **livestock** on roads", "src": ["plonkit"], "sv": null, "anchor": "fu9e", "img": "Traditional_clothing.png", "type": "general" },
+  { "cat": "region", "text": "Coverage sparse (all urban coverage in the NW); **flat** region (tabletops far off) vs **mountainous** (road hugs the mountainside; only ~6 main roads covered)", "src": ["plonkit"], "sv": null, "anchor": "7YgM", "img": "ls_coverage.png", "type": "naming" }
  ]
 }

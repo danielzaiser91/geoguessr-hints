@@ -5,15 +5,15 @@
  "area_km2": 64589,
  "links": { "plonkit": "https://www.plonkit.net/latvia", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Plate long white + standard EU blue strip left", "src": ["plonkit"], "sv": null, "img": "Latvia_License_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "Bollards **thin, slightly curved**: rectangular reflector front + two circular back, **angled black strip**, often numbers below (EE/LT differ)", "src": ["plonkit"], "sv": null, "img": "Bollard.png", "type": "bollards" },
-  { "cat": "country", "text": "Poletops with **hook-shaped insulators alternating left-right-left** (much rarer in the other Baltics)", "src": ["plonkit"], "sv": null, "img": "Poletop.png", "type": "utility" },
-  { "cat": "country", "text": "Chevrons **white w/ red arrows** (like Lithuania/Poland; Estonia/Russia/Ukraine = opposite)", "src": ["plonkit"], "sv": null, "img": "Chevron.png", "type": "signs" },
-  { "cat": "country", "text": "Blue km marker **parallel to the road**, number on one side only (Estonia perpendicular, Lithuania 45°)", "src": ["plonkit"], "sv": null, "img": "KM_sign.png", "type": "signs" },
-  { "cat": "country", "text": "Signs = **thick red border + thin white outline**; A-type guardrails w/ white or red reflectors", "src": ["plonkit"], "sv": null, "img": "Latvian_Signs.png", "type": "signs" },
-  { "cat": "country", "text": "Pedestrian sign **5 stripes, noticeably long legs** — unique in the Baltics (Estonia & Lithuania = 3 stripes)", "src": ["plonkit"], "sv": null, "img": "Pedestrian_sign.png", "type": "signs" },
-  { "cat": "country", "text": "Bus-stop sign bus has **5 windows** (Estonia & Lithuania = 4)", "src": ["plonkit"], "sv": null, "img": "Bus_stop_sign.png", "type": "signs" },
-  { "cat": "country", "text": "**Latvian** (Baltic): macron vowels **Ā Ē Ī**, hook consonants **Ģ Ķ Ļ Ņ**; street = **iela**; tall-rectangle house numbers", "src": ["plonkit"], "sv": null, "img": "Latvian_language.png", "type": "language" },
-  { "cat": "country", "text": "Architecture wood + white brick w/ steep corrugated metal roofs; **Riga** downtown = art-nouveau (Vienna-like); red & black Gen4 cars", "src": ["plonkit"], "sv": null, "img": "Latvia_architecture.png", "type": "arch" }
+  { "cat": "country", "text": "Plate long white + standard EU blue strip left", "src": ["plonkit"], "sv": null, "anchor": "ZHtQ", "img": "Latvia_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "Bollards **thin, slightly curved**: rectangular reflector front + two circular back, **angled black strip**, often numbers below (EE/LT differ)", "src": ["plonkit"], "sv": null, "anchor": "uPlz", "img": "Bollard.png", "type": "bollards" },
+  { "cat": "country", "text": "Poletops with **hook-shaped insulators alternating left-right-left** (much rarer in the other Baltics)", "src": ["plonkit"], "sv": null, "anchor": "Ligx", "img": "Poletop.png", "type": "utility" },
+  { "cat": "country", "text": "Chevrons **white w/ red arrows** (like Lithuania/Poland; Estonia/Russia/Ukraine = opposite)", "src": ["plonkit"], "sv": null, "anchor": "xypN", "img": "Chevron.png", "type": "signs" },
+  { "cat": "country", "text": "Blue km marker **parallel to the road**, number on one side only (Estonia perpendicular, Lithuania 45°)", "src": ["plonkit"], "sv": null, "anchor": "CK38", "img": "KM_sign.png", "type": "signs" },
+  { "cat": "country", "text": "Signs = **thick red border + thin white outline**; A-type guardrails w/ white or red reflectors", "src": ["plonkit"], "sv": null, "anchor": "15Re", "img": "Latvian_Signs.png", "type": "signs" },
+  { "cat": "country", "text": "Pedestrian sign **5 stripes, noticeably long legs** — unique in the Baltics (Estonia & Lithuania = 3 stripes)", "src": ["plonkit"], "sv": null, "anchor": "xps4", "img": "Pedestrian_sign.png", "type": "signs" },
+  { "cat": "country", "text": "Bus-stop sign bus has **5 windows** (Estonia & Lithuania = 4)", "src": ["plonkit"], "sv": null, "anchor": "RplU", "img": "Bus_stop_sign.png", "type": "signs" },
+  { "cat": "country", "text": "**Latvian** (Baltic): macron vowels **Ā Ē Ī**, hook consonants **Ģ Ķ Ļ Ņ**; street = **iela**; tall-rectangle house numbers", "src": ["plonkit"], "sv": null, "anchor": "q1yp", "img": "Latvian_language.png", "type": "language" },
+  { "cat": "country", "text": "Architecture wood + white brick w/ steep corrugated metal roofs; **Riga** downtown = art-nouveau (Vienna-like); red & black Gen4 cars", "src": ["plonkit"], "sv": null, "anchor": "k1bL", "img": "Latvia_architecture.png", "type": "arch" }
  ]
 }

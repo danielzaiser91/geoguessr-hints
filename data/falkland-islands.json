@@ -6,8 +6,8 @@
  "links": { "plonkit": "https://www.plonkit.net/falkland-islands", "geoguessr": null },
  "hints": [
   { "cat": "country", "text": "British Overseas Territory east of Argentina's Tierra del Fuego (counts as UK); only a few **Gen3 trekkers** on 3 western islands (Carcass, West Point, New Island) — memorise them", "src": ["plonkit"], "sv": null, "type": "general" },
-  { "cat": "region", "text": "**Carcass Island** trekker: open plains, ocean clearly visible, ground can get rocky (don't confuse w/ the Faroe Islands trekker)", "src": ["plonkit"], "sv": null, "img": "Falklands_Carcass_Island.png", "type": "general" },
-  { "cat": "region", "text": "**West Point Island**: open plains w/ slightly yellow grass, ocean not clearly visible; a boat trekker in West Point Bay shows the MS National Geographic Explorer", "src": ["plonkit"], "sv": null, "img": "Falklands_West_Point_Island.png", "type": "general" },
-  { "cat": "region", "text": "**New Island**: sandy beach w/ people in red & blue jackets; inland = dark brown soil + tyre tracks; distinct steep cliffs", "src": ["plonkit"], "sv": null, "img": "Falklands_New_Island_Cliffs.png", "type": "general" }
+  { "cat": "region", "text": "**Carcass Island** trekker: open plains, ocean clearly visible, ground can get rocky (don't confuse w/ the Faroe Islands trekker)", "src": ["plonkit"], "sv": null, "anchor": "YLmC", "img": "Falklands_Carcass_Island.png", "type": "general" },
+  { "cat": "region", "text": "**West Point Island**: open plains w/ slightly yellow grass, ocean not clearly visible; a boat trekker in West Point Bay shows the MS National Geographic Explorer", "src": ["plonkit"], "sv": null, "anchor": "2ull", "img": "Falklands_West_Point_Island.png", "type": "general" },
+  { "cat": "region", "text": "**New Island**: sandy beach w/ people in red & blue jackets; inland = dark brown soil + tyre tracks; distinct steep cliffs", "src": ["plonkit"], "sv": null, "anchor": "CKJ1", "img": "Falklands_New_Island_Cliffs.png", "type": "general" }
  ]
 }

@@ -5,14 +5,14 @@
  "area_km2": 28748,
  "links": { "plonkit": "https://www.plonkit.net/albania", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Plates: blue strips both sides OR a **single red strip on the left** — the only European country with red on the left (Italy = blue both but shorter front)", "src": ["plonkit"], "sv": null, "img": "albania_plate.png", "type": "plates" },
-  { "cat": "country", "text": "All Gen4 = **smallcam**; Gen3 often has **rifts** (poor stitching; equally common in Montenegro)", "src": ["plonkit"], "sv": null, "img": "Smallcam.png", "type": "cars" },
-  { "cat": "country", "text": "Bollards = **black top, red+grey reflector, white bottom** (Italy uses the same)", "src": ["plonkit"], "sv": null, "img": "Bollards.png", "type": "bollards" },
-  { "cat": "country", "text": "Poletops with an **upside-down triangle** shape (also RS/CZ/SK/RO) + simpler horizontal-bar poles", "src": ["plonkit"], "sv": null, "img": "Upside_triangle_pole_top.png", "type": "utility" },
-  { "cat": "country", "text": "Chevrons **white on black** (Italy/Greece/Spain; Montenegro's differ); sign backs often painted black", "src": ["plonkit"], "sv": null, "img": "Chevron.png", "type": "signs" },
-  { "cat": "country", "text": "Distinct **S-shape on stop signs** (short, angled ends — like Italy); bold speed-sign font (Montenegro's is thinner)", "src": ["plonkit"], "sv": null, "img": "al_stopsignss.png", "type": "signs" },
-  { "cat": "country", "text": "**Albanian** language: letters **Ë ë** (& Ç ç); street = **rruga**", "src": ["plonkit"], "sv": null, "img": "Albanian.png", "type": "language" },
-  { "cat": "country", "text": "Mountainous & Mediterranean; **exposed red soil** roadside; **rooftop cylinder water tanks**; Italian-style pastel buildings; **Mercedes** everywhere", "src": ["plonkit"], "sv": null, "img": "Landscape.png", "type": "landscape" },
+  { "cat": "country", "text": "Plates: blue strips both sides OR a **single red strip on the left** — the only European country with red on the left (Italy = blue both but shorter front)", "src": ["plonkit"], "sv": null, "anchor": "nK4e", "img": "albania_plate.png", "type": "plates" },
+  { "cat": "country", "text": "All Gen4 = **smallcam**; Gen3 often has **rifts** (poor stitching; equally common in Montenegro)", "src": ["plonkit"], "sv": null, "anchor": "i4Ky", "img": "Smallcam.png", "type": "cars" },
+  { "cat": "country", "text": "Bollards = **black top, red+grey reflector, white bottom** (Italy uses the same)", "src": ["plonkit"], "sv": null, "anchor": "z0A7", "img": "Bollards.png", "type": "bollards" },
+  { "cat": "country", "text": "Poletops with an **upside-down triangle** shape (also RS/CZ/SK/RO) + simpler horizontal-bar poles", "src": ["plonkit"], "sv": null, "anchor": "vH1O", "img": "Upside_triangle_pole_top.png", "type": "utility" },
+  { "cat": "country", "text": "Chevrons **white on black** (Italy/Greece/Spain; Montenegro's differ); sign backs often painted black", "src": ["plonkit"], "sv": null, "anchor": "83ib", "img": "Chevron.png", "type": "signs" },
+  { "cat": "country", "text": "Distinct **S-shape on stop signs** (short, angled ends — like Italy); bold speed-sign font (Montenegro's is thinner)", "src": ["plonkit"], "sv": null, "anchor": "QA4i", "img": "al_stopsignss.png", "type": "signs" },
+  { "cat": "country", "text": "**Albanian** language: letters **Ë ë** (& Ç ç); street = **rruga**", "src": ["plonkit"], "sv": null, "anchor": "92gY", "img": "Albanian.png", "type": "language" },
+  { "cat": "country", "text": "Mountainous & Mediterranean; **exposed red soil** roadside; **rooftop cylinder water tanks**; Italian-style pastel buildings; **Mercedes** everywhere", "src": ["plonkit"], "sv": null, "anchor": "imi2", "img": "Landscape.png", "type": "landscape" },
   { "cat": "region", "text": "Gen3 = long-antenna + rifts, or short-antenna + no rifts; lowlands in the west (Tirana/Shkodër/Vlorë) + the flat Korçë plateau SE; highest mountains far north & south", "src": ["plonkit"], "sv": null, "type": "cars" }
  ]
 }

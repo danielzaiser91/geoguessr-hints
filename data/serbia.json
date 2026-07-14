@@ -5,15 +5,15 @@
  "area_km2": 88361,
  "links": { "plonkit": "https://www.plonkit.net/serbia", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Bollards: most have an **off-centred reflector** and are flat (no depth)", "src": ["plonkit"], "sv": null, "img": "bollard.png", "type": "bollards" },
-  { "cat": "country", "text": "**B-Profile guardrails** used exclusively (North Macedonia does not use them)", "src": ["plonkit"], "sv": null, "img": "Screenshot_2023-07-01_160357.png", "type": "utility" },
-  { "cat": "country", "text": "Chevrons = **black arrow on white** (also Slovenia/Montenegro/N. Macedonia)", "src": ["plonkit"], "sv": null, "img": "Screenshot_2023-07-01_160306.png", "type": "signs" },
-  { "cat": "country", "text": "Plate white + blue strip left; **agricultural plates green** (Croatia/N. Macedonia usually have no strip)", "src": ["plonkit"], "sv": null, "img": "Serbia_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "**Serbian** uses both Cyrillic & Latin; unique **Ђ Ћ**; in Latin: Č Ć Đ Š Ž", "src": ["plonkit"], "sv": null, "img": "rs_cyrillic_fixed.png", "type": "language" },
-  { "cat": "country", "text": "4 different **truck colours** by area; smallcam; Gen3 mostly **no antenna** (rare for central/E. Europe)", "src": ["plonkit"], "sv": null, "img": "Truck Serbia.png", "type": "cars" },
-  { "cat": "region", "text": "Coverage mostly **Vojvodina (north)**, around **Belgrade**, and **Niš (SE)**; Kosovo has none", "src": ["plonkit"], "sv": null, "img": "Serbia_Coverage_Map_.png", "type": "general" },
-  { "cat": "state", "text": "2-digit area codes (first digit 1–3): **2 = north, 1 = central/east, 3 = SW**", "src": ["plonkit"], "sv": null, "img": "area_codes_colourized.png", "type": "naming" },
-  { "cat": "region", "text": "**Vojvodina** (north) = extremely flat farmland (Fruška Gora ridge is the exception); rolling hills centre; mountains SW/SE (Dinaric/Balkan)", "src": ["plonkit"], "sv": null, "img": "vojvodina.png", "type": "landscape" },
+  { "cat": "country", "text": "Bollards: most have an **off-centred reflector** and are flat (no depth)", "src": ["plonkit"], "sv": null, "anchor": "qGEx", "img": "bollard.png", "type": "bollards" },
+  { "cat": "country", "text": "**B-Profile guardrails** used exclusively (North Macedonia does not use them)", "src": ["plonkit"], "sv": null, "anchor": "WqwF", "img": "Screenshot_2023-07-01_160357.png", "type": "utility" },
+  { "cat": "country", "text": "Chevrons = **black arrow on white** (also Slovenia/Montenegro/N. Macedonia)", "src": ["plonkit"], "sv": null, "anchor": "VSVy", "img": "Screenshot_2023-07-01_160306.png", "type": "signs" },
+  { "cat": "country", "text": "Plate white + blue strip left; **agricultural plates green** (Croatia/N. Macedonia usually have no strip)", "src": ["plonkit"], "sv": null, "anchor": "eWgo", "img": "Serbia_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "**Serbian** uses both Cyrillic & Latin; unique **Ђ Ћ**; in Latin: Č Ć Đ Š Ž", "src": ["plonkit"], "sv": null, "anchor": "6jty", "img": "rs_cyrillic_fixed.png", "type": "language" },
+  { "cat": "country", "text": "4 different **truck colours** by area; smallcam; Gen3 mostly **no antenna** (rare for central/E. Europe)", "src": ["plonkit"], "sv": null, "anchor": "SDu4", "img": "Truck Serbia.png", "type": "cars" },
+  { "cat": "region", "text": "Coverage mostly **Vojvodina (north)**, around **Belgrade**, and **Niš (SE)**; Kosovo has none", "src": ["plonkit"], "sv": null, "anchor": "mTBk", "img": "Serbia_Coverage_Map_.png", "type": "general" },
+  { "cat": "state", "text": "2-digit area codes (first digit 1–3): **2 = north, 1 = central/east, 3 = SW**", "src": ["plonkit"], "sv": null, "anchor": "w6kX", "img": "area_codes_colourized.png", "type": "naming" },
+  { "cat": "region", "text": "**Vojvodina** (north) = extremely flat farmland (Fruška Gora ridge is the exception); rolling hills centre; mountains SW/SE (Dinaric/Balkan)", "src": ["plonkit"], "sv": null, "anchor": "un4M", "img": "vojvodina.png", "type": "landscape" },
   { "cat": "special", "text": "**Vršac Mountains** protrude from flat land near Romania (vineyards + castle); **Hungarian bilingual** signs → northern Vojvodina", "src": ["plonkit"], "sv": null, "type": "general" }
  ]
 }

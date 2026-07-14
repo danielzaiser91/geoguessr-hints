@@ -5,13 +5,13 @@
  "area_km2": 22072,
  "links": { "plonkit": "https://www.plonkit.net/israel-west-bank", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Plates **yellow w/ a blue strip on the left** (also common in the West Bank; Jordan/UAE = white, Tunisia = black); West Bank plates are white w/ green text (inverted → green on taxis/buses)", "src": ["plonkit"], "sv": null, "img": "il_Licence_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "Gen3 = **black car w/ a long antenna** (also black w/o antenna, or silver w/ a short antenna); Gen4 only in Israel, usually a **dirty front camera** (clean around Tel Aviv)", "src": ["plonkit"], "sv": null, "img": "il_car.png", "type": "cars" },
-  { "cat": "country", "text": "**Hebrew** (practically only here) + **Arabic** (esp. in the West Bank)", "src": ["plonkit"], "sv": null, "img": "il_language.png", "type": "language" },
-  { "cat": "country", "text": "Stop signs show a **painted hand** instead of a word", "src": ["plonkit"], "sv": null, "img": "il_stopsign.png", "type": "signs" },
-  { "cat": "country", "text": "**Striped kerbs** (red/white & black/white); yellow outer + white centre road lines; white-on-black chevrons; km markers white w/ a red/green/blue border", "src": ["plonkit"], "sv": null, "img": "il_kerb.png", "type": "markings" },
-  { "cat": "country", "text": "Utility poles w/ **black-and-white striped bottoms**; **mesh-framework** poles very common", "src": ["plonkit"], "sv": null, "img": "IL_Mesh_Pole.png", "type": "utility" },
-  { "cat": "country", "text": "Warm-coloured **stone buildings**, blocky; Mediterranean orange-tile roofs more common than elsewhere in the Middle East (flat roofs too)", "src": ["plonkit"], "sv": null, "img": "ilps_architecture.png", "type": "arch" },
-  { "cat": "region", "text": "Green forested **north** → extremely dry sandy **south** & E West Bank; near **Jerusalem** nearly every building is pale **Jerusalem stone**; Dead Sea = barren, Sea of Galilee = vegetated", "src": ["plonkit"], "sv": null, "img": "il_landscape.png", "type": "landscape" }
+  { "cat": "country", "text": "Plates **yellow w/ a blue strip on the left** (also common in the West Bank; Jordan/UAE = white, Tunisia = black); West Bank plates are white w/ green text (inverted → green on taxis/buses)", "src": ["plonkit"], "sv": null, "anchor": "Lxx7", "img": "il_Licence_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "Gen3 = **black car w/ a long antenna** (also black w/o antenna, or silver w/ a short antenna); Gen4 only in Israel, usually a **dirty front camera** (clean around Tel Aviv)", "src": ["plonkit"], "sv": null, "anchor": "UXde", "img": "il_car.png", "type": "cars" },
+  { "cat": "country", "text": "**Hebrew** (practically only here) + **Arabic** (esp. in the West Bank)", "src": ["plonkit"], "sv": null, "anchor": "26il", "img": "il_language.png", "type": "language" },
+  { "cat": "country", "text": "Stop signs show a **painted hand** instead of a word", "src": ["plonkit"], "sv": null, "anchor": "QlFr", "img": "il_stopsign.png", "type": "signs" },
+  { "cat": "country", "text": "**Striped kerbs** (red/white & black/white); yellow outer + white centre road lines; white-on-black chevrons; km markers white w/ a red/green/blue border", "src": ["plonkit"], "sv": null, "anchor": "OiB7", "img": "il_kerb.png", "type": "markings" },
+  { "cat": "country", "text": "Utility poles w/ **black-and-white striped bottoms**; **mesh-framework** poles very common", "src": ["plonkit"], "sv": null, "anchor": "q6eN", "img": "IL_Mesh_Pole.png", "type": "utility" },
+  { "cat": "country", "text": "Warm-coloured **stone buildings**, blocky; Mediterranean orange-tile roofs more common than elsewhere in the Middle East (flat roofs too)", "src": ["plonkit"], "sv": null, "anchor": "Xg52", "img": "ilps_architecture.png", "type": "arch" },
+  { "cat": "region", "text": "Green forested **north** → extremely dry sandy **south** & E West Bank; near **Jerusalem** nearly every building is pale **Jerusalem stone**; Dead Sea = barren, Sea of Galilee = vegetated", "src": ["plonkit"], "sv": null, "anchor": "cY6B", "img": "il_landscape.png", "type": "landscape" }
  ]
 }

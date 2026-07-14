@@ -5,15 +5,15 @@
  "area_km2": 65610,
  "links": { "plonkit": "https://www.plonkit.net/sri-lanka", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Plates: **long white front / short yellow rear**", "src": ["plonkit"], "sv": null, "img": "Sri_Lanka_License_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "Gen3 car front visible as **blue-white-red patches** (French-flag-like, red most distinct — unique to Sri Lanka); Gen4 = all **low-cam**", "src": ["plonkit"], "sv": null, "img": "Gen_3_car2.png", "type": "cars" },
-  { "cat": "country", "text": "Scripts: **Sinhala** (curvy/rounded, everywhere) + **Tamil** (straighter lines, north/east) + some English", "src": ["plonkit"], "sv": null, "img": "Sri_Lanka_scripts.png", "type": "language" },
-  { "cat": "country", "text": "Concrete poles: square w/ **pinholes only near the top** (Thailand's reach the bottom) + **holey poles** (large holes on lower half — unique)", "src": ["plonkit"], "sv": null, "img": "Utility_poles.png", "type": "utility" },
-  { "cat": "country", "text": "**Short wide tapered stone bollards** (black base, white top — unique); tall white waystones w/ a yellow road number", "src": ["plonkit"], "sv": null, "img": "Bollard.png", "type": "bollards" },
-  { "cat": "country", "text": "**Black-and-white striped signposts** (also BD/BT/IN/NP/MY); rural roads often have outer lines but no middle line", "src": ["plonkit"], "sv": null, "img": "Signpost.png", "type": "signs" },
-  { "cat": "country", "text": "Tropical **lush green**, dense agriculture; **reddish soil** common (sometimes white sandy)", "src": ["plonkit"], "sv": null, "img": "Red_soil.png", "type": "landscape" },
-  { "cat": "country", "text": "**Palm trees** very common; orange/red tiled roofs (often brownish from wear)", "src": ["plonkit"], "sv": null, "img": "Palm_trees.png", "type": "landscape" },
-  { "cat": "country", "text": "Majority **Buddhist** (temples, stupas, Buddhist flag); bulky **tuk-tuks with a black roof** (green/yellow/red)", "src": ["plonkit"], "sv": null, "img": "Buddhism.png", "type": "general" },
+  { "cat": "country", "text": "Plates: **long white front / short yellow rear**", "src": ["plonkit"], "sv": null, "anchor": "oQcO", "img": "Sri_Lanka_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "Gen3 car front visible as **blue-white-red patches** (French-flag-like, red most distinct — unique to Sri Lanka); Gen4 = all **low-cam**", "src": ["plonkit"], "sv": null, "anchor": "Vtwe", "img": "Gen_3_car2.png", "type": "cars" },
+  { "cat": "country", "text": "Scripts: **Sinhala** (curvy/rounded, everywhere) + **Tamil** (straighter lines, north/east) + some English", "src": ["plonkit"], "sv": null, "anchor": "obMz", "img": "Sri_Lanka_scripts.png", "type": "language" },
+  { "cat": "country", "text": "Concrete poles: square w/ **pinholes only near the top** (Thailand's reach the bottom) + **holey poles** (large holes on lower half — unique)", "src": ["plonkit"], "sv": null, "anchor": "AYFb", "img": "Utility_poles.png", "type": "utility" },
+  { "cat": "country", "text": "**Short wide tapered stone bollards** (black base, white top — unique); tall white waystones w/ a yellow road number", "src": ["plonkit"], "sv": null, "anchor": "Yl3z", "img": "Bollard.png", "type": "bollards" },
+  { "cat": "country", "text": "**Black-and-white striped signposts** (also BD/BT/IN/NP/MY); rural roads often have outer lines but no middle line", "src": ["plonkit"], "sv": null, "anchor": "mWPv", "img": "Signpost.png", "type": "signs" },
+  { "cat": "country", "text": "Tropical **lush green**, dense agriculture; **reddish soil** common (sometimes white sandy)", "src": ["plonkit"], "sv": null, "anchor": "l3FA", "img": "Red_soil.png", "type": "landscape" },
+  { "cat": "country", "text": "**Palm trees** very common; orange/red tiled roofs (often brownish from wear)", "src": ["plonkit"], "sv": null, "anchor": "fnRY", "img": "Palm_trees.png", "type": "landscape" },
+  { "cat": "country", "text": "Majority **Buddhist** (temples, stupas, Buddhist flag); bulky **tuk-tuks with a black roof** (green/yellow/red)", "src": ["plonkit"], "sv": null, "anchor": "I2B3", "img": "Buddhism.png", "type": "general" },
   { "cat": "region", "text": "Phone area codes (10-digit); religion by region: Buddhism most; **Hinduism + Tamil → north/east & Nuwara Eliya**; Islam = east coast; Christianity = NW (Mannar)", "src": ["plonkit"], "sv": null, "type": "naming" }
  ]
 }

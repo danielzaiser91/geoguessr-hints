@@ -5,16 +5,16 @@
  "area_km2": 283561,
  "links": { "plonkit": "https://www.plonkit.net/ecuador", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Plates white, a **mix of short & long** (unique in Latin America); commercial = **orange** (solid or an orange top bar)", "src": ["plonkit"], "sv": null, "img": "Ecuador_License_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "Gen3 white car w/ a **stubby antenna** (also MX/BR/CO); Gen4 white pickup w/ **black trunk, no antenna** (Panama/Costa Rica have a front antenna)", "src": ["plonkit"], "sv": null, "img": "ec_antenna.png", "type": "cars" },
-  { "cat": "country", "text": "**Shitcam** — Ecuador is the only Latin American country with it (wide blur, brownish, sometimes a red logo up front)", "src": ["plonkit"], "sv": null, "img": "ecua_shitcam_with_logo.png", "type": "cars" },
-  { "cat": "country", "text": "**Bollards very common** (rare in LatAm): round w/ 2 red stripes, or flat w/ 2 red reflectors on black", "src": ["plonkit"], "sv": null, "img": "Bollards-EC.png", "type": "bollards" },
-  { "cat": "country", "text": "**Ladder poles** (many small indents) — ~unique in Latin America (Brazil's waffle poles have only a few)", "src": ["plonkit"], "sv": null, "img": "Ecua_poles.png", "type": "utility" },
-  { "cat": "country", "text": "Concrete roads common; **double guardrails** very common (rare elsewhere in South America)", "src": ["plonkit"], "sv": null, "img": "Double_guardrails.png", "type": "utility" },
-  { "cat": "country", "text": "**Chevron spam** in curves — noticeably more than most Latin American countries", "src": ["plonkit"], "sv": null, "img": "Chevron_spam2.png", "type": "signs" },
-  { "cat": "country", "text": "Lots of square white road signs; km markers **green w/ the Ecuadorian highway shield**", "src": ["plonkit"], "sv": null, "img": "Square_signs.png", "type": "signs" },
-  { "cat": "country", "text": "**Teal-blue sign backs** (only LatAm country to use them); one/two-way signs w/ text inside the arrow (also DR/PR)", "src": ["plonkit"], "sv": null, "img": "Teal_sign_back.png", "type": "signs" },
-  { "cat": "country", "text": "Houses mostly **grey brick + metal roofs** (Peru/Bolivia use red brick); hexagonal-tile pavement in cities", "src": ["plonkit"], "sv": null, "img": "round__281_29.png", "type": "arch" },
+  { "cat": "country", "text": "Plates white, a **mix of short & long** (unique in Latin America); commercial = **orange** (solid or an orange top bar)", "src": ["plonkit"], "sv": null, "anchor": "8Xg1", "img": "Ecuador_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "Gen3 white car w/ a **stubby antenna** (also MX/BR/CO); Gen4 white pickup w/ **black trunk, no antenna** (Panama/Costa Rica have a front antenna)", "src": ["plonkit"], "sv": null, "anchor": "HsDH", "img": "ec_antenna.png", "type": "cars" },
+  { "cat": "country", "text": "**Shitcam** — Ecuador is the only Latin American country with it (wide blur, brownish, sometimes a red logo up front)", "src": ["plonkit"], "sv": null, "anchor": "CduU", "img": "ecua_shitcam_with_logo.png", "type": "cars" },
+  { "cat": "country", "text": "**Bollards very common** (rare in LatAm): round w/ 2 red stripes, or flat w/ 2 red reflectors on black", "src": ["plonkit"], "sv": null, "anchor": "cF1l", "img": "Bollards-EC.png", "type": "bollards" },
+  { "cat": "country", "text": "**Ladder poles** (many small indents) — ~unique in Latin America (Brazil's waffle poles have only a few)", "src": ["plonkit"], "sv": null, "anchor": "ki46", "img": "Ecua_poles.png", "type": "utility" },
+  { "cat": "country", "text": "Concrete roads common; **double guardrails** very common (rare elsewhere in South America)", "src": ["plonkit"], "sv": null, "anchor": "3DE7", "img": "Double_guardrails.png", "type": "utility" },
+  { "cat": "country", "text": "**Chevron spam** in curves — noticeably more than most Latin American countries", "src": ["plonkit"], "sv": null, "anchor": "ynOS", "img": "Chevron_spam2.png", "type": "signs" },
+  { "cat": "country", "text": "Lots of square white road signs; km markers **green w/ the Ecuadorian highway shield**", "src": ["plonkit"], "sv": null, "anchor": "LwpU", "img": "Square_signs.png", "type": "signs" },
+  { "cat": "country", "text": "**Teal-blue sign backs** (only LatAm country to use them); one/two-way signs w/ text inside the arrow (also DR/PR)", "src": ["plonkit"], "sv": null, "anchor": "rhiO", "img": "Teal_sign_back.png", "type": "signs" },
+  { "cat": "country", "text": "Houses mostly **grey brick + metal roofs** (Peru/Bolivia use red brick); hexagonal-tile pavement in cities", "src": ["plonkit"], "sv": null, "anchor": "r9a6", "img": "round__281_29.png", "type": "arch" },
   { "cat": "region", "text": "Coverage western (Amazon mostly uncovered; + Galápagos trekker); **Andes** run down the middle, flat E/W; **'high antenna' = northern half**; banana plantations SW", "src": ["plonkit"], "sv": null, "type": "landscape" }
  ]
 }

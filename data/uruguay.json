@@ -5,15 +5,15 @@
  "area_km2": 176215,
  "links": { "plonkit": "https://www.plonkit.net/uruguay", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Vibe: often overcast, **open grasslands + gentle hills**, roads in worse condition than neighbours", "src": ["plonkit"], "sv": null, "img": "Uruguay_vibe.png", "type": "landscape" },
-  { "cat": "country", "text": "Plates **plain white w/ black characters** (Argentina's have a black dot in the middle or a blue top bar)", "src": ["plonkit"], "sv": null, "img": "Uruguay_License_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "Only **Gen3, black car, no antenna** (also AR/PE in S. America); camera often **smudgy** (rarer in Argentina)", "src": ["plonkit"], "sv": null, "img": "Car_meta.png", "type": "cars" },
-  { "cat": "country", "text": "**Thick white wooden signposts** with up to four rectangular notches at the back (also Bolivia)", "src": ["plonkit"], "sv": null, "img": "Signposts.png", "type": "signs" },
-  { "cat": "country", "text": "**Triple road lines** = double yellow with white dashes between — a design not seen anywhere else in the Americas", "src": ["plonkit"], "sv": null, "img": "Triple_road_lines.png", "type": "markings" },
-  { "cat": "country", "text": "**White bollards** (one side often painted yellow) + stone barriers — specific to Uruguay", "src": ["plonkit"], "sv": null, "img": "Bollards_and_barriers.png", "type": "bollards" },
-  { "cat": "country", "text": "**Trident poles** (3 upward-pointing insulators; also RS Brazil); plus round poles w/ flat-metal tops & square concrete poles", "src": ["plonkit"], "sv": null, "img": "Trident_pole.png", "type": "utility" },
-  { "cat": "country", "text": "Guardrail support = 3 sides **+ corner bits of the 4th** (Argentina just 3 sides); green-painted **stone km marker** (unique)", "src": ["plonkit"], "sv": null, "img": "Road_marker.png", "type": "signs" },
-  { "cat": "country", "text": "Chevrons **yellow w/ black arrows** (Argentina uniquely = white w/ red); **reddish soil** common (a good clue vs Argentina)", "src": ["plonkit"], "sv": null, "img": "Chevron.png", "type": "signs" },
-  { "cat": "country", "text": "Houses **cube-shaped concrete**, drab & weathered, flat roofs common; short stocky palms; **cattle everywhere** (≈4:1 vs people)", "src": ["plonkit"], "sv": null, "img": "Hilly_landscape.png", "type": "arch" }
+  { "cat": "country", "text": "Vibe: often overcast, **open grasslands + gentle hills**, roads in worse condition than neighbours", "src": ["plonkit"], "sv": null, "anchor": "grPh", "img": "Uruguay_vibe.png", "type": "landscape" },
+  { "cat": "country", "text": "Plates **plain white w/ black characters** (Argentina's have a black dot in the middle or a blue top bar)", "src": ["plonkit"], "sv": null, "anchor": "VOt5", "img": "Uruguay_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "Only **Gen3, black car, no antenna** (also AR/PE in S. America); camera often **smudgy** (rarer in Argentina)", "src": ["plonkit"], "sv": null, "anchor": "mv5R", "img": "Car_meta.png", "type": "cars" },
+  { "cat": "country", "text": "**Thick white wooden signposts** with up to four rectangular notches at the back (also Bolivia)", "src": ["plonkit"], "sv": null, "anchor": "07Np", "img": "Signposts.png", "type": "signs" },
+  { "cat": "country", "text": "**Triple road lines** = double yellow with white dashes between — a design not seen anywhere else in the Americas", "src": ["plonkit"], "sv": null, "anchor": "ZQG4", "img": "Triple_road_lines.png", "type": "markings" },
+  { "cat": "country", "text": "**White bollards** (one side often painted yellow) + stone barriers — specific to Uruguay", "src": ["plonkit"], "sv": null, "anchor": "Pveh", "img": "Bollards_and_barriers.png", "type": "bollards" },
+  { "cat": "country", "text": "**Trident poles** (3 upward-pointing insulators; also RS Brazil); plus round poles w/ flat-metal tops & square concrete poles", "src": ["plonkit"], "sv": null, "anchor": "0wFk", "img": "Trident_pole.png", "type": "utility" },
+  { "cat": "country", "text": "Guardrail support = 3 sides **+ corner bits of the 4th** (Argentina just 3 sides); green-painted **stone km marker** (unique)", "src": ["plonkit"], "sv": null, "anchor": "3qgY", "img": "Road_marker.png", "type": "signs" },
+  { "cat": "country", "text": "Chevrons **yellow w/ black arrows** (Argentina uniquely = white w/ red); **reddish soil** common (a good clue vs Argentina)", "src": ["plonkit"], "sv": null, "anchor": "rYkI", "img": "Chevron.png", "type": "signs" },
+  { "cat": "country", "text": "Houses **cube-shaped concrete**, drab & weathered, flat roofs common; short stocky palms; **cattle everywhere** (≈4:1 vs people)", "src": ["plonkit"], "sv": null, "anchor": "mVth", "img": "Hilly_landscape.png", "type": "arch" }
  ]
 }

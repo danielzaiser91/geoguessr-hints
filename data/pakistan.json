@@ -5,12 +5,12 @@
  "area_km2": 881913,
  "links": { "plonkit": "https://www.plonkit.net/pakistan", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Coverage = mainly **Gen3 trekker** in **Punjab** (major temples & tourist sites; very limited)", "src": ["plonkit"], "sv": null, "img": "pk_trekker.png", "type": "cars" },
-  { "cat": "country", "text": "**Urdu** script (Arabic-like but softer/curvier fonts); **English** also common on signage", "src": ["plonkit"], "sv": null, "img": "pk_language.png", "type": "language" },
-  { "cat": "country", "text": "Short plates, region-specific — coverage is all Punjab, so mostly a **green strip on the left** (or fully green); India uses long plates", "src": ["plonkit"], "sv": null, "img": "pk_licenceplate.png", "type": "plates" },
-  { "cat": "country", "text": "Much coverage in **Mughal gardens** — large ordered gardens w/ stone walls + old forts/temples", "src": ["plonkit"], "sv": null, "img": "pk_mughalgardens.png", "type": "landscape" },
-  { "cat": "country", "text": "Brightly coloured **baggy pants** are common (India's Gen3-trekker clothing tends to be tighter)", "src": ["plonkit"], "sv": null, "img": "pk_widepants.png", "type": "general" },
-  { "cat": "special", "text": "**Lahore Fort** (Alamgiri Gate, tall red-brick walls); universities (gothic, colonial white domes, red-brick paths)", "src": ["plonkit"], "sv": null, "img": "pk_lahorefort.png", "type": "general" },
-  { "cat": "region", "text": "Other sites: **Hiran Minar** (temple on a lake), **Rohtas Fort** (near-black walls), **Harappa Museum**, Patriata pine forests", "src": ["plonkit"], "sv": null, "img": "pk_coverage.png", "type": "naming" }
+  { "cat": "country", "text": "Coverage = mainly **Gen3 trekker** in **Punjab** (major temples & tourist sites; very limited)", "src": ["plonkit"], "sv": null, "anchor": "zWRb", "img": "pk_trekker.png", "type": "cars" },
+  { "cat": "country", "text": "**Urdu** script (Arabic-like but softer/curvier fonts); **English** also common on signage", "src": ["plonkit"], "sv": null, "anchor": "evsi", "img": "pk_language.png", "type": "language" },
+  { "cat": "country", "text": "Short plates, region-specific — coverage is all Punjab, so mostly a **green strip on the left** (or fully green); India uses long plates", "src": ["plonkit"], "sv": null, "anchor": "yktB", "img": "pk_licenceplate.png", "type": "plates" },
+  { "cat": "country", "text": "Much coverage in **Mughal gardens** — large ordered gardens w/ stone walls + old forts/temples", "src": ["plonkit"], "sv": null, "anchor": "Kxq2", "img": "pk_mughalgardens.png", "type": "landscape" },
+  { "cat": "country", "text": "Brightly coloured **baggy pants** are common (India's Gen3-trekker clothing tends to be tighter)", "src": ["plonkit"], "sv": null, "anchor": "Ujiq", "img": "pk_widepants.png", "type": "general" },
+  { "cat": "special", "text": "**Lahore Fort** (Alamgiri Gate, tall red-brick walls); universities (gothic, colonial white domes, red-brick paths)", "src": ["plonkit"], "sv": null, "anchor": "Rtub", "img": "pk_lahorefort.png", "type": "general" },
+  { "cat": "region", "text": "Other sites: **Hiran Minar** (temple on a lake), **Rohtas Fort** (near-black walls), **Harappa Museum**, Patriata pine forests", "src": ["plonkit"], "sv": null, "anchor": "9S3l", "img": "pk_coverage.png", "type": "naming" }
  ]
 }

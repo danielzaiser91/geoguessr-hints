@@ -5,10 +5,10 @@
  "area_km2": 346,
  "links": { "plonkit": "https://www.plonkit.net/us-virgin-islands", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "US territory (counts as US); 3 unique cars — **St Croix (south)** = a red truck (most coverage) + a white antenna-less car; **St Thomas/St John (north)** = a white car w/ antenna & shorter cab", "src": ["plonkit"], "sv": null, "img": "vi_cars.png", "type": "cars" },
-  { "cat": "country", "text": "Distinctive colonial architecture (Renaissance/Baroque/Rococo/Victorian): **large arched facades**, central plazas & courtyards", "src": ["plonkit"], "sv": null, "img": "vi_architecture.png", "type": "arch" },
-  { "cat": "country", "text": "Former **Danish colony** → some Danish street names (e.g. '**gade**') / bilingual signs in historic downtowns", "src": ["plonkit"], "sv": null, "img": "danish_names.png", "type": "language" },
-  { "cat": "country", "text": "Plates are short, w/ a **bright-blue or dark-blue** design", "src": ["plonkit"], "sv": null, "img": "usvi_licenceplates.png", "type": "plates" },
-  { "cat": "region", "text": "**St Croix** (south) = loose grid (roads WSW–ENE); **St John & St Thomas** (north) = much curvier roads; boat trekkers off N St Croix (Buck Island has a pink camera tint)", "src": ["plonkit"], "sv": null, "img": "vi_southgrid.png", "type": "general" }
+  { "cat": "country", "text": "US territory (counts as US); 3 unique cars — **St Croix (south)** = a red truck (most coverage) + a white antenna-less car; **St Thomas/St John (north)** = a white car w/ antenna & shorter cab", "src": ["plonkit"], "sv": null, "anchor": "abU4", "img": "vi_cars.png", "type": "cars" },
+  { "cat": "country", "text": "Distinctive colonial architecture (Renaissance/Baroque/Rococo/Victorian): **large arched facades**, central plazas & courtyards", "src": ["plonkit"], "sv": null, "anchor": "GTl0", "img": "vi_architecture.png", "type": "arch" },
+  { "cat": "country", "text": "Former **Danish colony** → some Danish street names (e.g. '**gade**') / bilingual signs in historic downtowns", "src": ["plonkit"], "sv": null, "anchor": "Nfmm", "img": "danish_names.png", "type": "language" },
+  { "cat": "country", "text": "Plates are short, w/ a **bright-blue or dark-blue** design", "src": ["plonkit"], "sv": null, "anchor": "yUX7", "img": "usvi_licenceplates.png", "type": "plates" },
+  { "cat": "region", "text": "**St Croix** (south) = loose grid (roads WSW–ENE); **St John & St Thomas** (north) = much curvier roads; boat trekkers off N St Croix (Buck Island has a pink camera tint)", "src": ["plonkit"], "sv": null, "anchor": "OgDE", "img": "vi_southgrid.png", "type": "general" }
  ]
 }
