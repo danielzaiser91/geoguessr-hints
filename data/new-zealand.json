@@ -1,0 +1,22 @@
+{
+ "name": "New Zealand",
+ "slug": "new-zealand",
+ "continent": "Oceania",
+ "area_km2": 268021,
+ "links": { "plonkit": "https://www.plonkit.net/new-zealand", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Bollard: **red strip wraps around the top** (unique to NZ), thin yellow/white reflector on front or back", "src": ["plonkit"], "sv": null, "img": "NZ_Bollard.png", "type": "bollards" },
+  { "cat": "country", "text": "Plates white w/ black text (appear mostly white through the blur)", "src": ["plonkit"], "sv": null, "img": "Ohne_Titel_2824_29.png", "type": "plates" },
+  { "cat": "country", "text": "Poles = concrete w/ **one long indent** + small silver **possum guards**; wooden & holey poles also exist", "src": ["plonkit"], "sv": null, "img": "NZ_poles.png", "type": "utility" },
+  { "cat": "country", "text": "**Give-way signs red text** (Australia = black); **give-way triangles painted on the road** (AU doesn't do this)", "src": ["plonkit"], "sv": null, "img": "mbmItmT.jpg", "type": "signs" },
+  { "cat": "country", "text": "Warning signs diamond yellow on **white posts**; **blue street signs** common (esp. rural) — Australia almost never blue", "src": ["plonkit"], "sv": null, "img": "9qcVCOM.png", "type": "signs" },
+  { "cat": "country", "text": "White outer lines; **yellow dashed outer** in towns; inner = single dashed white or **double yellow** (AU has no yellow inner, snow aside)", "src": ["plonkit"], "sv": null, "img": "09SdKrK.png", "type": "markings" },
+  { "cat": "country", "text": "Chevrons **black-on-yellow with a thin black border** (Australia = same colours, no border)", "src": ["plonkit"], "sv": null, "img": "SH56qoz.png", "type": "signs" },
+  { "cat": "country", "text": "Green directional signs (state-highway # in a **red crest**); **bridge markers** (yellow = river name); brown signs = landmarks", "src": ["plonkit"], "sv": null, "img": "Gf2dNKO.png", "type": "signs" },
+  { "cat": "country", "text": "**Ferns** very common in forested areas", "src": ["plonkit"], "sv": null, "img": "nz_ferns.png", "type": "landscape" },
+  { "cat": "state", "text": "Two-digit **state-highway numbers run N→S**; **Fonterra farm-sign** first digit = region", "src": ["plonkit"], "sv": null, "img": "highway_numbering_darkmode_v2.png", "type": "naming" },
+  { "cat": "state", "text": "Phone = 7 digits + 2-digit area code (02 = mobile); city rubbish bins & bus-stop signs identify Auckland/Wellington/Christchurch", "src": ["plonkit"], "sv": null, "img": "nz_area_codes_new.png", "type": "naming" },
+  { "cat": "region", "text": "**Southern Alps** snowy range (South Island); West Coast temperate **rainforest**; Waikato/Northland dry rolling hills; **Mt Taranaki** smooth cone; teal glacial lakes near Queenstown", "src": ["plonkit"], "sv": null, "img": "west_coast_rainforests.png", "type": "landscape" },
+  { "cat": "special", "text": "Pole stickers & possum-guard styles pinpoint region (Gisborne yellow cow-tag; Marlborough olive-brown guard; Southland cylindrical); Canterbury = tall hedge rows on flat plains", "src": ["plonkit"], "sv": null, "type": "utility" }
+ ]
+}

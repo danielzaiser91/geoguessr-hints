@@ -114,10 +114,14 @@ Collection priority = play value / size first, micro-territories last.
 - [ ] Final review pass for duplicates / weak hints; tighten.
 
 ## Resume pointer (v3 grind)
-**30/136 countries.** Neu seit v3-Backfill: Norway, Finland, Denmark, Turkey, Kazakhstan, Thailand,
-Peru, Colombia, Chile, South Africa (alle bildgestützt + typisiert, teils Provinz-Sektionen).
-Nächste beliebte: Ukraine, Philippines, South Korea, Vietnam, Malaysia, Portugal, Switzerland,
-Austria, Greece, Belgium, Czechia, Romania, New Zealand, Kenya, Nigeria, Egypt, Morocco…
+**46/136 countries** (675 hints, 92% bildgestützt). Fertig zusätzlich zu den 23 Originalen: Norway,
+Finland, Denmark, Turkey, Kazakhstan, Thailand, Peru, Colombia, Chile, South Africa, Ukraine,
+Philippines, South Korea, Vietnam, Malaysia, Portugal, Switzerland, Austria, Greece, Belgium, New
+Zealand, Czechia, Romania, Hungary, Serbia, Croatia. Modus: **automatisch Charge für Charge** (~6
+Länder, dann build+commit+push), ohne Rückfrage weiter bis unterbrochen.
+Nächste beliebte offene: Bulgaria, Slovakia, Slovenia, Lithuania, Latvia, Estonia, Iceland, Norway✓,
+Kenya, Nigeria, Egypt, Tunisia, Israel, Jordan, UAE, Sri Lanka, Bangladesh, Nepal, Bhutan, Mongolia,
+Cambodia, Laos, Taiwan, Bolivia, Ecuador, Uruguay, Guatemala, Costa Rica, Panama, Dominican Rep …
 
 ### Original-Stand (Referenz)
 **23/136 countries.** Done: Brazil, USA (⭐ upgraded: 29 per-state sections + images), Russia, Canada,

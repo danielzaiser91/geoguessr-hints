@@ -1,0 +1,21 @@
+{
+ "name": "Hungary",
+ "slug": "hungary",
+ "continent": "Europe",
+ "area_km2": 93028,
+ "links": { "plonkit": "https://www.plonkit.net/hungary", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Plate long white (2022+ format has the coat of arms); **taxi = yellow**", "src": ["plonkit"], "sv": null, "img": "Hungary_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "Bollards B&W wedge-shaped, **red front / white back reflector** (blue common too); Croatia's are thinner w/ reflector higher up", "src": ["plonkit"], "sv": null, "img": "hu_bollard.png", "type": "bollards" },
+  { "cat": "country", "text": "Concrete **holey poles** with thin holes reaching the ground; wooden poles also common", "src": ["plonkit"], "sv": null, "img": "hu_pole.png", "type": "utility" },
+  { "cat": "country", "text": "Chevrons **white on red**", "src": ["plonkit"], "sv": null, "img": "hu_chevron.png", "type": "signs" },
+  { "cat": "country", "text": "**Hungarian**: many acute accents, umlauts, long words; **Ő Ű** (double acute) unique to the language", "src": ["plonkit"], "sv": null, "img": "hu_language.png", "type": "language" },
+  { "cat": "country", "text": "Street names end in **utca** (street) or **út** (road) — both unique to Hungarian", "src": ["plonkit"], "sv": null, "img": "hu_streetnames.png", "type": "naming" },
+  { "cat": "country", "text": "Green **km markers**; **abnormally tall sign posts**; signs held by **4 bolts** in a tall rectangle (rare elsewhere in E. Europe)", "src": ["plonkit"], "sv": null, "img": "hu_roadmarkers.png", "type": "signs" },
+  { "cat": "country", "text": "Pedestrian sign **5 stripes, belt very low** ('sagging pants') — unique to Hungary", "src": ["plonkit"], "sv": null, "img": "hu_pedestriansign.png", "type": "signs" },
+  { "cat": "country", "text": "Road numbers in a **shield shape**; directional signs green (M-highways = blue)", "src": ["plonkit"], "sv": null, "img": "hu_directionalsigns.png", "type": "signs" },
+  { "cat": "country", "text": "Gen3 antenna often has a small **grey flag** (also CZ/SK/RO/BG); grey dead-looking **winter** Gen3; black Gen4 (no antenna)", "src": ["plonkit"], "sv": null, "img": "hu_flagantenna.png", "type": "cars" },
+  { "cat": "country", "text": "Houses stone, light-painted, almost always **red tiled roofs**, single-storey suburbs; bike-lane lines are **yellow**", "src": ["plonkit"], "sv": null, "img": "hu_houses.png", "type": "arch" },
+  { "cat": "region", "text": "Road **first digit = a circle around Budapest**; SE very flat (Puszta grasslands), N/W = forested hills; **Lake Balaton** = only large lake, touristy", "src": ["plonkit"], "sv": null, "type": "naming" }
+ ]
+}

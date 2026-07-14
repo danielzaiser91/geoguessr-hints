@@ -12,14 +12,14 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**40 / 136 countries.**
+**46 / 136 countries.**
 
 **Africa:** ⬜ Botswana ⬜ Egypt ⬜ Eswatini ⬜ Ghana ⬜ Kenya ⬜ Lesotho ⬜ Madagascar ⬜ Mali ⬜ Namibia ⬜ Nigeria ⬜ Reunion ⬜ Rwanda ⬜ Senegal ✅ South Africa ⬜ São Tomé and Príncipe ⬜ Tanzania ⬜ Tunisia ⬜ Uganda
 **Asia:** ⬜ Bangladesh ⬜ Bhutan ⬜ British Indian Ocean Territory ⬜ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ⬜ Iraq ⬜ Israel & the West Bank ✅ Japan ⬜ Jordan ✅ Kazakhstan ⬜ Kyrgyzstan ⬜ Laos ⬜ Lebanon ⬜ Macau ✅ Malaysia ⬜ Mongolia ⬜ Nepal ⬜ Oman ⬜ Pakistan ✅ Philippines ⬜ Qatar ⬜ Singapore ✅ South Korea ⬜ Sri Lanka ⬜ Taiwan ✅ Thailand ✅ Turkey ⬜ United Arab Emirates ✅ Vietnam
-**Europe:** ⬜ Albania ⬜ Andorra ✅ Austria ⬜ Azores ⬜ Belarus ✅ Belgium ⬜ Bulgaria ⬜ Croatia ⬜ Czechia ✅ Denmark ⬜ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ⬜ Gibraltar ✅ Greece ⬜ Hungary ⬜ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ⬜ Latvia ⬜ Liechtenstein ⬜ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ⬜ Romania ✅ Russia ⬜ San Marino ⬜ Serbia ⬜ Slovakia ⬜ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
+**Europe:** ⬜ Albania ⬜ Andorra ✅ Austria ⬜ Azores ⬜ Belarus ✅ Belgium ⬜ Bulgaria ✅ Croatia ✅ Czechia ✅ Denmark ⬜ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ⬜ Gibraltar ✅ Greece ✅ Hungary ⬜ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ⬜ Latvia ⬜ Liechtenstein ⬜ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ✅ Romania ✅ Russia ⬜ San Marino ✅ Serbia ⬜ Slovakia ⬜ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
 **North America:** ⬜ Alaska ⬜ Bermuda ✅ Canada ⬜ Costa Rica ⬜ Dominican Republic ⬜ Greenland ⬜ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ⬜ Panama ⬜ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
 **South America:** ✅ Argentina ⬜ Bolivia ✅ Brazil ✅ Chile ✅ Colombia ⬜ Curaçao ⬜ Ecuador ⬜ Falkland Islands ✅ Peru ⬜ Uruguay
-**Oceania:** ⬜ American Samoa ✅ Australia ⬜ Christmas Island ⬜ Cocos Islands ⬜ Guam ⬜ New Zealand ⬜ Northern Mariana Islands ⬜ Pitcairn Islands ⬜ Vanuatu
+**Oceania:** ⬜ American Samoa ✅ Australia ⬜ Christmas Island ⬜ Cocos Islands ⬜ Guam ✅ New Zealand ⬜ Northern Mariana Islands ⬜ Pitcairn Islands ⬜ Vanuatu
 **Antarctica:** ⬜ Antarctica ⬜ South Georgia & Sandwich Islands
 
 ---
@@ -494,6 +494,25 @@ Study: [Plonk It](https://www.plonkit.net/united-kingdom)
 | Special | Warning stickers wrapped all the way around the pole → Northern Ireland; Cornish palms → far SW coast | [P](https://www.plonkit.net/united-kingdom) |  |
 | Special | Isle of Man = **Gen2 only**, counts as UK for country streaks | [P](https://www.plonkit.net/united-kingdom) |  |
 
+## Romania
+Study: [Plonk It](https://www.plonkit.net/romania)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plate long white + single blue strip left | [P](https://www.plonkit.net/romania) |  |
+| Country | **Romanian** (Romance, similar to Italian): special letters **Ă Ș Ț** (+ Â, Î) | [P](https://www.plonkit.net/romania) |  |
+| Country | **Holey poles** with holes reaching the bottom (wide or tall) — Poland's stop short, Hungary's are smaller; round concrete poles too | [P](https://www.plonkit.net/romania) |  |
+| Country | **Extremely large yellow pole stickers** (town name written in the middle) are specific to Romania | [P](https://www.plonkit.net/romania) |  |
+| Country | **Waystones** common: large w/ red or blue framing + road number, or rugged actual stone | [P](https://www.plonkit.net/romania) |  |
+| Country | Outer lines = **short dashes, narrow spaces**; middle lines noticeably **thick** (vs Bulgaria's thin lines) | [P](https://www.plonkit.net/romania) |  |
+| Country | Directional signs blue, arrow-shaped, white border, road number in red or blue | [P](https://www.plonkit.net/romania) |  |
+| Country | Town-entry sign = yellow w/ speed limit + a **city skyline**, white name sign below; black sign backs | [P](https://www.plonkit.net/romania) |  |
+| Country | Chevrons **red-on-white with a yellow frame** (yellow frame most common in Romania) | [P](https://www.plonkit.net/romania) |  |
+| Country | Bollards thin white w/ a **red vertical strip near the top** (rare; Turkey similar); unique thick-red-border yield sign | [P](https://www.plonkit.net/romania) |  |
+| Country | Architecture: pastel stone single-family houses, orange-tile or grey-metal roofs, sometimes painted square-tile walls | [P](https://www.plonkit.net/romania) |  |
+| Country | Tall forested mountains centre/north, flat S/W/E; distinctive **haystack w/ a stick through it**; **Dacia** = >25% of cars | [P](https://www.plonkit.net/romania) |  |
+| Region | **Hungarian bilingual signs** → Covasna/Harghita/Mureș (centre); orange-tile roofs = west, metal roofs = east; **Maramureș** = decorated wooden gates | [P](https://www.plonkit.net/romania) |  |
+
 ## Greece
 Study: [Plonk It](https://www.plonkit.net/greece)
 
@@ -512,6 +531,24 @@ Study: [Plonk It](https://www.plonkit.net/greece)
 | Country | White/pastel stone houses w/ orange roofs; iconic **white houses + blue trim** (mainly on the islands) | [P](https://www.plonkit.net/greece) |  |
 | Country | Very **mountainous** (winding mountain roads); **red dirt** common (also Albania); bleak Gen3 winter/fall coverage | [P](https://www.plonkit.net/greece) |  |
 | Special | Area codes start **2** (+1–3 digits; 3rd digit 1 = biggest city, 9 = its surroundings); **Cyclades** = white+blue houses, barren treeless small islands; **Meteora** monoliths N of Trikala; Athens yellow / Thessaloniki blue taxis | [P](https://www.plonkit.net/greece) |  |
+
+## Hungary
+Study: [Plonk It](https://www.plonkit.net/hungary)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plate long white (2022+ format has the coat of arms); **taxi = yellow** | [P](https://www.plonkit.net/hungary) |  |
+| Country | Bollards B&W wedge-shaped, **red front / white back reflector** (blue common too); Croatia's are thinner w/ reflector higher up | [P](https://www.plonkit.net/hungary) |  |
+| Country | Concrete **holey poles** with thin holes reaching the ground; wooden poles also common | [P](https://www.plonkit.net/hungary) |  |
+| Country | Chevrons **white on red** | [P](https://www.plonkit.net/hungary) |  |
+| Country | **Hungarian**: many acute accents, umlauts, long words; **Ő Ű** (double acute) unique to the language | [P](https://www.plonkit.net/hungary) |  |
+| Country | Street names end in **utca** (street) or **út** (road) — both unique to Hungarian | [P](https://www.plonkit.net/hungary) |  |
+| Country | Green **km markers**; **abnormally tall sign posts**; signs held by **4 bolts** in a tall rectangle (rare elsewhere in E. Europe) | [P](https://www.plonkit.net/hungary) |  |
+| Country | Pedestrian sign **5 stripes, belt very low** ('sagging pants') — unique to Hungary | [P](https://www.plonkit.net/hungary) |  |
+| Country | Road numbers in a **shield shape**; directional signs green (M-highways = blue) | [P](https://www.plonkit.net/hungary) |  |
+| Country | Gen3 antenna often has a small **grey flag** (also CZ/SK/RO/BG); grey dead-looking **winter** Gen3; black Gen4 (no antenna) | [P](https://www.plonkit.net/hungary) |  |
+| Country | Houses stone, light-painted, almost always **red tiled roofs**, single-storey suburbs; bike-lane lines are **yellow** | [P](https://www.plonkit.net/hungary) |  |
+| Region | Road **first digit = a circle around Budapest**; SE very flat (Puszta grasslands), N/W = forested hills; **Lake Balaton** = only large lake, touristy | [P](https://www.plonkit.net/hungary) |  |
 
 ## Portugal
 Study: [Plonk It](https://www.plonkit.net/portugal)
@@ -532,6 +569,22 @@ Study: [Plonk It](https://www.plonkit.net/portugal)
 | State | Landline area codes = first 3 digits (map); codes not starting with 2 aren't regional; **29 = Azores or Madeira** | [P](https://www.plonkit.net/portugal) |  |
 | Special | **Madeira & Azores** count as Portugal; Serra da Estrela = rocky highland w/ yellow-black striped snow poles; Porto = lime-green street signs | [P](https://www.plonkit.net/portugal) |  |
 
+## Serbia
+Study: [Plonk It](https://www.plonkit.net/serbia)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Bollards: most have an **off-centred reflector** and are flat (no depth) | [P](https://www.plonkit.net/serbia) |  |
+| Country | **B-Profile guardrails** used exclusively (North Macedonia does not use them) | [P](https://www.plonkit.net/serbia) |  |
+| Country | Chevrons = **black arrow on white** (also Slovenia/Montenegro/N. Macedonia) | [P](https://www.plonkit.net/serbia) |  |
+| Country | Plate white + blue strip left; **agricultural plates green** (Croatia/N. Macedonia usually have no strip) | [P](https://www.plonkit.net/serbia) |  |
+| Country | **Serbian** uses both Cyrillic & Latin; unique **Ђ Ћ**; in Latin: Č Ć Đ Š Ž | [P](https://www.plonkit.net/serbia) |  |
+| Country | 4 different **truck colours** by area; smallcam; Gen3 mostly **no antenna** (rare for central/E. Europe) | [P](https://www.plonkit.net/serbia) |  |
+| Region | Coverage mostly **Vojvodina (north)**, around **Belgrade**, and **Niš (SE)**; Kosovo has none | [P](https://www.plonkit.net/serbia) |  |
+| Region | **Vojvodina** (north) = extremely flat farmland (Fruška Gora ridge is the exception); rolling hills centre; mountains SW/SE (Dinaric/Balkan) | [P](https://www.plonkit.net/serbia) |  |
+| State | 2-digit area codes (first digit 1–3): **2 = north, 1 = central/east, 3 = SW** | [P](https://www.plonkit.net/serbia) |  |
+| Special | **Vršac Mountains** protrude from flat land near Romania (vineyards + castle); **Hungarian bilingual** signs → northern Vojvodina | [P](https://www.plonkit.net/serbia) |  |
+
 ## Austria
 Study: [Plonk It](https://www.plonkit.net/austria)
 
@@ -550,6 +603,25 @@ Study: [Plonk It](https://www.plonkit.net/austria)
 | Country | Alpine architecture: light walls, wooden balconies/panelling on the top floor, dark wooden roofs extending outward | [P](https://www.plonkit.net/austria) |  |
 | Region | **Mostly mountainous** (central/west); flatter east near borders; A/B roads number **east→west**; each state has own flag + bus company; vineyards → far east | [P](https://www.plonkit.net/austria) |  |
 | Special | **Vienna** = dark-blue serif street plaques (leading number = district); Vorarlberg neon-yellow bus poles; Vienna/Innsbruck flag-tape on poles | [P](https://www.plonkit.net/austria) |  |
+
+## Czechia
+Study: [Plonk It](https://www.plonkit.net/czechia)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Bollards: **orange double reflector front / single white back** (only Czechia + Slovakia); rare blue/red variants | [P](https://www.plonkit.net/czechia) |  |
+| Country | Special **extra-wide B-type guardrail** used only by Czechia & Slovakia | [P](https://www.plonkit.net/czechia) |  |
+| Country | Wide round concrete poles, often attached in **pairs**; trident / upside-down-triangle poletops | [P](https://www.plonkit.net/czechia) |  |
+| Country | Chevrons **white w/ red arrows**; temporary **red-and-white striped signposts** common | [P](https://www.plonkit.net/czechia) |  |
+| Country | Stripy **gas/water poles** (snow-pole-like) often next to the road | [P](https://www.plonkit.net/czechia) |  |
+| Country | **Hiking markers** (one colour strip between two white) common (also SK/PL/HU) | [P](https://www.plonkit.net/czechia) |  |
+| Country | Prefab **panel apartment blocks** — well-maintained, vibrant colours/patterns; **diamond-tile roofs** | [P](https://www.plonkit.net/czechia) |  |
+| Country | Gen3 antenna w/ **grey tape** on top (also HU/RO/BG); red, black & white Gen4 cars; rare Gen2 (Slovakia has none) | [P](https://www.plonkit.net/czechia) |  |
+| Country | **Czech** distinct letters **Ř Ě Ů** (Slovak: Ľ Ô Ä Ŕ Ĺ); street = **ulice** (not ulica) | [P](https://www.plonkit.net/czechia) |  |
+| Country | Bright **red street signs** (wall or post) + blue/red house-number signs; km markers have a **yellow outline, no middle line** | [P](https://www.plonkit.net/czechia) |  |
+| Country | Black **bridge-end signs** with the road number on the left (Gen4) | [P](https://www.plonkit.net/czechia) |  |
+| Region | Landscape = **rolling hills** + altitude changes, few tall mountains (Slovakia = more mountains + flat areas); grey/snowy winter Gen3 | [P](https://www.plonkit.net/czechia) |  |
+| State | Road number **first digit 1–6 = region**; roads 7/8/9 all start in **Prague** heading N/NW | [P](https://www.plonkit.net/czechia) |  |
 
 ## Ireland
 Study: [Plonk It](https://www.plonkit.net/ireland)
@@ -570,6 +642,23 @@ Study: [Plonk It](https://www.plonkit.net/ireland)
 | State | Regional roads = 3-digit; **first digit = region**, numbered **anti-clockwise from Dublin** | [P](https://www.plonkit.net/ireland) |  |
 | State | Phone area codes grouped by first digit (learnable) → region | [P](https://www.plonkit.net/ireland) |  |
 | Special | Distinctive flat **tabletop mountains** → north Sligo / Leitrim; hilly tiny Gen4 roads → Donegal | [P](https://www.plonkit.net/ireland) |  |
+
+## Croatia
+Study: [Plonk It](https://www.plonkit.net/croatia)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plate white — some w/ blue strip left, many fully white (Gen3 mostly no strip); **HR** stickers (Hrvatska) on older cars | [P](https://www.plonkit.net/croatia) |  |
+| Country | Bollard white w/ black rectangle + red/white reflector, **sharp triangle from the top** (Hungary/Lithuania are rounder) | [P](https://www.plonkit.net/croatia) |  |
+| Country | **Croatian** (Slavic, Latin only): **IJE** common where Serbian uses just E | [P](https://www.plonkit.net/croatia) |  |
+| Country | Chevrons **red arrow on yellow or white**; **square B-type guardrails** (few European countries use them) | [P](https://www.plonkit.net/croatia) |  |
+| Country | Gen3 quirk: **side mirrors partially visible** + a small **yellow circular sticker on the mirror** (unique to Croatia); Gen3 mostly **autumn** | [P](https://www.plonkit.net/croatia) |  |
+| Country | Direction signs **yellow bg, black outline, pencil-shaped tip** (like other ex-Yugoslav countries) | [P](https://www.plonkit.net/croatia) |  |
+| Country | Poles cylindrical concrete/wood; wooden ones often have **alternating hooks** (like Latvia) | [P](https://www.plonkit.net/croatia) |  |
+| Country | Exposed **red brick** buildings (more inland); **blue fire hydrants** w/ two diagonal protrusions | [P](https://www.plonkit.net/croatia) |  |
+| Country | Pedestrian sign 5 stripes + belt (Slovenia = no belt); Karlovačko/Ožujsko beer, Konzum/Plodine shops; **no Gen2 car** (only trekker) | [P](https://www.plonkit.net/croatia) |  |
+| Region | NE = flat farmland (like Hungary); hilly N/W of Zagreb; **Adriatic coast** = rocky mountains + islands, beige brick w/ green shutters; **Istria** = red soil + Italian bilingual signs | [P](https://www.plonkit.net/croatia) |  |
+| Special | **Zagreb** big-city feel + blue trams; **Dubrovnik** medieval walls (far south); Rijeka blue overhead traffic-light poles; cypress trees near the southern tip | [P](https://www.plonkit.net/croatia) |  |
 
 ## Denmark
 Study: [Plonk It](https://www.plonkit.net/denmark)
@@ -878,3 +967,22 @@ Study: [Plonk It](https://www.plonkit.net/australia)
 | State | Unique **pole-top coils** angled upward; fluorescent-border road signs; black-and-yellow bollard | [P](https://www.plonkit.net/australia) |  |
 | State | **Red 'No Stopping' signs** (other states white); snorkel-fitted rare cars → NSW/ACT | [P](https://www.plonkit.net/australia) |  |
 | State | Different states use different **licence-plate** designs + slogans; 2-digit phone area codes map to state | [P](https://www.plonkit.net/australia) |  |
+
+## New Zealand
+Study: [Plonk It](https://www.plonkit.net/new-zealand)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Bollard: **red strip wraps around the top** (unique to NZ), thin yellow/white reflector on front or back | [P](https://www.plonkit.net/new-zealand) |  |
+| Country | Plates white w/ black text (appear mostly white through the blur) | [P](https://www.plonkit.net/new-zealand) |  |
+| Country | Poles = concrete w/ **one long indent** + small silver **possum guards**; wooden & holey poles also exist | [P](https://www.plonkit.net/new-zealand) |  |
+| Country | **Give-way signs red text** (Australia = black); **give-way triangles painted on the road** (AU doesn't do this) | [P](https://www.plonkit.net/new-zealand) |  |
+| Country | Warning signs diamond yellow on **white posts**; **blue street signs** common (esp. rural) — Australia almost never blue | [P](https://www.plonkit.net/new-zealand) |  |
+| Country | White outer lines; **yellow dashed outer** in towns; inner = single dashed white or **double yellow** (AU has no yellow inner, snow aside) | [P](https://www.plonkit.net/new-zealand) |  |
+| Country | Chevrons **black-on-yellow with a thin black border** (Australia = same colours, no border) | [P](https://www.plonkit.net/new-zealand) |  |
+| Country | Green directional signs (state-highway # in a **red crest**); **bridge markers** (yellow = river name); brown signs = landmarks | [P](https://www.plonkit.net/new-zealand) |  |
+| Country | **Ferns** very common in forested areas | [P](https://www.plonkit.net/new-zealand) |  |
+| Region | **Southern Alps** snowy range (South Island); West Coast temperate **rainforest**; Waikato/Northland dry rolling hills; **Mt Taranaki** smooth cone; teal glacial lakes near Queenstown | [P](https://www.plonkit.net/new-zealand) |  |
+| State | Two-digit **state-highway numbers run N→S**; **Fonterra farm-sign** first digit = region | [P](https://www.plonkit.net/new-zealand) |  |
+| State | Phone = 7 digits + 2-digit area code (02 = mobile); city rubbish bins & bus-stop signs identify Auckland/Wellington/Christchurch | [P](https://www.plonkit.net/new-zealand) |  |
+| Special | Pole stickers & possum-guard styles pinpoint region (Gisborne yellow cow-tag; Marlborough olive-brown guard; Southland cylindrical); Canterbury = tall hedge rows on flat plains | [P](https://www.plonkit.net/new-zealand) |  |
