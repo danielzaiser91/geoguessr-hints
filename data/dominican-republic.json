@@ -1,0 +1,15 @@
+{
+ "name": "Dominican Republic",
+ "slug": "dominican-republic",
+ "continent": "North America",
+ "area_km2": 48671,
+ "links": { "plonkit": "https://www.plonkit.net/dominican-republic", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Unique car: **two metal bars with thick black stripes** + a white hood at the front (Mongolia's striped car has different landscape)", "src": ["plonkit"], "sv": null, "img": "googlecar.png", "type": "cars" },
+  { "cat": "country", "text": "Poles mostly **square concrete w/ a reverse-'L' top** (in the Americas only DR / Puerto Rico / Uruguay use square poles)", "src": ["plonkit"], "sv": null, "img": "Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Small_Pin__282_29.png", "type": "utility" },
+  { "cat": "country", "text": "Plates **pale yellow top / white bottom** (New-Jersey-like); no front plate required", "src": ["plonkit"], "sv": null, "img": "Dominican_Republic_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "Roads often **smooth, notably dark asphalt**; stop sign says **\"PARE\"**, many signs on **yellow signposts**", "src": ["plonkit"], "sv": null, "img": "smoothasphalt.png", "type": "markings" },
+  { "cat": "region", "text": "Coverage only **Santo Domingo + Santiago de los Caballeros**; proper **mountains to the north = Santiago**", "src": ["plonkit"], "sv": null, "img": "do_coveragemap.png", "type": "naming" },
+  { "cat": "region", "text": "**Santo Domingo** = developed downtown, wide avenues, **\"ADN\"** on street signs (Distrito Nacional), black-and-purple pole markings", "src": ["plonkit"], "sv": null, "img": "Santo_Domingo_ADN_Signs.png", "type": "general" }
+ ]
+}

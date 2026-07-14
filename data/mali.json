@@ -1,0 +1,15 @@
+{
+ "name": "Mali",
+ "slug": "mali",
+ "continent": "Africa",
+ "area_km2": 1240192,
+ "links": { "plonkit": "https://www.plonkit.net/mali", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Very limited coverage: **10 tripods across 7 locations**, mostly at historic mosques; tripod camera = ethereal motion-blur look", "src": ["plonkit"], "sv": null, "img": "Coverage-map-Mali2.png", "type": "cars" },
+  { "cat": "country", "text": "Mosques of **mud brick + adobe plaster**, decorated with protruding **wooden sticks**; interiors = adobe walls + prayer rugs", "src": ["plonkit"], "sv": null, "img": "Mosque_architecture.png", "type": "arch" },
+  { "cat": "country", "text": "Generally **arid** — a sandy, dry landscape helps tell Mali tripods apart from tripods in other countries", "src": ["plonkit"], "sv": null, "img": "Arid_landscape.png", "type": "landscape" },
+  { "cat": "special", "text": "**Niono Mosque** = busy wide sandy road; interior has unique 'European-style' pillars", "src": ["plonkit"], "sv": null, "img": "ml_nionooutside.png", "type": "general" },
+  { "cat": "special", "text": "**Timbuktu** mosques (Sidi Yahiya, Djingareyber, Sankoré) = peachy-orange brick, yellow interior walls; Sankoré has a pyramid-shaped tower", "src": ["plonkit"], "sv": null, "img": "Djingareyber_exterior.png", "type": "general" },
+  { "cat": "special", "text": "**Gao** mosque (reddish dirt, pyramid w/ dry branches) & the iconic **Djenné** mud mosque", "src": ["plonkit"], "sv": null, "img": "Sankore_exterior.png", "type": "general" }
+ ]
+}

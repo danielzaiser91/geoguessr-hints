@@ -1,0 +1,16 @@
+{
+ "name": "Greenland",
+ "slug": "greenland",
+ "continent": "North America",
+ "area_km2": 2166086,
+ "links": { "plonkit": "https://www.plonkit.net/greenland", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "**50+ small disjoint coverage patches** (densest on the SW coast); all **Gen3 trekker**, often mounted on odd vehicles", "src": ["plonkit"], "sv": null, "img": "gl_coverage.png", "type": "cars" },
+  { "cat": "country", "text": "Each town has its **own unique Street View vehicle** (red tractor, snowmobile, ATV…) — the best way to ID the exact town", "src": ["plonkit"], "sv": null, "img": "gl_vehicles.png", "type": "cars" },
+  { "cat": "country", "text": "Architecture = small, **colourful, simple wooden houses**, sparsely placed even in cities", "src": ["plonkit"], "sv": null, "img": "gl_houses.png", "type": "arch" },
+  { "cat": "country", "text": "Landscape very **barren, treeless, snowy**; mountains/hills + **fjords & coastlines** (nearly all coverage is coastal)", "src": ["plonkit"], "sv": null, "img": "gl_landscape.png", "type": "landscape" },
+  { "cat": "country", "text": "**Boat trekkers** are very common (many different boats)", "src": ["plonkit"], "sv": null, "img": "gl_boats.png", "type": "cars" },
+  { "cat": "region", "text": "**Nuuk** = the largest city + a grey car; **Sisimiut** = black snowmobile (overcast); **Ilulissat** = green ATV (sunny)", "src": ["plonkit"], "sv": null, "img": "gl_nuuk.png", "type": "naming" },
+  { "cat": "special", "text": "More towns by vehicle: **Qaqortoq** = red car (sunny, greener); **Tasiilaq** = ATV w/ grey handguards; **Uummannaq** = sharp mountain to the north", "src": ["plonkit"], "sv": null, "img": "gl_qaqortoq.png", "type": "general" }
+ ]
+}

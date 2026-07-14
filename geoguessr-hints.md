@@ -12,12 +12,12 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**87 / 136 countries.**
+**93 / 136 countries.**
 
-**Africa:** ✅ Botswana ✅ Egypt ⬜ Eswatini ✅ Ghana ✅ Kenya ⬜ Lesotho ✅ Madagascar ⬜ Mali ✅ Namibia ✅ Nigeria ⬜ Reunion ✅ Rwanda ✅ Senegal ✅ South Africa ⬜ São Tomé and Príncipe ✅ Tanzania ✅ Tunisia ✅ Uganda
+**Africa:** ✅ Botswana ✅ Egypt ✅ Eswatini ✅ Ghana ✅ Kenya ✅ Lesotho ✅ Madagascar ✅ Mali ✅ Namibia ✅ Nigeria ⬜ Reunion ✅ Rwanda ✅ Senegal ✅ South Africa ⬜ São Tomé and Príncipe ✅ Tanzania ✅ Tunisia ✅ Uganda
 **Asia:** ✅ Bangladesh ✅ Bhutan ⬜ British Indian Ocean Territory ✅ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ✅ Iraq ⬜ Israel & the West Bank ✅ Japan ✅ Jordan ✅ Kazakhstan ✅ Kyrgyzstan ✅ Laos ✅ Lebanon ⬜ Macau ✅ Malaysia ✅ Mongolia ✅ Nepal ✅ Oman ✅ Pakistan ✅ Philippines ✅ Qatar ⬜ Singapore ✅ South Korea ✅ Sri Lanka ✅ Taiwan ✅ Thailand ✅ Turkey ✅ United Arab Emirates ✅ Vietnam
 **Europe:** ⬜ Albania ⬜ Andorra ✅ Austria ⬜ Azores ⬜ Belarus ✅ Belgium ✅ Bulgaria ✅ Croatia ✅ Czechia ✅ Denmark ✅ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ⬜ Gibraltar ✅ Greece ✅ Hungary ✅ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ✅ Latvia ⬜ Liechtenstein ✅ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ✅ Romania ✅ Russia ⬜ San Marino ✅ Serbia ✅ Slovakia ✅ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
-**North America:** ⬜ Alaska ⬜ Bermuda ✅ Canada ✅ Costa Rica ⬜ Dominican Republic ⬜ Greenland ✅ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ✅ Panama ⬜ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
+**North America:** ⬜ Alaska ⬜ Bermuda ✅ Canada ✅ Costa Rica ✅ Dominican Republic ✅ Greenland ✅ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ✅ Panama ✅ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
 **South America:** ✅ Argentina ✅ Bolivia ✅ Brazil ✅ Chile ✅ Colombia ⬜ Curaçao ✅ Ecuador ⬜ Falkland Islands ✅ Peru ✅ Uruguay
 **Oceania:** ⬜ American Samoa ✅ Australia ⬜ Christmas Island ⬜ Cocos Islands ⬜ Guam ✅ New Zealand ⬜ Northern Mariana Islands ⬜ Pitcairn Islands ⬜ Vanuatu
 **Antarctica:** ⬜ Antarctica ⬜ South Georgia & Sandwich Islands
@@ -25,6 +25,18 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 ---
 
 # Africa
+
+## Mali
+Study: [Plonk It](https://www.plonkit.net/mali)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Very limited coverage: **10 tripods across 7 locations**, mostly at historic mosques; tripod camera = ethereal motion-blur look | [P](https://www.plonkit.net/mali) |  |
+| Country | Mosques of **mud brick + adobe plaster**, decorated with protruding **wooden sticks**; interiors = adobe walls + prayer rugs | [P](https://www.plonkit.net/mali) |  |
+| Country | Generally **arid** — a sandy, dry landscape helps tell Mali tripods apart from tripods in other countries | [P](https://www.plonkit.net/mali) |  |
+| Special | **Niono Mosque** = busy wide sandy road; interior has unique 'European-style' pillars | [P](https://www.plonkit.net/mali) |  |
+| Special | **Timbuktu** mosques (Sidi Yahiya, Djingareyber, Sankoré) = peachy-orange brick, yellow interior walls; Sankoré has a pyramid-shaped tower | [P](https://www.plonkit.net/mali) |  |
+| Special | **Gao** mosque (reddish dirt, pyramid w/ dry branches) & the iconic **Djenné** mud mosque | [P](https://www.plonkit.net/mali) |  |
 
 ## South Africa
 Study: [Plonk It](https://www.plonkit.net/south-africa)
@@ -202,6 +214,20 @@ Study: [Plonk It](https://www.plonkit.net/tunisia)
 | Country | Fairly unique **stop sign** with Arabic + Latin (Jordan/UAE similar; Israel/Palestine use a hand) | [P](https://www.plonkit.net/tunisia) |  |
 | Region | Coverage mostly **east coast** (Bizerte→Medenine); **follow-car type = region** (light-green Toyota north, dark-green Mazda Hammamet→Djerba, Kairouan white Mitsubishi, **Djerba = no follow car**); N Mediterranean/hilly, centre flat/arid, S desert | [P](https://www.plonkit.net/tunisia) |  |
 
+## Lesotho
+Study: [Plonk It](https://www.plonkit.net/lesotho)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | All Gen3, **white car no antenna** (also ZA/BW/Eswatini); BW & Eswatini only have Gen3, South Africa also has Gen2/Gen4 | [P](https://www.plonkit.net/lesotho) |  |
+| Country | Characteristic **'Lesotho mountains'**: bare & treeless, **tabletop shapes**, recognizable horizontal rocky ridgelines | [P](https://www.plonkit.net/lesotho) |  |
+| Country | Plates **long white w/ blue text** (Mokorotlo hat symbol on the left) | [P](https://www.plonkit.net/lesotho) |  |
+| Country | Road lines **yellow outer / white inner**; unique **triple middle lines** (2 solid + dashed between — only in the 5 Southern African countries) | [P](https://www.plonkit.net/lesotho) |  |
+| Country | Drives **left**; traditional **round thatched huts** common in rural areas | [P](https://www.plonkit.net/lesotho) |  |
+| Country | **Agave** plants common; grasslands are **short grass** (Eswatini famously has tall grass) | [P](https://www.plonkit.net/lesotho) |  |
+| Country | Traditional clothing — many people wear a **Basotho woollen blanket**; lots of free-roaming **livestock** on roads | [P](https://www.plonkit.net/lesotho) |  |
+| Region | Coverage sparse (all urban coverage in the NW); **flat** region (tabletops far off) vs **mountainous** (road hugs the mountainside; only ~6 main roads covered) | [P](https://www.plonkit.net/lesotho) |  |
+
 ## Rwanda
 Study: [Plonk It](https://www.plonkit.net/rwanda)
 
@@ -216,6 +242,19 @@ Study: [Plonk It](https://www.plonkit.net/rwanda)
 | Country | Streets very **clean**; **black-and-white striped kerbs**; drives right; motorcyclists all wear **red vests & helmets** | [P](https://www.plonkit.net/rwanda) |  |
 | Region | Limited coverage (mainly **Kigali** + patches); street names carry a **2-letter district code**; national roads paint the road number on lampposts | [P](https://www.plonkit.net/rwanda) |  |
 | Region | Tea plantations in the west; **volcanoes + volcanic rock NW**; Akagera NP = dry-vegetated, wide reddish-brown unpaved roads | [P](https://www.plonkit.net/rwanda) |  |
+
+## Eswatini
+Study: [Plonk It](https://www.plonkit.net/eswatini)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Landscape = **green wooded hills + tall golden grass** (Lesotho's mountains are barren, w/ little long grass) | [P](https://www.plonkit.net/eswatini) |  |
+| Country | Poles dark brown wood, insulators mostly side-mounted — often **3 insulators** (commonest in Eswatini within S. Africa) | [P](https://www.plonkit.net/eswatini) |  |
+| Country | Roads starting with **"MR"** are exclusive to Eswatini | [P](https://www.plonkit.net/eswatini) |  |
+| Country | **Yellow outer lines**, occasionally triple white middle lines (shared with ZA/Lesotho/Botswana) | [P](https://www.plonkit.net/eswatini) |  |
+| Country | **White car, no antenna** (also ZA / Lesotho / Botswana) | [P](https://www.plonkit.net/eswatini) |  |
+| Country | Plates **long, green at the bottom** (resemble some South African plates); concrete bus shelters common | [P](https://www.plonkit.net/eswatini) |  |
+| Region | West = montane golden grass + pine plantations; MR9 central-south = dark-green wooded mountains; east = flat + sugarcane; Portuguese → Lomahasha (Mozambique border) | [P](https://www.plonkit.net/eswatini) |  |
 
 # Asia
 
@@ -1347,6 +1386,19 @@ Study: [Plonk It](https://www.plonkit.net/usa)
 | Special | **Ford Bronco** (unblurred black roof, red hood) on unpaved roads = TransAmerica Trail promo, OR→NC | [P](https://www.plonkit.net/usa) |  |
 | Special | **Devil's Tower** (lone butte, NE Wyoming) visible for miles; Badlands/Theodore Roosevelt = sand-brown eroded rock | [P](https://www.plonkit.net/usa) |  |
 
+## Greenland
+Study: [Plonk It](https://www.plonkit.net/greenland)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | **50+ small disjoint coverage patches** (densest on the SW coast); all **Gen3 trekker**, often mounted on odd vehicles | [P](https://www.plonkit.net/greenland) |  |
+| Country | Each town has its **own unique Street View vehicle** (red tractor, snowmobile, ATV…) — the best way to ID the exact town | [P](https://www.plonkit.net/greenland) |  |
+| Country | Architecture = small, **colourful, simple wooden houses**, sparsely placed even in cities | [P](https://www.plonkit.net/greenland) |  |
+| Country | Landscape very **barren, treeless, snowy**; mountains/hills + **fjords & coastlines** (nearly all coverage is coastal) | [P](https://www.plonkit.net/greenland) |  |
+| Country | **Boat trekkers** are very common (many different boats) | [P](https://www.plonkit.net/greenland) |  |
+| Region | **Nuuk** = the largest city + a grey car; **Sisimiut** = black snowmobile (overcast); **Ilulissat** = green ATV (sunny) | [P](https://www.plonkit.net/greenland) |  |
+| Special | More towns by vehicle: **Qaqortoq** = red car (sunny, greener); **Tasiilaq** = ATV w/ grey handguards; **Uummannaq** = sharp mountain to the north | [P](https://www.plonkit.net/greenland) |  |
+
 ## Mexico
 Study: [Plonk It](https://www.plonkit.net/mexico)
 
@@ -1412,6 +1464,30 @@ Study: [Plonk It](https://www.plonkit.net/costa-rica)
 | Country | Utility lamps often have a **blue dot** on top (also PA/CO/BR) | [P](https://www.plonkit.net/costa-rica) |  |
 | Country | Road signs often have a **cross on the back** (esp. diamond warnings); 'bollard' = a vertical **orange board w/ 3 black circles** | [P](https://www.plonkit.net/costa-rica) |  |
 | Region | **Imperial beer** ads (black-eagle mascot); circular electricity counters; **pole stickers** province-specific (first digit); yellow pole-paint style varies by province | [P](https://www.plonkit.net/costa-rica) |  |
+
+## Dominican Republic
+Study: [Plonk It](https://www.plonkit.net/dominican-republic)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Unique car: **two metal bars with thick black stripes** + a white hood at the front (Mongolia's striped car has different landscape) | [P](https://www.plonkit.net/dominican-republic) |  |
+| Country | Poles mostly **square concrete w/ a reverse-'L' top** (in the Americas only DR / Puerto Rico / Uruguay use square poles) | [P](https://www.plonkit.net/dominican-republic) |  |
+| Country | Plates **pale yellow top / white bottom** (New-Jersey-like); no front plate required | [P](https://www.plonkit.net/dominican-republic) |  |
+| Country | Roads often **smooth, notably dark asphalt**; stop sign says **"PARE"**, many signs on **yellow signposts** | [P](https://www.plonkit.net/dominican-republic) |  |
+| Region | Coverage only **Santo Domingo + Santiago de los Caballeros**; proper **mountains to the north = Santiago** | [P](https://www.plonkit.net/dominican-republic) |  |
+| Region | **Santo Domingo** = developed downtown, wide avenues, **"ADN"** on street signs (Distrito Nacional), black-and-purple pole markings | [P](https://www.plonkit.net/dominican-republic) |  |
+
+## Puerto Rico
+Study: [Plonk It](https://www.plonkit.net/puerto-rico)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | US territory (counts as US for streaks); mostly **smallcam** (wide round blur + antenna); Gen3 car has a front-right antenna w/ a white dot | [P](https://www.plonkit.net/puerto-rico) |  |
+| Country | **Spanish** on signs (some English); **Wal-Mart** & other US chains common (rare elsewhere in the Caribbean) | [P](https://www.plonkit.net/puerto-rico) |  |
+| Country | Whole island uses phone code **(787)** (also 939) — often written (787) XXX-XXXX | [P](https://www.plonkit.net/puerto-rico) |  |
+| Country | **No front plate** required; US-shape speed signs but **in Spanish**; stop sign = **PARE** | [P](https://www.plonkit.net/puerto-rico) |  |
+| Country | Unique **highway shields** (primary/secondary/tertiary — not in any US state); tall **green km markers** ("km" + a vertical number) | [P](https://www.plonkit.net/puerto-rico) |  |
+| Region | Homes concrete w/ flat roofs + metal gates; **south drier**, mountains in the middle (mostly divided-highway coverage); **Ponce Creole** architecture; colourful Old San Juan | [P](https://www.plonkit.net/puerto-rico) |  |
 
 # South America
 

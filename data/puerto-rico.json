@@ -1,0 +1,15 @@
+{
+ "name": "Puerto Rico",
+ "slug": "puerto-rico",
+ "continent": "North America",
+ "area_km2": 9104,
+ "links": { "plonkit": "https://www.plonkit.net/puerto-rico", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "US territory (counts as US for streaks); mostly **smallcam** (wide round blur + antenna); Gen3 car has a front-right antenna w/ a white dot", "src": ["plonkit"], "sv": null, "img": "pr_googlecar.png", "type": "cars" },
+  { "cat": "country", "text": "**Spanish** on signs (some English); **Wal-Mart** & other US chains common (rare elsewhere in the Caribbean)", "src": ["plonkit"], "sv": null, "img": "pr_spanish.png", "type": "language" },
+  { "cat": "country", "text": "Whole island uses phone code **(787)** (also 939) — often written (787) XXX-XXXX", "src": ["plonkit"], "sv": null, "img": "pr_areacode.png", "type": "naming" },
+  { "cat": "country", "text": "**No front plate** required; US-shape speed signs but **in Spanish**; stop sign = **PARE**", "src": ["plonkit"], "sv": null, "img": "pr_nofrontplates.png", "type": "plates" },
+  { "cat": "country", "text": "Unique **highway shields** (primary/secondary/tertiary — not in any US state); tall **green km markers** (\"km\" + a vertical number)", "src": ["plonkit"], "sv": null, "img": "pr_highway_shields.png", "type": "signs" },
+  { "cat": "region", "text": "Homes concrete w/ flat roofs + metal gates; **south drier**, mountains in the middle (mostly divided-highway coverage); **Ponce Creole** architecture; colourful Old San Juan", "src": ["plonkit"], "sv": null, "img": "pr_pare.png", "type": "arch" }
+ ]
+}

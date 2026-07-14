@@ -1,0 +1,16 @@
+{
+ "name": "Eswatini",
+ "slug": "eswatini",
+ "continent": "Africa",
+ "area_km2": 17364,
+ "links": { "plonkit": "https://www.plonkit.net/eswatini", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Landscape = **green wooded hills + tall golden grass** (Lesotho's mountains are barren, w/ little long grass)", "src": ["plonkit"], "sv": null, "img": "Eswatini_vibe.png", "type": "landscape" },
+  { "cat": "country", "text": "Poles dark brown wood, insulators mostly side-mounted — often **3 insulators** (commonest in Eswatini within S. Africa)", "src": ["plonkit"], "sv": null, "img": "Copy_of_Untitled_Design__2830_29.png", "type": "utility" },
+  { "cat": "country", "text": "Roads starting with **\"MR\"** are exclusive to Eswatini", "src": ["plonkit"], "sv": null, "img": "MRroad.png", "type": "signs" },
+  { "cat": "country", "text": "**Yellow outer lines**, occasionally triple white middle lines (shared with ZA/Lesotho/Botswana)", "src": ["plonkit"], "sv": null, "img": "Eswa_lines.png", "type": "markings" },
+  { "cat": "country", "text": "**White car, no antenna** (also ZA / Lesotho / Botswana)", "src": ["plonkit"], "sv": null, "img": "white_car.webp", "type": "cars" },
+  { "cat": "country", "text": "Plates **long, green at the bottom** (resemble some South African plates); concrete bus shelters common", "src": ["plonkit"], "sv": null, "img": "Eswatini_License_Plate.png", "type": "plates" },
+  { "cat": "region", "text": "West = montane golden grass + pine plantations; MR9 central-south = dark-green wooded mountains; east = flat + sugarcane; Portuguese → Lomahasha (Mozambique border)", "src": ["plonkit"], "sv": null, "img": "Landscape_-_Montane_Grasslands.png", "type": "naming" }
+ ]
+}
