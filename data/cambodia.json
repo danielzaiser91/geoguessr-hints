@@ -1,0 +1,19 @@
+{
+ "name": "Cambodia",
+ "slug": "cambodia",
+ "continent": "Asia",
+ "area_km2": 181035,
+ "links": { "plonkit": "https://www.plonkit.net/cambodia", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Plates white w/ blue letters (may look plain white through blur); **government vehicles = green plates**", "src": ["plonkit"], "sv": null, "img": "Cambodia_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "Gen3: a **short 3-ridge stubby-antenna** car, or a **white striped car** (white-left/yellow-right stripe, no antenna — unique to Cambodia); shitcam also exists", "src": ["plonkit"], "sv": null, "img": "Cambodia_cars_large.png", "type": "cars" },
+  { "cat": "country", "text": "Drives **right**; **Khmer** script — very intricate & curvy (Thai/Lao look similar but less intricate)", "src": ["plonkit"], "sv": null, "img": "Khmer.png", "type": "language" },
+  { "cat": "country", "text": "Poles: **concrete ladder poles** + round concrete w/ small holes (Vietnam similar); Thailand's square pinhole poles are rare here", "src": ["plonkit"], "sv": null, "img": "Cambodia_poles.png", "type": "utility" },
+  { "cat": "country", "text": "Bollards: **red-white striped stone** or **red-top/white-base w/ a reflector** — often used instead of chevrons on curves", "src": ["plonkit"], "sv": null, "img": "Bollards.png", "type": "bollards" },
+  { "cat": "country", "text": "Stone **road markers** (white base, rounded red top; road number on the narrow side, town + distance on the main side)", "src": ["plonkit"], "sv": null, "img": "Road_marker.png", "type": "signs" },
+  { "cat": "country", "text": "Chevrons **black w/ yellow arrows** (all other SE Asian countries use the reverse)", "src": ["plonkit"], "sv": null, "img": "Chevron.png", "type": "signs" },
+  { "cat": "country", "text": "Roads: yellow middle lines (dashed/solid), rare white outer; **many roads unpaved**", "src": ["plonkit"], "sv": null, "img": "Road_lines.png", "type": "markings" },
+  { "cat": "country", "text": "**Wooden stilt houses** (vertical planks; dark-red/light-blue/ochre walls w/ bright-blue trim; double/triple roofs)", "src": ["plonkit"], "sv": null, "img": "Stilt_houses.png", "type": "arch" },
+  { "cat": "country", "text": "Majority **Buddhist** (ornate temples); **Angkor/Anchor** beer ads; blue **CPP** party signs (often 3 politicians)", "src": ["plonkit"], "sv": null, "img": "Buddhist_temples.png", "type": "general" }
+ ]
+}

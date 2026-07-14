@@ -1,0 +1,17 @@
+{
+ "name": "Kyrgyzstan",
+ "slug": "kyrgyzstan",
+ "continent": "Asia",
+ "area_km2": 199951,
+ "links": { "plonkit": "https://www.plonkit.net/kyrgyzstan", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Plates have a **red strip** (also seen in Albania, very rarely the UAE)", "src": ["plonkit"], "sv": null, "img": "Kyrgyzstan_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "**Silver car with four bars** visible; all coverage is **Gen3** (no similar-landscape country has this car)", "src": ["plonkit"], "sv": null, "img": "Please_dont_guess_Guatemala.png", "type": "cars" },
+  { "cat": "country", "text": "**Kyrgyz Cyrillic** w/ extra letters **Ө Ү Ң** (not in Russian Cyrillic)", "src": ["plonkit"], "sv": null, "img": "kg_language.png", "type": "language" },
+  { "cat": "country", "text": "All covered in **winter** (leafless trees, drab, snow in many parts); trees & poles painted **white at the bottom**", "src": ["plonkit"], "sv": null, "img": "Kyrgyzstan_White_Paint_hint.png", "type": "landscape" },
+  { "cat": "country", "text": "Simple **white bollards w/ a diagonal black stripe** near the top", "src": ["plonkit"], "sv": null, "img": "Kyrgyzstan_Bollards.png", "type": "bollards" },
+  { "cat": "country", "text": "km markers with a **red-and-white triangle pattern** are unique to Kyrgyzstan", "src": ["plonkit"], "sv": null, "img": "Kyrg_KM_marker.png", "type": "signs" },
+  { "cat": "country", "text": "Majority **Muslim** → many mosques throughout the country", "src": ["plonkit"], "sv": null, "img": "Mosques.png", "type": "general" },
+  { "cat": "region", "text": "Very limited coverage; **car-mirror meta** narrows region (southern mirror is more diagonal → Osh/Manas); **Lake Issyk-Kul** in the north; divided roads → around Bishkek", "src": ["plonkit"], "sv": null, "img": "Kyrgyzstan_Coverage_Map_V4.png", "type": "naming" }
+ ]
+}

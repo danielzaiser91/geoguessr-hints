@@ -1,0 +1,18 @@
+{
+ "name": "Bhutan",
+ "slug": "bhutan",
+ "continent": "Asia",
+ "area_km2": 38394,
+ "links": { "plonkit": "https://www.plonkit.net/bhutan", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Plates almost always **full red** (the only Asian country w/ red plates); taxis = **yellow plates + yellow roofs**", "src": ["plonkit"], "sv": null, "img": "Bhutan_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "**Grey car, no antenna** — the only left-driving country with a grey Google car", "src": ["plonkit"], "sv": null, "img": "googlecar.png", "type": "cars" },
+  { "cat": "country", "text": "**Stone-block safety barriers** on winding rural roads (a great rural-Bhutan clue); guardrails are rare", "src": ["plonkit"], "sv": null, "img": "stonebarriers.png", "type": "utility" },
+  { "cat": "country", "text": "Very distinct architecture: **tin roofs + painted wooden frames**", "src": ["plonkit"], "sv": null, "img": "architecture.png", "type": "arch" },
+  { "cat": "country", "text": "**Dzongkha** script — unique-looking letters (found only in Bhutan on Street View)", "src": ["plonkit"], "sv": null, "img": "Dzongkha.png", "type": "language" },
+  { "cat": "country", "text": "**Mountainous** (most coverage on mountain roads); **prayer flags** by the road; flat land only in the south", "src": ["plonkit"], "sv": null, "img": "landscape.png", "type": "landscape" },
+  { "cat": "country", "text": "Road markers = **yellow top / white bottom** (national highways show the road number on top → pinpoint the road)", "src": ["plonkit"], "sv": null, "img": "waystone.png", "type": "signs" },
+  { "cat": "country", "text": "City signs (red or blue) show the **town name**; **black-and-white striped signposts** (also LK/IN/NP/MY/BD)", "src": ["plonkit"], "sv": null, "img": "signpost.png", "type": "signs" },
+  { "cat": "region", "text": "Coverage on main roads + cities; south is flat (only 4 regions covered); **Phobjikha Valley** = the biggest open flat valley", "src": ["plonkit"], "sv": null, "img": "bt_coverage.png", "type": "naming" }
+ ]
+}

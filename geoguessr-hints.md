@@ -12,10 +12,10 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**75 / 136 countries.**
+**81 / 136 countries.**
 
 **Africa:** ⬜ Botswana ✅ Egypt ⬜ Eswatini ✅ Ghana ✅ Kenya ⬜ Lesotho ⬜ Madagascar ⬜ Mali ⬜ Namibia ✅ Nigeria ⬜ Reunion ⬜ Rwanda ⬜ Senegal ✅ South Africa ⬜ São Tomé and Príncipe ⬜ Tanzania ✅ Tunisia ✅ Uganda
-**Asia:** ✅ Bangladesh ⬜ Bhutan ⬜ British Indian Ocean Territory ⬜ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ⬜ Iraq ⬜ Israel & the West Bank ✅ Japan ✅ Jordan ✅ Kazakhstan ⬜ Kyrgyzstan ⬜ Laos ✅ Lebanon ⬜ Macau ✅ Malaysia ✅ Mongolia ✅ Nepal ✅ Oman ⬜ Pakistan ✅ Philippines ✅ Qatar ⬜ Singapore ✅ South Korea ✅ Sri Lanka ✅ Taiwan ✅ Thailand ✅ Turkey ✅ United Arab Emirates ✅ Vietnam
+**Asia:** ✅ Bangladesh ✅ Bhutan ⬜ British Indian Ocean Territory ✅ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ✅ Iraq ⬜ Israel & the West Bank ✅ Japan ✅ Jordan ✅ Kazakhstan ✅ Kyrgyzstan ✅ Laos ✅ Lebanon ⬜ Macau ✅ Malaysia ✅ Mongolia ✅ Nepal ✅ Oman ✅ Pakistan ✅ Philippines ✅ Qatar ⬜ Singapore ✅ South Korea ✅ Sri Lanka ✅ Taiwan ✅ Thailand ✅ Turkey ✅ United Arab Emirates ✅ Vietnam
 **Europe:** ⬜ Albania ⬜ Andorra ✅ Austria ⬜ Azores ⬜ Belarus ✅ Belgium ✅ Bulgaria ✅ Croatia ✅ Czechia ✅ Denmark ✅ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ⬜ Gibraltar ✅ Greece ✅ Hungary ✅ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ✅ Latvia ⬜ Liechtenstein ✅ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ✅ Romania ✅ Russia ⬜ San Marino ✅ Serbia ✅ Slovakia ✅ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
 **North America:** ⬜ Alaska ⬜ Bermuda ✅ Canada ✅ Costa Rica ⬜ Dominican Republic ⬜ Greenland ✅ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ✅ Panama ⬜ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
 **South America:** ✅ Argentina ✅ Bolivia ✅ Brazil ✅ Chile ✅ Colombia ⬜ Curaçao ✅ Ecuador ⬜ Falkland Islands ✅ Peru ✅ Uruguay
@@ -225,6 +225,19 @@ Study: [Plonk It](https://www.plonkit.net/mongolia)
 | Country | Large **herds** (horses, yaks, camels, sheep); decorated stone-pile shrines called **ovoos** | [P](https://www.plonkit.net/mongolia) |  |
 | Region | Very limited coverage (highways + towns, densest around **Ulaanbaatar**); driving direction tends **away from UB**; east/south flat, north hilly + larch/birch forest, west = mountains | [P](https://www.plonkit.net/mongolia) |  |
 
+## Pakistan
+Study: [Plonk It](https://www.plonkit.net/pakistan)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Coverage = mainly **Gen3 trekker** in **Punjab** (major temples & tourist sites; very limited) | [P](https://www.plonkit.net/pakistan) |  |
+| Country | **Urdu** script (Arabic-like but softer/curvier fonts); **English** also common on signage | [P](https://www.plonkit.net/pakistan) |  |
+| Country | Short plates, region-specific — coverage is all Punjab, so mostly a **green strip on the left** (or fully green); India uses long plates | [P](https://www.plonkit.net/pakistan) |  |
+| Country | Much coverage in **Mughal gardens** — large ordered gardens w/ stone walls + old forts/temples | [P](https://www.plonkit.net/pakistan) |  |
+| Country | Brightly coloured **baggy pants** are common (India's Gen3-trekker clothing tends to be tighter) | [P](https://www.plonkit.net/pakistan) |  |
+| Region | Other sites: **Hiran Minar** (temple on a lake), **Rohtas Fort** (near-black walls), **Harappa Museum**, Patriata pine forests | [P](https://www.plonkit.net/pakistan) |  |
+| Special | **Lahore Fort** (Alamgiri Gate, tall red-brick walls); universities (gothic, colonial white domes, red-brick paths) | [P](https://www.plonkit.net/pakistan) |  |
+
 ## Turkey
 Study: [Plonk It](https://www.plonkit.net/turkey)
 
@@ -266,6 +279,16 @@ Study: [Plonk It](https://www.plonkit.net/thailand)
 | State | National road **first digit = region**: 1 = north, 2 = NE, 3 = centre, 4 = south; Bangkok phone code 02 | [P](https://www.plonkit.net/thailand) |  |
 | State | Provincial waystones + **black boxes** carry a 2–3 letter **province abbreviation** (Thai script) → pinpoint province | [P](https://www.plonkit.net/thailand) |  |
 | Special | **Bangkok pink & yellow-on-green taxis**; red **songthaew** pickups → Chiang Mai; Phuket = touristy, hilly, resorts | [P](https://www.plonkit.net/thailand) |  |
+
+## Iraq
+Study: [Plonk It](https://www.plonkit.net/iraq)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | All coverage = a **single trekker inside the Iraqi National Museum, Baghdad** | [P](https://www.plonkit.net/iraq) |  |
+| Country | Camera is **'Gen 1.5'** — Gen2-like but worse quality, often blindingly overexposed; trekker blur has a well-defined **pointed** shape | [P](https://www.plonkit.net/iraq) |  |
+| Country | The only outdoor part = a small **patio w/ a diagonal walkway + date palms** | [P](https://www.plonkit.net/iraq) |  |
+| Special | Interior = **statues, steles, artefacts** and a few back rooms | [P](https://www.plonkit.net/iraq) |  |
 
 ## Japan
 Study: [Plonk It](https://www.plonkit.net/japan)
@@ -355,6 +378,51 @@ Study: [Plonk It](https://www.plonkit.net/philippines)
 | State | **Province names on signs** (memorise — not on the map); motorcycle plates colour-coded (north = strip on top, south = bottom) | [P](https://www.plonkit.net/philippines) |  |
 | Special | **Chocolate Hills** (round grassy hills) → Bohol; **Mayon** perfect-cone volcano; Cordillera = yellow/black striped concrete guardrails | [P](https://www.plonkit.net/philippines) |  |
 | Special | **Amakan** woven-bamboo walls → south; western Mindanao majority **Muslim**; Mountain-Dew-bottle decorations → N. Luzon | [P](https://www.plonkit.net/philippines) |  |
+
+## Laos
+Study: [Plonk It](https://www.plonkit.net/laos)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Coverage = only **5 cities** (Vientiane, Vang Vieng, Luang Prabang, Savannakhet, Pakse), all **Gen3** | [P](https://www.plonkit.net/laos) |  |
+| Country | Car = **silver, roof rack w/ two metal bars, black mirrors** (visible in all cities except Vientiane; Guatemala's is similar) | [P](https://www.plonkit.net/laos) |  |
+| Country | Drives **right** (Thailand left); plates short **yellow** (Thai/Cambodian non-commercial plates are white); commercial white, government blue | [P](https://www.plonkit.net/laos) |  |
+| Country | **Lao script** — compact & curvy, with fewer straight lines than Thai | [P](https://www.plonkit.net/laos) |  |
+| Country | Majority **Buddhist** (ornate gold-leaf temples); **stop signs have 2 characters** (Thailand's have 3) | [P](https://www.plonkit.net/laos) |  |
+| Country | **Striped curbs** in various colours (red / yellow / black with white) | [P](https://www.plonkit.net/laos) |  |
+| Country | Square concrete poles with a **vertical row of pinholes** (also Thailand/Sri Lanka) | [P](https://www.plonkit.net/laos) |  |
+| Country | Square concrete **black-and-white bollards w/ black bands**; occasional red-white cuboid concrete bollard off the road | [P](https://www.plonkit.net/laos) |  |
+| Region | Communist govt → **hammer-and-sickle flags**; cities differ: Luang Prabang (historical + hills + palms), Vang Vieng (rugged mountains), Savannakhet (very flat), Pakse (red soil, arid, hills) | [P](https://www.plonkit.net/laos) |  |
+
+## Kyrgyzstan
+Study: [Plonk It](https://www.plonkit.net/kyrgyzstan)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates have a **red strip** (also seen in Albania, very rarely the UAE) | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Country | **Silver car with four bars** visible; all coverage is **Gen3** (no similar-landscape country has this car) | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Country | **Kyrgyz Cyrillic** w/ extra letters **Ө Ү Ң** (not in Russian Cyrillic) | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Country | All covered in **winter** (leafless trees, drab, snow in many parts); trees & poles painted **white at the bottom** | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Country | Simple **white bollards w/ a diagonal black stripe** near the top | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Country | km markers with a **red-and-white triangle pattern** are unique to Kyrgyzstan | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Country | Majority **Muslim** → many mosques throughout the country | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Region | Very limited coverage; **car-mirror meta** narrows region (southern mirror is more diagonal → Osh/Manas); **Lake Issyk-Kul** in the north; divided roads → around Bishkek | [P](https://www.plonkit.net/kyrgyzstan) |  |
+
+## Cambodia
+Study: [Plonk It](https://www.plonkit.net/cambodia)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates white w/ blue letters (may look plain white through blur); **government vehicles = green plates** | [P](https://www.plonkit.net/cambodia) |  |
+| Country | Gen3: a **short 3-ridge stubby-antenna** car, or a **white striped car** (white-left/yellow-right stripe, no antenna — unique to Cambodia); shitcam also exists | [P](https://www.plonkit.net/cambodia) |  |
+| Country | Drives **right**; **Khmer** script — very intricate & curvy (Thai/Lao look similar but less intricate) | [P](https://www.plonkit.net/cambodia) |  |
+| Country | Poles: **concrete ladder poles** + round concrete w/ small holes (Vietnam similar); Thailand's square pinhole poles are rare here | [P](https://www.plonkit.net/cambodia) |  |
+| Country | Bollards: **red-white striped stone** or **red-top/white-base w/ a reflector** — often used instead of chevrons on curves | [P](https://www.plonkit.net/cambodia) |  |
+| Country | Stone **road markers** (white base, rounded red top; road number on the narrow side, town + distance on the main side) | [P](https://www.plonkit.net/cambodia) |  |
+| Country | Chevrons **black w/ yellow arrows** (all other SE Asian countries use the reverse) | [P](https://www.plonkit.net/cambodia) |  |
+| Country | Roads: yellow middle lines (dashed/solid), rare white outer; **many roads unpaved** | [P](https://www.plonkit.net/cambodia) |  |
+| Country | **Wooden stilt houses** (vertical planks; dark-red/light-blue/ochre walls w/ bright-blue trim; double/triple roofs) | [P](https://www.plonkit.net/cambodia) |  |
+| Country | Majority **Buddhist** (ornate temples); **Angkor/Anchor** beer ads; blue **CPP** party signs (often 3 politicians) | [P](https://www.plonkit.net/cambodia) |  |
 
 ## Bangladesh
 Study: [Plonk It](https://www.plonkit.net/bangladesh)
@@ -451,6 +519,21 @@ Study: [Plonk It](https://www.plonkit.net/sri-lanka)
 | Country | **Palm trees** very common; orange/red tiled roofs (often brownish from wear) | [P](https://www.plonkit.net/sri-lanka) |  |
 | Country | Majority **Buddhist** (temples, stupas, Buddhist flag); bulky **tuk-tuks with a black roof** (green/yellow/red) | [P](https://www.plonkit.net/sri-lanka) |  |
 | Region | Phone area codes (10-digit); religion by region: Buddhism most; **Hinduism + Tamil → north/east & Nuwara Eliya**; Islam = east coast; Christianity = NW (Mannar) | [P](https://www.plonkit.net/sri-lanka) |  |
+
+## Bhutan
+Study: [Plonk It](https://www.plonkit.net/bhutan)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates almost always **full red** (the only Asian country w/ red plates); taxis = **yellow plates + yellow roofs** | [P](https://www.plonkit.net/bhutan) |  |
+| Country | **Grey car, no antenna** — the only left-driving country with a grey Google car | [P](https://www.plonkit.net/bhutan) |  |
+| Country | **Stone-block safety barriers** on winding rural roads (a great rural-Bhutan clue); guardrails are rare | [P](https://www.plonkit.net/bhutan) |  |
+| Country | Very distinct architecture: **tin roofs + painted wooden frames** | [P](https://www.plonkit.net/bhutan) |  |
+| Country | **Dzongkha** script — unique-looking letters (found only in Bhutan on Street View) | [P](https://www.plonkit.net/bhutan) |  |
+| Country | **Mountainous** (most coverage on mountain roads); **prayer flags** by the road; flat land only in the south | [P](https://www.plonkit.net/bhutan) |  |
+| Country | Road markers = **yellow top / white bottom** (national highways show the road number on top → pinpoint the road) | [P](https://www.plonkit.net/bhutan) |  |
+| Country | City signs (red or blue) show the **town name**; **black-and-white striped signposts** (also LK/IN/NP/MY/BD) | [P](https://www.plonkit.net/bhutan) |  |
+| Region | Coverage on main roads + cities; south is flat (only 4 regions covered); **Phobjikha Valley** = the biggest open flat valley | [P](https://www.plonkit.net/bhutan) |  |
 
 ## Taiwan
 Study: [Plonk It](https://www.plonkit.net/taiwan)
