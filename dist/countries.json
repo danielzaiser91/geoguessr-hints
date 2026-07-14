@@ -4453,6 +4453,98 @@
    ]
   },
   {
+   "name": "Jordan",
+   "slug": "jordan",
+   "continent": "Asia",
+   "area_km2": 89342,
+   "links": {
+    "plonkit": "https://www.plonkit.net/jordan",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "**Black car, no antenna, no red brake light** — the only Middle Eastern country covered by this car",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Untitled_design89.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Plates white (long or short); commercial/taxis have a **green strip on the left** (only Jordan in the ME; Israel = yellow plates)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Jordan_License_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "**Arabic**; unlike the UAE, **little English** on commercial signs (a good UAE-vs-Jordan tell)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "arabic_language.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Roads: **yellow outer, white middle** lines; chevrons **white w/ red arrows** (Israel = black w/ white arrows)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "roadlines.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "Electricity poles: rounded concrete w/ a diagonal support or **three horizontal 'Y' tops**; thin metal poles w/ 3 vertical coils",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Untitled_design92.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Very **arid** — lots of lifeless desert; even the lushest parts look like arid Mediterranean",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "jo_landscape.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Buildings mostly **bright sandstone brick w/ flat roofs**; roads often warped/cracked (worse than Israel)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "jo_architecture.png",
+     "type": "arch"
+    },
+    {
+     "cat": "region",
+     "text": "Coverage only in the **far west** (Amman = big-city; ends N of Jerash; south reaches Aqaba); **Madaba = red soil**; highways 15/35/40/65/80 each distinct",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "jo_coverage.png",
+     "type": "naming"
+    }
+   ]
+  },
+  {
    "name": "Kazakhstan",
    "slug": "kazakhstan",
    "continent": "Asia",
@@ -4813,6 +4905,98 @@
      "sv": null,
      "img": "Latvia_architecture.png",
      "type": "arch"
+    }
+   ]
+  },
+  {
+   "name": "Lebanon",
+   "slug": "lebanon",
+   "continent": "Asia",
+   "area_km2": 10452,
+   "links": {
+    "plonkit": "https://www.plonkit.net/lebanon",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plates long or short with a **blue strip on the left** (Euro-like); **taxis have deep-red plates**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "lb_licenceplates.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Arabic, but **English & French** also common on signage",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "lb_arabic.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "**Shitcam** — Lebanon is the only ME country with it; the rest of coverage is **Gen3 trekker**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "lb_shitcam.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "**Mediterranean** landscape with lots of hills and rocky cliffs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "lb_landscape.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "**Metallic mesh poles** (sometimes painted bright yellow) + generic wooden poles",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Lebanon_Poles.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Many buildings of **sandstone brick** (looks like Jerusalem stone of Israel/West Bank)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "lb_sandstonebricks.png",
+     "type": "arch"
+    },
+    {
+     "cat": "region",
+     "text": "Coverage concentrated on the **west coast, north of Beirut**; Zahle = flat fields + black car; snowy tops → NE mountains",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Lebanon_Coverage_Map.png",
+     "type": "naming"
+    },
+    {
+     "cat": "special",
+     "text": "Gen3 trekkers: **Beirut** high-rises + palm promenade; **Byblos** ancient stone city; **Baalbek** Roman ruins; several university campuses",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "lb_beirut.png",
+     "type": "general"
     }
    ]
   },
@@ -6058,6 +6242,108 @@
    ]
   },
   {
+   "name": "Oman",
+   "slug": "oman",
+   "continent": "Asia",
+   "area_km2": 309500,
+   "links": {
+    "plonkit": "https://www.plonkit.net/oman",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Mostly **desert** w/ little vegetation; **dry mountains** on the north coast + some on the south coast",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "2.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Plates: private **yellow**, commercial **red**; white **taxis w/ orange side panels**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "3.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Coverage = **white pickup** (usually fully blurred; sometimes antenna or the front is visible)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "oman_blurred.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Arabic + **English** (tourism, like the UAE)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "5.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Roads yellow outer / white middle; **black-and-yellow curbs** (also common in UAE)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "7.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "Buildings **light stone, blocky but ornate**, usually with matching ornate fences & gates",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "8.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "**Striped signposts** (in the ME only Oman + UAE); directional signs blue in Arabic + English",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "10.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**Wooden poles**, 3 pole-top designs — the one w/ a **metal triangle above the pole is unique to Oman**; poles are commoner here than in UAE/Qatar",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "11.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "**Black-yellow chevrons with many arrows**; **red-and-white painted pylons**; **be'ah** garbage bins (numbers on them = region)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "12.png",
+     "type": "signs"
+    }
+   ]
+  },
+  {
    "name": "Panama",
    "slug": "panama",
    "continent": "North America",
@@ -6717,6 +7003,98 @@
      ],
      "sv": null,
      "type": "general"
+    }
+   ]
+  },
+  {
+   "name": "Qatar",
+   "slug": "qatar",
+   "continent": "Asia",
+   "area_km2": 11586,
+   "links": {
+    "plonkit": "https://www.plonkit.net/qatar",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plates long white w/ a **maroon strip on the left**; trucks = black square plates, police = blue",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Qatar_License_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "White pickup, usually blurred with only the **antenna on the left** + a sliver of car visible; rusty clips on the crossbar",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Qatar_cars.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Predominantly **desert** — flat arid sand as far as you can see, little greenery",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Qatar_landscape.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Roads = solid outer white lines w/ white or yellow middle (rarely outer yellow too)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Qatar_Roadlines.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "**Round poles, 3 insulators** (middle one slightly higher) + two diagonal bars connecting the crossbar to the pole",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Qatarpoles.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Chevrons **white-on-red & white-on-blue**; lots of 2022 **World Cup** banners still up",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Qatar_chevron.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Crossing signs feature a **man in a thobe**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Crossing_Sign.png",
+     "type": "signs"
+    },
+    {
+     "cat": "region",
+     "text": "Well covered (S/W lack it); **numbered zones on street signs** = region; antenna length = region (short = north, long = Doha/SW); stadiums (Lusail golden bowl, Al Bayt stripes)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Qatar_Coverage_Map_.png",
+     "type": "naming"
     }
    ]
   },
@@ -9042,6 +9420,108 @@
    ]
   },
   {
+   "name": "United Arab Emirates",
+   "slug": "united-arab-emirates",
+   "continent": "Asia",
+   "area_km2": 83600,
+   "links": {
+    "plonkit": "https://www.plonkit.net/united-arab-emirates",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Typically a flat **desert** landscape",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ae_desert.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Roads: **yellow outer lines**, middle white or yellow (also Jordan/Israel/Oman)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ae_roadlines.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "Gen3 **white car w/ black roof racks** (only ME country with a white car); Gen4 = white pickup trekker (antenna centred; Qatar's is left) + a black car",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gen3car.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Arabic + lots of **English** (tourism; also Qatar/Oman, but not Jordan)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "arabic_language.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Houses **light-coloured stone** (reddish sidewalk stones); **black-and-white striped signposts** (also Oman) + striped curbs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "architecture.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "**Divided roads + roundabouts** both very common",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "roundabout.png",
+     "type": "general"
+    },
+    {
+     "cat": "country",
+     "text": "Electricity poles = **dark brown wood, 3 insulators on a horizontal bar** (Oman similar; Jordan = grey concrete, more spaced)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ae_poles.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Despite the wealth, residential roads are often **unpaved**; rifts occasionally appear",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ae_unpavedresidentialroad.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "region",
+     "text": "Coverage mostly **NE**; **Dubai** skyscrapers (Burj Khalifa) + blue street signs; mountains only in the far east (Ras al Khaimah)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ae_coverage.png",
+     "type": "naming"
+    }
+   ]
+  },
+  {
    "name": "United Kingdom",
    "slug": "united-kingdom",
    "continent": "Europe",
@@ -10077,7 +10557,7 @@
   "Antarctica"
  ],
  "counts": {
-  "done": 70,
+  "done": 75,
   "total": 136
  }
 }

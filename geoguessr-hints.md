@@ -12,10 +12,10 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**70 / 136 countries.**
+**75 / 136 countries.**
 
 **Africa:** ⬜ Botswana ✅ Egypt ⬜ Eswatini ✅ Ghana ✅ Kenya ⬜ Lesotho ⬜ Madagascar ⬜ Mali ⬜ Namibia ✅ Nigeria ⬜ Reunion ⬜ Rwanda ⬜ Senegal ✅ South Africa ⬜ São Tomé and Príncipe ⬜ Tanzania ✅ Tunisia ✅ Uganda
-**Asia:** ✅ Bangladesh ⬜ Bhutan ⬜ British Indian Ocean Territory ⬜ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ⬜ Iraq ⬜ Israel & the West Bank ✅ Japan ⬜ Jordan ✅ Kazakhstan ⬜ Kyrgyzstan ⬜ Laos ⬜ Lebanon ⬜ Macau ✅ Malaysia ✅ Mongolia ✅ Nepal ⬜ Oman ⬜ Pakistan ✅ Philippines ⬜ Qatar ⬜ Singapore ✅ South Korea ✅ Sri Lanka ✅ Taiwan ✅ Thailand ✅ Turkey ⬜ United Arab Emirates ✅ Vietnam
+**Asia:** ✅ Bangladesh ⬜ Bhutan ⬜ British Indian Ocean Territory ⬜ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ⬜ Iraq ⬜ Israel & the West Bank ✅ Japan ✅ Jordan ✅ Kazakhstan ⬜ Kyrgyzstan ⬜ Laos ✅ Lebanon ⬜ Macau ✅ Malaysia ✅ Mongolia ✅ Nepal ✅ Oman ⬜ Pakistan ✅ Philippines ✅ Qatar ⬜ Singapore ✅ South Korea ✅ Sri Lanka ✅ Taiwan ✅ Thailand ✅ Turkey ✅ United Arab Emirates ✅ Vietnam
 **Europe:** ⬜ Albania ⬜ Andorra ✅ Austria ⬜ Azores ⬜ Belarus ✅ Belgium ✅ Bulgaria ✅ Croatia ✅ Czechia ✅ Denmark ✅ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ⬜ Gibraltar ✅ Greece ✅ Hungary ✅ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ✅ Latvia ⬜ Liechtenstein ✅ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ✅ Romania ✅ Russia ⬜ San Marino ✅ Serbia ✅ Slovakia ✅ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
 **North America:** ⬜ Alaska ⬜ Bermuda ✅ Canada ✅ Costa Rica ⬜ Dominican Republic ⬜ Greenland ✅ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ✅ Panama ⬜ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
 **South America:** ✅ Argentina ✅ Bolivia ✅ Brazil ✅ Chile ✅ Colombia ⬜ Curaçao ✅ Ecuador ⬜ Falkland Islands ✅ Peru ✅ Uruguay
@@ -322,6 +322,21 @@ Study: [Plonk It](https://www.plonkit.net/malaysia)
 | State | Pole stickers: black = mainland, **white = Sarawak (Borneo)**; 'TEL TNB' stickers = Johor | [P](https://www.plonkit.net/malaysia) |  |
 | Special | Arrow-shaped street signs (Malaysia-unique): **yellow = Johor**, green w/ JKR hexagon = Sabah; trash-bin logos cluster by state | [P](https://www.plonkit.net/malaysia) |  |
 
+## Oman
+Study: [Plonk It](https://www.plonkit.net/oman)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Mostly **desert** w/ little vegetation; **dry mountains** on the north coast + some on the south coast | [P](https://www.plonkit.net/oman) |  |
+| Country | Plates: private **yellow**, commercial **red**; white **taxis w/ orange side panels** | [P](https://www.plonkit.net/oman) |  |
+| Country | Coverage = **white pickup** (usually fully blurred; sometimes antenna or the front is visible) | [P](https://www.plonkit.net/oman) |  |
+| Country | Arabic + **English** (tourism, like the UAE) | [P](https://www.plonkit.net/oman) |  |
+| Country | Roads yellow outer / white middle; **black-and-yellow curbs** (also common in UAE) | [P](https://www.plonkit.net/oman) |  |
+| Country | Buildings **light stone, blocky but ornate**, usually with matching ornate fences & gates | [P](https://www.plonkit.net/oman) |  |
+| Country | **Striped signposts** (in the ME only Oman + UAE); directional signs blue in Arabic + English | [P](https://www.plonkit.net/oman) |  |
+| Country | **Wooden poles**, 3 pole-top designs — the one w/ a **metal triangle above the pole is unique to Oman**; poles are commoner here than in UAE/Qatar | [P](https://www.plonkit.net/oman) |  |
+| Country | **Black-yellow chevrons with many arrows**; **red-and-white painted pylons**; **be'ah** garbage bins (numbers on them = region) | [P](https://www.plonkit.net/oman) |  |
+
 ## Philippines
 Study: [Plonk It](https://www.plonkit.net/philippines)
 
@@ -392,6 +407,35 @@ Study: [Plonk It](https://www.plonkit.net/south-korea)
 | Region | **Jeju** = volcanic island: dark volcanic soil, **volcanic-rock walls**, volcanoes on the horizon; Gen2 → Seoul & Busan | [P](https://www.plonkit.net/south-korea) |  |
 | State | Coverage spotty (cities + highways); **area codes increase south** (02 Seoul → 064 Jeju; Seoul = only 2-digit code) | [P](https://www.plonkit.net/south-korea) |  |
 
+## Jordan
+Study: [Plonk It](https://www.plonkit.net/jordan)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | **Black car, no antenna, no red brake light** — the only Middle Eastern country covered by this car | [P](https://www.plonkit.net/jordan) |  |
+| Country | Plates white (long or short); commercial/taxis have a **green strip on the left** (only Jordan in the ME; Israel = yellow plates) | [P](https://www.plonkit.net/jordan) |  |
+| Country | **Arabic**; unlike the UAE, **little English** on commercial signs (a good UAE-vs-Jordan tell) | [P](https://www.plonkit.net/jordan) |  |
+| Country | Roads: **yellow outer, white middle** lines; chevrons **white w/ red arrows** (Israel = black w/ white arrows) | [P](https://www.plonkit.net/jordan) |  |
+| Country | Electricity poles: rounded concrete w/ a diagonal support or **three horizontal 'Y' tops**; thin metal poles w/ 3 vertical coils | [P](https://www.plonkit.net/jordan) |  |
+| Country | Very **arid** — lots of lifeless desert; even the lushest parts look like arid Mediterranean | [P](https://www.plonkit.net/jordan) |  |
+| Country | Buildings mostly **bright sandstone brick w/ flat roofs**; roads often warped/cracked (worse than Israel) | [P](https://www.plonkit.net/jordan) |  |
+| Region | Coverage only in the **far west** (Amman = big-city; ends N of Jerash; south reaches Aqaba); **Madaba = red soil**; highways 15/35/40/65/80 each distinct | [P](https://www.plonkit.net/jordan) |  |
+
+## United Arab Emirates
+Study: [Plonk It](https://www.plonkit.net/united-arab-emirates)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Typically a flat **desert** landscape | [P](https://www.plonkit.net/united-arab-emirates) |  |
+| Country | Roads: **yellow outer lines**, middle white or yellow (also Jordan/Israel/Oman) | [P](https://www.plonkit.net/united-arab-emirates) |  |
+| Country | Gen3 **white car w/ black roof racks** (only ME country with a white car); Gen4 = white pickup trekker (antenna centred; Qatar's is left) + a black car | [P](https://www.plonkit.net/united-arab-emirates) |  |
+| Country | Arabic + lots of **English** (tourism; also Qatar/Oman, but not Jordan) | [P](https://www.plonkit.net/united-arab-emirates) |  |
+| Country | Houses **light-coloured stone** (reddish sidewalk stones); **black-and-white striped signposts** (also Oman) + striped curbs | [P](https://www.plonkit.net/united-arab-emirates) |  |
+| Country | **Divided roads + roundabouts** both very common | [P](https://www.plonkit.net/united-arab-emirates) |  |
+| Country | Electricity poles = **dark brown wood, 3 insulators on a horizontal bar** (Oman similar; Jordan = grey concrete, more spaced) | [P](https://www.plonkit.net/united-arab-emirates) |  |
+| Country | Despite the wealth, residential roads are often **unpaved**; rifts occasionally appear | [P](https://www.plonkit.net/united-arab-emirates) |  |
+| Region | Coverage mostly **NE**; **Dubai** skyscrapers (Burj Khalifa) + blue street signs; mountains only in the far east (Ras al Khaimah) | [P](https://www.plonkit.net/united-arab-emirates) |  |
+
 ## Sri Lanka
 Study: [Plonk It](https://www.plonkit.net/sri-lanka)
 
@@ -424,6 +468,34 @@ Study: [Plonk It](https://www.plonkit.net/taiwan)
 | Country | Gen3 **black car w/ long antenna + red brake light** (Russia-like); also a huge-blur Gen3 car (not low-cam) | [P](https://www.plonkit.net/taiwan) |  |
 | Region | Flat **western plain** = farmland; central-eastern ⅔ = forested mountains; Hualien-Taitung & Yilan valleys = rice paddies; **areca/betel-nut palms** central & south | [P](https://www.plonkit.net/taiwan) |  |
 | State | Counties + **outer islands** (Kinmen, Matsu, Penghu, Green/Orchid); **area codes 02–08 increase south**; freeways odd = N-S, even = E-W | [P](https://www.plonkit.net/taiwan) |  |
+
+## Qatar
+Study: [Plonk It](https://www.plonkit.net/qatar)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates long white w/ a **maroon strip on the left**; trucks = black square plates, police = blue | [P](https://www.plonkit.net/qatar) |  |
+| Country | White pickup, usually blurred with only the **antenna on the left** + a sliver of car visible; rusty clips on the crossbar | [P](https://www.plonkit.net/qatar) |  |
+| Country | Predominantly **desert** — flat arid sand as far as you can see, little greenery | [P](https://www.plonkit.net/qatar) |  |
+| Country | Roads = solid outer white lines w/ white or yellow middle (rarely outer yellow too) | [P](https://www.plonkit.net/qatar) |  |
+| Country | **Round poles, 3 insulators** (middle one slightly higher) + two diagonal bars connecting the crossbar to the pole | [P](https://www.plonkit.net/qatar) |  |
+| Country | Chevrons **white-on-red & white-on-blue**; lots of 2022 **World Cup** banners still up | [P](https://www.plonkit.net/qatar) |  |
+| Country | Crossing signs feature a **man in a thobe** | [P](https://www.plonkit.net/qatar) |  |
+| Region | Well covered (S/W lack it); **numbered zones on street signs** = region; antenna length = region (short = north, long = Doha/SW); stadiums (Lusail golden bowl, Al Bayt stripes) | [P](https://www.plonkit.net/qatar) |  |
+
+## Lebanon
+Study: [Plonk It](https://www.plonkit.net/lebanon)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates long or short with a **blue strip on the left** (Euro-like); **taxis have deep-red plates** | [P](https://www.plonkit.net/lebanon) |  |
+| Country | Arabic, but **English & French** also common on signage | [P](https://www.plonkit.net/lebanon) |  |
+| Country | **Shitcam** — Lebanon is the only ME country with it; the rest of coverage is **Gen3 trekker** | [P](https://www.plonkit.net/lebanon) |  |
+| Country | **Mediterranean** landscape with lots of hills and rocky cliffs | [P](https://www.plonkit.net/lebanon) |  |
+| Country | **Metallic mesh poles** (sometimes painted bright yellow) + generic wooden poles | [P](https://www.plonkit.net/lebanon) |  |
+| Country | Many buildings of **sandstone brick** (looks like Jerusalem stone of Israel/West Bank) | [P](https://www.plonkit.net/lebanon) |  |
+| Region | Coverage concentrated on the **west coast, north of Beirut**; Zahle = flat fields + black car; snowy tops → NE mountains | [P](https://www.plonkit.net/lebanon) |  |
+| Special | Gen3 trekkers: **Beirut** high-rises + palm promenade; **Byblos** ancient stone city; **Baalbek** Roman ruins; several university campuses | [P](https://www.plonkit.net/lebanon) |  |
 
 # Europe
 

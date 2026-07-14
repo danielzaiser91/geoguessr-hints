@@ -1,0 +1,17 @@
+{
+ "name": "Lebanon",
+ "slug": "lebanon",
+ "continent": "Asia",
+ "area_km2": 10452,
+ "links": { "plonkit": "https://www.plonkit.net/lebanon", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Plates long or short with a **blue strip on the left** (Euro-like); **taxis have deep-red plates**", "src": ["plonkit"], "sv": null, "img": "lb_licenceplates.png", "type": "plates" },
+  { "cat": "country", "text": "Arabic, but **English & French** also common on signage", "src": ["plonkit"], "sv": null, "img": "lb_arabic.png", "type": "language" },
+  { "cat": "country", "text": "**Shitcam** — Lebanon is the only ME country with it; the rest of coverage is **Gen3 trekker**", "src": ["plonkit"], "sv": null, "img": "lb_shitcam.png", "type": "cars" },
+  { "cat": "country", "text": "**Mediterranean** landscape with lots of hills and rocky cliffs", "src": ["plonkit"], "sv": null, "img": "lb_landscape.png", "type": "landscape" },
+  { "cat": "country", "text": "**Metallic mesh poles** (sometimes painted bright yellow) + generic wooden poles", "src": ["plonkit"], "sv": null, "img": "Lebanon_Poles.png", "type": "utility" },
+  { "cat": "country", "text": "Many buildings of **sandstone brick** (looks like Jerusalem stone of Israel/West Bank)", "src": ["plonkit"], "sv": null, "img": "lb_sandstonebricks.png", "type": "arch" },
+  { "cat": "region", "text": "Coverage concentrated on the **west coast, north of Beirut**; Zahle = flat fields + black car; snowy tops → NE mountains", "src": ["plonkit"], "sv": null, "img": "Lebanon_Coverage_Map.png", "type": "naming" },
+  { "cat": "special", "text": "Gen3 trekkers: **Beirut** high-rises + palm promenade; **Byblos** ancient stone city; **Baalbek** Roman ruins; several university campuses", "src": ["plonkit"], "sv": null, "img": "lb_beirut.png", "type": "general" }
+ ]
+}

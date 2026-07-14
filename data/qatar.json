@@ -1,0 +1,17 @@
+{
+ "name": "Qatar",
+ "slug": "qatar",
+ "continent": "Asia",
+ "area_km2": 11586,
+ "links": { "plonkit": "https://www.plonkit.net/qatar", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Plates long white w/ a **maroon strip on the left**; trucks = black square plates, police = blue", "src": ["plonkit"], "sv": null, "img": "Qatar_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "White pickup, usually blurred with only the **antenna on the left** + a sliver of car visible; rusty clips on the crossbar", "src": ["plonkit"], "sv": null, "img": "Qatar_cars.png", "type": "cars" },
+  { "cat": "country", "text": "Predominantly **desert** — flat arid sand as far as you can see, little greenery", "src": ["plonkit"], "sv": null, "img": "Qatar_landscape.png", "type": "landscape" },
+  { "cat": "country", "text": "Roads = solid outer white lines w/ white or yellow middle (rarely outer yellow too)", "src": ["plonkit"], "sv": null, "img": "Qatar_Roadlines.png", "type": "markings" },
+  { "cat": "country", "text": "**Round poles, 3 insulators** (middle one slightly higher) + two diagonal bars connecting the crossbar to the pole", "src": ["plonkit"], "sv": null, "img": "Qatarpoles.png", "type": "utility" },
+  { "cat": "country", "text": "Chevrons **white-on-red & white-on-blue**; lots of 2022 **World Cup** banners still up", "src": ["plonkit"], "sv": null, "img": "Qatar_chevron.png", "type": "signs" },
+  { "cat": "country", "text": "Crossing signs feature a **man in a thobe**", "src": ["plonkit"], "sv": null, "img": "Crossing_Sign.png", "type": "signs" },
+  { "cat": "region", "text": "Well covered (S/W lack it); **numbered zones on street signs** = region; antenna length = region (short = north, long = Doha/SW); stadiums (Lusail golden bowl, Al Bayt stripes)", "src": ["plonkit"], "sv": null, "img": "Qatar_Coverage_Map_.png", "type": "naming" }
+ ]
+}
