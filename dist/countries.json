@@ -642,6 +642,78 @@
    ]
   },
   {
+   "name": "Azores",
+   "slug": "azores",
+   "continent": "Europe",
+   "area_km2": 2333,
+   "links": {
+    "plonkit": "https://www.plonkit.net/azores",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Autonomous region of Portugal → Portuguese infra; mostly **open agricultural fields on rolling hills** (Madeira = steep mountains, few fields)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "landscape.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "**Dry stone walls of black volcanic rock** very common (absent on Madeira; mainland walls aren't volcanic)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "rockwall.png",
+     "type": "general"
+    },
+    {
+     "cat": "country",
+     "text": "**Hydrangeas** + **Japanese cedars** (cryptomeria) common — cedars aren't native anywhere in mainland Europe",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "cedars.png",
+     "type": "general"
+    },
+    {
+     "cat": "country",
+     "text": "Houses 1–2 storeys, orange tile roofs, white/pastel w/ **dark-green shutters**; **grey highlights** almost exclusive to the Azores",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "architecture.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "Street signs = **painted ceramic tiles**, blue letters w/ a decorative border",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "streetsign.png",
+     "type": "naming"
+    },
+    {
+     "cat": "region",
+     "text": "Only **São Miguel, Terceira & Faial** have car coverage; São Miguel = only Gen4 + only island w/ lakes; **black-and-white cows** (Madeira's are brown/white)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gen4.png",
+     "type": "general"
+    }
+   ]
+  },
+  {
    "name": "Bangladesh",
    "slug": "bangladesh",
    "continent": "Asia",
@@ -952,6 +1024,78 @@
      "sv": null,
      "img": "southarchitecture.png",
      "type": "language"
+    }
+   ]
+  },
+  {
+   "name": "Bermuda",
+   "slug": "bermuda",
+   "continent": "North America",
+   "area_km2": 54,
+   "links": {
+    "plonkit": "https://www.plonkit.net/bermuda",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "British overseas territory (counts as UK); drives on the **left**; black SV car w/ its front sides visible",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "bm_googlecar.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Plates **all-white**, fairly long, black digits bunched in the **middle**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "bm_licenceplate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Roads have a single **solid yellow centre line, no outer lines**; occasional white **zig-zag** markings",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "bm_yellowroadline.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "Single-family **stone houses in pastel colours w/ bright white roofs** (rainwater catchment)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "bm_architecture.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "Dense small trees & bushes, lots of **palms**; you're never far from the distinctly **light-blue** ocean",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "bm_bluewater.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "region",
+     "text": "**Hamilton** = by far the largest town (dense multi-floor downtown); NW tip has big **unpainted grey-brick** buildings (dockyard)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "bm_downtownhamilton.png",
+     "type": "general"
     }
    ]
   },
@@ -2508,6 +2652,170 @@
      ],
      "sv": null,
      "type": "general"
+    }
+   ]
+  },
+  {
+   "name": "Curaçao",
+   "slug": "curacao",
+   "continent": "South America",
+   "area_km2": 444,
+   "links": {
+    "plonkit": "https://www.plonkit.net/curacao",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Dutch Caribbean, north of Venezuela (counts as Netherlands); unique **black car w/ a roof rack**; square **all-white** plates",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "image.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Semi-arid climate → **cacti** commonly seen",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "cw_cacti.webp",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "One-storey **pastel bungalows** (metal roofs on shacks, tiled on nicer houses)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "image__281_29.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "Road-sign **coloured borders (red/blue) wrap onto the back**; blue street signs on **yellow signposts**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "cw_signbackborder.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**Black-and-white striped traffic-light posts** in towns; wooden poles w/ 3 alternating insulators",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "image__283_29.png",
+     "type": "utility"
+    },
+    {
+     "cat": "region",
+     "text": "Dry green hills in the **west** (narrow roads, spread-out houses); **Willemstad** = Queen Juliana Bridge (yellow/blue guardrails); SE wind farm w/ rainy coverage",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "bridge.png",
+     "type": "general"
+    }
+   ]
+  },
+  {
+   "name": "Cyprus",
+   "slug": "cyprus",
+   "continent": "Europe",
+   "area_km2": 9251,
+   "links": {
+    "plonkit": "https://www.plonkit.net/cyprus",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Drives on the **left** (former UK colony); plates are white EU **or** UK-style yellow-rear, most w/ an EU strip; red rental plates common",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Cyprus License Plates.jpg",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "**Greek + English** everywhere (Greek alphabet, softer than Cyrillic); only the **southern** half is covered",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gr_language.webp",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Gen4 **'smallcam'** mounted low, big circular blur w/ a small front protrusion, sometimes a short **antenna on the back** (Greek smallcam never has an antenna)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "cy_smallcam.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Bollards like Turkey's (red front / white back reflector) but **triangular w/ a slanted top**, not flat",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "cy_bollard.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "country",
+     "text": "**Town-entry signs**: yellow rectangle w/ red border (or small white one) w/ Greek+English + a speed sign above — unique; directional signs like Greece but Greek is **not** all-caps",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Cyprus TownEntry.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Tall **dark-brown wooden** utility poles; poletops = crossbar-insulators or a **harp-shaped** metal frame (symmetric 3-insulator top is Cyprus-specific)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Cyprus Poles.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Brightly-painted stone houses (tiled/flat roofs) w/ a white **horizontal cylindrical roof water tank**; Mediterranean scrub, olive/palm/cypress",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Cyprus WaterTank.png",
+     "type": "arch"
+    },
+    {
+     "cat": "region",
+     "text": "Small hilly island, **centre highest** (orient by it); bright **limestone** on the south coast, **reddish soil** inland/NW; roads A/B/E/F grouped by first digit",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Cyprus Landscape.png",
+     "type": "landscape"
     }
    ]
   },
@@ -9696,6 +10004,77 @@
    ]
   },
   {
+   "name": "Reunion",
+   "slug": "reunion",
+   "continent": "Africa",
+   "area_km2": 2511,
+   "links": {
+    "plonkit": "https://www.plonkit.net/reunion",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Overseas **department of France** (counts as France), east of Madagascar → French signs, bollards & poles",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "General_Landscape.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "SV car has visible **side mirrors, a roof rack, and black tape on the end of the rear-RIGHT bar** (Ghana's car has tape on the front-right bar)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Mountainous **volcanic** island; roads hug the coast w/ lush green mountains close by; palms, ferns, pines higher up",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "mafate-reunion-island-irt-frog-974-photographies.jpg",
+     "type": "landscape"
+    },
+    {
+     "cat": "region",
+     "text": "**Six bus-stop designs** — yellow is most common (island-wide); pink/orange/green/red/L-shaped narrow the region (see Plonk It infographic)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Reunion_Bus_Stops.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "**Sugarcane** grows in the NE & SW; the SW is more built-up/populated",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Sugarcane.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "region",
+     "text": "**Cilaos** = town inside a caldera (ring of mountains, overcast); **Route du Volcan** = Martian brown-red soil + white roadside stones; Saint-Paul = black bollards, Saint-Denis (capital) = green bollards w/ white balls",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Cilaos.png",
+     "type": "general"
+    }
+   ]
+  },
+  {
    "name": "Romania",
    "slug": "romania",
    "continent": "Europe",
@@ -11315,6 +11694,58 @@
      ],
      "sv": null,
      "type": "naming"
+    }
+   ]
+  },
+  {
+   "name": "Svalbard",
+   "slug": "svalbard",
+   "continent": "Europe",
+   "area_km2": 61022,
+   "links": {
+    "plonkit": "https://www.plonkit.net/svalbard",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Arctic archipelago under **Norway** (counts as Norway); plates are **black w/ yellow text**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "svalbard_licenceplate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "**Barren, treeless mountains**; only moss & grass, no trees; usually overcast & gloomy",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "image.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "**Russian** sometimes on signs (old Soviet mining settlements)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "svalbard_russian.png",
+     "type": "language"
+    },
+    {
+     "cat": "region",
+     "text": "3 towns: **Longyearbyen** = largest, boxy minimalist buildings; **Pyramiden** = abandoned Soviet blocks + pyramid-shaped mountains; **Barentsburg** = desolate, multi-coloured apartment blocks",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Pyramiden.png",
+     "type": "general"
     }
    ]
   },
@@ -13583,7 +14014,7 @@
   "Antarctica"
  ],
  "counts": {
-  "done": 111,
+  "done": 117,
   "total": 136
  }
 }

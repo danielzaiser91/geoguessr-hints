@@ -12,13 +12,13 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**111 / 136 countries.**
+**117 / 136 countries.**
 
-**Africa:** ✅ Botswana ✅ Egypt ✅ Eswatini ✅ Ghana ✅ Kenya ✅ Lesotho ✅ Madagascar ✅ Mali ✅ Namibia ✅ Nigeria ⬜ Reunion ✅ Rwanda ✅ Senegal ✅ South Africa ⬜ São Tomé and Príncipe ✅ Tanzania ✅ Tunisia ✅ Uganda
-**Asia:** ✅ Bangladesh ✅ Bhutan ⬜ British Indian Ocean Territory ✅ Cambodia ✅ China ⬜ Cyprus ✅ Hong Kong ✅ India ✅ Indonesia ✅ Iraq ⬜ Israel & the West Bank ✅ Japan ✅ Jordan ✅ Kazakhstan ✅ Kyrgyzstan ✅ Laos ✅ Lebanon ✅ Macau ✅ Malaysia ✅ Mongolia ✅ Nepal ✅ Oman ✅ Pakistan ✅ Philippines ✅ Qatar ✅ Singapore ✅ South Korea ✅ Sri Lanka ✅ Taiwan ✅ Thailand ✅ Turkey ✅ United Arab Emirates ✅ Vietnam
-**Europe:** ✅ Albania ✅ Andorra ✅ Austria ⬜ Azores ✅ Belarus ✅ Belgium ✅ Bulgaria ✅ Croatia ✅ Czechia ✅ Denmark ✅ Estonia ✅ Faroe Islands ✅ Finland ✅ France ✅ Germany ✅ Gibraltar ✅ Greece ✅ Hungary ✅ Iceland ✅ Ireland ✅ Isle of Man ✅ Italy ✅ Jersey ✅ Latvia ✅ Liechtenstein ✅ Lithuania ✅ Luxembourg ✅ Madeira ✅ Malta ✅ Monaco ✅ Montenegro ✅ Netherlands ✅ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ✅ Romania ✅ Russia ✅ San Marino ✅ Serbia ✅ Slovakia ✅ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
-**North America:** ⬜ Alaska ⬜ Bermuda ✅ Canada ✅ Costa Rica ✅ Dominican Republic ✅ Greenland ✅ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ✅ Panama ✅ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
-**South America:** ✅ Argentina ✅ Bolivia ✅ Brazil ✅ Chile ✅ Colombia ⬜ Curaçao ✅ Ecuador ⬜ Falkland Islands ✅ Peru ✅ Uruguay
+**Africa:** ✅ Botswana ✅ Egypt ✅ Eswatini ✅ Ghana ✅ Kenya ✅ Lesotho ✅ Madagascar ✅ Mali ✅ Namibia ✅ Nigeria ✅ Reunion ✅ Rwanda ✅ Senegal ✅ South Africa ⬜ São Tomé and Príncipe ✅ Tanzania ✅ Tunisia ✅ Uganda
+**Asia:** ✅ Bangladesh ✅ Bhutan ⬜ British Indian Ocean Territory ✅ Cambodia ✅ China ✅ Cyprus ✅ Hong Kong ✅ India ✅ Indonesia ✅ Iraq ⬜ Israel & the West Bank ✅ Japan ✅ Jordan ✅ Kazakhstan ✅ Kyrgyzstan ✅ Laos ✅ Lebanon ✅ Macau ✅ Malaysia ✅ Mongolia ✅ Nepal ✅ Oman ✅ Pakistan ✅ Philippines ✅ Qatar ✅ Singapore ✅ South Korea ✅ Sri Lanka ✅ Taiwan ✅ Thailand ✅ Turkey ✅ United Arab Emirates ✅ Vietnam
+**Europe:** ✅ Albania ✅ Andorra ✅ Austria ✅ Azores ✅ Belarus ✅ Belgium ✅ Bulgaria ✅ Croatia ✅ Czechia ✅ Denmark ✅ Estonia ✅ Faroe Islands ✅ Finland ✅ France ✅ Germany ✅ Gibraltar ✅ Greece ✅ Hungary ✅ Iceland ✅ Ireland ✅ Isle of Man ✅ Italy ✅ Jersey ✅ Latvia ✅ Liechtenstein ✅ Lithuania ✅ Luxembourg ✅ Madeira ✅ Malta ✅ Monaco ✅ Montenegro ✅ Netherlands ✅ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ✅ Romania ✅ Russia ✅ San Marino ✅ Serbia ✅ Slovakia ✅ Slovenia ✅ Spain ✅ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
+**North America:** ⬜ Alaska ✅ Bermuda ✅ Canada ✅ Costa Rica ✅ Dominican Republic ✅ Greenland ✅ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ✅ Panama ✅ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
+**South America:** ✅ Argentina ✅ Bolivia ✅ Brazil ✅ Chile ✅ Colombia ✅ Curaçao ✅ Ecuador ⬜ Falkland Islands ✅ Peru ✅ Uruguay
 **Oceania:** ⬜ American Samoa ✅ Australia ⬜ Christmas Island ⬜ Cocos Islands ⬜ Guam ✅ New Zealand ⬜ Northern Mariana Islands ⬜ Pitcairn Islands ⬜ Vanuatu
 **Antarctica:** ⬜ Antarctica ⬜ South Georgia & Sandwich Islands
 
@@ -255,6 +255,18 @@ Study: [Plonk It](https://www.plonkit.net/eswatini)
 | Country | **White car, no antenna** (also ZA / Lesotho / Botswana) | [P](https://www.plonkit.net/eswatini) |  |
 | Country | Plates **long, green at the bottom** (resemble some South African plates); concrete bus shelters common | [P](https://www.plonkit.net/eswatini) |  |
 | Region | West = montane golden grass + pine plantations; MR9 central-south = dark-green wooded mountains; east = flat + sugarcane; Portuguese → Lomahasha (Mozambique border) | [P](https://www.plonkit.net/eswatini) |  |
+
+## Reunion
+Study: [Plonk It](https://www.plonkit.net/reunion)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Overseas **department of France** (counts as France), east of Madagascar → French signs, bollards & poles | [P](https://www.plonkit.net/reunion) |  |
+| Country | SV car has visible **side mirrors, a roof rack, and black tape on the end of the rear-RIGHT bar** (Ghana's car has tape on the front-right bar) | [P](https://www.plonkit.net/reunion) |  |
+| Country | Mountainous **volcanic** island; roads hug the coast w/ lush green mountains close by; palms, ferns, pines higher up | [P](https://www.plonkit.net/reunion) |  |
+| Region | **Six bus-stop designs** — yellow is most common (island-wide); pink/orange/green/red/L-shaped narrow the region (see Plonk It infographic) | [P](https://www.plonkit.net/reunion) |  |
+| Region | **Sugarcane** grows in the NE & SW; the SW is more built-up/populated | [P](https://www.plonkit.net/reunion) |  |
+| Region | **Cilaos** = town inside a caldera (ring of mountains, overcast); **Route du Volcan** = Martian brown-red soil + white roadside stones; Saint-Paul = black bollards, Saint-Denis (capital) = green bollards w/ white balls | [P](https://www.plonkit.net/reunion) |  |
 
 # Asia
 
@@ -1206,6 +1218,16 @@ Study: [Plonk It](https://www.plonkit.net/latvia)
 | Country | **Latvian** (Baltic): macron vowels **Ā Ē Ī**, hook consonants **Ģ Ķ Ļ Ņ**; street = **iela**; tall-rectangle house numbers | [P](https://www.plonkit.net/latvia) |  |
 | Country | Architecture wood + white brick w/ steep corrugated metal roofs; **Riga** downtown = art-nouveau (Vienna-like); red & black Gen4 cars | [P](https://www.plonkit.net/latvia) |  |
 
+## Svalbard
+Study: [Plonk It](https://www.plonkit.net/svalbard)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Arctic archipelago under **Norway** (counts as Norway); plates are **black w/ yellow text** | [P](https://www.plonkit.net/svalbard) |  |
+| Country | **Barren, treeless mountains**; only moss & grass, no trees; usually overcast & gloomy | [P](https://www.plonkit.net/svalbard) |  |
+| Country | **Russian** sometimes on signs (old Soviet mining settlements) | [P](https://www.plonkit.net/svalbard) |  |
+| Region | 3 towns: **Longyearbyen** = largest, boxy minimalist buildings; **Pyramiden** = abandoned Soviet blocks + pyramid-shaped mountains; **Barentsburg** = desolate, multi-coloured apartment blocks | [P](https://www.plonkit.net/svalbard) |  |
+
 ## Croatia
 Study: [Plonk It](https://www.plonkit.net/croatia)
 
@@ -1398,6 +1420,20 @@ Study: [Plonk It](https://www.plonkit.net/montenegro)
 | Country | Guardrails often **rusted**; Montenegro is the only Balkan country where both **A- and B-type** guardrails are common | [P](https://www.plonkit.net/montenegro) |  |
 | Region | North = green farmland valleys; **Bay of Kotor** touristy w/ a steep rocky ridge; Podgorica = dry mountains + vineyards; **Durmitor NP** = grassy treeless high mountains | [P](https://www.plonkit.net/montenegro) |  |
 
+## Cyprus
+Study: [Plonk It](https://www.plonkit.net/cyprus)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Drives on the **left** (former UK colony); plates are white EU **or** UK-style yellow-rear, most w/ an EU strip; red rental plates common | [P](https://www.plonkit.net/cyprus) |  |
+| Country | **Greek + English** everywhere (Greek alphabet, softer than Cyrillic); only the **southern** half is covered | [P](https://www.plonkit.net/cyprus) |  |
+| Country | Gen4 **'smallcam'** mounted low, big circular blur w/ a small front protrusion, sometimes a short **antenna on the back** (Greek smallcam never has an antenna) | [P](https://www.plonkit.net/cyprus) |  |
+| Country | Bollards like Turkey's (red front / white back reflector) but **triangular w/ a slanted top**, not flat | [P](https://www.plonkit.net/cyprus) |  |
+| Country | **Town-entry signs**: yellow rectangle w/ red border (or small white one) w/ Greek+English + a speed sign above — unique; directional signs like Greece but Greek is **not** all-caps | [P](https://www.plonkit.net/cyprus) |  |
+| Country | Tall **dark-brown wooden** utility poles; poletops = crossbar-insulators or a **harp-shaped** metal frame (symmetric 3-insulator top is Cyprus-specific) | [P](https://www.plonkit.net/cyprus) |  |
+| Country | Brightly-painted stone houses (tiled/flat roofs) w/ a white **horizontal cylindrical roof water tank**; Mediterranean scrub, olive/palm/cypress | [P](https://www.plonkit.net/cyprus) |  |
+| Region | Small hilly island, **centre highest** (orient by it); bright **limestone** on the south coast, **reddish soil** inland/NW; roads A/B/E/F grouped by first digit | [P](https://www.plonkit.net/cyprus) |  |
+
 ## Luxembourg
 Study: [Plonk It](https://www.plonkit.net/luxembourg)
 
@@ -1411,6 +1447,18 @@ Study: [Plonk It](https://www.plonkit.net/luxembourg)
 | Country | Trilingual (Luxembourgish/French/German); French dominant on signs; **Luxembourgish** = German-like w/ umlauts + double vowels + occasional é | [P](https://www.plonkit.net/luxembourg) |  |
 | Country | Directional signs **yellow, fully framed, pointed tip, UPPERCASE**; regional road # in a **red box** (1–2 digit), local in a **yellow box** (3-digit) | [P](https://www.plonkit.net/luxembourg) |  |
 | Country | Signs on **white signposts**; short white street signs (often slanted blue corners); pedestrian sign = 5 vertical stripes; green rolling-hill landscape | [P](https://www.plonkit.net/luxembourg) |  |
+
+## Azores
+Study: [Plonk It](https://www.plonkit.net/azores)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Autonomous region of Portugal → Portuguese infra; mostly **open agricultural fields on rolling hills** (Madeira = steep mountains, few fields) | [P](https://www.plonkit.net/azores) |  |
+| Country | **Dry stone walls of black volcanic rock** very common (absent on Madeira; mainland walls aren't volcanic) | [P](https://www.plonkit.net/azores) |  |
+| Country | **Hydrangeas** + **Japanese cedars** (cryptomeria) common — cedars aren't native anywhere in mainland Europe | [P](https://www.plonkit.net/azores) |  |
+| Country | Houses 1–2 storeys, orange tile roofs, white/pastel w/ **dark-green shutters**; **grey highlights** almost exclusive to the Azores | [P](https://www.plonkit.net/azores) |  |
+| Country | Street signs = **painted ceramic tiles**, blue letters w/ a decorative border | [P](https://www.plonkit.net/azores) |  |
+| Region | Only **São Miguel, Terceira & Faial** have car coverage; São Miguel = only Gen4 + only island w/ lakes; **black-and-white cows** (Madeira's are brown/white) | [P](https://www.plonkit.net/azores) |  |
 
 ## Faroe Islands
 Study: [Plonk It](https://www.plonkit.net/faroe-islands)
@@ -1725,6 +1773,18 @@ Study: [Plonk It](https://www.plonkit.net/puerto-rico)
 | Country | Unique **highway shields** (primary/secondary/tertiary — not in any US state); tall **green km markers** ("km" + a vertical number) | [P](https://www.plonkit.net/puerto-rico) |  |
 | Region | Homes concrete w/ flat roofs + metal gates; **south drier**, mountains in the middle (mostly divided-highway coverage); **Ponce Creole** architecture; colourful Old San Juan | [P](https://www.plonkit.net/puerto-rico) |  |
 
+## Bermuda
+Study: [Plonk It](https://www.plonkit.net/bermuda)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | British overseas territory (counts as UK); drives on the **left**; black SV car w/ its front sides visible | [P](https://www.plonkit.net/bermuda) |  |
+| Country | Plates **all-white**, fairly long, black digits bunched in the **middle** | [P](https://www.plonkit.net/bermuda) |  |
+| Country | Roads have a single **solid yellow centre line, no outer lines**; occasional white **zig-zag** markings | [P](https://www.plonkit.net/bermuda) |  |
+| Country | Single-family **stone houses in pastel colours w/ bright white roofs** (rainwater catchment) | [P](https://www.plonkit.net/bermuda) |  |
+| Country | Dense small trees & bushes, lots of **palms**; you're never far from the distinctly **light-blue** ocean | [P](https://www.plonkit.net/bermuda) |  |
+| Region | **Hamilton** = by far the largest town (dense multi-floor downtown); NW tip has big **unpainted grey-brick** buildings (dockyard) | [P](https://www.plonkit.net/bermuda) |  |
+
 # South America
 
 ## Brazil
@@ -1876,6 +1936,18 @@ Study: [Plonk It](https://www.plonkit.net/uruguay)
 | Country | Guardrail support = 3 sides **+ corner bits of the 4th** (Argentina just 3 sides); green-painted **stone km marker** (unique) | [P](https://www.plonkit.net/uruguay) |  |
 | Country | Chevrons **yellow w/ black arrows** (Argentina uniquely = white w/ red); **reddish soil** common (a good clue vs Argentina) | [P](https://www.plonkit.net/uruguay) |  |
 | Country | Houses **cube-shaped concrete**, drab & weathered, flat roofs common; short stocky palms; **cattle everywhere** (≈4:1 vs people) | [P](https://www.plonkit.net/uruguay) |  |
+
+## Curaçao
+Study: [Plonk It](https://www.plonkit.net/curacao)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Dutch Caribbean, north of Venezuela (counts as Netherlands); unique **black car w/ a roof rack**; square **all-white** plates | [P](https://www.plonkit.net/curacao) |  |
+| Country | Semi-arid climate → **cacti** commonly seen | [P](https://www.plonkit.net/curacao) |  |
+| Country | One-storey **pastel bungalows** (metal roofs on shacks, tiled on nicer houses) | [P](https://www.plonkit.net/curacao) |  |
+| Country | Road-sign **coloured borders (red/blue) wrap onto the back**; blue street signs on **yellow signposts** | [P](https://www.plonkit.net/curacao) |  |
+| Country | **Black-and-white striped traffic-light posts** in towns; wooden poles w/ 3 alternating insulators | [P](https://www.plonkit.net/curacao) |  |
+| Region | Dry green hills in the **west** (narrow roads, spread-out houses); **Willemstad** = Queen Juliana Bridge (yellow/blue guardrails); SE wind farm w/ rainy coverage | [P](https://www.plonkit.net/curacao) |  |
 
 # Oceania
 

@@ -1,0 +1,17 @@
+{
+ "name": "Cyprus",
+ "slug": "cyprus",
+ "continent": "Europe",
+ "area_km2": 9251,
+ "links": { "plonkit": "https://www.plonkit.net/cyprus", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Drives on the **left** (former UK colony); plates are white EU **or** UK-style yellow-rear, most w/ an EU strip; red rental plates common", "src": ["plonkit"], "sv": null, "img": "Cyprus License Plates.jpg", "type": "plates" },
+  { "cat": "country", "text": "**Greek + English** everywhere (Greek alphabet, softer than Cyrillic); only the **southern** half is covered", "src": ["plonkit"], "sv": null, "img": "gr_language.webp", "type": "language" },
+  { "cat": "country", "text": "Gen4 **'smallcam'** mounted low, big circular blur w/ a small front protrusion, sometimes a short **antenna on the back** (Greek smallcam never has an antenna)", "src": ["plonkit"], "sv": null, "img": "cy_smallcam.png", "type": "cars" },
+  { "cat": "country", "text": "Bollards like Turkey's (red front / white back reflector) but **triangular w/ a slanted top**, not flat", "src": ["plonkit"], "sv": null, "img": "cy_bollard.png", "type": "bollards" },
+  { "cat": "country", "text": "**Town-entry signs**: yellow rectangle w/ red border (or small white one) w/ Greek+English + a speed sign above — unique; directional signs like Greece but Greek is **not** all-caps", "src": ["plonkit"], "sv": null, "img": "Cyprus TownEntry.png", "type": "signs" },
+  { "cat": "country", "text": "Tall **dark-brown wooden** utility poles; poletops = crossbar-insulators or a **harp-shaped** metal frame (symmetric 3-insulator top is Cyprus-specific)", "src": ["plonkit"], "sv": null, "img": "Cyprus Poles.png", "type": "utility" },
+  { "cat": "country", "text": "Brightly-painted stone houses (tiled/flat roofs) w/ a white **horizontal cylindrical roof water tank**; Mediterranean scrub, olive/palm/cypress", "src": ["plonkit"], "sv": null, "img": "Cyprus WaterTank.png", "type": "arch" },
+  { "cat": "region", "text": "Small hilly island, **centre highest** (orient by it); bright **limestone** on the south coast, **reddish soil** inland/NW; roads A/B/E/F grouped by first digit", "src": ["plonkit"], "sv": null, "img": "Cyprus Landscape.png", "type": "landscape" }
+ ]
+}
