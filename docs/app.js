@@ -63,6 +63,35 @@ const ALIAS = {
 // Countries with official Google Street View (Natural Earth ADMIN spellings).
 const COVERAGE = ["Albania","Austria","Belarus","Belgium","Bulgaria","Croatia","Cyprus","Czechia","Denmark","Estonia","Finland","France","Germany","Greece","Hungary","Iceland","Ireland","Italy","Latvia","Lithuania","Luxembourg","Macedonia","Montenegro","Netherlands","Norway","Poland","Portugal","Republic of Serbia","Romania","Russia","Slovakia","Slovenia","Spain","Sweden","Switzerland","Ukraine","United Kingdom","United States of America","Canada","Mexico","Guatemala","Costa Rica","Panama","Colombia","Brazil","Argentina","Chile","Peru","Bolivia","Ecuador","Uruguay","Dominican Republic","Puerto Rico","Greenland","China","Japan","South Korea","Taiwan","Malaysia","Indonesia","Philippines","Thailand","Vietnam","Cambodia","Laos","Bangladesh","Bhutan","Nepal","Sri Lanka","India","Pakistan","Mongolia","Kazakhstan","Kyrgyzstan","Israel","Palestine","Jordan","Lebanon","Iraq","Turkey","United Arab Emirates","Qatar","Oman","South Africa","Swaziland","Lesotho","Botswana","Namibia","Kenya","Uganda","Rwanda","United Republic of Tanzania","Nigeria","Ghana","Senegal","Tunisia","Egypt","Madagascar","Mali","Australia","New Zealand","Vanuatu"];
 
+// ISO 3166-1 alpha-2 code per country/territory name → flag image + internet domain (ccTLD).
+const CODE = {
+  "Botswana":"bw","Egypt":"eg","Eswatini":"sz","Ghana":"gh","Kenya":"ke","Lesotho":"ls","Madagascar":"mg",
+  "Mali":"ml","Namibia":"na","Nigeria":"ng","Reunion":"re","Rwanda":"rw","Senegal":"sn","South Africa":"za",
+  "São Tomé and Príncipe":"st","Tanzania":"tz","Tunisia":"tn","Uganda":"ug",
+  "Bangladesh":"bd","Bhutan":"bt","British Indian Ocean Territory":"io","Cambodia":"kh","China":"cn","Cyprus":"cy",
+  "Hong Kong":"hk","India":"in","Indonesia":"id","Iraq":"iq","Israel & the West Bank":"il","Japan":"jp","Jordan":"jo",
+  "Kazakhstan":"kz","Kyrgyzstan":"kg","Laos":"la","Lebanon":"lb","Macau":"mo","Malaysia":"my","Mongolia":"mn",
+  "Nepal":"np","Oman":"om","Pakistan":"pk","Philippines":"ph","Qatar":"qa","Singapore":"sg","South Korea":"kr",
+  "Sri Lanka":"lk","Taiwan":"tw","Thailand":"th","Turkey":"tr","United Arab Emirates":"ae","Vietnam":"vn",
+  "Albania":"al","Andorra":"ad","Austria":"at","Azores":"pt","Belarus":"by","Belgium":"be","Bulgaria":"bg",
+  "Croatia":"hr","Czechia":"cz","Denmark":"dk","Estonia":"ee","Faroe Islands":"fo","Finland":"fi","France":"fr",
+  "Germany":"de","Gibraltar":"gi","Greece":"gr","Hungary":"hu","Iceland":"is","Ireland":"ie","Isle of Man":"im",
+  "Italy":"it","Jersey":"je","Latvia":"lv","Liechtenstein":"li","Lithuania":"lt","Luxembourg":"lu","Madeira":"pt",
+  "Malta":"mt","Monaco":"mc","Montenegro":"me","Netherlands":"nl","North Macedonia":"mk","Norway":"no","Poland":"pl",
+  "Portugal":"pt","Romania":"ro","Russia":"ru","San Marino":"sm","Serbia":"rs","Slovakia":"sk","Slovenia":"si",
+  "Spain":"es","Svalbard":"sj","Sweden":"se","Switzerland":"ch","Ukraine":"ua","United Kingdom":"gb",
+  "Alaska":"us","Bermuda":"bm","Canada":"ca","Costa Rica":"cr","Dominican Republic":"do","Greenland":"gl",
+  "Guatemala":"gt","Hawaii":"us","Martinique":"mq","Mexico":"mx","Panama":"pa","Puerto Rico":"pr",
+  "Saint Pierre and Miquelon":"pm","US Minor Outlying Islands":"um","US Virgin Islands":"vi","United States":"us",
+  "Argentina":"ar","Bolivia":"bo","Brazil":"br","Chile":"cl","Colombia":"co","Curaçao":"cw","Ecuador":"ec",
+  "Falkland Islands":"fk","Peru":"pe","Uruguay":"uy",
+  "American Samoa":"as","Australia":"au","Christmas Island":"cx","Cocos Islands":"cc","Guam":"gu","New Zealand":"nz",
+  "Northern Mariana Islands":"mp","Pitcairn Islands":"pn","Vanuatu":"vu",
+  "Antarctica":"aq","South Georgia & Sandwich Islands":"gs",
+};
+const flagUrl = (name, w) => { const c = CODE[name]; return c ? `https://flagcdn.com/${w || "w40"}/${c}.png` : null; };
+const domainFor = (name) => { const c = CODE[name]; return c ? "." + (c === "gb" ? "uk" : c) : ""; };
+
 const norm = (s) => (s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "")
   .replace(/^the\s+/, "").replace(/&/g, "and").replace(/[^a-z ]/g, "").trim();
 
@@ -149,7 +178,10 @@ function itemEl(name, data) {
   const cov = covSet.has(norm(name)) || !!data;
   el.className = "c-item" + (data ? " has" : "") + (cov ? " cov" : "");
   el.dataset.name = name.toLowerCase();
-  el.innerHTML = `<span class="dot"></span><span class="n">${name}</span>` + (data ? `<span class="cnt">${data.hints.length}</span>` : "");
+  const fu = flagUrl(name, "w40");
+  el.innerHTML = `<span class="dot"></span>`
+    + (fu ? `<img class="flag" src="${fu}" alt="" onerror="this.style.visibility='hidden'">` : `<span class="flag"></span>`)
+    + `<span class="n">${name}</span>` + (data ? `<span class="cnt">${data.hints.length}</span>` : "");
   if (data) el.onclick = () => { openCountry(data); flyTo(data); };
   return el;
 }
@@ -168,6 +200,10 @@ function openCountry(d) {
   if (li) li.classList.add("sel");
 
   document.getElementById("d-name").textContent = d.name;
+  const dflag = document.getElementById("d-flag"), dfu = flagUrl(d.name, "w160");
+  if (dfu) { dflag.src = dfu; dflag.style.display = ""; } else { dflag.style.display = "none"; }
+  const dom = document.getElementById("d-domain"), domTxt = domainFor(d.name);
+  dom.textContent = domTxt; dom.style.display = domTxt ? "" : "none";
   const bySrc = {}; d.hints.forEach(h => (h.src || []).forEach(s => bySrc[s] = (bySrc[s] || 0) + 1));
   document.getElementById("d-sub").innerHTML =
     `${d.continent} · ${d.hints.length} clues · sources: ` +
@@ -339,8 +375,10 @@ function ensureCovMap() {
     { subdomains: "0123", maxZoom: 17, opacity: 0.95, className: "svv" }).addTo(covMap);
 }
 function openCoverage(d) {
-  document.getElementById("cov-title").textContent = d
-    ? "Official Street View coverage — " + d.name : "Official Street View coverage — World";
+  const cfu = d ? flagUrl(d.name, "w40") : null;
+  document.getElementById("cov-title").innerHTML =
+    (cfu ? `<img class="flag" src="${cfu}" alt="">` : "")
+    + (d ? "Official Street View coverage — " + d.name : "Official Street View coverage — World");
   document.getElementById("covModal").classList.add("open");
   ensureCovMap();
   setTimeout(() => {

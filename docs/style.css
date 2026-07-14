@@ -47,6 +47,8 @@ code{background:#0a1120;border:1px solid var(--line);border-radius:4px;padding:0
 .c-item .dot{width:7px;height:7px;border-radius:50%;background:#33405e;flex:none}
 .c-item.cov .dot{background:var(--cov)}
 .c-item.has .dot{background:var(--accent);box-shadow:0 0 0 3px rgba(91,214,192,.18)}
+.c-item .flag{width:21px;height:14px;object-fit:cover;border-radius:2px;flex:none;background:var(--line);
+  box-shadow:0 0 0 1px rgba(0,0,0,.35)}
 .c-item .n{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .c-item .cnt{font-size:11px;color:var(--dim)}
 
@@ -80,9 +82,14 @@ code{background:#0a1120;border:1px solid var(--line);border-radius:4px;padding:0
 .back:hover .globe{box-shadow:inset -4px -4px 7px rgba(0,0,0,.5),inset 3px 3px 6px rgba(255,255,255,.16),0 0 0 2px var(--accent)}
 @keyframes globespin{from{background-position:0 0}to{background-position:-200% 0}}
 .d-title{flex:1;min-width:0}
-.d-title-row{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.d-title-row{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.d-flag{height:30px;width:auto;border-radius:3px;box-shadow:0 0 0 1px rgba(0,0,0,.4);flex:none}
+.d-domain{font-size:13px;font-weight:600;color:var(--ink);background:var(--panel2);border:1px solid var(--line);
+  padding:2px 9px;border-radius:6px;letter-spacing:.02em}
 .d-title h1{margin:0;font-size:26px;letter-spacing:-.01em}
 #covBtn{padding:6px 11px;font-size:12px}
+.modal-head h3 .flag{width:26px;height:18px;object-fit:cover;border-radius:2px;vertical-align:-3px;margin-right:8px;
+  box-shadow:0 0 0 1px rgba(0,0,0,.35)}
 .d-sub{font-size:12.5px;color:var(--dim);margin-top:3px}
 .d-actions{display:flex;gap:9px;flex-wrap:wrap}
 
