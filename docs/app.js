@@ -87,7 +87,7 @@ const featureFor = (d) => features.find(f => { const dd = dataForName(featName(f
 
 async function init() {
   [DATA, world] = await Promise.all([
-    fetch("countries.json").then(r => r.json()),
+    fetch("countries.json", { cache: "no-cache" }).then(r => r.json()),
     fetch(GEOJSON_URL).then(r => r.json()),
   ]);
   DATA.countries.forEach(c => { byNorm[norm(c.name)] = c; });
