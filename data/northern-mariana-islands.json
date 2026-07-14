@@ -1,0 +1,15 @@
+{
+ "name": "Northern Mariana Islands",
+ "slug": "northern-mariana-islands",
+ "continent": "Oceania",
+ "area_km2": 464,
+ "links": { "plonkit": "https://www.plonkit.net/northern-mariana-islands", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "US overseas territory (counts as US); car fully blurred but a **front-right antenna** shows, **closer to the camera** than Guam's — and no roof rack", "src": ["plonkit"], "sv": null, "img": "nmi_car.png", "type": "cars" },
+  { "cat": "country", "text": "**Wooden poles**, often w/ a crossbar (Guam uses concrete poles)", "src": ["plonkit"], "sv": null, "img": "nmi_pole.png", "type": "utility" },
+  { "cat": "country", "text": "**Blue** street signs (Guam uses green)", "src": ["plonkit"], "sv": null, "img": "streetsign.png", "type": "signs" },
+  { "cat": "country", "text": "Tropical, dense low vegetation; the red-flowered **Flame Tree** (Royal Poinciana, Delonix regia) is the official tree & common (not in Guam)", "src": ["plonkit"], "sv": null, "img": "nmi_redflower.png", "type": "landscape" },
+  { "cat": "country", "text": "**East Asian languages** (Japanese, Chinese, Korean, Russian) + a huge number of road reflectors (as in Guam)", "src": ["plonkit"], "sv": null, "img": "nmi_asian.png", "type": "language" },
+  { "cat": "region", "text": "Only **Saipan** has car coverage (islands to the north have none; Tinian & Rota only tripod); Suicide Cliff = exposed rock at the northern tip", "src": ["plonkit"], "sv": null, "img": "nmi_towncentres.png", "type": "general" }
+ ]
+}

@@ -174,6 +174,58 @@
    ]
   },
   {
+   "name": "American Samoa",
+   "slug": "american-samoa",
+   "continent": "Oceania",
+   "area_km2": 199,
+   "links": {
+    "plonkit": "https://www.plonkit.net/american-samoa",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "US territory east of Fiji (counts as US); green tropical mountains + palms, small **concrete roads**, one-storey boxy houses w/ plain **metal-sheet roofs**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "image.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Identify the island by the truck: **Tutuila** (main, most coverage) = a rusted **black truck bed**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "main_island_car.png",
+     "type": "cars"
+    },
+    {
+     "cat": "region",
+     "text": "**Manu'a & Olosega** = silver-grey truck front w/ side mirrors; **Tau** (easternmost) = glossy black truck",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "other_island_car.png",
+     "type": "cars"
+    },
+    {
+     "cat": "region",
+     "text": "Single-lane **bridge** joining Manu'a & Olosega w/ a thin wire guardrail; Ofu Airport = concrete runway, car w/ two orange roof straps",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "bride.png",
+     "type": "general"
+    }
+   ]
+  },
+  {
    "name": "Andorra",
    "slug": "andorra",
    "continent": "Europe",
@@ -2359,6 +2411,140 @@
      "sv": null,
      "img": "cn_hubeimuseum.png",
      "type": "arch"
+    }
+   ]
+  },
+  {
+   "name": "Christmas Island",
+   "slug": "christmas-island",
+   "continent": "Oceania",
+   "area_km2": 135,
+   "links": {
+    "plonkit": "https://www.plonkit.net/christmas-island",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Australian external territory SSW of Java (counts as Australia); car = a unique **silver pickup w/ its truck bed visible** — usually all you need to ID (don't confuse w/ Cocos Islands)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Christmas-Island-car-meta.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "**Yellow** licence plates",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Christmas_Island_License_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Mostly dense **tropical forest**; some unpaved roads have bright **white sandy soil**; palms in places",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Christmas-island-landscape.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Standard **Australian bollard** (white, red front / grey back reflector); Aussie speed signs & green sign backgrounds",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Christmas-Island-bollard.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "region",
+     "text": "Built-up areas in the **NE**; a boat trekker hugs the steep rocky north coast (white deck pokes through the blur); many trail trekkers in dense foliage",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Boat_Trekker.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "Famous for **red crabs** (trekker among hundreds near Ethel Beach; crab references on signs); harbour recognisable by large **cranes**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Christmas-Island-cranes.png",
+     "type": "general"
+    }
+   ]
+  },
+  {
+   "name": "Cocos Islands",
+   "slug": "cocos-islands",
+   "continent": "Oceania",
+   "area_km2": 14,
+   "links": {
+    "plonkit": "https://www.plonkit.net/cocos-islands",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Two coral atolls, Australian territory (counts as Australia); **bright white sand, palms & mowed grass** — far less forested/hilly than Christmas Island",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "image.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "**West Island** car = unique w/ a **snorkel at the front-right** + bed edges visible; **Bantam** car = white w/ rear edges visible (may be fully blurred)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "West_Car.png",
+     "type": "cars"
+    },
+    {
+     "cat": "region",
+     "text": "**Bantam Village** = cross-hatched brick pavement; the runway is the **widest paved road** (mowed grass both sides + a follow car)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Bantam_Pavement.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "Many **coast trekkers** on white sand (ocean one side, palms the other); **Direction Island** beaches have noticeably more litter (bricks, styrofoam, dead coral)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Direction_Island.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "**Horsburgh Island** (Pulau Luar) inland trekker = dry yellow grass + sparse vegetation",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Horsburgh_Island.png",
+     "type": "general"
     }
    ]
   },
@@ -9080,6 +9266,78 @@
    ]
   },
   {
+   "name": "Northern Mariana Islands",
+   "slug": "northern-mariana-islands",
+   "continent": "Oceania",
+   "area_km2": 464,
+   "links": {
+    "plonkit": "https://www.plonkit.net/northern-mariana-islands",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "US overseas territory (counts as US); car fully blurred but a **front-right antenna** shows, **closer to the camera** than Guam's — and no roof rack",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "nmi_car.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "**Wooden poles**, often w/ a crossbar (Guam uses concrete poles)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "nmi_pole.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "**Blue** street signs (Guam uses green)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "streetsign.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Tropical, dense low vegetation; the red-flowered **Flame Tree** (Royal Poinciana, Delonix regia) is the official tree & common (not in Guam)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "nmi_redflower.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "**East Asian languages** (Japanese, Chinese, Korean, Russian) + a huge number of road reflectors (as in Guam)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "nmi_asian.png",
+     "type": "language"
+    },
+    {
+     "cat": "region",
+     "text": "Only **Saipan** has car coverage (islands to the north have none; Tinian & Rota only tripod); Suicide Cliff = exposed rock at the northern tip",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "nmi_towncentres.png",
+     "type": "general"
+    }
+   ]
+  },
+  {
    "name": "Norway",
    "slug": "norway",
    "continent": "Europe",
@@ -10911,6 +11169,78 @@
      ],
      "sv": null,
      "img": "San_Marino_Trash_Bins.png",
+     "type": "general"
+    }
+   ]
+  },
+  {
+   "name": "São Tomé and Príncipe",
+   "slug": "sao-tome-and-principe",
+   "continent": "Africa",
+   "area_km2": 964,
+   "links": {
+    "plonkit": "https://www.plonkit.net/sao-tome-and-principe",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "All coverage is **'shitcam'** — a dimmer, hazier variant than India/Nigeria; car usually fully blurred (big back blur) w/ a slanted **antenna** poking from the side",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "st_shit.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "**Portuguese** language; Portuguese-style ladder poles & pedestrian signs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "st_language.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Tropical islands **almost entirely rainforest**; banana plants everywhere",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "st_tropical.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Some wooden poles **painted blue at the bottom** w/ the letters **CST**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "st_bluepolepaint.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Taxis & minibuses are **bright yellow**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "yellow_taxi_sao_tome.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "**Príncipe** car = blue roof + silver rails (dimmer shitcam); **São Tomé** car = black w/ black rails; oil-palm plantations in the south",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "principe_car.png",
      "type": "general"
     }
    ]
@@ -14103,6 +14433,68 @@
    ]
   },
   {
+   "name": "Vanuatu",
+   "slug": "vanuatu",
+   "continent": "Oceania",
+   "area_km2": 12189,
+   "links": {
+    "plonkit": "https://www.plonkit.net/vanuatu",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Pacific island nation NE of Brisbane; all coverage = **Gen3 trekker**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "vu_trekker.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Volcanic island → **dark volcanic soil**; tropical, much coverage in dense forest",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "vu_tropical.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "region",
+     "text": "Of 13 islands, only **Ambrym Island** has coverage (find the 'Port Vato' label, N of Port Vila); a unique volcano trekker is in the centre",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Volcano.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "E of the volcano: a plateau w/ dark brown soil, then jungle w/ ferns (man in a red cap), then a **black-sand beach** on the east coast",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Beach.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "**Endu Pahakol** = the only village w/ coverage — small **thatched huts** + dark soil",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Village.png",
+     "type": "general"
+    }
+   ]
+  },
+  {
    "name": "Vietnam",
    "slug": "vietnam",
    "continent": "Asia",
@@ -14404,7 +14796,7 @@
   "Antarctica"
  ],
  "counts": {
-  "done": 123,
+  "done": 129,
   "total": 136
  }
 }

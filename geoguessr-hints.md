@@ -12,14 +12,14 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**123 / 136 countries.**
+**129 / 136 countries.**
 
-**Africa:** ✅ Botswana ✅ Egypt ✅ Eswatini ✅ Ghana ✅ Kenya ✅ Lesotho ✅ Madagascar ✅ Mali ✅ Namibia ✅ Nigeria ✅ Reunion ✅ Rwanda ✅ Senegal ✅ South Africa ⬜ São Tomé and Príncipe ✅ Tanzania ✅ Tunisia ✅ Uganda
+**Africa:** ✅ Botswana ✅ Egypt ✅ Eswatini ✅ Ghana ✅ Kenya ✅ Lesotho ✅ Madagascar ✅ Mali ✅ Namibia ✅ Nigeria ✅ Reunion ✅ Rwanda ✅ Senegal ✅ South Africa ✅ São Tomé and Príncipe ✅ Tanzania ✅ Tunisia ✅ Uganda
 **Asia:** ✅ Bangladesh ✅ Bhutan ⬜ British Indian Ocean Territory ✅ Cambodia ✅ China ✅ Cyprus ✅ Hong Kong ✅ India ✅ Indonesia ✅ Iraq ⬜ Israel & the West Bank ✅ Japan ✅ Jordan ✅ Kazakhstan ✅ Kyrgyzstan ✅ Laos ✅ Lebanon ✅ Macau ✅ Malaysia ✅ Mongolia ✅ Nepal ✅ Oman ✅ Pakistan ✅ Philippines ✅ Qatar ✅ Singapore ✅ South Korea ✅ Sri Lanka ✅ Taiwan ✅ Thailand ✅ Turkey ✅ United Arab Emirates ✅ Vietnam
 **Europe:** ✅ Albania ✅ Andorra ✅ Austria ✅ Azores ✅ Belarus ✅ Belgium ✅ Bulgaria ✅ Croatia ✅ Czechia ✅ Denmark ✅ Estonia ✅ Faroe Islands ✅ Finland ✅ France ✅ Germany ✅ Gibraltar ✅ Greece ✅ Hungary ✅ Iceland ✅ Ireland ✅ Isle of Man ✅ Italy ✅ Jersey ✅ Latvia ✅ Liechtenstein ✅ Lithuania ✅ Luxembourg ✅ Madeira ✅ Malta ✅ Monaco ✅ Montenegro ✅ Netherlands ✅ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ✅ Romania ✅ Russia ✅ San Marino ✅ Serbia ✅ Slovakia ✅ Slovenia ✅ Spain ✅ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
 **North America:** ✅ Alaska ✅ Bermuda ✅ Canada ✅ Costa Rica ✅ Dominican Republic ✅ Greenland ✅ Guatemala ✅ Hawaii ✅ Martinique ✅ Mexico ✅ Panama ✅ Puerto Rico ✅ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
 **South America:** ✅ Argentina ✅ Bolivia ✅ Brazil ✅ Chile ✅ Colombia ✅ Curaçao ✅ Ecuador ✅ Falkland Islands ✅ Peru ✅ Uruguay
-**Oceania:** ⬜ American Samoa ✅ Australia ⬜ Christmas Island ⬜ Cocos Islands ✅ Guam ✅ New Zealand ⬜ Northern Mariana Islands ⬜ Pitcairn Islands ⬜ Vanuatu
+**Oceania:** ✅ American Samoa ✅ Australia ✅ Christmas Island ✅ Cocos Islands ✅ Guam ✅ New Zealand ✅ Northern Mariana Islands ⬜ Pitcairn Islands ✅ Vanuatu
 **Antarctica:** ⬜ Antarctica ⬜ South Georgia & Sandwich Islands
 
 ---
@@ -267,6 +267,18 @@ Study: [Plonk It](https://www.plonkit.net/reunion)
 | Region | **Six bus-stop designs** — yellow is most common (island-wide); pink/orange/green/red/L-shaped narrow the region (see Plonk It infographic) | [P](https://www.plonkit.net/reunion) |  |
 | Region | **Sugarcane** grows in the NE & SW; the SW is more built-up/populated | [P](https://www.plonkit.net/reunion) |  |
 | Region | **Cilaos** = town inside a caldera (ring of mountains, overcast); **Route du Volcan** = Martian brown-red soil + white roadside stones; Saint-Paul = black bollards, Saint-Denis (capital) = green bollards w/ white balls | [P](https://www.plonkit.net/reunion) |  |
+
+## São Tomé and Príncipe
+Study: [Plonk It](https://www.plonkit.net/sao-tome-and-principe)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | All coverage is **'shitcam'** — a dimmer, hazier variant than India/Nigeria; car usually fully blurred (big back blur) w/ a slanted **antenna** poking from the side | [P](https://www.plonkit.net/sao-tome-and-principe) |  |
+| Country | **Portuguese** language; Portuguese-style ladder poles & pedestrian signs | [P](https://www.plonkit.net/sao-tome-and-principe) |  |
+| Country | Tropical islands **almost entirely rainforest**; banana plants everywhere | [P](https://www.plonkit.net/sao-tome-and-principe) |  |
+| Country | Some wooden poles **painted blue at the bottom** w/ the letters **CST** | [P](https://www.plonkit.net/sao-tome-and-principe) |  |
+| Country | Taxis & minibuses are **bright yellow** | [P](https://www.plonkit.net/sao-tome-and-principe) |  |
+| Region | **Príncipe** car = blue roof + silver rails (dimmer shitcam); **São Tomé** car = black w/ black rails; oil-palm plantations in the south | [P](https://www.plonkit.net/sao-tome-and-principe) |  |
 
 # Asia
 
@@ -2047,6 +2059,17 @@ Study: [Plonk It](https://www.plonkit.net/new-zealand)
 | State | Phone = 7 digits + 2-digit area code (02 = mobile); city rubbish bins & bus-stop signs identify Auckland/Wellington/Christchurch | [P](https://www.plonkit.net/new-zealand) |  |
 | Special | Pole stickers & possum-guard styles pinpoint region (Gisborne yellow cow-tag; Marlborough olive-brown guard; Southland cylindrical); Canterbury = tall hedge rows on flat plains | [P](https://www.plonkit.net/new-zealand) |  |
 
+## Vanuatu
+Study: [Plonk It](https://www.plonkit.net/vanuatu)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Pacific island nation NE of Brisbane; all coverage = **Gen3 trekker** | [P](https://www.plonkit.net/vanuatu) |  |
+| Country | Volcanic island → **dark volcanic soil**; tropical, much coverage in dense forest | [P](https://www.plonkit.net/vanuatu) |  |
+| Region | Of 13 islands, only **Ambrym Island** has coverage (find the 'Port Vato' label, N of Port Vila); a unique volcano trekker is in the centre | [P](https://www.plonkit.net/vanuatu) |  |
+| Region | E of the volcano: a plateau w/ dark brown soil, then jungle w/ ferns (man in a red cap), then a **black-sand beach** on the east coast | [P](https://www.plonkit.net/vanuatu) |  |
+| Region | **Endu Pahakol** = the only village w/ coverage — small **thatched huts** + dark soil | [P](https://www.plonkit.net/vanuatu) |  |
+
 ## Guam
 Study: [Plonk It](https://www.plonkit.net/guam)
 
@@ -2058,3 +2081,48 @@ Study: [Plonk It](https://www.plonkit.net/guam)
 | Country | Tropical, dense low vegetation; a very large number of **road reflectors** (also true of N. Mariana) | [P](https://www.plonkit.net/guam) |  |
 | Country | **East Asian languages** common — Japanese, Chinese, Korean, even Russian | [P](https://www.plonkit.net/guam) |  |
 | Region | Coverage limited (little inland in the south); **hilly south, flat north**; LeoPalace Resort = white buildings w/ orange tiled roofs | [P](https://www.plonkit.net/guam) |  |
+
+## Northern Mariana Islands
+Study: [Plonk It](https://www.plonkit.net/northern-mariana-islands)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | US overseas territory (counts as US); car fully blurred but a **front-right antenna** shows, **closer to the camera** than Guam's — and no roof rack | [P](https://www.plonkit.net/northern-mariana-islands) |  |
+| Country | **Wooden poles**, often w/ a crossbar (Guam uses concrete poles) | [P](https://www.plonkit.net/northern-mariana-islands) |  |
+| Country | **Blue** street signs (Guam uses green) | [P](https://www.plonkit.net/northern-mariana-islands) |  |
+| Country | Tropical, dense low vegetation; the red-flowered **Flame Tree** (Royal Poinciana, Delonix regia) is the official tree & common (not in Guam) | [P](https://www.plonkit.net/northern-mariana-islands) |  |
+| Country | **East Asian languages** (Japanese, Chinese, Korean, Russian) + a huge number of road reflectors (as in Guam) | [P](https://www.plonkit.net/northern-mariana-islands) |  |
+| Region | Only **Saipan** has car coverage (islands to the north have none; Tinian & Rota only tripod); Suicide Cliff = exposed rock at the northern tip | [P](https://www.plonkit.net/northern-mariana-islands) |  |
+
+## American Samoa
+Study: [Plonk It](https://www.plonkit.net/american-samoa)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | US territory east of Fiji (counts as US); green tropical mountains + palms, small **concrete roads**, one-storey boxy houses w/ plain **metal-sheet roofs** | [P](https://www.plonkit.net/american-samoa) |  |
+| Country | Identify the island by the truck: **Tutuila** (main, most coverage) = a rusted **black truck bed** | [P](https://www.plonkit.net/american-samoa) |  |
+| Region | **Manu'a & Olosega** = silver-grey truck front w/ side mirrors; **Tau** (easternmost) = glossy black truck | [P](https://www.plonkit.net/american-samoa) |  |
+| Region | Single-lane **bridge** joining Manu'a & Olosega w/ a thin wire guardrail; Ofu Airport = concrete runway, car w/ two orange roof straps | [P](https://www.plonkit.net/american-samoa) |  |
+
+## Christmas Island
+Study: [Plonk It](https://www.plonkit.net/christmas-island)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Australian external territory SSW of Java (counts as Australia); car = a unique **silver pickup w/ its truck bed visible** — usually all you need to ID (don't confuse w/ Cocos Islands) | [P](https://www.plonkit.net/christmas-island) |  |
+| Country | **Yellow** licence plates | [P](https://www.plonkit.net/christmas-island) |  |
+| Country | Mostly dense **tropical forest**; some unpaved roads have bright **white sandy soil**; palms in places | [P](https://www.plonkit.net/christmas-island) |  |
+| Country | Standard **Australian bollard** (white, red front / grey back reflector); Aussie speed signs & green sign backgrounds | [P](https://www.plonkit.net/christmas-island) |  |
+| Region | Built-up areas in the **NE**; a boat trekker hugs the steep rocky north coast (white deck pokes through the blur); many trail trekkers in dense foliage | [P](https://www.plonkit.net/christmas-island) |  |
+| Region | Famous for **red crabs** (trekker among hundreds near Ethel Beach; crab references on signs); harbour recognisable by large **cranes** | [P](https://www.plonkit.net/christmas-island) |  |
+
+## Cocos Islands
+Study: [Plonk It](https://www.plonkit.net/cocos-islands)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Two coral atolls, Australian territory (counts as Australia); **bright white sand, palms & mowed grass** — far less forested/hilly than Christmas Island | [P](https://www.plonkit.net/cocos-islands) |  |
+| Country | **West Island** car = unique w/ a **snorkel at the front-right** + bed edges visible; **Bantam** car = white w/ rear edges visible (may be fully blurred) | [P](https://www.plonkit.net/cocos-islands) |  |
+| Region | **Bantam Village** = cross-hatched brick pavement; the runway is the **widest paved road** (mowed grass both sides + a follow car) | [P](https://www.plonkit.net/cocos-islands) |  |
+| Region | Many **coast trekkers** on white sand (ocean one side, palms the other); **Direction Island** beaches have noticeably more litter (bricks, styrofoam, dead coral) | [P](https://www.plonkit.net/cocos-islands) |  |
+| Region | **Horsburgh Island** (Pulau Luar) inland trekker = dry yellow grass + sparse vegetation | [P](https://www.plonkit.net/cocos-islands) |  |
