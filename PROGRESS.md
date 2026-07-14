@@ -114,18 +114,16 @@ Collection priority = play value / size first, micro-territories last.
 - [ ] Final review pass for duplicates / weak hints; tighten.
 
 ## Resume pointer (v3 grind)
-**70/136 countries.** Modus: automatisch Charge für Charge (~6 Länder → build+commit+push), keine
-Zwischen-Status-Nachrichten (die beenden den Turn). Neu über 46 hinaus: Bulgaria, Slovakia, Slovenia,
-Iceland, Estonia, Lithuania, Latvia, Taiwan, Sri Lanka, Mongolia, Bangladesh, Nepal, Kenya, Nigeria,
-Egypt, Tunisia, Ghana, Uganda, Bolivia, Ecuador, Uruguay, Guatemala, Costa Rica, Panama.
-**Noch offen (~66):** Middle East (Israel, Jordan, Lebanon, UAE, Qatar, Oman, Iraq), Cambodia, Laos,
-Bhutan, Pakistan, Kyrgyzstan, HK, Macau, Singapore; Africa (Senegal, Botswana, Namibia, Lesotho,
-Eswatini, Rwanda, Tanzania, Madagascar, Mali, Reunion, São Tomé); Americas (Dominican Rep, Puerto
-Rico, Greenland, Bermuda, Alaska, Hawaii, Curaçao, Martinique, Falklands, St-Pierre); Oceania
-(Vanuatu, Guam, American Samoa, N. Mariana, Christmas I., Cocos, Pitcairn); Europe micro (Andorra,
-Monaco, San Marino, Liechtenstein, Gibraltar, Malta, Jersey, IoM, Faroe, Svalbard, Azores, Madeira,
-Belarus, Luxembourg, Montenegro, N. Macedonia, Albania); Antarctica, S. Georgia. Hinweis: manche
-Plonk-It-Bilddateien **ohne Endung** (funktionieren trotzdem) und **nummeriert** (Caption-Pairing nutzen).
+**✅ 136/136 countries DONE.** Alle Plonk-It-Guides (voller Index von /guide abgeglichen) erfasst,
+gebaut, bildverifiziert (von github.io-Origin) und gepusht. Modus war: automatisch Charge für Charge
+(~6 Länder → build+commit+push), keine Zwischen-Status-Nachrichten.
+Letzte Charge (final 25 Territorien): Cyprus, Reunion, Azores, Svalbard, Bermuda, Curaçao, Alaska,
+Hawaii, Martinique, Falklands, St-Pierre-&-Miquelon, Guam, São Tomé, Vanuatu, American Samoa,
+Christmas I., Cocos I., N. Mariana I., Pitcairn, US Virgin Is., US Minor Outlying Is. (Midway),
+British Indian Ocean Terr., Antarctica, South Georgia, Israel & West Bank.
+Slug-Gotchas gelöst per Fetch-Brute-Force: South Georgia = `south-georgia-sandwich-islands`,
+Israel = `israel-west-bank`. Hinweis: manche Plonk-It-Bilddateien **ohne Endung** / **nummeriert**
+(Caption-Pairing) / **mit Leerzeichen** (imgUrl encodeURIComponent'd → laden trotzdem).
 
 ### (Referenz-Zwischenstand) 46/136 — 675 hints, 92% bildgestützt. Fertig zusätzlich zu den 23 Originalen: Norway,
 Finland, Denmark, Turkey, Kazakhstan, Thailand, Peru, Colombia, Chile, South Africa, Ukraine,

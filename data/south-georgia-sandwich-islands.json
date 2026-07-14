@@ -1,0 +1,13 @@
+{
+ "name": "South Georgia & Sandwich Islands",
+ "slug": "south-georgia-sandwich-islands",
+ "continent": "Antarctica",
+ "area_km2": 3903,
+ "links": { "plonkit": "https://www.plonkit.net/south-georgia-sandwich-islands", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "British Overseas Territory east of the Falklands (counts as UK); only a couple of **Gen3 trekkers** (Grytviken + 3 fjord trekkers), none on streets — memorise them", "src": ["plonkit"], "sv": null, "img": "South_Georgia_Abandoned.png", "type": "cars" },
+  { "cat": "region", "text": "**Grytviken** = the only pinpointable trekker (appears on community maps) — abandoned rusted machinery, a church + white-painted wooden buildings", "src": ["plonkit"], "sv": null, "img": "South_Georgia_Grytviken.png", "type": "general" },
+  { "cat": "region", "text": "A wide open **valley w/ lightly snow-capped mountains** on the west side of South Georgia Island", "src": ["plonkit"], "sv": null, "img": "South_Georgia_Valley.png", "type": "general" },
+  { "cat": "region", "text": "**Prion Island** = wooden walkway, lush green plants & many **seals**; a boat trekker in Hercules Bay shows a man in a red jacket + the MS National Geographic Explorer", "src": ["plonkit"], "sv": null, "img": "South_Georgia_Prion_Island.png", "type": "general" }
+ ]
+}

@@ -12,15 +12,15 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**129 / 136 countries.**
+**136 / 136 countries.**
 
 **Africa:** ✅ Botswana ✅ Egypt ✅ Eswatini ✅ Ghana ✅ Kenya ✅ Lesotho ✅ Madagascar ✅ Mali ✅ Namibia ✅ Nigeria ✅ Reunion ✅ Rwanda ✅ Senegal ✅ South Africa ✅ São Tomé and Príncipe ✅ Tanzania ✅ Tunisia ✅ Uganda
-**Asia:** ✅ Bangladesh ✅ Bhutan ⬜ British Indian Ocean Territory ✅ Cambodia ✅ China ✅ Cyprus ✅ Hong Kong ✅ India ✅ Indonesia ✅ Iraq ⬜ Israel & the West Bank ✅ Japan ✅ Jordan ✅ Kazakhstan ✅ Kyrgyzstan ✅ Laos ✅ Lebanon ✅ Macau ✅ Malaysia ✅ Mongolia ✅ Nepal ✅ Oman ✅ Pakistan ✅ Philippines ✅ Qatar ✅ Singapore ✅ South Korea ✅ Sri Lanka ✅ Taiwan ✅ Thailand ✅ Turkey ✅ United Arab Emirates ✅ Vietnam
+**Asia:** ✅ Bangladesh ✅ Bhutan ✅ British Indian Ocean Territory ✅ Cambodia ✅ China ✅ Cyprus ✅ Hong Kong ✅ India ✅ Indonesia ✅ Iraq ✅ Israel & the West Bank ✅ Japan ✅ Jordan ✅ Kazakhstan ✅ Kyrgyzstan ✅ Laos ✅ Lebanon ✅ Macau ✅ Malaysia ✅ Mongolia ✅ Nepal ✅ Oman ✅ Pakistan ✅ Philippines ✅ Qatar ✅ Singapore ✅ South Korea ✅ Sri Lanka ✅ Taiwan ✅ Thailand ✅ Turkey ✅ United Arab Emirates ✅ Vietnam
 **Europe:** ✅ Albania ✅ Andorra ✅ Austria ✅ Azores ✅ Belarus ✅ Belgium ✅ Bulgaria ✅ Croatia ✅ Czechia ✅ Denmark ✅ Estonia ✅ Faroe Islands ✅ Finland ✅ France ✅ Germany ✅ Gibraltar ✅ Greece ✅ Hungary ✅ Iceland ✅ Ireland ✅ Isle of Man ✅ Italy ✅ Jersey ✅ Latvia ✅ Liechtenstein ✅ Lithuania ✅ Luxembourg ✅ Madeira ✅ Malta ✅ Monaco ✅ Montenegro ✅ Netherlands ✅ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ✅ Romania ✅ Russia ✅ San Marino ✅ Serbia ✅ Slovakia ✅ Slovenia ✅ Spain ✅ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
-**North America:** ✅ Alaska ✅ Bermuda ✅ Canada ✅ Costa Rica ✅ Dominican Republic ✅ Greenland ✅ Guatemala ✅ Hawaii ✅ Martinique ✅ Mexico ✅ Panama ✅ Puerto Rico ✅ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
+**North America:** ✅ Alaska ✅ Bermuda ✅ Canada ✅ Costa Rica ✅ Dominican Republic ✅ Greenland ✅ Guatemala ✅ Hawaii ✅ Martinique ✅ Mexico ✅ Panama ✅ Puerto Rico ✅ Saint Pierre and Miquelon ✅ US Minor Outlying Islands ✅ US Virgin Islands ✅ United States
 **South America:** ✅ Argentina ✅ Bolivia ✅ Brazil ✅ Chile ✅ Colombia ✅ Curaçao ✅ Ecuador ✅ Falkland Islands ✅ Peru ✅ Uruguay
-**Oceania:** ✅ American Samoa ✅ Australia ✅ Christmas Island ✅ Cocos Islands ✅ Guam ✅ New Zealand ✅ Northern Mariana Islands ⬜ Pitcairn Islands ✅ Vanuatu
-**Antarctica:** ⬜ Antarctica ⬜ South Georgia & Sandwich Islands
+**Oceania:** ✅ American Samoa ✅ Australia ✅ Christmas Island ✅ Cocos Islands ✅ Guam ✅ New Zealand ✅ Northern Mariana Islands ✅ Pitcairn Islands ✅ Vanuatu
+**Antarctica:** ✅ Antarctica ✅ South Georgia & Sandwich Islands
 
 ---
 
@@ -696,6 +696,20 @@ Study: [Plonk It](https://www.plonkit.net/taiwan)
 | Region | Flat **western plain** = farmland; central-eastern ⅔ = forested mountains; Hualien-Taitung & Yilan valleys = rice paddies; **areca/betel-nut palms** central & south | [P](https://www.plonkit.net/taiwan) |  |
 | State | Counties + **outer islands** (Kinmen, Matsu, Penghu, Green/Orchid); **area codes 02–08 increase south**; freeways odd = N-S, even = E-W | [P](https://www.plonkit.net/taiwan) |  |
 
+## Israel & the West Bank
+Study: [Plonk It](https://www.plonkit.net/israel-west-bank)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates **yellow w/ a blue strip on the left** (also common in the West Bank; Jordan/UAE = white, Tunisia = black); West Bank plates are white w/ green text (inverted → green on taxis/buses) | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Country | Gen3 = **black car w/ a long antenna** (also black w/o antenna, or silver w/ a short antenna); Gen4 only in Israel, usually a **dirty front camera** (clean around Tel Aviv) | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Country | **Hebrew** (practically only here) + **Arabic** (esp. in the West Bank) | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Country | Stop signs show a **painted hand** instead of a word | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Country | **Striped kerbs** (red/white & black/white); yellow outer + white centre road lines; white-on-black chevrons; km markers white w/ a red/green/blue border | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Country | Utility poles w/ **black-and-white striped bottoms**; **mesh-framework** poles very common | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Country | Warm-coloured **stone buildings**, blocky; Mediterranean orange-tile roofs more common than elsewhere in the Middle East (flat roofs too) | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Region | Green forested **north** → extremely dry sandy **south** & E West Bank; near **Jerusalem** nearly every building is pale **Jerusalem stone**; Dead Sea = barren, Sea of Galilee = vegetated | [P](https://www.plonkit.net/israel-west-bank) |  |
+
 ## Qatar
 Study: [Plonk It](https://www.plonkit.net/qatar)
 
@@ -751,6 +765,16 @@ Study: [Plonk It](https://www.plonkit.net/singapore)
 | Country | Buses mostly **lime-green**; bus stops protected by concrete **black-and-yellow warning-band bollards** | [P](https://www.plonkit.net/singapore) |  |
 | Country | Traffic lights on a **curved perforated metal sheet** | [P](https://www.plonkit.net/singapore) |  |
 | Region | Streets named after their **neighbourhood** (appears fast on the map, e.g. Ang Mo Kio); Sentosa = resort feel; Tuas = industrial cranes/containers | [P](https://www.plonkit.net/singapore) |  |
+
+## British Indian Ocean Territory
+Study: [Plonk It](https://www.plonkit.net/british-indian-ocean-territory)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | UK overseas territory in the Indian Ocean (counts as UK); all coverage = a **Gen3 trekker**, none pinpointable (rare in community maps) | [P](https://www.plonkit.net/british-indian-ocean-territory) |  |
+| Country | Mostly small **atolls in the northern half**; much coverage on **sand beaches lined w/ palms** | [P](https://www.plonkit.net/british-indian-ocean-territory) |  |
+| Country | Coastal **coconut-palm forests**; **mangroves** on several atolls; grassy fields w/ bushes on the larger islands; trekker sometimes offshore in the water | [P](https://www.plonkit.net/british-indian-ocean-territory) |  |
+| Region | **Coin du Mire** = dark rocky shore + grassy field (no palms); a white shipwreck sits on the beach at the E tip of **Nelsons Island** | [P](https://www.plonkit.net/british-indian-ocean-territory) |  |
 
 ## Macau
 Study: [Plonk It](https://www.plonkit.net/macau)
@@ -1820,6 +1844,17 @@ Study: [Plonk It](https://www.plonkit.net/martinique)
 | Region | **Coastal southern trekker**: hilly path w/ other people, houses w/ orange roofs, ends at a car park w/ stalls | [P](https://www.plonkit.net/martinique) |  |
 | Region | **Jardin de Balata** trekker: dark, humid jungle — buttress-root trees, ferns & bamboo; a man in a black shirt & grey cap sometimes visible | [P](https://www.plonkit.net/martinique) |  |
 
+## US Virgin Islands
+Study: [Plonk It](https://www.plonkit.net/us-virgin-islands)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | US territory (counts as US); 3 unique cars — **St Croix (south)** = a red truck (most coverage) + a white antenna-less car; **St Thomas/St John (north)** = a white car w/ antenna & shorter cab | [P](https://www.plonkit.net/us-virgin-islands) |  |
+| Country | Distinctive colonial architecture (Renaissance/Baroque/Rococo/Victorian): **large arched facades**, central plazas & courtyards | [P](https://www.plonkit.net/us-virgin-islands) |  |
+| Country | Former **Danish colony** → some Danish street names (e.g. '**gade**') / bilingual signs in historic downtowns | [P](https://www.plonkit.net/us-virgin-islands) |  |
+| Country | Plates are short, w/ a **bright-blue or dark-blue** design | [P](https://www.plonkit.net/us-virgin-islands) |  |
+| Region | **St Croix** (south) = loose grid (roads WSW–ENE); **St John & St Thomas** (north) = much curvier roads; boat trekkers off N St Croix (Buck Island has a pink camera tint) | [P](https://www.plonkit.net/us-virgin-islands) |  |
+
 ## Saint Pierre and Miquelon
 Study: [Plonk It](https://www.plonkit.net/saint-pierre-and-miquelon)
 
@@ -2116,6 +2151,27 @@ Study: [Plonk It](https://www.plonkit.net/christmas-island)
 | Region | Built-up areas in the **NE**; a boat trekker hugs the steep rocky north coast (white deck pokes through the blur); many trail trekkers in dense foliage | [P](https://www.plonkit.net/christmas-island) |  |
 | Region | Famous for **red crabs** (trekker among hundreds near Ethel Beach; crab references on signs); harbour recognisable by large **cranes** | [P](https://www.plonkit.net/christmas-island) |  |
 
+## Pitcairn Islands
+Study: [Plonk It](https://www.plonkit.net/pitcairn-islands)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | UK territory in the South Pacific (counts as UK); all coverage = a **Gen3 trekker** on just 2 islands (Pitcairn & Henderson) | [P](https://www.plonkit.net/pitcairn-islands) |  |
+| Country | Semi-tropical, **densely forested**; most coverage is small **dirt tracks** through forest; soil is very **red** | [P](https://www.plonkit.net/pitcairn-islands) |  |
+| Region | **Adamstown** = the only settlement (NE shore), some roads concrete rather than dirt; 'The Landing' dock has many small ATVs | [P](https://www.plonkit.net/pitcairn-islands) |  |
+| Region | **Henderson Island** coverage = only two white-sand beaches (north & east shore) | [P](https://www.plonkit.net/pitcairn-islands) |  |
+
+## US Minor Outlying Islands
+Study: [Plonk It](https://www.plonkit.net/us-minor-outlying-islands)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | US territory chain (counts as US); nearly all pinpointable coverage is the **Midway Atoll**, shot on a **Gen2** camera (find it just west of the 'North Pacific Ocean' map label) | [P](https://www.plonkit.net/us-minor-outlying-islands) |  |
+| Country | **Albatrosses on almost every Midway location** (and birds all over the chain) — the standout tell | [P](https://www.plonkit.net/us-minor-outlying-islands) |  |
+| Region | Midway = two **runways** (nicely paved W–E on the south side; poorly paved N–S) + a small village on the east side | [P](https://www.plonkit.net/us-minor-outlying-islands) |  |
+| Region | Other islands = **Gen3 trekker**, low bushy vegetation, many birds (Lisianski = shore bushes ring; French Frigate Shoals = most birds; East Island = tiny, ocean all around) | [P](https://www.plonkit.net/us-minor-outlying-islands) |  |
+| Region | The western corner of the Midway runway is **one of the most common spots on the official GeoGuessr world map** — worth memorising | [P](https://www.plonkit.net/us-minor-outlying-islands) |  |
+
 ## Cocos Islands
 Study: [Plonk It](https://www.plonkit.net/cocos-islands)
 
@@ -2126,3 +2182,26 @@ Study: [Plonk It](https://www.plonkit.net/cocos-islands)
 | Region | **Bantam Village** = cross-hatched brick pavement; the runway is the **widest paved road** (mowed grass both sides + a follow car) | [P](https://www.plonkit.net/cocos-islands) |  |
 | Region | Many **coast trekkers** on white sand (ocean one side, palms the other); **Direction Island** beaches have noticeably more litter (bricks, styrofoam, dead coral) | [P](https://www.plonkit.net/cocos-islands) |  |
 | Region | **Horsburgh Island** (Pulau Luar) inland trekker = dry yellow grass + sparse vegetation | [P](https://www.plonkit.net/cocos-islands) |  |
+
+# Antarctica
+
+## Antarctica
+Study: [Plonk It](https://www.plonkit.net/antarctica)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Mostly **snow and ice**; any soil is **always dark** | [P](https://www.plonkit.net/antarctica) |  |
+| Country | **Penguins** appear in parts of the coverage — handy to rule out the Arctic | [P](https://www.plonkit.net/antarctica) |  |
+| Region | **Deception Island** = blue-and-white ship in the bay, abandoned equipment, a black-sand beach w/ penguins; **Half Moon Island** = tripod w/ people in red jackets | [P](https://www.plonkit.net/antarctica) |  |
+| Region | **McMurdo Station** = largest base — dark brown soil, many buildings, American infrastructure, sunset coverage (sun setting in the **south**, so don't guess the N hemisphere) | [P](https://www.plonkit.net/antarctica) |  |
+| Region | The **South Pole** tripod = a ring of national flags + a 'Geographic South Pole' sign (often placed on community world maps) | [P](https://www.plonkit.net/antarctica) |  |
+
+## South Georgia & Sandwich Islands
+Study: [Plonk It](https://www.plonkit.net/south-georgia-sandwich-islands)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | British Overseas Territory east of the Falklands (counts as UK); only a couple of **Gen3 trekkers** (Grytviken + 3 fjord trekkers), none on streets — memorise them | [P](https://www.plonkit.net/south-georgia-sandwich-islands) |  |
+| Region | **Grytviken** = the only pinpointable trekker (appears on community maps) — abandoned rusted machinery, a church + white-painted wooden buildings | [P](https://www.plonkit.net/south-georgia-sandwich-islands) |  |
+| Region | A wide open **valley w/ lightly snow-capped mountains** on the west side of South Georgia Island | [P](https://www.plonkit.net/south-georgia-sandwich-islands) |  |
+| Region | **Prion Island** = wooden walkway, lush green plants & many **seals**; a boat trekker in Hercules Bay shows a man in a red jacket + the MS National Geographic Explorer | [P](https://www.plonkit.net/south-georgia-sandwich-islands) |  |

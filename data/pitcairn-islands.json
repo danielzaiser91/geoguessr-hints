@@ -1,0 +1,13 @@
+{
+ "name": "Pitcairn Islands",
+ "slug": "pitcairn-islands",
+ "continent": "Oceania",
+ "area_km2": 47,
+ "links": { "plonkit": "https://www.plonkit.net/pitcairn-islands", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "UK territory in the South Pacific (counts as UK); all coverage = a **Gen3 trekker** on just 2 islands (Pitcairn & Henderson)", "src": ["plonkit"], "sv": null, "img": "pn_trekker.png", "type": "cars" },
+  { "cat": "country", "text": "Semi-tropical, **densely forested**; most coverage is small **dirt tracks** through forest; soil is very **red**", "src": ["plonkit"], "sv": null, "img": "pn_landscape.png", "type": "landscape" },
+  { "cat": "region", "text": "**Adamstown** = the only settlement (NE shore), some roads concrete rather than dirt; 'The Landing' dock has many small ATVs", "src": ["plonkit"], "sv": null, "img": "pn_adamstown.png", "type": "general" },
+  { "cat": "region", "text": "**Henderson Island** coverage = only two white-sand beaches (north & east shore)", "src": ["plonkit"], "sv": null, "img": "pn_henderson.png", "type": "general" }
+ ]
+}

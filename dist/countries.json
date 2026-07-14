@@ -317,6 +317,67 @@
    ]
   },
   {
+   "name": "Antarctica",
+   "slug": "antarctica",
+   "continent": "Antarctica",
+   "area_km2": 14000000,
+   "links": {
+    "plonkit": "https://www.plonkit.net/antarctica",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Mostly **snow and ice**; any soil is **always dark**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "aq_snow.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "**Penguins** appear in parts of the coverage — handy to rule out the Arctic",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "aq_pingwings.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "**Deception Island** = blue-and-white ship in the bay, abandoned equipment, a black-sand beach w/ penguins; **Half Moon Island** = tripod w/ people in red jackets",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "aq_deceptionisland.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "**McMurdo Station** = largest base — dark brown soil, many buildings, American infrastructure, sunset coverage (sun setting in the **south**, so don't guess the N hemisphere)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "aq_darksoil.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "The **South Pole** tripod = a ring of national flags + a 'Geographic South Pole' sign (often placed on community world maps)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "general"
+    }
+   ]
+  },
+  {
    "name": "Argentina",
    "slug": "argentina",
    "continent": "South America",
@@ -1755,6 +1816,58 @@
      "sv": null,
      "img": "br_riopencilpole.png",
      "type": "utility"
+    }
+   ]
+  },
+  {
+   "name": "British Indian Ocean Territory",
+   "slug": "british-indian-ocean-territory",
+   "continent": "Asia",
+   "area_km2": 60,
+   "links": {
+    "plonkit": "https://www.plonkit.net/british-indian-ocean-territory",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "UK overseas territory in the Indian Ocean (counts as UK); all coverage = a **Gen3 trekker**, none pinpointable (rare in community maps)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "io_trekker.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Mostly small **atolls in the northern half**; much coverage on **sand beaches lined w/ palms**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "io_beaches.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Coastal **coconut-palm forests**; **mangroves** on several atolls; grassy fields w/ bushes on the larger islands; trekker sometimes offshore in the water",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "io_palmforest.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "region",
+     "text": "**Coin du Mire** = dark rocky shore + grassy field (no palms); a white shipwreck sits on the beach at the E tip of **Nelsons Island**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "io_shipwreck.png",
+     "type": "general"
     }
    ]
   },
@@ -6085,6 +6198,98 @@
    ]
   },
   {
+   "name": "Israel & the West Bank",
+   "slug": "israel-west-bank",
+   "continent": "Asia",
+   "area_km2": 22072,
+   "links": {
+    "plonkit": "https://www.plonkit.net/israel-west-bank",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plates **yellow w/ a blue strip on the left** (also common in the West Bank; Jordan/UAE = white, Tunisia = black); West Bank plates are white w/ green text (inverted → green on taxis/buses)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "il_Licence_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Gen3 = **black car w/ a long antenna** (also black w/o antenna, or silver w/ a short antenna); Gen4 only in Israel, usually a **dirty front camera** (clean around Tel Aviv)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "il_car.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "**Hebrew** (practically only here) + **Arabic** (esp. in the West Bank)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "il_language.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Stop signs show a **painted hand** instead of a word",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "il_stopsign.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**Striped kerbs** (red/white & black/white); yellow outer + white centre road lines; white-on-black chevrons; km markers white w/ a red/green/blue border",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "il_kerb.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "Utility poles w/ **black-and-white striped bottoms**; **mesh-framework** poles very common",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "IL_Mesh_Pole.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Warm-coloured **stone buildings**, blocky; Mediterranean orange-tile roofs more common than elsewhere in the Middle East (flat roofs too)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ilps_architecture.png",
+     "type": "arch"
+    },
+    {
+     "cat": "region",
+     "text": "Green forested **north** → extremely dry sandy **south** & E West Bank; near **Jerusalem** nearly every building is pale **Jerusalem stone**; Dead Sea = barren, Sea of Galilee = vegetated",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "il_landscape.png",
+     "type": "landscape"
+    }
+   ]
+  },
+  {
    "name": "Italy",
    "slug": "italy",
    "continent": "Europe",
@@ -10156,6 +10361,58 @@
    ]
   },
   {
+   "name": "Pitcairn Islands",
+   "slug": "pitcairn-islands",
+   "continent": "Oceania",
+   "area_km2": 47,
+   "links": {
+    "plonkit": "https://www.plonkit.net/pitcairn-islands",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "UK territory in the South Pacific (counts as UK); all coverage = a **Gen3 trekker** on just 2 islands (Pitcairn & Henderson)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "pn_trekker.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Semi-tropical, **densely forested**; most coverage is small **dirt tracks** through forest; soil is very **red**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "pn_landscape.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "region",
+     "text": "**Adamstown** = the only settlement (NE shore), some roads concrete rather than dirt; 'The Landing' dock has many small ATVs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "pn_adamstown.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "**Henderson Island** coverage = only two white-sand beaches (north & east shore)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "pn_henderson.png",
+     "type": "general"
+    }
+   ]
+  },
+  {
    "name": "Poland",
    "slug": "poland",
    "continent": "Europe",
@@ -11931,6 +12188,58 @@
       "plonkit"
      ],
      "sv": null,
+     "type": "general"
+    }
+   ]
+  },
+  {
+   "name": "South Georgia & Sandwich Islands",
+   "slug": "south-georgia-sandwich-islands",
+   "continent": "Antarctica",
+   "area_km2": 3903,
+   "links": {
+    "plonkit": "https://www.plonkit.net/south-georgia-sandwich-islands",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "British Overseas Territory east of the Falklands (counts as UK); only a couple of **Gen3 trekkers** (Grytviken + 3 fjord trekkers), none on streets — memorise them",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "South_Georgia_Abandoned.png",
+     "type": "cars"
+    },
+    {
+     "cat": "region",
+     "text": "**Grytviken** = the only pinpointable trekker (appears on community maps) — abandoned rusted machinery, a church + white-painted wooden buildings",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "South_Georgia_Grytviken.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "A wide open **valley w/ lightly snow-capped mountains** on the west side of South Georgia Island",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "South_Georgia_Valley.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "**Prion Island** = wooden walkway, lush green plants & many **seals**; a boat trekker in Hercules Bay shows a man in a red jacket + the MS National Geographic Explorer",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "South_Georgia_Prion_Island.png",
      "type": "general"
     }
    ]
@@ -13955,6 +14264,130 @@
    ]
   },
   {
+   "name": "US Minor Outlying Islands",
+   "slug": "us-minor-outlying-islands",
+   "continent": "Oceania",
+   "area_km2": 34,
+   "links": {
+    "plonkit": "https://www.plonkit.net/us-minor-outlying-islands",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "US territory chain (counts as US); nearly all pinpointable coverage is the **Midway Atoll**, shot on a **Gen2** camera (find it just west of the 'North Pacific Ocean' map label)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "midway_gen2.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "**Albatrosses on almost every Midway location** (and birds all over the chain) — the standout tell",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "midway_albatrosses.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "Midway = two **runways** (nicely paved W–E on the south side; poorly paved N–S) + a small village on the east side",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "midway_runways.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "Other islands = **Gen3 trekker**, low bushy vegetation, many birds (Lisianski = shore bushes ring; French Frigate Shoals = most birds; East Island = tiny, ocean all around)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "midway_otherislands.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "The western corner of the Midway runway is **one of the most common spots on the official GeoGuessr world map** — worth memorising",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "midway_nicerunway.png",
+     "type": "general"
+    }
+   ]
+  },
+  {
+   "name": "US Virgin Islands",
+   "slug": "us-virgin-islands",
+   "continent": "North America",
+   "area_km2": 346,
+   "links": {
+    "plonkit": "https://www.plonkit.net/us-virgin-islands",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "US territory (counts as US); 3 unique cars — **St Croix (south)** = a red truck (most coverage) + a white antenna-less car; **St Thomas/St John (north)** = a white car w/ antenna & shorter cab",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "vi_cars.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Distinctive colonial architecture (Renaissance/Baroque/Rococo/Victorian): **large arched facades**, central plazas & courtyards",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "vi_architecture.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "Former **Danish colony** → some Danish street names (e.g. '**gade**') / bilingual signs in historic downtowns",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "danish_names.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Plates are short, w/ a **bright-blue or dark-blue** design",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "usvi_licenceplates.png",
+     "type": "plates"
+    },
+    {
+     "cat": "region",
+     "text": "**St Croix** (south) = loose grid (roads WSW–ENE); **St John & St Thomas** (north) = much curvier roads; boat trekkers off N St Croix (Buck Island has a pink camera tint)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "vi_southgrid.png",
+     "type": "general"
+    }
+   ]
+  },
+  {
    "name": "United States",
    "slug": "usa",
    "continent": "North America",
@@ -14796,7 +15229,7 @@
   "Antarctica"
  ],
  "counts": {
-  "done": 129,
+  "done": 136,
   "total": 136
  }
 }

@@ -1,0 +1,14 @@
+{
+ "name": "Antarctica",
+ "slug": "antarctica",
+ "continent": "Antarctica",
+ "area_km2": 14000000,
+ "links": { "plonkit": "https://www.plonkit.net/antarctica", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Mostly **snow and ice**; any soil is **always dark**", "src": ["plonkit"], "sv": null, "img": "aq_snow.png", "type": "landscape" },
+  { "cat": "country", "text": "**Penguins** appear in parts of the coverage — handy to rule out the Arctic", "src": ["plonkit"], "sv": null, "img": "aq_pingwings.png", "type": "general" },
+  { "cat": "region", "text": "**Deception Island** = blue-and-white ship in the bay, abandoned equipment, a black-sand beach w/ penguins; **Half Moon Island** = tripod w/ people in red jackets", "src": ["plonkit"], "sv": null, "img": "aq_deceptionisland.png", "type": "general" },
+  { "cat": "region", "text": "**McMurdo Station** = largest base — dark brown soil, many buildings, American infrastructure, sunset coverage (sun setting in the **south**, so don't guess the N hemisphere)", "src": ["plonkit"], "sv": null, "img": "aq_darksoil.png", "type": "general" },
+  { "cat": "region", "text": "The **South Pole** tripod = a ring of national flags + a 'Geographic South Pole' sign (often placed on community world maps)", "src": ["plonkit"], "sv": null, "type": "general" }
+ ]
+}
