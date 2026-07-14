@@ -95,6 +95,24 @@ const domainFor = (name) => { const c = CODE[name]; return c ? "." + (c === "gb"
 const norm = (s) => (s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "")
   .replace(/^the\s+/, "").replace(/&/g, "and").replace(/[^a-z ]/g, "").trim();
 
+const CODE_BY_NORM = {}; Object.keys(CODE).forEach(k => { CODE_BY_NORM[norm(k)] = CODE[k]; });
+const domainByCode = (c) => c ? "." + (c === "gb" ? "uk" : c) : "";
+// Common short forms used in clue text → flag code (proper full names come from CODE).
+const FLAG_ALIAS = { "USA": "us", "US": "us", "UK": "gb", "UAE": "ae", "Israel": "il", "Holland": "nl", "Czech": "cz" };
+let FLAG_RE = null;
+// Put a small flag before every country name mentioned in a clue string (post-mdBold HTML).
+function flagify(html) {
+  if (FLAG_RE === null) {
+    const names = Object.keys(CODE).concat(Object.keys(FLAG_ALIAS)).sort((a, b) => b.length - a.length);
+    const esc = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    FLAG_RE = new RegExp("\\b(" + names.map(esc).join("|") + ")\\b", "g");
+  }
+  return html.replace(FLAG_RE, (m, name) => {
+    const c = CODE[name] || FLAG_ALIAS[name];
+    return c ? `<img class="tflag" src="https://flagcdn.com/w20/${c}.png" alt="">${name}` : m;
+  });
+}
+
 let DATA = null, byNorm = {}, features = [], world = null, selected = null;
 let hovered = null, globe = null, covMap = null, covBase = null, covOverlay = null;
 const covSet = new Set(COVERAGE.map(norm));
@@ -105,6 +123,13 @@ const state = { cats: new Set(CAT_ORDER), srcs: new Set(Object.keys(SRC_NAME)), 
 const featName = (f) => f.properties.ADMIN || f.properties.NAME || f.properties.name;
 const dataForName = (name) => { const n = norm(name); return byNorm[ALIAS[n] || n] || null; };
 const hasCoverage = (f) => covSet.has(norm(featName(f))) || !!dataForName(featName(f));
+// Flag/domain code for a globe feature (resolve GeoJSON ADMIN spelling → our code).
+function flagCodeForFeat(f) {
+  const d = dataForName(featName(f));
+  if (d && CODE[d.name]) return CODE[d.name];
+  const nn = norm(featName(f));
+  return CODE_BY_NORM[nn] || CODE_BY_NORM[norm(ALIAS[nn] || "")] || null;
+}
 
 function bounds(feature) {
   let minX = 180, minY = 90, maxX = -180, maxY = -90;
@@ -144,7 +169,10 @@ function buildGlobe() {
     .polygonAltitude(f => dataForName(featName(f)) ? 0.05 : (hasCoverage(f) ? 0.02 : 0.008))
     .polygonLabel(f => {
       const d = dataForName(featName(f));
-      return `<div style="font:600 13px sans-serif;color:#fff">${featName(f)}</div>` +
+      const c = flagCodeForFeat(f);
+      const flag = c ? `<img src="https://flagcdn.com/w20/${c}.png" alt="" style="width:20px;height:14px;object-fit:cover;border-radius:2px;vertical-align:-2px;margin-right:7px;box-shadow:0 0 0 1px rgba(0,0,0,.4)">` : "";
+      const dom = c ? `<span style="color:#9ab;font-weight:400;margin-left:6px">${domainByCode(c)}</span>` : "";
+      return `<div style="font:600 13px sans-serif;color:#fff">${flag}${featName(f)}${dom}</div>` +
         `<div style="font:12px sans-serif;color:${hasCoverage(f) ? "#7fe" : "#9ab"}">` +
         `${hasCoverage(f) ? "official coverage" : "no coverage"}${d ? " · " + d.hints.length + " hints (click)" : ""}</div>`;
     })
@@ -355,7 +383,7 @@ function cardEl(h) {
     `<div class="body">` +
       (isSuper(h) ? `<div class="keytag">⭐ Key regional clue</div>` : "") +
       `<div class="type"><i style="background:${tm.color}"></i>${tm.label}</div>` +
-      `<div class="t">${mdBold(h.text)}</div>` +
+      `<div class="t">${flagify(mdBold(h.text))}</div>` +
       (meta ? `<div class="m">${meta}</div>` : "") +
     `</div>`;
   if (h.img && !gallery) {
@@ -424,7 +452,7 @@ function openImg(title, url, capText, creditHTML) {
   document.getElementById("img-title").textContent = title;
   const el = document.getElementById("img-el"); el.src = url; el.alt = title;
   document.getElementById("img-cap").innerHTML =
-    (capText ? mdBold(capText) : "") + (creditHTML ? `<span class="src">${creditHTML}</span>` : "");
+    (capText ? flagify(mdBold(capText)) : "") + (creditHTML ? `<span class="src">${creditHTML}</span>` : "");
   // Amazon-style hover zoom: start with the display image, upgrade to the original when it loads.
   const stage = document.getElementById("img-stage"), zoom = document.getElementById("img-zoom");
   stage.classList.remove("zoomable", "zoom-on"); zoom.style.backgroundPosition = "50% 50%";

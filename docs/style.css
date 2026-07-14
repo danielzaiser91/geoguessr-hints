@@ -149,6 +149,9 @@ code{background:#0a1120;border:1px solid var(--line);border-radius:4px;padding:0
 .card .type i{width:8px;height:8px;border-radius:50%;background:var(--dim);flex:none}
 .card .t{font-size:14px;line-height:1.55}
 .card .t b{color:#fff} .card .t code{font-size:12.5px}
+/* inline country flags inside clue text + captions */
+.tflag{width:15px;height:11px;object-fit:cover;border-radius:1.5px;vertical-align:-1px;margin-right:3px;
+  box-shadow:0 0 0 .5px rgba(0,0,0,.5);display:inline-block}
 .card .m{margin-top:9px;display:flex;gap:9px;align-items:center;flex-wrap:wrap;font-size:11px;color:var(--dim)}
 .card .m a{font-size:11px}
 .card .imgbtn{margin-top:10px;align-self:flex-start;display:inline-flex;align-items:center;gap:6px;
