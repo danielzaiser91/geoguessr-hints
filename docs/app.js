@@ -52,6 +52,16 @@ const SHIELDS = {
     cap: "Each **province/territory has its own highway shield** (Ontario crown, Québec fleur-de-lis/route number, BC shield, etc.) — the marker pins the province.",
     credit: 'Reference chart — <a href="https://en.wikipedia.org/wiki/Numbered_highways_in_Canada" target="_blank" rel="noopener">provincial route markers</a>' },
 };
+// US states tile-grid (abbr -> {n: full name, x: col, y: row}) for the USA state-clue map.
+const US_TILES = {
+  AK:{n:"Alaska",x:0,y:0}, ME:{n:"Maine",x:10,y:0}, VT:{n:"Vermont",x:9,y:1}, NH:{n:"New Hampshire",x:10,y:1},
+  WA:{n:"Washington",x:0,y:2}, MT:{n:"Montana",x:1,y:2}, ND:{n:"North Dakota",x:2,y:2}, MN:{n:"Minnesota",x:3,y:2}, WI:{n:"Wisconsin",x:4,y:2}, MI:{n:"Michigan",x:6,y:2}, NY:{n:"New York",x:8,y:2}, MA:{n:"Massachusetts",x:9,y:2}, RI:{n:"Rhode Island",x:10,y:2},
+  OR:{n:"Oregon",x:0,y:3}, ID:{n:"Idaho",x:1,y:3}, WY:{n:"Wyoming",x:2,y:3}, SD:{n:"South Dakota",x:3,y:3}, IA:{n:"Iowa",x:4,y:3}, IL:{n:"Illinois",x:5,y:3}, IN:{n:"Indiana",x:6,y:3}, OH:{n:"Ohio",x:7,y:3}, PA:{n:"Pennsylvania",x:8,y:3}, NJ:{n:"New Jersey",x:9,y:3}, CT:{n:"Connecticut",x:10,y:3},
+  CA:{n:"California",x:0,y:4}, NV:{n:"Nevada",x:1,y:4}, UT:{n:"Utah",x:2,y:4}, CO:{n:"Colorado",x:3,y:4}, NE:{n:"Nebraska",x:4,y:4}, MO:{n:"Missouri",x:5,y:4}, KY:{n:"Kentucky",x:6,y:4}, WV:{n:"West Virginia",x:7,y:4}, VA:{n:"Virginia",x:8,y:4}, MD:{n:"Maryland",x:9,y:4}, DE:{n:"Delaware",x:10,y:4},
+  AZ:{n:"Arizona",x:2,y:5}, NM:{n:"New Mexico",x:3,y:5}, KS:{n:"Kansas",x:4,y:5}, AR:{n:"Arkansas",x:5,y:5}, TN:{n:"Tennessee",x:6,y:5}, NC:{n:"North Carolina",x:7,y:5}, SC:{n:"South Carolina",x:8,y:5}, DC:{n:"District of Columbia",x:9,y:5},
+  OK:{n:"Oklahoma",x:4,y:6}, LA:{n:"Louisiana",x:5,y:6}, MS:{n:"Mississippi",x:6,y:6}, AL:{n:"Alabama",x:7,y:6}, GA:{n:"Georgia",x:8,y:6},
+  HI:{n:"Hawaii",x:0,y:7}, TX:{n:"Texas",x:3,y:7}, FL:{n:"Florida",x:8,y:7},
+};
 // GeoJSON ADMIN name (normalized) -> data country name (normalized)
 const ALIAS = {
   "united states of america": "united states", "russian federation": "russia",
@@ -347,6 +357,8 @@ function renderHints() {
       head.appendChild(b);
     }
     sec.appendChild(head);
+    // USA "state" clues: interactive tile map + state list instead of pills
+    if (cat === "state" && selected.slug === "usa") { renderUsStateMap(hints, sec); body.appendChild(sec); return; }
     // group by `area` (state/province name) into sub-sections when present
     const areas = [...new Set(hints.map(h => h.area).filter(Boolean))].sort();
     if (areas.length) {
@@ -359,6 +371,62 @@ function renderHints() {
     body.appendChild(sec);
   });
   if (!total) body.innerHTML = `<div class="empty">No clues match the current filters.</div>`;
+}
+// USA state-clue view: SVG tile-grid map + scrollable state list; click a state to see its clues.
+function renderUsStateMap(hints, sec) {
+  const byState = {};
+  hints.filter(h => h.area).forEach(h => (byState[h.area] = byState[h.area] || []).push(h));
+  const general = hints.filter(h => !h.area);
+  const NS = "http://www.w3.org/2000/svg", U = 42, G = 4, cols = 11, rows = 8;
+  const wrap = document.createElement("div"); wrap.className = "usmap";
+  const svg = document.createElementNS(NS, "svg");
+  svg.setAttribute("class", "ustiles"); svg.setAttribute("viewBox", `0 0 ${cols * U} ${rows * U}`);
+  const list = document.createElement("div"); list.className = "usmap-list";
+  const panel = document.createElement("div"); panel.className = "usmap-panel";
+
+  const clearSel = () => wrap.querySelectorAll(".tile.sel, .usmap-list .li.sel").forEach(e => e.classList.remove("sel"));
+  const showState = (name) => {
+    clearSel();
+    svg.querySelectorAll(`[data-state="${CSS.escape(name)}"]`).forEach(e => e.classList.add("sel"));
+    list.querySelectorAll(`[data-state="${CSS.escape(name)}"]`).forEach(e => e.classList.add("sel"));
+    panel.innerHTML = "";
+    const h = document.createElement("div"); h.className = "usmap-h";
+    h.textContent = `${name} · ${byState[name].length} clue${byState[name].length > 1 ? "s" : ""}`;
+    panel.appendChild(h); panel.appendChild(cardsEl(byState[name]));
+    panel.scrollIntoView({ block: "nearest" });
+  };
+  const showGeneral = () => {
+    clearSel(); panel.innerHTML = "";
+    if (general.length) {
+      const h = document.createElement("div"); h.className = "usmap-h"; h.textContent = "US-wide state clues";
+      panel.appendChild(h); panel.appendChild(cardsEl(general));
+    } else panel.innerHTML = `<div class="usmap-hint">Pick a state on the map or list to see its clues.</div>`;
+  };
+
+  Object.entries(US_TILES).forEach(([ab, t]) => {
+    const has = !!byState[t.n];
+    const g = document.createElementNS(NS, "g");
+    g.setAttribute("class", "tile" + (has ? " has" : ""));
+    if (has) { g.setAttribute("data-state", t.n); g.addEventListener("click", () => showState(t.n)); }
+    const rect = document.createElementNS(NS, "rect");
+    rect.setAttribute("x", t.x * U + G / 2); rect.setAttribute("y", t.y * U + G / 2);
+    rect.setAttribute("width", U - G); rect.setAttribute("height", U - G); rect.setAttribute("rx", 5);
+    const txt = document.createElementNS(NS, "text");
+    txt.setAttribute("x", t.x * U + U / 2); txt.setAttribute("y", t.y * U + U / 2);
+    txt.setAttribute("text-anchor", "middle"); txt.setAttribute("dominant-baseline", "central");
+    txt.textContent = ab;
+    g.appendChild(rect); g.appendChild(txt); svg.appendChild(g);
+  });
+  Object.values(US_TILES).map(t => t.n).sort().forEach(name => {
+    const has = !!byState[name];
+    const li = document.createElement("div"); li.className = "li" + (has ? " has" : "");
+    if (has) { li.dataset.state = name; li.addEventListener("click", () => showState(name)); }
+    li.innerHTML = `<span class="nm">${name}</span>` + (has ? `<span class="cnt">${byState[name].length}</span>` : "");
+    list.appendChild(li);
+  });
+  wrap.appendChild(svg); wrap.appendChild(list);
+  sec.appendChild(wrap); sec.appendChild(panel);
+  showGeneral();
 }
 function subSec(area, hints, cat) {
   const wrap = document.createElement("div"); wrap.className = "subsec";

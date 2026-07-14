@@ -186,6 +186,27 @@ code{background:#0a1120;border:1px solid var(--line);border-radius:4px;padding:0
 .gimg:hover .zoom-hint{opacity:1}
 .gimg.zoom-on:hover .zoom-hint{opacity:0}
 @media (hover:none){.gimg .zoom-hint{display:none}.gimg-zoom{display:none}}
+/* USA state-clue tile map */
+.usmap{display:flex;gap:20px;align-items:flex-start;flex-wrap:wrap}
+.ustiles{flex:1;min-width:300px;max-width:600px;height:auto}
+.ustiles .tile rect{fill:var(--panel2);stroke:var(--line);stroke-width:1}
+.ustiles .tile text{fill:var(--dim);font:700 13px sans-serif;pointer-events:none}
+.ustiles .tile.has{cursor:pointer}
+.ustiles .tile.has rect{fill:#1d4b45;stroke:#39b39b}
+.ustiles .tile.has text{fill:#cdefe8}
+.ustiles .tile.has:hover rect{fill:#2b6157}
+.ustiles .tile.sel rect{fill:var(--accent);stroke:var(--accent)}
+.ustiles .tile.sel text{fill:#08131f}
+.usmap-list{width:210px;max-height:430px;overflow-y:auto;display:flex;flex-direction:column;gap:1px;flex:none}
+.usmap-list .li{display:flex;align-items:center;gap:8px;padding:5px 9px;border-radius:7px;font-size:12.5px;color:#4a5878}
+.usmap-list .li.has{color:var(--ink);cursor:pointer}
+.usmap-list .li.has:hover{background:var(--panel2)}
+.usmap-list .li.sel{background:var(--panel2);color:var(--accent)}
+.usmap-list .li .nm{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.usmap-list .li .cnt{font-size:11px;color:var(--dim)}
+.usmap-panel{margin-top:18px}
+.usmap-h{font-size:14px;font-weight:700;color:var(--accent);margin:0 0 12px}
+.usmap-hint{color:var(--dim);font-size:13px;padding:10px 0}
 /* per-state / per-area sub-sections */
 .subsec{margin:0 0 16px}
 .subsec-h{font-size:12.5px;font-weight:700;margin:2px 0 10px;display:flex;align-items:center;gap:8px}
