@@ -19,7 +19,7 @@
   { "cat": "country", "text": "Tall square **apartment blocks**; Muslim-majority → **mosques w/ tall minarets** in most towns", "src": ["plonkit"], "sv": null, "img": "tr_mosque.png", "type": "arch" },
   { "super": true, "cat": "state", "text": "Area codes **1st digit 2 (west) → 4 (east)**; km markers show **province code (first 2 digits, ~alphabetical 01–76)**", "src": ["plonkit"], "sv": null, "img": "tr_areacodes_nobg.png", "type": "naming" },
   { "cat": "region", "text": "North = lush/forested; **NE = deep-green grassy round hills** (Gen3), few trees; SE arid; SW Mediterranean", "src": ["plonkit"], "sv": null, "img": "tr_northeast.png", "type": "landscape" },
-  { "cat": "region", "text": "Roofs: tiled → western ⅔; flat → SE + south coast; metal/low-pyramid → far east (Lake Van)", "src": ["plonkit"], "sv": null, "type": "arch" },
-  { "cat": "special", "text": "**Göreme/Cappadocia** (Nevşehir): sandstone monoliths w/ carved dwellings; **Mt. Ararat** volcano far east; whitewashed flat-roof houses → Bodrum", "src": ["plonkit"], "sv": null, "type": "landscape" }
+  { "cat": "region", "text": "Roofs: tiled → western ⅔; flat → SE + south coast; metal/low-pyramid → far east (Lake Van)", "src": ["plonkit"], "sv": null, "imgs": ["tr_tiledroofs.png", "tr_flatroofs.png", "tr_metalroofs.png"], "type": "arch" },
+  { "cat": "special", "text": "**Göreme/Cappadocia** (Nevşehir): sandstone monoliths w/ carved dwellings; **Mt. Ararat** volcano far east; whitewashed flat-roof houses → Bodrum", "src": ["plonkit"], "sv": null, "imgs": ["tr_mountararat.png", "tr_nevsehirbrick.png"], "type": "landscape" }
  ]
 }

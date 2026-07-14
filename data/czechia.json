@@ -16,7 +16,7 @@
   { "cat": "country", "text": "**Czech** distinct letters **Ř Ě Ů** (Slovak: Ľ Ô Ä Ŕ Ĺ); street = **ulice** (not ulica)", "src": ["plonkit"], "sv": null, "img": "cz_language.png", "type": "language" },
   { "cat": "country", "text": "Bright **red street signs** (wall or post) + blue/red house-number signs; km markers have a **yellow outline, no middle line**", "src": ["plonkit"], "sv": null, "img": "cz_redwhitesignpost.png", "type": "signs" },
   { "cat": "country", "text": "Black **bridge-end signs** with the road number on the left (Gen4)", "src": ["plonkit"], "sv": null, "img": "cz_bridgemarker.png", "type": "signs" },
-  { "cat": "region", "text": "Landscape = **rolling hills** + altitude changes, few tall mountains (Slovakia = more mountains + flat areas); grey/snowy winter Gen3", "src": ["plonkit"], "sv": null, "type": "landscape" },
-  { "cat": "state", "text": "Road number **first digit 1–6 = region**; roads 7/8/9 all start in **Prague** heading N/NW", "src": ["plonkit"], "sv": null, "type": "naming" }
+  { "cat": "region", "text": "Landscape = **rolling hills** + altitude changes, few tall mountains (Slovakia = more mountains + flat areas); grey/snowy winter Gen3", "src": ["plonkit"], "sv": null, "img": "cz_landscape.png", "type": "landscape" },
+  { "cat": "state", "text": "Road number **first digit 1–6 = region**; roads 7/8/9 all start in **Prague** heading N/NW", "src": ["plonkit"], "sv": null, "img": "cz_roadnumbers.png", "type": "naming" }
  ]
 }

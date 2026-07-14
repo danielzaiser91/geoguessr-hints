@@ -14,9 +14,9 @@
   { "super": true, "cat": "state", "text": "Area-code 1st digit = region; postal codes ordered alphabetically by state name", "src": ["plonkit"], "sv": null, "img": "mx_areacodes_nobg.png", "type": "naming" },
   { "cat": "region", "text": "**Blue agave fields → Jalisco/Nayarit** (tequila); Mexican Giant Cardon cactus → Baja California", "src": ["plonkit"], "sv": null, "img": "mx_tequilafield.png", "type": "landscape" },
   { "cat": "region", "text": "Saguaro cactus → Sonora; **boojum trees** (tentacle-like) → southern Baja California", "src": ["plonkit"], "sv": null, "img": "mx_saguarocacti.png", "type": "landscape" },
-  { "cat": "region", "text": "Monterrey = tall mountains ringing the city; blinding **white soil → Yucatán** (Quintana Roo)", "src": ["plonkit"], "sv": null, "type": "landscape" },
-  { "cat": "region", "text": "Red brick buildings → states west of CDMX (Jalisco, Michoacán, Guanajuato)", "src": ["plonkit"], "sv": null, "type": "arch" },
-  { "cat": "state", "area": "Jalisco", "text": "**Jalisco bollards** have a crown + \"Jalisco\" text (only Mexican bollard with writing)", "src": ["plonkit"], "sv": null, "type": "bollards" },
-  { "cat": "special", "text": "Bollards w/ red band near top → Nayarit; thick cross on sign backs → Chihuahua", "src": ["plonkit"], "sv": null, "type": "bollards" }
+  { "cat": "region", "text": "Monterrey = tall mountains ringing the city; blinding **white soil → Yucatán** (Quintana Roo)", "src": ["plonkit"], "sv": null, "imgs": ["mx_monterreymountains.png", "mx_whitesoilqroo.png"], "type": "landscape" },
+  { "cat": "region", "text": "Red brick buildings → states west of CDMX (Jalisco, Michoacán, Guanajuato)", "src": ["plonkit"], "sv": null, "img": "mx_redbrick.png", "type": "arch" },
+  { "cat": "state", "area": "Jalisco", "text": "**Jalisco bollards** have a crown + \"Jalisco\" text (only Mexican bollard with writing)", "src": ["plonkit"], "sv": null, "img": "mx_jaliscobollard.png", "type": "bollards" },
+  { "cat": "special", "text": "Bollards w/ red band near top → Nayarit; thick cross on sign backs → Chihuahua", "src": ["plonkit"], "sv": null, "imgs": ["mx_nayaritbollard.png", "mx_chihuahuacross.png"], "type": "bollards" }
  ]
 }

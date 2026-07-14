@@ -15,8 +15,8 @@
   { "cat": "country", "text": "Pedestrian sign **5 stripes, person with a high belt**; stop sign large font (Spain compact); road signs have a **white border**", "src": ["plonkit"], "sv": null, "img": "pedestriansign.png", "type": "signs" },
   { "cat": "country", "text": "A-type guardrails w/ **red reflectors** (Spain = yellow)", "src": ["plonkit"], "sv": null, "img": "guardrail.png", "type": "utility" },
   { "cat": "country", "text": "**Cobblestone** roads (square stones, diagonal) + bright cobblestone sidewalks; white stone houses w/ orange roofs & blue/yellow window trim", "src": ["plonkit"], "sv": null, "img": "cobblestone.png", "type": "arch" },
-  { "cat": "state", "text": "Landline area codes = first 3 digits (map); codes not starting with 2 aren't regional; **29 = Azores or Madeira**", "src": ["plonkit"], "sv": null, "type": "naming" },
-  { "cat": "region", "text": "**Faro (south)** decorative round/square chimneys; oak fields SE; olives east; **Douro** = steep terraced vineyards east of Porto", "src": ["plonkit"], "sv": null, "type": "landscape" },
+  { "cat": "state", "text": "Landline area codes = first 3 digits (map); codes not starting with 2 aren't regional; **29 = Azores or Madeira**", "src": ["plonkit"], "sv": null, "img": "2areacodes_darkmode.webp", "type": "naming" },
+  { "cat": "region", "text": "**Faro (south)** decorative round/square chimneys; oak fields SE; olives east; **Douro** = steep terraced vineyards east of Porto", "src": ["plonkit"], "sv": null, "imgs": ["2southernchimney.png", "2olives.png", "2citrus.png"], "type": "landscape" },
   { "cat": "special", "text": "**Madeira & Azores** count as Portugal; Serra da Estrela = rocky highland w/ yellow-black striped snow poles; Porto = lime-green street signs", "src": ["plonkit"], "sv": null, "type": "general" }
  ]
 }

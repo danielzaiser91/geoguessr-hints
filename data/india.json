@@ -17,7 +17,7 @@
   { "super": true, "cat": "state", "text": "**Oriya** (round \"skull-emoji\" tops) → Odisha; **Punjabi** (broken top bar, soft letters) → Punjab", "src": ["plonkit"], "sv": null, "img": "in_languageoriya.png", "type": "language" },
   { "cat": "state", "text": "Meghalaya = almost exclusively **English**", "src": ["plonkit"], "sv": null, "img": "in_languageenglish.png", "type": "language" },
   { "cat": "state", "text": "**Holey concrete poles** = Gujarat; yellow tuk-tuks w/ black roofs → south (TG/AP/TN)", "src": ["plonkit"], "sv": null, "img": "in_gujaratholeypole.png", "type": "utility" },
-  { "cat": "state", "text": "Pole paint: **5+ thin** black/yellow stripes → Delhi; **exactly 4 thick** → Bihar", "src": ["plonkit"], "sv": null, "type": "utility" },
-  { "cat": "state", "text": "Gurdwaras (white domes, Khanda symbol) → Punjab; bright flat orange ridged roof tiles → Tamil Nadu", "src": ["plonkit"], "sv": null, "type": "arch" }
+  { "cat": "state", "text": "Pole paint: **5+ thin** black/yellow stripes → Delhi; **exactly 4 thick** → Bihar", "src": ["plonkit"], "sv": null, "imgs": ["in_delhipolemarkings.png", "in_biharpolemarkings.png"], "type": "utility" },
+  { "cat": "state", "text": "Gurdwaras (white domes, Khanda symbol) → Punjab; bright flat orange ridged roof tiles → Tamil Nadu", "src": ["plonkit"], "sv": null, "img": "in_southroofs.png", "type": "arch" }
  ]
 }

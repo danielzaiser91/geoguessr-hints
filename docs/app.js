@@ -361,35 +361,46 @@ function cardsEl(hints) {
 }
 // Resolve a hint's image. Bare filename -> Plonk It image server (folder = plonkit link
 // slug). Full http(s) URL or local "img/…" path pass through unchanged.
-function imgUrl(h, w) {
-  if (!h.img) return null;
-  if (/^(https?:)?\/\//.test(h.img) || /^img\//.test(h.img)) return h.img;
+// A hint may carry one `img` (string) and/or several `imgs` (array); return the full list.
+function imgList(h) {
+  const a = [];
+  if (Array.isArray(h.imgs)) a.push(...h.imgs);
+  if (h.img) a.push(h.img);
+  return [...new Set(a)];
+}
+function imgUrlFor(file, w) {
+  if (/^(https?:)?\/\//.test(file) || /^img\//.test(file)) return file;
   // Plonk It's image folder can differ from the page slug (e.g. link /usa but folder
   // /united-states) — prefer an explicit img_folder, else derive from the plonkit link.
   const link = (selected.links && selected.links.plonkit) || "";
   const folder = selected.img_folder ||
     link.replace(/^https?:\/\/(www\.)?plonkit\.net\//i, "").replace(/\/.*$/, "") || selected.slug;
-  return `https://www.plonkit.net/images/resize/${w || 900}/80/${folder}/${encodeURIComponent(h.img)}`;
+  return `https://www.plonkit.net/images/resize/${w || 900}/80/${folder}/${encodeURIComponent(file)}`;
 }
+function imgUrl(h, w) { const l = imgList(h); return l.length ? imgUrlFor(l[0], w) : null; }
 function cardEl(h) {
   const ty = guessType(h); const tm = TYPE_META[ty] || TYPE_META.general;
   const card = document.createElement("div"); card.className = "card" + (isSuper(h) ? " super" : "");
   // Card meta omits the Plonk It link (redundant — already in the header button + image dialog).
   const svRef = h.sv ? `<a href="${h.sv}" target="_blank" rel="noopener">Street View ↗</a>` : "";
   const meta = [srcRefs(h, { noPlonkit: true }), svRef].filter(Boolean).join(" · ");
-  const gallery = state.view === "gallery" && !!h.img;
+  const imgs = imgList(h);
+  const gallery = state.view === "gallery" && imgs.length > 0;
+  const gimgHTML = gallery ? imgs.map(f =>
+    `<div class="gimg" data-file="${encodeURIComponent(f)}"><img src="${imgUrlFor(f, 600)}" alt="" draggable="false" onerror="this.closest('.gimg').style.display='none'"><div class="gimg-zoom"></div><div class="zoom-hint">🔍 click to toggle hover-zoom</div></div>`).join("") : "";
   card.innerHTML =
-    (gallery ? `<div class="gimg"><img src="${imgUrl(h, 600)}" alt="" draggable="false" onerror="this.closest('.gimg').style.display='none'"><div class="gimg-zoom"></div><div class="zoom-hint">🔍 click to toggle hover-zoom</div></div>` : "") +
+    gimgHTML +
     `<div class="body">` +
       (isSuper(h) ? `<div class="keytag">⭐ Key regional clue</div>` : "") +
       `<div class="type"><i style="background:${tm.color}"></i>${tm.label}</div>` +
       `<div class="t">${flagify(mdBold(h.text))}</div>` +
       (meta ? `<div class="m">${meta}</div>` : "") +
     `</div>`;
-  if (h.img && !gallery) {
-    const url = imgUrl(h);
-    const b = document.createElement("button"); b.className = "imgbtn"; b.textContent = "📷 Show image";
-    b.onclick = () => openImg(selected.name + " — " + tm.label, url, h.text, "Source: " + srcRefs(h));
+  if (imgs.length && !gallery) {
+    const urls = imgs.map(f => imgUrlFor(f, 900));
+    const b = document.createElement("button"); b.className = "imgbtn";
+    b.textContent = imgs.length > 1 ? `📷 ${imgs.length} images` : "📷 Show image";
+    b.onclick = () => openImg(selected.name + " — " + tm.label, urls, h.text, "Source: " + srcRefs(h));
     card.querySelector(".body").appendChild(b);
   }
   if (h.src && h.src.length) {
@@ -398,28 +409,30 @@ function cardEl(h) {
     sb.onclick = (e) => { e.stopPropagation(); openSources(h); };
     card.appendChild(sb);
   }
-  if (gallery) wireGalleryZoom(card, h);
+  if (gallery) wireGalleryImgs(card);
   return card;
 }
-// Inline (gallery-mode) click-to-toggle hover-zoom, mirroring the image dialog. Hi-res
-// original is loaded lazily on first enable so gallery entry stays light.
-function wireGalleryZoom(card, h) {
-  const gi = card.querySelector(".gimg"); if (!gi) return;
-  const zoom = gi.querySelector(".gimg-zoom"); let bgReady = false;
-  const ensureBg = () => {
-    if (bgReady) return; bgReady = true;
-    zoom.style.backgroundImage = `url("${imgUrl(h, 600)}")`; zoom.style.backgroundSize = (IMG_ZOOM * 100) + "%";
-    const hi = hiRes(imgUrl(h, 900)); const pre = new Image();
-    pre.onload = () => { zoom.style.backgroundImage = `url("${hi}")`; }; pre.src = hi;
-  };
-  gi.classList.add("zoomable");
-  gi.addEventListener("mousemove", e => {
-    const r = gi.getBoundingClientRect();
-    const px = Math.min(1, Math.max(0, (e.clientX - r.left) / r.width));
-    const py = Math.min(1, Math.max(0, (e.clientY - r.top) / r.height));
-    zoom.style.backgroundPosition = `${px * 100}% ${py * 100}%`;
+// Inline (gallery-mode) click-to-toggle hover-zoom for every image in the card. Hi-res
+// original loads lazily on first enable so gallery entry stays light.
+function wireGalleryImgs(card) {
+  card.querySelectorAll(".gimg").forEach(gi => {
+    const file = decodeURIComponent(gi.dataset.file || "");
+    const zoom = gi.querySelector(".gimg-zoom"); let bgReady = false;
+    const ensureBg = () => {
+      if (bgReady) return; bgReady = true;
+      zoom.style.backgroundImage = `url("${imgUrlFor(file, 600)}")`; zoom.style.backgroundSize = (IMG_ZOOM * 100) + "%";
+      const hi = hiRes(imgUrlFor(file, 900)); const pre = new Image();
+      pre.onload = () => { zoom.style.backgroundImage = `url("${hi}")`; }; pre.src = hi;
+    };
+    gi.classList.add("zoomable");
+    gi.addEventListener("mousemove", e => {
+      const r = gi.getBoundingClientRect();
+      const px = Math.min(1, Math.max(0, (e.clientX - r.left) / r.width));
+      const py = Math.min(1, Math.max(0, (e.clientY - r.top) / r.height));
+      zoom.style.backgroundPosition = `${px * 100}% ${py * 100}%`;
+    });
+    gi.addEventListener("click", () => { ensureBg(); gi.classList.toggle("zoom-on"); });
   });
-  gi.addEventListener("click", () => { ensureBg(); gi.classList.toggle("zoom-on"); });
 }
 
 /* ---------- coverage modal (Leaflet + Google svv tiles) ---------- */
@@ -454,19 +467,34 @@ function hiRes(url) {
   const m = url.match(/^(https?:\/\/[^/]+)\/images\/resize\/\d+\/\d+\/(.+)$/);
   return m ? `${m[1]}/images/${m[2]}` : url;
 }
-function openImg(title, url, capText, creditHTML) {
+function openImg(title, images, capText, creditHTML) {
+  const urls = Array.isArray(images) ? images : [images];
   document.getElementById("img-title").textContent = title;
-  const el = document.getElementById("img-el"); el.src = url; el.alt = title;
+  const stages = document.getElementById("img-stages"); stages.innerHTML = "";
+  urls.forEach(u => stages.appendChild(buildZoomStage(u)));
   document.getElementById("img-cap").innerHTML =
     (capText ? flagify(mdBold(capText)) : "") + (creditHTML ? `<span class="src">${creditHTML}</span>` : "");
-  // Amazon-style hover zoom: start with the display image, upgrade to the original when it loads.
-  const stage = document.getElementById("img-stage"), zoom = document.getElementById("img-zoom");
-  stage.classList.remove("zoomable", "zoom-on"); zoom.style.backgroundPosition = "50% 50%";
-  const setBg = (src) => { zoom.style.backgroundImage = `url("${src}")`; zoom.style.backgroundSize = (IMG_ZOOM * 100) + "%"; stage.classList.add("zoomable"); };
-  setBg(url);
-  const hi = hiRes(url);
-  if (hi !== url) { const pre = new Image(); pre.onload = () => { if (el.src === url) setBg(hi); }; pre.src = hi; }
   document.getElementById("imgModal").classList.add("open");
+}
+// One zoomable image: click to toggle hover-zoom; hi-res original loaded lazily on first enable.
+function buildZoomStage(url) {
+  const stage = document.createElement("div"); stage.className = "img-stage zoomable";
+  stage.innerHTML = `<img alt=""><div class="img-zoom"></div><div class="zoom-hint">🔍 click to toggle hover-zoom</div>`;
+  stage.querySelector("img").src = url;
+  const zoom = stage.querySelector(".img-zoom"); let bgReady = false;
+  const ensureBg = () => {
+    if (bgReady) return; bgReady = true;
+    zoom.style.backgroundImage = `url("${url}")`; zoom.style.backgroundSize = (IMG_ZOOM * 100) + "%";
+    const hi = hiRes(url); if (hi !== url) { const pre = new Image(); pre.onload = () => { zoom.style.backgroundImage = `url("${hi}")`; }; pre.src = hi; }
+  };
+  stage.addEventListener("mousemove", e => {
+    const r = stage.getBoundingClientRect();
+    const px = Math.min(1, Math.max(0, (e.clientX - r.left) / r.width));
+    const py = Math.min(1, Math.max(0, (e.clientY - r.top) / r.height));
+    zoom.style.backgroundPosition = `${px * 100}% ${py * 100}%`;
+  });
+  stage.addEventListener("click", () => { ensureBg(); stage.classList.toggle("zoom-on"); });
+  return stage;
 }
 
 /* ---------- per-clue source dialog ---------- */
@@ -494,15 +522,6 @@ function wireUI() {
   };
   document.getElementById("worldCov").onclick = () => openCoverage(null);
   document.getElementById("covBtn").onclick = () => { if (selected) openCoverage(selected); };
-  const stage = document.getElementById("img-stage");
-  stage.addEventListener("mousemove", e => {
-    const r = stage.getBoundingClientRect();
-    const px = Math.min(1, Math.max(0, (e.clientX - r.left) / r.width));
-    const py = Math.min(1, Math.max(0, (e.clientY - r.top) / r.height));
-    document.getElementById("img-zoom").style.backgroundPosition = `${px * 100}% ${py * 100}%`;
-  });
-  // click the image to toggle hover-zoom on/off
-  stage.addEventListener("click", () => { if (stage.classList.contains("zoomable")) stage.classList.toggle("zoom-on"); });
   document.getElementById("img-close").onclick = () => document.getElementById("imgModal").classList.remove("open");
   document.getElementById("imgModal").addEventListener("click", e => { if (e.target.id === "imgModal") document.getElementById("imgModal").classList.remove("open"); });
   document.getElementById("cov-close").onclick = () => document.getElementById("covModal").classList.remove("open");

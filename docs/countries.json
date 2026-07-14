@@ -3324,6 +3324,7 @@
       "plonkit"
      ],
      "sv": null,
+     "img": "cz_landscape.png",
      "type": "landscape"
     },
     {
@@ -3333,6 +3334,7 @@
       "plonkit"
      ],
      "sv": null,
+     "img": "cz_roadnumbers.png",
      "type": "naming"
     }
    ]
@@ -4971,6 +4973,7 @@
       "plonkit"
      ],
      "sv": null,
+     "img": "gr_areacodes_darkmode.png",
      "type": "naming"
     }
    ]
@@ -5787,6 +5790,10 @@
       "plonkit"
      ],
      "sv": null,
+     "imgs": [
+      "in_delhipolemarkings.png",
+      "in_biharpolemarkings.png"
+     ],
      "type": "utility"
     },
     {
@@ -5796,6 +5803,7 @@
       "plonkit"
      ],
      "sv": null,
+     "img": "in_southroofs.png",
      "type": "arch"
     }
    ]
@@ -8508,6 +8516,10 @@
       "plonkit"
      ],
      "sv": null,
+     "imgs": [
+      "mx_monterreymountains.png",
+      "mx_whitesoilqroo.png"
+     ],
      "type": "landscape"
     },
     {
@@ -8517,6 +8529,7 @@
       "plonkit"
      ],
      "sv": null,
+     "img": "mx_redbrick.png",
      "type": "arch"
     },
     {
@@ -8527,6 +8540,7 @@
       "plonkit"
      ],
      "sv": null,
+     "img": "mx_jaliscobollard.png",
      "type": "bollards"
     },
     {
@@ -8536,6 +8550,10 @@
       "plonkit"
      ],
      "sv": null,
+     "imgs": [
+      "mx_nayaritbollard.png",
+      "mx_chihuahuacross.png"
+     ],
      "type": "bollards"
     }
    ]
@@ -10680,6 +10698,7 @@
       "plonkit"
      ],
      "sv": null,
+     "img": "2areacodes_darkmode.webp",
      "type": "naming"
     },
     {
@@ -10689,6 +10708,11 @@
       "plonkit"
      ],
      "sv": null,
+     "imgs": [
+      "2southernchimney.png",
+      "2olives.png",
+      "2citrus.png"
+     ],
      "type": "landscape"
     },
     {
@@ -11195,6 +11219,7 @@
       "plonkit"
      ],
      "sv": null,
+     "img": "ru_licenceplatecodes.png",
      "type": "naming"
     },
     {
@@ -13680,6 +13705,11 @@
       "plonkit"
      ],
      "sv": null,
+     "imgs": [
+      "tr_tiledroofs.png",
+      "tr_flatroofs.png",
+      "tr_metalroofs.png"
+     ],
      "type": "arch"
     },
     {
@@ -13689,6 +13719,10 @@
       "plonkit"
      ],
      "sv": null,
+     "imgs": [
+      "tr_mountararat.png",
+      "tr_nevsehirbrick.png"
+     ],
      "type": "landscape"
     }
    ]
@@ -13912,6 +13946,10 @@
       "plonkit"
      ],
      "sv": null,
+     "imgs": [
+      "ua_licenceplatecodes.png",
+      "Area_codes.png"
+     ],
      "type": "naming"
     },
     {
@@ -13921,6 +13959,7 @@
       "plonkit"
      ],
      "sv": null,
+     "img": "Carpathians.png",
      "type": "landscape"
     },
     {
@@ -15074,6 +15113,10 @@
       "plonkit"
      ],
      "sv": null,
+     "imgs": [
+      "vn_address.jpeg",
+      "vn_provincemap_darkmode.png"
+     ],
      "type": "naming"
     },
     {
@@ -15083,6 +15126,10 @@
       "plonkit"
      ],
      "sv": null,
+     "imgs": [
+      "vn_mekongcanal.png",
+      "vn_redriverdeltalandscape.png"
+     ],
      "type": "landscape"
     },
     {
@@ -15092,6 +15139,10 @@
       "plonkit"
      ],
      "sv": null,
+     "imgs": [
+      "vnareacodes_map.jpg",
+      "vnlicencecodes_map.jpg"
+     ],
      "type": "naming"
     }
    ]
