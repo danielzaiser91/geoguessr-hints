@@ -12,11 +12,11 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**35 / 136 countries.**
+**40 / 136 countries.**
 
 **Africa:** ⬜ Botswana ⬜ Egypt ⬜ Eswatini ⬜ Ghana ⬜ Kenya ⬜ Lesotho ⬜ Madagascar ⬜ Mali ⬜ Namibia ⬜ Nigeria ⬜ Reunion ⬜ Rwanda ⬜ Senegal ✅ South Africa ⬜ São Tomé and Príncipe ⬜ Tanzania ⬜ Tunisia ⬜ Uganda
 **Asia:** ⬜ Bangladesh ⬜ Bhutan ⬜ British Indian Ocean Territory ⬜ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ⬜ Iraq ⬜ Israel & the West Bank ✅ Japan ⬜ Jordan ✅ Kazakhstan ⬜ Kyrgyzstan ⬜ Laos ⬜ Lebanon ⬜ Macau ✅ Malaysia ⬜ Mongolia ⬜ Nepal ⬜ Oman ⬜ Pakistan ✅ Philippines ⬜ Qatar ⬜ Singapore ✅ South Korea ⬜ Sri Lanka ⬜ Taiwan ✅ Thailand ✅ Turkey ⬜ United Arab Emirates ✅ Vietnam
-**Europe:** ⬜ Albania ⬜ Andorra ⬜ Austria ⬜ Azores ⬜ Belarus ⬜ Belgium ⬜ Bulgaria ⬜ Croatia ⬜ Czechia ✅ Denmark ⬜ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ⬜ Gibraltar ⬜ Greece ⬜ Hungary ⬜ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ⬜ Latvia ⬜ Liechtenstein ⬜ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ✅ Norway ✅ Poland ⬜ Portugal ⬜ Romania ✅ Russia ⬜ San Marino ⬜ Serbia ⬜ Slovakia ⬜ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ⬜ Switzerland ✅ Ukraine ✅ United Kingdom
+**Europe:** ⬜ Albania ⬜ Andorra ✅ Austria ⬜ Azores ⬜ Belarus ✅ Belgium ⬜ Bulgaria ⬜ Croatia ⬜ Czechia ✅ Denmark ⬜ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ⬜ Gibraltar ✅ Greece ⬜ Hungary ⬜ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ⬜ Latvia ⬜ Liechtenstein ⬜ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ⬜ Romania ✅ Russia ⬜ San Marino ⬜ Serbia ⬜ Slovakia ⬜ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
 **North America:** ⬜ Alaska ⬜ Bermuda ✅ Canada ⬜ Costa Rica ⬜ Dominican Republic ⬜ Greenland ⬜ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ⬜ Panama ⬜ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
 **South America:** ✅ Argentina ⬜ Bolivia ✅ Brazil ✅ Chile ✅ Colombia ⬜ Curaçao ⬜ Ecuador ⬜ Falkland Islands ✅ Peru ⬜ Uruguay
 **Oceania:** ⬜ American Samoa ✅ Australia ⬜ Christmas Island ⬜ Cocos Islands ⬜ Guam ⬜ New Zealand ⬜ Northern Mariana Islands ⬜ Pitcairn Islands ⬜ Vanuatu
@@ -494,6 +494,63 @@ Study: [Plonk It](https://www.plonkit.net/united-kingdom)
 | Special | Warning stickers wrapped all the way around the pole → Northern Ireland; Cornish palms → far SW coast | [P](https://www.plonkit.net/united-kingdom) |  |
 | Special | Isle of Man = **Gen2 only**, counts as UK for country streaks | [P](https://www.plonkit.net/united-kingdom) |  |
 
+## Greece
+Study: [Plonk It](https://www.plonkit.net/greece)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates white or standard EU blue-strip; **taxis = yellow plates** | [P](https://www.plonkit.net/greece) |  |
+| Country | **Greek alphabet** — unique; lowercase has softer shapes than Cyrillic (Cyprus also uses it) | [P](https://www.plonkit.net/greece) |  |
+| Country | Poles primarily **wooden, dark brown & tall**; **harp-shaped metal poletops** (unique to GR + Cyprus); 5 vertical insulators | [P](https://www.plonkit.net/greece) |  |
+| Country | Faded **solid white double middle lines**; **yellow road lines** more common than in any other S. European country | [P](https://www.plonkit.net/greece) |  |
+| Country | Bollards wedge-shaped w/ almost-square reflectors (red front / white back) | [P](https://www.plonkit.net/greece) |  |
+| Country | Chevrons **white arrows on black**; warning signs red border + yellow background | [P](https://www.plonkit.net/greece) |  |
+| Country | Directional signs blue, arrow-shaped: **Greek in yellow, English in white** | [P](https://www.plonkit.net/greece) |  |
+| Country | Town-entry signs white w/ thick blue horizontal stripes; km markers blue w/ "km" in Latin + Greek | [P](https://www.plonkit.net/greece) |  |
+| Country | Pedestrian sign = **two dotted horizontal lines** (not vertical stripes) | [P](https://www.plonkit.net/greece) |  |
+| Country | **Miniature roadside churches** on small pedestals — unique to Greece | [P](https://www.plonkit.net/greece) |  |
+| Country | White/pastel stone houses w/ orange roofs; iconic **white houses + blue trim** (mainly on the islands) | [P](https://www.plonkit.net/greece) |  |
+| Country | Very **mountainous** (winding mountain roads); **red dirt** common (also Albania); bleak Gen3 winter/fall coverage | [P](https://www.plonkit.net/greece) |  |
+| Special | Area codes start **2** (+1–3 digits; 3rd digit 1 = biggest city, 9 = its surroundings); **Cyclades** = white+blue houses, barren treeless small islands; **Meteora** monoliths N of Trikala; Athens yellow / Thessaloniki blue taxis | [P](https://www.plonkit.net/greece) |  |
+
+## Portugal
+Study: [Plonk It](https://www.plonkit.net/portugal)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plate white + blue strip left + **yellow strip right** (unique; discontinued 2020, so Gen4 may show only the blue) | [P](https://www.plonkit.net/portugal) |  |
+| Country | **Portuguese**: Ç Ã Õ Â Ê and **no Ñ** (Spain has Ñ); road = **Rua** (Galician = Rúa) | [P](https://www.plonkit.net/portugal) |  |
+| Country | **Eucalyptus** trees very common (only other part of Europe with them = northern Spain) | [P](https://www.plonkit.net/portugal) |  |
+| Country | Concrete **ladder poles with very tall steps** (each with a small see-through hole) — Spain/France use short steps | [P](https://www.plonkit.net/portugal) |  |
+| Country | Hunting signs **red-and-white** (Spain = black/white); chevrons **black w/ yellow arrows** (only Mediterranean country with these) | [P](https://www.plonkit.net/portugal) |  |
+| Country | Bollards wedge-shaped w/ thin white top, or flat w/ a wide reflector (orange reflector = darker than Spain's yellow) | [P](https://www.plonkit.net/portugal) |  |
+| Country | Directional signs white w/ **black arrows not touching the border**; km markers = wide rectangle w/ a diagonal coloured section | [P](https://www.plonkit.net/portugal) |  |
+| Country | Pedestrian sign **5 stripes, person with a high belt**; stop sign large font (Spain compact); road signs have a **white border** | [P](https://www.plonkit.net/portugal) |  |
+| Country | A-type guardrails w/ **red reflectors** (Spain = yellow) | [P](https://www.plonkit.net/portugal) |  |
+| Country | **Cobblestone** roads (square stones, diagonal) + bright cobblestone sidewalks; white stone houses w/ orange roofs & blue/yellow window trim | [P](https://www.plonkit.net/portugal) |  |
+| Region | **Faro (south)** decorative round/square chimneys; oak fields SE; olives east; **Douro** = steep terraced vineyards east of Porto | [P](https://www.plonkit.net/portugal) |  |
+| State | Landline area codes = first 3 digits (map); codes not starting with 2 aren't regional; **29 = Azores or Madeira** | [P](https://www.plonkit.net/portugal) |  |
+| Special | **Madeira & Azores** count as Portugal; Serra da Estrela = rocky highland w/ yellow-black striped snow poles; Porto = lime-green street signs | [P](https://www.plonkit.net/portugal) |  |
+
+## Austria
+Study: [Plonk It](https://www.plonkit.net/austria)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plate long white + EU blue strip (Italy = 2 strips & shorter; Swiss = no strip) | [P](https://www.plonkit.net/austria) |  |
+| Country | Bollards white w/ a **black top**, dark-red or grey reflector, small **nipple cap** (Slovenia/Montenegro = bright red reflector) | [P](https://www.plonkit.net/austria) |  |
+| Country | Chevrons **white-on-red or red-on-yellow** (Germany mostly red-on-white) | [P](https://www.plonkit.net/austria) |  |
+| Country | **Round wooden poles** are the most common pole type | [P](https://www.plonkit.net/austria) |  |
+| Country | German (**Ä Ö Ü ß**); camera meta separates the 3: **Austria = Gen3 + Gen4**, Germany = Gen4 only, Switzerland = low-cam | [P](https://www.plonkit.net/austria) |  |
+| Country | Direction & town-entry signs = **white bg, blue outline, unique font** (Germany = yellow town signs) | [P](https://www.plonkit.net/austria) |  |
+| Country | Pedestrian sign = **two horizontal dashed lines** (not zebra stripes) — unique; all neighbours use zebra | [P](https://www.plonkit.net/austria) |  |
+| Country | Road markers **blue w/ white numbers + one decimal (comma)** (Slovenia white; Germany white outline) | [P](https://www.plonkit.net/austria) |  |
+| Country | Bus-stop signs = **yellow-green circle w/ H**; **"EINBAHN"** one-way sign (Germany = "Einbahnstraße") | [P](https://www.plonkit.net/austria) |  |
+| Country | Dead-end sign = white **upside-down T**; **yellow gas poles** (snow-pole-like) are unique to Austria | [P](https://www.plonkit.net/austria) |  |
+| Country | Alpine architecture: light walls, wooden balconies/panelling on the top floor, dark wooden roofs extending outward | [P](https://www.plonkit.net/austria) |  |
+| Region | **Mostly mountainous** (central/west); flatter east near borders; A/B roads number **east→west**; each state has own flag + bus company; vineyards → far east | [P](https://www.plonkit.net/austria) |  |
+| Special | **Vienna** = dark-blue serif street plaques (leading number = district); Vorarlberg neon-yellow bus poles; Vienna/Innsbruck flag-tape on poles | [P](https://www.plonkit.net/austria) |  |
+
 ## Ireland
 Study: [Plonk It](https://www.plonkit.net/ireland)
 
@@ -557,6 +614,45 @@ Study: [Plonk It](https://www.plonkit.net/netherlands)
 | State | N-road **hectometre markers** have province-specific designs → identify province | [P](https://www.plonkit.net/netherlands) |  |
 | State | **Frisian** language on some signs (vowels w/ circumflex Â Ê Ô Û) → Friesland (north) | [P](https://www.plonkit.net/netherlands) |  |
 | State | **Low rolling hills** (rare for NL) → Southern Limburg | [P](https://www.plonkit.net/netherlands) |  |
+
+## Switzerland
+Study: [Plonk It](https://www.plonkit.net/switzerland)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | **Low-cam** (bigger car blur, roads look wide, low angle) — only Japan & Liechtenstein are also always low-cam | [P](https://www.plonkit.net/switzerland) |  |
+| Country | Plates **fully white, no blue strip**; **very short front plate**; rear has red country emblem left + canton emblem right | [P](https://www.plonkit.net/switzerland) |  |
+| Country | Bollards black-and-white (white/grey reflector), wedge-shaped or cylindrical w/ rounded top | [P](https://www.plonkit.net/switzerland) |  |
+| Country | Directional-sign colour = road type: **blue = main road, white = side road** | [P](https://www.plonkit.net/switzerland) |  |
+| Country | Pedestrian sign = **7 stripes** in a **tall blue rectangle** (almost unique in Europe) | [P](https://www.plonkit.net/switzerland) |  |
+| Country | **Long dashed yellow** road lines; **yellow-painted pedestrian crossings** (only CH + Liechtenstein in Europe) | [P](https://www.plonkit.net/switzerland) |  |
+| Country | Road signs with a **round grey metal border**; town-entry signs white/blue w/ metal frame + canton abbreviation | [P](https://www.plonkit.net/switzerland) |  |
+| Country | Chevrons black w/ white arrow (Austria = red/white or red/yellow) | [P](https://www.plonkit.net/switzerland) |  |
+| Country | **South extremely mountainous** (thin valleys); north = farmland on flat/rolling hills w/ forested hills in distance | [P](https://www.plonkit.net/switzerland) |  |
+| Country | Alpine architecture: light warm stone + wood, gable tiled roofs, **two-part wooden shutters**; unique thick-metal-frame bus-stop signs | [P](https://www.plonkit.net/switzerland) |  |
+| Region | **4 official languages** (German/French/Italian/Romansh); Swiss German has **no ß**; speed-sign text varies by region | [P](https://www.plonkit.net/switzerland) |  |
+| Region | **Jura Mountains** (NW) = fairly flat + a long chain of forested ridges, exposed limestone; rock walls | [P](https://www.plonkit.net/switzerland) |  |
+| State | **Canton 2-letter abbreviation** on town signs & plates; postal-code first digits increase **west→east** | [P](https://www.plonkit.net/switzerland) |  |
+| Special | **Ticino** = Italian architecture (south); Graubünden painted-detail stone houses + **Bernina Express** train coverage; Valais thick wooden bollards | [P](https://www.plonkit.net/switzerland) |  |
+
+## Belgium
+Study: [Plonk It](https://www.plonkit.net/belgium)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates use **red text** (recognisable even through the blur) | [P](https://www.plonkit.net/belgium) |  |
+| Country | Bollards white w/ a **yellow rectangular reflector** (Denmark = red stripe on top); also a dark-brown bollard w/ two red stripes | [P](https://www.plonkit.net/belgium) |  |
+| Country | A-type guardrails w/ **yellow reflectors** (in Europe only ES/AD/BE) | [P](https://www.plonkit.net/belgium) |  |
+| Country | Poles concrete, square, w/ **tiny holes** + small metal wrappings (oval-hole variant too) | [P](https://www.plonkit.net/belgium) |  |
+| Country | Directional signs blue/white; road signs often carry an **additional small blue sub-sign** (white in other countries) | [P](https://www.plonkit.net/belgium) |  |
+| Country | Pedestrian sign = **two dotted lines, man with a square head** (France/Netherlands use a 5-stripe zebra) | [P](https://www.plonkit.net/belgium) |  |
+| Country | Chevrons **white w/ red arrow** (also NL, never France); km markers often **green** (sometimes red text) | [P](https://www.plonkit.net/belgium) |  |
+| Country | Many rural roads are **concrete slabs** (like PH/TH; NL almost never); all-white lines + **bike lanes on both sides** | [P](https://www.plonkit.net/belgium) |  |
+| Country | **Red brick houses** (north/west); stone, grey, more French-looking houses (south) | [P](https://www.plonkit.net/belgium) |  |
+| Country | Signposts (and sometimes sign backs) often **orange** — unique to Belgium; **gutters on both sides** of almost all roads | [P](https://www.plonkit.net/belgium) |  |
+| Country | Bus stops = **yellow signposts** (yellow shelter roofs); small orange-diamond priority signs; red **H hydrant** signs | [P](https://www.plonkit.net/belgium) |  |
+| Country | **Most blurred houses after Germany**; rarely a red car w/ long antenna (far more common in Ukraine) | [P](https://www.plonkit.net/belgium) |  |
+| Region | **3 languages**: Dutch/Flemish (N), French (S/Wallonia), German (Ostbelgien E); Brussels bilingual; Flanders warning signs = thick red, no white border (= Spain); **Ardennes** SE = steep forested hills | [P](https://www.plonkit.net/belgium) |  |
 
 # North America
 

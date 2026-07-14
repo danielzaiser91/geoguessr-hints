@@ -309,6 +309,288 @@
    ]
   },
   {
+   "name": "Austria",
+   "slug": "austria",
+   "continent": "Europe",
+   "area_km2": 83879,
+   "links": {
+    "plonkit": "https://www.plonkit.net/austria",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plate long white + EU blue strip (Italy = 2 strips & shorter; Swiss = no strip)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Plates.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Bollards white w/ a **black top**, dark-red or grey reflector, small **nipple cap** (Slovenia/Montenegro = bright red reflector)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Austria_or_Slovenia.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "country",
+     "text": "Chevrons **white-on-red or red-on-yellow** (Germany mostly red-on-white)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Chevrons.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**Round wooden poles** are the most common pole type",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Wooden_poles.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "German (**Ä Ö Ü ß**); camera meta separates the 3: **Austria = Gen3 + Gen4**, Germany = Gen4 only, Switzerland = low-cam",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "at_language.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Direction & town-entry signs = **white bg, blue outline, unique font** (Germany = yellow town signs)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Direction_signs.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Pedestrian sign = **two horizontal dashed lines** (not zebra stripes) — unique; all neighbours use zebra",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Pedestrian_sign.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Road markers **blue w/ white numbers + one decimal (comma)** (Slovenia white; Germany white outline)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Road_marker.png",
+     "type": "naming"
+    },
+    {
+     "cat": "country",
+     "text": "Bus-stop signs = **yellow-green circle w/ H**; **\"EINBAHN\"** one-way sign (Germany = \"Einbahnstraße\")",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Einbahn.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Dead-end sign = white **upside-down T**; **yellow gas poles** (snow-pole-like) are unique to Austria",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Yellow_gas_poles.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Alpine architecture: light walls, wooden balconies/panelling on the top floor, dark wooden roofs extending outward",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Alpine_architecture.png",
+     "type": "arch"
+    },
+    {
+     "cat": "region",
+     "text": "**Mostly mountainous** (central/west); flatter east near borders; A/B roads number **east→west**; each state has own flag + bus company; vineyards → far east",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Landscape.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "special",
+     "text": "**Vienna** = dark-blue serif street plaques (leading number = district); Vorarlberg neon-yellow bus poles; Vienna/Innsbruck flag-tape on poles",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "general"
+    }
+   ]
+  },
+  {
+   "name": "Belgium",
+   "slug": "belgium",
+   "continent": "Europe",
+   "area_km2": 30528,
+   "links": {
+    "plonkit": "https://www.plonkit.net/belgium",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plates use **red text** (recognisable even through the blur)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Belgium_License_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Bollards white w/ a **yellow rectangular reflector** (Denmark = red stripe on top); also a dark-brown bollard w/ two red stripes",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Belgium_Bollards.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "country",
+     "text": "A-type guardrails w/ **yellow reflectors** (in Europe only ES/AD/BE)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Ontwerp_zonder_titel_1.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Poles concrete, square, w/ **tiny holes** + small metal wrappings (oval-hole variant too)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Belgium_Poles.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Directional signs blue/white; road signs often carry an **additional small blue sub-sign** (white in other countries)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Blue_sign.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Pedestrian sign = **two dotted lines, man with a square head** (France/Netherlands use a 5-stripe zebra)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Ontwerp_zonder_titel_13.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Chevrons **white w/ red arrow** (also NL, never France); km markers often **green** (sometimes red text)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Ontwerp_zonder_titel_3.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Many rural roads are **concrete slabs** (like PH/TH; NL almost never); all-white lines + **bike lanes on both sides**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "concreteroad.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "**Red brick houses** (north/west); stone, grey, more French-looking houses (south)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "redbrickarchitecutre.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "Signposts (and sometimes sign backs) often **orange** — unique to Belgium; **gutters on both sides** of almost all roads",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Ontwerp_zonder_titel_6.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Bus stops = **yellow signposts** (yellow shelter roofs); small orange-diamond priority signs; red **H hydrant** signs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Ontwerp_zonder_titel_12.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**Most blurred houses after Germany**; rarely a red car w/ long antenna (far more common in Ukraine)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "cars"
+    },
+    {
+     "cat": "region",
+     "text": "**3 languages**: Dutch/Flemish (N), French (S/Wallonia), German (Ostbelgien E); Brussels bilingual; Flanders warning signs = thick red, no white border (= Spain); **Ardennes** SE = steep forested hills",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "southarchitecture.png",
+     "type": "language"
+    }
+   ]
+  },
+  {
    "name": "Brazil",
    "slug": "brazil",
    "continent": "South America",
@@ -1782,6 +2064,147 @@
      "sv": null,
      "img": "Germany_Triangle_Posts_Map.png",
      "type": "utility"
+    }
+   ]
+  },
+  {
+   "name": "Greece",
+   "slug": "greece",
+   "continent": "Europe",
+   "area_km2": 131957,
+   "links": {
+    "plonkit": "https://www.plonkit.net/greece",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plates white or standard EU blue-strip; **taxis = yellow plates**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gr_licenceplate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "**Greek alphabet** — unique; lowercase has softer shapes than Cyrillic (Cyprus also uses it)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gr_language.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Poles primarily **wooden, dark brown & tall**; **harp-shaped metal poletops** (unique to GR + Cyprus); 5 vertical insulators",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gr_poletop.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Faded **solid white double middle lines**; **yellow road lines** more common than in any other S. European country",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gr_roadlines.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "Bollards wedge-shaped w/ almost-square reflectors (red front / white back)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gr_bollard.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "country",
+     "text": "Chevrons **white arrows on black**; warning signs red border + yellow background",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gr_chevron.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Directional signs blue, arrow-shaped: **Greek in yellow, English in white**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gr_directionalsigns.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Town-entry signs white w/ thick blue horizontal stripes; km markers blue w/ \"km\" in Latin + Greek",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gr_townentry.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Pedestrian sign = **two dotted horizontal lines** (not vertical stripes)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gr_pedestriansign.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**Miniature roadside churches** on small pedestals — unique to Greece",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gr_minichurches.png",
+     "type": "general"
+    },
+    {
+     "cat": "country",
+     "text": "White/pastel stone houses w/ orange roofs; iconic **white houses + blue trim** (mainly on the islands)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gr_architecture.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "Very **mountainous** (winding mountain roads); **red dirt** common (also Albania); bleak Gen3 winter/fall coverage",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gr_mountainroads.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "special",
+     "text": "Area codes start **2** (+1–3 digits; 3rd digit 1 = biggest city, 9 = its surroundings); **Cyclades** = white+blue houses, barren treeless small islands; **Meteora** monoliths N of Trikala; Athens yellow / Thessaloniki blue taxis",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "naming"
     }
    ]
   },
@@ -3740,6 +4163,145 @@
    ]
   },
   {
+   "name": "Portugal",
+   "slug": "portugal",
+   "continent": "Europe",
+   "area_km2": 92212,
+   "links": {
+    "plonkit": "https://www.plonkit.net/portugal",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plate white + blue strip left + **yellow strip right** (unique; discontinued 2020, so Gen4 may show only the blue)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "licenceplate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "**Portuguese**: Ç Ã Õ Â Ê and **no Ñ** (Spain has Ñ); road = **Rua** (Galician = Rúa)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "language.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "**Eucalyptus** trees very common (only other part of Europe with them = northern Spain)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "eucalyptus.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Concrete **ladder poles with very tall steps** (each with a small see-through hole) — Spain/France use short steps",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ladderpole.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Hunting signs **red-and-white** (Spain = black/white); chevrons **black w/ yellow arrows** (only Mediterranean country with these)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "huntingsign.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Bollards wedge-shaped w/ thin white top, or flat w/ a wide reflector (orange reflector = darker than Spain's yellow)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "bollard.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "country",
+     "text": "Directional signs white w/ **black arrows not touching the border**; km markers = wide rectangle w/ a diagonal coloured section",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "directionalsign.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Pedestrian sign **5 stripes, person with a high belt**; stop sign large font (Spain compact); road signs have a **white border**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "pedestriansign.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "A-type guardrails w/ **red reflectors** (Spain = yellow)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "guardrail.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "**Cobblestone** roads (square stones, diagonal) + bright cobblestone sidewalks; white stone houses w/ orange roofs & blue/yellow window trim",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "cobblestone.png",
+     "type": "arch"
+    },
+    {
+     "cat": "state",
+     "text": "Landline area codes = first 3 digits (map); codes not starting with 2 aren't regional; **29 = Azores or Madeira**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "naming"
+    },
+    {
+     "cat": "region",
+     "text": "**Faro (south)** decorative round/square chimneys; oak fields SE; olives east; **Douro** = steep terraced vineyards east of Porto",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "landscape"
+    },
+    {
+     "cat": "special",
+     "text": "**Madeira & Azores** count as Portugal; Serra da Estrela = rocky highland w/ yellow-black striped snow poles; Porto = lime-green street signs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "general"
+    }
+   ]
+  },
+  {
    "name": "Russia",
    "slug": "russia",
    "continent": "Europe",
@@ -4519,6 +5081,157 @@
      "sv": null,
      "img": "snostolpe.png",
      "type": "bollards"
+    }
+   ]
+  },
+  {
+   "name": "Switzerland",
+   "slug": "switzerland",
+   "continent": "Europe",
+   "area_km2": 41285,
+   "links": {
+    "plonkit": "https://www.plonkit.net/switzerland",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "**Low-cam** (bigger car blur, roads look wide, low angle) — only Japan & Liechtenstein are also always low-cam",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Lowcam.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Plates **fully white, no blue strip**; **very short front plate**; rear has red country emblem left + canton emblem right",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Switzerland_License_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Bollards black-and-white (white/grey reflector), wedge-shaped or cylindrical w/ rounded top",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ch_bollard.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "country",
+     "text": "Directional-sign colour = road type: **blue = main road, white = side road**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ch_directionsigns.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Pedestrian sign = **7 stripes** in a **tall blue rectangle** (almost unique in Europe)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ch_pedestrian_sign.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**Long dashed yellow** road lines; **yellow-painted pedestrian crossings** (only CH + Liechtenstein in Europe)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ch_pedestrian_crossing.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "Road signs with a **round grey metal border**; town-entry signs white/blue w/ metal frame + canton abbreviation",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ch_sign_border.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Chevrons black w/ white arrow (Austria = red/white or red/yellow)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ch_chevron.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**South extremely mountainous** (thin valleys); north = farmland on flat/rolling hills w/ forested hills in distance",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ch_landscape.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Alpine architecture: light warm stone + wood, gable tiled roofs, **two-part wooden shutters**; unique thick-metal-frame bus-stop signs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ch_houses.png",
+     "type": "arch"
+    },
+    {
+     "cat": "region",
+     "text": "**4 official languages** (German/French/Italian/Romansh); Swiss German has **no ß**; speed-sign text varies by region",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ch_languages.png",
+     "type": "language"
+    },
+    {
+     "cat": "state",
+     "text": "**Canton 2-letter abbreviation** on town signs & plates; postal-code first digits increase **west→east**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ch_cantons.png",
+     "type": "naming"
+    },
+    {
+     "cat": "region",
+     "text": "**Jura Mountains** (NW) = fairly flat + a long chain of forested ridges, exposed limestone; rock walls",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Jura_Mountains_hint.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "special",
+     "text": "**Ticino** = Italian architecture (south); Graubünden painted-detail stone houses + **Bernina Express** train coverage; Valais thick wooden bollards",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "general"
     }
    ]
   },
@@ -5905,7 +6618,7 @@
   "Antarctica"
  ],
  "counts": {
-  "done": 35,
+  "done": 40,
   "total": 136
  }
 }
