@@ -12,10 +12,10 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**53 / 136 countries.**
+**58 / 136 countries.**
 
 **Africa:** ⬜ Botswana ⬜ Egypt ⬜ Eswatini ⬜ Ghana ⬜ Kenya ⬜ Lesotho ⬜ Madagascar ⬜ Mali ⬜ Namibia ⬜ Nigeria ⬜ Reunion ⬜ Rwanda ⬜ Senegal ✅ South Africa ⬜ São Tomé and Príncipe ⬜ Tanzania ⬜ Tunisia ⬜ Uganda
-**Asia:** ⬜ Bangladesh ⬜ Bhutan ⬜ British Indian Ocean Territory ⬜ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ⬜ Iraq ⬜ Israel & the West Bank ✅ Japan ⬜ Jordan ✅ Kazakhstan ⬜ Kyrgyzstan ⬜ Laos ⬜ Lebanon ⬜ Macau ✅ Malaysia ⬜ Mongolia ⬜ Nepal ⬜ Oman ⬜ Pakistan ✅ Philippines ⬜ Qatar ⬜ Singapore ✅ South Korea ⬜ Sri Lanka ⬜ Taiwan ✅ Thailand ✅ Turkey ⬜ United Arab Emirates ✅ Vietnam
+**Asia:** ✅ Bangladesh ⬜ Bhutan ⬜ British Indian Ocean Territory ⬜ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ⬜ Iraq ⬜ Israel & the West Bank ✅ Japan ⬜ Jordan ✅ Kazakhstan ⬜ Kyrgyzstan ⬜ Laos ⬜ Lebanon ⬜ Macau ✅ Malaysia ✅ Mongolia ✅ Nepal ⬜ Oman ⬜ Pakistan ✅ Philippines ⬜ Qatar ⬜ Singapore ✅ South Korea ✅ Sri Lanka ✅ Taiwan ✅ Thailand ✅ Turkey ⬜ United Arab Emirates ✅ Vietnam
 **Europe:** ⬜ Albania ⬜ Andorra ✅ Austria ⬜ Azores ⬜ Belarus ✅ Belgium ✅ Bulgaria ✅ Croatia ✅ Czechia ✅ Denmark ✅ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ⬜ Gibraltar ✅ Greece ✅ Hungary ✅ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ✅ Latvia ⬜ Liechtenstein ✅ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ✅ Romania ✅ Russia ⬜ San Marino ✅ Serbia ✅ Slovakia ✅ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
 **North America:** ⬜ Alaska ⬜ Bermuda ✅ Canada ⬜ Costa Rica ⬜ Dominican Republic ⬜ Greenland ⬜ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ⬜ Panama ⬜ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
 **South America:** ✅ Argentina ⬜ Bolivia ✅ Brazil ✅ Chile ✅ Colombia ⬜ Curaçao ⬜ Ecuador ⬜ Falkland Islands ✅ Peru ⬜ Uruguay
@@ -118,6 +118,22 @@ Study: [Plonk It](https://www.plonkit.net/indonesia)
 | Region | Cardinal words in addresses: Utara(N) Timur(E) Selatan(S) Barat(W) Tengah(C) | [P](https://www.plonkit.net/indonesia) |  |
 | State | Crown-like roof pinnacles, Hindu temples, dark andesite stone; blue horizontal pole text | [P](https://www.plonkit.net/indonesia) |  |
 | Special | Red soil w/ white-soil layer spilling on road → Bangka Belitung islands | [P](https://www.plonkit.net/indonesia) |  |
+
+## Mongolia
+Study: [Plonk It](https://www.plonkit.net/mongolia)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plate mostly white w/ a **red Soyombo** hint on the left | [P](https://www.plonkit.net/mongolia) |  |
+| Country | **Cyrillic** w/ letters **Ɵ Ү** (not in Russian) + double vowels (aa/ЭЭ); unique **ЗОГС** stop sign | [P](https://www.plonkit.net/mongolia) |  |
+| Country | All coverage = a **large pickup truck** (often w/ a tent, red mirrors, snorkel, roof racks) | [P](https://www.plonkit.net/mongolia) |  |
+| Country | **Steppe** biome: empty grasslands/deserts, characteristic lack of trees, rugged/rolling hills, rivers & lakes | [P](https://www.plonkit.net/mongolia) |  |
+| Country | Unique **white bowling-pin bollards** with two red stripes near the top | [P](https://www.plonkit.net/mongolia) |  |
+| Country | Russian-influenced infra: wooden poles w/ stone support blocks, white lamp posts, 3-stripe pedestrian signs | [P](https://www.plonkit.net/mongolia) |  |
+| Country | Neighbourhoods frequently separated by **dirt alleys + wooden fences** | [P](https://www.plonkit.net/mongolia) |  |
+| Country | White round **yurts** everywhere (nomadic dwellings) | [P](https://www.plonkit.net/mongolia) |  |
+| Country | Large **herds** (horses, yaks, camels, sheep); decorated stone-pile shrines called **ovoos** | [P](https://www.plonkit.net/mongolia) |  |
+| Region | Very limited coverage (highways + towns, densest around **Ulaanbaatar**); driving direction tends **away from UB**; east/south flat, north hilly + larch/birch forest, west = mountains | [P](https://www.plonkit.net/mongolia) |  |
 
 ## Turkey
 Study: [Plonk It](https://www.plonkit.net/turkey)
@@ -235,6 +251,38 @@ Study: [Plonk It](https://www.plonkit.net/philippines)
 | Special | **Chocolate Hills** (round grassy hills) → Bohol; **Mayon** perfect-cone volcano; Cordillera = yellow/black striped concrete guardrails | [P](https://www.plonkit.net/philippines) |  |
 | Special | **Amakan** woven-bamboo walls → south; western Mindanao majority **Muslim**; Mountain-Dew-bottle decorations → N. Luzon | [P](https://www.plonkit.net/philippines) |  |
 
+## Bangladesh
+Study: [Plonk It](https://www.plonkit.net/bangladesh)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates white, black, or **turquoise** (the turquoise plate is unique to Bangladesh) | [P](https://www.plonkit.net/bangladesh) |  |
+| Country | **Bengali** script: continuous **line along the top** of words + many **triangular** letter shapes (vs Devanagari) | [P](https://www.plonkit.net/bangladesh) |  |
+| Country | Gen3 cars: red-mirror-w/-bars, classic white, **striped white** (don't confuse w/ Cambodia); Gen4 black/white; shitcam exists | [P](https://www.plonkit.net/bangladesh) |  |
+| Country | **Green auto-rickshaws** very common throughout the country | [P](https://www.plonkit.net/bangladesh) |  |
+| Country | **Black-and-white striped signposts** (also LK/BT/IN/NP/MY) | [P](https://www.plonkit.net/bangladesh) |  |
+| Country | **Red-and-white concrete bollards** nationwide (round or square form) | [P](https://www.plonkit.net/bangladesh) |  |
+| Country | Streets often **tree-lined** (white-painted trunk bottoms); water bodies + rice fields right beside roads | [P](https://www.plonkit.net/bangladesh) |  |
+| Country | **Tin roofs** very common; Gen4 coverage often has a **smoky/hazy feel** | [P](https://www.plonkit.net/bangladesh) |  |
+| Region | Roof east/west divide: **west = sheet-metal hip roofs**; **east (Sylhet) = metal roofs w/ a triangular 'window' below the ridge** | [P](https://www.plonkit.net/bangladesh) |  |
+| Region | Mostly dead-flat; **rice** grown twice yearly (its growth stage/colour → region in Gen4); forested hills in E. Chittagong; tea → Sylhet highlands | [P](https://www.plonkit.net/bangladesh) |  |
+
+## Nepal
+Study: [Plonk It](https://www.plonkit.net/nepal)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates fairly long, white most common; **private = red, public = black** | [P](https://www.plonkit.net/nepal) |  |
+| Country | All road coverage is **shitcam** (low-quality: brownish colours, often a big circular blur over the car) | [P](https://www.plonkit.net/nepal) |  |
+| Country | Drives **left**; **Devanagari** (line across the top + vertical strokes); ङ/ङ्ग commoner than in Hindi; native Devanagari numbers (rare in India) | [P](https://www.plonkit.net/nepal) |  |
+| Country | Poles: square concrete (flatlands) / thin metal (mountains); **trident poletop w/ triangle supports** is unique to Nepal | [P](https://www.plonkit.net/nepal) |  |
+| Country | **Outer yellow road lines** (dashed or solid) + dashed white middle on bigger roads | [P](https://www.plonkit.net/nepal) |  |
+| Country | **Black-and-white striped concrete bollards w/ a red top** (3–5 stripes) | [P](https://www.plonkit.net/nepal) |  |
+| Country | **Flat agricultural south** (Indian border) + **high-altitude mountain roads** in the north | [P](https://www.plonkit.net/nepal) |  |
+| Country | Buildings colorful blocky or painted concrete/brick/thatch, tiled or tin roofs, often w/ **triangle-shaped facade decorations** | [P](https://www.plonkit.net/nepal) |  |
+| Country | **Black-and-white striped signposts** (also IN/BT/BD/LK/MY) | [P](https://www.plonkit.net/nepal) |  |
+| Country | White Buddhist **stupas, sometimes w/ painted eyes** on the sides — only found in Nepal | [P](https://www.plonkit.net/nepal) |  |
+
 ## South Korea
 Study: [Plonk It](https://www.plonkit.net/south-korea)
 
@@ -253,6 +301,39 @@ Study: [Plonk It](https://www.plonkit.net/south-korea)
 | Country | Predominantly **mountainous** (almost always elevation on the horizon); red brick; traditional tiled roofs w/ upturned corners (blue roofs common) | [P](https://www.plonkit.net/south-korea) |  |
 | Region | **Jeju** = volcanic island: dark volcanic soil, **volcanic-rock walls**, volcanoes on the horizon; Gen2 → Seoul & Busan | [P](https://www.plonkit.net/south-korea) |  |
 | State | Coverage spotty (cities + highways); **area codes increase south** (02 Seoul → 064 Jeju; Seoul = only 2-digit code) | [P](https://www.plonkit.net/south-korea) |  |
+
+## Sri Lanka
+Study: [Plonk It](https://www.plonkit.net/sri-lanka)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates: **long white front / short yellow rear** | [P](https://www.plonkit.net/sri-lanka) |  |
+| Country | Gen3 car front visible as **blue-white-red patches** (French-flag-like, red most distinct — unique to Sri Lanka); Gen4 = all **low-cam** | [P](https://www.plonkit.net/sri-lanka) |  |
+| Country | Scripts: **Sinhala** (curvy/rounded, everywhere) + **Tamil** (straighter lines, north/east) + some English | [P](https://www.plonkit.net/sri-lanka) |  |
+| Country | Concrete poles: square w/ **pinholes only near the top** (Thailand's reach the bottom) + **holey poles** (large holes on lower half — unique) | [P](https://www.plonkit.net/sri-lanka) |  |
+| Country | **Short wide tapered stone bollards** (black base, white top — unique); tall white waystones w/ a yellow road number | [P](https://www.plonkit.net/sri-lanka) |  |
+| Country | **Black-and-white striped signposts** (also BD/BT/IN/NP/MY); rural roads often have outer lines but no middle line | [P](https://www.plonkit.net/sri-lanka) |  |
+| Country | Tropical **lush green**, dense agriculture; **reddish soil** common (sometimes white sandy) | [P](https://www.plonkit.net/sri-lanka) |  |
+| Country | **Palm trees** very common; orange/red tiled roofs (often brownish from wear) | [P](https://www.plonkit.net/sri-lanka) |  |
+| Country | Majority **Buddhist** (temples, stupas, Buddhist flag); bulky **tuk-tuks with a black roof** (green/yellow/red) | [P](https://www.plonkit.net/sri-lanka) |  |
+| Region | Phone area codes (10-digit); religion by region: Buddhism most; **Hinduism + Tamil → north/east & Nuwara Eliya**; Islam = east coast; Christianity = NW (Mannar) | [P](https://www.plonkit.net/sri-lanka) |  |
+
+## Taiwan
+Study: [Plonk It](https://www.plonkit.net/taiwan)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | **Traditional Chinese** script (very complex, many strokes; HK also uses it; Japan mixes in simpler kana) | [P](https://www.plonkit.net/taiwan) |  |
+| Country | Poles have **black-yellow diagonal stripes running all the way to the bottom** (South Korea's are short & stop higher) | [P](https://www.plonkit.net/taiwan) |  |
+| Country | Drives **right** (Japan/HK left); roads = **double yellow middle + white outer**, or white-outer-no-middle; **red outer lines = no parking** (~unique) | [P](https://www.plonkit.net/taiwan) |  |
+| Country | Chevrons **black on yellow**; convex **mirrors with orange hoods** at bends & intersections | [P](https://www.plonkit.net/taiwan) |  |
+| Country | Bollards w/ **2–3 circular reflectors on a black rectangle**; lollipop-style guardrail reflectors (Japan-like) | [P](https://www.plonkit.net/taiwan) |  |
+| Country | **Concrete drainage ditches** along roadsides | [P](https://www.plonkit.net/taiwan) |  |
+| Country | Box-shaped **distribution transformers** (dark green or grey) common, especially in cities; blue coordinate plaques on poles | [P](https://www.plonkit.net/taiwan) |  |
+| Country | Architecture boxy: cramped multi-storey + single-storey w/ backyards, **white-tiled walls**, light-green tin sheds | [P](https://www.plonkit.net/taiwan) |  |
+| Country | Gen3 **black car w/ long antenna + red brake light** (Russia-like); also a huge-blur Gen3 car (not low-cam) | [P](https://www.plonkit.net/taiwan) |  |
+| Region | Flat **western plain** = farmland; central-eastern ⅔ = forested mountains; Hualien-Taitung & Yilan valleys = rice paddies; **areca/betel-nut palms** central & south | [P](https://www.plonkit.net/taiwan) |  |
+| State | Counties + **outer islands** (Kinmen, Matsu, Penghu, Green/Orchid); **area codes 02–08 increase south**; freeways odd = N-S, even = E-W | [P](https://www.plonkit.net/taiwan) |  |
 
 # Europe
 

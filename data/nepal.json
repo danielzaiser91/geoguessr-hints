@@ -1,0 +1,19 @@
+{
+ "name": "Nepal",
+ "slug": "nepal",
+ "continent": "Asia",
+ "area_km2": 147181,
+ "links": { "plonkit": "https://www.plonkit.net/nepal", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Plates fairly long, white most common; **private = red, public = black**", "src": ["plonkit"], "sv": null, "img": "2.png", "type": "plates" },
+  { "cat": "country", "text": "All road coverage is **shitcam** (low-quality: brownish colours, often a big circular blur over the car)", "src": ["plonkit"], "sv": null, "img": "3.png", "type": "cars" },
+  { "cat": "country", "text": "Drives **left**; **Devanagari** (line across the top + vertical strokes); ङ/ङ्ग commoner than in Hindi; native Devanagari numbers (rare in India)", "src": ["plonkit"], "sv": null, "img": "np_language.png", "type": "language" },
+  { "cat": "country", "text": "Poles: square concrete (flatlands) / thin metal (mountains); **trident poletop w/ triangle supports** is unique to Nepal", "src": ["plonkit"], "sv": null, "img": "6.png", "type": "utility" },
+  { "cat": "country", "text": "**Outer yellow road lines** (dashed or solid) + dashed white middle on bigger roads", "src": ["plonkit"], "sv": null, "img": "7.png", "type": "markings" },
+  { "cat": "country", "text": "**Black-and-white striped concrete bollards w/ a red top** (3–5 stripes)", "src": ["plonkit"], "sv": null, "img": "8.png", "type": "bollards" },
+  { "cat": "country", "text": "**Flat agricultural south** (Indian border) + **high-altitude mountain roads** in the north", "src": ["plonkit"], "sv": null, "img": "9.png", "type": "landscape" },
+  { "cat": "country", "text": "Buildings colorful blocky or painted concrete/brick/thatch, tiled or tin roofs, often w/ **triangle-shaped facade decorations**", "src": ["plonkit"], "sv": null, "img": "10.jpeg", "type": "arch" },
+  { "cat": "country", "text": "**Black-and-white striped signposts** (also IN/BT/BD/LK/MY)", "src": ["plonkit"], "sv": null, "img": "11.png", "type": "signs" },
+  { "cat": "country", "text": "White Buddhist **stupas, sometimes w/ painted eyes** on the sides — only found in Nepal", "src": ["plonkit"], "sv": null, "img": "np_1stupa.png", "type": "general" }
+ ]
+}

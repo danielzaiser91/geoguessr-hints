@@ -1,0 +1,20 @@
+{
+ "name": "Taiwan",
+ "slug": "taiwan",
+ "continent": "Asia",
+ "area_km2": 36197,
+ "links": { "plonkit": "https://www.plonkit.net/taiwan", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "**Traditional Chinese** script (very complex, many strokes; HK also uses it; Japan mixes in simpler kana)", "src": ["plonkit"], "sv": null, "img": "Traditional_Chinese.png", "type": "language" },
+  { "cat": "country", "text": "Poles have **black-yellow diagonal stripes running all the way to the bottom** (South Korea's are short & stop higher)", "src": ["plonkit"], "sv": null, "type": "utility" },
+  { "cat": "country", "text": "Drives **right** (Japan/HK left); roads = **double yellow middle + white outer**, or white-outer-no-middle; **red outer lines = no parking** (~unique)", "src": ["plonkit"], "sv": null, "img": "outsidelines.png", "type": "markings" },
+  { "cat": "country", "text": "Chevrons **black on yellow**; convex **mirrors with orange hoods** at bends & intersections", "src": ["plonkit"], "sv": null, "img": "chevron.png", "type": "signs" },
+  { "cat": "country", "text": "Bollards w/ **2–3 circular reflectors on a black rectangle**; lollipop-style guardrail reflectors (Japan-like)", "src": ["plonkit"], "sv": null, "img": "reflector.png", "type": "bollards" },
+  { "cat": "country", "text": "**Concrete drainage ditches** along roadsides", "src": ["plonkit"], "sv": null, "img": "ditch.png", "type": "utility" },
+  { "cat": "country", "text": "Box-shaped **distribution transformers** (dark green or grey) common, especially in cities; blue coordinate plaques on poles", "src": ["plonkit"], "sv": null, "img": "distribution_transformer.png", "type": "utility" },
+  { "cat": "country", "text": "Architecture boxy: cramped multi-storey + single-storey w/ backyards, **white-tiled walls**, light-green tin sheds", "src": ["plonkit"], "sv": null, "img": "architecture.png", "type": "arch" },
+  { "cat": "country", "text": "Gen3 **black car w/ long antenna + red brake light** (Russia-like); also a huge-blur Gen3 car (not low-cam)", "src": ["plonkit"], "sv": null, "img": "black_car.png", "type": "cars" },
+  { "cat": "state", "text": "Counties + **outer islands** (Kinmen, Matsu, Penghu, Green/Orchid); **area codes 02–08 increase south**; freeways odd = N-S, even = E-W", "src": ["plonkit"], "sv": null, "img": "Taiwan_administrative_divisions.png", "type": "naming" },
+  { "cat": "region", "text": "Flat **western plain** = farmland; central-eastern ⅔ = forested mountains; Hualien-Taitung & Yilan valleys = rice paddies; **areca/betel-nut palms** central & south", "src": ["plonkit"], "sv": null, "type": "landscape" }
+ ]
+}
