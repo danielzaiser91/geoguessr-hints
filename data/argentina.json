@@ -12,7 +12,7 @@
   { "cat": "country", "text": "km markers white w/ black top strip: **RN** = national, **RP** = provincial road", "src": ["plonkit"], "sv": null, "img": "kmmarker.png", "type": "signs" },
   { "cat": "country", "text": "Default vibe: flat, treeless, sparsely populated, \"wide open\" & desolate", "src": ["plonkit"], "sv": null, "img": "Argentina_Barren_landscape.png", "type": "landscape" },
   { "cat": "region", "text": "Far **west** mountainous (Andes); east rarely has mountains", "src": ["plonkit"], "sv": null, "img": "Landscape_-_Western_Argentina.png", "type": "landscape" },
-  { "cat": "region", "text": "**Red soil → Misiones** (Brazil-like); Chaco/Formosa = sandy soil + low bushes", "src": ["plonkit"], "sv": null, "img": "ar_red_dirt.png", "type": "landscape" },
+  { "super": true, "cat": "region", "text": "**Red soil → Misiones** (Brazil-like); Chaco/Formosa = sandy soil + low bushes", "src": ["plonkit"], "sv": null, "img": "ar_red_dirt.png", "type": "landscape" },
   { "cat": "region", "text": "**Cardón cactus** (candelabra) → NW mountains (Salta, Jujuy, Catamarca, Tucumán)", "src": ["plonkit"], "sv": null, "img": "cardoncactus.png", "type": "landscape" },
   { "cat": "region", "text": "Tierra del Fuego: flat grass + beech forest; Neuquén = flat w/ single poplar rows", "src": ["plonkit"], "sv": null, "img": "ar_tierradelfuego_beechforests.png", "type": "landscape" },
   { "cat": "region", "text": "Pampas grass → Pampas; sugarcane → Tucumán", "src": ["plonkit"], "sv": null, "img": "ar_grasslands.png", "type": "landscape" },

@@ -45,6 +45,7 @@
     <div class="d-actions" id="d-actions"></div>
   </header>
   <div class="d-filterbar">
+    <span class="f-group" id="f-super"></span>
     <span class="f-label">Filter clues — how specific:</span>
     <span class="f-group" id="f-cats"></span>
     <span class="f-label sep">source:</span>
@@ -73,7 +74,13 @@
       <h3 id="img-title">Image</h3>
       <div class="x" id="img-close">&times;</div>
     </div>
-    <div class="img-wrap"><img id="img-el" src="" alt=""></div>
+    <div class="img-wrap">
+      <div class="img-stage" id="img-stage">
+        <img id="img-el" src="" alt="">
+        <div class="img-zoom" id="img-zoom"></div>
+        <div class="zoom-hint" id="zoom-hint">🔍 hover to zoom</div>
+      </div>
+    </div>
     <div class="img-cap" id="img-cap"></div>
   </div>
 </div>

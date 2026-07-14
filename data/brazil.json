@@ -18,7 +18,7 @@
   { "cat": "region", "text": "NE = Caatinga: dry soil, shrubs, succulents", "src": ["plonkit"], "sv": null, "img": "caatinga.png", "type": "landscape" },
   { "cat": "region", "text": "Paraná pines (araucaria, flat-top branches) → south: PR, SC, RS", "src": ["plonkit"], "sv": null, "img": "paranapine.png", "type": "landscape" },
   { "cat": "region", "text": "Carnaúba palms (fan leaves, spiked lower trunk) → CE, PI, RN", "src": ["plonkit"], "sv": null, "img": "Carnauba_2.png", "type": "landscape" },
-  { "cat": "state", "text": "Area codes (DDD) grouped by 1st digit; ending in **1** = state capital", "src": ["plonkit"], "sv": null, "img": "Brasil_-_C_C3_B3digos_de__C3_A1rea_DDD.png", "type": "naming" },
+  { "super": true, "cat": "state", "text": "Area codes (DDD) grouped by 1st digit; ending in **1** = state capital", "src": ["plonkit"], "sv": null, "img": "Brasil_-_C_C3_B3digos_de__C3_A1rea_DDD.png", "type": "naming" },
   { "cat": "state", "text": "2-letter state acronyms on km markers / state road numbers", "src": ["plonkit"], "sv": null, "img": "State_acronyms.png", "type": "naming" },
   { "cat": "state", "text": "CEP postcode first 2 digits: numbering runs anti-clockwise from São Paulo → ends Rio Grande do Sul", "src": ["plonkit"], "sv": null, "img": "cepcodes.png", "type": "naming" },
   { "cat": "state", "text": "Round concrete poles → south (esp. São Paulo); wooden poles → RS, Roraima, Amazonas, RJ", "src": ["plonkit"], "sv": null, "img": "Brazil_Round_Poles_2.png", "type": "utility" },

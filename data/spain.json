@@ -13,7 +13,7 @@
   { "cat": "country", "text": "Ladder poles + French poletops; chevrons black/white or **blue/white** (blue = only Spain + France)", "src": ["plonkit"], "sv": null, "img": "Ladder_and_wooden_poles.png", "type": "utility" },
   { "cat": "country", "text": "Spanish: **Ñ** (vs Portuguese ç/lh/-ão); street = **calle**; garage no-parking = \"Vado permanente\"", "src": ["plonkit"], "sv": null, "img": "es_language.png", "type": "language" },
   { "cat": "country", "text": "Rural roads may have **dashed outer lines** (helps vs Portugal/Italy where they're absent)", "src": ["plonkit"], "sv": null, "img": "Dashed_road_lines.png", "type": "markings" },
-  { "cat": "state", "text": "**Regional road codes** on markers (SG = Segovia, etc.) → pinpoint province", "src": ["plonkit"], "sv": null, "img": "Spain-road-codes-small-version-v2_darkmode.png", "type": "naming" },
+  { "super": true, "cat": "state", "text": "**Regional road codes** on markers (SG = Segovia, etc.) → pinpoint province", "src": ["plonkit"], "sv": null, "img": "Spain-road-codes-small-version-v2_darkmode.png", "type": "naming" },
   { "cat": "state", "text": "Area codes: 2 digits → very accurate; all landlines start with **9**", "src": ["plonkit"], "sv": null, "img": "Spain-telephone-codes__281_29_darkmode.png", "type": "naming" },
   { "cat": "state", "area": "Catalonia", "text": "**Catalan** (à, ç, \"i\" for and, street = carrer, \"Gual permanent\") → Catalonia / Valencia / Balearics", "src": ["plonkit"], "sv": null, "img": "es_catalan_language.png", "type": "language" },
   { "cat": "state", "area": "Catalonia", "text": "Big **square chevrons** with a single arrow common in Catalonia", "src": ["plonkit"], "sv": null, "img": "Catalan_chevron.png", "type": "signs" },

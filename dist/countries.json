@@ -458,6 +458,7 @@
      "type": "landscape"
     },
     {
+     "super": true,
      "cat": "region",
      "text": "**Red soil → Misiones** (Brazil-like); Chaco/Formosa = sandy soil + low bushes",
      "src": [
@@ -674,6 +675,7 @@
      "type": "landscape"
     },
     {
+     "super": true,
      "cat": "state",
      "text": "Different states use different **licence-plate** designs + slogans; 2-digit phone area codes map to state",
      "src": [
@@ -1748,6 +1750,7 @@
      "type": "landscape"
     },
     {
+     "super": true,
      "cat": "state",
      "text": "Area codes (DDD) grouped by 1st digit; ending in **1** = state capital",
      "src": [
@@ -2194,6 +2197,7 @@
      "type": "landscape"
     },
     {
+     "super": true,
      "cat": "state",
      "text": "Area codes learnable by province; each province has its own **plate** design + flag",
      "src": [
@@ -2215,6 +2219,7 @@
      "type": "bollards"
     },
     {
+     "super": true,
      "cat": "state",
      "area": "Alberta",
      "text": "Rural roads **numbered sequentially** (Twp Rd / Range Rd) → near-exact location from a sign",
@@ -2396,6 +2401,7 @@
      "type": "landscape"
     },
     {
+     "super": true,
      "cat": "state",
      "text": "Road naming: **first letter A→Y from north→south**; area codes memorable & regional",
      "src": [
@@ -2496,6 +2502,7 @@
      "type": "general"
     },
     {
+     "super": true,
      "cat": "state",
      "text": "Plate 1st character = province indicator (京 Beijing, 沪 Shanghai, 粤 Guangdong…) — learnable",
      "src": [
@@ -4470,6 +4477,7 @@
      "type": "cars"
     },
     {
+     "super": true,
      "cat": "state",
      "text": "**Postal code first 2 digits = department number** (alphabetical); also inside the right blue plate strip",
      "src": [
@@ -4599,6 +4607,7 @@
      "img": "Improved_Terrain_Map_of_Germany.png"
     },
     {
+     "super": true,
      "cat": "state",
      "text": "**Postal codes counter-clockwise: 0 = Saxony (E) → 9 = N. Bavaria**",
      "src": [
@@ -5709,6 +5718,7 @@
      "type": "language"
     },
     {
+     "super": true,
      "cat": "state",
      "text": "**Bengali** (left-facing triangles) → West Bengal/NE (& Bangladesh); Assamese variant (ৰ ৱ) → Assam",
      "src": [
@@ -5729,6 +5739,7 @@
      "type": "language"
     },
     {
+     "super": true,
      "cat": "state",
      "text": "**Tamil** (curves + 90° angles) → Tamil Nadu (& Sri Lanka); **Malayalam** (upside-down U shapes) → Kerala",
      "src": [
@@ -5739,6 +5750,7 @@
      "type": "language"
     },
     {
+     "super": true,
      "cat": "state",
      "text": "**Oriya** (round \"skull-emoji\" tops) → Odisha; **Punjabi** (broken top bar, soft letters) → Punjab",
      "src": [
@@ -5859,6 +5871,7 @@
      "type": "general"
     },
     {
+     "super": true,
      "cat": "region",
      "text": "**Kabupaten (Kab.)** regency names on signs → pinpoint region (learnable)",
      "src": [
@@ -5869,6 +5882,7 @@
      "type": "naming"
     },
     {
+     "super": true,
      "cat": "region",
      "text": "Postal codes: **1xxxx = Jakarta → 9xxxx = Maluku/Papua** (west→east)",
      "src": [
@@ -6532,6 +6546,7 @@
      "type": "signs"
     },
     {
+     "super": true,
      "cat": "region",
      "text": "**Area codes increase toward the south**",
      "src": [
@@ -6562,6 +6577,7 @@
      "type": "naming"
     },
     {
+     "super": true,
      "cat": "state",
      "text": "Pole plates, reflectors, guy-wires & transformer mounting styles differ per region (Hokkaidō, Tōhoku, Kantō, Kansai…) — strong pinpoint tools",
      "src": [
@@ -6867,6 +6883,7 @@
      "type": "general"
     },
     {
+     "super": true,
      "cat": "state",
      "text": "**Area codes east→west** along 3 horizontal bands; plate region codes run alphabetically",
      "src": [
@@ -8454,6 +8471,7 @@
      "type": "cars"
     },
     {
+     "super": true,
      "cat": "state",
      "text": "Area-code 1st digit = region; postal codes ordered alphabetically by state name",
      "src": [
@@ -9683,6 +9701,7 @@
      "type": "naming"
     },
     {
+     "super": true,
      "cat": "state",
      "text": "Road number **first digit = region**; small white signs show road # (prefix **R** = findable, **F**/Fv = hard) + distance",
      "src": [
@@ -10502,6 +10521,7 @@
      "type": "landscape"
     },
     {
+     "super": true,
      "cat": "state",
      "text": "Regional roads 3-digit, **first digit = region** (yellow boxes); landline area codes 2-digit, well-clustered",
      "src": [
@@ -11148,8 +11168,9 @@
      "type": "landscape"
     },
     {
+     "super": true,
      "cat": "region",
-     "text": "RHD Japanese cars more common **east of Novosibirsk**",
+     "text": "**RHD Japanese import cars** (steering wheel on the right) get commoner the further **east** you go (common from ~Novosibirsk eastward) — a fast east/west tell",
      "src": [
       "plonkit"
      ],
@@ -11157,6 +11178,7 @@
      "type": "cars"
     },
     {
+     "super": true,
      "cat": "state",
      "text": "Area codes: **8-** = west, **3-** = central, **4-** = east/Moscow",
      "src": [
@@ -12120,6 +12142,7 @@
      "type": "arch"
     },
     {
+     "super": true,
      "cat": "state",
      "text": "Each **province = own plate design** (Free State greenish, KwaZulu-Natal bluish); N-roads show as a **blue pentagon** on maps",
      "src": [
@@ -12476,6 +12499,7 @@
      "type": "markings"
     },
     {
+     "super": true,
      "cat": "state",
      "text": "**Regional road codes** on markers (SG = Segovia, etc.) → pinpoint province",
      "src": [
@@ -13334,6 +13358,7 @@
      "type": "cars"
     },
     {
+     "super": true,
      "cat": "state",
      "text": "National road **first digit = region**: 1 = north, 2 = NE, 3 = centre, 4 = south; Bangkok phone code 02",
      "src": [
@@ -13344,6 +13369,7 @@
      "type": "naming"
     },
     {
+     "super": true,
      "cat": "state",
      "text": "Provincial waystones + **black boxes** carry a 2–3 letter **province abbreviation** (Thai script) → pinpoint province",
      "src": [
@@ -13626,6 +13652,7 @@
      "type": "arch"
     },
     {
+     "super": true,
      "cat": "state",
      "text": "Area codes **1st digit 2 (west) → 4 (east)**; km markers show **province code (first 2 digits, ~alphabetical 01–76)**",
      "src": [
@@ -13877,6 +13904,7 @@
      "type": "general"
     },
     {
+     "super": true,
      "cat": "state",
      "text": "Landline **2-digit area code per oblast**; **plate first two letters = oblast** (codes non-intuitive → learn them)",
      "src": [
@@ -14516,8 +14544,9 @@
      "img": "us_highway_map_final.png"
     },
     {
+     "super": true,
      "cat": "state",
-     "text": "~half of states have **no front plate**; each state has a unique plate design (some readable through blur)",
+     "text": "**No front plate** → rear-only states skew **South & East** (front-plate states are mostly West/Midwest); each state also has a unique plate design (some readable through blur)",
      "src": [
       "plonkit"
      ],

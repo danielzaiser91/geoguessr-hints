@@ -13,7 +13,7 @@
   { "cat": "country", "text": "**Gas pipes everywhere** in cities; chevrons **yellow-and-black** (T-junctions = red/white)", "src": ["plonkit"], "sv": null, "img": "KZ_Pipes.png", "type": "utility" },
   { "cat": "country", "text": "**Koshkar-muiz** ornamental pattern in decorations; ornate town **entrance arcs**", "src": ["plonkit"], "sv": null, "img": "Screenshot__28778_29.png", "type": "arch" },
   { "cat": "region", "text": "Coverage limited; **season ≈ region**: summer = W/central, autumn = NE, winter = SE", "src": ["plonkit"], "sv": null, "type": "general" },
-  { "cat": "state", "text": "**Area codes east→west** along 3 horizontal bands; plate region codes run alphabetically", "src": ["plonkit"], "sv": null, "img": "15.png", "type": "naming" },
+  { "super": true, "cat": "state", "text": "**Area codes east→west** along 3 horizontal bands; plate region codes run alphabetically", "src": ["plonkit"], "sv": null, "img": "15.png", "type": "naming" },
   { "cat": "region", "text": "Generally **flat** steppe; hills → Karaganda/Aktobe; big snow-capped mountains → south & east", "src": ["plonkit"], "sv": null, "img": "Terrain_Map_of_kazakhstan.png", "type": "landscape" },
   { "cat": "region", "text": "Lush **birch forests + green fields** → north (like Omsk); vast grassy plains → NW (Akmola/Kostanay)", "src": ["plonkit"], "sv": null, "img": "18.png", "type": "landscape" },
   { "cat": "region", "text": "Sandy shrubby **desert** → SW; tall snow-capped **mountains** → SE (east of Almaty)", "src": ["plonkit"], "sv": null, "img": "21.png", "type": "landscape" },

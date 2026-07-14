@@ -15,7 +15,7 @@
   { "cat": "country", "text": "Rural vibe: bad road, flat/slightly hilly, tree line + wide open fields, low traffic, **summer green** foliage", "src": ["plonkit"], "sv": null, "img": "Rural_vibe.png", "type": "landscape" },
   { "cat": "country", "text": "Tall **poplar trees** common in many parts (most of Russia lacks them)", "src": ["plonkit"], "sv": null, "img": "Poplar_trees.png", "type": "landscape" },
   { "cat": "region", "text": "Coverage mostly urban + main (yellow) roads; almost none in the SE (except Donetsk) or south of Odesa", "src": ["plonkit"], "sv": null, "img": "Ukraine_Coverage_Map.png", "type": "general" },
-  { "cat": "state", "text": "Landline **2-digit area code per oblast**; **plate first two letters = oblast** (codes non-intuitive → learn them)", "src": ["plonkit"], "sv": null, "type": "naming" },
+  { "super": true, "cat": "state", "text": "Landline **2-digit area code per oblast**; **plate first two letters = oblast** (codes non-intuitive → learn them)", "src": ["plonkit"], "sv": null, "type": "naming" },
   { "cat": "region", "text": "**Carpathian Mtns** (west) = hillier/forested, pine, curvy roads; Baltic pines (orange-red bark) → north near Belarus; arider south", "src": ["plonkit"], "sv": null, "type": "landscape" },
   { "cat": "special", "text": "5 cities have **2011 autumn coverage** (long antenna): black car = Donetsk (no newer coverage!), white car = Lviv/Kyiv/Kharkiv (rare now)", "src": ["plonkit"], "sv": null, "type": "cars" }
  ]

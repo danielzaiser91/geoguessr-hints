@@ -12,7 +12,7 @@
   { "cat": "country", "text": "**Green directional signs, yellow road number**; N & R roads = South Africa (A/B = BW/LS/NA, MR = Eswatini)", "src": ["plonkit"], "sv": null, "img": "Road_signs2.png", "type": "signs" },
   { "cat": "country", "text": "Triangular red/white warning signs; **white-and-red chevrons** + unique thin single-arrow chevrons", "src": ["plonkit"], "sv": null, "img": "Chevrons.png", "type": "signs" },
   { "cat": "country", "text": "Suburban houses behind **high walls, fences & gates** (security)", "src": ["plonkit"], "sv": null, "img": "round.png", "type": "arch" },
-  { "cat": "state", "text": "Each **province = own plate design** (Free State greenish, KwaZulu-Natal bluish); N-roads show as a **blue pentagon** on maps", "src": ["plonkit"], "sv": null, "img": "ZA-map21.png", "type": "plates" },
+  { "super": true, "cat": "state", "text": "Each **province = own plate design** (Free State greenish, KwaZulu-Natal bluish); N-roads show as a **blue pentagon** on maps", "src": ["plonkit"], "sv": null, "img": "ZA-map21.png", "type": "plates" },
   { "cat": "state", "text": "Landline area codes geographically grouped (even the first digit helps); 10-digit numbers", "src": ["plonkit"], "sv": null, "img": "ZA_Phone_Code_Map.png", "type": "naming" },
   { "cat": "state", "area": "Western Cape", "text": "Pole tops = **3 bars forming an 'A'**, bottom insulators on a horizontal bar (Eastern Cape's 'A' is wider)", "src": ["plonkit"], "sv": null, "img": "WC_A_shape_pole_tops.png", "type": "utility" },
   { "cat": "state", "area": "KwaZulu-Natal", "text": "**Trident pole tops** almost unique to KwaZulu-Natal; sugarcane along the coast", "src": ["plonkit"], "sv": null, "img": "Kwasulu_Natal_Pole_TOp.png", "type": "utility" },

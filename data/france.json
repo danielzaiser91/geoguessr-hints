@@ -13,7 +13,7 @@
   { "cat": "country", "text": "Chevrons **white-on-blue** (only France + Spain; Spain uses only 2 or 4 arrows)", "src": ["plonkit"], "sv": null, "img": "Chevrons.png", "type": "signs" },
   { "cat": "country", "text": "Middle-line dashes = **two offset blocks** → France; blue house numbers (Italy rarely blue)", "src": ["plonkit"], "sv": null, "img": "Middle_Z_line.png", "type": "markings" },
   { "cat": "country", "text": "Peugeot / Renault / Citroën ≈ half of all cars; smallcam (most of W. Europe)", "src": ["plonkit"], "sv": null, "img": "1_carbrands.png", "type": "cars" },
-  { "cat": "state", "text": "**Postal code first 2 digits = department number** (alphabetical); also inside the right blue plate strip", "src": ["plonkit"], "sv": null, "img": "2_postcodes.png", "type": "naming" },
+  { "super": true, "cat": "state", "text": "**Postal code first 2 digits = department number** (alphabetical); also inside the right blue plate strip", "src": ["plonkit"], "sv": null, "img": "2_postcodes.png", "type": "naming" },
   { "cat": "state", "text": "Phone: **01 = Île-de-France**, 02–05 run clockwise from the NW", "src": ["plonkit"], "sv": null, "img": "2_areacodes.png", "type": "naming" },
   { "cat": "state", "text": "**Department logos** on bus stops / km markers / signbacks → identify department", "src": ["plonkit"], "sv": null, "img": "2_departmentlogo2.png", "type": "naming" },
   { "cat": "region", "text": "Stone houses, gable roofs w/ orange tiles (S) or black slate (N); very diverse regional architecture", "src": ["plonkit"], "sv": null, "img": "1_architecture.jpg", "type": "arch" },

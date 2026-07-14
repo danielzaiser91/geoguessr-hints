@@ -17,7 +17,7 @@
   { "cat": "country", "text": "**Metal ladder or mesh poles** extremely common", "src": ["plonkit"], "sv": null, "img": "tr_pole.png", "type": "utility" },
   { "cat": "country", "text": "Gen3 = no antenna; Gen4 white car; grey **pickup truck** in some Gen4 (also Georgia); smallcam exists", "src": ["plonkit"], "sv": null, "img": "tr_gen4car.png", "type": "cars" },
   { "cat": "country", "text": "Tall square **apartment blocks**; Muslim-majority → **mosques w/ tall minarets** in most towns", "src": ["plonkit"], "sv": null, "img": "tr_mosque.png", "type": "arch" },
-  { "cat": "state", "text": "Area codes **1st digit 2 (west) → 4 (east)**; km markers show **province code (first 2 digits, ~alphabetical 01–76)**", "src": ["plonkit"], "sv": null, "img": "tr_areacodes_nobg.png", "type": "naming" },
+  { "super": true, "cat": "state", "text": "Area codes **1st digit 2 (west) → 4 (east)**; km markers show **province code (first 2 digits, ~alphabetical 01–76)**", "src": ["plonkit"], "sv": null, "img": "tr_areacodes_nobg.png", "type": "naming" },
   { "cat": "region", "text": "North = lush/forested; **NE = deep-green grassy round hills** (Gen3), few trees; SE arid; SW Mediterranean", "src": ["plonkit"], "sv": null, "img": "tr_northeast.png", "type": "landscape" },
   { "cat": "region", "text": "Roofs: tiled → western ⅔; flat → SE + south coast; metal/low-pyramid → far east (Lake Van)", "src": ["plonkit"], "sv": null, "type": "arch" },
   { "cat": "special", "text": "**Göreme/Cappadocia** (Nevşehir): sandstone monoliths w/ carved dwellings; **Mt. Ararat** volcano far east; whitewashed flat-roof houses → Bodrum", "src": ["plonkit"], "sv": null, "type": "landscape" }

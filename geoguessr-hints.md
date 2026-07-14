@@ -803,7 +803,7 @@ Study: [Plonk It](https://www.plonkit.net/russia)
 | Country | Gen3: black or white car w/ **long antenna**; pedestrian crossings = alternating white+yellow stripes | [P](https://www.plonkit.net/russia) |  |
 | Region | Birch everywhere; **larch** more common further east (Siberia) | [P](https://www.plonkit.net/russia) |  |
 | Region | Kamchatka = grey volcanic soil + volcanoes; Caucasus mtns → south (Dagestan dry/flat) | [P](https://www.plonkit.net/russia) |  |
-| Region | RHD Japanese cars more common **east of Novosibirsk** | [P](https://www.plonkit.net/russia) |  |
+| Region | **RHD Japanese import cars** (steering wheel on the right) get commoner the further **east** you go (common from ~Novosibirsk eastward) — a fast east/west tell | [P](https://www.plonkit.net/russia) |  |
 | State | Area codes: **8-** = west, **3-** = central, **4-** = east/Moscow | [P](https://www.plonkit.net/russia) |  |
 | State | Gen3 unblurred plate regional code (right side): 01 = Adygea … learnable list | [P](https://www.plonkit.net/russia) |  |
 | State | Omsk = birch patches in green farm fields (summer Gen4); Kaliningrad = white-striped lined oaks | [P](https://www.plonkit.net/russia) |  |
@@ -1670,7 +1670,7 @@ Study: [Plonk It](https://www.plonkit.net/usa)
 | Region | PNW (WA/OR/N.CA coast) **temperate rainforest**; Great Plains flat, few trees | [P](https://www.plonkit.net/usa) |  |
 | Region | New England architecture (shingle/wood panel, porch, high roof) + **three-deckers** → Northeast | [P](https://www.plonkit.net/usa) |  |
 | State | Interstates: **even = W–E** (low #s at Gulf/Mexico), **odd = S–N** (low #s at West Coast); US Highways numbered inversely | [P](https://www.plonkit.net/usa) |  |
-| State | ~half of states have **no front plate**; each state has a unique plate design (some readable through blur) | [P](https://www.plonkit.net/usa) |  |
+| State | **No front plate** → rear-only states skew **South & East** (front-plate states are mostly West/Midwest); each state also has a unique plate design (some readable through blur) | [P](https://www.plonkit.net/usa) |  |
 | State | 3-digit **area codes** (not clustered but learnable); each state has its own **flag** (distinct ones appear often) | [P](https://www.plonkit.net/usa) |  |
 | State | Appalachians (low forested mtns) → east; Rockies → MT–NM; Great Basin (mtns + dry shrubby plains) → NV/UT | [P](https://www.plonkit.net/usa) |  |
 | State | **Saguaro cacti** (tall tubes w/ branching arms) → southern Arizona, Sonoran border | [P](https://www.plonkit.net/usa) |  |

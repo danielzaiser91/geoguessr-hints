@@ -19,7 +19,7 @@
   { "cat": "region", "text": "PNW (WA/OR/N.CA coast) **temperate rainforest**; Great Plains flat, few trees", "src": ["plonkit"], "sv": null, "img": "Pacific_rainforests_final.png" },
   { "cat": "region", "text": "New England architecture (shingle/wood panel, porch, high roof) + **three-deckers** → Northeast", "src": ["plonkit"], "sv": null, "img": "three-decker.png" },
   { "cat": "state", "text": "Interstates: **even = W–E** (low #s at Gulf/Mexico), **odd = S–N** (low #s at West Coast); US Highways numbered inversely", "src": ["plonkit"], "sv": null, "img": "us_highway_map_final.png" },
-  { "cat": "state", "text": "~half of states have **no front plate**; each state has a unique plate design (some readable through blur)", "src": ["plonkit"], "sv": null, "img": "us_licenceplates_2025.png" },
+  { "super": true, "cat": "state", "text": "**No front plate** → rear-only states skew **South & East** (front-plate states are mostly West/Midwest); each state also has a unique plate design (some readable through blur)", "src": ["plonkit"], "sv": null, "img": "us_licenceplates_2025.png" },
   { "cat": "state", "text": "3-digit **area codes** (not clustered but learnable); each state has its own **flag** (distinct ones appear often)", "src": ["plonkit"], "sv": null, "img": "us_stateflags_v2.png" },
   { "cat": "state", "text": "Appalachians (low forested mtns) → east; Rockies → MT–NM; Great Basin (mtns + dry shrubby plains) → NV/UT", "src": ["plonkit"], "sv": null },
 

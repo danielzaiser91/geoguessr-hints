@@ -13,7 +13,7 @@
   { "cat": "country", "text": "All-white lines, **double middle lines common**; B-type guardrails w/ round red reflectors", "src": ["plonkit"], "sv": null, "img": "Poland-road-lines.png", "type": "markings" },
   { "cat": "country", "text": "Polish: **Ł** (unique), Ń, Ż, Ą/Ę; consonant-heavy, uses **W not V**; direction signs green w/ distinct font", "src": ["plonkit"], "sv": null, "img": "pl_language.png", "type": "language" },
   { "cat": "country", "text": "Flat & green, tree-lined roads; very Catholic → roadside shrines & Polish Catholic flags", "src": ["plonkit"], "sv": null, "img": "Poland-tree-lined-roads.png", "type": "landscape" },
-  { "cat": "state", "text": "Regional roads 3-digit, **first digit = region** (yellow boxes); landline area codes 2-digit, well-clustered", "src": ["plonkit"], "sv": null, "img": "Poland-road-numbering2_nobg.png", "type": "naming" },
+  { "super": true, "cat": "state", "text": "Regional roads 3-digit, **first digit = region** (yellow boxes); landline area codes 2-digit, well-clustered", "src": ["plonkit"], "sv": null, "img": "Poland-road-numbering2_nobg.png", "type": "naming" },
   { "cat": "state", "text": "Place names: **-owo → north, -ów → south** (Kraków is southern), -ino/-yno → NW", "src": ["plonkit"], "sv": null, "img": "Poland_Suffix_Map.png", "type": "naming" },
   { "cat": "region", "text": "South border = hilly/mountainous (Tatras); rest flat; wooden houses → east (Podlaskie)", "src": ["plonkit"], "sv": null, "img": "Poland-southern-hills.png", "type": "landscape" },
   { "cat": "state", "text": "Minority languages: German → Opole; Kashubian → north; Lithuanian → Puńsk", "src": ["plonkit"], "sv": null, "img": "Poland_Bilingual_Signs_Infographic.png", "type": "language" }

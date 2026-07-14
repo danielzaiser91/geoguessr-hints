@@ -19,6 +19,6 @@
   { "cat": "region", "text": "Interior = **red soil**, dry; SE + SW corners greener; can \"fry eggs\" red outback", "src": ["plonkit"], "sv": null, "img": "fry_eggs_on_the_road.png", "type": "landscape" },
   { "cat": "region", "text": "Tasmania: cool temperate green rolling hills (like NZ/S. Chile)", "src": ["plonkit"], "sv": null, "img": "taswomania.png", "type": "landscape" },
   { "cat": "region", "text": "Coastal N. Queensland tropical: palms + sugarcane; Darwin (NT) dark red soil + black tree trunks", "src": ["plonkit"], "sv": null, "img": "northern_qld_veggies.png", "type": "landscape" },
-  { "cat": "state", "text": "Different states use different **licence-plate** designs + slogans; 2-digit phone area codes map to state", "src": ["plonkit"], "sv": null, "img": "aus_license_plates.png", "type": "plates" }
+  { "super": true, "cat": "state", "text": "Different states use different **licence-plate** designs + slogans; 2-digit phone area codes map to state", "src": ["plonkit"], "sv": null, "img": "aus_license_plates.png", "type": "plates" }
  ]
 }

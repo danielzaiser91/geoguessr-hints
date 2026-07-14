@@ -19,7 +19,7 @@
   { "cat": "country", "text": "Wooden poles w/ small **black metal cap**; lamp mounted w/ **single bolt** (Sweden/Finland double)", "src": ["plonkit"], "sv": null, "img": "no_lamp.png", "type": "utility" },
   { "cat": "country", "text": "Traditional houses often have **grass-covered roofs** (far rarer in SE/FI)", "src": ["plonkit"], "sv": null, "img": "no_grassroof.png", "type": "arch" },
   { "cat": "country", "text": "Street suffixes **-veien / -gata / -gate**; street signs **centred on top** of the post (Sweden = side/lamp)", "src": ["plonkit"], "sv": null, "img": "no_streetnames.png", "type": "naming" },
-  { "cat": "state", "text": "Road number **first digit = region**; small white signs show road # (prefix **R** = findable, **F**/Fv = hard) + distance", "src": ["plonkit"], "sv": null, "img": "no_roadnumbers_darkmode.webp", "type": "naming" },
+  { "super": true, "cat": "state", "text": "Road number **first digit = region**; small white signs show road # (prefix **R** = findable, **F**/Fv = hard) + distance", "src": ["plonkit"], "sv": null, "img": "no_roadnumbers_darkmode.webp", "type": "naming" },
   { "cat": "region", "text": "**Sámi bilingual signs** in the north — letters **Á Đ** and many vowels in a row", "src": ["plonkit"], "sv": null, "img": "no_sami.png", "type": "language" },
   { "cat": "region", "text": "Deep **fjords + tall mountains** between Bergen–Trondheim; sharp rocky treeless peaks on **Lofoten**", "src": ["plonkit"], "sv": null, "img": "no_fjordsregion.png" },
   { "cat": "region", "text": "Farmlands in 3 zones: **SE/Oslo** (flat, rolling forested hills), **Trondheim** (steep hilly), **Stavanger** (vast open, round rock walls, grass)", "src": ["plonkit"], "sv": null, "img": "no_farmlands.png", "type": "landscape" },

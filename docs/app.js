@@ -40,6 +40,9 @@ function guessType(h) {
   if (has("pole", "power line", "infrastructure", "roadwork")) return "utility";
   return "general";
 }
+// "Super" clue = a high-value clue that pinpoints a REGION fast (area/plate codes, import
+// cars, no-front-plate halves, …). Only meaningful for subdivisions, never for country-level.
+const isSuper = (h) => !!h.super && h.cat !== "country";
 // Highway-shield reference images (keyed by data country name). Files vendored in docs/img/.
 const SHIELDS = {
   "United States": { img: "img/shields-us.jpg", title: "US State Route Marker Shields",
@@ -66,7 +69,7 @@ const norm = (s) => (s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,
 let DATA = null, byNorm = {}, features = [], world = null, selected = null;
 let hovered = null, globe = null, covMap = null, covBase = null, covOverlay = null;
 const covSet = new Set(COVERAGE.map(norm));
-const state = { cats: new Set(CAT_ORDER), srcs: new Set(Object.keys(SRC_NAME)), types: new Set(), q: "" };
+const state = { cats: new Set(CAT_ORDER), srcs: new Set(Object.keys(SRC_NAME)), types: new Set(), q: "", superOnly: false };
 
 const featName = (f) => f.properties.ADMIN || f.properties.NAME || f.properties.name;
 const dataForName = (name) => { const n = norm(name); return byNorm[ALIAS[n] || n] || null; };
@@ -174,13 +177,26 @@ function openCountry(d) {
   act.appendChild(mkBtn("gg", (d.links && d.links.geoguessr) || ("https://www.geoguessr.com/maps/community?query=" + encodeURIComponent(d.name)), "▶ Practice on GeoGuessr"));
   if (d.links && d.links.plonkit) act.appendChild(mkBtn("pk", d.links.plonkit, "Plonk It ↗"));
 
-  buildFilters(); state.q = ""; document.getElementById("d-search").value = "";
+  state.q = ""; state.superOnly = false; document.getElementById("d-search").value = "";
+  buildFilters();
   renderHints();
   document.getElementById("detail").classList.add("open");
 }
 function mkBtn(cls, href, text) { const a = document.createElement("a"); a.className = "btn " + cls; a.href = href; a.target = "_blank"; a.rel = "noopener"; a.textContent = text; return a; }
 
 function buildFilters() {
+  // "Key clues" toggle — only shown when the country has region-pinpointing super clues
+  const fk = document.getElementById("f-super"); fk.innerHTML = "";
+  const hasSuper = selected.hints.some(isSuper);
+  fk.style.display = hasSuper ? "" : "none";
+  if (hasSuper) {
+    const c = document.createElement("span");
+    c.className = "chip key" + (state.superOnly ? " on" : "");
+    c.textContent = "⭐ Key clues";
+    c.title = "Show only the highest-value clues that pinpoint a region fast";
+    c.onclick = () => { state.superOnly = !state.superOnly; c.classList.toggle("on"); renderHints(); };
+    fk.appendChild(c);
+  }
   const fc = document.getElementById("f-cats"); fc.innerHTML = "";
   CAT_ORDER.forEach(k => {
     if (!selected.hints.some(h => h.cat === k)) return;
@@ -233,6 +249,7 @@ function renderHints() {
   CAT_ORDER.forEach(cat => {
     if (!state.cats.has(cat)) return;
     const hints = selected.hints.filter(h => h.cat === cat)
+      .filter(h => !state.superOnly || isSuper(h))
       .filter(h => (h.src || []).some(s => state.srcs.has(s)))
       .filter(h => state.types.has(guessType(h)))
       .filter(h => !state.q || h.text.toLowerCase().includes(state.q));
@@ -290,12 +307,13 @@ function imgUrl(h) {
 }
 function cardEl(h) {
   const ty = guessType(h); const tm = TYPE_META[ty] || TYPE_META.general;
-  const card = document.createElement("div"); card.className = "card";
+  const card = document.createElement("div"); card.className = "card" + (isSuper(h) ? " super" : "");
   // Card meta omits the Plonk It link (redundant — already in the header button + image dialog).
   const svRef = h.sv ? `<a href="${h.sv}" target="_blank" rel="noopener">Street View ↗</a>` : "";
   const meta = [srcRefs(h, { noPlonkit: true }), svRef].filter(Boolean).join(" · ");
   card.innerHTML =
     `<div class="body">` +
+      (isSuper(h) ? `<div class="keytag">⭐ Key regional clue</div>` : "") +
       `<div class="type"><i style="background:${tm.color}"></i>${tm.label}</div>` +
       `<div class="t">${mdBold(h.text)}</div>` +
       (meta ? `<div class="m">${meta}</div>` : "") +
@@ -333,11 +351,24 @@ function openCoverage(d) {
 }
 
 /* ---------- image dialog (hint images + highway shields) ---------- */
+const IMG_ZOOM = 2.8;
+// Highest-res source for the hover magnifier: Plonk It resize URL -> original (/images/<folder>/<file>).
+function hiRes(url) {
+  const m = url.match(/^(https?:\/\/[^/]+)\/images\/resize\/\d+\/\d+\/(.+)$/);
+  return m ? `${m[1]}/images/${m[2]}` : url;
+}
 function openImg(title, url, capText, creditHTML) {
   document.getElementById("img-title").textContent = title;
   const el = document.getElementById("img-el"); el.src = url; el.alt = title;
   document.getElementById("img-cap").innerHTML =
     (capText ? mdBold(capText) : "") + (creditHTML ? `<span class="src">${creditHTML}</span>` : "");
+  // Amazon-style hover zoom: start with the display image, upgrade to the original when it loads.
+  const stage = document.getElementById("img-stage"), zoom = document.getElementById("img-zoom");
+  stage.classList.remove("zoomable"); zoom.style.backgroundPosition = "50% 50%";
+  const setBg = (src) => { zoom.style.backgroundImage = `url("${src}")`; zoom.style.backgroundSize = (IMG_ZOOM * 100) + "%"; stage.classList.add("zoomable"); };
+  setBg(url);
+  const hi = hiRes(url);
+  if (hi !== url) { const pre = new Image(); pre.onload = () => { if (el.src === url) setBg(hi); }; pre.src = hi; }
   document.getElementById("imgModal").classList.add("open");
 }
 
@@ -348,6 +379,13 @@ function wireUI() {
   };
   document.getElementById("worldCov").onclick = () => openCoverage(null);
   document.getElementById("covBtn").onclick = () => { if (selected) openCoverage(selected); };
+  const stage = document.getElementById("img-stage");
+  stage.addEventListener("mousemove", e => {
+    const r = stage.getBoundingClientRect();
+    const px = Math.min(1, Math.max(0, (e.clientX - r.left) / r.width));
+    const py = Math.min(1, Math.max(0, (e.clientY - r.top) / r.height));
+    document.getElementById("img-zoom").style.backgroundPosition = `${px * 100}% ${py * 100}%`;
+  });
   document.getElementById("img-close").onclick = () => document.getElementById("imgModal").classList.remove("open");
   document.getElementById("imgModal").addEventListener("click", e => { if (e.target.id === "imgModal") document.getElementById("imgModal").classList.remove("open"); });
   document.getElementById("cov-close").onclick = () => document.getElementById("covModal").classList.remove("open");
