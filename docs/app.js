@@ -220,8 +220,8 @@ function buildFilters() {
   ft.style.display = showTypes ? "" : "none";
 }
 const mdBold = (s) => s.replace(/\*\*(.+?)\*\*/g, "<b>$1</b>").replace(/`(.+?)`/g, "<code>$1</code>");
-function srcRefs(h) {
-  return (h.src || []).map(s => {
+function srcRefs(h, opt) {
+  return (h.src || []).filter(s => !(opt && opt.noPlonkit && s === "plonkit")).map(s => {
     const u = s === "plonkit" ? (selected.links && selected.links.plonkit) : (h.src_url || SRC_URL[s]);
     return u ? `<a href="${u}" target="_blank" rel="noopener">${SRC_NAME[s] || s}</a>` : (SRC_NAME[s] || s);
   }).join(" · ");
@@ -291,12 +291,14 @@ function imgUrl(h) {
 function cardEl(h) {
   const ty = guessType(h); const tm = TYPE_META[ty] || TYPE_META.general;
   const card = document.createElement("div"); card.className = "card";
-  const sv = h.sv ? ` · <a href="${h.sv}" target="_blank" rel="noopener">Street View ↗</a>` : "";
+  // Card meta omits the Plonk It link (redundant — already in the header button + image dialog).
+  const svRef = h.sv ? `<a href="${h.sv}" target="_blank" rel="noopener">Street View ↗</a>` : "";
+  const meta = [srcRefs(h, { noPlonkit: true }), svRef].filter(Boolean).join(" · ");
   card.innerHTML =
     `<div class="body">` +
       `<div class="type"><i style="background:${tm.color}"></i>${tm.label}</div>` +
       `<div class="t">${mdBold(h.text)}</div>` +
-      `<div class="m">${srcRefs(h)}${sv}</div>` +
+      (meta ? `<div class="m">${meta}</div>` : "") +
     `</div>`;
   if (h.img) {
     const url = imgUrl(h);
