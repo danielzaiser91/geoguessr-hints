@@ -12,11 +12,11 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**93 / 136 countries.**
+**99 / 136 countries.**
 
 **Africa:** ✅ Botswana ✅ Egypt ✅ Eswatini ✅ Ghana ✅ Kenya ✅ Lesotho ✅ Madagascar ✅ Mali ✅ Namibia ✅ Nigeria ⬜ Reunion ✅ Rwanda ✅ Senegal ✅ South Africa ⬜ São Tomé and Príncipe ✅ Tanzania ✅ Tunisia ✅ Uganda
 **Asia:** ✅ Bangladesh ✅ Bhutan ⬜ British Indian Ocean Territory ✅ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ✅ Iraq ⬜ Israel & the West Bank ✅ Japan ✅ Jordan ✅ Kazakhstan ✅ Kyrgyzstan ✅ Laos ✅ Lebanon ⬜ Macau ✅ Malaysia ✅ Mongolia ✅ Nepal ✅ Oman ✅ Pakistan ✅ Philippines ✅ Qatar ⬜ Singapore ✅ South Korea ✅ Sri Lanka ✅ Taiwan ✅ Thailand ✅ Turkey ✅ United Arab Emirates ✅ Vietnam
-**Europe:** ⬜ Albania ⬜ Andorra ✅ Austria ⬜ Azores ⬜ Belarus ✅ Belgium ✅ Bulgaria ✅ Croatia ✅ Czechia ✅ Denmark ✅ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ⬜ Gibraltar ✅ Greece ✅ Hungary ✅ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ✅ Latvia ⬜ Liechtenstein ✅ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ✅ Romania ✅ Russia ⬜ San Marino ✅ Serbia ✅ Slovakia ✅ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
+**Europe:** ✅ Albania ⬜ Andorra ✅ Austria ⬜ Azores ✅ Belarus ✅ Belgium ✅ Bulgaria ✅ Croatia ✅ Czechia ✅ Denmark ✅ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ⬜ Gibraltar ✅ Greece ✅ Hungary ✅ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ✅ Latvia ⬜ Liechtenstein ✅ Lithuania ✅ Luxembourg ⬜ Madeira ✅ Malta ⬜ Monaco ✅ Montenegro ✅ Netherlands ✅ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ✅ Romania ✅ Russia ⬜ San Marino ✅ Serbia ✅ Slovakia ✅ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
 **North America:** ⬜ Alaska ⬜ Bermuda ✅ Canada ✅ Costa Rica ✅ Dominican Republic ✅ Greenland ✅ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ✅ Panama ✅ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
 **South America:** ✅ Argentina ✅ Bolivia ✅ Brazil ✅ Chile ✅ Colombia ⬜ Curaçao ✅ Ecuador ⬜ Falkland Islands ✅ Peru ✅ Uruguay
 **Oceania:** ⬜ American Samoa ✅ Australia ⬜ Christmas Island ⬜ Cocos Islands ⬜ Guam ✅ New Zealand ⬜ Northern Mariana Islands ⬜ Pitcairn Islands ⬜ Vanuatu
@@ -959,6 +959,17 @@ Study: [Plonk It](https://www.plonkit.net/romania)
 | Country | Tall forested mountains centre/north, flat S/W/E; distinctive **haystack w/ a stick through it**; **Dacia** = >25% of cars | [P](https://www.plonkit.net/romania) |  |
 | Region | **Hungarian bilingual signs** → Covasna/Harghita/Mureș (centre); orange-tile roofs = west, metal roofs = east; **Maramureș** = decorated wooden gates | [P](https://www.plonkit.net/romania) |  |
 
+## Belarus
+Study: [Plonk It](https://www.plonkit.net/belarus)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Only coverage (bar spills) = a **single walking trekker in historic central Minsk**, mostly pedestrian-only streets | [P](https://www.plonkit.net/belarus) |  |
+| Country | Historic Minsk = well-kept **classical European architecture**, white/pastel walls | [P](https://www.plonkit.net/belarus) |  |
+| Country | Signs in **Belarusian or Russian** (both Cyrillic); letters **ў, і** are not in Russian | [P](https://www.plonkit.net/belarus) |  |
+| Country | Minsk-centre street signs are **sea-green** ("вул" = street); pavement mostly grey rectangular tiles | [P](https://www.plonkit.net/belarus) |  |
+| Special | The **Holy Spirit Cathedral** (two towers) features prominently and can be seen from afar | [P](https://www.plonkit.net/belarus) |  |
+
 ## Greece
 Study: [Plonk It](https://www.plonkit.net/greece)
 
@@ -1289,6 +1300,35 @@ Study: [Plonk It](https://www.plonkit.net/belgium)
 | Country | **Most blurred houses after Germany**; rarely a red car w/ long antenna (far more common in Ukraine) | [P](https://www.plonkit.net/belgium) |  |
 | Region | **3 languages**: Dutch/Flemish (N), French (S/Wallonia), German (Ostbelgien E); Brussels bilingual; Flanders warning signs = thick red, no white border (= Spain); **Ardennes** SE = steep forested hills | [P](https://www.plonkit.net/belgium) |  |
 
+## Albania
+Study: [Plonk It](https://www.plonkit.net/albania)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates: blue strips both sides OR a **single red strip on the left** — the only European country with red on the left (Italy = blue both but shorter front) | [P](https://www.plonkit.net/albania) |  |
+| Country | All Gen4 = **smallcam**; Gen3 often has **rifts** (poor stitching; equally common in Montenegro) | [P](https://www.plonkit.net/albania) |  |
+| Country | Bollards = **black top, red+grey reflector, white bottom** (Italy uses the same) | [P](https://www.plonkit.net/albania) |  |
+| Country | Poletops with an **upside-down triangle** shape (also RS/CZ/SK/RO) + simpler horizontal-bar poles | [P](https://www.plonkit.net/albania) |  |
+| Country | Chevrons **white on black** (Italy/Greece/Spain; Montenegro's differ); sign backs often painted black | [P](https://www.plonkit.net/albania) |  |
+| Country | Distinct **S-shape on stop signs** (short, angled ends — like Italy); bold speed-sign font (Montenegro's is thinner) | [P](https://www.plonkit.net/albania) |  |
+| Country | **Albanian** language: letters **Ë ë** (& Ç ç); street = **rruga** | [P](https://www.plonkit.net/albania) |  |
+| Country | Mountainous & Mediterranean; **exposed red soil** roadside; **rooftop cylinder water tanks**; Italian-style pastel buildings; **Mercedes** everywhere | [P](https://www.plonkit.net/albania) |  |
+| Region | Gen3 = long-antenna + rifts, or short-antenna + no rifts; lowlands in the west (Tirana/Shkodër/Vlorë) + the flat Korçë plateau SE; highest mountains far north & south | [P](https://www.plonkit.net/albania) |  |
+
+## North Macedonia
+Study: [Plonk It](https://www.plonkit.net/north-macedonia)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates white w/ a **red block near the left** (sometimes an EU strip too); Serbia almost always has a blue strip | [P](https://www.plonkit.net/north-macedonia) |  |
+| Country | All Gen4 = smallcam; the car **never has an antenna** (only Serbia is also usually antenna-less) | [P](https://www.plonkit.net/north-macedonia) |  |
+| Country | Two bollards: a thin rounded one + a wedge-shaped one (Croatia uses the same wedge) | [P](https://www.plonkit.net/north-macedonia) |  |
+| Country | A-Profile guardrails w/ red reflectors (Serbia = B-Profile); direction signs **yellow, biscriptal** (Latin + Cyrillic) | [P](https://www.plonkit.net/north-macedonia) |  |
+| Country | **Macedonian** Cyrillic: unique **Ѓ Ќ** (Љ Њ Џ are shared only with Serbian) | [P](https://www.plonkit.net/north-macedonia) |  |
+| Country | Landscape = dry grasslands, small hills, scattered trees | [P](https://www.plonkit.net/north-macedonia) |  |
+| Country | **Yellow-filled warning signs** (most of Europe = white; Greece also yellow); 'Greek Lamps' on utility poles | [P](https://www.plonkit.net/north-macedonia) |  |
+| Region | Coverage sparse (8 cities; **Skopje** = capital & biggest → large apartments); **city-specific obituary posters** on poles (Kumanovo = thick light-blue border, etc.) | [P](https://www.plonkit.net/north-macedonia) |  |
+
 ## Slovenia
 Study: [Plonk It](https://www.plonkit.net/slovenia)
 
@@ -1304,6 +1344,47 @@ Study: [Plonk It](https://www.plonkit.net/slovenia)
 | Country | Roads commonly have **long dashed outer lines** (neighbouring countries rarely do) | [P](https://www.plonkit.net/slovenia) |  |
 | Country | Street signs white w/ metal border, or **red on house walls** (street names use **ulica**); house numbers red w/ white text (Ljubljana = green) | [P](https://www.plonkit.net/slovenia) |  |
 | Country | A-type guardrails (rounded; Croatia = square B-type); **kozolec** hayrack sheds (thin wooden beams w/ gaps) are very typical | [P](https://www.plonkit.net/slovenia) |  |
+
+## Montenegro
+Study: [Plonk It](https://www.plonkit.net/montenegro)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plate = EU blue strip + the **coat of arms on a red circle** (visible through the blur; Albania's has no red circle) | [P](https://www.plonkit.net/montenegro) |  |
+| Country | All Gen4 = smallcam; Gen3 = **long antenna + rifts inland**, **short antenna + no rifts on the coast** | [P](https://www.plonkit.net/montenegro) |  |
+| Country | Small & **mountainous**: inland lush green, coastal mountains = exposed light-coloured rock; roads only 1–2 lanes | [P](https://www.plonkit.net/montenegro) |  |
+| Country | Bollard white w/ **red front / white back reflector + a black top** (also found in Slovenia) | [P](https://www.plonkit.net/montenegro) |  |
+| Country | Chevrons **black-on-white or red-on-yellow** (Albania = white-on-black) | [P](https://www.plonkit.net/montenegro) |  |
+| Country | Guardrails often **rusted**; Montenegro is the only Balkan country where both **A- and B-type** guardrails are common | [P](https://www.plonkit.net/montenegro) |  |
+| Region | North = green farmland valleys; **Bay of Kotor** touristy w/ a steep rocky ridge; Podgorica = dry mountains + vineyards; **Durmitor NP** = grassy treeless high mountains | [P](https://www.plonkit.net/montenegro) |  |
+
+## Luxembourg
+Study: [Plonk It](https://www.plonkit.net/luxembourg)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plate **long yellow + blue strip left** (Netherlands = yellow both; UK = yellow rear only) | [P](https://www.plonkit.net/luxembourg) |  |
+| Country | Bollards B&W wedge w/ grey reflector — **3 bolts** (near-identical to German bollards, which have 2 bolts) | [P](https://www.plonkit.net/luxembourg) |  |
+| Country | Chevrons **black w/ yellow arrows** (no neighbour uses these; else only IS/NO/FI/IE/PT in Europe) | [P](https://www.plonkit.net/luxembourg) |  |
+| Country | Poletops shaped like **upside-down tridents** are the most common (also FR/ES/PT) | [P](https://www.plonkit.net/luxembourg) |  |
+| Country | Almost all coverage is **Gen2 or Gen4** (Gen3 is rare) | [P](https://www.plonkit.net/luxembourg) |  |
+| Country | Trilingual (Luxembourgish/French/German); French dominant on signs; **Luxembourgish** = German-like w/ umlauts + double vowels + occasional é | [P](https://www.plonkit.net/luxembourg) |  |
+| Country | Directional signs **yellow, fully framed, pointed tip, UPPERCASE**; regional road # in a **red box** (1–2 digit), local in a **yellow box** (3-digit) | [P](https://www.plonkit.net/luxembourg) |  |
+| Country | Signs on **white signposts**; short white street signs (often slanted blue corners); pedestrian sign = 5 vertical stripes; green rolling-hill landscape | [P](https://www.plonkit.net/luxembourg) |  |
+
+## Malta
+Study: [Plonk It](https://www.plonkit.net/malta)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Drives on the **left** (Cyprus does too) | [P](https://www.plonkit.net/malta) |  |
+| Country | Plates have a blue strip left, but **short plates are very common** (unlike most of Europe) | [P](https://www.plonkit.net/malta) |  |
+| Country | Landscape = slightly hilly **dry agricultural** fields, 1–2 lane roads, cacti & dry shrubs (Mediterranean) | [P](https://www.plonkit.net/malta) |  |
+| Country | **Limestone rock walls** everywhere — this alone is usually enough to know you're in Malta | [P](https://www.plonkit.net/malta) |  |
+| Country | Low buildings, white-to-beige/limestone walls; traditional **covered balconies** (often brightly painted) | [P](https://www.plonkit.net/malta) |  |
+| Country | Street = **"triq"** on almost every street sign | [P](https://www.plonkit.net/malta) |  |
+| Country | **Double yellow no-parking lines** (like UK/Ireland); bus stops common (often naming the location) | [P](https://www.plonkit.net/malta) |  |
+| Country | **English** primary + **Maltese** (Latin w/ unique **Ċ Ġ Ħ Ż**); Gozo = stone barriers + bus routes all in the **300s** | [P](https://www.plonkit.net/malta) |  |
 
 # North America
 

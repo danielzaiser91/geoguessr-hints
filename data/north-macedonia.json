@@ -1,0 +1,17 @@
+{
+ "name": "North Macedonia",
+ "slug": "north-macedonia",
+ "continent": "Europe",
+ "area_km2": 25713,
+ "links": { "plonkit": "https://www.plonkit.net/north-macedonia", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Plates white w/ a **red block near the left** (sometimes an EU strip too); Serbia almost always has a blue strip", "src": ["plonkit"], "sv": null, "img": "North_Macedonia_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "All Gen4 = smallcam; the car **never has an antenna** (only Serbia is also usually antenna-less)", "src": ["plonkit"], "sv": null, "img": "Antenna-FYROM.png", "type": "cars" },
+  { "cat": "country", "text": "Two bollards: a thin rounded one + a wedge-shaped one (Croatia uses the same wedge)", "src": ["plonkit"], "sv": null, "img": "Bollards.png", "type": "bollards" },
+  { "cat": "country", "text": "A-Profile guardrails w/ red reflectors (Serbia = B-Profile); direction signs **yellow, biscriptal** (Latin + Cyrillic)", "src": ["plonkit"], "sv": null, "img": "Direction-Signs-FYROM.png", "type": "signs" },
+  { "cat": "country", "text": "**Macedonian** Cyrillic: unique **Ѓ Ќ** (Љ Њ Џ are shared only with Serbian)", "src": ["plonkit"], "sv": null, "img": "mk_language.png", "type": "language" },
+  { "cat": "country", "text": "Landscape = dry grasslands, small hills, scattered trees", "src": ["plonkit"], "sv": null, "img": "General-Landscape-FYROM.png", "type": "landscape" },
+  { "cat": "country", "text": "**Yellow-filled warning signs** (most of Europe = white; Greece also yellow); 'Greek Lamps' on utility poles", "src": ["plonkit"], "sv": null, "img": "Warning-Signs-FYROM.png", "type": "signs" },
+  { "cat": "region", "text": "Coverage sparse (8 cities; **Skopje** = capital & biggest → large apartments); **city-specific obituary posters** on poles (Kumanovo = thick light-blue border, etc.)", "src": ["plonkit"], "sv": null, "img": "mk_coverage.png", "type": "naming" }
+ ]
+}
