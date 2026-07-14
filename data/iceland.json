@@ -1,0 +1,19 @@
+{
+ "name": "Iceland",
+ "slug": "iceland",
+ "continent": "Europe",
+ "area_km2": 103000,
+ "links": { "plonkit": "https://www.plonkit.net/iceland", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Gen4 = red & white **pickup trucks** (well blurred); Gen3 = white car w/ a long antenna", "src": ["plonkit"], "sv": null, "img": "Iceland_cars.png", "type": "cars" },
+  { "cat": "country", "text": "Plates **fully white w/ blue characters, no blue strip** on the left", "src": ["plonkit"], "sv": null, "img": "Iceland_Bollard.jpg", "type": "plates" },
+  { "cat": "country", "text": "**Unique yellow bollards w/ a white reflector** — extremely common on almost every rural road", "src": ["plonkit"], "sv": null, "img": "Screenshot__281156_29.png", "type": "bollards" },
+  { "cat": "country", "text": "Landscape **barren, treeless, dark grey volcanic soil** — looks like nowhere else in Northern Europe", "src": ["plonkit"], "sv": null, "img": "Iceland_Volcanic.png", "type": "landscape" },
+  { "cat": "country", "text": "Geologically active: lava fields, rift valleys, geothermal lakes, rugged towering mountains", "src": ["plonkit"], "sv": null, "img": "Screenshot__281161_29.png", "type": "landscape" },
+  { "cat": "country", "text": "Direction signs **yellow w/ a white inset box** for road numbers (dashed border = a nearby road, not yours)", "src": ["plonkit"], "sv": null, "img": "Screenshot__281164_29.png", "type": "signs" },
+  { "cat": "country", "text": "**Icelandic**: unique letters **ð þ æ** (Ð); vowel accents á é í ó ö ú ý", "src": ["plonkit"], "sv": null, "img": "is_language.png", "type": "language" },
+  { "cat": "country", "text": "Pedestrian signs **4 stripes w/ a yellow tint** — Iceland is the only European country w/ yellow-bg pedestrian signs; chevrons black/yellow", "src": ["plonkit"], "sv": null, "img": "Screenshot__281163_29.png", "type": "signs" },
+  { "cat": "country", "text": "Street signs white bg/black text on lampposts; **all-white road lines** (no yellow → if yellow in a Nordic scene, think Norway/Finland)", "src": ["plonkit"], "sv": null, "img": "Screenshot__281167_29.png", "type": "markings" },
+  { "cat": "state", "text": "Sparse coverage (densest SW); **ring road = 1**; other roads' **first digit = region, clockwise 2 (south) → 9**; red pickup SW / white NE; Westfjords = flat-top mountains", "src": ["plonkit"], "sv": null, "img": "Iceland-road-numbering-map.png", "type": "naming" }
+ ]
+}

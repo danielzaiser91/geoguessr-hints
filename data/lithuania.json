@@ -1,0 +1,20 @@
+{
+ "name": "Lithuania",
+ "slug": "lithuania",
+ "continent": "Europe",
+ "area_km2": 65300,
+ "links": { "plonkit": "https://www.plonkit.net/lithuania", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Plate long white + standard EU blue strip left", "src": ["plonkit"], "sv": null, "img": "Lithuania_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "Bollards **wedge-shaped**: orange rectangular reflector front / white back (Estonia & Latvia differ)", "src": ["plonkit"], "sv": null, "img": "Bollard.png", "type": "bollards" },
+  { "cat": "country", "text": "Poles usually **square concrete w/ a diagonal support beam**; trident-style poletops", "src": ["plonkit"], "sv": null, "img": "Leaner_poles.png", "type": "utility" },
+  { "cat": "country", "text": "Chevrons **white w/ red arrows** + a red outline on the sign edge (Estonia/Russia/Ukraine = opposite colours)", "src": ["plonkit"], "sv": null, "img": "Chevron_Lithuania.png", "type": "signs" },
+  { "cat": "country", "text": "Blue km marker at a **45° angle to the road, L-shaped** (Estonia = perpendicular)", "src": ["plonkit"], "sv": null, "img": "KM_sign_Lithuania.png", "type": "signs" },
+  { "cat": "country", "text": "Signs = **thin red border + thin white outline**; A-type guardrails w/ **orange reflectors** (Estonia none, Latvia red/white)", "src": ["plonkit"], "sv": null, "img": "Lithuanian_Signs.png", "type": "signs" },
+  { "cat": "country", "text": "Pedestrian sign **3 stripes, low detail** (like RU/UA; Estonia more detailed; Latvia has 5)", "src": ["plonkit"], "sv": null, "img": "Pedestrian_sign_Lithuania.png", "type": "signs" },
+  { "cat": "country", "text": "**Lithuanian** (Baltic): letters **Ą Ę Į Ų Ė**; street = **gatvė (g.)**; many place names end **-ai**", "src": ["plonkit"], "sv": null, "img": "Lithuanian_language.png", "type": "language" },
+  { "cat": "country", "text": "Bus-stop sign bus has **4 windows** (Latvia = 5; Estonia same as LT); directional signs blue w/ white text", "src": ["plonkit"], "sv": null, "img": "Bus_stop_sign_Lithuania.png", "type": "signs" },
+  { "cat": "country", "text": "Architecture = light brick + steep corrugated metal roofs; **less forest → more open/agricultural** than the other Baltics", "src": ["plonkit"], "sv": null, "img": "lt_architecture.png", "type": "arch" },
+  { "cat": "special", "text": "Gen3 **random small blurs** (also Kaliningrad; not EE/LV); black & red Gen4; **Curonian Spit** (SW) = dunes + windswept Baltic pines + red wooden houses", "src": ["plonkit"], "sv": null, "type": "cars" }
+ ]
+}

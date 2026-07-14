@@ -801,6 +801,126 @@
    ]
   },
   {
+   "name": "Bulgaria",
+   "slug": "bulgaria",
+   "continent": "Europe",
+   "area_km2": 110879,
+   "links": {
+    "plonkit": "https://www.plonkit.net/bulgaria",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plate standard European (blue strip left)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Registation_plates.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "**Cyrillic** (Latin often too on signs); letter **Ъ** (only Bulgarian & Russian); street = улица (ul.)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "bg_language.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Cylindrical concrete poles; poletop w/ **3 large alternating upward-hook insulators** is ~unique to Bulgaria",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Poletop_3_large_hook.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Chevrons **red on white** (like RO/TR/MK); directional & town signs show **two lines** (Cyrillic + Latin) — visible even from afar",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "bg_chevron.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Pedestrian sign = **4 stripes, person wears a hat** (no other E/Central-European sign has 4 stripes)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "bg_pedestriansign.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Bollards are **rare** & generic (red front / white back, inconsistent shape)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Bollard.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "country",
+     "text": "**Thin road lines** (Romania's are thick); generally poor road quality w/ cracks & potholes",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Road_lines.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "Orange tiled roofs w/ **uneven mortar patches** (famously rough-looking); distinctive metallic trash bins",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Exquisite_bulgarian_masonry.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "Gen3 mostly **March/April dead 'winter' look**; grey-tape **'flag antenna'**; Gen4 blue/red/black cars (red → central/SE)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Gen_3_antenna.png",
+     "type": "cars"
+    },
+    {
+     "cat": "region",
+     "text": "**Balkan Mtns** split the country N/S (flat north to Romania); **Rhodope/Pirin/Rila** = highest peaks (S/SW); **area codes ordered by first digit**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "naming"
+    },
+    {
+     "cat": "special",
+     "text": "**Nessebar/Sozopol** old towns (stone + white walls + wood, cobbled streets); Sofia = white signs w/ two red strips; Stara Zagora = brown signs w/ yellow text",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "general"
+    }
+   ]
+  },
+  {
    "name": "Canada",
    "slug": "canada",
    "continent": "North America",
@@ -1818,6 +1938,127 @@
    ]
   },
   {
+   "name": "Estonia",
+   "slug": "estonia",
+   "continent": "Europe",
+   "area_km2": 45227,
+   "links": {
+    "plonkit": "https://www.plonkit.net/estonia",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plate long white + standard EU blue strip left",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Estonia_License_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Bollards **round, baton-like**: rectangular reflector front + **two circular reflectors** back (Latvia/Lithuania differ)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Estonian_bollards.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "country",
+     "text": "Least consistent Baltic poles: round wooden (metal cap) + square concrete; **trident poletops** somewhat common",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Trident.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Chevrons **red w/ white arrows** (like Russia/Ukraine; Latvia & Lithuania = the opposite)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Chevron.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Blue **km marker perpendicular to the road**, numbers on both sides (all Baltics share the marker; angle distinguishes them)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "KM_sign_Estonia.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Signs = **thin red border running to the edge, no white outline**; A-type guardrails w/ no reflectors",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Estonian_Signs.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Pedestrian sign **3 stripes, detailed person** (Lithuania 3 but less detailed; Latvia 5)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Pedestrian_sign_Estonia.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**Estonian** (Finnic, ≈ Finnish): letters **Ä Ö Ü Õ**; street = tänav (tn) / tee; oval blue house numbers",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Estonian_language.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Bus-stop sign bus has **4 windows** (Latvia = 5; Lithuania same as EE); blue-and-white signpost wrappings common",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Bus_stop_sign.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Outer road lines sometimes **short dashes** (also Lithuania & Sweden); Gen3 often has a green-tinted **'green blur'**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Road_lines.png",
+     "type": "markings"
+    },
+    {
+     "cat": "region",
+     "text": "Fairly flat (hilliest SE + S Lääne-Viru); large **Russian minority** → bilingual Cyrillic signs around **Narva / Ida-Viru** (NE); Tallinn old town = medieval",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "language"
+    }
+   ]
+  },
+  {
    "name": "Finland",
    "slug": "finland",
    "continent": "Europe",
@@ -2595,6 +2836,118 @@
       "plonkit"
      ],
      "sv": null,
+     "type": "naming"
+    }
+   ]
+  },
+  {
+   "name": "Iceland",
+   "slug": "iceland",
+   "continent": "Europe",
+   "area_km2": 103000,
+   "links": {
+    "plonkit": "https://www.plonkit.net/iceland",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Gen4 = red & white **pickup trucks** (well blurred); Gen3 = white car w/ a long antenna",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Iceland_cars.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Plates **fully white w/ blue characters, no blue strip** on the left",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Iceland_Bollard.jpg",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "**Unique yellow bollards w/ a white reflector** — extremely common on almost every rural road",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Screenshot__281156_29.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "country",
+     "text": "Landscape **barren, treeless, dark grey volcanic soil** — looks like nowhere else in Northern Europe",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Iceland_Volcanic.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Geologically active: lava fields, rift valleys, geothermal lakes, rugged towering mountains",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Screenshot__281161_29.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Direction signs **yellow w/ a white inset box** for road numbers (dashed border = a nearby road, not yours)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Screenshot__281164_29.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**Icelandic**: unique letters **ð þ æ** (Ð); vowel accents á é í ó ö ú ý",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "is_language.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Pedestrian signs **4 stripes w/ a yellow tint** — Iceland is the only European country w/ yellow-bg pedestrian signs; chevrons black/yellow",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Screenshot__281163_29.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Street signs white bg/black text on lampposts; **all-white road lines** (no yellow → if yellow in a Nordic scene, think Norway/Finland)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Screenshot__281167_29.png",
+     "type": "markings"
+    },
+    {
+     "cat": "state",
+     "text": "Sparse coverage (densest SW); **ring road = 1**; other roads' **first digit = region, clockwise 2 (south) → 9**; red pickup SW / white NE; Westfjords = flat-top mountains",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Iceland-road-numbering-map.png",
      "type": "naming"
     }
    ]
@@ -3485,6 +3838,239 @@
      ],
      "sv": null,
      "type": "utility"
+    }
+   ]
+  },
+  {
+   "name": "Latvia",
+   "slug": "latvia",
+   "continent": "Europe",
+   "area_km2": 64589,
+   "links": {
+    "plonkit": "https://www.plonkit.net/latvia",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plate long white + standard EU blue strip left",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Latvia_License_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Bollards **thin, slightly curved**: rectangular reflector front + two circular back, **angled black strip**, often numbers below (EE/LT differ)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Bollard.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "country",
+     "text": "Poletops with **hook-shaped insulators alternating left-right-left** (much rarer in the other Baltics)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Poletop.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Chevrons **white w/ red arrows** (like Lithuania/Poland; Estonia/Russia/Ukraine = opposite)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Chevron.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Blue km marker **parallel to the road**, number on one side only (Estonia perpendicular, Lithuania 45°)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "KM_sign.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Signs = **thick red border + thin white outline**; A-type guardrails w/ white or red reflectors",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Latvian_Signs.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Pedestrian sign **5 stripes, noticeably long legs** — unique in the Baltics (Estonia & Lithuania = 3 stripes)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Pedestrian_sign.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Bus-stop sign bus has **5 windows** (Estonia & Lithuania = 4)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Bus_stop_sign.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**Latvian** (Baltic): macron vowels **Ā Ē Ī**, hook consonants **Ģ Ķ Ļ Ņ**; street = **iela**; tall-rectangle house numbers",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Latvian_language.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Architecture wood + white brick w/ steep corrugated metal roofs; **Riga** downtown = art-nouveau (Vienna-like); red & black Gen4 cars",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Latvia_architecture.png",
+     "type": "arch"
+    }
+   ]
+  },
+  {
+   "name": "Lithuania",
+   "slug": "lithuania",
+   "continent": "Europe",
+   "area_km2": 65300,
+   "links": {
+    "plonkit": "https://www.plonkit.net/lithuania",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plate long white + standard EU blue strip left",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Lithuania_License_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Bollards **wedge-shaped**: orange rectangular reflector front / white back (Estonia & Latvia differ)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Bollard.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "country",
+     "text": "Poles usually **square concrete w/ a diagonal support beam**; trident-style poletops",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Leaner_poles.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Chevrons **white w/ red arrows** + a red outline on the sign edge (Estonia/Russia/Ukraine = opposite colours)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Chevron_Lithuania.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Blue km marker at a **45° angle to the road, L-shaped** (Estonia = perpendicular)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "KM_sign_Lithuania.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Signs = **thin red border + thin white outline**; A-type guardrails w/ **orange reflectors** (Estonia none, Latvia red/white)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Lithuanian_Signs.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Pedestrian sign **3 stripes, low detail** (like RU/UA; Estonia more detailed; Latvia has 5)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Pedestrian_sign_Lithuania.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**Lithuanian** (Baltic): letters **Ą Ę Į Ų Ė**; street = **gatvė (g.)**; many place names end **-ai**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Lithuanian_language.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Bus-stop sign bus has **4 windows** (Latvia = 5; Estonia same as LT); directional signs blue w/ white text",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Bus_stop_sign_Lithuania.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Architecture = light brick + steep corrugated metal roofs; **less forest → more open/agricultural** than the other Baltics",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "lt_architecture.png",
+     "type": "arch"
+    },
+    {
+     "cat": "special",
+     "text": "Gen3 **random small blurs** (also Kaliningrad; not EE/LV); black & red Gen4; **Curonian Spit** (SW) = dunes + windswept Baltic pines + red wooden houses",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "cars"
     }
    ]
   },
@@ -5218,6 +5804,238 @@
       "plonkit"
      ],
      "sv": null,
+     "type": "general"
+    }
+   ]
+  },
+  {
+   "name": "Slovakia",
+   "slug": "slovakia",
+   "continent": "Europe",
+   "area_km2": 49035,
+   "links": {
+    "plonkit": "https://www.plonkit.net/slovakia",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Bollards: **orange double reflector front / single white back** (only Slovakia + Czechia); rare blue/red variants",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "sk_bollard.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "country",
+     "text": "Special **extra-wide B-type guardrail** used only by Slovakia & Czechia (SK also uses others occasionally)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "sk_guardrail.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Wide round concrete poles, often **paired**; trident / upside-down-triangle poletops",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "sk_doublepole.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Chevrons **white w/ red arrows**; temporary red-and-white striped signposts",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "sk_chevron.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**Hiking markers** (colour strip between two white); cycling signs use the letter **C** (unique to Slovakia)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "sk_trailmarkers.png",
+     "type": "general"
+    },
+    {
+     "cat": "country",
+     "text": "Prefab **panel apartment blocks** — well-maintained, vibrant colours; **diamond-tile roofs**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "sk_apartmentblocks.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "Stripy **gas/water poles** (snow-pole-like) common next to the road",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "sk_gaspoles.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Gen3 antenna w/ **grey tape**; red & black Gen4 cars; lots of Gen3 **spring** coverage (Czechia = winter)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "sk_antenna.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "**Slovak** distinct letters **Ľ Ô Ä Ŕ Ĺ** (Czech: Ř Ě Ů); street = **ulica**; white street signs w/ blue text + thin red border",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "sk_redwhitesignpost.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Directional signs blue w/ **small white arrows** (Czechia = large filled arrows); km markers = two sections split by a **black horizontal line**; bold sign font",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "signs"
+    },
+    {
+     "cat": "region",
+     "text": "Landscape swings **very mountainous ↔ flat** (Czechia hillier but less mountainous); grey metal roofs common in the east; hip-end roofs + window shutters",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "landscape"
+    }
+   ]
+  },
+  {
+   "name": "Slovenia",
+   "slug": "slovenia",
+   "continent": "Europe",
+   "area_km2": 20273,
+   "links": {
+    "plonkit": "https://www.plonkit.net/slovenia",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Landscape **very hilly & forested**; a lot of coverage is on small roads deep inside forest",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "si_landscape.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Alpine-inspired architecture: light walls, dark wooden details, **half-hipped roofs**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "si_architecture.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "**Slovene** (Slavic): letters **Č Š Ž** (no Ć/Đ, unlike Croatian)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "si_language.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Bollards white w/ **black top, bright red front / white back** (Austria = dark-red front + grey/black back)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "si_bollard.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "country",
+     "text": "Directional signs **yellow w/ black border** (like other ex-Yugoslav; Austria = white/blue)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "si_directionalsigns.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Distinct **km markers**: road number top-left in a yellow rectangle, black horizontal divider, distance below",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "si_kmmarker.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Chevrons **red arrows on white**; pedestrian sign 5 stripes, **person has no belt** (Croatia's does)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "si_chevron.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Roads commonly have **long dashed outer lines** (neighbouring countries rarely do)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "slovenia_roadlines.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "Street signs white w/ metal border, or **red on house walls** (street names use **ulica**); house numbers red w/ white text (Ljubljana = green)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "si_streetsigns.png",
+     "type": "naming"
+    },
+    {
+     "cat": "country",
+     "text": "A-type guardrails (rounded; Croatia = square B-type); **kozolec** hayrack sheds (thin wooden beams w/ gaps) are very typical",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "si_kozolec.png",
      "type": "general"
     }
    ]
@@ -7402,7 +8220,7 @@
   "Antarctica"
  ],
  "counts": {
-  "done": 46,
+  "done": 53,
   "total": 136
  }
 }

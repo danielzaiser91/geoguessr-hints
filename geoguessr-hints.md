@@ -12,11 +12,11 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**46 / 136 countries.**
+**53 / 136 countries.**
 
 **Africa:** ⬜ Botswana ⬜ Egypt ⬜ Eswatini ⬜ Ghana ⬜ Kenya ⬜ Lesotho ⬜ Madagascar ⬜ Mali ⬜ Namibia ⬜ Nigeria ⬜ Reunion ⬜ Rwanda ⬜ Senegal ✅ South Africa ⬜ São Tomé and Príncipe ⬜ Tanzania ⬜ Tunisia ⬜ Uganda
 **Asia:** ⬜ Bangladesh ⬜ Bhutan ⬜ British Indian Ocean Territory ⬜ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ⬜ Iraq ⬜ Israel & the West Bank ✅ Japan ⬜ Jordan ✅ Kazakhstan ⬜ Kyrgyzstan ⬜ Laos ⬜ Lebanon ⬜ Macau ✅ Malaysia ⬜ Mongolia ⬜ Nepal ⬜ Oman ⬜ Pakistan ✅ Philippines ⬜ Qatar ⬜ Singapore ✅ South Korea ⬜ Sri Lanka ⬜ Taiwan ✅ Thailand ✅ Turkey ⬜ United Arab Emirates ✅ Vietnam
-**Europe:** ⬜ Albania ⬜ Andorra ✅ Austria ⬜ Azores ⬜ Belarus ✅ Belgium ⬜ Bulgaria ✅ Croatia ✅ Czechia ✅ Denmark ⬜ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ⬜ Gibraltar ✅ Greece ✅ Hungary ⬜ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ⬜ Latvia ⬜ Liechtenstein ⬜ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ✅ Romania ✅ Russia ⬜ San Marino ✅ Serbia ⬜ Slovakia ⬜ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
+**Europe:** ⬜ Albania ⬜ Andorra ✅ Austria ⬜ Azores ⬜ Belarus ✅ Belgium ✅ Bulgaria ✅ Croatia ✅ Czechia ✅ Denmark ✅ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ⬜ Gibraltar ✅ Greece ✅ Hungary ✅ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ✅ Latvia ⬜ Liechtenstein ✅ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ✅ Romania ✅ Russia ⬜ San Marino ✅ Serbia ✅ Slovakia ✅ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
 **North America:** ⬜ Alaska ⬜ Bermuda ✅ Canada ⬜ Costa Rica ⬜ Dominican Republic ⬜ Greenland ⬜ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ⬜ Panama ⬜ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
 **South America:** ✅ Argentina ⬜ Bolivia ✅ Brazil ✅ Chile ✅ Colombia ⬜ Curaçao ⬜ Ecuador ⬜ Falkland Islands ✅ Peru ⬜ Uruguay
 **Oceania:** ⬜ American Samoa ✅ Australia ⬜ Christmas Island ⬜ Cocos Islands ⬜ Guam ✅ New Zealand ⬜ Northern Mariana Islands ⬜ Pitcairn Islands ⬜ Vanuatu
@@ -532,6 +532,39 @@ Study: [Plonk It](https://www.plonkit.net/greece)
 | Country | Very **mountainous** (winding mountain roads); **red dirt** common (also Albania); bleak Gen3 winter/fall coverage | [P](https://www.plonkit.net/greece) |  |
 | Special | Area codes start **2** (+1–3 digits; 3rd digit 1 = biggest city, 9 = its surroundings); **Cyclades** = white+blue houses, barren treeless small islands; **Meteora** monoliths N of Trikala; Athens yellow / Thessaloniki blue taxis | [P](https://www.plonkit.net/greece) |  |
 
+## Bulgaria
+Study: [Plonk It](https://www.plonkit.net/bulgaria)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plate standard European (blue strip left) | [P](https://www.plonkit.net/bulgaria) |  |
+| Country | **Cyrillic** (Latin often too on signs); letter **Ъ** (only Bulgarian & Russian); street = улица (ul.) | [P](https://www.plonkit.net/bulgaria) |  |
+| Country | Cylindrical concrete poles; poletop w/ **3 large alternating upward-hook insulators** is ~unique to Bulgaria | [P](https://www.plonkit.net/bulgaria) |  |
+| Country | Chevrons **red on white** (like RO/TR/MK); directional & town signs show **two lines** (Cyrillic + Latin) — visible even from afar | [P](https://www.plonkit.net/bulgaria) |  |
+| Country | Pedestrian sign = **4 stripes, person wears a hat** (no other E/Central-European sign has 4 stripes) | [P](https://www.plonkit.net/bulgaria) |  |
+| Country | Bollards are **rare** & generic (red front / white back, inconsistent shape) | [P](https://www.plonkit.net/bulgaria) |  |
+| Country | **Thin road lines** (Romania's are thick); generally poor road quality w/ cracks & potholes | [P](https://www.plonkit.net/bulgaria) |  |
+| Country | Orange tiled roofs w/ **uneven mortar patches** (famously rough-looking); distinctive metallic trash bins | [P](https://www.plonkit.net/bulgaria) |  |
+| Country | Gen3 mostly **March/April dead 'winter' look**; grey-tape **'flag antenna'**; Gen4 blue/red/black cars (red → central/SE) | [P](https://www.plonkit.net/bulgaria) |  |
+| Region | **Balkan Mtns** split the country N/S (flat north to Romania); **Rhodope/Pirin/Rila** = highest peaks (S/SW); **area codes ordered by first digit** | [P](https://www.plonkit.net/bulgaria) |  |
+| Special | **Nessebar/Sozopol** old towns (stone + white walls + wood, cobbled streets); Sofia = white signs w/ two red strips; Stara Zagora = brown signs w/ yellow text | [P](https://www.plonkit.net/bulgaria) |  |
+
+## Iceland
+Study: [Plonk It](https://www.plonkit.net/iceland)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Gen4 = red & white **pickup trucks** (well blurred); Gen3 = white car w/ a long antenna | [P](https://www.plonkit.net/iceland) |  |
+| Country | Plates **fully white w/ blue characters, no blue strip** on the left | [P](https://www.plonkit.net/iceland) |  |
+| Country | **Unique yellow bollards w/ a white reflector** — extremely common on almost every rural road | [P](https://www.plonkit.net/iceland) |  |
+| Country | Landscape **barren, treeless, dark grey volcanic soil** — looks like nowhere else in Northern Europe | [P](https://www.plonkit.net/iceland) |  |
+| Country | Geologically active: lava fields, rift valleys, geothermal lakes, rugged towering mountains | [P](https://www.plonkit.net/iceland) |  |
+| Country | Direction signs **yellow w/ a white inset box** for road numbers (dashed border = a nearby road, not yours) | [P](https://www.plonkit.net/iceland) |  |
+| Country | **Icelandic**: unique letters **ð þ æ** (Ð); vowel accents á é í ó ö ú ý | [P](https://www.plonkit.net/iceland) |  |
+| Country | Pedestrian signs **4 stripes w/ a yellow tint** — Iceland is the only European country w/ yellow-bg pedestrian signs; chevrons black/yellow | [P](https://www.plonkit.net/iceland) |  |
+| Country | Street signs white bg/black text on lampposts; **all-white road lines** (no yellow → if yellow in a Nordic scene, think Norway/Finland) | [P](https://www.plonkit.net/iceland) |  |
+| State | Sparse coverage (densest SW); **ring road = 1**; other roads' **first digit = region, clockwise 2 (south) → 9**; red pickup SW / white NE; Westfjords = flat-top mountains | [P](https://www.plonkit.net/iceland) |  |
+
 ## Hungary
 Study: [Plonk It](https://www.plonkit.net/hungary)
 
@@ -643,6 +676,39 @@ Study: [Plonk It](https://www.plonkit.net/ireland)
 | State | Phone area codes grouped by first digit (learnable) → region | [P](https://www.plonkit.net/ireland) |  |
 | Special | Distinctive flat **tabletop mountains** → north Sligo / Leitrim; hilly tiny Gen4 roads → Donegal | [P](https://www.plonkit.net/ireland) |  |
 
+## Lithuania
+Study: [Plonk It](https://www.plonkit.net/lithuania)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plate long white + standard EU blue strip left | [P](https://www.plonkit.net/lithuania) |  |
+| Country | Bollards **wedge-shaped**: orange rectangular reflector front / white back (Estonia & Latvia differ) | [P](https://www.plonkit.net/lithuania) |  |
+| Country | Poles usually **square concrete w/ a diagonal support beam**; trident-style poletops | [P](https://www.plonkit.net/lithuania) |  |
+| Country | Chevrons **white w/ red arrows** + a red outline on the sign edge (Estonia/Russia/Ukraine = opposite colours) | [P](https://www.plonkit.net/lithuania) |  |
+| Country | Blue km marker at a **45° angle to the road, L-shaped** (Estonia = perpendicular) | [P](https://www.plonkit.net/lithuania) |  |
+| Country | Signs = **thin red border + thin white outline**; A-type guardrails w/ **orange reflectors** (Estonia none, Latvia red/white) | [P](https://www.plonkit.net/lithuania) |  |
+| Country | Pedestrian sign **3 stripes, low detail** (like RU/UA; Estonia more detailed; Latvia has 5) | [P](https://www.plonkit.net/lithuania) |  |
+| Country | **Lithuanian** (Baltic): letters **Ą Ę Į Ų Ė**; street = **gatvė (g.)**; many place names end **-ai** | [P](https://www.plonkit.net/lithuania) |  |
+| Country | Bus-stop sign bus has **4 windows** (Latvia = 5; Estonia same as LT); directional signs blue w/ white text | [P](https://www.plonkit.net/lithuania) |  |
+| Country | Architecture = light brick + steep corrugated metal roofs; **less forest → more open/agricultural** than the other Baltics | [P](https://www.plonkit.net/lithuania) |  |
+| Special | Gen3 **random small blurs** (also Kaliningrad; not EE/LV); black & red Gen4; **Curonian Spit** (SW) = dunes + windswept Baltic pines + red wooden houses | [P](https://www.plonkit.net/lithuania) |  |
+
+## Latvia
+Study: [Plonk It](https://www.plonkit.net/latvia)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plate long white + standard EU blue strip left | [P](https://www.plonkit.net/latvia) |  |
+| Country | Bollards **thin, slightly curved**: rectangular reflector front + two circular back, **angled black strip**, often numbers below (EE/LT differ) | [P](https://www.plonkit.net/latvia) |  |
+| Country | Poletops with **hook-shaped insulators alternating left-right-left** (much rarer in the other Baltics) | [P](https://www.plonkit.net/latvia) |  |
+| Country | Chevrons **white w/ red arrows** (like Lithuania/Poland; Estonia/Russia/Ukraine = opposite) | [P](https://www.plonkit.net/latvia) |  |
+| Country | Blue km marker **parallel to the road**, number on one side only (Estonia perpendicular, Lithuania 45°) | [P](https://www.plonkit.net/latvia) |  |
+| Country | Signs = **thick red border + thin white outline**; A-type guardrails w/ white or red reflectors | [P](https://www.plonkit.net/latvia) |  |
+| Country | Pedestrian sign **5 stripes, noticeably long legs** — unique in the Baltics (Estonia & Lithuania = 3 stripes) | [P](https://www.plonkit.net/latvia) |  |
+| Country | Bus-stop sign bus has **5 windows** (Estonia & Lithuania = 4) | [P](https://www.plonkit.net/latvia) |  |
+| Country | **Latvian** (Baltic): macron vowels **Ā Ē Ī**, hook consonants **Ģ Ķ Ļ Ņ**; street = **iela**; tall-rectangle house numbers | [P](https://www.plonkit.net/latvia) |  |
+| Country | Architecture wood + white brick w/ steep corrugated metal roofs; **Riga** downtown = art-nouveau (Vienna-like); red & black Gen4 cars | [P](https://www.plonkit.net/latvia) |  |
+
 ## Croatia
 Study: [Plonk It](https://www.plonkit.net/croatia)
 
@@ -659,6 +725,40 @@ Study: [Plonk It](https://www.plonkit.net/croatia)
 | Country | Pedestrian sign 5 stripes + belt (Slovenia = no belt); Karlovačko/Ožujsko beer, Konzum/Plodine shops; **no Gen2 car** (only trekker) | [P](https://www.plonkit.net/croatia) |  |
 | Region | NE = flat farmland (like Hungary); hilly N/W of Zagreb; **Adriatic coast** = rocky mountains + islands, beige brick w/ green shutters; **Istria** = red soil + Italian bilingual signs | [P](https://www.plonkit.net/croatia) |  |
 | Special | **Zagreb** big-city feel + blue trams; **Dubrovnik** medieval walls (far south); Rijeka blue overhead traffic-light poles; cypress trees near the southern tip | [P](https://www.plonkit.net/croatia) |  |
+
+## Slovakia
+Study: [Plonk It](https://www.plonkit.net/slovakia)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Bollards: **orange double reflector front / single white back** (only Slovakia + Czechia); rare blue/red variants | [P](https://www.plonkit.net/slovakia) |  |
+| Country | Special **extra-wide B-type guardrail** used only by Slovakia & Czechia (SK also uses others occasionally) | [P](https://www.plonkit.net/slovakia) |  |
+| Country | Wide round concrete poles, often **paired**; trident / upside-down-triangle poletops | [P](https://www.plonkit.net/slovakia) |  |
+| Country | Chevrons **white w/ red arrows**; temporary red-and-white striped signposts | [P](https://www.plonkit.net/slovakia) |  |
+| Country | **Hiking markers** (colour strip between two white); cycling signs use the letter **C** (unique to Slovakia) | [P](https://www.plonkit.net/slovakia) |  |
+| Country | Prefab **panel apartment blocks** — well-maintained, vibrant colours; **diamond-tile roofs** | [P](https://www.plonkit.net/slovakia) |  |
+| Country | Stripy **gas/water poles** (snow-pole-like) common next to the road | [P](https://www.plonkit.net/slovakia) |  |
+| Country | Gen3 antenna w/ **grey tape**; red & black Gen4 cars; lots of Gen3 **spring** coverage (Czechia = winter) | [P](https://www.plonkit.net/slovakia) |  |
+| Country | **Slovak** distinct letters **Ľ Ô Ä Ŕ Ĺ** (Czech: Ř Ě Ů); street = **ulica**; white street signs w/ blue text + thin red border | [P](https://www.plonkit.net/slovakia) |  |
+| Country | Directional signs blue w/ **small white arrows** (Czechia = large filled arrows); km markers = two sections split by a **black horizontal line**; bold sign font | [P](https://www.plonkit.net/slovakia) |  |
+| Region | Landscape swings **very mountainous ↔ flat** (Czechia hillier but less mountainous); grey metal roofs common in the east; hip-end roofs + window shutters | [P](https://www.plonkit.net/slovakia) |  |
+
+## Estonia
+Study: [Plonk It](https://www.plonkit.net/estonia)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plate long white + standard EU blue strip left | [P](https://www.plonkit.net/estonia) |  |
+| Country | Bollards **round, baton-like**: rectangular reflector front + **two circular reflectors** back (Latvia/Lithuania differ) | [P](https://www.plonkit.net/estonia) |  |
+| Country | Least consistent Baltic poles: round wooden (metal cap) + square concrete; **trident poletops** somewhat common | [P](https://www.plonkit.net/estonia) |  |
+| Country | Chevrons **red w/ white arrows** (like Russia/Ukraine; Latvia & Lithuania = the opposite) | [P](https://www.plonkit.net/estonia) |  |
+| Country | Blue **km marker perpendicular to the road**, numbers on both sides (all Baltics share the marker; angle distinguishes them) | [P](https://www.plonkit.net/estonia) |  |
+| Country | Signs = **thin red border running to the edge, no white outline**; A-type guardrails w/ no reflectors | [P](https://www.plonkit.net/estonia) |  |
+| Country | Pedestrian sign **3 stripes, detailed person** (Lithuania 3 but less detailed; Latvia 5) | [P](https://www.plonkit.net/estonia) |  |
+| Country | **Estonian** (Finnic, ≈ Finnish): letters **Ä Ö Ü Õ**; street = tänav (tn) / tee; oval blue house numbers | [P](https://www.plonkit.net/estonia) |  |
+| Country | Bus-stop sign bus has **4 windows** (Latvia = 5; Lithuania same as EE); blue-and-white signpost wrappings common | [P](https://www.plonkit.net/estonia) |  |
+| Country | Outer road lines sometimes **short dashes** (also Lithuania & Sweden); Gen3 often has a green-tinted **'green blur'** | [P](https://www.plonkit.net/estonia) |  |
+| Region | Fairly flat (hilliest SE + S Lääne-Viru); large **Russian minority** → bilingual Cyrillic signs around **Narva / Ida-Viru** (NE); Tallinn old town = medieval | [P](https://www.plonkit.net/estonia) |  |
 
 ## Denmark
 Study: [Plonk It](https://www.plonkit.net/denmark)
@@ -742,6 +842,22 @@ Study: [Plonk It](https://www.plonkit.net/belgium)
 | Country | Bus stops = **yellow signposts** (yellow shelter roofs); small orange-diamond priority signs; red **H hydrant** signs | [P](https://www.plonkit.net/belgium) |  |
 | Country | **Most blurred houses after Germany**; rarely a red car w/ long antenna (far more common in Ukraine) | [P](https://www.plonkit.net/belgium) |  |
 | Region | **3 languages**: Dutch/Flemish (N), French (S/Wallonia), German (Ostbelgien E); Brussels bilingual; Flanders warning signs = thick red, no white border (= Spain); **Ardennes** SE = steep forested hills | [P](https://www.plonkit.net/belgium) |  |
+
+## Slovenia
+Study: [Plonk It](https://www.plonkit.net/slovenia)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Landscape **very hilly & forested**; a lot of coverage is on small roads deep inside forest | [P](https://www.plonkit.net/slovenia) |  |
+| Country | Alpine-inspired architecture: light walls, dark wooden details, **half-hipped roofs** | [P](https://www.plonkit.net/slovenia) |  |
+| Country | **Slovene** (Slavic): letters **Č Š Ž** (no Ć/Đ, unlike Croatian) | [P](https://www.plonkit.net/slovenia) |  |
+| Country | Bollards white w/ **black top, bright red front / white back** (Austria = dark-red front + grey/black back) | [P](https://www.plonkit.net/slovenia) |  |
+| Country | Directional signs **yellow w/ black border** (like other ex-Yugoslav; Austria = white/blue) | [P](https://www.plonkit.net/slovenia) |  |
+| Country | Distinct **km markers**: road number top-left in a yellow rectangle, black horizontal divider, distance below | [P](https://www.plonkit.net/slovenia) |  |
+| Country | Chevrons **red arrows on white**; pedestrian sign 5 stripes, **person has no belt** (Croatia's does) | [P](https://www.plonkit.net/slovenia) |  |
+| Country | Roads commonly have **long dashed outer lines** (neighbouring countries rarely do) | [P](https://www.plonkit.net/slovenia) |  |
+| Country | Street signs white w/ metal border, or **red on house walls** (street names use **ulica**); house numbers red w/ white text (Ljubljana = green) | [P](https://www.plonkit.net/slovenia) |  |
+| Country | A-type guardrails (rounded; Croatia = square B-type); **kozolec** hayrack sheds (thin wooden beams w/ gaps) are very typical | [P](https://www.plonkit.net/slovenia) |  |
 
 # North America
 
