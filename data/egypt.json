@@ -1,0 +1,17 @@
+{
+ "name": "Egypt",
+ "slug": "egypt",
+ "continent": "Africa",
+ "area_km2": 1002450,
+ "links": { "plonkit": "https://www.plonkit.net/egypt", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Very sparse — **all Gen3 trekker** coverage (low camera, small blurs, no car shadow) at **7 historic sites** in Cairo & Alexandria", "src": ["plonkit"], "sv": null, "img": "Egypt-coverage-map.png", "type": "cars" },
+  { "cat": "country", "text": "Most buildings are **sandstone**; Arabic script (lines + dots) occasionally on signs", "src": ["plonkit"], "sv": null, "img": "Sandstone.png", "type": "arch" },
+  { "cat": "special", "text": "**Giza pyramids** trekker (don't confuse with Memphis's glass pyramid)", "src": ["plonkit"], "sv": null, "img": "eg_pyramids.png", "type": "general" },
+  { "cat": "special", "text": "**Khafre valley temple** = rows of massive square pillars; **Djoser step pyramid** (stairs + scaffolding) south of Cairo", "src": ["plonkit"], "sv": null, "img": "eg_khafretemple.png", "type": "general" },
+  { "cat": "special", "text": "**Cairo Citadel**: huge clean-cut sandstone walls + Ottoman **Mosque of Muhammad Ali** (grey domes, tall minarets)", "src": ["plonkit"], "sv": null, "img": "Citadel_of_Cairo_mosque.png", "type": "general" },
+  { "cat": "special", "text": "**Hanging Church** (Cairo, near Fustat): urban street + church spires w/ crosses, then interior courtyard w/ mosaics & two white spires", "src": ["plonkit"], "sv": null, "img": "Hanging_Church_outside.png", "type": "general" },
+  { "cat": "special", "text": "**Alexandria — Qaitbay Citadel**: sandstone castle surrounded by thick walls", "src": ["plonkit"], "sv": null, "img": "eg_quaitbay.png", "type": "general" },
+  { "cat": "special", "text": "**Saint Mina monastery** (palace-like, Christian spires/crosses) + **Abu Mena** excavation (small yellow wooden chapel) SW of Alexandria", "src": ["plonkit"], "sv": null, "img": "eg_saintmina.png", "type": "general" }
+ ]
+}

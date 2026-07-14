@@ -2049,6 +2049,98 @@
    ]
   },
   {
+   "name": "Egypt",
+   "slug": "egypt",
+   "continent": "Africa",
+   "area_km2": 1002450,
+   "links": {
+    "plonkit": "https://www.plonkit.net/egypt",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Very sparse — **all Gen3 trekker** coverage (low camera, small blurs, no car shadow) at **7 historic sites** in Cairo & Alexandria",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Egypt-coverage-map.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Most buildings are **sandstone**; Arabic script (lines + dots) occasionally on signs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Sandstone.png",
+     "type": "arch"
+    },
+    {
+     "cat": "special",
+     "text": "**Giza pyramids** trekker (don't confuse with Memphis's glass pyramid)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "eg_pyramids.png",
+     "type": "general"
+    },
+    {
+     "cat": "special",
+     "text": "**Khafre valley temple** = rows of massive square pillars; **Djoser step pyramid** (stairs + scaffolding) south of Cairo",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "eg_khafretemple.png",
+     "type": "general"
+    },
+    {
+     "cat": "special",
+     "text": "**Cairo Citadel**: huge clean-cut sandstone walls + Ottoman **Mosque of Muhammad Ali** (grey domes, tall minarets)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Citadel_of_Cairo_mosque.png",
+     "type": "general"
+    },
+    {
+     "cat": "special",
+     "text": "**Hanging Church** (Cairo, near Fustat): urban street + church spires w/ crosses, then interior courtyard w/ mosaics & two white spires",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Hanging_Church_outside.png",
+     "type": "general"
+    },
+    {
+     "cat": "special",
+     "text": "**Alexandria — Qaitbay Citadel**: sandstone castle surrounded by thick walls",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "eg_quaitbay.png",
+     "type": "general"
+    },
+    {
+     "cat": "special",
+     "text": "**Saint Mina monastery** (palace-like, Christian spires/crosses) + **Abu Mena** excavation (small yellow wooden chapel) SW of Alexandria",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "eg_saintmina.png",
+     "type": "general"
+    }
+   ]
+  },
+  {
    "name": "Estonia",
    "slug": "estonia",
    "continent": "Europe",
@@ -2676,6 +2768,98 @@
      "sv": null,
      "img": "Germany_Triangle_Posts_Map.png",
      "type": "utility"
+    }
+   ]
+  },
+  {
+   "name": "Ghana",
+   "slug": "ghana",
+   "continent": "Africa",
+   "area_km2": 238533,
+   "links": {
+    "plonkit": "https://www.plonkit.net/ghana",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Gen3 unique car: **roof rack w/ black tape** on the right end + hood **wrap w/ a red rectangle** — usually enough to ID Ghana",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Ghana_car.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Gen4 = grey or white **pickup truck w/ a front antenna** (usually blurred)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Ghana cars.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Plates **white (private) / yellow (commercial)**, long or short (Nigeria's white plates have a green tint)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Ghana_License_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Mostly **flat, red soil**; tropical vegetation, palms common toward the south",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ghana_landscape",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Taxis have **multicoloured body panels** — fenders & quarter panels always **orange-yellow**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ghana_taxis",
+     "type": "general"
+    },
+    {
+     "cat": "country",
+     "text": "Road lines always **white** (many paved roads have none); **wooden poles w/ 3 insulators** on a metal crossbar (Kenya similar)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Ghana_poles",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Patriotic country — things painted **red/yellow/green (+ black star)**; B&W striped signposts in cities",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ghana_singposts",
+     "type": "signs"
+    },
+    {
+     "cat": "region",
+     "text": "Coverage limited (densest south: Accra/Kumasi); **3 tape types on the car** (unpeeled SW, peeled E/N, scotched N of Kumasi); north = savannah, SW/E = dense forest + palms",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "The_Tape_Lore.png",
+     "type": "cars"
     }
    ]
   },
@@ -3953,6 +4137,118 @@
    ]
   },
   {
+   "name": "Kenya",
+   "slug": "kenya",
+   "continent": "Africa",
+   "area_km2": 580367,
+   "links": {
+    "plonkit": "https://www.plonkit.net/kenya",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Mostly **Gen4 pickup truck** (often blurred; sometimes a **snorkel** — only Kenya & Mongolia have Gen4 snorkels)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Kenya_gen4_trucks.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Road lines: **outer always solid white**, inner **yellow** (solid or dashed)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Road_Lines.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "Poles concrete or wood with an **L-shaped crossbar** (a similar pole exists in Ghana)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Kenya_pole.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Plates **long white front / square yellow rear**; a grey Toyota SUV often **follows** the Street View car",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Kenya_License_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "**Safaricom** (mobile-network brand) is unique to Kenya — almost every city has one",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Safaricom.png",
+     "type": "general"
+    },
+    {
+     "cat": "country",
+     "text": "Directional signs **green w/ white border & text** (road numbers white/yellow); other road signs mostly red/white",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Kenya_Directional_Signs.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**Repurposed vans** (matatus) found all over (Uganda's vehicle-wrap design differs)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Repurposed_Vans.png",
+     "type": "general"
+    },
+    {
+     "cat": "country",
+     "text": "Many **eucalyptus** species (long clumped leaves, smooth bark); Gen3 = visible roof rack + snorkel (or no car)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Kenya_Eucalyptus.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Pole markings often carry a **skull + danger** message",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Warning_sign.png",
+     "type": "utility"
+    },
+    {
+     "cat": "state",
+     "text": "**County names on signs/billboards** → region; PO BOX **postcode** format (PO BOX XXX-**YYY**ZZ); east/north flat, SW higher; coastal coconut palms; red brick in the west + east of Nairobi",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Kenya_Counties.png",
+     "type": "naming"
+    }
+   ]
+  },
+  {
    "name": "Latvia",
    "slug": "latvia",
    "continent": "Europe",
@@ -4959,6 +5255,108 @@
      ],
      "sv": null,
      "type": "utility"
+    }
+   ]
+  },
+  {
+   "name": "Nigeria",
+   "slug": "nigeria",
+   "continent": "Africa",
+   "area_km2": 923768,
+   "links": {
+    "plonkit": "https://www.plonkit.net/nigeria",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Coverage car = a **pickup truck** (cab + bed visible; Gen3 has a roof rack; sometimes a huge blur)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "qjpxa6d.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "A **police follow car** (usually white or black) is almost always behind the Street View car",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "JtDpCOs.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "**Short plates** that look somewhat **green** through the blur",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "0HpTmNo.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Poles concrete with **indents + a few horizontal supports** (like Brazil's, but no holes through them)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "P1Kv8TE.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Roads often **unmarked / faded / potholed / unpaved** (poorly maintained)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "suJRmbg.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "Houses single-storey w/ **steep metal-sheet roofs** + cinder-block compound walls",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "n5DCOsi.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "**City & state names on storefronts and banners** → very useful for region-guessing",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "3Ju14jr.png",
+     "type": "naming"
+    },
+    {
+     "cat": "country",
+     "text": "**Shitcam** (Nigeria is the only mainland-African country with it; 2023–25 coverage is extra low-quality, only otherwise in Lebanon)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "uhfdEzy.png",
+     "type": "cars"
+    },
+    {
+     "cat": "region",
+     "text": "Fairly flat; **Christian south / Muslim north**; climate tropical (S) → savannah (centre) → arid steppe (N); some states have yellow tuk-tuks; Kaduna haystacks; monolithic rocks around Abuja",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "cvD28Vo.png",
+     "type": "landscape"
     }
    ]
   },
@@ -7555,6 +7953,118 @@
    ]
   },
   {
+   "name": "Tunisia",
+   "slug": "tunisia",
+   "continent": "Africa",
+   "area_km2": 163610,
+   "links": {
+    "plonkit": "https://www.plonkit.net/tunisia",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plates **black w/ white text** (military plates have a small Tunisian flag on the left)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Tunisia_License_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "A **follow car** escorts the Google car in most coverage (can be ahead or far behind — pan & zoom to find it)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "followcars.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Google car is **black with a medium-length thin antenna**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "googlecar.jpg",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "**Olive-tree plantations** in neat rows on raked, weedless soil; road lines white (outer dashed or solid)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "oliveplantations.jpg",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "**French + Arabic** common — often bilingual signs; distinctive Latin font",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Tunisia_language_tips.png",
+     "type": "language"
+    },
+    {
+     "cat": "country",
+     "text": "Direction signs white bg, towns in Arabic + Latin (Tunis often listed even far away)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "directionalsigns.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Traditional **blue** doors/windows/gates (esp. on Djerba); red-and-white striped curbs (also Israel/Palestine)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "round.jpg",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "White concrete **markers w/ a rounded red/yellow/green top** (distances + road number → pinpoint)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "marker2.jpg",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Fairly unique **stop sign** with Arabic + Latin (Jordan/UAE similar; Israel/Palestine use a hand)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Tunisia_stop_sign.png",
+     "type": "signs"
+    },
+    {
+     "cat": "region",
+     "text": "Coverage mostly **east coast** (Bizerte→Medenine); **follow-car type = region** (light-green Toyota north, dark-green Mazda Hammamet→Djerba, Kairouan white Mitsubishi, **Djerba = no follow car**); N Mediterranean/hilly, centre flat/arid, S desert",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "tn_coverage.png",
+     "type": "naming"
+    }
+   ]
+  },
+  {
    "name": "Turkey",
    "slug": "turkey",
    "continent": "Asia",
@@ -7715,6 +8225,107 @@
     {
      "cat": "special",
      "text": "**Göreme/Cappadocia** (Nevşehir): sandstone monoliths w/ carved dwellings; **Mt. Ararat** volcano far east; whitewashed flat-roof houses → Bodrum",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "landscape"
+    }
+   ]
+  },
+  {
+   "name": "Uganda",
+   "slug": "uganda",
+   "continent": "Africa",
+   "area_km2": 241550,
+   "links": {
+    "plonkit": "https://www.plonkit.net/uganda",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Very limited coverage: **Kampala + Entebbe + national parks**; drives on the **left**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ug_leftdrive.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Plates **white front / yellow rear** (long or tall)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Uganda_License_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "region",
+     "text": "**Kampala** Google car: white, square side mirrors, boxy — unique to Kampala & its outskirts",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Kampala_Car_3.png",
+     "type": "cars"
+    },
+    {
+     "cat": "region",
+     "text": "Kampala = busy, narrow unpaved roads, small 1-storey houses w/ walls + barbed wire; **red soil** even on paved roads; very **hilly**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ug_kampalasoil.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "region",
+     "text": "Kampala **taxi buses w/ a blue blocky pattern**; city-centre = black-and-white curbs + multi-storey buildings",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "van.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "**Entebbe** (SW of Kampala): emptier, greener, fancier houses, noticeably more street signs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ug_entebbe.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "National-park car = like Kampala's but with a **black bar along the front** (often not visible)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ug_npcar.png",
+     "type": "cars"
+    },
+    {
+     "cat": "special",
+     "text": "**Kidepo NP** (NE) = savannah w/ mountains all around (a wide mountain to the north)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ug_kidepo.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "special",
+     "text": "Parks differ: **Murchison Falls** (low dirt road-barriers, palms north), **Lake Mburo** (driest, dried grass), **Kibale/Semuliki** (dense humid forest paths), **Queen Elizabeth** (non-red dirt)",
      "src": [
       "plonkit"
      ],
@@ -8786,7 +9397,7 @@
   "Antarctica"
  ],
  "counts": {
-  "done": 58,
+  "done": 64,
   "total": 136
  }
 }

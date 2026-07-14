@@ -1,0 +1,17 @@
+{
+ "name": "Ghana",
+ "slug": "ghana",
+ "continent": "Africa",
+ "area_km2": 238533,
+ "links": { "plonkit": "https://www.plonkit.net/ghana", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Gen3 unique car: **roof rack w/ black tape** on the right end + hood **wrap w/ a red rectangle** — usually enough to ID Ghana", "src": ["plonkit"], "sv": null, "img": "Ghana_car.png", "type": "cars" },
+  { "cat": "country", "text": "Gen4 = grey or white **pickup truck w/ a front antenna** (usually blurred)", "src": ["plonkit"], "sv": null, "img": "Ghana cars.png", "type": "cars" },
+  { "cat": "country", "text": "Plates **white (private) / yellow (commercial)**, long or short (Nigeria's white plates have a green tint)", "src": ["plonkit"], "sv": null, "img": "Ghana_License_Plate.png", "type": "plates" },
+  { "cat": "country", "text": "Mostly **flat, red soil**; tropical vegetation, palms common toward the south", "src": ["plonkit"], "sv": null, "img": "ghana_landscape", "type": "landscape" },
+  { "cat": "country", "text": "Taxis have **multicoloured body panels** — fenders & quarter panels always **orange-yellow**", "src": ["plonkit"], "sv": null, "img": "ghana_taxis", "type": "general" },
+  { "cat": "country", "text": "Road lines always **white** (many paved roads have none); **wooden poles w/ 3 insulators** on a metal crossbar (Kenya similar)", "src": ["plonkit"], "sv": null, "img": "Ghana_poles", "type": "utility" },
+  { "cat": "country", "text": "Patriotic country — things painted **red/yellow/green (+ black star)**; B&W striped signposts in cities", "src": ["plonkit"], "sv": null, "img": "ghana_singposts", "type": "signs" },
+  { "cat": "region", "text": "Coverage limited (densest south: Accra/Kumasi); **3 tape types on the car** (unpeeled SW, peeled E/N, scotched N of Kumasi); north = savannah, SW/E = dense forest + palms", "src": ["plonkit"], "sv": null, "img": "The_Tape_Lore.png", "type": "cars" }
+ ]
+}

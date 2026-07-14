@@ -1,0 +1,18 @@
+{
+ "name": "Nigeria",
+ "slug": "nigeria",
+ "continent": "Africa",
+ "area_km2": 923768,
+ "links": { "plonkit": "https://www.plonkit.net/nigeria", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Coverage car = a **pickup truck** (cab + bed visible; Gen3 has a roof rack; sometimes a huge blur)", "src": ["plonkit"], "sv": null, "img": "qjpxa6d.png", "type": "cars" },
+  { "cat": "country", "text": "A **police follow car** (usually white or black) is almost always behind the Street View car", "src": ["plonkit"], "sv": null, "img": "JtDpCOs.png", "type": "cars" },
+  { "cat": "country", "text": "**Short plates** that look somewhat **green** through the blur", "src": ["plonkit"], "sv": null, "img": "0HpTmNo.png", "type": "plates" },
+  { "cat": "country", "text": "Poles concrete with **indents + a few horizontal supports** (like Brazil's, but no holes through them)", "src": ["plonkit"], "sv": null, "img": "P1Kv8TE.png", "type": "utility" },
+  { "cat": "country", "text": "Roads often **unmarked / faded / potholed / unpaved** (poorly maintained)", "src": ["plonkit"], "sv": null, "img": "suJRmbg.png", "type": "markings" },
+  { "cat": "country", "text": "Houses single-storey w/ **steep metal-sheet roofs** + cinder-block compound walls", "src": ["plonkit"], "sv": null, "img": "n5DCOsi.png", "type": "arch" },
+  { "cat": "country", "text": "**City & state names on storefronts and banners** → very useful for region-guessing", "src": ["plonkit"], "sv": null, "img": "3Ju14jr.png", "type": "naming" },
+  { "cat": "country", "text": "**Shitcam** (Nigeria is the only mainland-African country with it; 2023–25 coverage is extra low-quality, only otherwise in Lebanon)", "src": ["plonkit"], "sv": null, "img": "uhfdEzy.png", "type": "cars" },
+  { "cat": "region", "text": "Fairly flat; **Christian south / Muslim north**; climate tropical (S) → savannah (centre) → arid steppe (N); some states have yellow tuk-tuks; Kaduna haystacks; monolithic rocks around Abuja", "src": ["plonkit"], "sv": null, "img": "cvD28Vo.png", "type": "landscape" }
+ ]
+}

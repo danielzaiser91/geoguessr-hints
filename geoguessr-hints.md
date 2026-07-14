@@ -12,9 +12,9 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**58 / 136 countries.**
+**64 / 136 countries.**
 
-**Africa:** ⬜ Botswana ⬜ Egypt ⬜ Eswatini ⬜ Ghana ⬜ Kenya ⬜ Lesotho ⬜ Madagascar ⬜ Mali ⬜ Namibia ⬜ Nigeria ⬜ Reunion ⬜ Rwanda ⬜ Senegal ✅ South Africa ⬜ São Tomé and Príncipe ⬜ Tanzania ⬜ Tunisia ⬜ Uganda
+**Africa:** ⬜ Botswana ✅ Egypt ⬜ Eswatini ✅ Ghana ✅ Kenya ⬜ Lesotho ⬜ Madagascar ⬜ Mali ⬜ Namibia ✅ Nigeria ⬜ Reunion ⬜ Rwanda ⬜ Senegal ✅ South Africa ⬜ São Tomé and Príncipe ⬜ Tanzania ✅ Tunisia ✅ Uganda
 **Asia:** ✅ Bangladesh ⬜ Bhutan ⬜ British Indian Ocean Territory ⬜ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ⬜ Iraq ⬜ Israel & the West Bank ✅ Japan ⬜ Jordan ✅ Kazakhstan ⬜ Kyrgyzstan ⬜ Laos ⬜ Lebanon ⬜ Macau ✅ Malaysia ✅ Mongolia ✅ Nepal ⬜ Oman ⬜ Pakistan ✅ Philippines ⬜ Qatar ⬜ Singapore ✅ South Korea ✅ Sri Lanka ✅ Taiwan ✅ Thailand ✅ Turkey ⬜ United Arab Emirates ✅ Vietnam
 **Europe:** ⬜ Albania ⬜ Andorra ✅ Austria ⬜ Azores ⬜ Belarus ✅ Belgium ✅ Bulgaria ✅ Croatia ✅ Czechia ✅ Denmark ✅ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ⬜ Gibraltar ✅ Greece ✅ Hungary ✅ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ✅ Latvia ⬜ Liechtenstein ✅ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ✅ Romania ✅ Russia ⬜ San Marino ✅ Serbia ✅ Slovakia ✅ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
 **North America:** ⬜ Alaska ⬜ Bermuda ✅ Canada ⬜ Costa Rica ⬜ Dominican Republic ⬜ Greenland ⬜ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ⬜ Panama ⬜ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
@@ -45,6 +45,96 @@ Study: [Plonk It](https://www.plonkit.net/south-africa)
 | State | **Trident pole tops** almost unique to KwaZulu-Natal; sugarcane along the coast | [P](https://www.plonkit.net/south-africa) |  |
 | State | Poles with **1–2 metal arms** holding insulators most common here; '<'-shaped poles → NE provinces | [P](https://www.plonkit.net/south-africa) |  |
 | Special | **Kruger NP** = camo car + savanna (Mozambique border); Johannesburg poles plastered w/ dodgy adverts; **Table Mountain** flat plateau W of Cape Town | [P](https://www.plonkit.net/south-africa) |  |
+
+## Egypt
+Study: [Plonk It](https://www.plonkit.net/egypt)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Very sparse — **all Gen3 trekker** coverage (low camera, small blurs, no car shadow) at **7 historic sites** in Cairo & Alexandria | [P](https://www.plonkit.net/egypt) |  |
+| Country | Most buildings are **sandstone**; Arabic script (lines + dots) occasionally on signs | [P](https://www.plonkit.net/egypt) |  |
+| Special | **Giza pyramids** trekker (don't confuse with Memphis's glass pyramid) | [P](https://www.plonkit.net/egypt) |  |
+| Special | **Khafre valley temple** = rows of massive square pillars; **Djoser step pyramid** (stairs + scaffolding) south of Cairo | [P](https://www.plonkit.net/egypt) |  |
+| Special | **Cairo Citadel**: huge clean-cut sandstone walls + Ottoman **Mosque of Muhammad Ali** (grey domes, tall minarets) | [P](https://www.plonkit.net/egypt) |  |
+| Special | **Hanging Church** (Cairo, near Fustat): urban street + church spires w/ crosses, then interior courtyard w/ mosaics & two white spires | [P](https://www.plonkit.net/egypt) |  |
+| Special | **Alexandria — Qaitbay Citadel**: sandstone castle surrounded by thick walls | [P](https://www.plonkit.net/egypt) |  |
+| Special | **Saint Mina monastery** (palace-like, Christian spires/crosses) + **Abu Mena** excavation (small yellow wooden chapel) SW of Alexandria | [P](https://www.plonkit.net/egypt) |  |
+
+## Nigeria
+Study: [Plonk It](https://www.plonkit.net/nigeria)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Coverage car = a **pickup truck** (cab + bed visible; Gen3 has a roof rack; sometimes a huge blur) | [P](https://www.plonkit.net/nigeria) |  |
+| Country | A **police follow car** (usually white or black) is almost always behind the Street View car | [P](https://www.plonkit.net/nigeria) |  |
+| Country | **Short plates** that look somewhat **green** through the blur | [P](https://www.plonkit.net/nigeria) |  |
+| Country | Poles concrete with **indents + a few horizontal supports** (like Brazil's, but no holes through them) | [P](https://www.plonkit.net/nigeria) |  |
+| Country | Roads often **unmarked / faded / potholed / unpaved** (poorly maintained) | [P](https://www.plonkit.net/nigeria) |  |
+| Country | Houses single-storey w/ **steep metal-sheet roofs** + cinder-block compound walls | [P](https://www.plonkit.net/nigeria) |  |
+| Country | **City & state names on storefronts and banners** → very useful for region-guessing | [P](https://www.plonkit.net/nigeria) |  |
+| Country | **Shitcam** (Nigeria is the only mainland-African country with it; 2023–25 coverage is extra low-quality, only otherwise in Lebanon) | [P](https://www.plonkit.net/nigeria) |  |
+| Region | Fairly flat; **Christian south / Muslim north**; climate tropical (S) → savannah (centre) → arid steppe (N); some states have yellow tuk-tuks; Kaduna haystacks; monolithic rocks around Abuja | [P](https://www.plonkit.net/nigeria) |  |
+
+## Kenya
+Study: [Plonk It](https://www.plonkit.net/kenya)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Mostly **Gen4 pickup truck** (often blurred; sometimes a **snorkel** — only Kenya & Mongolia have Gen4 snorkels) | [P](https://www.plonkit.net/kenya) |  |
+| Country | Road lines: **outer always solid white**, inner **yellow** (solid or dashed) | [P](https://www.plonkit.net/kenya) |  |
+| Country | Poles concrete or wood with an **L-shaped crossbar** (a similar pole exists in Ghana) | [P](https://www.plonkit.net/kenya) |  |
+| Country | Plates **long white front / square yellow rear**; a grey Toyota SUV often **follows** the Street View car | [P](https://www.plonkit.net/kenya) |  |
+| Country | **Safaricom** (mobile-network brand) is unique to Kenya — almost every city has one | [P](https://www.plonkit.net/kenya) |  |
+| Country | Directional signs **green w/ white border & text** (road numbers white/yellow); other road signs mostly red/white | [P](https://www.plonkit.net/kenya) |  |
+| Country | **Repurposed vans** (matatus) found all over (Uganda's vehicle-wrap design differs) | [P](https://www.plonkit.net/kenya) |  |
+| Country | Many **eucalyptus** species (long clumped leaves, smooth bark); Gen3 = visible roof rack + snorkel (or no car) | [P](https://www.plonkit.net/kenya) |  |
+| Country | Pole markings often carry a **skull + danger** message | [P](https://www.plonkit.net/kenya) |  |
+| State | **County names on signs/billboards** → region; PO BOX **postcode** format (PO BOX XXX-**YYY**ZZ); east/north flat, SW higher; coastal coconut palms; red brick in the west + east of Nairobi | [P](https://www.plonkit.net/kenya) |  |
+
+## Uganda
+Study: [Plonk It](https://www.plonkit.net/uganda)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Very limited coverage: **Kampala + Entebbe + national parks**; drives on the **left** | [P](https://www.plonkit.net/uganda) |  |
+| Country | Plates **white front / yellow rear** (long or tall) | [P](https://www.plonkit.net/uganda) |  |
+| Region | **Kampala** Google car: white, square side mirrors, boxy — unique to Kampala & its outskirts | [P](https://www.plonkit.net/uganda) |  |
+| Region | Kampala = busy, narrow unpaved roads, small 1-storey houses w/ walls + barbed wire; **red soil** even on paved roads; very **hilly** | [P](https://www.plonkit.net/uganda) |  |
+| Region | Kampala **taxi buses w/ a blue blocky pattern**; city-centre = black-and-white curbs + multi-storey buildings | [P](https://www.plonkit.net/uganda) |  |
+| Region | **Entebbe** (SW of Kampala): emptier, greener, fancier houses, noticeably more street signs | [P](https://www.plonkit.net/uganda) |  |
+| Region | National-park car = like Kampala's but with a **black bar along the front** (often not visible) | [P](https://www.plonkit.net/uganda) |  |
+| Special | **Kidepo NP** (NE) = savannah w/ mountains all around (a wide mountain to the north) | [P](https://www.plonkit.net/uganda) |  |
+| Special | Parks differ: **Murchison Falls** (low dirt road-barriers, palms north), **Lake Mburo** (driest, dried grass), **Kibale/Semuliki** (dense humid forest paths), **Queen Elizabeth** (non-red dirt) | [P](https://www.plonkit.net/uganda) |  |
+
+## Ghana
+Study: [Plonk It](https://www.plonkit.net/ghana)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Gen3 unique car: **roof rack w/ black tape** on the right end + hood **wrap w/ a red rectangle** — usually enough to ID Ghana | [P](https://www.plonkit.net/ghana) |  |
+| Country | Gen4 = grey or white **pickup truck w/ a front antenna** (usually blurred) | [P](https://www.plonkit.net/ghana) |  |
+| Country | Plates **white (private) / yellow (commercial)**, long or short (Nigeria's white plates have a green tint) | [P](https://www.plonkit.net/ghana) |  |
+| Country | Mostly **flat, red soil**; tropical vegetation, palms common toward the south | [P](https://www.plonkit.net/ghana) |  |
+| Country | Taxis have **multicoloured body panels** — fenders & quarter panels always **orange-yellow** | [P](https://www.plonkit.net/ghana) |  |
+| Country | Road lines always **white** (many paved roads have none); **wooden poles w/ 3 insulators** on a metal crossbar (Kenya similar) | [P](https://www.plonkit.net/ghana) |  |
+| Country | Patriotic country — things painted **red/yellow/green (+ black star)**; B&W striped signposts in cities | [P](https://www.plonkit.net/ghana) |  |
+| Region | Coverage limited (densest south: Accra/Kumasi); **3 tape types on the car** (unpeeled SW, peeled E/N, scotched N of Kumasi); north = savannah, SW/E = dense forest + palms | [P](https://www.plonkit.net/ghana) |  |
+
+## Tunisia
+Study: [Plonk It](https://www.plonkit.net/tunisia)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates **black w/ white text** (military plates have a small Tunisian flag on the left) | [P](https://www.plonkit.net/tunisia) |  |
+| Country | A **follow car** escorts the Google car in most coverage (can be ahead or far behind — pan & zoom to find it) | [P](https://www.plonkit.net/tunisia) |  |
+| Country | Google car is **black with a medium-length thin antenna** | [P](https://www.plonkit.net/tunisia) |  |
+| Country | **Olive-tree plantations** in neat rows on raked, weedless soil; road lines white (outer dashed or solid) | [P](https://www.plonkit.net/tunisia) |  |
+| Country | **French + Arabic** common — often bilingual signs; distinctive Latin font | [P](https://www.plonkit.net/tunisia) |  |
+| Country | Direction signs white bg, towns in Arabic + Latin (Tunis often listed even far away) | [P](https://www.plonkit.net/tunisia) |  |
+| Country | Traditional **blue** doors/windows/gates (esp. on Djerba); red-and-white striped curbs (also Israel/Palestine) | [P](https://www.plonkit.net/tunisia) |  |
+| Country | White concrete **markers w/ a rounded red/yellow/green top** (distances + road number → pinpoint) | [P](https://www.plonkit.net/tunisia) |  |
+| Country | Fairly unique **stop sign** with Arabic + Latin (Jordan/UAE similar; Israel/Palestine use a hand) | [P](https://www.plonkit.net/tunisia) |  |
+| Region | Coverage mostly **east coast** (Bizerte→Medenine); **follow-car type = region** (light-green Toyota north, dark-green Mazda Hammamet→Djerba, Kairouan white Mitsubishi, **Djerba = no follow car**); N Mediterranean/hilly, centre flat/arid, S desert | [P](https://www.plonkit.net/tunisia) |  |
 
 # Asia
 
