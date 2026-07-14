@@ -702,6 +702,127 @@
    ]
   },
   {
+   "name": "Bolivia",
+   "slug": "bolivia",
+   "continent": "South America",
+   "area_km2": 1098581,
+   "links": {
+    "plonkit": "https://www.plonkit.net/bolivia",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plates **short, white w/ blue text** (blue hard to see → often looks plain white)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "1_licenceplate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Only **Gen3**, a solid **white car, no antenna** (in Latin America also Peru & Chile)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "1_googlecar.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Buildings often **large red brick w/ an 'unfinished' look** (also common in parts of Peru)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "1_redbrick.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "Middle lines yellow / white / **mixed**, outer always white (Chile never mixes; Peru often has outer-only roads)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "1_roadlines.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "Concrete-slab + **cobblestone roads** (neat stone lines separating disorganised cobbles in between)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "1_cobblestoneroad.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "**Bulky white square signposts** (Peru uses black-and-white 'zebra' signposts)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "1_signpost.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Guardrail markings with **yellow stripes on the outside** (Peru = inverse, black outside)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "1_guardrailmarking.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Poles inconsistent (round concrete w/ pinholes + wooden); **extremely curvy wooden poles** (east) are a great Bolivia clue",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "1_scuffedpole.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "km markers = **black top ('Km') / white bottom**, no road number (Argentina's have a road number)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "1_kmmarker.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Traditional dress (bowler hats, pollera skirts); **MAS/Evo** graffiti + party colours (black/white/blue); **Wiphala** flag; **Tigo** telecom (not in Peru)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "1_MASandEVO.png",
+     "type": "general"
+    },
+    {
+     "cat": "region",
+     "text": "Coverage limited to central & central-west (6 cities: La Paz/El Alto, Cochabamba, Oruro, Sucre, Potosí, Santa Cruz); **Altiplano** plateau (tufted 'hedgehog' grass), lusher north / arider south; reddish soil",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "type": "landscape"
+    }
+   ]
+  },
+  {
    "name": "Brazil",
    "slug": "brazil",
    "continent": "South America",
@@ -1589,6 +1710,118 @@
    ]
   },
   {
+   "name": "Costa Rica",
+   "slug": "costa-rica",
+   "continent": "North America",
+   "area_km2": 51100,
+   "links": {
+    "plonkit": "https://www.plonkit.net/costa-rica",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Gen4 = large white pickup w/ a **front antenna** (Panama's truck is almost always fully blurred; Ecuador's has no antenna)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gMohL0F.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Plates short white w/ blue text → a **light-blue tint** through the blur",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "cr_licence_plate_new.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Lush tropical: rolling hills, agricultural lowlands, **peaky volcanoes down the centre**, dense rainforest",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "cr_landscape",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Architecture less colonial than Panama: **dark-red sheet-metal / plastic-tile roofs**, pastel concrete, heavily barred windows & fences",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "cr_architecture",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "Spanish; stop sign says **\"ALTO\"** (Panama = thicker font; rest of Spanish LatAm = \"PARE\")",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "cr_alto_new.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**Red taxis** are standard (Panama uses yellow taxis)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "cr_red_taxi.png",
+     "type": "general"
+    },
+    {
+     "cat": "country",
+     "text": "Poles: **long silver insulators**; low crossbar w/ 2-on-1 insulators + support bars; L-bent thin metal crossbars",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "cr_crossbar",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Utility lamps often have a **blue dot** on top (also PA/CO/BR)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "cr_lamp",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Road signs often have a **cross on the back** (esp. diamond warnings); 'bollard' = a vertical **orange board w/ 3 black circles**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "dL93E6u.png",
+     "type": "signs"
+    },
+    {
+     "cat": "region",
+     "text": "**Imperial beer** ads (black-eagle mascot); circular electricity counters; **pole stickers** province-specific (first digit); yellow pole-paint style varies by province",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "cr_reflectors",
+     "type": "general"
+    }
+   ]
+  },
+  {
    "name": "Croatia",
    "slug": "croatia",
    "continent": "Europe",
@@ -2044,6 +2277,127 @@
      ],
      "sv": null,
      "img": "Anholt_Generation_2.png",
+     "type": "landscape"
+    }
+   ]
+  },
+  {
+   "name": "Ecuador",
+   "slug": "ecuador",
+   "continent": "South America",
+   "area_km2": 283561,
+   "links": {
+    "plonkit": "https://www.plonkit.net/ecuador",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Plates white, a **mix of short & long** (unique in Latin America); commercial = **orange** (solid or an orange top bar)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Ecuador_License_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Gen3 white car w/ a **stubby antenna** (also MX/BR/CO); Gen4 white pickup w/ **black trunk, no antenna** (Panama/Costa Rica have a front antenna)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ec_antenna.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "**Shitcam** — Ecuador is the only Latin American country with it (wide blur, brownish, sometimes a red logo up front)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "ecua_shitcam_with_logo.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "**Bollards very common** (rare in LatAm): round w/ 2 red stripes, or flat w/ 2 red reflectors on black",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Bollards-EC.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "country",
+     "text": "**Ladder poles** (many small indents) — ~unique in Latin America (Brazil's waffle poles have only a few)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Ecua_poles.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Concrete roads common; **double guardrails** very common (rare elsewhere in South America)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Double_guardrails.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "**Chevron spam** in curves — noticeably more than most Latin American countries",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Chevron_spam2.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Lots of square white road signs; km markers **green w/ the Ecuadorian highway shield**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Square_signs.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**Teal-blue sign backs** (only LatAm country to use them); one/two-way signs w/ text inside the arrow (also DR/PR)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Teal_sign_back.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Houses mostly **grey brick + metal roofs** (Peru/Bolivia use red brick); hexagonal-tile pavement in cities",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "round__281_29.png",
+     "type": "arch"
+    },
+    {
+     "cat": "region",
+     "text": "Coverage western (Amazon mostly uncovered; + Galápagos trekker); **Andes** run down the middle, flat E/W; **'high antenna' = northern half**; banana plantations SW",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
      "type": "landscape"
     }
    ]
@@ -3000,6 +3354,108 @@
       "plonkit"
      ],
      "sv": null,
+     "type": "naming"
+    }
+   ]
+  },
+  {
+   "name": "Guatemala",
+   "slug": "guatemala",
+   "continent": "North America",
+   "area_km2": 108889,
+   "links": {
+    "plonkit": "https://www.plonkit.net/guatemala",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Short plates that show a **blue tinge or a hint of green on the left** through the blur",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gt_licenceplate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "**Grey car w/ a visible roof rack + side mirrors** on all car coverage (Laos similar; DR's car has black bar-stripes)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gt_googlecar.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Tropical, mostly **rainforest**; pastel stone houses w/ **rusted sheet-metal roofs** + exposed white brick",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gt_architecture.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "Roads: solid white outer + single yellow middle, **thinner than Mexico's**; stop sign says **\"ALTO\"** (like MX/PA/CR)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gt_roadlines.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "Utility poles very commonly painted **pink, green, or both**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gt_polepaint.png",
+     "type": "utility"
+    },
+    {
+     "cat": "region",
+     "text": "**Green utility poles** → SE + far NE; white **pole plates** (top two characters = which road you're on)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gt_greenpoles.png",
+     "type": "utility"
+    },
+    {
+     "cat": "region",
+     "text": "Middle of the country **mountainous**; south = flat & built-up; north = fairly flat / slightly rolling",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gt_topography.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "region",
+     "text": "Oil-palm plantations SW + just north of the central mountains; **Lago de Atitlán** = big lake ringed by mountains & volcanoes",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gt_oilpalm.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "special",
+     "text": "Phone: **2 = Guatemala City, 6 = Guatemala Dept**; **Tikal** Mayan-temple trekker (far north); 'electricista' stickers = Guatemala City",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "gt_coverage.png",
      "type": "naming"
     }
    ]
@@ -5598,6 +6054,118 @@
      "sv": null,
      "img": "no_roros.png",
      "type": "arch"
+    }
+   ]
+  },
+  {
+   "name": "Panama",
+   "slug": "panama",
+   "continent": "North America",
+   "area_km2": 75417,
+   "links": {
+    "plonkit": "https://www.plonkit.net/panama",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Short plates, usually white w/ a **turquoise strip on top**; front plates not required",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "2.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "**White pickup, usually fully blurred** (antenna occasionally visible; Costa Rica's truck is unblurred, Ecuador's has no antenna/railing)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "PanamaCar.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "Tropical w/ **lots of hills**, palms + drier rolling fields",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "4.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Roads often paralleled by **fences made partly of small living trees** (rest of the posts wooden)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "5.png",
+     "type": "general"
+    },
+    {
+     "cat": "country",
+     "text": "Spanish-colonial architecture: vibrant colours, red metal/tile roofs, barred windows",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "6.png",
+     "type": "arch"
+    },
+    {
+     "cat": "country",
+     "text": "Road lines: usually solid outer white + inner yellow; **solid outer white w/ NO middle line ≈ unique to Panama** in LatAm",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "7.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "Poles mostly round concrete (varying insulators), often w/ plates + blue/white/red painted numbers",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "8.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "**Yellow taxis w/ a chequerboard stripe** (plate drawn on the side w/ city name + regional code)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "9.png",
+     "type": "general"
+    },
+    {
+     "cat": "country",
+     "text": "Stop sign **\"ALTO\"** (thicker font than MX/CR/GT); **red octagonal sign w/ an oddly realistic eye** = unique to Panama",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "11.png",
+     "type": "signs"
+    },
+    {
+     "cat": "region",
+     "text": "Coverage sparse on the north coast + east of Panama City; **phone & taxi-plate first digit = region**; David flat, Changuinola bananas, Panama City white high-rises",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "12.png",
+     "type": "naming"
     }
    ]
   },
@@ -8618,6 +9186,118 @@
    ]
   },
   {
+   "name": "Uruguay",
+   "slug": "uruguay",
+   "continent": "South America",
+   "area_km2": 176215,
+   "links": {
+    "plonkit": "https://www.plonkit.net/uruguay",
+    "geoguessr": null
+   },
+   "hints": [
+    {
+     "cat": "country",
+     "text": "Vibe: often overcast, **open grasslands + gentle hills**, roads in worse condition than neighbours",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Uruguay_vibe.png",
+     "type": "landscape"
+    },
+    {
+     "cat": "country",
+     "text": "Plates **plain white w/ black characters** (Argentina's have a black dot in the middle or a blue top bar)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Uruguay_License_Plate.png",
+     "type": "plates"
+    },
+    {
+     "cat": "country",
+     "text": "Only **Gen3, black car, no antenna** (also AR/PE in S. America); camera often **smudgy** (rarer in Argentina)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Car_meta.png",
+     "type": "cars"
+    },
+    {
+     "cat": "country",
+     "text": "**Thick white wooden signposts** with up to four rectangular notches at the back (also Bolivia)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Signposts.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "**Triple road lines** = double yellow with white dashes between — a design not seen anywhere else in the Americas",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Triple_road_lines.png",
+     "type": "markings"
+    },
+    {
+     "cat": "country",
+     "text": "**White bollards** (one side often painted yellow) + stone barriers — specific to Uruguay",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Bollards_and_barriers.png",
+     "type": "bollards"
+    },
+    {
+     "cat": "country",
+     "text": "**Trident poles** (3 upward-pointing insulators; also RS Brazil); plus round poles w/ flat-metal tops & square concrete poles",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Trident_pole.png",
+     "type": "utility"
+    },
+    {
+     "cat": "country",
+     "text": "Guardrail support = 3 sides **+ corner bits of the 4th** (Argentina just 3 sides); green-painted **stone km marker** (unique)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Road_marker.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Chevrons **yellow w/ black arrows** (Argentina uniquely = white w/ red); **reddish soil** common (a good clue vs Argentina)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Chevron.png",
+     "type": "signs"
+    },
+    {
+     "cat": "country",
+     "text": "Houses **cube-shaped concrete**, drab & weathered, flat roofs common; short stocky palms; **cattle everywhere** (≈4:1 vs people)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "img": "Hilly_landscape.png",
+     "type": "arch"
+    }
+   ]
+  },
+  {
    "name": "United States",
    "slug": "usa",
    "continent": "North America",
@@ -9397,7 +10077,7 @@
   "Antarctica"
  ],
  "counts": {
-  "done": 64,
+  "done": 70,
   "total": 136
  }
 }

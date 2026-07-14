@@ -1,0 +1,19 @@
+{
+ "name": "Panama",
+ "slug": "panama",
+ "continent": "North America",
+ "area_km2": 75417,
+ "links": { "plonkit": "https://www.plonkit.net/panama", "geoguessr": null },
+ "hints": [
+  { "cat": "country", "text": "Short plates, usually white w/ a **turquoise strip on top**; front plates not required", "src": ["plonkit"], "sv": null, "img": "2.png", "type": "plates" },
+  { "cat": "country", "text": "**White pickup, usually fully blurred** (antenna occasionally visible; Costa Rica's truck is unblurred, Ecuador's has no antenna/railing)", "src": ["plonkit"], "sv": null, "img": "PanamaCar.png", "type": "cars" },
+  { "cat": "country", "text": "Tropical w/ **lots of hills**, palms + drier rolling fields", "src": ["plonkit"], "sv": null, "img": "4.png", "type": "landscape" },
+  { "cat": "country", "text": "Roads often paralleled by **fences made partly of small living trees** (rest of the posts wooden)", "src": ["plonkit"], "sv": null, "img": "5.png", "type": "general" },
+  { "cat": "country", "text": "Spanish-colonial architecture: vibrant colours, red metal/tile roofs, barred windows", "src": ["plonkit"], "sv": null, "img": "6.png", "type": "arch" },
+  { "cat": "country", "text": "Road lines: usually solid outer white + inner yellow; **solid outer white w/ NO middle line ≈ unique to Panama** in LatAm", "src": ["plonkit"], "sv": null, "img": "7.png", "type": "markings" },
+  { "cat": "country", "text": "Poles mostly round concrete (varying insulators), often w/ plates + blue/white/red painted numbers", "src": ["plonkit"], "sv": null, "img": "8.png", "type": "utility" },
+  { "cat": "country", "text": "**Yellow taxis w/ a chequerboard stripe** (plate drawn on the side w/ city name + regional code)", "src": ["plonkit"], "sv": null, "img": "9.png", "type": "general" },
+  { "cat": "country", "text": "Stop sign **\"ALTO\"** (thicker font than MX/CR/GT); **red octagonal sign w/ an oddly realistic eye** = unique to Panama", "src": ["plonkit"], "sv": null, "img": "11.png", "type": "signs" },
+  { "cat": "region", "text": "Coverage sparse on the north coast + east of Panama City; **phone & taxi-plate first digit = region**; David flat, Changuinola bananas, Panama City white high-rises", "src": ["plonkit"], "sv": null, "img": "12.png", "type": "naming" }
+ ]
+}

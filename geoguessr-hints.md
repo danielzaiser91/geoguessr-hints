@@ -12,13 +12,13 @@ Countries are grouped by continent, ordered biggest → smallest by area. Per-co
 
 ✅ = done · ⬜ = to do
 
-**64 / 136 countries.**
+**70 / 136 countries.**
 
 **Africa:** ⬜ Botswana ✅ Egypt ⬜ Eswatini ✅ Ghana ✅ Kenya ⬜ Lesotho ⬜ Madagascar ⬜ Mali ⬜ Namibia ✅ Nigeria ⬜ Reunion ⬜ Rwanda ⬜ Senegal ✅ South Africa ⬜ São Tomé and Príncipe ⬜ Tanzania ✅ Tunisia ✅ Uganda
 **Asia:** ✅ Bangladesh ⬜ Bhutan ⬜ British Indian Ocean Territory ⬜ Cambodia ✅ China ⬜ Cyprus ⬜ Hong Kong ✅ India ✅ Indonesia ⬜ Iraq ⬜ Israel & the West Bank ✅ Japan ⬜ Jordan ✅ Kazakhstan ⬜ Kyrgyzstan ⬜ Laos ⬜ Lebanon ⬜ Macau ✅ Malaysia ✅ Mongolia ✅ Nepal ⬜ Oman ⬜ Pakistan ✅ Philippines ⬜ Qatar ⬜ Singapore ✅ South Korea ✅ Sri Lanka ✅ Taiwan ✅ Thailand ✅ Turkey ⬜ United Arab Emirates ✅ Vietnam
 **Europe:** ⬜ Albania ⬜ Andorra ✅ Austria ⬜ Azores ⬜ Belarus ✅ Belgium ✅ Bulgaria ✅ Croatia ✅ Czechia ✅ Denmark ✅ Estonia ⬜ Faroe Islands ✅ Finland ✅ France ✅ Germany ⬜ Gibraltar ✅ Greece ✅ Hungary ✅ Iceland ✅ Ireland ⬜ Isle of Man ✅ Italy ⬜ Jersey ✅ Latvia ⬜ Liechtenstein ✅ Lithuania ⬜ Luxembourg ⬜ Madeira ⬜ Malta ⬜ Monaco ⬜ Montenegro ✅ Netherlands ⬜ North Macedonia ✅ Norway ✅ Poland ✅ Portugal ✅ Romania ✅ Russia ⬜ San Marino ✅ Serbia ✅ Slovakia ✅ Slovenia ✅ Spain ⬜ Svalbard ✅ Sweden ✅ Switzerland ✅ Ukraine ✅ United Kingdom
-**North America:** ⬜ Alaska ⬜ Bermuda ✅ Canada ⬜ Costa Rica ⬜ Dominican Republic ⬜ Greenland ⬜ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ⬜ Panama ⬜ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
-**South America:** ✅ Argentina ⬜ Bolivia ✅ Brazil ✅ Chile ✅ Colombia ⬜ Curaçao ⬜ Ecuador ⬜ Falkland Islands ✅ Peru ⬜ Uruguay
+**North America:** ⬜ Alaska ⬜ Bermuda ✅ Canada ✅ Costa Rica ⬜ Dominican Republic ⬜ Greenland ✅ Guatemala ⬜ Hawaii ⬜ Martinique ✅ Mexico ✅ Panama ⬜ Puerto Rico ⬜ Saint Pierre and Miquelon ⬜ US Minor Outlying Islands ⬜ US Virgin Islands ✅ United States
+**South America:** ✅ Argentina ✅ Bolivia ✅ Brazil ✅ Chile ✅ Colombia ⬜ Curaçao ✅ Ecuador ⬜ Falkland Islands ✅ Peru ✅ Uruguay
 **Oceania:** ⬜ American Samoa ✅ Australia ⬜ Christmas Island ⬜ Cocos Islands ⬜ Guam ✅ New Zealand ⬜ Northern Mariana Islands ⬜ Pitcairn Islands ⬜ Vanuatu
 **Antarctica:** ⬜ Antarctica ⬜ South Georgia & Sandwich Islands
 
@@ -1130,6 +1130,53 @@ Study: [Plonk It](https://www.plonkit.net/mexico)
 | State | **Jalisco bollards** have a crown + "Jalisco" text (only Mexican bollard with writing) | [P](https://www.plonkit.net/mexico) |  |
 | Special | Bollards w/ red band near top → Nayarit; thick cross on sign backs → Chihuahua | [P](https://www.plonkit.net/mexico) |  |
 
+## Guatemala
+Study: [Plonk It](https://www.plonkit.net/guatemala)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Short plates that show a **blue tinge or a hint of green on the left** through the blur | [P](https://www.plonkit.net/guatemala) |  |
+| Country | **Grey car w/ a visible roof rack + side mirrors** on all car coverage (Laos similar; DR's car has black bar-stripes) | [P](https://www.plonkit.net/guatemala) |  |
+| Country | Tropical, mostly **rainforest**; pastel stone houses w/ **rusted sheet-metal roofs** + exposed white brick | [P](https://www.plonkit.net/guatemala) |  |
+| Country | Roads: solid white outer + single yellow middle, **thinner than Mexico's**; stop sign says **"ALTO"** (like MX/PA/CR) | [P](https://www.plonkit.net/guatemala) |  |
+| Country | Utility poles very commonly painted **pink, green, or both** | [P](https://www.plonkit.net/guatemala) |  |
+| Region | **Green utility poles** → SE + far NE; white **pole plates** (top two characters = which road you're on) | [P](https://www.plonkit.net/guatemala) |  |
+| Region | Middle of the country **mountainous**; south = flat & built-up; north = fairly flat / slightly rolling | [P](https://www.plonkit.net/guatemala) |  |
+| Region | Oil-palm plantations SW + just north of the central mountains; **Lago de Atitlán** = big lake ringed by mountains & volcanoes | [P](https://www.plonkit.net/guatemala) |  |
+| Special | Phone: **2 = Guatemala City, 6 = Guatemala Dept**; **Tikal** Mayan-temple trekker (far north); 'electricista' stickers = Guatemala City | [P](https://www.plonkit.net/guatemala) |  |
+
+## Panama
+Study: [Plonk It](https://www.plonkit.net/panama)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Short plates, usually white w/ a **turquoise strip on top**; front plates not required | [P](https://www.plonkit.net/panama) |  |
+| Country | **White pickup, usually fully blurred** (antenna occasionally visible; Costa Rica's truck is unblurred, Ecuador's has no antenna/railing) | [P](https://www.plonkit.net/panama) |  |
+| Country | Tropical w/ **lots of hills**, palms + drier rolling fields | [P](https://www.plonkit.net/panama) |  |
+| Country | Roads often paralleled by **fences made partly of small living trees** (rest of the posts wooden) | [P](https://www.plonkit.net/panama) |  |
+| Country | Spanish-colonial architecture: vibrant colours, red metal/tile roofs, barred windows | [P](https://www.plonkit.net/panama) |  |
+| Country | Road lines: usually solid outer white + inner yellow; **solid outer white w/ NO middle line ≈ unique to Panama** in LatAm | [P](https://www.plonkit.net/panama) |  |
+| Country | Poles mostly round concrete (varying insulators), often w/ plates + blue/white/red painted numbers | [P](https://www.plonkit.net/panama) |  |
+| Country | **Yellow taxis w/ a chequerboard stripe** (plate drawn on the side w/ city name + regional code) | [P](https://www.plonkit.net/panama) |  |
+| Country | Stop sign **"ALTO"** (thicker font than MX/CR/GT); **red octagonal sign w/ an oddly realistic eye** = unique to Panama | [P](https://www.plonkit.net/panama) |  |
+| Region | Coverage sparse on the north coast + east of Panama City; **phone & taxi-plate first digit = region**; David flat, Changuinola bananas, Panama City white high-rises | [P](https://www.plonkit.net/panama) |  |
+
+## Costa Rica
+Study: [Plonk It](https://www.plonkit.net/costa-rica)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Gen4 = large white pickup w/ a **front antenna** (Panama's truck is almost always fully blurred; Ecuador's has no antenna) | [P](https://www.plonkit.net/costa-rica) |  |
+| Country | Plates short white w/ blue text → a **light-blue tint** through the blur | [P](https://www.plonkit.net/costa-rica) |  |
+| Country | Lush tropical: rolling hills, agricultural lowlands, **peaky volcanoes down the centre**, dense rainforest | [P](https://www.plonkit.net/costa-rica) |  |
+| Country | Architecture less colonial than Panama: **dark-red sheet-metal / plastic-tile roofs**, pastel concrete, heavily barred windows & fences | [P](https://www.plonkit.net/costa-rica) |  |
+| Country | Spanish; stop sign says **"ALTO"** (Panama = thicker font; rest of Spanish LatAm = "PARE") | [P](https://www.plonkit.net/costa-rica) |  |
+| Country | **Red taxis** are standard (Panama uses yellow taxis) | [P](https://www.plonkit.net/costa-rica) |  |
+| Country | Poles: **long silver insulators**; low crossbar w/ 2-on-1 insulators + support bars; L-bent thin metal crossbars | [P](https://www.plonkit.net/costa-rica) |  |
+| Country | Utility lamps often have a **blue dot** on top (also PA/CO/BR) | [P](https://www.plonkit.net/costa-rica) |  |
+| Country | Road signs often have a **cross on the back** (esp. diamond warnings); 'bollard' = a vertical **orange board w/ 3 black circles** | [P](https://www.plonkit.net/costa-rica) |  |
+| Region | **Imperial beer** ads (black-eagle mascot); circular electricity counters; **pole stickers** province-specific (first digit); yellow pole-paint style varies by province | [P](https://www.plonkit.net/costa-rica) |  |
+
 # South America
 
 ## Brazil
@@ -1214,6 +1261,23 @@ Study: [Plonk It](https://www.plonkit.net/colombia)
 | State | Pole markings = short black strip top & bottom + longer **yellow middle** → Antioquia (sometimes Córdoba) | [P](https://www.plonkit.net/colombia) |  |
 | Special | **Barranquilla** intersections marked by concrete **mojones** (street-name posts); San Andrés = white car, Providencia = grey truck | [P](https://www.plonkit.net/colombia) |  |
 
+## Bolivia
+Study: [Plonk It](https://www.plonkit.net/bolivia)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates **short, white w/ blue text** (blue hard to see → often looks plain white) | [P](https://www.plonkit.net/bolivia) |  |
+| Country | Only **Gen3**, a solid **white car, no antenna** (in Latin America also Peru & Chile) | [P](https://www.plonkit.net/bolivia) |  |
+| Country | Buildings often **large red brick w/ an 'unfinished' look** (also common in parts of Peru) | [P](https://www.plonkit.net/bolivia) |  |
+| Country | Middle lines yellow / white / **mixed**, outer always white (Chile never mixes; Peru often has outer-only roads) | [P](https://www.plonkit.net/bolivia) |  |
+| Country | Concrete-slab + **cobblestone roads** (neat stone lines separating disorganised cobbles in between) | [P](https://www.plonkit.net/bolivia) |  |
+| Country | **Bulky white square signposts** (Peru uses black-and-white 'zebra' signposts) | [P](https://www.plonkit.net/bolivia) |  |
+| Country | Guardrail markings with **yellow stripes on the outside** (Peru = inverse, black outside) | [P](https://www.plonkit.net/bolivia) |  |
+| Country | Poles inconsistent (round concrete w/ pinholes + wooden); **extremely curvy wooden poles** (east) are a great Bolivia clue | [P](https://www.plonkit.net/bolivia) |  |
+| Country | km markers = **black top ('Km') / white bottom**, no road number (Argentina's have a road number) | [P](https://www.plonkit.net/bolivia) |  |
+| Country | Traditional dress (bowler hats, pollera skirts); **MAS/Evo** graffiti + party colours (black/white/blue); **Wiphala** flag; **Tigo** telecom (not in Peru) | [P](https://www.plonkit.net/bolivia) |  |
+| Region | Coverage limited to central & central-west (6 cities: La Paz/El Alto, Cochabamba, Oruro, Sucre, Potosí, Santa Cruz); **Altiplano** plateau (tufted 'hedgehog' grass), lusher north / arider south; reddish soil | [P](https://www.plonkit.net/bolivia) |  |
+
 ## Chile
 Study: [Plonk It](https://www.plonkit.net/chile)
 
@@ -1231,6 +1295,39 @@ Study: [Plonk It](https://www.plonkit.net/chile)
 | Region | Radiata (**Concepción**) pines w/ puffy needles → Biobío; **monkey-puzzle** trees → far-E Araucanía; narrow tree-lined roads → Biobío/Araucanía | [P](https://www.plonkit.net/chile) |  |
 | State | Road naming: **first letter A→Y from north→south**; area codes memorable & regional | [P](https://www.plonkit.net/chile) |  |
 | Special | **Triple yellow lines** common in national parks/reserves; all-yellow on concrete → Magallanes (barren treeless far south) | [P](https://www.plonkit.net/chile) |  |
+
+## Ecuador
+Study: [Plonk It](https://www.plonkit.net/ecuador)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Plates white, a **mix of short & long** (unique in Latin America); commercial = **orange** (solid or an orange top bar) | [P](https://www.plonkit.net/ecuador) |  |
+| Country | Gen3 white car w/ a **stubby antenna** (also MX/BR/CO); Gen4 white pickup w/ **black trunk, no antenna** (Panama/Costa Rica have a front antenna) | [P](https://www.plonkit.net/ecuador) |  |
+| Country | **Shitcam** — Ecuador is the only Latin American country with it (wide blur, brownish, sometimes a red logo up front) | [P](https://www.plonkit.net/ecuador) |  |
+| Country | **Bollards very common** (rare in LatAm): round w/ 2 red stripes, or flat w/ 2 red reflectors on black | [P](https://www.plonkit.net/ecuador) |  |
+| Country | **Ladder poles** (many small indents) — ~unique in Latin America (Brazil's waffle poles have only a few) | [P](https://www.plonkit.net/ecuador) |  |
+| Country | Concrete roads common; **double guardrails** very common (rare elsewhere in South America) | [P](https://www.plonkit.net/ecuador) |  |
+| Country | **Chevron spam** in curves — noticeably more than most Latin American countries | [P](https://www.plonkit.net/ecuador) |  |
+| Country | Lots of square white road signs; km markers **green w/ the Ecuadorian highway shield** | [P](https://www.plonkit.net/ecuador) |  |
+| Country | **Teal-blue sign backs** (only LatAm country to use them); one/two-way signs w/ text inside the arrow (also DR/PR) | [P](https://www.plonkit.net/ecuador) |  |
+| Country | Houses mostly **grey brick + metal roofs** (Peru/Bolivia use red brick); hexagonal-tile pavement in cities | [P](https://www.plonkit.net/ecuador) |  |
+| Region | Coverage western (Amazon mostly uncovered; + Galápagos trekker); **Andes** run down the middle, flat E/W; **'high antenna' = northern half**; banana plantations SW | [P](https://www.plonkit.net/ecuador) |  |
+
+## Uruguay
+Study: [Plonk It](https://www.plonkit.net/uruguay)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Vibe: often overcast, **open grasslands + gentle hills**, roads in worse condition than neighbours | [P](https://www.plonkit.net/uruguay) |  |
+| Country | Plates **plain white w/ black characters** (Argentina's have a black dot in the middle or a blue top bar) | [P](https://www.plonkit.net/uruguay) |  |
+| Country | Only **Gen3, black car, no antenna** (also AR/PE in S. America); camera often **smudgy** (rarer in Argentina) | [P](https://www.plonkit.net/uruguay) |  |
+| Country | **Thick white wooden signposts** with up to four rectangular notches at the back (also Bolivia) | [P](https://www.plonkit.net/uruguay) |  |
+| Country | **Triple road lines** = double yellow with white dashes between — a design not seen anywhere else in the Americas | [P](https://www.plonkit.net/uruguay) |  |
+| Country | **White bollards** (one side often painted yellow) + stone barriers — specific to Uruguay | [P](https://www.plonkit.net/uruguay) |  |
+| Country | **Trident poles** (3 upward-pointing insulators; also RS Brazil); plus round poles w/ flat-metal tops & square concrete poles | [P](https://www.plonkit.net/uruguay) |  |
+| Country | Guardrail support = 3 sides **+ corner bits of the 4th** (Argentina just 3 sides); green-painted **stone km marker** (unique) | [P](https://www.plonkit.net/uruguay) |  |
+| Country | Chevrons **yellow w/ black arrows** (Argentina uniquely = white w/ red); **reddish soil** common (a good clue vs Argentina) | [P](https://www.plonkit.net/uruguay) |  |
+| Country | Houses **cube-shaped concrete**, drab & weathered, flat roofs common; short stocky palms; **cattle everywhere** (≈4:1 vs people) | [P](https://www.plonkit.net/uruguay) |  |
 
 # Oceania
 
