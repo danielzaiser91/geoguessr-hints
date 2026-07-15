@@ -7266,7 +7266,7 @@
    "area_km2": 1904569,
    "links": {
     "plonkit": "https://www.plonkit.net/indonesia",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/619086606e5572000185a1db"
    },
    "videos": [
     {
@@ -7287,145 +7287,599 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Plates **black w/ white letters** (3 white sections through blur); commercial = yellow; newer = white (Malaysia = 2 sections)",
+     "type": "plates",
+     "text": "Plates **black with white text** — usually **three white sections** through the blur (commercial = yellow; newer coverage can be white)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "M7aC",
      "img": "Indonesia_License_Plate_2.png",
-     "type": "plates"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "malaysia",
+       "note": "Malaysian plates are black too — but generally only **two** white sections.",
+       "diff": "Count the sections: 3 → Indonesia, 2 → Malaysia. Language spelling helps too (televisi vs televisyen).",
+       "img": "Malaysia_License_Plate.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Drives on the **left**; **motorcycles have front plates** (unique in SE Asia)",
+     "type": "general",
+     "text": "Drives on the **left**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "NAMC",
-     "img": "Front_License_Plate_on_Motorcycle.png",
-     "type": "plates"
+     "anchor": "YwXJ",
+     "img": "Untitled_design87.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "malaysia",
+       "note": "Malaysia drives left as well.",
+       "diff": "Plate sections + all-white Malaysian road lines."
+      },
+      {
+       "slug": "philippines",
+       "note": "The Philippines drives on the **right** — an instant separator.",
+       "diff": "Right-hand traffic → Philippines, never Indonesia."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Red-and-white banners** everywhere; cigarette ads (word **PERINGATAN**, ~18,000 Rp)",
+     "type": "markings",
+     "text": "Centre lines **white or yellow** (solid or dashed); outer lines always white — yellow centre is rare in Gen3",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "L4lX",
-     "img": "round__281_29.png",
-     "type": "general"
+     "anchor": "hOwL",
+     "img": "image.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "malaysia",
+       "note": "Malaysian road lines are **always all-white**.",
+       "diff": "Any yellow centre line → Indonesia, not Malaysia."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Yellow **waystones** angled toward road w/ cutout naming 3 towns (Philippines = perpendicular, text away)",
+     "type": "utility",
+     "text": "Poles **round**, steel or concrete; steel often painted **black**, many with **Indonesian flag colours** (red/white); pole tops even or uneven by region",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "cPPJ",
+     "img": "Copy_of_IndoPoles_copy.png"
+    },
+    {
+     "cat": "country",
+     "type": "bollards",
+     "text": "**Black-and-white** square/circular bollards + **yellow-and-black** ones (sometimes red reflector)",
+     "bullets": [
+      "UK-style bollards mostly in **Kalimantan**"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "u0Sw",
+     "img": "Dont_guess_Thailand_or_UK.png"
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "**Yellow waystones angled towards the road** with a cutout near the top (3 town shorthands, biggest on top)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Sl44",
      "img": "Waystones_1.png",
-     "type": "signs"
+     "uniq": "unique*",
+     "uniq_note": "Plonk It calls these 'unique to Indonesia'. The Philippines has waystones too — but **perpendicular** to the road with text facing away, so the angled orientation is the tell."
     },
     {
      "cat": "country",
-     "text": "Language Dutch-influenced: **televisi** (Malay = televisyen); currency Rupiah (Rp)",
+     "type": "language",
+     "text": "**Indonesian** looks like Malaysian, but was influenced by **Dutch** (Malaysian by English): televisi (≈ Dutch televisie) vs Malaysian televisyen",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "SYxy",
      "img": "Indonesian_language.png",
-     "type": "language"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "malaysia",
+       "note": "Nearly identical language on signs.",
+       "diff": "Dutch-style spellings (-si, -tas) → Indonesia; English-style (-syen, -titi) → Malaysia. Plates: 3 vs 2 white sections.",
+       "img": "my_language.png"
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "general",
+     "text": "Rows of **red-and-white banners** everywhere (sometimes more colourful flags)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "L4lX",
+     "img": "round__281_29.png"
+    },
+    {
+     "cat": "country",
+     "type": "general",
+     "text": "**Cigarette ads** everywhere — black/red schemes, ~18,000 Rp, graphic pictures, the word **PERINGATAN**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "MAU0",
+     "img": "Cigarette_ads.png"
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "Motorcycles have **front licence plates** (unlike the rest of SE Asia)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "NAMC",
+     "img": "Front_License_Plate_on_Motorcycle.png",
+     "uniq": "unique*",
+     "uniq_note": "Within covered Southeast Asia, front plates on motorcycles are an Indonesia tell — other SEA countries' bikes don't carry them."
+    },
+    {
+     "cat": "country",
+     "type": "naming",
+     "text": "Currency = **Rupiah (Rp)** on price signs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "78MF",
+     "img": "rupiah.png"
     },
     {
      "cat": "region",
-     "text": "**No coverage on Papua**; sparse Kalimantan/Aceh/Central Sulawesi",
+     "type": "general",
+     "text": "**Coverage map**: no Papua coverage; sparse in Kalimantan, Aceh, Central Sulawesi, North Maluku",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Ue6l",
      "img": "id_coveragemap.png",
-     "type": "general"
+     "super": true
     },
     {
-     "super": true,
      "cat": "region",
-     "text": "**Kabupaten (Kab.)** regency names on signs → pinpoint region (learnable)",
+     "type": "naming",
+     "text": "**Kabupaten** (regency, 'Kab.') names on signs/billboards everywhere — 417 covered ones, learnable",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "WGZd",
      "img": "Kabupaten_Rotate.png",
-     "type": "naming"
+     "super": true
     },
     {
-     "super": true,
      "cat": "region",
-     "text": "Postal codes: **1xxxx = Jakarta → 9xxxx = Maluku/Papua** (west→east)",
+     "type": "naming",
+     "text": "Cardinal directions in addresses: Utara=N, Timur=E, Selatan=S, Barat=W, Tengah=Central, Tenggara=SE",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "HlrS",
-     "img": "Indonesian_postal_code_zones_map.png",
-     "type": "naming"
+     "anchor": "QclR",
+     "img": "Cardinal_Directions_1.png"
     },
     {
      "cat": "region",
-     "text": "Satellite-dish angle → which side of equator + how far (points to W. Kalimantan)",
+     "type": "utility",
+     "text": "**Satellite dishes** point toward mid-West-Kalimantan → tells you N/S of the equator + rough side of the country (angle ≈ distance)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "69xY",
      "img": "alien_detectors.png",
-     "type": "general"
+     "super": true
     },
     {
      "cat": "region",
-     "text": "Oil palm → Sumatra/Kalimantan; rice → Java; Nusa (Lesser Sunda) drier & shrubbier",
+     "type": "naming",
+     "text": "**Postal codes** (5 digits) group by first digit: 1xxxx Jakarta → 9xxxx Maluku/Papua",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "landscape"
+     "anchor": "HlrS",
+     "img": "Indonesian_postal_code_zones_map.png"
+    },
+    {
+     "cat": "region",
+     "type": "utility",
+     "text": "Pole tops **even vs uneven** (symmetry of the insulator bar) — the base region-guessing meta",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "E9E9",
+     "img": "If_you_are_reading_this_have_a_nice_day.png"
+    },
+    {
+     "cat": "state",
+     "area": "Lesser Sunda Islands (Nusas)",
+     "type": "utility",
+     "text": "Poles with an **extra-long support** on the pole top (sometimes two); drier, low shrubby vegetation (Java can look similar — double-check)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "hYSj",
+     "img": "Nusa_poles.png",
+     "imgs": [
+      "Nusa_vegetation.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "utility",
+     "text": "Poles with a **triangle attachment** under the horizontal bar → mapped regions (not valid on stacked poles)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "H5BA",
+     "img": "id_triangle_connector.png"
+    },
+    {
+     "cat": "state",
+     "area": "West Java / Jakarta / Banten",
+     "type": "utility",
+     "text": "Poles with an **indent on both sides**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "dZp8",
+     "img": "West Chiva Poles.png"
+    },
+    {
+     "cat": "state",
+     "area": "Central Java / Yogyakarta",
+     "type": "utility",
+     "text": "**Trident pole tops** (rarely S/W-Kalimantan, N-Sumatra, Riau)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "PPGB",
+     "img": "id_trident.png"
+    },
+    {
+     "cat": "state",
+     "area": "North & Central Sulawesi / Gorontalo",
+     "type": "utility",
+     "text": "Pole tops with an **extra attachment right under the horizontal bar**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "EKlp",
+     "img": "CentralAndNorthSulaPole_hint.png"
+    },
+    {
+     "cat": "state",
+     "area": "North Sumatra",
+     "type": "utility",
+     "text": "Even bar with **uneven insulators** (1 vs 2) — almost exclusive to North Sumatra",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "YrUA",
+     "img": "Copy_of_Indonesia_hint_2.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "state",
+     "area": "Kalimantan",
+     "type": "utility",
+     "text": "**A-frame pole supports** (also Nusas) — caution: A-frames appear anywhere wires bend; green paint on bridge sides → S/Central Kalimantan",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "HsTd",
+     "img": "plonkit a-frame poles indonesia.png",
+     "imgs": [
+      "id_kalimantanpolepaint.png"
+     ]
+    },
+    {
+     "cat": "state",
+     "area": "Sulawesi",
+     "type": "utility",
+     "text": "Crossbar with the **flat part facing away** from the pole (normally it faces the pole); painted **white+blue/red fences**; Central Sulawesi: unique **black-white-yellow bollards** + thin black secondary poles with light-blue/green tape (East Peninsula)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "yzpd",
+     "img": "Sulawesi_crossbar.png",
+     "imgs": [
+      "Indicator-template-Indonesia1.png",
+      "Copy_of_Copy_of_Indonesia_hint_2.png",
+      "id_central_sula_secondary_pole.png"
+     ]
     },
     {
      "cat": "state",
      "area": "Bali",
-     "text": "Crown-like roof pinnacles, Hindu temples, dark andesite stone; blue horizontal pole text",
+     "type": "utility",
+     "text": "**Rectangle attachment** on pole tops (mostly Bali, with the Nusa support beam); pole paint with **horizontal text** (usually dark blue, also light blue/green)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "5XRu",
-     "img": "Bali_sticker_updated.png",
-     "type": "arch"
+     "anchor": "rHW9",
+     "img": "Copy_of_Copy_of_Copy_of_Copy_of_Pakse.png",
+     "imgs": [
+      "Bali_sticker_updated.png"
+     ]
+    },
+    {
+     "cat": "state",
+     "area": "Sumatra / South Sulawesi",
+     "type": "utility",
+     "text": "Asymmetrical poles with **2 supports below the bar** (rare in Kalimantan/Java)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "hewR",
+     "img": "plonkit 2 supports indonesia.png"
     },
     {
      "cat": "region",
-     "text": "Cardinal words in addresses: Utara(N) Timur(E) Selatan(S) Barat(W) Tengah(C)",
+     "type": "landscape",
+     "text": "**Oil-palm plantations** → Sumatra & Kalimantan (rare in Sulawesi); **rice** → Java (some S-Sulawesi & S-Sumatra)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "QclR",
-     "img": "Cardinal_Directions_1.png",
-     "type": "naming"
+     "anchor": "dxow",
+     "img": "id_oilpalm_v2.png",
+     "imgs": [
+      "Copy_of_Indonesia_oil_palms.png"
+     ]
+    },
+    {
+     "cat": "state",
+     "area": "Gorontalo",
+     "type": "landscape",
+     "text": "Very **rounded green hills** with palm/sugarcane/corn clusters",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "l5TB",
+     "img": "gorontalo_hills_2.png"
+    },
+    {
+     "cat": "state",
+     "area": "Sumba",
+     "type": "landscape",
+     "text": "**Savannah** landscape on north Sumba (Gen3 there = always white car); distinct **high-pitched roof peaks**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "2YZ4",
+     "img": "Sumba_Savannah_gen4.png",
+     "imgs": [
+      "Indonesia_hint_1.png"
+     ]
+    },
+    {
+     "cat": "state",
+     "area": "Bangka Belitung",
+     "type": "landscape",
+     "text": "**Red soil with white topsoil** spilling onto the road",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "p091",
+     "img": "0hnRPsu.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "region",
+     "type": "arch",
+     "text": "**Roof metas**: tiled roofs → Java (+S-Sumatra, Nusas, S-Kalimantan — there flatter/less rounded); plain sheet metal → north (Kalimantan, Sulawesi, Sumatra); two-level symmetric triangle metal roofs → mainly Sulawesi",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "xaSG",
+     "img": "tiledroof_updated",
+     "imgs": [
+      "5G_deflector.png",
+      "Sula_Rooves_2.png"
+     ]
+    },
+    {
+     "cat": "state",
+     "area": "South Sulawesi",
+     "type": "arch",
+     "text": "**Bugis roofs**: horizontal slots inside the roof triangles (rarely E-Kalimantan/W-Nusa); **gable horns** common here too (also Riau, C/S-Kalimantan); around **Rante Pao**: unique elevated **Tongkonan** saddle-roof houses",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "a0Zq",
+     "img": "Bugis_Roofs.png",
+     "imgs": [
+      "horny.png",
+      "Toraja_Roofs_1.png"
+     ]
+    },
+    {
+     "cat": "state",
+     "area": "Bali",
+     "type": "arch",
+     "text": "**Hindu-Balinese architecture**: crown-like roof pinnacles everywhere, guardian statues, slit-drum towers, dark volcanic **andesite** gates/walls/carvings",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "r8SA",
+     "img": "Bali_architecture.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "state",
+     "area": "West Sumatra",
+     "type": "arch",
+     "text": "Distinct **boat-shaped roofs** (Minangkabau); North Sumatra's version is less angled, without spires — most common near **Lake Toba**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "dZoK",
+     "img": "Copy_of_Copy_of_Copy_of_Copy_of_Pakse1.png",
+     "imgs": [
+      "Untitled.png"
+     ]
+    },
+    {
+     "cat": "state",
+     "area": "Kalimantan",
+     "type": "arch",
+     "text": "Roofs made of **wooden chips**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "bas1",
+     "img": "Untitled_2200_1080_px.png"
+    },
+    {
+     "cat": "region",
+     "type": "general",
+     "text": "Muslim-majority country — **churches/Christian signs** are a strong clue for the mapped (Christian) regions",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "0rmy",
+     "img": "Copy_of_Copy_of_Indonesia_oil_palms.png"
+    },
+    {
+     "cat": "region",
+     "type": "cars",
+     "text": "**Gen3 antenna** coverage → mostly Java (esp. East Java; very rarely Denpasar/Bali); **black Gen3 car** → almost everywhere, most common in Sulawesi",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "8gpa",
+     "img": "Anetnna_gen_3_-_Indonesia.png",
+     "imgs": [
+      "Black_Car_Gen_3_Map_Hint.png"
+     ]
     },
     {
      "cat": "special",
-     "text": "Red soil w/ white-soil layer spilling on road → Bangka Belitung islands",
+     "area": "Central Kalimantan",
+     "type": "cars",
+     "text": "**Moiré-pattern camera glitch** throughout Central Kalimantan",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "landscape"
+     "anchor": "bXHT",
+     "img": "CKali_blur.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "area": "Lake Toba",
+     "type": "landscape",
+     "text": "Mountains around the lake + **Samosir Island** in the middle; overcast coverage typical",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "hhbb",
+     "img": "Copy_of_Indonesia_hint_1.png"
+    },
+    {
+     "cat": "special",
+     "area": "South Kalimantan",
+     "type": "landscape",
+     "text": "**Karst formations** in the east, esp. along the highway to East Kalimantan (similar karst: S-Sulawesi, W-Sumatra)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "VrBB",
+     "img": "South_Kali_Karst_2.png"
+    },
+    {
+     "cat": "special",
+     "area": "Palu",
+     "type": "landscape",
+     "text": "**Palu Bay**: NW-facing bay north of Palu — mountains west, flat urban east",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "qYf4",
+     "img": "Pula_bay.png"
+    },
+    {
+     "cat": "special",
+     "area": "Nias Island",
+     "type": "arch",
+     "text": "Steeply pitched **palm-leaf roofs** (SW of North Sumatra)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "H5zf",
+     "img": "Indonesia_hint.png"
+    },
+    {
+     "cat": "special",
+     "area": "Bali",
+     "type": "cars",
+     "text": "Rare cars: **white SUV with black bars + wooden roof plank** (east Bali); **black cab with men in the truck bed** near Jagasatru",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "8rxH",
+     "img": "rare_bali_Car.png",
+     "imgs": [
+      "Copy_of_rare_bali_Car.png"
+     ]
     }
    ]
   },
@@ -8028,7 +8482,7 @@
    "area_km2": 377975,
    "links": {
     "plonkit": "https://www.plonkit.net/japan",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/631a309ba54a618fca31960a"
    },
    "videos": [
     {
@@ -8040,29 +8494,173 @@
    "hints": [
     {
      "cat": "country",
-     "text": "**Low-cam** (camera looks down, road looks wide) — only other always-low-cam = Switzerland (blurred there)",
+     "type": "naming",
+     "text": "Land terms to learn: 4 main **islands** (Hokkaido, Honshu, Shikoku, Kyushu) → **regions** (prefecture groups) → **47 prefectures**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "PmSr",
+     "img": "2.png"
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "Google car black-and-white (rarely black / with antenna) + **low-cam**: camera set low — bigger blur below, road looks wide, low perspective",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "T1C7",
+     "img": "3.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "switzerland",
+       "note": "The only other country that ALWAYS has low-cam.",
+       "diff": "In Switzerland the **car itself is blurred**; landscape/language obviously differ."
+      },
+      {
+       "slug": "sri-lanka",
+       "note": "Gen4 Sri Lanka also uses low-cam.",
+       "diff": "Sinhala script + tropical island → Sri Lanka."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "general",
+     "text": "Drives on the **left**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "fWHC",
      "img": "4.png",
-     "type": "cars"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "hong-kong",
+       "note": "HK drives left too.",
+       "diff": "Traditional characters + English + dense high-rises → HK."
+      },
+      {
+       "slug": "south-korea",
+       "note": "South Korea drives on the **right**.",
+       "diff": "Right-hand traffic + Hangul (circles/ovals in script) → Korea."
+      },
+      {
+       "slug": "taiwan",
+       "note": "Taiwan drives on the **right**.",
+       "diff": "Right-hand traffic + traditional characters + scooter armies → Taiwan."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Drives **left**; writing = kanji + hiragana (loopy, soft) + katakana (geometric, loan words)",
+     "type": "language",
+     "text": "Writing mixes **kanji** (Chinese-borrowed) + **hiragana** (simple, loopy — loops don't exist in Chinese) + **katakana** (geometric, for loan words/ads)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "m8Ow",
-     "img": "6.png",
-     "type": "language"
+     "anchor": "f6X5",
+     "img": "5.png",
+     "imgs": [
+      "6.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "china",
+       "note": "Kanji look like Chinese characters.",
+       "diff": "Any **hiragana loops** (の, し, つ) → Japan. Mainland China is tripod-only coverage."
+      },
+      {
+       "slug": "taiwan",
+       "note": "Traditional characters overlap with kanji.",
+       "diff": "Hiragana/katakana → Japan; Taiwan drives right."
+      },
+      {
+       "slug": "hong-kong",
+       "note": "Chinese characters too.",
+       "diff": "Hiragana → Japan; HK adds English everywhere."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Plates: short white w/ **green text**; Kei cars = **yellow w/ black text**",
+     "type": "naming",
+     "text": "Frequent **kanji in place names** + endings: 県 prefecture, 市 city, 区 ward, 町 town; cardinal directions 北 N, 南 S, 東 E, 西 W — learnable, speeds up finding cities",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "yYkM",
+     "img": "7.png",
+     "super": true
+    },
+    {
+     "cat": "country",
+     "type": "arch",
+     "text": "Architecture very distinct & varied: traditional country houses, regional designs, modern cities, reinforced coastal buildings",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "um29",
+     "img": "8.png"
+    },
+    {
+     "cat": "country",
+     "type": "utility",
+     "text": "Round concrete poles with **screw-like extensions**; carry electrical plates, guy-wires, reflectors → key region-guessing assets",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "72uf",
+     "img": "9.png"
+    },
+    {
+     "cat": "country",
+     "type": "bollards",
+     "text": "**Pole reflectors**: short, don't touch the ground — yellow vertical/diagonal or white stripes",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "zkIK",
+     "img": "10.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "taiwan",
+       "note": "Taiwanese reflectors have diagonal stripes that **reach the ground**.",
+       "diff": "Reflector touching the ground → Taiwan."
+      },
+      {
+       "slug": "south-korea",
+       "note": "Korean ones have **thicker diagonal** stripes.",
+       "diff": "Thick diagonals + Hangul → Korea."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "plates",
+     "text": "Plates short **white with green text**; yellow/black = **Kei cars** (light automobiles)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "c2hu",
+     "img": "11.png"
+    },
+    {
+     "cat": "country",
+     "type": "markings",
+     "text": "Road lines: white outer + dashed white middle (most common) / solid yellow middle / yellow+white middle — **never yellow outer lines**",
      "src": [
       "plonkit"
      ],
@@ -8072,104 +8670,452 @@
     },
     {
      "cat": "country",
-     "text": "Round concrete poles w/ screw-like extensions + info plates (region key); road lines **never yellow on the outside**",
+     "type": "bollards",
+     "text": "Simple **white bollards with circular reflector(s)** on top (sometimes black or with extensions; may carry city/prefecture kanji)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "zkIK",
-     "img": "10.png",
-     "type": "utility"
+     "anchor": "iauQ",
+     "img": "13.png"
     },
     {
      "cat": "country",
-     "text": "Prefecture roads = **hexagonal shields** (kanji under the number); distinctive red inverted-triangle stop sign; traffic mirrors; rural retaining walls",
+     "type": "utility",
+     "text": "Simple **white guardrails** standard",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "EIwA",
+     "img": "14.png"
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Prefecture roads = **hexagonal shields** (prefecture kanji under the number; same number exists in several prefectures → find the prefecture first)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "or2V",
+     "img": "15.png",
+     "super": true
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Common infra: unique **inverted-triangle stop sign**, school pedestrian crossing sign, **traffic mirrors** everywhere",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "JhXh",
-     "img": "16.png",
-     "type": "signs"
+     "img": "16.png"
     },
     {
-     "super": true,
+     "cat": "country",
+     "type": "utility",
+     "text": "**Retaining walls** — excellent Japan clue in information-poor rural mountains",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Vpks",
+     "img": "17.png"
+    },
+    {
      "cat": "region",
-     "text": "**Area codes increase toward the south**",
+     "type": "naming",
+     "text": "**Area codes increase to the south** (codes ending in 0, esp. 0120, are non-regional)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "LVv4",
      "img": "jp_areacodes_darkmode.png",
-     "type": "naming"
+     "super": true
     },
     {
      "cat": "region",
-     "text": "Learn place-name kanji: 県 (prefecture), 市 (city), 北/南/東/西 (N/S/E/W) → fast city finding",
+     "type": "utility",
+     "text": "Per-region **pole plates**, regional **reflector pads**, prefecture **road diamonds**, prefecture **signpost stickers**, regional **guy-wires** — the five core pole/sign metas (maps)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "um29",
-     "img": "8.png",
-     "type": "language"
+     "anchor": "LYWn",
+     "img": "21.png",
+     "imgs": [
+      "Japan Pole Reflector.jpg",
+      "39.png",
+      "37.png",
+      "jp_guywires_copy.png"
+     ],
+     "super": true
     },
     {
      "cat": "region",
-     "text": "4 main islands N→S: Hokkaidō, Honshū, Shikoku, Kyūshū; 47 prefectures",
+     "type": "utility",
+     "text": "**Pole attachments by region**: Chugoku = orange arrow above top plate; Shikoku = orange-black bands + small 90° attachments; Kansai = ~120° attachments (or angled-down)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "T1C7",
-     "img": "3.png",
-     "type": "naming"
+     "anchor": "acST",
+     "img": "22.png",
+     "imgs": [
+      "23.png",
+      "24.png",
+      "25.png"
+     ]
     },
     {
-     "super": true,
+     "cat": "region",
+     "type": "utility",
+     "text": "**Transformer metas by region**",
+     "bullets": [
+      "**Hokkaido**: plus-shaped side bar or 1 transformer on two bars; several = sides of a square; never a wooden plate",
+      "**Tohoku**: square holding brackets + Tohoku Electric logo; round plate w/ zigzag bar; square w/ bar on TOP (Niigata uses this design too)",
+      "**Kanto**: mounted on a **wooden plate** + two bars, or round plate + T-bar",
+      "**Hokuriku**: thin metal bars, small 'lamp' insulators, no bar",
+      "**Chubu**: yellow painted numbers + black 'tap' connectors; big triangle+horizontal bars or thin brackets",
+      "**Kansai**: square with bar on the BOTTOM (vs Tohoku top)",
+      "**Chugoku**: cross bar mid-pole on a FULL triangle; white sticker w/ red numbers",
+      "**Shikoku**: cross bar on a HALF triangle, hat-shaped insulators; sticker w/ black numbers",
+      "**Kyushu**: straight side bar w/ 3 insulators; transformers 180° from each other",
+      "**Okinawa**: T-shaped side bar; transformers on opposite pole sides"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "FLxL",
+     "img": "26.png",
+     "imgs": [
+      "27.png",
+      "28.png",
+      "29.png",
+      "30.png",
+      "31.png",
+      "32.png",
+      "33.png",
+      "34.png",
+      "35.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "utility",
+     "text": "Grey **insulator-like blocks** (wires fed through) → Chubu, Kansai, Chugoku, Shikoku (very rarely Hokkaido)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "U9cw",
+     "img": "36.png"
+    },
+    {
+     "cat": "region",
+     "type": "utility",
+     "text": "**Pole tops**: 4 thick bars + circle → Chubu; filled 'tent' → Hokuriku; 4 thin bars → Chugoku; tuning fork w/ long top bar → Kanto; short top bar → Chubu; thin wire → Kansai",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "tSNC",
+     "img": "51.png",
+     "imgs": [
+      "52.png",
+      "53.png",
+      "54.png",
+      "55.png",
+      "56.png"
+     ]
+    },
+    {
      "cat": "state",
-     "text": "Pole plates, reflectors, guy-wires & transformer mounting styles differ per region (Hokkaidō, Tōhoku, Kantō, Kansai…) — strong pinpoint tools",
+     "area": "Hokkaido",
+     "type": "signs",
+     "text": "**Snow shoulder arrows** hang over roads (almost exclusive here)",
+     "bullets": [
+      "Aomori variant: silver bolts around the border (rarely Hokkaido)",
+      "Gifu variant: long & thin",
+      "NH275 north: yellow-black design; SW of Sapporo: yellow-green"
+     ],
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "cX54",
-     "img": "Japan Pole Reflector.jpg",
-     "type": "utility"
-    },
-    {
-     "cat": "state",
-     "text": "Orange arrow above top pole plate → Chūgoku; orange/black pole bands → Shikoku",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "nPKQ",
-     "img": "23.png",
-     "type": "utility"
+     "anchor": "RRYf",
+     "img": "46.png"
     },
     {
      "cat": "region",
-     "text": "Hokkaidō = wide flat grid farmland, snow; subtropical dense green → Kyūshū/Okinawa",
+     "type": "bollards",
+     "text": "**Bollard metas by prefecture/region**",
+     "bullets": [
+      "**Kyushu + Yamaguchi**: flat white, orange reflectors on ONE side (Hokkaido rare variant = both sides)",
+      "**Shikoku**: black stripe under the reflector",
+      "**Tohoku**: thick white + octagonal reflector + yellow stripe (black variants on national highways); striped covering bollards esp. **Akita**",
+      "**Akita**: 2 yellow stripes under octagonal reflector",
+      "**Toyama**: extendable, 1 reflector + RED stripe (2 reflectors or yellow stripe = generic!)",
+      "**Okayama**: octagonal reflector + red stripe + sloped base — exclusive",
+      "**Aomori**: extendable, 2 yellow stripes + circular reflector",
+      "**N-Chugoku**: basic thin snow poles (also Iwate)"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "cwwN",
+     "img": "40.png",
+     "imgs": [
+      "41.png",
+      "42.png",
+      "43.png",
+      "44.png",
+      "45.png",
+      "47.png",
+      "48.png",
+      "50.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "utility",
+     "text": "**Guardrail metas**: green bands → Oita/Miyazaki (all Kyushu); yellow guardrails → Yamaguchi; chevron-like stickers → Hokkaido; red-yellow end stickers → Chugoku except Yamaguchi (rarely Niigata)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "j00C",
+     "img": "49.png",
+     "imgs": [
+      "57.png",
+      "58.png",
+      "59.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "signs",
+     "text": "**Vertical traffic lights** → Hokkaido + northwestern coast (horizontal everywhere else)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "IQ4Z",
+     "img": "60.png"
+    },
+    {
+     "cat": "state",
+     "area": "Kagawa",
+     "type": "signs",
+     "text": "Black signs with **two yellow circles** (also stacked or with arrows)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "yru1",
+     "img": "61.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "region",
+     "type": "utility",
+     "text": "**Kerosene 'Claymore' tanks** + hot-water/propane tanks → more common the further north (abundant Hokkaido) & in high mountains; esp. rural towns",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "HTvr",
+     "img": "62.png",
+     "imgs": [
+      "63.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "markings",
+     "text": "**Shosetsu** snow-melting roads (tiny circles in the pavement spraying warm water) → mainly northwest coastal prefectures",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "sdRS",
+     "img": "64.png"
+    },
+    {
+     "cat": "state",
+     "area": "Ehime",
+     "type": "markings",
+     "text": "Cycling routes: **white outer + blue inner line** (mostly coastal; rare exceptions elsewhere)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "wcDd",
+     "img": "65.png"
+    },
+    {
+     "cat": "region",
+     "type": "arch",
+     "text": "**Red-tiled roofs** → Chugoku (esp. Hiroshima & Shimane); roofs get flatter/sloped further **north** (snow) + side ladders; **Okinawa** = white concrete flat-roof buildings",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "QJIK",
+     "img": "66.png",
+     "imgs": [
+      "67.png",
+      "77.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Giant butterbur ('cabbage')** → abundant in Hokkaido + northern prefectures (smaller leaves further south)",
+     "bullets": [
+      "Also on Sakhalin (Russia) — but no low-cam there"
+     ],
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "pNOF",
-     "img": "68.png",
-     "type": "landscape"
+     "img": "68.png"
     },
     {
-     "cat": "special",
-     "text": "Bollards may have the city/prefecture written in kanji → near-pinpoint",
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Crop metas**: green tea in hedged rows + frost fans → Shizuoka (36%) & Kagoshima (34%); rice → north of Tokyo (Tohoku 27%, Chubu 21%, Kanto 15%, Hokkaido 7%); sugarcane → S-Kyushu islands + Okinawa",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "EIwA",
-     "img": "14.png",
-     "type": "bollards"
+     "anchor": "nLH3",
+     "img": "69.png",
+     "imgs": [
+      "70.png",
+      "76.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Vegetation metas**: Japanese white birch → Chubu & Hokkaido (some Tohoku; beech has grey spotted bark); bamboo → more south; Chinese silver grass → Kyushu (+Niigata/Yamagata/Akita)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "HmjC",
+     "img": "71.png",
+     "imgs": [
+      "72.png",
+      "73.png"
+     ]
+    },
+    {
+     "cat": "state",
+     "area": "Hokkaido",
+     "type": "landscape",
+     "text": "Very limited **winter/snow coverage** — don't guess Hokkaido without certainty; mapped regions most likely",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "6R3b",
+     "img": "74.png"
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "Very mountainous country — the recognisable flat exceptions: **Nobi & Kanto plains**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "p58z",
+     "img": "75.png"
+    },
+    {
+     "cat": "state",
+     "area": "Okinawa",
+     "type": "arch",
+     "text": "**Shisa guardian lions** + house plaques with specific characters; red-soil fields on Miyakojima & Ishigaki",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "wtVB",
+     "img": "78.png",
+     "imgs": [
+      "79.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Mount Fuji** — tallest, gradual incline, snowy summit, visible from far → direction+distance = strong region guess",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "J3hs",
+     "img": "80.png"
+    },
+    {
+     "cat": "city",
+     "area": "Tokyo",
+     "type": "utility",
+     "text": "Manhole covers with a **5-petal flower** + small circles around",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Qteb",
+     "img": "Tokyo_Manhole_cover.png"
+    },
+    {
+     "cat": "city",
+     "area": "Wakkanai / Nemuro",
+     "type": "language",
+     "text": "**Cyrillic on signs** in these two northern Hokkaido cities",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "tF8q",
+     "img": "81.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "city",
+     "area": "Date (Hokkaido)",
+     "type": "utility",
+     "text": "Poles **painted as birch trees**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "ydq3",
+     "img": "82.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "cars",
+     "text": "Huge number of **trekkers/tripods** across many prefectures (see Plonk It's dedicated resource)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "FRiS",
+     "img": "83.png"
     }
    ]
   },

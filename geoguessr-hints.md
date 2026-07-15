@@ -398,23 +398,54 @@ Study: [Plonk It](https://www.plonkit.net/kazakhstan)
 | Special | **Pole paints** identify the city (Kostanay turquoise+yellow, Taraz red/yellow/black…); city bus colours (Almaty green, Karaganda turquoise) | [P](https://www.plonkit.net/kazakhstan) |  |
 
 ## Indonesia
-Study: [Plonk It](https://www.plonkit.net/indonesia)
+Study: [Plonk It](https://www.plonkit.net/indonesia) · [GeoGuessr map](https://www.geoguessr.com/maps/619086606e5572000185a1db)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates **black w/ white letters** (3 white sections through blur); commercial = yellow; newer = white (Malaysia = 2 sections) | [P](https://www.plonkit.net/indonesia) |  |
-| Country | Drives on the **left**; **motorcycles have front plates** (unique in SE Asia) | [P](https://www.plonkit.net/indonesia) |  |
-| Country | **Red-and-white banners** everywhere; cigarette ads (word **PERINGATAN**, ~18,000 Rp) | [P](https://www.plonkit.net/indonesia) |  |
-| Country | Yellow **waystones** angled toward road w/ cutout naming 3 towns (Philippines = perpendicular, text away) | [P](https://www.plonkit.net/indonesia) |  |
-| Country | Language Dutch-influenced: **televisi** (Malay = televisyen); currency Rupiah (Rp) | [P](https://www.plonkit.net/indonesia) |  |
-| Region | **No coverage on Papua**; sparse Kalimantan/Aceh/Central Sulawesi | [P](https://www.plonkit.net/indonesia) |  |
-| Region | **Kabupaten (Kab.)** regency names on signs → pinpoint region (learnable) | [P](https://www.plonkit.net/indonesia) |  |
-| Region | Postal codes: **1xxxx = Jakarta → 9xxxx = Maluku/Papua** (west→east) | [P](https://www.plonkit.net/indonesia) |  |
-| Region | Satellite-dish angle → which side of equator + how far (points to W. Kalimantan) | [P](https://www.plonkit.net/indonesia) |  |
-| Region | Oil palm → Sumatra/Kalimantan; rice → Java; Nusa (Lesser Sunda) drier & shrubbier | [P](https://www.plonkit.net/indonesia) |  |
-| Region | Cardinal words in addresses: Utara(N) Timur(E) Selatan(S) Barat(W) Tengah(C) | [P](https://www.plonkit.net/indonesia) |  |
-| State | Crown-like roof pinnacles, Hindu temples, dark andesite stone; blue horizontal pole text | [P](https://www.plonkit.net/indonesia) |  |
-| Special | Red soil w/ white-soil layer spilling on road → Bangka Belitung islands | [P](https://www.plonkit.net/indonesia) |  |
+| Country | Plates **black with white text** — usually **three white sections** through the blur (commercial = yellow; newer coverage can be white) | [P](https://www.plonkit.net/indonesia) |  |
+| Country | Drives on the **left** | [P](https://www.plonkit.net/indonesia) |  |
+| Country | Centre lines **white or yellow** (solid or dashed); outer lines always white — yellow centre is rare in Gen3 | [P](https://www.plonkit.net/indonesia) |  |
+| Country | Poles **round**, steel or concrete; steel often painted **black**, many with **Indonesian flag colours** (red/white); pole tops even or uneven by region | [P](https://www.plonkit.net/indonesia) |  |
+| Country | **Black-and-white** square/circular bollards + **yellow-and-black** ones (sometimes red reflector) | [P](https://www.plonkit.net/indonesia) |  |
+| Country | **Yellow waystones angled towards the road** with a cutout near the top (3 town shorthands, biggest on top) | [P](https://www.plonkit.net/indonesia) |  |
+| Country | **Indonesian** looks like Malaysian, but was influenced by **Dutch** (Malaysian by English): televisi (≈ Dutch televisie) vs Malaysian televisyen | [P](https://www.plonkit.net/indonesia) |  |
+| Country | Rows of **red-and-white banners** everywhere (sometimes more colourful flags) | [P](https://www.plonkit.net/indonesia) |  |
+| Country | **Cigarette ads** everywhere — black/red schemes, ~18,000 Rp, graphic pictures, the word **PERINGATAN** | [P](https://www.plonkit.net/indonesia) |  |
+| Country | Motorcycles have **front licence plates** (unlike the rest of SE Asia) | [P](https://www.plonkit.net/indonesia) |  |
+| Country | Currency = **Rupiah (Rp)** on price signs | [P](https://www.plonkit.net/indonesia) |  |
+| Region | **Coverage map**: no Papua coverage; sparse in Kalimantan, Aceh, Central Sulawesi, North Maluku | [P](https://www.plonkit.net/indonesia) |  |
+| Region | **Kabupaten** (regency, 'Kab.') names on signs/billboards everywhere — 417 covered ones, learnable | [P](https://www.plonkit.net/indonesia) |  |
+| Region | Cardinal directions in addresses: Utara=N, Timur=E, Selatan=S, Barat=W, Tengah=Central, Tenggara=SE | [P](https://www.plonkit.net/indonesia) |  |
+| Region | **Satellite dishes** point toward mid-West-Kalimantan → tells you N/S of the equator + rough side of the country (angle ≈ distance) | [P](https://www.plonkit.net/indonesia) |  |
+| Region | **Postal codes** (5 digits) group by first digit: 1xxxx Jakarta → 9xxxx Maluku/Papua | [P](https://www.plonkit.net/indonesia) |  |
+| Region | Pole tops **even vs uneven** (symmetry of the insulator bar) — the base region-guessing meta | [P](https://www.plonkit.net/indonesia) |  |
+| Region | Poles with a **triangle attachment** under the horizontal bar → mapped regions (not valid on stacked poles) | [P](https://www.plonkit.net/indonesia) |  |
+| Region | **Oil-palm plantations** → Sumatra & Kalimantan (rare in Sulawesi); **rice** → Java (some S-Sulawesi & S-Sumatra) | [P](https://www.plonkit.net/indonesia) |  |
+| Region | **Roof metas**: tiled roofs → Java (+S-Sumatra, Nusas, S-Kalimantan — there flatter/less rounded); plain sheet metal → north (Kalimantan, Sulawesi, Sumatra); two-level symmetric triangle metal roofs → mainly Sulawesi | [P](https://www.plonkit.net/indonesia) |  |
+| Region | Muslim-majority country — **churches/Christian signs** are a strong clue for the mapped (Christian) regions | [P](https://www.plonkit.net/indonesia) |  |
+| Region | **Gen3 antenna** coverage → mostly Java (esp. East Java; very rarely Denpasar/Bali); **black Gen3 car** → almost everywhere, most common in Sulawesi | [P](https://www.plonkit.net/indonesia) |  |
+| State | Poles with an **extra-long support** on the pole top (sometimes two); drier, low shrubby vegetation (Java can look similar — double-check) | [P](https://www.plonkit.net/indonesia) |  |
+| State | Poles with an **indent on both sides** | [P](https://www.plonkit.net/indonesia) |  |
+| State | **Trident pole tops** (rarely S/W-Kalimantan, N-Sumatra, Riau) | [P](https://www.plonkit.net/indonesia) |  |
+| State | Pole tops with an **extra attachment right under the horizontal bar** | [P](https://www.plonkit.net/indonesia) |  |
+| State | Even bar with **uneven insulators** (1 vs 2) — almost exclusive to North Sumatra | [P](https://www.plonkit.net/indonesia) |  |
+| State | **A-frame pole supports** (also Nusas) — caution: A-frames appear anywhere wires bend; green paint on bridge sides → S/Central Kalimantan | [P](https://www.plonkit.net/indonesia) |  |
+| State | Crossbar with the **flat part facing away** from the pole (normally it faces the pole); painted **white+blue/red fences**; Central Sulawesi: unique **black-white-yellow bollards** + thin black secondary poles with light-blue/green tape (East Peninsula) | [P](https://www.plonkit.net/indonesia) |  |
+| State | **Rectangle attachment** on pole tops (mostly Bali, with the Nusa support beam); pole paint with **horizontal text** (usually dark blue, also light blue/green) | [P](https://www.plonkit.net/indonesia) |  |
+| State | Asymmetrical poles with **2 supports below the bar** (rare in Kalimantan/Java) | [P](https://www.plonkit.net/indonesia) |  |
+| State | Very **rounded green hills** with palm/sugarcane/corn clusters | [P](https://www.plonkit.net/indonesia) |  |
+| State | **Savannah** landscape on north Sumba (Gen3 there = always white car); distinct **high-pitched roof peaks** | [P](https://www.plonkit.net/indonesia) |  |
+| State | **Red soil with white topsoil** spilling onto the road | [P](https://www.plonkit.net/indonesia) |  |
+| State | **Bugis roofs**: horizontal slots inside the roof triangles (rarely E-Kalimantan/W-Nusa); **gable horns** common here too (also Riau, C/S-Kalimantan); around **Rante Pao**: unique elevated **Tongkonan** saddle-roof houses | [P](https://www.plonkit.net/indonesia) |  |
+| State | **Hindu-Balinese architecture**: crown-like roof pinnacles everywhere, guardian statues, slit-drum towers, dark volcanic **andesite** gates/walls/carvings | [P](https://www.plonkit.net/indonesia) |  |
+| State | Distinct **boat-shaped roofs** (Minangkabau); North Sumatra's version is less angled, without spires — most common near **Lake Toba** | [P](https://www.plonkit.net/indonesia) |  |
+| State | Roofs made of **wooden chips** | [P](https://www.plonkit.net/indonesia) |  |
+| Special | **Moiré-pattern camera glitch** throughout Central Kalimantan | [P](https://www.plonkit.net/indonesia) |  |
+| Special | Mountains around the lake + **Samosir Island** in the middle; overcast coverage typical | [P](https://www.plonkit.net/indonesia) |  |
+| Special | **Karst formations** in the east, esp. along the highway to East Kalimantan (similar karst: S-Sulawesi, W-Sumatra) | [P](https://www.plonkit.net/indonesia) |  |
+| Special | **Palu Bay**: NW-facing bay north of Palu — mountains west, flat urban east | [P](https://www.plonkit.net/indonesia) |  |
+| Special | Steeply pitched **palm-leaf roofs** (SW of North Sumatra) | [P](https://www.plonkit.net/indonesia) |  |
+| Special | Rare cars: **white SUV with black bars + wooden roof plank** (east Bali); **black cab with men in the truck bed** near Jagasatru | [P](https://www.plonkit.net/indonesia) |  |
 
 ## Mongolia
 Study: [Plonk It](https://www.plonkit.net/mongolia)
@@ -498,22 +529,51 @@ Study: [Plonk It](https://www.plonkit.net/iraq)
 | Special | Interior = **statues, steles, artefacts** and a few back rooms | [P](https://www.plonkit.net/iraq) |  |
 
 ## Japan
-Study: [Plonk It](https://www.plonkit.net/japan)
+Study: [Plonk It](https://www.plonkit.net/japan) · [GeoGuessr map](https://www.geoguessr.com/maps/631a309ba54a618fca31960a)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | **Low-cam** (camera looks down, road looks wide) — only other always-low-cam = Switzerland (blurred there) | [P](https://www.plonkit.net/japan) |  |
-| Country | Drives **left**; writing = kanji + hiragana (loopy, soft) + katakana (geometric, loan words) | [P](https://www.plonkit.net/japan) |  |
-| Country | Plates: short white w/ **green text**; Kei cars = **yellow w/ black text** | [P](https://www.plonkit.net/japan) |  |
-| Country | Round concrete poles w/ screw-like extensions + info plates (region key); road lines **never yellow on the outside** | [P](https://www.plonkit.net/japan) |  |
-| Country | Prefecture roads = **hexagonal shields** (kanji under the number); distinctive red inverted-triangle stop sign; traffic mirrors; rural retaining walls | [P](https://www.plonkit.net/japan) |  |
-| Region | **Area codes increase toward the south** | [P](https://www.plonkit.net/japan) |  |
-| Region | Learn place-name kanji: 県 (prefecture), 市 (city), 北/南/東/西 (N/S/E/W) → fast city finding | [P](https://www.plonkit.net/japan) |  |
-| Region | 4 main islands N→S: Hokkaidō, Honshū, Shikoku, Kyūshū; 47 prefectures | [P](https://www.plonkit.net/japan) |  |
-| Region | Hokkaidō = wide flat grid farmland, snow; subtropical dense green → Kyūshū/Okinawa | [P](https://www.plonkit.net/japan) |  |
-| State | Pole plates, reflectors, guy-wires & transformer mounting styles differ per region (Hokkaidō, Tōhoku, Kantō, Kansai…) — strong pinpoint tools | [P](https://www.plonkit.net/japan) |  |
-| State | Orange arrow above top pole plate → Chūgoku; orange/black pole bands → Shikoku | [P](https://www.plonkit.net/japan) |  |
-| Special | Bollards may have the city/prefecture written in kanji → near-pinpoint | [P](https://www.plonkit.net/japan) |  |
+| Country | Land terms to learn: 4 main **islands** (Hokkaido, Honshu, Shikoku, Kyushu) → **regions** (prefecture groups) → **47 prefectures** | [P](https://www.plonkit.net/japan) |  |
+| Country | Google car black-and-white (rarely black / with antenna) + **low-cam**: camera set low — bigger blur below, road looks wide, low perspective | [P](https://www.plonkit.net/japan) |  |
+| Country | Drives on the **left** | [P](https://www.plonkit.net/japan) |  |
+| Country | Writing mixes **kanji** (Chinese-borrowed) + **hiragana** (simple, loopy — loops don't exist in Chinese) + **katakana** (geometric, for loan words/ads) | [P](https://www.plonkit.net/japan) |  |
+| Country | Frequent **kanji in place names** + endings: 県 prefecture, 市 city, 区 ward, 町 town; cardinal directions 北 N, 南 S, 東 E, 西 W — learnable, speeds up finding cities | [P](https://www.plonkit.net/japan) |  |
+| Country | Architecture very distinct & varied: traditional country houses, regional designs, modern cities, reinforced coastal buildings | [P](https://www.plonkit.net/japan) |  |
+| Country | Round concrete poles with **screw-like extensions**; carry electrical plates, guy-wires, reflectors → key region-guessing assets | [P](https://www.plonkit.net/japan) |  |
+| Country | **Pole reflectors**: short, don't touch the ground — yellow vertical/diagonal or white stripes | [P](https://www.plonkit.net/japan) |  |
+| Country | Plates short **white with green text**; yellow/black = **Kei cars** (light automobiles) | [P](https://www.plonkit.net/japan) |  |
+| Country | Road lines: white outer + dashed white middle (most common) / solid yellow middle / yellow+white middle — **never yellow outer lines** | [P](https://www.plonkit.net/japan) |  |
+| Country | Simple **white bollards with circular reflector(s)** on top (sometimes black or with extensions; may carry city/prefecture kanji) | [P](https://www.plonkit.net/japan) |  |
+| Country | Simple **white guardrails** standard | [P](https://www.plonkit.net/japan) |  |
+| Country | Prefecture roads = **hexagonal shields** (prefecture kanji under the number; same number exists in several prefectures → find the prefecture first) | [P](https://www.plonkit.net/japan) |  |
+| Country | Common infra: unique **inverted-triangle stop sign**, school pedestrian crossing sign, **traffic mirrors** everywhere | [P](https://www.plonkit.net/japan) |  |
+| Country | **Retaining walls** — excellent Japan clue in information-poor rural mountains | [P](https://www.plonkit.net/japan) |  |
+| Region | **Area codes increase to the south** (codes ending in 0, esp. 0120, are non-regional) | [P](https://www.plonkit.net/japan) |  |
+| Region | Per-region **pole plates**, regional **reflector pads**, prefecture **road diamonds**, prefecture **signpost stickers**, regional **guy-wires** — the five core pole/sign metas (maps) | [P](https://www.plonkit.net/japan) |  |
+| Region | **Pole attachments by region**: Chugoku = orange arrow above top plate; Shikoku = orange-black bands + small 90° attachments; Kansai = ~120° attachments (or angled-down) | [P](https://www.plonkit.net/japan) |  |
+| Region | **Transformer metas by region** | [P](https://www.plonkit.net/japan) |  |
+| Region | Grey **insulator-like blocks** (wires fed through) → Chubu, Kansai, Chugoku, Shikoku (very rarely Hokkaido) | [P](https://www.plonkit.net/japan) |  |
+| Region | **Pole tops**: 4 thick bars + circle → Chubu; filled 'tent' → Hokuriku; 4 thin bars → Chugoku; tuning fork w/ long top bar → Kanto; short top bar → Chubu; thin wire → Kansai | [P](https://www.plonkit.net/japan) |  |
+| Region | **Bollard metas by prefecture/region** | [P](https://www.plonkit.net/japan) |  |
+| Region | **Guardrail metas**: green bands → Oita/Miyazaki (all Kyushu); yellow guardrails → Yamaguchi; chevron-like stickers → Hokkaido; red-yellow end stickers → Chugoku except Yamaguchi (rarely Niigata) | [P](https://www.plonkit.net/japan) |  |
+| Region | **Vertical traffic lights** → Hokkaido + northwestern coast (horizontal everywhere else) | [P](https://www.plonkit.net/japan) |  |
+| Region | **Kerosene 'Claymore' tanks** + hot-water/propane tanks → more common the further north (abundant Hokkaido) & in high mountains; esp. rural towns | [P](https://www.plonkit.net/japan) |  |
+| Region | **Shosetsu** snow-melting roads (tiny circles in the pavement spraying warm water) → mainly northwest coastal prefectures | [P](https://www.plonkit.net/japan) |  |
+| Region | **Red-tiled roofs** → Chugoku (esp. Hiroshima & Shimane); roofs get flatter/sloped further **north** (snow) + side ladders; **Okinawa** = white concrete flat-roof buildings | [P](https://www.plonkit.net/japan) |  |
+| Region | **Giant butterbur ('cabbage')** → abundant in Hokkaido + northern prefectures (smaller leaves further south) | [P](https://www.plonkit.net/japan) |  |
+| Region | **Crop metas**: green tea in hedged rows + frost fans → Shizuoka (36%) & Kagoshima (34%); rice → north of Tokyo (Tohoku 27%, Chubu 21%, Kanto 15%, Hokkaido 7%); sugarcane → S-Kyushu islands + Okinawa | [P](https://www.plonkit.net/japan) |  |
+| Region | **Vegetation metas**: Japanese white birch → Chubu & Hokkaido (some Tohoku; beech has grey spotted bark); bamboo → more south; Chinese silver grass → Kyushu (+Niigata/Yamagata/Akita) | [P](https://www.plonkit.net/japan) |  |
+| Region | Very mountainous country — the recognisable flat exceptions: **Nobi & Kanto plains** | [P](https://www.plonkit.net/japan) |  |
+| State | **Snow shoulder arrows** hang over roads (almost exclusive here) | [P](https://www.plonkit.net/japan) |  |
+| State | Black signs with **two yellow circles** (also stacked or with arrows) | [P](https://www.plonkit.net/japan) |  |
+| State | Cycling routes: **white outer + blue inner line** (mostly coastal; rare exceptions elsewhere) | [P](https://www.plonkit.net/japan) |  |
+| State | Very limited **winter/snow coverage** — don't guess Hokkaido without certainty; mapped regions most likely | [P](https://www.plonkit.net/japan) |  |
+| State | **Shisa guardian lions** + house plaques with specific characters; red-soil fields on Miyakojima & Ishigaki | [P](https://www.plonkit.net/japan) |  |
+| City | Manhole covers with a **5-petal flower** + small circles around | [P](https://www.plonkit.net/japan) |  |
+| City | **Cyrillic on signs** in these two northern Hokkaido cities | [P](https://www.plonkit.net/japan) |  |
+| City | Poles **painted as birch trees** | [P](https://www.plonkit.net/japan) |  |
+| Special | **Mount Fuji** — tallest, gradual incline, snowy summit, visible from far → direction+distance = strong region guess | [P](https://www.plonkit.net/japan) |  |
+| Special | Huge number of **trekkers/tripods** across many prefectures (see Plonk It's dedicated resource) | [P](https://www.plonkit.net/japan) |  |
 
 ## Vietnam
 Study: [Plonk It](https://www.plonkit.net/vietnam)
