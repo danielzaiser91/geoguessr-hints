@@ -81,6 +81,42 @@ def load_countries():
     return out
 
 
+# v4 uniqueness fields — keep the data honest, fail the build on violations.
+UNIQ_VALUES = {"unique", "unique*", "shared"}
+
+
+def validate_uniq(countries):
+    slugs = {c["slug"] for c in countries}
+    errors, stats = [], {"unique": 0, "unique*": 0, "shared": 0, "none": 0}
+    for c in countries:
+        for i, h in enumerate(c.get("hints", [])):
+            where = f"{c['slug']} hint#{i} ({h.get('text', '')[:40]}…)"
+            u = h.get("uniq")
+            if u is None:
+                stats["none"] += 1
+                if h.get("shared_with") or h.get("uniq_note"):
+                    errors.append(f"{where}: shared_with/uniq_note present but no uniq value")
+                continue
+            if u not in UNIQ_VALUES:
+                errors.append(f"{where}: invalid uniq {u!r}")
+                continue
+            stats[u] += 1
+            if u == "unique*" and not h.get("uniq_note"):
+                errors.append(f"{where}: unique* requires uniq_note")
+            if u == "shared":
+                sw = h.get("shared_with") or []
+                if not sw:
+                    errors.append(f"{where}: shared requires non-empty shared_with")
+                for s in sw:
+                    if s.get("slug") not in slugs:
+                        errors.append(f"{where}: shared_with slug {s.get('slug')!r} not in data/")
+                    if not s.get("note"):
+                        errors.append(f"{where}: shared_with[{s.get('slug')}] missing note")
+    if errors:
+        raise SystemExit("uniq validation FAILED:\n  " + "\n  ".join(errors))
+    return stats
+
+
 def src_cell(hint, links):
     """Render the source(s) of a hint as compact linked refs."""
     parts = []
@@ -249,6 +285,7 @@ def build_country_pages(countries):
 
 def main():
     countries = load_countries()
+    uniq_stats = validate_uniq(countries)
     payload = {"countries": countries, "master": MASTER,
                "continent_order": CONTINENT_ORDER,
                "counts": {"done": len(countries),
@@ -263,7 +300,8 @@ def main():
     with open(os.path.join(ROOT, "geoguessr-hints.md"), "w", encoding="utf-8") as f:
         f.write(md)
     pages = build_country_pages(countries)
-    print(f"built: {len(countries)} countries, {pages} share pages")
+    nh = sum(len(c.get("hints", [])) for c in countries)
+    print(f"built: {len(countries)} countries, {nh} hints, {pages} share pages · uniq: {uniq_stats}")
 
 
 if __name__ == "__main__":

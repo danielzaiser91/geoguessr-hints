@@ -539,18 +539,51 @@ Study: [Plonk It](https://www.plonkit.net/laos)
 | Region | Communist govt → **hammer-and-sickle flags**; cities differ: Luang Prabang (historical + hills + palms), Vang Vieng (rugged mountains), Savannakhet (very flat), Pakse (red soil, arid, hills) | [P](https://www.plonkit.net/laos) |  |
 
 ## Kyrgyzstan
-Study: [Plonk It](https://www.plonkit.net/kyrgyzstan)
+Study: [Plonk It](https://www.plonkit.net/kyrgyzstan) · [GeoGuessr map](https://www.geoguessr.com/maps/62f89a5b9d49e9c006de4ed5)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates have a **red strip** (also seen in Albania, very rarely the UAE) | [P](https://www.plonkit.net/kyrgyzstan) |  |
-| Country | **Silver car with four bars** visible; all coverage is **Gen3** (no similar-landscape country has this car) | [P](https://www.plonkit.net/kyrgyzstan) |  |
-| Country | **Kyrgyz Cyrillic** w/ extra letters **Ө Ү Ң** (not in Russian Cyrillic) | [P](https://www.plonkit.net/kyrgyzstan) |  |
-| Country | All covered in **winter** (leafless trees, drab, snow in many parts); trees & poles painted **white at the bottom** | [P](https://www.plonkit.net/kyrgyzstan) |  |
-| Country | Simple **white bollards w/ a diagonal black stripe** near the top | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Country | Plates have a **red strip** | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Country | **Silver car with four bars** visible; all coverage is **Gen3** | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Country | **Kyrgyz Cyrillic** — like Russian but with extra letters **Ө Ү Ң** (not in Russian Cyrillic) | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Country | All coverage was captured in **winter** | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Country | Trees & concrete poles painted **white at the bottom** | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Country | Simple **white bollards with a diagonal black stripe** near the top | [P](https://www.plonkit.net/kyrgyzstan) |  |
 | Country | km markers with a **red-and-white triangle pattern** are unique to Kyrgyzstan | [P](https://www.plonkit.net/kyrgyzstan) |  |
 | Country | Majority **Muslim** → many mosques throughout the country | [P](https://www.plonkit.net/kyrgyzstan) |  |
-| Region | Very limited coverage; **car-mirror meta** narrows region (southern mirror is more diagonal → Osh/Manas); **Lake Issyk-Kul** in the north; divided roads → around Bishkek | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Region | Coverage is **very limited** — learning the covered roads pays off massively | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Region | Learn the **Google-car driving direction** on the major roads to narrow down options | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Region | **Car-mirror metas** — the mirror region-guesses Kyrgyzstan | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Region | **Divided roads** are concentrated in and around Bishkek; a major divided highway runs Bishkek → Balykchy | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Region | **Lake Issyk-Kul** is the biggest body of water — often visible from the roads north & south of it | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Region | **Northern roads**: considerable snow + generally bright sky | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| City | **Bishkek** is by far the most developed city — many taller multi-storey buildings, fancier buildings on the outskirts; mountains to the south (often hard to see) | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| City | Urban **snow coverage** exists in one region of Bishkek | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| City | South of Bishkek: hilly, snowy **Tian Shan** to the south, visible **smog** to the north (most polluted city air) | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| City | Towns east & west of Bishkek feature **colourful poles** — yellow, green, white, sometimes red on top | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| City | **Osh** = 2nd-biggest city; has the **southern mirror**; weather fair with some clouds — never fully overcast (that's Manas) | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| City | Trees in Osh mostly **keep their leaves** (vs leafless Bishkek) | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| City | In the centre you can see **mountains with radio masts** on top | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| City | **Manas** (prev. Jalal-Abad) = 3rd-biggest city; southern mirror; **extremely overcast** with no cloud gaps (vs Osh's fair weather); slightly snowy hill to the east | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| City | **Arslanbob** — snowy mountain resort town north of Manas; big elevation changes inside the town; southern mirror | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| City | **Uzgen** — slightly snowy town between Osh & Manas; overcast coverage; southern mirror | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| City | In **Talas** most poles are painted white at the bottom **with red & yellow stripes** | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| City | **Karakol** sits between snow-capped mountains north & south; sunny coverage; melting snow on the ground | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| City | **Naryn** — steep **orange ridge** to the north, big snow-capped mountains to the south | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Special | **Road metas below** use OSM road numbers (Google Maps mislabels them) — in-game, orient by town names | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Special | **EM-04** — the major road Bishkek → Osh | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Special | **EM-11** (A365 on Google Maps) — Bishkek down to the Chinese border | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Special | **EM-09** — Balykchy → Karakol along the NORTH shore of Issyk-Kul | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Special | **EM-10** (A363) — Karakol → Balykchy along the SOUTH shore of Issyk-Kul | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Special | **EM-17** — southeast of Talas | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Special | **EM-13** — small gravel road near Kazarman (only bits covered) | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Special | **M-072** — west of Naryn, south side of the dry Naryn valley | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Special | **M-068** — east of Naryn, also in the Naryn valley | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Special | **M-082** — Song-Kul and the mountains south of it | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Special | **M-118** — Arslanbob down into the Fergana valley | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Special | **M-107** — Taskomur → Kerben (only the first half covered) | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Special | **Arkit road** — up to Sary-Chelek lake, one of the most unique roads | [P](https://www.plonkit.net/kyrgyzstan) |  |
+| Special | **Other smaller covered roads** | [P](https://www.plonkit.net/kyrgyzstan) |  |
 
 ## Cambodia
 Study: [Plonk It](https://www.plonkit.net/cambodia)
@@ -737,6 +770,20 @@ Study: [Plonk It](https://www.plonkit.net/lebanon)
 | Country | Many buildings of **sandstone brick** (looks like Jerusalem stone of Israel/West Bank) | [P](https://www.plonkit.net/lebanon) |  |
 | Region | Coverage concentrated on the **west coast, north of Beirut**; Zahle = flat fields + black car; snowy tops → NE mountains | [P](https://www.plonkit.net/lebanon) |  |
 | Special | Gen3 trekkers: **Beirut** high-rises + palm promenade; **Byblos** ancient stone city; **Baalbek** Roman ruins; several university campuses | [P](https://www.plonkit.net/lebanon) |  |
+
+## Cyprus
+Study: [Plonk It](https://www.plonkit.net/cyprus)
+
+| Cat | Hint | Src | SV |
+|---|---|---|---|
+| Country | Drives on the **left** (former UK colony); plates are white EU **or** UK-style yellow-rear, most w/ an EU strip; red rental plates common | [P](https://www.plonkit.net/cyprus) |  |
+| Country | **Greek + English** everywhere (Greek alphabet, softer than Cyrillic); only the **southern** half is covered | [P](https://www.plonkit.net/cyprus) |  |
+| Country | Gen4 **'smallcam'** mounted low, big circular blur w/ a small front protrusion, sometimes a short **antenna on the back** (Greek smallcam never has an antenna) | [P](https://www.plonkit.net/cyprus) |  |
+| Country | Bollards like Turkey's (red front / white back reflector) but **triangular w/ a slanted top**, not flat | [P](https://www.plonkit.net/cyprus) |  |
+| Country | **Town-entry signs**: yellow rectangle w/ red border (or small white one) w/ Greek+English + a speed sign above — unique; directional signs like Greece but Greek is **not** all-caps | [P](https://www.plonkit.net/cyprus) |  |
+| Country | Tall **dark-brown wooden** utility poles; poletops = crossbar-insulators or a **harp-shaped** metal frame (symmetric 3-insulator top is Cyprus-specific) | [P](https://www.plonkit.net/cyprus) |  |
+| Country | Brightly-painted stone houses (tiled/flat roofs) w/ a white **horizontal cylindrical roof water tank**; Mediterranean scrub, olive/palm/cypress | [P](https://www.plonkit.net/cyprus) |  |
+| Region | Small hilly island, **centre highest** (orient by it); bright **limestone** on the south coast, **reddish soil** inland/NW; roads A/B/E/F grouped by first digit | [P](https://www.plonkit.net/cyprus) |  |
 
 ## Hong Kong
 Study: [Plonk It](https://www.plonkit.net/hong-kong)
@@ -1455,20 +1502,6 @@ Study: [Plonk It](https://www.plonkit.net/montenegro)
 | Country | Chevrons **black-on-white or red-on-yellow** (Albania = white-on-black) | [P](https://www.plonkit.net/montenegro) |  |
 | Country | Guardrails often **rusted**; Montenegro is the only Balkan country where both **A- and B-type** guardrails are common | [P](https://www.plonkit.net/montenegro) |  |
 | Region | North = green farmland valleys; **Bay of Kotor** touristy w/ a steep rocky ridge; Podgorica = dry mountains + vineyards; **Durmitor NP** = grassy treeless high mountains | [P](https://www.plonkit.net/montenegro) |  |
-
-## Cyprus
-Study: [Plonk It](https://www.plonkit.net/cyprus)
-
-| Cat | Hint | Src | SV |
-|---|---|---|---|
-| Country | Drives on the **left** (former UK colony); plates are white EU **or** UK-style yellow-rear, most w/ an EU strip; red rental plates common | [P](https://www.plonkit.net/cyprus) |  |
-| Country | **Greek + English** everywhere (Greek alphabet, softer than Cyrillic); only the **southern** half is covered | [P](https://www.plonkit.net/cyprus) |  |
-| Country | Gen4 **'smallcam'** mounted low, big circular blur w/ a small front protrusion, sometimes a short **antenna on the back** (Greek smallcam never has an antenna) | [P](https://www.plonkit.net/cyprus) |  |
-| Country | Bollards like Turkey's (red front / white back reflector) but **triangular w/ a slanted top**, not flat | [P](https://www.plonkit.net/cyprus) |  |
-| Country | **Town-entry signs**: yellow rectangle w/ red border (or small white one) w/ Greek+English + a speed sign above — unique; directional signs like Greece but Greek is **not** all-caps | [P](https://www.plonkit.net/cyprus) |  |
-| Country | Tall **dark-brown wooden** utility poles; poletops = crossbar-insulators or a **harp-shaped** metal frame (symmetric 3-insulator top is Cyprus-specific) | [P](https://www.plonkit.net/cyprus) |  |
-| Country | Brightly-painted stone houses (tiled/flat roofs) w/ a white **horizontal cylindrical roof water tank**; Mediterranean scrub, olive/palm/cypress | [P](https://www.plonkit.net/cyprus) |  |
-| Region | Small hilly island, **centre highest** (orient by it); bright **limestone** on the south coast, **reddish soil** inland/NW; roads A/B/E/F grouped by first digit | [P](https://www.plonkit.net/cyprus) |  |
 
 ## Luxembourg
 Study: [Plonk It](https://www.plonkit.net/luxembourg)

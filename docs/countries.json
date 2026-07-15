@@ -3401,7 +3401,7 @@
   {
    "name": "Cyprus",
    "slug": "cyprus",
-   "continent": "Europe",
+   "continent": "Asia",
    "area_km2": 9251,
    "links": {
     "plonkit": "https://www.plonkit.net/cyprus",
@@ -7722,7 +7722,7 @@
    "area_km2": 199951,
    "links": {
     "plonkit": "https://www.plonkit.net/kyrgyzstan",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/62f89a5b9d49e9c006de4ed5"
    },
    "videos": [
     {
@@ -7733,61 +7733,172 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Plates have a **red strip** (also seen in Albania, very rarely the UAE)",
+     "type": "plates",
+     "text": "Plates have a **red strip**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "2Ewh",
      "img": "Kyrgyzstan_License_Plate.png",
-     "type": "plates"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "albania",
+       "note": "Albanian plates can also carry a **single red strip on the left** — the only European country with red on the plate.",
+       "diff": "Albania = Gen4 camera, Mediterranean landscape, **Latin** script; bollards with black top + red reflector.",
+       "img": "albania_plate.png"
+      },
+      {
+       "slug": "united-arab-emirates",
+       "note": "Very rarely, UAE plates show a red element too.",
+       "diff": "UAE = desert, **Arabic** script, white Gen3 car with black roof racks — nothing like snowy Central Asia.",
+       "img": "gen3car.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Silver car with four bars** visible; all coverage is **Gen3** (no similar-landscape country has this car)",
+     "type": "cars",
+     "text": "**Silver car with four bars** visible; all coverage is **Gen3**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "L1ht",
      "img": "Please_dont_guess_Guatemala.png",
-     "type": "cars"
+     "uniq": "unique*",
+     "uniq_note": "Other countries have similar silver Street View cars (e.g. **Guatemala**), but no country with a **similar landscape** has one — and none of them uses the **Cyrillic** alphabet."
     },
     {
      "cat": "country",
-     "text": "**Kyrgyz Cyrillic** w/ extra letters **Ө Ү Ң** (not in Russian Cyrillic)",
+     "type": "language",
+     "text": "**Kyrgyz Cyrillic** — like Russian but with extra letters **Ө Ү Ң** (not in Russian Cyrillic)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "3dxS",
      "img": "kg_language.png",
-     "type": "language"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "kazakhstan",
+       "note": "Kazakh Cyrillic ALSO has **Ө Ү Ң** — plus even more extras: **Ә Ғ Қ Ұ Һ І**.",
+       "diff": "Spot **Ә Қ Ғ Ұ І** → Kazakhstan. Camera: KZ = white pickup (often Gen4), KG = silver Gen3 car with 4 bars.",
+       "img": "kz_language.png"
+      },
+      {
+       "slug": "mongolia",
+       "note": "Mongolian Cyrillic has **Ө Ү** too (but no Ң) and loves double vowels (аа, ээ, уу).",
+       "diff": "Double vowels or the **ЗОГС** stop sign → Mongolia; yurts + bowling-pin bollards seal it.",
+       "img": "1._language.png"
+      },
+      {
+       "slug": "russia",
+       "note": "Plain Russian Cyrillic — none of the Kyrgyz extra letters.",
+       "diff": "No **Ө Ү Ң** anywhere → think Russia (its distinctive letters are Ы Э Ё Ъ). Plates fully white, no red strip.",
+       "img": "cyrillic.png"
+      },
+      {
+       "slug": "ukraine",
+       "note": "Ukrainian Cyrillic instead has **Є Ґ І Ї** — including a Latin-looking i.",
+       "diff": "A Latin-looking **і** inside Cyrillic text → Ukraine, not Kyrgyzstan.",
+       "img": "Ukrainian_language.png"
+      },
+      {
+       "slug": "bulgaria",
+       "note": "Bulgarian is Cyrillic too, but easy to tell apart: signs very often mix **Cyrillic + Latin** transliterations.",
+       "diff": "Latin everywhere alongside Cyrillic + **EU blue strip on plates** (very common sight) → Bulgaria. Bulgarian also uses **Ъ** as a vowel mid-word.",
+       "img": "bg_language.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "All covered in **winter** (leafless trees, drab, snow in many parts); trees & poles painted **white at the bottom**",
+     "type": "landscape",
+     "text": "All coverage was captured in **winter**",
+     "bullets": [
+      "Many trees are **leafless**, colours drab",
+      "**Snow** visible in many parts of the country"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "MVMj",
+     "img": "ui_remover.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "russia",
+       "note": "Parts of Russia also have snowy, leafless Gen3 coverage.",
+       "diff": "Check the camera: KG = **silver car w/ 4 bars**; Russia = black/white Gen3 car w/ **long antenna** (or Gen4). Plates: KG red strip vs RU fully white.",
+       "img": "gen3car.png"
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "utility",
+     "text": "Trees & concrete poles painted **white at the bottom**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "vu1b",
      "img": "Kyrgyzstan_White_Paint_hint.png",
-     "type": "landscape"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "russia",
+       "note": "White-painted trunks and pole bottoms are a **post-Soviet standard** — Russia is full of them.",
+       "diff": "Fully white plates + long-antenna Gen3 or Gen4 → Russia.",
+       "img": "Russian_pole.png"
+      },
+      {
+       "slug": "kazakhstan",
+       "note": "Tree-trunk bottoms often painted white; infrastructure is very Russia-like.",
+       "diff": "White **pickup** camera car → Kazakhstan.",
+       "img": "Russian_Infra_Hint.png"
+      },
+      {
+       "slug": "ukraine",
+       "note": "Random objects incl. trees & poles painted white (or blue-and-yellow) are common.",
+       "diff": "Plate with **blue-yellow strip** on the left + some of Europe's worst roads → Ukraine.",
+       "img": "Bad_roads2.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Simple **white bollards w/ a diagonal black stripe** near the top",
+     "type": "bollards",
+     "text": "Simple **white bollards with a diagonal black stripe** near the top",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "EsCZ",
      "img": "Kyrgyzstan_Bollards.png",
-     "type": "bollards"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "russia",
+       "note": "Russia uses masses of white/black-striped bollards at its unusually wide intersections.",
+       "diff": "Sheer bollard quantity + fully white plates → Russia; combine with the car meta.",
+       "img": "bollardspam.png"
+      },
+      {
+       "slug": "mongolia",
+       "note": "Mongolia's white **bowling-pin bollards** with two red stripes look similar from afar.",
+       "diff": "Pin shape + **red** (not black) stripes → Mongolia.",
+       "img": "1._bollard.png"
+      }
+     ]
     },
     {
      "cat": "country",
+     "type": "signs",
      "text": "km markers with a **red-and-white triangle pattern** are unique to Kyrgyzstan",
      "src": [
       "plonkit"
@@ -7795,10 +7906,11 @@
      "sv": null,
      "anchor": "o27C",
      "img": "Kyrg_KM_marker.png",
-     "type": "signs"
+     "uniq": "unique"
     },
     {
      "cat": "country",
+     "type": "arch",
      "text": "Majority **Muslim** → many mosques throughout the country",
      "src": [
       "plonkit"
@@ -7806,18 +7918,569 @@
      "sv": null,
      "anchor": "12Oi",
      "img": "Mosques.png",
-     "type": "general"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "kazakhstan",
+       "note": "Kazakhstan is Muslim-majority too — mosques across very similar steppe/mountain towns.",
+       "diff": "White pickup camera car (often Gen4) + Kazakh extra letters **Ә Қ Ғ** → Kazakhstan."
+      }
+     ]
     },
     {
      "cat": "region",
-     "text": "Very limited coverage; **car-mirror meta** narrows region (southern mirror is more diagonal → Osh/Manas); **Lake Issyk-Kul** in the north; divided roads → around Bishkek",
+     "type": "general",
+     "text": "Coverage is **very limited** — learning the covered roads pays off massively",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "34JI",
      "img": "Kyrgyzstan_Coverage_Map_V4.png",
-     "type": "naming"
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "cars",
+     "text": "Learn the **Google-car driving direction** on the major roads to narrow down options",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Wxhl",
+     "img": "Kyrgyzstan_Driving_Directions_V2.png"
+    },
+    {
+     "cat": "region",
+     "type": "cars",
+     "text": "**Car-mirror metas** — the mirror region-guesses Kyrgyzstan",
+     "bullets": [
+      "**Southern mirror**: less road visible in the mirror, car reflection more diagonal → Osh / Manas region",
+      "West of the roundabout up to Manas the southern mirror carries **varying dirt** (\"Southern Dirty Mirror\")",
+      "A **small black dot** on the mirror → the Sokuluk–Kara Balta belt and nearby northern roads"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "ZLuz",
+     "img": "Just_look_at_the_mirror_V8_too_many.png",
+     "imgs": [
+      "Keep_looking_at_the_mirror_V2.png",
+      "Copy_of_Just_look_at_the_mirror_again_V2.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "utility",
+     "text": "**Divided roads** are concentrated in and around Bishkek; a major divided highway runs Bishkek → Balykchy",
+     "bullets": [
+      "A few marked cities elsewhere also have at least one divided road"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "fmun",
+     "img": "Divided_roads_Hint_1.png"
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Lake Issyk-Kul** is the biggest body of water — often visible from the roads north & south of it",
+     "bullets": [
+      "If buildings/trees block it, the **absence of mountains** toward the lake is the tell",
+      "Don't confuse with **Toktogul Reservoir** or **Lake Song-Kul** — distinguishable with practice"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "QvzN",
+     "img": "Lake_Issyk_Kul_v2.png"
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Northern roads**: considerable snow + generally bright sky",
+     "bullets": [
+      "The south has snowy roads too — use the **mirror meta** to separate them"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "inQ0",
+     "img": "Northern_Snowy_Region_Hint_1.png"
+    },
+    {
+     "cat": "city",
+     "area": "Bishkek & surroundings",
+     "type": "arch",
+     "text": "**Bishkek** is by far the most developed city — many taller multi-storey buildings, fancier buildings on the outskirts; mountains to the south (often hard to see)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "A2PE",
+     "img": "Bishkek_1.png"
+    },
+    {
+     "cat": "city",
+     "area": "Bishkek & surroundings",
+     "type": "landscape",
+     "text": "Urban **snow coverage** exists in one region of Bishkek",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "ojLs",
+     "img": "Bishkek_Snow_coverage.png"
+    },
+    {
+     "cat": "city",
+     "area": "Bishkek & surroundings",
+     "type": "landscape",
+     "text": "South of Bishkek: hilly, snowy **Tian Shan** to the south, visible **smog** to the north (most polluted city air)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "62fd",
+     "img": "South_of_Bishkek.png"
+    },
+    {
+     "cat": "city",
+     "area": "Bishkek & surroundings",
+     "type": "utility",
+     "text": "Towns east & west of Bishkek feature **colourful poles** — yellow, green, white, sometimes red on top",
+     "bullets": [
+      "**Sokuluk**'s poles lack the red top",
+      "Not to be confused with **Talas** (white bottom + red-and-yellow stripes)"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "AzjI",
+     "img": "Around_Bishkek_Poles_v2.png"
+    },
+    {
+     "cat": "city",
+     "area": "Osh",
+     "type": "general",
+     "text": "**Osh** = 2nd-biggest city; has the **southern mirror**; weather fair with some clouds — never fully overcast (that's Manas)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "4fuX",
+     "img": "Osh_vibe.png"
+    },
+    {
+     "cat": "city",
+     "area": "Osh",
+     "type": "landscape",
+     "text": "Trees in Osh mostly **keep their leaves** (vs leafless Bishkek)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Xj8m",
+     "img": "Osh_leaves.png"
+    },
+    {
+     "cat": "city",
+     "area": "Osh",
+     "type": "landscape",
+     "text": "In the centre you can see **mountains with radio masts** on top",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "iGgZ",
+     "img": "Osh_1.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "city",
+     "area": "Manas (Jalal-Abad)",
+     "type": "general",
+     "text": "**Manas** (prev. Jalal-Abad) = 3rd-biggest city; southern mirror; **extremely overcast** with no cloud gaps (vs Osh's fair weather); slightly snowy hill to the east",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "2Zlc",
+     "img": "Jalal-Abad.png"
+    },
+    {
+     "cat": "city",
+     "area": "Arslanbob",
+     "type": "landscape",
+     "text": "**Arslanbob** — snowy mountain resort town north of Manas; big elevation changes inside the town; southern mirror",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "eZI4",
+     "img": "Arslanbob_v2.png"
+    },
+    {
+     "cat": "city",
+     "area": "Uzgen",
+     "type": "general",
+     "text": "**Uzgen** — slightly snowy town between Osh & Manas; overcast coverage; southern mirror",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "TQ4c",
+     "img": "Uzgen_V2.png"
+    },
+    {
+     "cat": "city",
+     "area": "Talas",
+     "type": "utility",
+     "text": "In **Talas** most poles are painted white at the bottom **with red & yellow stripes**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "eqAn",
+     "img": "Talas_Poles_V2.png"
+    },
+    {
+     "cat": "city",
+     "area": "Karakol",
+     "type": "landscape",
+     "text": "**Karakol** sits between snow-capped mountains north & south; sunny coverage; melting snow on the ground",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "k6Cg",
+     "img": "Karakol_V2.png"
+    },
+    {
+     "cat": "city",
+     "area": "Naryn",
+     "type": "landscape",
+     "text": "**Naryn** — steep **orange ridge** to the north, big snow-capped mountains to the south",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Fajq",
+     "img": "Naryn_2.png"
+    },
+    {
+     "cat": "special",
+     "type": "naming",
+     "text": "**Road metas below** use OSM road numbers (Google Maps mislabels them) — in-game, orient by town names",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "JDm8"
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**EM-04** — the major road Bishkek → Osh",
+     "bullets": [
+      "Sokuluk→Kara Balta: distinct **sunset** coverage (Black Dot Mirror)",
+      "Flat stretch with the **Tian Shan to the south** — the further away, the foggier they look (Black Dot Mirror)",
+      "Steep rocky cliffs w/ **purple/red tint**, only grass & shrubs; small river beside road; **brown metal pylons** + curved concrete guardrails (Black Dot Mirror)",
+      "Long stretch: snow everywhere **except on the road**; hilly, mountainous at the NE & SW ends (mostly Black Dot Mirror)",
+      "Mountain section: rocky cliffs with **spruces**, mixed trees along the river, snowy peaks; most signposts **blue**",
+      "**Dried-up part of Toktogul Reservoir** north or south of the road; tall mountains close on every side; N half desolate, S more vegetated",
+      "**Toktogul as an actual lake** north of the road; hilly (esp. south); road in better condition than the one south of Issyk-Kul",
+      "River gorge with large rocky mountains; **overcast**; the Naryn river usually visible to the north",
+      "Southern flats: lots of agriculture & roadside vegetation; hills close to the N/E (Southern Dirty Mirror)",
+      "NW of Uzgen: **overcast + lots of snow** (Southern Mirror)"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "G1cQ",
+     "img": "Kyrgyzstan_EM-04.png",
+     "imgs": [
+      "Em-04_Section_1_1.png",
+      "Em-04_Section_2.png",
+      "Em-04_Section_3.png",
+      "EM-9_Section_3_v2__281_29.png",
+      "EM-04_section_5.png",
+      "EM-04_section_7_1.png",
+      "EM-04_section_8.png",
+      "Nice_Valley_Road_V2.png",
+      "EM-04_section_10.png",
+      "EM-04_Section_11.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**EM-11** (A365 on Google Maps) — Bishkek down to the Chinese border",
+     "bullets": [
+      "Divided start: **grassy median** until Khun-Chi",
+      "Khun-Chi → E of Tokmok: **wide-gap double road lines** as the median",
+      "The gap thins further east, until past Kemin",
+      "Then **concrete barriers** as medians",
+      "Undivided south of Balykchy: extremely dry shrubland (greener along the **Chu river**); clouds ONLY above the northern mountains",
+      "Dry valley flanked by mountains, shrubs only; slightly **snowy ridge to the north** in the southern half",
+      "Next valley: rocky mountains **with trees**; very bad pavement → **dust clouds**",
+      "Out of the valley: greener, more buildings & animals on grassy fields; **snowy mountains south**; hills N of Naryn dry but snow in the shade",
+      "South of Naryn: unique mix of **snow + red soil**",
+      "**At-Bashi valley**: distinct uniform range to the south, scattered mountains north, big hills west"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "MJXD",
+     "img": "Kyrgyzstan_A365_EM-11.png",
+     "imgs": [
+      "EM-11_Section_1.png",
+      "EM-11_Section_2_v3.png",
+      "EM-11_Section_2.5.png",
+      "EM-11_Section_3.png",
+      "EM-11_Section_4.png",
+      "Chu_River_valley.png",
+      "A365_Section_5.png",
+      "Copy_of_A365_Section_6.png",
+      "EM-11_Section_9.png",
+      "EM-11_Section_10.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**EM-09** — Balykchy → Karakol along the NORTH shore of Issyk-Kul",
+     "bullets": [
+      "Lake usually visible to the **south**; car drives **east** (last stretch south)",
+      "Balykchy → Cholpon-Ata: **sunny**, mountains north + lake south",
+      "East of Cholpon-Ata: **overcast**, tall tree rows along the road",
+      "Vertical stretch north of Karakol: tall tree rows; snowy mountains N & S; the weather flips around the midpoint"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "d3j2",
+     "img": "Kyrgyzstan_EM-09.png",
+     "imgs": [
+      "Sunny_Stretch_North_of_Issyk_Kul_2.png",
+      "Overcast_Stretch_North_of_Issyk_Kul_3.png",
+      "EM-9_Section_3_v2.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**EM-10** (A363) — Karakol → Balykchy along the SOUTH shore of Issyk-Kul",
+     "bullets": [
+      "Lake now visible to the **north**; car drives **west**",
+      "West of Karakol: lush roadside vegetation, green/yellow fields; Tian Shan far north, big mountains south; weather fully clear east of one intersection",
+      "Middle: lake + Tian Shan almost always in view; **sandy/rocky soil**",
+      "West of \"Fairytale Canyon\": distinct **sunset** coverage",
+      "Mountains & hills south, low hills north with seemingly **nothing behind them**; lots of roadside sand",
+      "Western lake end: driest part; lake & hills sit further from the road"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "DmFj",
+     "img": "Kyrgyzstan_EM-10_.png",
+     "imgs": [
+      "EM-10_Section_1_v2.png",
+      "EM-10_Section_2_v2.png",
+      "EM-10_Section_3_v2.png",
+      "EM-10_Section_4_v2.png",
+      "EM-10_Section_5_v2.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**EM-17** — southeast of Talas",
+     "bullets": [
+      "Very snowy hills & mountains; road often covered in uncleared **slush/melted snow** — unlike the other snowy roads (Black Dot Mirror)",
+      "Further west: only the southern hills snowy; otherwise dry, hills N & S (mostly Black Dot Mirror)"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "6CzN",
+     "img": "Kyrgyzstan_EM-17.png",
+     "imgs": [
+      "EM-17_Section_1.png",
+      "EM-17_Section_2.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**EM-13** — small gravel road near Kazarman (only bits covered)",
+     "bullets": [
+      "East of Kazarman: unpaved gravel between two hilly ridges; the northern ridge is further away with bigger mountains behind — incl. one **towering peak**",
+      "Eastern side resembles the road west of Naryn, but unpaved & hills closer to the north; bushes, shrubs, grass",
+      "The one town in the region: **white-and-red fences with a white diamond pattern**"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "yBju",
+     "img": "Kyrgyzstan_EM-13.png",
+     "imgs": [
+      "EM-13_Section_1.png",
+      "EM13_Section_2.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**M-072** — west of Naryn, south side of the dry Naryn valley",
+     "bullets": [
+      "Hills close on the **south** side with bigger mountains behind; wide plain to the north with distant hills",
+      "Pavement often has a **salt-and-pepper** look"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "3a0E",
+     "img": "The_other_straight_road_west_of_naryn.png"
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**M-068** — east of Naryn, also in the Naryn valley",
+     "bullets": [
+      "Hills close to the south (with **some snow**), further away north; the northern plains are smaller",
+      "More built up than M-072; the road itself is unpaved in parts"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "LbHc",
+     "img": "Road_East_of_Naryn_Hint.png"
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**M-082** — Song-Kul and the mountains south of it",
+     "bullets": [
+      "**Song-Kul** = the 2nd major lake; dry rolling hills with snow patches; the only covered road is **gravel**",
+      "South of Song-Kul: the only unpaved road this high up — **clouds below you**, rugged peaks, snowy cliff sides, spruces"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "mRIF",
+     "img": "Kyrgyzstan_M-082.png",
+     "imgs": [
+      "Song-Kul_hint.png",
+      "Mountains_South_of_Song-Kul_hint.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**M-118** — Arslanbob down into the Fergana valley",
+     "bullets": [
+      "**Kara Darya river** east of/below the road; hilly & green; low snowy mountains far north (Southern Dirty Mirror)",
+      "Northern part: snow on the ground (more the further north); massive **Gora Babash-Ata** mountain to the north (Southern Dirty Mirror)"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "lQRo",
+     "img": "Kyrgyzstan_M-118.png",
+     "imgs": [
+      "M118_Section_1.png",
+      "M118_Section_2.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**M-107** — Taskomur → Kerben (only the first half covered)",
+     "bullets": [
+      "Dry & rocky; one specific **ridge** is visible from most of the section",
+      "Further west: very hilly & lush (tall grass, trees, bushes); **concrete-barrier guardrails with cement above the gaps**; drives SE → NW"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "lTAS",
+     "img": "Kyrgyzstan_M-107.png",
+     "imgs": [
+      "M-107_Section_1_1.png",
+      "M-107_Section_2.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Arkit road** — up to Sary-Chelek lake, one of the most unique roads",
+     "bullets": [
+      "Vegetated valley with many buildings & fences near the road; poor, unpaved, potholed; darker clouds north — cloudier + more dead trees toward Arkit; drives **S → N**",
+      "Near Arkit: snow everywhere + low broad-leaved trees — paired with the S→N direction, very easy to recognise"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "XlwN",
+     "img": "Kyrgyzstan_M-Arkit.png",
+     "imgs": [
+      "Arkit_road_Section_1.png",
+      "Arkit_Snow_v2.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Other smaller covered roads**",
+     "bullets": [
+      "M-010: spruce-covered snowy mountains; snow gathered at the road sides",
+      "Chunkurchak dirt road (S of Bishkek): rocky, partly **red-tinted soil**, snowy hills south; **red-and-white bollards**",
+      "Road east of Chunkurchak: rocky valley, varied mountainside plants, patchy snow (more in the south)",
+      "A367 (EM-18): snow-covered ranges in every direction; **blinding sun to the south** (Black Dot Mirror)",
+      "Airport road N of Bishkek (EM-14): divided, **yellow-and-black median curbs**, grassy median with planted trees; poles with red+yellow bottom paint",
+      "EM-01 (NE-bound, N of Bishkek): **sunset** coverage",
+      "South of Jeti-Oguz: green valley, snow patches, Tian Shan north + snowy mountains south; unique **orange rock formations**",
+      "North of Grigorievka: stunning spruce river valley with **no snow**; northern half = open rolling fields with scattered pines",
+      "North of Orto-Tokoy reservoir: broken coverage; well-kept road in dry mountains; **silhouette-dark mountains north**; reservoir visible in the south",
+      "SW of Naryn: remote gravel road in a desolate valley; steep rocky cliffs; snow (more in the south)"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Brcu",
+     "img": "EM-10_Section_1_2.png",
+     "imgs": [
+      "Squiggle_Road_Section_1_2.png",
+      "Straight_Road_Section_1.png",
+      "EM-18_Section_1.png",
+      "EM14_Section_1.png",
+      "EM01_Section_1.png",
+      "Jeti_Oguz_road_hint.png",
+      "Spruces.png",
+      "EM-23.png",
+      "Sandy_Valley_.png"
+     ]
     }
    ]
   },

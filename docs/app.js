@@ -24,6 +24,7 @@ const TYPE_META = {
   utility:   { label: "Infrastructure",color: "#9aa7c4" },
   general:   { label: "General",       color: "#93a0bd" },
 };
+const TYPE_ORDER = Object.keys(TYPE_META);
 function guessType(h) {
   if (h.type) return h.type;
   const t = (h.text || "").toLowerCase();
@@ -228,15 +229,31 @@ function buildList() {
     names.filter(n => !doneNames.has(n)).forEach(n => list.appendChild(itemEl(n, null)));
   });
 }
+// Established shorthands → data country name (sidebar search). ccTLDs are matched
+// separately via CODE/domainFor, so 2-letter codes don't need to be listed here.
+const SEARCH_ALIAS = {
+  "uk": "United Kingdom", "gb": "United Kingdom", "britain": "United Kingdom",
+  "great britain": "United Kingdom", "england": "United Kingdom", "scotland": "United Kingdom",
+  "wales": "United Kingdom", "northern ireland": "United Kingdom",
+  "usa": "United States", "america": "United States", "the states": "United States",
+  "uae": "United Arab Emirates", "emirates": "United Arab Emirates",
+  "nz": "New Zealand", "holland": "Netherlands", "czech republic": "Czechia",
+  "korea": "South Korea", "israel": "Israel & the West Bank",
+  "palestine": "Israel & the West Bank", "west bank": "Israel & the West Bank",
+  "sao tome": "São Tomé and Príncipe", "dr": "Dominican Republic",
+};
 function itemEl(name, data) {
   const el = document.createElement("div");
   const cov = covSet.has(norm(name)) || !!data;
   el.className = "c-item" + (data ? " has" : "") + (cov ? " cov" : "");
   el.dataset.name = name.toLowerCase();
+  el.dataset.search = norm(name); // diacritics-insensitive haystack (São Tomé → sao tome)
+  el.dataset.domain = (domainFor(name) || "").replace(".", ""); // "de", "uk", …
+  el.dataset.alias = Object.keys(SEARCH_ALIAS).filter(k => SEARCH_ALIAS[k] === name).join("|");
   const fu = flagUrl(name, "w40");
   el.innerHTML = `<span class="dot"></span>`
     + (fu ? `<img class="flag" src="${fu}" alt="" onerror="this.style.visibility='hidden'">` : `<span class="flag"></span>`)
-    + `<span class="n">${name}</span>` + (data ? `<span class="cnt">${data.hints.length}</span>` : "");
+    + `<span class="n">${name}<span class="dommark"></span></span>` + (data ? `<span class="cnt">${data.hints.length}</span>` : "");
   if (data) el.onclick = () => { openCountry(data); flyTo(data); };
   return el;
 }
@@ -363,7 +380,9 @@ function renderHints() {
       .filter(h => !state.superOnly || isSuper(h))
       .filter(h => (h.src || []).some(s => state.srcs.has(s)))
       .filter(h => state.types.has(guessType(h)))
-      .filter(h => !state.q || h.text.toLowerCase().includes(state.q));
+      .filter(h => !state.q || h.text.toLowerCase().includes(state.q))
+      // group same-kind clues together (plates, then signs, …) — keeps long pages scannable
+      .sort((a, b) => TYPE_ORDER.indexOf(guessType(a)) - TYPE_ORDER.indexOf(guessType(b)));
     if (!hints.length) return;
     total += hints.length;
     const sec = document.createElement("div"); sec.className = "sec"; sec.dataset.cat = cat;
@@ -516,6 +535,66 @@ function imgUrlFor(file, w) {
   return `https://www.plonkit.net/images/resize/${w || 900}/80/${folder}/${encodeURIComponent(file)}`;
 }
 function imgUrl(h, w) { const l = imgList(h); return l.length ? imgUrlFor(l[0], w) : null; }
+// Resolve an image file against ANOTHER country's Plonk It folder (for uniq-dialog images).
+function imgUrlForSlug(slug, file, w) {
+  if (/^(https?:)?\/\//.test(file) || /^img\//.test(file)) return file;
+  const c = DATA.countries.find(x => x.slug === slug);
+  if (!c) return null;
+  const link = (c.links && c.links.plonkit) || "";
+  const folder = c.img_folder ||
+    link.replace(/^https?:\/\/(www\.)?plonkit\.net\//i, "").replace(/\/.*$/, "") || c.slug;
+  return `https://www.plonkit.net/images/resize/${w || 900}/80/${folder}/${encodeURIComponent(file)}`;
+}
+
+/* ---------- uniqueness badges + dialog (v4) ----------
+   h.uniq: "unique" | "unique*" | "shared" | absent (= country-specific info, no badge).
+   unique* carries h.uniq_note (caveat). shared carries h.shared_with:
+   [{slug, note, diff?, img?}] — all rendered in the uniq dialog, linked in-site. */
+function uniqBadgeHTML(h) {
+  if (!h.uniq) return "";
+  const scope = { country: "Country", region: "Region", state: "State", city: "City", special: "Country" }[h.cat] || "Country";
+  if (h.uniq === "unique")
+    return `<span class="uniq u">✦ ${scope} unique</span>`;
+  if (h.uniq === "unique*")
+    return `<span class="uniq u clickable" title="${(h.uniq_note || "").replace(/"/g, "&quot;")}">✦ ${scope} unique&nbsp;<b class="ast">*</b></span>`;
+  return `<span class="uniq s clickable" title="Also found elsewhere — click for the list & how to tell apart">⚠ Not unique</span>`;
+}
+function openUniq(h) {
+  const m = document.getElementById("uniqModal");
+  document.getElementById("uniq-title").textContent =
+    h.uniq === "unique*" ? "Unique — with a caveat" : "Not unique — also seen in…";
+  document.getElementById("uniq-quote").innerHTML = flagify(mdBold(h.text));
+  const body = document.getElementById("uniq-body"); body.innerHTML = "";
+  if (h.uniq === "unique*") {
+    const p = document.createElement("div"); p.className = "uq-note";
+    p.innerHTML = flagify(mdBold(h.uniq_note || ""));
+    body.appendChild(p);
+  }
+  (h.shared_with || []).forEach(s => {
+    const c = DATA.countries.find(x => x.slug === s.slug);
+    const name = c ? c.name : s.slug;
+    const row = document.createElement("div"); row.className = "uq-row";
+    const fu = c ? flagUrl(c.name, "w40") : null;
+    row.innerHTML =
+      `<a class="uq-head" href="#${s.slug}">` +
+        (fu ? `<img class="flag" src="${fu}" alt="">` : "") +
+        `<span class="nm">${name}</span><span class="go">open page →</span></a>` +
+      `<div class="uq-note">${flagify(mdBold(s.note || ""))}</div>` +
+      (s.diff ? `<div class="uq-diff"><b>How to tell apart:</b> ${flagify(mdBold(s.diff))}</div>` : "");
+    const files = s.imgs || (s.img ? [s.img] : []);
+    if (files.length) {
+      const iw = document.createElement("div"); iw.className = "uq-imgs";
+      files.forEach(f => {
+        const u = imgUrlForSlug(s.slug, f, 600);
+        if (u) iw.innerHTML += `<img src="${u}" alt="" loading="lazy" onerror="this.style.display='none'">`;
+      });
+      row.appendChild(iw);
+    }
+    row.querySelector(".uq-head").onclick = () => m.classList.remove("open"); // hash routing opens the country
+    body.appendChild(row);
+  });
+  m.classList.add("open");
+}
 function cardEl(h) {
   const ty = guessType(h); const tm = TYPE_META[ty] || TYPE_META.general;
   const card = document.createElement("div"); card.className = "card" + (isSuper(h) ? " super" : "");
@@ -530,11 +609,13 @@ function cardEl(h) {
     gimgHTML +
     `<div class="body">` +
       (isSuper(h) ? `<div class="keytag">⭐ Key regional clue</div>` : "") +
-      `<div class="type"><i style="background:${tm.color}"></i>${tm.label}</div>` +
+      `<div class="type"><i style="background:${tm.color}"></i>${tm.label}${uniqBadgeHTML(h)}</div>` +
       `<div class="t">${flagify(mdBold(h.text))}</div>` +
       (h.bullets && h.bullets.length ? `<ul class="blist">${h.bullets.map(b => `<li>${flagify(mdBold(b))}</li>`).join("")}</ul>` : "") +
       (meta ? `<div class="m">${meta}</div>` : "") +
     `</div>`;
+  const ub = card.querySelector(".uniq.clickable");
+  if (ub) ub.onclick = (e) => { e.stopPropagation(); openUniq(h); };
   const body = card.querySelector(".body");
   const openBtn = (label) => {
     const b = document.createElement("button"); b.className = "imgbtn"; b.textContent = label;
@@ -676,6 +757,8 @@ function wireUI() {
   document.getElementById("covModal").addEventListener("click", e => { if (e.target.id === "covModal") document.getElementById("covModal").classList.remove("open"); });
   document.getElementById("src-close").onclick = () => document.getElementById("srcModal").classList.remove("open");
   document.getElementById("srcModal").addEventListener("click", e => { if (e.target.id === "srcModal") document.getElementById("srcModal").classList.remove("open"); });
+  document.getElementById("uniq-close").onclick = () => document.getElementById("uniqModal").classList.remove("open");
+  document.getElementById("uniqModal").addEventListener("click", e => { if (e.target.id === "uniqModal") document.getElementById("uniqModal").classList.remove("open"); });
   document.querySelectorAll("#viewtoggle .vt-btn").forEach(b => {
     b.onclick = () => { state.view = b.dataset.view; saveView(state.view); syncViewToggle(); if (selected) renderHints(); };
   });
@@ -683,8 +766,19 @@ function wireUI() {
   document.getElementById("d-search").oninput = (e) => { state.q = e.target.value.trim().toLowerCase(); renderHints(); };
   const s = document.getElementById("search");
   s.oninput = () => {
-    const q = s.value.trim().toLowerCase();
-    document.querySelectorAll(".c-item").forEach(el => el.classList.toggle("hidden", q && !el.dataset.name.includes(q)));
+    const raw = s.value.trim().toLowerCase();
+    const domOnly = raw.startsWith("."); // ".de" = explicit domain query → domain matches only
+    const q = norm(raw);
+    const qDom = raw.replace(/^\./, ""); // ".de" and "de" both match the ccTLD
+    document.querySelectorAll(".c-item").forEach(el => {
+      const byName = !domOnly && q && el.dataset.search.includes(q);
+      const byAlias = !domOnly && q && (el.dataset.alias || "").split("|").some(a => a && (a === q || (q.length >= 2 && a.startsWith(q) && a.length <= 4)));
+      const byDomain = qDom && el.dataset.domain && el.dataset.domain === qDom;
+      el.classList.toggle("hidden", !!raw && !(byName || byAlias || byDomain));
+      // show WHY a domain-only match is in the result set: "Germany (.de)"
+      const mark = el.querySelector(".dommark");
+      if (mark) mark.textContent = raw && byDomain && !byName && !byAlias ? ` (.${el.dataset.domain})` : "";
+    });
     document.querySelectorAll(".cont-h").forEach(h => {
       let n = h.nextElementSibling, any = false;
       while (n && !n.classList.contains("cont-h")) { if (!n.classList.contains("hidden")) any = true; n = n.nextElementSibling; }
@@ -693,8 +787,10 @@ function wireUI() {
   };
   document.addEventListener("keydown", e => {
     if (e.key !== "Escape") return;
-    const im = document.getElementById("imgModal"), cm = document.getElementById("covModal"), sm = document.getElementById("srcModal");
-    if (sm.classList.contains("open")) sm.classList.remove("open");
+    const im = document.getElementById("imgModal"), cm = document.getElementById("covModal"),
+      sm = document.getElementById("srcModal"), um = document.getElementById("uniqModal");
+    if (um.classList.contains("open")) um.classList.remove("open");
+    else if (sm.classList.contains("open")) sm.classList.remove("open");
     else if (im.classList.contains("open")) im.classList.remove("open");
     else if (cm.classList.contains("open")) cm.classList.remove("open");
     else if (document.getElementById("detail").classList.contains("open")) document.getElementById("back").click();

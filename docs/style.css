@@ -245,6 +245,35 @@ code{background:#0a1120;border:1px solid var(--line);border-radius:4px;padding:0
 .sec-h .hbtn:hover{border-color:var(--accent2);background:#221a10}
 .empty{color:var(--dim);font-size:14px;padding:24px}
 .hidden{display:none}
+/* — uniqueness badges (v4) — */
+.uniq{display:inline-flex;align-items:center;gap:3px;margin-left:8px;padding:2px 7px;border-radius:6px;
+  font-size:9.5px;font-weight:800;letter-spacing:.05em;text-transform:uppercase;line-height:1.5;vertical-align:1px}
+.uniq.u{background:#0d2b1f;color:#5be0a8;border:1px solid #1c5c40}
+.uniq.s{background:#2e2410;color:#f0c063;border:1px solid #6a5322}
+.uniq.clickable{cursor:pointer}
+.uniq.u.clickable:hover{border-color:#5be0a8}
+.uniq.s.clickable:hover{border-color:#f0c063;background:#3a2d12}
+.uniq .ast{color:#fff;font-size:12px;line-height:0}
+/* — country search: domain-match marker "Germany (.de)" — */
+.c-item .dommark{color:var(--accent);font-weight:700;font-size:11px}
+/* — uniq dialog — */
+.modal-box.uniqm{width:min(640px,94vw);height:auto;max-height:90vh}
+.uq-body{padding:12px 14px 16px;display:flex;flex-direction:column;gap:10px;overflow-y:auto}
+.uq-note{font-size:13px;line-height:1.55;color:var(--ink)}
+.uq-row{border:1px solid var(--line);border-radius:10px;background:var(--panel2);padding:11px 13px;
+  display:flex;flex-direction:column;gap:7px}
+.uq-head{display:flex;align-items:center;gap:9px;text-decoration:none}
+.uq-head .flag{width:26px;height:18px;object-fit:cover;border-radius:3px;box-shadow:0 0 0 1px rgba(0,0,0,.4)}
+.uq-head .nm{font-size:14px;font-weight:700;color:var(--ink)}
+.uq-head .go{margin-left:auto;font-size:11px;font-weight:700;color:var(--accent);opacity:.75}
+.uq-head:hover .nm{color:var(--accent)} .uq-head:hover .go{opacity:1}
+.uq-row .uq-note{font-size:12.5px;color:var(--dim)}
+.uq-row .uq-note b{color:var(--ink)}
+.uq-diff{font-size:12.5px;line-height:1.5;color:#9fe8c9;background:#0d2317;border:1px solid #1c4a32;
+  border-radius:8px;padding:8px 10px}
+.uq-diff b{color:#5be0a8}
+.uq-imgs{display:flex;flex-wrap:wrap;gap:8px}
+.uq-imgs img{max-width:100%;width:260px;border-radius:8px;border:1px solid var(--line)}
 
 /* coverage modal */
 .modal{position:fixed;inset:0;z-index:50;background:rgba(4,7,13,.72);display:none;

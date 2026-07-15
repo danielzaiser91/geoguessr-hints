@@ -3,6 +3,11 @@
 Persistent resume file. If work is interrupted, read this + `geoguessr-hints.md` coverage
 tracker and continue from the first unchecked box.
 
+## v4 REQUESTS → see **V4_PLAN.md** (active)
+Full Plonk It completeness pass over all 136 countries + per-hint uniqueness classification
+(unique / unique* / shared→dialog / none) + search shorthands & ccTLD matching. Detailed plan,
+schema, workflow and the per-country checklist live in `V4_PLAN.md` — resume there.
+
 ## v2 REQUESTS
 1. ✅ **Official coverage feature.** Source found: Google `svv` vector/raster tiles, keyless —
    `https://mts{s}.googleapis.com/vt?lyrs=svv&style=40,18&x={x}&y={y}&z={z}` (technique from
