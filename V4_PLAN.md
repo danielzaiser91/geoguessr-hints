@@ -121,7 +121,7 @@ Format: `- [ ] slug` → check when BOTH captured-complete AND classified.
 **Asia:** - [x] kyrgyzstan · - [x] russia · - [x] china · - [x] india · - [x] indonesia ·
 - [x] japan · - [x] thailand · - [x] malaysia · - [x] philippines · - [x] vietnam ·
 - [x] south-korea · - [x] taiwan · - [x] kazakhstan · - [x] mongolia · - [x] sri-lanka ·
-- [x] bangladesh · - [x] cambodia · - [x] laos · - [x] nepal · - [ ] bhutan · - [ ] pakistan ·
+- [x] bangladesh · - [x] cambodia · - [x] laos · - [x] nepal · - [x] bhutan · - [ ] pakistan ·
 - [ ] turkey · - [ ] israel-west-bank · - [ ] jordan · - [ ] iraq · - [ ] lebanon ·
 - [ ] united-arab-emirates · - [ ] qatar · - [ ] oman · - [ ] singapore · - [ ] hong-kong ·
 - [ ] macau · - [ ] cyprus · - [ ] british-indian-ocean-territory
@@ -171,6 +171,10 @@ Format: `- [ ] slug` → check when BOTH captured-complete AND classified.
   verify via DOM checks + cache-busting query param (?v=N) since python http.server has no cache headers.
 
 ## Status
-- Infra: DONE (2026-07-15) · Countries: 14/136 (Asia: kyrgyzstan, russia, china, india, indonesia, japan, thailand, malaysia, philippines, vietnam, south-korea, taiwan, kazakhstan, mongolia) · Final passes: not started
-- Next up per checklist: sri-lanka, bangladesh, cambodia, laos, nepal, bhutan, pakistan, turkey, …
+- Infra: DONE (2026-07-15) · Countries: **20/136** (kyrgyzstan, russia, china, india, indonesia, japan,
+  thailand, malaysia, philippines, vietnam, south-korea, taiwan, kazakhstan, mongolia, sri-lanka,
+  bangladesh, cambodia, laos, nepal, bhutan) · Final passes: not started
+- Next up per checklist: **pakistan**, then turkey, israel-west-bank, jordan, iraq, lebanon, UAE, qatar,
+  oman, singapore, hong-kong, macau, cyprus, BIOT → then Europe (germany first).
+- Hint total 1385 → 1737 so far · uniq stats: 80 unique / 26 unique* / 82 shared.
 - NOTE russia is data continent "Europe" (matches MASTER). Russia rewritten 13→77 hints, china 7→17, india ~20→67.
