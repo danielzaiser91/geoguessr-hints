@@ -743,15 +743,23 @@ Study: [Plonk It](https://www.plonkit.net/laos)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Coverage = only **5 cities** (Vientiane, Vang Vieng, Luang Prabang, Savannakhet, Pakse), all **Gen3** | [P](https://www.plonkit.net/laos) |  |
-| Country | Car = **silver, roof rack w/ two metal bars, black mirrors** (visible in all cities except Vientiane; Guatemala's is similar) | [P](https://www.plonkit.net/laos) |  |
-| Country | Drives **right** (Thailand left); plates short **yellow** (Thai/Cambodian non-commercial plates are white); commercial white, government blue | [P](https://www.plonkit.net/laos) |  |
-| Country | **Lao script** — compact & curvy, with fewer straight lines than Thai | [P](https://www.plonkit.net/laos) |  |
-| Country | Majority **Buddhist** (ornate gold-leaf temples); **stop signs have 2 characters** (Thailand's have 3) | [P](https://www.plonkit.net/laos) |  |
-| Country | **Striped curbs** in various colours (red / yellow / black with white) | [P](https://www.plonkit.net/laos) |  |
-| Country | Square concrete poles with a **vertical row of pinholes** (also Thailand/Sri Lanka) | [P](https://www.plonkit.net/laos) |  |
-| Country | Square concrete **black-and-white bollards w/ black bands**; occasional red-white cuboid concrete bollard off the road | [P](https://www.plonkit.net/laos) |  |
-| Region | Communist govt → **hammer-and-sickle flags**; cities differ: Luang Prabang (historical + hills + palms), Vang Vieng (rugged mountains), Savannakhet (very flat), Pakse (red soil, arid, hills) | [P](https://www.plonkit.net/laos) |  |
+| Country | Coverage = only **5 cities**: Vientiane, Vang Vieng, Luang Prabang, Savannakhet, Pakse — all **Gen3** | [P](https://www.plonkit.net/laos) |  |
+| Country | Everywhere except Vientiane: **silver car w/ 2-bar roof rack + black side mirrors** visible | [P](https://www.plonkit.net/laos) |  |
+| Country | Drives on the **right** (Thailand = left) | [P](https://www.plonkit.net/laos) |  |
+| Country | Plates short & **yellow** (commercial = white, government = blue) | [P](https://www.plonkit.net/laos) |  |
+| Country | **Lao script**: compact & curvy with diacritics above/below — like Thai but with **fewer straight lines**; stop signs have **2 characters** (Thai: 3), sometimes Latin 'STOP' below | [P](https://www.plonkit.net/laos) |  |
+| Country | Majority **Buddhist** — ornate temples w/ gold-leaf detail (Thailand/Cambodia similar) | [P](https://www.plonkit.net/laos) |  |
+| Country | **Striped curbs** in many colours (red/yellow/black + white) throughout; some lamp posts w/ red-white diagonal stripes that stop above the base | [P](https://www.plonkit.net/laos) |  |
+| Country | **Square concrete poles w/ pinhole rows top-to-bottom** | [P](https://www.plonkit.net/laos) |  |
+| Country | Square concrete **black-white bollards with black band(s)**; red-white cuboid bollards a few metres off the road | [P](https://www.plonkit.net/laos) |  |
+| Country | Communist government — **hammer-and-sickle flags** appear | [P](https://www.plonkit.net/laos) |  |
+| City | Mekong riverside, low mountains/hills, palms; ex-royal capital & UNESCO site — historical dark-wood + French colonial architecture; **blue sign backs only here** | [P](https://www.plonkit.net/laos) |  |
+| City | **Rugged karst mountain range** visible from almost everywhere (least coverage of the 5 cities; actual coverage lies south of the map label); very touristy (hotel/guesthouse signs) | [P](https://www.plonkit.net/laos) |  |
+| City | Only area **without the roof-rack car**; much rural coverage SE — Thailand/Cambodia toss-ups: check driving side (TH left) & plates | [P](https://www.plonkit.net/laos) |  |
+| City | **Road 450** east: made entirely of concrete blocks, one of the few divided highways; Nong Beuak divided highway = distinctive **street lamps** (also on road 13's divided part — different angle); conservation-area road: hilly + dry forest, good pavement w/ coloured curbs + dashed outer lines (only single-lane road with b&w / y&w curbs) | [P](https://www.plonkit.net/laos) |  |
+| City | The only **trekker** in Laos: the monumental **Patuxai arch** war memorial (partly tripod coverage) | [P](https://www.plonkit.net/laos) |  |
+| City | **Very flat** — only visible mountains are across the Mekong in Thailand; soil slightly red-tinged (less than Pakse); on the map hidden under the 'Mukdahan' label — look west of Xeno | [P](https://www.plonkit.net/laos) |  |
+| City | Distinct **red soil**, uniquely dry vegetation + dry hills; the **1380 m Mekong bridge** is the only covered major bridge in Laos | [P](https://www.plonkit.net/laos) |  |
 
 ## Kyrgyzstan
 Study: [Plonk It](https://www.plonkit.net/kyrgyzstan) · [GeoGuessr map](https://www.geoguessr.com/maps/62f89a5b9d49e9c006de4ed5)
