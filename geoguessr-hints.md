@@ -903,20 +903,28 @@ Study: [Plonk It](https://www.plonkit.net/united-arab-emirates)
 | Region | Coverage mostly **NE**; **Dubai** skyscrapers (Burj Khalifa) + blue street signs; mountains only in the far east (Ras al Khaimah) | [P](https://www.plonkit.net/united-arab-emirates) |  |
 
 ## Sri Lanka
-Study: [Plonk It](https://www.plonkit.net/sri-lanka)
+Study: [Plonk It](https://www.plonkit.net/sri-lanka) · [GeoGuessr map](https://www.geoguessr.com/maps/643f1c68df6c69818466ea0c)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
 | Country | Plates: **long white front / short yellow rear** | [P](https://www.plonkit.net/sri-lanka) |  |
-| Country | Gen3 car front visible as **blue-white-red patches** (French-flag-like, red most distinct — unique to Sri Lanka); Gen4 = all **low-cam** | [P](https://www.plonkit.net/sri-lanka) |  |
-| Country | Scripts: **Sinhala** (curvy/rounded, everywhere) + **Tamil** (straighter lines, north/east) + some English | [P](https://www.plonkit.net/sri-lanka) |  |
-| Country | Concrete poles: square w/ **pinholes only near the top** (Thailand's reach the bottom) + **holey poles** (large holes on lower half — unique) | [P](https://www.plonkit.net/sri-lanka) |  |
-| Country | **Short wide tapered stone bollards** (black base, white top — unique); tall white waystones w/ a yellow road number | [P](https://www.plonkit.net/sri-lanka) |  |
-| Country | **Black-and-white striped signposts** (also BD/BT/IN/NP/MY); rural roads often have outer lines but no middle line | [P](https://www.plonkit.net/sri-lanka) |  |
-| Country | Tropical **lush green**, dense agriculture; **reddish soil** common (sometimes white sandy) | [P](https://www.plonkit.net/sri-lanka) |  |
-| Country | **Palm trees** very common; orange/red tiled roofs (often brownish from wear) | [P](https://www.plonkit.net/sri-lanka) |  |
-| Country | Majority **Buddhist** (temples, stupas, Buddhist flag); bulky **tuk-tuks with a black roof** (green/yellow/red) | [P](https://www.plonkit.net/sri-lanka) |  |
-| Region | Phone area codes (10-digit); religion by region: Buddhism most; **Hinduism + Tamil → north/east & Nuwara Eliya**; Islam = east coast; Christianity = NW (Mannar) | [P](https://www.plonkit.net/sri-lanka) |  |
+| Country | Gen3: car front shows **blue-white-red patches** through the blur ('French flag', red most visible) | [P](https://www.plonkit.net/sri-lanka) |  |
+| Country | All **Gen4 = low-cam** (bigger blur, wide-looking roads, low angle) — Gen3 here is normal height! | [P](https://www.plonkit.net/sri-lanka) |  |
+| Country | **Sinhala** (very curvy, rounded) everywhere + **Tamil** (straighter) regionally; some English | [P](https://www.plonkit.net/sri-lanka) |  |
+| Country | Concrete poles: **square w/ pinholes only in the top part** + **holey poles** (big see-through holes, lower half) | [P](https://www.plonkit.net/sri-lanka) |  |
+| Country | Short, wide tapered **stone bollards — black base, white top** | [P](https://www.plonkit.net/sri-lanka) |  |
+| Country | Tall white concrete **waystones with an indented bottom section + yellow road number** | [P](https://www.plonkit.net/sri-lanka) |  |
+| Country | **Black-white striped signposts** | [P](https://www.plonkit.net/sri-lanka) |  |
+| Country | Rural roads: **outer lines but no middle line** (most small roads have none at all) — good 50-50 decider | [P](https://www.plonkit.net/sri-lanka) |  |
+| Country | Tropical: lush green, densely populated, agricultural patchwork; often **reddish soil** (sometimes white sand); **palm trees** everywhere; orange/red **tiled roofs** with brownish wear | [P](https://www.plonkit.net/sri-lanka) |  |
+| Country | 70% **Buddhist**: temples, Buddha statues, stupas, Buddhist flags everywhere (minorities: Hindu 13%, Muslim 10%, Christian 7% — strongly regional) | [P](https://www.plonkit.net/sri-lanka) |  |
+| Country | **Tuktuks**: bulky shape w/ black roof — green/yellow/red common; some low-quality **'shitcam'** coverage exists (wide circular blur, brownish) | [P](https://www.plonkit.net/sri-lanka) |  |
+| Region | **Area codes**: landlines = 0 + 2 mapped digits (mobiles 07x non-regional) | [P](https://www.plonkit.net/sri-lanka) |  |
+| Region | **Religion = region**: Buddhism most of the country (absent north/parts of east coast); Hinduism north + east + Nuwara Eliya; Islam strongest east coast; Christianity northwest (Mannar) | [P](https://www.plonkit.net/sri-lanka) |  |
+| Region | **Tamil script ≈ Hindu areas**: native Tamils north+east; Indian Tamils around Nuwara Eliya; Tamil-ONLY signage → Tamil-majority areas (bilingual signs appear everywhere) | [P](https://www.plonkit.net/sri-lanka) |  |
+| Region | **Topography**: hills/mountains concentrated in the central-south; southwest = wet climate (deep green, dense); rest = drier (lower, open, brown-green mix — never truly arid; Gen3 looks more arid than reality) | [P](https://www.plonkit.net/sri-lanka) |  |
+| Region | **Tea plantations** → central + southwest, most just west of **Nuwara Eliya** (compact bright-green shrubs in rows on hillsides) | [P](https://www.plonkit.net/sri-lanka) |  |
+| Special | Distinct hilly **long-grass plains**, forests only in the distance | [P](https://www.plonkit.net/sri-lanka) |  |
 
 ## Bhutan
 Study: [Plonk It](https://www.plonkit.net/bhutan)
