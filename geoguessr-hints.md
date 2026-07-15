@@ -817,20 +817,28 @@ Study: [Plonk It](https://www.plonkit.net/cambodia)
 | Country | Majority **Buddhist** (ornate temples); **Angkor/Anchor** beer ads; blue **CPP** party signs (often 3 politicians) | [P](https://www.plonkit.net/cambodia) |  |
 
 ## Bangladesh
-Study: [Plonk It](https://www.plonkit.net/bangladesh)
+Study: [Plonk It](https://www.plonkit.net/bangladesh) · [GeoGuessr map](https://www.geoguessr.com/maps/64db7dec1f789a98ce84a1c1)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates white, black, or **turquoise** (the turquoise plate is unique to Bangladesh) | [P](https://www.plonkit.net/bangladesh) |  |
-| Country | **Bengali** script: continuous **line along the top** of words + many **triangular** letter shapes (vs Devanagari) | [P](https://www.plonkit.net/bangladesh) |  |
-| Country | Gen3 cars: red-mirror-w/-bars, classic white, **striped white** (don't confuse w/ Cambodia); Gen4 black/white; shitcam exists | [P](https://www.plonkit.net/bangladesh) |  |
-| Country | **Green auto-rickshaws** very common throughout the country | [P](https://www.plonkit.net/bangladesh) |  |
-| Country | **Black-and-white striped signposts** (also LK/BT/IN/NP/MY) | [P](https://www.plonkit.net/bangladesh) |  |
-| Country | **Red-and-white concrete bollards** nationwide (round or square form) | [P](https://www.plonkit.net/bangladesh) |  |
-| Country | Streets often **tree-lined** (white-painted trunk bottoms); water bodies + rice fields right beside roads | [P](https://www.plonkit.net/bangladesh) |  |
-| Country | **Tin roofs** very common; Gen4 coverage often has a **smoky/hazy feel** | [P](https://www.plonkit.net/bangladesh) |  |
-| Region | Roof east/west divide: **west = sheet-metal hip roofs**; **east (Sylhet) = metal roofs w/ a triangular 'window' below the ridge** | [P](https://www.plonkit.net/bangladesh) |  |
-| Region | Mostly dead-flat; **rice** grown twice yearly (its growth stage/colour → region in Gen4); forested hills in E. Chittagong; tea → Sylhet highlands | [P](https://www.plonkit.net/bangladesh) |  |
+| Country | Plates white, black or **turquoise** — the turquoise plate exists only in Bangladesh | [P](https://www.plonkit.net/bangladesh) |  |
+| Country | **Bengali**: continuous top line per word (like Devanagari) but many **triangular letters** | [P](https://www.plonkit.net/bangladesh) |  |
+| Country | Gen3 cars: **red-mirror w/ bars**, **classic white**, **striped white** (only the classic white isn't Bangladesh-unique) | [P](https://www.plonkit.net/bangladesh) |  |
+| Country | Gen4: **black or white car**; Gen4 often has a **smoky feel**; shitcam exists too (black/white car, sometimes fully blurred) | [P](https://www.plonkit.net/bangladesh) |  |
+| Country | **Rickshaws** everywhere — especially the green auto-rickshaws | [P](https://www.plonkit.net/bangladesh) |  |
+| Country | **Black-white striped signposts** | [P](https://www.plonkit.net/bangladesh) |  |
+| Country | **Water bodies + agricultural fields** right beside the roads; streets lined with trees, often **white-painted trunk bottoms** | [P](https://www.plonkit.net/bangladesh) |  |
+| Country | **Red-and-white concrete bollards** countrywide (circular or square) | [P](https://www.plonkit.net/bangladesh) |  |
+| Country | **Tin roofs** everywhere (common across humid South/SE Asia) | [P](https://www.plonkit.net/bangladesh) |  |
+| Region | **Roof styles split east/west**: west (Rajshahi/Khulna/Dhaka) = sheet-metal **hip roofs**; east (Sylhet exclusively; also Chittagong, Mymensingh, E-Rangpur, N-Dhaka) = metal roofs w/ **triangular 'window'** below the ridge; tiled roofs only on the Khulna/India border (West-Bengal style) | [P](https://www.plonkit.net/bangladesh) |  |
+| Region | **Rice growth stage = region** (Gen4 only!) | [P](https://www.plonkit.net/bangladesh) |  |
+| Region | Almost fully **flat** — exceptions: tall forested hills in E-Chittagong; E-W ridge on the Indian border seen from N-Sylhet/E-Mymensingh (often hazy) | [P](https://www.plonkit.net/bangladesh) |  |
+| Region | **Crop metas**: corn → west (Rajshahi/Rangpur/W-Mymensingh/N-Khulna, small patches S-Barishal); jute (tall green; dried on fences/roads anywhere) → Rangpur; canola → Dhaka N of Padma; tea → S-Sylhet highlands; fruit orchards → Rajshahi/Rangpur near India; sunflowers + watermelons → S-Barishal; eucalyptus → north (Rangpur/Rajshahi/Mymensingh); blossoming trees (spring coverage) → Khulna/Mymensingh/S-Dhaka; beach sheoaks → Teknaf coast + Noakhali | [P](https://www.plonkit.net/bangladesh) |  |
+| Region | **Copyright-year meta** (Gen4): 2022 → Mymensingh/Dhaka (+some Chittagong); 2023 → Rangpur/Rajshahi/Khulna/Barishal/Sylhet; 2024/25 everywhere | [P](https://www.plonkit.net/bangladesh) |  |
+| Region | **Coverage metas**: shitcam only in/around Dhaka; Gen3 white car → Dhaka, Chattogram + connecting highway; Gen3 striped car → yellow roads west of Dhaka | [P](https://www.plonkit.net/bangladesh) |  |
+| City | Gen3: a **guard with a hayfork** often visible beside the car | [P](https://www.plonkit.net/bangladesh) |  |
+| City | Another **guard beside the car** (not the Sylhet one; the same man rarely appears on trekkers elsewhere) | [P](https://www.plonkit.net/bangladesh) |  |
+| Special | **Trekker metas**: black-cover trekker → Khulna; red-mirror trekker → Nijhum Dwip (unique); scooter trekker (left mirror + hair) → Hatiya Island; security-guard escort → Saint Martin's Island | [P](https://www.plonkit.net/bangladesh) |  |
 
 ## Nepal
 Study: [Plonk It](https://www.plonkit.net/nepal)

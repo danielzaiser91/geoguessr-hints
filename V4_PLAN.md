@@ -120,7 +120,7 @@ Format: `- [ ] slug` → check when BOTH captured-complete AND classified.
 
 **Asia:** - [x] kyrgyzstan · - [x] russia · - [x] china · - [x] india · - [x] indonesia ·
 - [x] japan · - [x] thailand · - [x] malaysia · - [x] philippines · - [x] vietnam ·
-- [x] south-korea · - [x] taiwan · - [x] kazakhstan · - [x] mongolia · - [ ] sri-lanka ·
+- [x] south-korea · - [x] taiwan · - [x] kazakhstan · - [x] mongolia · - [x] sri-lanka ·
 - [ ] bangladesh · - [ ] cambodia · - [ ] laos · - [ ] nepal · - [ ] bhutan · - [ ] pakistan ·
 - [ ] turkey · - [ ] israel-west-bank · - [ ] jordan · - [ ] iraq · - [ ] lebanon ·
 - [ ] united-arab-emirates · - [ ] qatar · - [ ] oman · - [ ] singapore · - [ ] hong-kong ·
