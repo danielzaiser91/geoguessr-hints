@@ -833,19 +833,25 @@ Study: [Plonk It](https://www.plonkit.net/south-korea)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates: pre-2006 short **green**; post-2006 white (private) / **yellow** (commercial), long or short | [P](https://www.plonkit.net/south-korea) |  |
-| Country | Almost all **Gen3**; car back often visible (black/white/silver), **never an antenna**; lots of autumn/winter coverage | [P](https://www.plonkit.net/south-korea) |  |
-| Country | **Hangul** script — recognisable by the **circles** in many letters (unlike other East Asian scripts) | [P](https://www.plonkit.net/south-korea) |  |
-| Country | Utility poles: **black-yellow diagonal stripes** near the base (don't reach the bottom; Taiwan's do & are oranger); tapered **spike** on top | [P](https://www.plonkit.net/south-korea) |  |
-| Country | Drives **right**; yellow middle + white outer lines; occasional red block markings; yellow/white speed bumps | [P](https://www.plonkit.net/south-korea) |  |
-| Country | Triangular warning signs **yellow bg** (prohibition/yield = white); direction signs green w/ white text | [P](https://www.plonkit.net/south-korea) |  |
-| Country | Street signs **blue, arrow-shaped, hanging** from a bar on utility poles | [P](https://www.plonkit.net/south-korea) |  |
-| Country | Pedestrian-crossing signs = distinctive **pentagon shape, blue background** | [P](https://www.plonkit.net/south-korea) |  |
-| Country | Distinctive **house numbers**: blue, literally **house-shaped**, full address in Hangul + Latin | [P](https://www.plonkit.net/south-korea) |  |
-| Country | Wedge-shaped B&W bollards (round yellow reflector front, grey back) | [P](https://www.plonkit.net/south-korea) |  |
-| Country | Predominantly **mountainous** (almost always elevation on the horizon); red brick; traditional tiled roofs w/ upturned corners (blue roofs common) | [P](https://www.plonkit.net/south-korea) |  |
-| Region | **Jeju** = volcanic island: dark volcanic soil, **volcanic-rock walls**, volcanoes on the horizon; Gen2 → Seoul & Busan | [P](https://www.plonkit.net/south-korea) |  |
-| State | Coverage spotty (cities + highways); **area codes increase south** (02 Seoul → 064 Jeju; Seoul = only 2-digit code) | [P](https://www.plonkit.net/south-korea) |  |
+| Country | Plates: pre-2006 short **green**; post-2006 **white** private / **yellow** commercial (long & short) | [P](https://www.plonkit.net/south-korea) |  |
+| Country | Almost all road coverage = **Gen3**; car back usually visible — **black, white or silver**, never an antenna | [P](https://www.plonkit.net/south-korea) |  |
+| Country | Much coverage in **autumn/winter** (spring/summer not uncommon) | [P](https://www.plonkit.net/south-korea) |  |
+| Country | **Hangul** — very recognisable **circles in the letters**, unlike other East-Asian scripts | [P](https://www.plonkit.net/south-korea) |  |
+| Country | Utility poles: **black-yellow diagonal stripe markings** near the bottom + tapered **spike on top** | [P](https://www.plonkit.net/south-korea) |  |
+| Country | Drives on the **right** | [P](https://www.plonkit.net/south-korea) |  |
+| Country | **Yellow middle + white outer lines**; sometimes **red block markings** on the road; speed bumps painted **yellow-white** | [P](https://www.plonkit.net/south-korea) |  |
+| Country | Warning triangles **yellow** (prohibition circles & yield = white); direction signs **green with white text**; street signs **blue arrow-shaped**, often hanging from a bar on the pole | [P](https://www.plonkit.net/south-korea) |  |
+| Country | Pedestrian-crossing signs: **pentagonal shape + blue background** | [P](https://www.plonkit.net/south-korea) |  |
+| Country | **House-shaped blue house-number plaques** with the full address in Hangul + Latin (regional variants exist → spotlight) | [P](https://www.plonkit.net/south-korea) |  |
+| Country | Black-white **wedge-shaped bollards** — round **yellow reflector front**, grey back | [P](https://www.plonkit.net/south-korea) |  |
+| Country | Predominantly **mountainous** — even flat areas show elevation on the horizon | [P](https://www.plonkit.net/south-korea) |  |
+| Country | **Red brick** very common; traditional **tiled roofs** w/ decorated corners, slightly upcurved sides — **blue roofs** frequent | [P](https://www.plonkit.net/south-korea) |  |
+| Region | **Coverage limited & spotty** — mostly big highways + major cities | [P](https://www.plonkit.net/south-korea) |  |
+| Region | **Area codes increase southward**: 02 Seoul (only 2-digit) → 064 Jeju | [P](https://www.plonkit.net/south-korea) |  |
+| Region | **Gen2** almost only Seoul & Busan; small **camera above the brake light** → NE of Seoul + around Pohang | [P](https://www.plonkit.net/south-korea) |  |
+| State | Volcanic island: **dark volcanic dirt**, volcano views, **black rock walls** | [P](https://www.plonkit.net/south-korea) |  |
+| Special | One of the only **completely flat** areas — open yellow-green fields along nearly every road | [P](https://www.plonkit.net/south-korea) |  |
+| Special | House numbers with a **large white section on top** | [P](https://www.plonkit.net/south-korea) |  |
 
 ## Jordan
 Study: [Plonk It](https://www.plonkit.net/jordan)
@@ -908,21 +914,34 @@ Study: [Plonk It](https://www.plonkit.net/bhutan)
 | Region | Coverage on main roads + cities; south is flat (only 4 regions covered); **Phobjikha Valley** = the biggest open flat valley | [P](https://www.plonkit.net/bhutan) |  |
 
 ## Taiwan
-Study: [Plonk It](https://www.plonkit.net/taiwan)
+Study: [Plonk It](https://www.plonkit.net/taiwan) · [GeoGuessr map](https://www.geoguessr.com/maps/63f420f9f1482fc046350710)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | **Traditional Chinese** script (very complex, many strokes; HK also uses it; Japan mixes in simpler kana) | [P](https://www.plonkit.net/taiwan) |  |
-| Country | Poles have **black-yellow diagonal stripes running all the way to the bottom** (South Korea's are short & stop higher) | [P](https://www.plonkit.net/taiwan) |  |
-| Country | Drives **right** (Japan/HK left); roads = **double yellow middle + white outer**, or white-outer-no-middle; **red outer lines = no parking** (~unique) | [P](https://www.plonkit.net/taiwan) |  |
-| Country | Chevrons **black on yellow**; convex **mirrors with orange hoods** at bends & intersections | [P](https://www.plonkit.net/taiwan) |  |
-| Country | Bollards w/ **2–3 circular reflectors on a black rectangle**; lollipop-style guardrail reflectors (Japan-like) | [P](https://www.plonkit.net/taiwan) |  |
-| Country | **Concrete drainage ditches** along roadsides | [P](https://www.plonkit.net/taiwan) |  |
-| Country | Box-shaped **distribution transformers** (dark green or grey) common, especially in cities; blue coordinate plaques on poles | [P](https://www.plonkit.net/taiwan) |  |
-| Country | Architecture boxy: cramped multi-storey + single-storey w/ backyards, **white-tiled walls**, light-green tin sheds | [P](https://www.plonkit.net/taiwan) |  |
-| Country | Gen3 **black car w/ long antenna + red brake light** (Russia-like); also a huge-blur Gen3 car (not low-cam) | [P](https://www.plonkit.net/taiwan) |  |
-| Region | Flat **western plain** = farmland; central-eastern ⅔ = forested mountains; Hualien-Taitung & Yilan valleys = rice paddies; **areca/betel-nut palms** central & south | [P](https://www.plonkit.net/taiwan) |  |
-| State | Counties + **outer islands** (Kinmen, Matsu, Penghu, Green/Orchid); **area codes 02–08 increase south**; freeways odd = N-S, even = E-W | [P](https://www.plonkit.net/taiwan) |  |
+| Country | **Traditional Chinese** — one of the most complex scripts on Street View, many-stroke characters | [P](https://www.plonkit.net/taiwan) |  |
+| Country | Poles almost always have **black-yellow diagonal stripes running all the way to the ground** | [P](https://www.plonkit.net/taiwan) |  |
+| Country | Drives on the **right** (Japan & Hong Kong drive left) | [P](https://www.plonkit.net/taiwan) |  |
+| Country | **Double yellow middle + single white outer lines** (thin roads: single dashed yellow); roads with **only outer white lines, no middle** are a great Taiwan tell | [P](https://www.plonkit.net/taiwan) |  |
+| Country | **Red outer lines** (no-parking), esp. in cities | [P](https://www.plonkit.net/taiwan) |  |
+| Country | Chevrons **black on yellow**; intersection **mirrors with orange hoods** | [P](https://www.plonkit.net/taiwan) |  |
+| Country | Bollards: **2–3 circular reflectors on a black rectangle**; lollipop guardrail reflectors (Japan-like) | [P](https://www.plonkit.net/taiwan) |  |
+| Country | **Concrete drainage ditches** along roads; boxy **distribution transformers** (dark green/grey) esp. urban | [P](https://www.plonkit.net/taiwan) |  |
+| Country | Architecture: cramped multi-storey to flat single-storey; very **boxy**; walls covered in (usually white) **tiles**; light-green **tin sheds** | [P](https://www.plonkit.net/taiwan) |  |
+| Country | Gen3: **black car w/ long antenna + central red brake light** (Russia-like) or a car with a **huge blur** that looks like low-cam (but camera height is normal) | [P](https://www.plonkit.net/taiwan) |  |
+| Region | **Counties + outlying islands**: Kinmen & Lienchiang/Matsu (at the Chinese coast!), Penghu (mid-strait), Green & Orchid Island (SE, Taitung county) — beginners get caught out | [P](https://www.plonkit.net/taiwan) |  |
+| Region | **Area codes 02–08, increasing southward** (mobiles 09…); National Freeways: **odd = N-S, even = E-W**, numbers grow W→E & N→S (1 & 3 = long west-coast routes); township-road signs carry the **county character** | [P](https://www.plonkit.net/taiwan) |  |
+| Region | Blue **pole plaques = coordinates**: letter = 50×80 km grid cell, 4 digits = % east / % north within it (e.g. E3264) — precise region-guessing tool | [P](https://www.plonkit.net/taiwan) |  |
+| Region | **Landscape**: flat/rolling crop plains → central west; forested mountains → central-east two-thirds (high up: temperate/coniferous); **Hualien-Taitung valley** → flat plains between forested ranges E+W; **Yilan plain** → mountains N/W/S but open to the east, rice paddies w/ houses beside fields | [P](https://www.plonkit.net/taiwan) |  |
+| Region | **Vegetation metas**: areca/betel palms → central & south (mountains); coconut palms → southern coast; fish farms → west coast south half (Yunlin/Chiayi/Tainan/Kaohsiung); tea → mountains (Chiayi, Nantou, Hsinchu, Miaoli); Pingtung = areca in **neat flat-plain rows** | [P](https://www.plonkit.net/taiwan) |  |
+| Region | **North**: old disorganised housing + dingy apartment blocks; **Taoyuan**: red-brick/red-tile apartments (also greater Taipei); **Yilan**: rich gated multi-storey villas | [P](https://www.plonkit.net/taiwan) |  |
+| Region | **Infra metas**: white-speckled pavement → east coast; Kaohsiung lampposts red-white stripes on **trapezoidal base**; Yunlin poles w/ **thicker support** below top; Changhua traffic boxes w/ **big yellow stickers**; Chiayi City **green square stickers** on every pole; bent chevron holders w/ 2 striped stickers → only Pingtung/Kaohsiung/Taitung; transformers on **dark-green raised holders** → New Taipei + Keelung | [P](https://www.plonkit.net/taiwan) |  |
+| State | Low rolling hills, winding roads, sparse **messy/unkempt farmland**; **Taichung**: open plains ringed by distant low mountains | [P](https://www.plonkit.net/taiwan) |  |
+| State | **Norfolk pines in tight rows** beside roads + many leafless trees; cream-white houses; **blue outer lines** almost exclusive here | [P](https://www.plonkit.net/taiwan) |  |
+| State | Fuzzy-leaved trees lining roads + **red-tinged soil**; no Gen4; small traditional houses; lampposts w/ red-white diagonal stripes | [P](https://www.plonkit.net/taiwan) |  |
+| Special | Tropical, coconut palms, lush cliffs, **run-down concrete pavement** — Green Island uses **yellow outer lines** and is more built-up (Orchid doesn't) | [P](https://www.plonkit.net/taiwan) |  |
+| Special | Hilly + frequent **concrete roads**, overcast coverage | [P](https://www.plonkit.net/taiwan) |  |
+| Special | **Road spotlights**: PH-8 (Taichung–Hualien) — **yellow guardrail** in W-Hualien, towering rock cliffs in the east; PH-20 through Yushan NP — conifer mountains + **tube-like double guardrails** (only Gen2 & overexposed sunny Gen4); Taipingshan road (Yilan) — fog, conifers, guardrail w/ **red legs** (some Gen3 sunset); Guangfu/Fenglin (Hualien) — short-tree forests around narrow grassy roads, often **Gen2** | [P](https://www.plonkit.net/taiwan) |  |
+| Special | **Rare finds**: green train car → east Chiayi near Alishan; blue pickup → Taipei riverside parks | [P](https://www.plonkit.net/taiwan) |  |
 
 ## Israel & the West Bank
 Study: [Plonk It](https://www.plonkit.net/israel-west-bank)
