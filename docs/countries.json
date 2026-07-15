@@ -9315,148 +9315,454 @@
    "area_km2": 2724900,
    "links": {
     "plonkit": "https://www.plonkit.net/kazakhstan",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/65fda213210c988a99251730"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "All coverage = **white pickup truck** (fully visible or mostly blurred); plate mostly white w/ small blue hint left",
+     "type": "plates",
+     "text": "Plates mostly **white with a small blue hint** on the left (when blurred)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "RN95",
-     "img": "4.png",
-     "type": "cars"
+     "anchor": "8SED",
+     "img": "2.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "russia",
+       "note": "Russian plates are fully white — no blue at all.",
+       "diff": "Any blue hint left → Kazakhstan; camera: KZ = white pickup, RU = black/white car.",
+       "img": "licenceplate.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Kazakh** in Cyrillic (extra letters **Ә Ғ Қ Ң Ө Ұ Ү Һ І**) + some Latin; sometimes monolingual Russian",
+     "type": "language",
+     "text": "**Kazakh** in Cyrillic + Latin (sometimes monolingual Russian); extra letters vs Russian: **Ә Ғ Қ Ң Ө Ұ Ү Һ І**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "GFIL",
      "img": "kz_language.png",
-     "type": "language"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "russia",
+       "note": "Russian text appears monolingually in KZ too.",
+       "diff": "Spot any of **Ә Ғ Қ Ң Ө Ұ Ү Һ І** → Kazakhstan. White pickup camera confirms.",
+       "img": "cyrillic.png"
+      },
+      {
+       "slug": "kyrgyzstan",
+       "note": "Kyrgyz shares **Ө Ү Ң** — but not the rest.",
+       "diff": "**Ә Қ Ғ Ұ І** → Kazakhstan; silver 4-bar Gen3 car → Kyrgyzstan.",
+       "img": "kg_language.png"
+      },
+      {
+       "slug": "mongolia",
+       "note": "Mongolian shares **Ө Ү**.",
+       "diff": "Double vowels (аа/ээ) + yurts → Mongolia.",
+       "img": "1._language.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Infrastructure very **Russia-like** (poles, signs, houses); tree-trunk bottoms often painted white",
+     "type": "cars",
+     "text": "ALL coverage = **white pickup truck** (fully visible or mostly blurred)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "tn7H",
+     "img": "3.png",
+     "uniq": "unique*",
+     "uniq_note": "Several countries have white pickup cameras (e.g. UAE Gen4 trekker-style) — but in a post-Soviet steppe context the white pickup means Kazakhstan."
+    },
+    {
+     "cat": "country",
+     "type": "landscape",
+     "text": "Huge & diverse — deserts, grassy steppes, mountain passes, birch forests; rural coverage overwhelmingly **empty, open, flat**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "RN95",
+     "img": "4.png"
+    },
+    {
+     "cat": "country",
+     "type": "utility",
+     "text": "Infrastructure very **Russia-like** (ped signs, poles, houses, bollards); tree trunks often painted **white at the bottom**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "V4BR",
      "img": "Russian_Infra_Hint.png",
-     "type": "general"
+     "imgs": [
+      "8.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "russia",
+       "note": "Post-Soviet infra is near-identical.",
+       "diff": "White pickup + Kazakh letters + gas pipes everywhere → Kazakhstan.",
+       "img": "Russian_pole.png"
+      },
+      {
+       "slug": "ukraine",
+       "note": "White paint on trunks/poles too.",
+       "diff": "Blue-yellow plate strip + вул. → Ukraine.",
+       "img": "Bad_roads2.png"
+      },
+      {
+       "slug": "kyrgyzstan",
+       "note": "White-painted trunks too.",
+       "diff": "Red plate strip + silver Gen3 car → Kyrgyzstan.",
+       "img": "Kyrgyzstan_White_Paint_hint.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Pedestrian crossings yellow+white stripes **with white dashes on either side** (Russia lacks the dashes)",
+     "type": "markings",
+     "text": "Pedestrian crossings **yellow+white** — usually with **white dashes on either side** (Russia lacks the dashes; sometimes dashes only)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "hnfg",
+     "img": "9.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "russia",
+       "note": "Yellow-white crossings too — but without side dashes.",
+       "diff": "Dashes beside the crossing → Kazakhstan.",
+       "img": "zebrapath.png"
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Street signs on buildings: **blue with intricate white patterns** top & bottom, bi-/trilingual, often a **QR code** (designs vary within one city)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "tkTf",
-     "img": "6.png",
-     "type": "signs"
+     "img": "6.png"
     },
     {
      "cat": "country",
+     "type": "bollards",
      "text": "Post-Soviet + Turkish-style bollards; **two thin bollards joined at 90°** are unique to Kazakhstan",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "jwH7",
-     "img": "8.png",
-     "type": "bollards"
+     "anchor": "O76W",
+     "img": "7.png",
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "**Gas pipes everywhere** in cities; chevrons **yellow-and-black** (T-junctions = red/white)",
+     "type": "signs",
+     "text": "Chevrons **yellow-and-black** (unlike neighbours) — except T-junctions: generic red/white",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "PuS7",
+     "img": "10.png"
+    },
+    {
+     "cat": "country",
+     "type": "utility",
+     "text": "**Gas pipes everywhere** in cities",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "2N2f",
      "img": "KZ_Pipes.png",
-     "type": "utility"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "russia",
+       "note": "Above-ground pipes exist in Russia (and Georgia/Ukraine) too.",
+       "diff": "Density in Kazakh cities is far higher; white pickup confirms.",
+       "img": "Russia_Pipes.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Koshkar-muiz** ornamental pattern in decorations; ornate town **entrance arcs**",
+     "type": "arch",
+     "text": "**Koshkar-muiz** ornamental pattern in decorations everywhere; ornate **city/town entrance arcs**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "uMOg",
-     "img": "Screenshot__28778_29.png",
-     "type": "arch"
+     "anchor": "k30n",
+     "img": "5.png",
+     "imgs": [
+      "Screenshot__28778_29.png"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "region",
-     "text": "Coverage limited; **season ≈ region**: summer = W/central, autumn = NE, winter = SE",
+     "type": "general",
+     "text": "Coverage limited: major roads + cities — knowing the covered roads narrows guesses a lot",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "general"
+     "anchor": "6NZ7",
+     "img": "11.png",
+     "super": true
     },
     {
-     "super": true,
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Season ≈ region**: summer = west & central · autumn = northeast · winter = southeast",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "MhXe",
+     "img": "12.png",
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "cars",
+     "text": "**Driving-direction map** helps on rural roads; car-dirt metas: thin dust coat on the roof **Kokshetau–Atbasar**; vertical dirt line right of roof **east of Aktobe**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "UPTe",
+     "img": "Driving_Directions_Map.png",
+     "imgs": [
+      "49.png",
+      "50.png"
+     ]
+    },
+    {
      "cat": "state",
-     "text": "**Area codes east→west** along 3 horizontal bands; plate region codes run alphabetically",
+     "type": "naming",
+     "text": "**Area codes** run east→west along 3 horizontal bands; truck/bus **plate codes** alphabetical (buses most reliable); QR-code letters on street signs = region",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "WT7C",
-     "img": "15.png",
-     "type": "naming"
+     "anchor": "m4nO",
+     "img": "14.png",
+     "imgs": [
+      "15.png",
+      "16.png"
+     ],
+     "super": true
     },
     {
      "cat": "region",
-     "text": "Generally **flat** steppe; hills → Karaganda/Aktobe; big snow-capped mountains → south & east",
+     "type": "landscape",
+     "text": "Generally **flat** → hills are a clue: Karaganda hilly / hills in view; hills around Aktobe; big mountains = **south or east**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "6CPu",
-     "img": "Terrain_Map_of_kazakhstan.png",
-     "type": "landscape"
+     "img": "Terrain_Map_of_kazakhstan.png"
     },
     {
      "cat": "region",
-     "text": "Lush **birch forests + green fields** → north (like Omsk); vast grassy plains → NW (Akmola/Kostanay)",
+     "type": "landscape",
+     "text": "**North**: lush birch forests + green fields (looks like Russia's Omsk Oblast!); **NW**: vast grassy plains (Akmola, Kostanay); **SW**: sandy shrubby desert; **SE**: tall snow-capped mountains + snow coverage east of Almaty",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "p3lc",
-     "img": "18.png",
-     "type": "landscape"
+     "anchor": "0CRH",
+     "img": "17.png",
+     "imgs": [
+      "18.png",
+      "19.png",
+      "20.png",
+      "22.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "russia",
+       "note": "The northern birch-field landscape is nearly identical to Omsk Oblast.",
+       "diff": "White pickup camera → Kazakhstan; Gen4 red/white car → Russia (Omsk).",
+       "img": "omsklandscape.png"
+      }
+     ]
     },
     {
-     "cat": "region",
-     "text": "Sandy shrubby **desert** → SW; tall snow-capped **mountains** → SE (east of Almaty)",
+     "cat": "state",
+     "area": "East Kazakhstan",
+     "type": "landscape",
+     "text": "Hilly & forested, **October fall colours**; Ridder flat but ringed by hazy mountains; around **Semey**: pine clusters/forests + fall-coloured deciduous",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "uMS6",
      "img": "21.png",
-     "type": "landscape"
+     "imgs": [
+      "24.png"
+     ]
     },
     {
-     "cat": "special",
-     "text": "**Pole paints** identify the city (Kostanay turquoise+yellow, Taraz red/yellow/black…); city bus colours (Almaty green, Karaganda turquoise)",
+     "cat": "state",
+     "area": "South (Uzbek border)",
+     "type": "landscape",
+     "text": "Hilly, dry & shrubby with **orange grass**; dead-flat farmland near Zhetisay — the Kyrgyz-looking **red-white km markers** appear ONLY near Zhetisay; grassy green rolling hills just north of Bishkek",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "utility"
+     "anchor": "YYgc",
+     "img": "Kazakhstan_Max_South_Hint.png",
+     "imgs": [
+      "23.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Road metas**",
+     "bullets": [
+      "E38 Shymkent→Kyzylorda: divided, all-white lines; green south → dry sandy north",
+      "M36 Karaganda→Almaty: under construction, yellow lines, orange-brown winter steppe (drives S from Karaganda)",
+      "M36 Karaganda→Astana: divided, **yellow outer lines**, grassy steppe, SE-NW angle",
+      "P4/A17 Astana→Pavlodar: divided E-W, less vegetated, yellow outer lines",
+      "Kyzylagash→Druzhba: hazy dead hills, small mountains S/E (drives east)",
+      "A26 Kandyagash→M32: terrible/unpaved road, cloudy, semi-arid flats (drives mostly north)",
+      "A1 Astana→Shchuchinsk: 6-lane divided, green trees & plains",
+      "A17 to Ulytau: crumbling edges, single white middle line; W of Atasu sun low on horizon; E of Atasu new red-tinted pavement",
+      "N of Zhezqazghan: no lines, desolate, red/orange soil, sunny w/ cumulus (drives N from Nikolskiy)",
+      "R260: cracked pavement, no lines, overcast, yellow grass + reddish soil (drives S from Atbasar); R217 similar but better road w/ faded dashes, clouds thin eastward"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "cODv",
+     "img": "25.png",
+     "imgs": [
+      "26.png",
+      "27.png",
+      "28.png",
+      "29.png",
+      "30.png",
+      "31.png",
+      "32.png",
+      "33.png",
+      "34.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "utility",
+     "text": "**Pole paints** identify cities (top→bottom)",
+     "bullets": [
+      "West Kazakhstan Region: red-white-black",
+      "Atyrau: blue-white-black",
+      "Akmola: thin red, white, thin black",
+      "Kostanay: thin turquoise + yellow",
+      "Petropavl: thin white + light grey",
+      "Taraz: red-yellow-black",
+      "Kyzylorda: thin yellow+red, then white",
+      "Also: Rudny red-yellow-red+white, Kokshetau light-blue bottom (+yellow strips), Shchuchinsk thin red+yellow, Ekibastuz thin blue+white, Shymkent yellow+red then green, Kentau blue/yellow/red + blue/black"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "7F8W",
+     "img": "Kazakhstan_useful_pole_paints_v4.png",
+     "imgs": [
+      "36.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "utility",
+     "text": "**Bus stops & buses** identify cities",
+     "bullets": [
+      "Stops: Atyrau modern white+neon-green w/ name on top; Kostanay brown w/ blue-yellow crest; Petropavl brown, 3 glass sides, upturned roof; Karaganda old turquoise curved; Zhezqazghan wide blue 2-section",
+      "Buses: Aktobe orange-black; Zhezqazghan orange-white 'Men ♥ Jezz'; Astana white-black-green electric; Karaganda turquoise; Semey light green-white; Almaty full green w/ white pattern (Taraz similar but labelled 'Taraz')"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Jgrt",
+     "img": "37.png",
+     "imgs": [
+      "38.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "signs",
+     "text": "**Street-sign designs**: Aktobe = half QR code; Petropavl = white w/ blue semicircle; Astana = consistent generic; Zhetisay = generic (but absent in Turkistan/Shymkent)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Dsyl",
+     "img": "Kazakhstan_Street_Signs_V3.png"
+    },
+    {
+     "cat": "special",
+     "type": "utility",
+     "text": "**Lamps & boxes**: yellow gas-pipe boxes → Shymkent/Turkistan/Taldykorgan; thin grey twin-light lamps → Turkistan; blue photocell lamps → Kulsary; triple ascending lamps → Uralsk (unique)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "yBGD",
+     "img": "42.png",
+     "imgs": [
+      "39.png",
+      "40.png",
+      "41.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Spotlights**: dense baltic-pine forest N of Shchuchinsk; Oskemen hazy forest-fire coverage; snow in the mountains of S-Almaty City; **Altyn-Emel NP** barren grassland ringed by snowy mountains + curvy pass; the only **May coverage** = Alataou exclave E of Almaty (sunny, mountains south); Taldykorgan hill ridge to the N; near the Turkmen border: **blindingly bright sandy desert road**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "iCsU",
+     "img": "52.png",
+     "imgs": [
+      "53.png",
+      "54.png",
+      "Altyn_Emel_national_park.png",
+      "55.png",
+      "56.png",
+      "57.png"
+     ]
     }
    ]
   },

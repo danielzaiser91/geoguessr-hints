@@ -379,23 +379,35 @@ Study: [Plonk It](https://www.plonkit.net/india) · [GeoGuessr map](https://www.
 | Special | **NH326** west of Brahmapur: thin grey antenna + unusually high-quality shitcam (best near Harabhangi Reservoir) | [P](https://www.plonkit.net/india) |  |
 
 ## Kazakhstan
-Study: [Plonk It](https://www.plonkit.net/kazakhstan)
+Study: [Plonk It](https://www.plonkit.net/kazakhstan) · [GeoGuessr map](https://www.geoguessr.com/maps/65fda213210c988a99251730)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | All coverage = **white pickup truck** (fully visible or mostly blurred); plate mostly white w/ small blue hint left | [P](https://www.plonkit.net/kazakhstan) |  |
-| Country | **Kazakh** in Cyrillic (extra letters **Ә Ғ Қ Ң Ө Ұ Ү Һ І**) + some Latin; sometimes monolingual Russian | [P](https://www.plonkit.net/kazakhstan) |  |
-| Country | Infrastructure very **Russia-like** (poles, signs, houses); tree-trunk bottoms often painted white | [P](https://www.plonkit.net/kazakhstan) |  |
-| Country | Pedestrian crossings yellow+white stripes **with white dashes on either side** (Russia lacks the dashes) | [P](https://www.plonkit.net/kazakhstan) |  |
+| Country | Plates mostly **white with a small blue hint** on the left (when blurred) | [P](https://www.plonkit.net/kazakhstan) |  |
+| Country | **Kazakh** in Cyrillic + Latin (sometimes monolingual Russian); extra letters vs Russian: **Ә Ғ Қ Ң Ө Ұ Ү Һ І** | [P](https://www.plonkit.net/kazakhstan) |  |
+| Country | ALL coverage = **white pickup truck** (fully visible or mostly blurred) | [P](https://www.plonkit.net/kazakhstan) |  |
+| Country | Huge & diverse — deserts, grassy steppes, mountain passes, birch forests; rural coverage overwhelmingly **empty, open, flat** | [P](https://www.plonkit.net/kazakhstan) |  |
+| Country | Infrastructure very **Russia-like** (ped signs, poles, houses, bollards); tree trunks often painted **white at the bottom** | [P](https://www.plonkit.net/kazakhstan) |  |
+| Country | Pedestrian crossings **yellow+white** — usually with **white dashes on either side** (Russia lacks the dashes; sometimes dashes only) | [P](https://www.plonkit.net/kazakhstan) |  |
+| Country | Street signs on buildings: **blue with intricate white patterns** top & bottom, bi-/trilingual, often a **QR code** (designs vary within one city) | [P](https://www.plonkit.net/kazakhstan) |  |
 | Country | Post-Soviet + Turkish-style bollards; **two thin bollards joined at 90°** are unique to Kazakhstan | [P](https://www.plonkit.net/kazakhstan) |  |
-| Country | **Gas pipes everywhere** in cities; chevrons **yellow-and-black** (T-junctions = red/white) | [P](https://www.plonkit.net/kazakhstan) |  |
-| Country | **Koshkar-muiz** ornamental pattern in decorations; ornate town **entrance arcs** | [P](https://www.plonkit.net/kazakhstan) |  |
-| Region | Coverage limited; **season ≈ region**: summer = W/central, autumn = NE, winter = SE | [P](https://www.plonkit.net/kazakhstan) |  |
-| Region | Generally **flat** steppe; hills → Karaganda/Aktobe; big snow-capped mountains → south & east | [P](https://www.plonkit.net/kazakhstan) |  |
-| Region | Lush **birch forests + green fields** → north (like Omsk); vast grassy plains → NW (Akmola/Kostanay) | [P](https://www.plonkit.net/kazakhstan) |  |
-| Region | Sandy shrubby **desert** → SW; tall snow-capped **mountains** → SE (east of Almaty) | [P](https://www.plonkit.net/kazakhstan) |  |
-| State | **Area codes east→west** along 3 horizontal bands; plate region codes run alphabetically | [P](https://www.plonkit.net/kazakhstan) |  |
-| Special | **Pole paints** identify the city (Kostanay turquoise+yellow, Taraz red/yellow/black…); city bus colours (Almaty green, Karaganda turquoise) | [P](https://www.plonkit.net/kazakhstan) |  |
+| Country | Chevrons **yellow-and-black** (unlike neighbours) — except T-junctions: generic red/white | [P](https://www.plonkit.net/kazakhstan) |  |
+| Country | **Gas pipes everywhere** in cities | [P](https://www.plonkit.net/kazakhstan) |  |
+| Country | **Koshkar-muiz** ornamental pattern in decorations everywhere; ornate **city/town entrance arcs** | [P](https://www.plonkit.net/kazakhstan) |  |
+| Region | Coverage limited: major roads + cities — knowing the covered roads narrows guesses a lot | [P](https://www.plonkit.net/kazakhstan) |  |
+| Region | **Season ≈ region**: summer = west & central · autumn = northeast · winter = southeast | [P](https://www.plonkit.net/kazakhstan) |  |
+| Region | **Driving-direction map** helps on rural roads; car-dirt metas: thin dust coat on the roof **Kokshetau–Atbasar**; vertical dirt line right of roof **east of Aktobe** | [P](https://www.plonkit.net/kazakhstan) |  |
+| Region | Generally **flat** → hills are a clue: Karaganda hilly / hills in view; hills around Aktobe; big mountains = **south or east** | [P](https://www.plonkit.net/kazakhstan) |  |
+| Region | **North**: lush birch forests + green fields (looks like Russia's Omsk Oblast!); **NW**: vast grassy plains (Akmola, Kostanay); **SW**: sandy shrubby desert; **SE**: tall snow-capped mountains + snow coverage east of Almaty | [P](https://www.plonkit.net/kazakhstan) |  |
+| State | **Area codes** run east→west along 3 horizontal bands; truck/bus **plate codes** alphabetical (buses most reliable); QR-code letters on street signs = region | [P](https://www.plonkit.net/kazakhstan) |  |
+| State | Hilly & forested, **October fall colours**; Ridder flat but ringed by hazy mountains; around **Semey**: pine clusters/forests + fall-coloured deciduous | [P](https://www.plonkit.net/kazakhstan) |  |
+| State | Hilly, dry & shrubby with **orange grass**; dead-flat farmland near Zhetisay — the Kyrgyz-looking **red-white km markers** appear ONLY near Zhetisay; grassy green rolling hills just north of Bishkek | [P](https://www.plonkit.net/kazakhstan) |  |
+| Special | **Road metas** | [P](https://www.plonkit.net/kazakhstan) |  |
+| Special | **Pole paints** identify cities (top→bottom) | [P](https://www.plonkit.net/kazakhstan) |  |
+| Special | **Bus stops & buses** identify cities | [P](https://www.plonkit.net/kazakhstan) |  |
+| Special | **Street-sign designs**: Aktobe = half QR code; Petropavl = white w/ blue semicircle; Astana = consistent generic; Zhetisay = generic (but absent in Turkistan/Shymkent) | [P](https://www.plonkit.net/kazakhstan) |  |
+| Special | **Lamps & boxes**: yellow gas-pipe boxes → Shymkent/Turkistan/Taldykorgan; thin grey twin-light lamps → Turkistan; blue photocell lamps → Kulsary; triple ascending lamps → Uralsk (unique) | [P](https://www.plonkit.net/kazakhstan) |  |
+| Special | **Spotlights**: dense baltic-pine forest N of Shchuchinsk; Oskemen hazy forest-fire coverage; snow in the mountains of S-Almaty City; **Altyn-Emel NP** barren grassland ringed by snowy mountains + curvy pass; the only **May coverage** = Alataou exclave E of Almaty (sunny, mountains south); Taldykorgan hill ridge to the N; near the Turkmen border: **blindingly bright sandy desert road** | [P](https://www.plonkit.net/kazakhstan) |  |
 
 ## Indonesia
 Study: [Plonk It](https://www.plonkit.net/indonesia) · [GeoGuessr map](https://www.geoguessr.com/maps/619086606e5572000185a1db)
