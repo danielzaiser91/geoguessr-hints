@@ -801,20 +801,33 @@ Study: [Plonk It](https://www.plonkit.net/kyrgyzstan) · [GeoGuessr map](https:/
 | Special | **Other smaller covered roads** | [P](https://www.plonkit.net/kyrgyzstan) |  |
 
 ## Cambodia
-Study: [Plonk It](https://www.plonkit.net/cambodia)
+Study: [Plonk It](https://www.plonkit.net/cambodia) · [GeoGuessr map](https://www.geoguessr.com/maps/67395cc21207048de478d32b)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates white w/ blue letters (may look plain white through blur); **government vehicles = green plates** | [P](https://www.plonkit.net/cambodia) |  |
-| Country | Gen3: a **short 3-ridge stubby-antenna** car, or a **white striped car** (white-left/yellow-right stripe, no antenna — unique to Cambodia); shitcam also exists | [P](https://www.plonkit.net/cambodia) |  |
-| Country | Drives **right**; **Khmer** script — very intricate & curvy (Thai/Lao look similar but less intricate) | [P](https://www.plonkit.net/cambodia) |  |
-| Country | Poles: **concrete ladder poles** + round concrete w/ small holes (Vietnam similar); Thailand's square pinhole poles are rare here | [P](https://www.plonkit.net/cambodia) |  |
-| Country | Bollards: **red-white striped stone** or **red-top/white-base w/ a reflector** — often used instead of chevrons on curves | [P](https://www.plonkit.net/cambodia) |  |
-| Country | Stone **road markers** (white base, rounded red top; road number on the narrow side, town + distance on the main side) | [P](https://www.plonkit.net/cambodia) |  |
-| Country | Chevrons **black w/ yellow arrows** (all other SE Asian countries use the reverse) | [P](https://www.plonkit.net/cambodia) |  |
-| Country | Roads: yellow middle lines (dashed/solid), rare white outer; **many roads unpaved** | [P](https://www.plonkit.net/cambodia) |  |
-| Country | **Wooden stilt houses** (vertical planks; dark-red/light-blue/ochre walls w/ bright-blue trim; double/triple roofs) | [P](https://www.plonkit.net/cambodia) |  |
-| Country | Majority **Buddhist** (ornate temples); **Angkor/Anchor** beer ads; blue **CPP** party signs (often 3 politicians) | [P](https://www.plonkit.net/cambodia) |  |
+| Country | Plates white with **blue letters** (may look plain white through the blur); government vehicles = **green plates** | [P](https://www.plonkit.net/cambodia) |  |
+| Country | Gen3 cars: **stubby 3-ridge antenna** car OR **striped white car** (white stripe left, yellow right) | [P](https://www.plonkit.net/cambodia) |  |
+| Country | Drives on the **right** | [P](https://www.plonkit.net/cambodia) |  |
+| Country | **Khmer script** — very distinct, intricate curvy letters (font-dependent) | [P](https://www.plonkit.net/cambodia) |  |
+| Country | Poles: concrete **ladder poles** (indents like a ladder) + round concrete poles w/ small holes (rarely wooden) | [P](https://www.plonkit.net/cambodia) |  |
+| Country | Common bollards: stone w/ **red-white stripes** or **red top + white base** (reflector in the red part); some are road/region-specific | [P](https://www.plonkit.net/cambodia) |  |
+| Country | Road markers: stone, white base + **rounded red top** — road number on the narrow side, town+distance on the main side | [P](https://www.plonkit.net/cambodia) |  |
+| Country | Chevrons **black with yellow arrows** (rare; bollards often used instead) | [P](https://www.plonkit.net/cambodia) |  |
+| Country | **Yellow middle lines** (dashed/solid); outer lines rare, white when present; many roads **unpaved** | [P](https://www.plonkit.net/cambodia) |  |
+| Country | **Wooden stilt houses** with vertical plank walls, double/triple roofs; walls dark red-brown / light blue / ochre, details painted **bright blue**; tiled orange/red roofs w/ ridge ornaments or metal roofs | [P](https://www.plonkit.net/cambodia) |  |
+| Country | Majority **Buddhist** — decorative temples + Buddhist flags (Thailand/Laos temples look similar) | [P](https://www.plonkit.net/cambodia) |  |
+| Country | Beer ads everywhere: **Angkor, Anchor, 'Cambodia Beer'**; blue **CPP party signs** (often three men side by side) | [P](https://www.plonkit.net/cambodia) |  |
+| Country | **Shitcam** exists (wide circular blur, brownish) — also in India/Bangladesh/Sri Lanka/Nepal; here only in the **southwestern half** | [P](https://www.plonkit.net/cambodia) |  |
+| Region | Coverage limited — mostly around **Phnom Penh, Siem Reap, Battambang** | [P](https://www.plonkit.net/cambodia) |  |
+| Region | **Central plain** = flat cultivated farmland w/ villages; **northeast** = uncultivated, natural, slightly hilly; **southwest** = hills & low mountains, dense inland forest, populated coast | [P](https://www.plonkit.net/cambodia) |  |
+| Region | **White sandy soil** → SE of Phnom Penh + around the city; near the **Thai border**: mountain ridge to the north + red soil (flat roads below the abrupt drop-off) | [P](https://www.plonkit.net/cambodia) |  |
+| Region | **Rubber plantations** (thin trunks, taps, neat rows): belt NE of Phnom Penh (Roads 7/71), around Ban Lung + Road 78, around Pech Sreada (dry-season look + very orange soil) | [P](https://www.plonkit.net/cambodia) |  |
+| City | Bilingual signs with **Chinese** writing are common | [P](https://www.plonkit.net/cambodia) |  |
+| Special | **Bollard spotlights**: black-white bollards ONLY on Road 48 (Tatai↔Road 4 — Thai-style, verify country first!); unique **triangular red-striped bollards** on Road 4 (Angk Snuol↔Preah Sihanouk, esp. after Kirirom), a Ream-NP offroad + Preah Monivong NP | [P](https://www.plonkit.net/cambodia) |  |
+| Special | **Road spotlights (SW)**: Road 48→Kiri Sakor under construction (one paved side, red soil); jungle offroads NE of Road 48 (red soil, dense jungle, hilly — eastern lookalikes have browner soil); Phnum Samkos: overcast + big distant mountains, brown unpaved roads, wild green; Road 4 has a **wide red-brown shoulder** (lighter near Phnom Penh); oil palms only on Road 4 north of Preah Nob | [P](https://www.plonkit.net/cambodia) |  |
+| Special | Highland plateau: **white rocky soil** + stunted windswept dark-green bushes — very recognisable | [P](https://www.plonkit.net/cambodia) |  |
+| Special | **Road spotlights (N/E)**: Road 41 SW of Phnom Penh — wide grey gravelly surface, runs NNE, flat farmland w/ distant hills (angle is key); Roads 6/5 (Siem Reap→Sisophon→Battambang): unique **3-beam poles w/ one-sided hanging insulators** + indented bases (west of Sisophon: insulators both sides); Road 76 south = overcast, dark crisp asphalt, outer lines, jungle hills; Road 76 north (Lumphat↔Mayura) = wide unpaved brown, semi-open jungle, skies clear toward the north | [P](https://www.plonkit.net/cambodia) |  |
+| Special | Massive Khmer temple complex N of Siem Reap — dark weathered stone, extensive **trekker coverage** (huge presence in the official map) | [P](https://www.plonkit.net/cambodia) |  |
 
 ## Bangladesh
 Study: [Plonk It](https://www.plonkit.net/bangladesh) · [GeoGuessr map](https://www.geoguessr.com/maps/64db7dec1f789a98ce84a1c1)
