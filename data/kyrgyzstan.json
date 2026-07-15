@@ -4,6 +4,9 @@
  "continent": "Asia",
  "area_km2": 199951,
  "links": { "plonkit": "https://www.plonkit.net/kyrgyzstan", "geoguessr": null },
+ "videos": [
+  {"id": "E6P-uS8t2pc", "title": "3 Levels of GeoGuessr Tips from a Pro - KYRGYZSTAN"}
+ ],
  "hints": [
   { "cat": "country", "text": "Plates have a **red strip** (also seen in Albania, very rarely the UAE)", "src": ["plonkit"], "sv": null, "anchor": "2Ewh", "img": "Kyrgyzstan_License_Plate.png", "type": "plates" },
   { "cat": "country", "text": "**Silver car with four bars** visible; all coverage is **Gen3** (no similar-landscape country has this car)", "src": ["plonkit"], "sv": null, "anchor": "L1ht", "img": "Please_dont_guess_Guatemala.png", "type": "cars" },

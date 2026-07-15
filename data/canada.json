@@ -4,6 +4,10 @@
  "continent": "North America",
  "area_km2": 9984670,
  "links": { "plonkit": "https://www.plonkit.net/canada", "geoguessr": null },
+ "videos": [
+  {"id": "7sh-IMVWZTQ", "title": "Never Mix Up The US and Canada Again"},
+  {"id": "m_mAtnp9BdI", "title": "How to tell USA & Canada apart", "short": true}
+ ],
  "hints": [
   { "cat": "country", "text": "Speed signs say **\"MAXIMUM\"** (US = \"SPEED LIMIT\"); km/h, higher numbers", "src": ["plonkit"], "sv": null, "anchor": "DqvA", "img": "Canada_maximum_sign.png", "type": "signs" },
   { "cat": "country", "text": "British English (centre, colour) + metric; less wordy signs than the US", "src": ["plonkit"], "sv": null, "anchor": "LqkP", "img": "Canada_British_English_and_metric_v2.png", "type": "general" },

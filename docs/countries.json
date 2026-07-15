@@ -568,6 +568,17 @@
     "plonkit": "https://www.plonkit.net/australia",
     "geoguessr": null
    },
+   "videos": [
+    {
+     "id": "R8OWyfqbP50",
+     "title": "Never Mix Up Australia and South Africa Again"
+    },
+    {
+     "id": "ERd2P6ed1NE",
+     "title": "How To Always Guess the Correct State in Australia",
+     "short": true
+    }
+   ],
    "hints": [
     {
      "cat": "country",
@@ -1752,6 +1763,17 @@
     "plonkit": "https://www.plonkit.net/brazil",
     "geoguessr": null
    },
+   "videos": [
+    {
+     "id": "UZ9rfE3QU2M",
+     "title": "3 Levels of GeoGuessr Tips from a Pro - BRAZIL"
+    },
+    {
+     "id": "g5YTYynBkAc",
+     "title": "How to recognize Brazil in GeoGuessr",
+     "short": true
+    }
+   ],
    "hints": [
     {
      "cat": "country",
@@ -2290,6 +2312,17 @@
     "plonkit": "https://www.plonkit.net/canada",
     "geoguessr": null
    },
+   "videos": [
+    {
+     "id": "7sh-IMVWZTQ",
+     "title": "Never Mix Up The US and Canada Again"
+    },
+    {
+     "id": "m_mAtnp9BdI",
+     "title": "How to tell USA & Canada apart",
+     "short": true
+    }
+   ],
    "hints": [
     {
      "cat": "country",
@@ -6314,6 +6347,22 @@
     "plonkit": "https://www.plonkit.net/indonesia",
     "geoguessr": null
    },
+   "videos": [
+    {
+     "id": "clyvskvjN3k",
+     "title": "How You Know You're in Indonesia!"
+    },
+    {
+     "id": "VUimlWbP758",
+     "title": "How to recognize Indonesia in GeoGuessr",
+     "short": true
+    },
+    {
+     "id": "-V5ShAeq60g",
+     "title": "6 GeoGuessr Tips for Indonesia",
+     "short": true
+    }
+   ],
    "hints": [
     {
      "cat": "country",
@@ -7060,6 +7109,13 @@
     "plonkit": "https://www.plonkit.net/japan",
     "geoguessr": null
    },
+   "videos": [
+    {
+     "id": "w-6biLise2M",
+     "title": "How to recognize Japan in GeoGuessr",
+     "short": true
+    }
+   ],
    "hints": [
     {
      "cat": "country",
@@ -7668,6 +7724,12 @@
     "plonkit": "https://www.plonkit.net/kyrgyzstan",
     "geoguessr": null
    },
+   "videos": [
+    {
+     "id": "E6P-uS8t2pc",
+     "title": "3 Levels of GeoGuessr Tips from a Pro - KYRGYZSTAN"
+    }
+   ],
    "hints": [
     {
      "cat": "country",
@@ -13132,6 +13194,12 @@
     "plonkit": "https://www.plonkit.net/south-africa",
     "geoguessr": null
    },
+   "videos": [
+    {
+     "id": "R8OWyfqbP50",
+     "title": "Never Mix Up Australia and South Africa Again"
+    }
+   ],
    "hints": [
     {
      "cat": "country",
@@ -13936,6 +14004,13 @@
     "plonkit": "https://www.plonkit.net/sweden",
     "geoguessr": null
    },
+   "videos": [
+    {
+     "id": "qOyPWpEraow",
+     "title": "This is how you Guess Sweden 97,4% of times!",
+     "short": true
+    }
+   ],
    "hints": [
     {
      "cat": "country",
@@ -15702,6 +15777,27 @@
     "plonkit": "https://www.plonkit.net/usa",
     "geoguessr": null
    },
+   "videos": [
+    {
+     "id": "7sh-IMVWZTQ",
+     "title": "Never Mix Up The US and Canada Again"
+    },
+    {
+     "id": "GgqIk1hh9WU",
+     "title": "Best GeoGuessr Tips for USA",
+     "short": true
+    },
+    {
+     "id": "m_mAtnp9BdI",
+     "title": "How to tell USA & Canada apart",
+     "short": true
+    },
+    {
+     "id": "t0rPnOoIkV0",
+     "title": "Asking GeoGuessr Devs Their Best USA Tips",
+     "short": true
+    }
+   ],
    "img_folder": "united-states",
    "hints": [
     {

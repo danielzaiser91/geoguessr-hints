@@ -4,6 +4,9 @@
  "continent": "Asia",
  "area_km2": 377975,
  "links": { "plonkit": "https://www.plonkit.net/japan", "geoguessr": null },
+ "videos": [
+  {"id": "w-6biLise2M", "title": "How to recognize Japan in GeoGuessr", "short": true}
+ ],
  "hints": [
   { "cat": "country", "text": "**Low-cam** (camera looks down, road looks wide) — only other always-low-cam = Switzerland (blurred there)", "src": ["plonkit"], "sv": null, "anchor": "fWHC", "img": "4.png", "type": "cars" },
   { "cat": "country", "text": "Drives **left**; writing = kanji + hiragana (loopy, soft) + katakana (geometric, loan words)", "src": ["plonkit"], "sv": null, "anchor": "m8Ow", "img": "6.png", "type": "language" },

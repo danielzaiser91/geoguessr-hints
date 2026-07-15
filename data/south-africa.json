@@ -4,6 +4,9 @@
  "continent": "Africa",
  "area_km2": 1221037,
  "links": { "plonkit": "https://www.plonkit.net/south-africa", "geoguessr": null },
+ "videos": [
+  {"id": "R8OWyfqbP50", "title": "Never Mix Up Australia and South Africa Again"}
+ ],
  "hints": [
   { "cat": "country", "text": "Drives **left**; **single yellow outer + white centre lines** (also BW/SZ/LS/NA); unique **triple centre lines** on main roads", "src": ["plonkit"], "sv": null, "anchor": "Btnv", "img": "Road_lines.png", "type": "markings" },
   { "cat": "country", "text": "**Gen2 common** (the only African country with it) — big circular blur + sky halo; Gen4 = blue car w/ short antenna", "src": ["plonkit"], "sv": null, "anchor": "ulWW", "img": "za_gen4car.png", "type": "cars" },

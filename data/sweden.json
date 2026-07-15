@@ -4,6 +4,9 @@
  "continent": "Europe",
  "area_km2": 450295,
  "links": { "plonkit": "https://www.plonkit.net/sweden", "geoguessr": null },
+ "videos": [
+  {"id": "qOyPWpEraow", "title": "This is how you Guess Sweden 97,4% of times!", "short": true}
+ ],
  "hints": [
   { "cat": "country", "text": "Swedish: **Å Ä Ö** (Danish/Norwegian have only Å; Finnish has Ä Ö + long double-vowel words)", "src": ["plonkit"], "sv": null, "anchor": "TMZ2", "img": "spr_C3_A5k.png", "type": "language" },
   { "cat": "country", "text": "**All road lines white** (Norway & Finland use yellow); highway outer line split into sectioned pattern", "src": ["plonkit"], "sv": null, "anchor": "YHDK", "img": "vaglinje_motorvag.png", "type": "markings" },

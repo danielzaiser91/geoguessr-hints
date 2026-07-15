@@ -4,6 +4,10 @@
  "continent": "Oceania",
  "area_km2": 7692024,
  "links": { "plonkit": "https://www.plonkit.net/australia", "geoguessr": null },
+ "videos": [
+  {"id": "R8OWyfqbP50", "title": "Never Mix Up Australia and South Africa Again"},
+  {"id": "ERd2P6ed1NE", "title": "How To Always Guess the Correct State in Australia", "short": true}
+ ],
  "hints": [
   { "cat": "country", "text": "**Eucalyptus (gum) trees** everywhere, light bark; drives on the **left**", "src": ["plonkit"], "sv": null, "anchor": "cP3a", "img": "Eucalyptus.png", "type": "landscape" },
   { "cat": "country", "text": "Bollard: white, **red reflector front / grey back** (NZ = red wraps around the back)", "src": ["plonkit"], "sv": null, "anchor": "Snwr", "img": "Australian_bollard.png", "type": "bollards" },

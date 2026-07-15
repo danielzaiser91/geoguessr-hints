@@ -4,6 +4,12 @@
  "continent": "North America",
  "area_km2": 9833517,
  "links": { "plonkit": "https://www.plonkit.net/usa", "geoguessr": null },
+ "videos": [
+  {"id": "7sh-IMVWZTQ", "title": "Never Mix Up The US and Canada Again"},
+  {"id": "GgqIk1hh9WU", "title": "Best GeoGuessr Tips for USA", "short": true},
+  {"id": "m_mAtnp9BdI", "title": "How to tell USA & Canada apart", "short": true},
+  {"id": "t0rPnOoIkV0", "title": "Asking GeoGuessr Devs Their Best USA Tips", "short": true}
+ ],
  "img_folder": "united-states",
  "hints": [
   { "cat": "country", "text": "Speed signs say **\"SPEED LIMIT\"** (Canada = \"MAXIMUM\"); **miles**, feet/inches; limits often end in 5", "src": ["plonkit"], "sv": null, "anchor": "a9Az", "img": "speedsign.png" },

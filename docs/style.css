@@ -135,6 +135,28 @@ code{background:#0a1120;border:1px solid var(--line);border-radius:4px;padding:0
 .sec[data-cat="state"] .bar{background:var(--state)} .sec[data-cat="state"] .c{color:var(--state)}
 .sec[data-cat="city"] .bar{background:var(--city)} .sec[data-cat="city"] .c{color:var(--city)}
 .sec[data-cat="special"] .bar{background:var(--special)} .sec[data-cat="special"] .c{color:var(--special)}
+/* — country videos (official GeoGuessr YouTube channel) — */
+.sec.vids .bar{background:#ff5b5b} .sec.vids .sec-h .c{color:#ff7b7b}
+.vidrow{display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start}
+.vid{border:1px solid var(--line);border-radius:12px;background:var(--panel);overflow:hidden;
+  width:440px;max-width:100%;display:flex;flex-direction:column}
+.vid.short{width:212px}
+.vid-ph{position:relative;cursor:pointer;line-height:0;background:#0a1120}
+.vid-ph img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block}
+.vid.short .vid-ph img{aspect-ratio:9/16}
+.vid-play{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:52px;height:38px;
+  border-radius:10px;background:rgba(7,11,20,.75);border:1px solid var(--line);color:#fff;
+  display:flex;align-items:center;justify-content:center;font-size:16px;line-height:1;
+  transition:background .15s,border-color .15s;pointer-events:none}
+.vid-ph:hover .vid-play{background:#e02f2f;border-color:transparent}
+.vid iframe{width:100%;aspect-ratio:16/9;border:0;display:block}
+.vid.short iframe{aspect-ratio:9/16}
+.vid-cap{display:flex;align-items:center;gap:8px;padding:9px 11px;font-size:12px}
+.vid-tag{flex:none;font-size:9.5px;font-weight:700;letter-spacing:.04em;padding:2px 6px;
+  border-radius:6px;background:#3a1520;color:#ff8b8b;border:1px solid #58202e}
+.vid-t{flex:1;color:var(--ink);font-weight:600;line-height:1.35}
+.vid-yt{color:var(--dim);white-space:nowrap;text-decoration:none;flex:none}
+.vid-yt:hover{color:#ff7b7b}
 .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:14px}
 .card{position:relative;border:1px solid var(--line);border-radius:12px;background:var(--panel);overflow:hidden;
   border-left-width:3px;display:flex;flex-direction:column}

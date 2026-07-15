@@ -4,6 +4,10 @@
  "continent": "South America",
  "area_km2": 8515767,
  "links": { "plonkit": "https://www.plonkit.net/brazil", "geoguessr": null },
+ "videos": [
+  {"id": "UZ9rfE3QU2M", "title": "3 Levels of GeoGuessr Tips from a Pro - BRAZIL"},
+  {"id": "g5YTYynBkAc", "title": "How to recognize Brazil in GeoGuessr", "short": true}
+ ],
  "hints": [
   { "cat": "country", "text": "Plate: white + **blue top stripe** (since 2018); red = commercial", "src": ["plonkit"], "sv": null, "anchor": "1lVl", "img": "Brazil_License_Plate.png" },
   { "cat": "country", "text": "**Portuguese**: -ão (not -ón), -nh (not -ñ), -lh (not -ll)", "src": ["plonkit"], "sv": null, "anchor": "nX3d", "img": "Portuguese.png" },

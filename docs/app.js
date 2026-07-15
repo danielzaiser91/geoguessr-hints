@@ -373,6 +373,41 @@ function renderHints() {
     body.appendChild(sec);
   });
   if (!total) body.innerHTML = `<div class="empty">No clues match the current filters.</div>`;
+  if (selected.videos && selected.videos.length) body.prepend(videoSec());
+}
+// Video section: official GeoGuessr YouTube channel tips for this country. Thumbnails only
+// (facade) — the real player iframe is injected on click, so opening a country stays light.
+function videoSec() {
+  const sec = document.createElement("div"); sec.className = "sec vids";
+  const head = document.createElement("div"); head.className = "sec-h";
+  head.innerHTML = `<span class="bar"></span><span class="c">Videos</span>` +
+    `<span class="desc">— country tips from the official GeoGuessr YouTube channel</span>`;
+  sec.appendChild(head);
+  const row = document.createElement("div"); row.className = "vidrow";
+  selected.videos.forEach(v => {
+    const card = document.createElement("div"); card.className = "vid" + (v.short ? " short" : "");
+    const ph = document.createElement("div"); ph.className = "vid-ph"; ph.title = "Play video";
+    // Shorts have a portrait thumb (oar2); fall back to the 16:9 hqdefault if missing.
+    const thumb = v.short ? `https://i.ytimg.com/vi/${v.id}/oar2.jpg` : `https://i.ytimg.com/vi/${v.id}/hqdefault.jpg`;
+    ph.innerHTML = `<img src="${thumb}" alt="" loading="lazy" draggable="false"` +
+      (v.short ? ` onerror="this.src='https://i.ytimg.com/vi/${v.id}/hqdefault.jpg'"` : "") +
+      `><span class="vid-play">▶</span>`;
+    ph.onclick = () => {
+      const f = document.createElement("iframe");
+      f.src = `https://www.youtube-nocookie.com/embed/${v.id}?autoplay=1&rel=0`;
+      f.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
+      f.allowFullscreen = true; f.title = v.title;
+      ph.replaceWith(f);
+    };
+    const cap = document.createElement("div"); cap.className = "vid-cap";
+    cap.innerHTML = (v.short ? `<span class="vid-tag">Short</span>` : "") +
+      `<span class="vid-t">${v.title}</span>` +
+      `<a class="vid-yt" href="https://www.youtube.com/watch?v=${v.id}" target="_blank" rel="noopener" title="Open on YouTube">YouTube ↗</a>`;
+    card.appendChild(ph); card.appendChild(cap);
+    row.appendChild(card);
+  });
+  sec.appendChild(row);
+  return sec;
 }
 // USA state-clue view: SVG tile-grid map + scrollable state list; click a state to see its clues.
 function renderUsStateMap(hints, sec) {

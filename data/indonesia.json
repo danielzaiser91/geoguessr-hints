@@ -4,6 +4,11 @@
  "continent": "Asia",
  "area_km2": 1904569,
  "links": { "plonkit": "https://www.plonkit.net/indonesia", "geoguessr": null },
+ "videos": [
+  {"id": "clyvskvjN3k", "title": "How You Know You're in Indonesia!"},
+  {"id": "VUimlWbP758", "title": "How to recognize Indonesia in GeoGuessr", "short": true},
+  {"id": "-V5ShAeq60g", "title": "6 GeoGuessr Tips for Indonesia", "short": true}
+ ],
  "hints": [
   { "cat": "country", "text": "Plates **black w/ white letters** (3 white sections through blur); commercial = yellow; newer = white (Malaysia = 2 sections)", "src": ["plonkit"], "sv": null, "anchor": "M7aC", "img": "Indonesia_License_Plate_2.png", "type": "plates" },
   { "cat": "country", "text": "Drives on the **left**; **motorcycles have front plates** (unique in SE Asia)", "src": ["plonkit"], "sv": null, "anchor": "NAMC", "img": "Front_License_Plate_on_Motorcycle.png", "type": "plates" },
