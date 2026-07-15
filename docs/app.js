@@ -268,6 +268,7 @@ function openCountry(d, fromHash) {
   const act = document.getElementById("d-actions"); act.innerHTML = "";
   act.appendChild(mkBtn("gg", (d.links && d.links.geoguessr) || ("https://www.geoguessr.com/maps/community?query=" + encodeURIComponent(d.name)), "▶ Practice on GeoGuessr"));
   if (d.links && d.links.plonkit) act.appendChild(mkBtn("pk", d.links.plonkit, "Plonk It ↗"));
+  act.appendChild(shareBtn(d));
 
   state.q = ""; state.superOnly = false; document.getElementById("d-search").value = "";
   buildFilters();
@@ -275,6 +276,22 @@ function openCountry(d, fromHash) {
   document.getElementById("detail").classList.add("open");
 }
 function mkBtn(cls, href, text) { const a = document.createElement("a"); a.className = "btn " + cls; a.href = href; a.target = "_blank"; a.rel = "noopener"; a.textContent = text; return a; }
+// Copies the country's share URL (/c/<slug>/ — a static page with per-country OG preview
+// tags that redirects into the app). The bare /#<slug> URL can't carry a country preview:
+// crawlers never see the hash.
+function shareBtn(d) {
+  const b = document.createElement("button");
+  b.className = "btn share"; b.type = "button"; b.textContent = "🔗 Share";
+  b.title = "Copy a shareable link — previews with flag + top clues in WhatsApp/Discord/…";
+  b.onclick = () => {
+    const url = new URL(`c/${d.slug}/`, location.href).href;
+    const done = () => { b.textContent = "✓ Link copied"; setTimeout(() => { b.textContent = "🔗 Share"; }, 1600); };
+    if (navigator.clipboard && navigator.clipboard.writeText)
+      navigator.clipboard.writeText(url).then(done, () => prompt("Copy this link:", url));
+    else prompt("Copy this link:", url);
+  };
+  return b;
+}
 
 function buildFilters() {
   // "Key clues" toggle — only shown when the country has region-pinpointing super clues

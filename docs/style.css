@@ -20,6 +20,8 @@ code{background:#0a1120;border:1px solid var(--line);border-radius:4px;padding:0
 .btn.cov{background:#123;border-color:#2b6f8f;color:#8fd6ff}
 .btn.cov:hover{background:#16303f}
 .btn.pk{color:var(--accent2)}
+.btn.share{cursor:pointer;color:var(--ink)}
+.btn.share:hover{border-color:var(--accent)}
 
 .topbar{position:fixed;top:0;left:0;right:0;height:54px;display:flex;align-items:center;
   gap:14px;padding:0 16px;z-index:20;pointer-events:none;

@@ -11,14 +11,21 @@ Each data/<slug>.json:
                "text": "...", "src": ["plonkit"], "sv": null }, ... ]
 }
 """
+import html
 import json
 import os
 import glob
+import re
+import shutil
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 DATA = os.path.join(ROOT, "data")
 DIST = os.path.join(ROOT, "dist")
+DOCS = os.path.join(ROOT, "docs")
+
+# Live URL of the published site — og:url must match the URL people actually share.
+BASE_URL = "https://danielzaiser91.github.io/geoguessr-hints"
 
 CONTINENT_ORDER = [
     "Africa", "Asia", "Europe", "North America",
@@ -149,6 +156,97 @@ def build_md(countries):
     return "\n".join(lines)
 
 
+# ---------- per-country share pages (docs/c/<slug>/) ----------
+# Link-preview crawlers (WhatsApp/Discord/Twitter…) never see the #hash fragment, so
+# /#kyrgyzstan can only ever show the generic site preview. These tiny static pages give
+# every country a shareable URL with its own OG tags (title, flag image, distilled clues);
+# humans get JS-redirected straight into the app at /#<slug>.
+
+def parse_code_map():
+    """Country name -> ISO 3166-1 alpha-2, reused from app.js's CODE map (single source)."""
+    with open(os.path.join(DOCS, "app.js"), encoding="utf-8") as f:
+        js = f.read()
+    m = re.search(r"const CODE = \{(.*?)\};", js, re.S)
+    return dict(re.findall(r'"([^"]+)"\s*:\s*"([a-z]{2})"', m.group(1))) if m else {}
+
+
+def strip_md(s):
+    s = re.sub(r"\*\*(.+?)\*\*", r"\1", s)
+    s = re.sub(r"`(.+?)`", r"\1", s)
+    return re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", s)
+
+
+def flag_emoji(cc):
+    return "".join(chr(0x1F1E6 + ord(ch) - ord("a")) for ch in cc) if cc else ""
+
+
+def preview_desc(c, cc):
+    """Minified best info + clues, capped for preview cards (~300 chars)."""
+    n_vids = len(c.get("videos", []))
+    head = f"{c.get('continent', '')} · {len(c.get('hints', []))} clues"
+    if n_vids:
+        head += f" · {n_vids} video{'s' if n_vids > 1 else ''}"
+    order = {"country": 0, "region": 1, "state": 2, "city": 3, "special": 4}
+    hints = sorted(c.get("hints", []), key=lambda h: order.get(h.get("cat"), 9))
+    parts = [strip_md(h["text"]) for h in hints]
+    body, truncated = "", False
+    for p in parts:
+        if len(body) + len(p) > 260:
+            truncated = True
+            break
+        body += (" · " if body else "") + p
+    if not body and parts:
+        body, truncated = parts[0][:260], True
+    emo = flag_emoji(cc)
+    return (emo + " " if emo else "") + head + ". " + body + (" …" if truncated else "")
+
+
+SHARE_PAGE = """<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{name} — GeoGuessr hints</title>
+<meta name="description" content="{desc}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="GeoHint Globe">
+<meta property="og:title" content="{name} — GeoGuessr hints">
+<meta property="og:description" content="{desc}">
+<meta property="og:url" content="{url}">
+{og_image}<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#070b14">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%235bd6c0'/%3E%3Cpath d='M2 16h28M16 2a20 20 0 0 1 0 28M16 2a20 20 0 0 0 0 28' stroke='%23070b14' fill='none' stroke-width='1.4'/%3E%3C/svg%3E">
+<script>location.replace("../../#{slug}");</script>
+<style>body{{background:#070b14;color:#93a0bd;font:14px sans-serif;display:flex;align-items:center;justify-content:center;height:100vh;margin:0}}a{{color:#5bd6c0}}</style>
+</head>
+<body>
+<p>Opening {name} hints… <a href="../../#{slug}">continue</a></p>
+</body>
+</html>
+"""
+
+
+def build_country_pages(countries):
+    code = parse_code_map()
+    cdir = os.path.join(DOCS, "c")
+    shutil.rmtree(cdir, ignore_errors=True)
+    for c in countries:
+        cc = code.get(c["name"])
+        esc = lambda s: html.escape(s, quote=True)
+        og_image = ""
+        if cc:
+            og_image = (f'<meta property="og:image" content="https://flagcdn.com/w1280/{cc}.png">\n'
+                        f'<meta property="og:image:alt" content="{esc("Flag of " + c["name"])}">\n')
+        page = SHARE_PAGE.format(
+            name=esc(c["name"]), slug=c["slug"], desc=esc(preview_desc(c, cc)),
+            url=f"{BASE_URL}/c/{c['slug']}/", og_image=og_image)
+        out = os.path.join(cdir, c["slug"])
+        os.makedirs(out, exist_ok=True)
+        with open(os.path.join(out, "index.html"), "w", encoding="utf-8") as f:
+            f.write(page)
+    return len(countries)
+
+
 def main():
     countries = load_countries()
     payload = {"countries": countries, "master": MASTER,
@@ -164,7 +262,8 @@ def main():
     md = build_md(countries)
     with open(os.path.join(ROOT, "geoguessr-hints.md"), "w", encoding="utf-8") as f:
         f.write(md)
-    print(f"built: {len(countries)} countries")
+    pages = build_country_pages(countries)
+    print(f"built: {len(countries)} countries, {pages} share pages")
 
 
 if __name__ == "__main__":
