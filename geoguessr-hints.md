@@ -862,20 +862,31 @@ Study: [Plonk It](https://www.plonkit.net/bangladesh) · [GeoGuessr map](https:/
 | Special | **Trekker metas**: black-cover trekker → Khulna; red-mirror trekker → Nijhum Dwip (unique); scooter trekker (left mirror + hair) → Hatiya Island; security-guard escort → Saint Martin's Island | [P](https://www.plonkit.net/bangladesh) |  |
 
 ## Nepal
-Study: [Plonk It](https://www.plonkit.net/nepal)
+Study: [Plonk It](https://www.plonkit.net/nepal) · [GeoGuessr map](https://www.geoguessr.com/maps/689cdc023c5ba8c7cb2a1506)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates fairly long, white most common; **private = red, public = black** | [P](https://www.plonkit.net/nepal) |  |
-| Country | All road coverage is **shitcam** (low-quality: brownish colours, often a big circular blur over the car) | [P](https://www.plonkit.net/nepal) |  |
-| Country | Drives **left**; **Devanagari** (line across the top + vertical strokes); ङ/ङ्ग commoner than in Hindi; native Devanagari numbers (rare in India) | [P](https://www.plonkit.net/nepal) |  |
-| Country | Poles: square concrete (flatlands) / thin metal (mountains); **trident poletop w/ triangle supports** is unique to Nepal | [P](https://www.plonkit.net/nepal) |  |
-| Country | **Outer yellow road lines** (dashed or solid) + dashed white middle on bigger roads | [P](https://www.plonkit.net/nepal) |  |
-| Country | **Black-and-white striped concrete bollards w/ a red top** (3–5 stripes) | [P](https://www.plonkit.net/nepal) |  |
-| Country | **Flat agricultural south** (Indian border) + **high-altitude mountain roads** in the north | [P](https://www.plonkit.net/nepal) |  |
-| Country | Buildings colorful blocky or painted concrete/brick/thatch, tiled or tin roofs, often w/ **triangle-shaped facade decorations** | [P](https://www.plonkit.net/nepal) |  |
-| Country | **Black-and-white striped signposts** (also IN/BT/BD/LK/MY) | [P](https://www.plonkit.net/nepal) |  |
-| Country | White Buddhist **stupas, sometimes w/ painted eyes** on the sides — only found in Nepal | [P](https://www.plonkit.net/nepal) |  |
+| Country | Plates fairly long, most commonly white; **private = red, public = black** | [P](https://www.plonkit.net/nepal) |  |
+| Country | ALL road coverage = **shitcam** (brownish, big circular blur) | [P](https://www.plonkit.net/nepal) |  |
+| Country | Drives on the **left** | [P](https://www.plonkit.net/nepal) |  |
+| Country | **Devanagari** (top line, straight verticals) — Nepali tells: **ङ / ङ्ग** much more common than in Hindi + native **Devanagari numerals** on signs (very rare in India) | [P](https://www.plonkit.net/nepal) |  |
+| Country | Square concrete poles (flats) / thin metal poles (mountains), often trident tops | [P](https://www.plonkit.net/nepal) |  |
+| Country | **Outer yellow lines** (dashed/solid) + dashed white middle on bigger roads; solid outer yellow ↔ very common in eastern Bagmati | [P](https://www.plonkit.net/nepal) |  |
+| Country | **Black-white striped concrete bollards** (3–5 stripes), often a red top marking | [P](https://www.plonkit.net/nepal) |  |
+| Country | Flat agriculture in the **south**, high-altitude mountain roads in the **northern half** | [P](https://www.plonkit.net/nepal) |  |
+| Country | Colourful blocky multi-storey buildings or small painted-concrete/brick/thatch houses; **triangle-shaped facade decorations** common | [P](https://www.plonkit.net/nepal) |  |
+| Country | **Black-white striped signposts** | [P](https://www.plonkit.net/nepal) |  |
+| Country | White **Buddhist stupas, sometimes with painted eyes** — only in Nepal | [P](https://www.plonkit.net/nepal) |  |
+| Region | **Districts** appear in addresses, often in English too; far south = flat (Terai), centre/north = high mountains | [P](https://www.plonkit.net/nepal) |  |
+| Region | **Vegetation metas**: western hills dry w/ exposed hillsides (east greener); areca palms → southeast; canola → southern pockets in the west; chir pines → mountains (esp. west + near Kathmandu); white fluffy grass → SE of Kathmandu; Japanese cedars + tea plantations → far east only | [P](https://www.plonkit.net/nepal) |  |
+| Region | **Roof metas**: rounded tiles → flats S of Kathmandu + west; West-Bengal-style tiles (diamond protrusions) → far-west flats; grey square stone tiles → Birgunj/Janakpur (NOT in India-lookalike areas!); messy rectangular tiles → western mountain towns; corrugated metal → Birgunj–Janakpur; roof **railings** → west (Tulsipur valley, stair-shaped; east limit ≈ Kawasoti); golden god-carved gables → around Kawasoti; stick fences → eastern plains; triangular roof 'window' + sloping section → far east; hip roofs w/ small ridge protrusion → (west of) Biratnagar | [P](https://www.plonkit.net/nepal) |  |
+| Region | **Mosques** only in Muslim pockets: around Janakpur, Birgunj, Nepalgunj, Biratnagar/W of Koshi; round clay huts w/ thatch → around Birgunj (also across the Indian border) | [P](https://www.plonkit.net/nepal) |  |
+| Region | Poles w/ a **cross near the top** → east; Kathmandu poles: asymmetric crossbar + triangle attachment + support bar; **yellow water tanks** → east (green/black everywhere) | [P](https://www.plonkit.net/nepal) |  |
+| Region | **Car metas**: orange car → Nepalgunj/Madi/Biratnagar/Birtamod (w/ blue ribbon = Biratnagar); blue car → Pokhara/Birgunj/Malangawa (w/ antenna = Pokhara); white car → Butwal, H10, H04, near Kathmandu, NE-Birgunj, Janakpur–Lahan, Itahari; black spoiler → Janakpur; grey car → Kathmandu + Lahan; blocky grey truck → E of Birgunj + S of Kathmandu; grey car w/ backlight → Pokhara/Kathmandu/N-Malangawa/E-Itahari; red car (long antenna) → Kathmandu + N of Janakpur | [P](https://www.plonkit.net/nepal) |  |
+| Special | **Road spotlights**: N of Siddhicharan (east) — high hills full of dark **rhododendron bushes** (red flowers); NW of Bhimeshwor — foggy gloomy road in the only natural **east-Himalayan-fir forest**; NE of Phungling — sketchy yellow/orange dirt road w/ high-elevation oaks; N of Khaptad NP — NW-bound valley dirt track w/ snowcapped mountains NW | [P](https://www.plonkit.net/nepal) |  |
+| Special | **Trekker coverage** only SW of Mount Everest — green forests in the south, barren trails north; near Namche Bazar: sunny near the treeline; compass mostly unreliable! | [P](https://www.plonkit.net/nepal) |  |
+| Special | **Trekker settlements**: Namche Bazar = biggest, dense (+bird's-eye views); Lukla = southernmost, narrow street, extremely dark; Khumjung = jagged peak above + nearly all **green roofs** (label further north is misleading); Pangboche = bright, forested mountains; Phorste = sparse, huge mountain, dead-looking trees | [P](https://www.plonkit.net/nepal) |  |
+| Special | **Trail metas** | [P](https://www.plonkit.net/nepal) |  |
 
 ## South Korea
 Study: [Plonk It](https://www.plonkit.net/south-korea)
