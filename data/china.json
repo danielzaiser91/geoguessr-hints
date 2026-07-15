@@ -3,14 +3,31 @@
  "slug": "china",
  "continent": "Asia",
  "area_km2": 9596960,
- "links": { "plonkit": "https://www.plonkit.net/china", "geoguessr": null },
+ "links": { "plonkit": "https://www.plonkit.net/china", "geoguessr": "https://www.geoguessr.com/maps/639830917274a5e2480cd39f" },
  "hints": [
-  { "cat": "country", "text": "Mainland = **tripod coverage** only (motion blur, saturated colours), no car (HK & Macau have car coverage)", "src": ["plonkit"], "sv": null, "anchor": "0D6J", "img": "cn_tripod.png", "type": "cars" },
-  { "cat": "country", "text": "**Simplified** Chinese characters (Traditional → Taiwan/HK/Macau)", "src": ["plonkit"], "sv": null, "anchor": "7ABL", "img": "cn_language.png", "type": "language" },
-  { "cat": "country", "text": "Plates **blue with white text**", "src": ["plonkit"], "sv": null, "anchor": "CygQ", "img": "cn_licenceplate.png" },
-  { "cat": "region", "text": "Coverage = small spots near east-coast cities (Beijing, Shanghai, Shenzhen, Chengdu, Yangzhou); much is inside museums / ancient cities", "src": ["plonkit"], "sv": null, "anchor": "R4Q8", "img": "cn_coverage.png", "type": "general" },
-  { "super": true, "cat": "state", "text": "Plate 1st character = province indicator (京 Beijing, 沪 Shanghai, 粤 Guangdong…) — learnable", "src": ["plonkit"], "sv": null, "anchor": "CygQ", "img": "cn_licenceplate.png", "type": "naming" },
-  { "cat": "special", "text": "Forbidden City / Palace Museum = central Beijing; Zhoucun = only pinpointable ancient city (straight N–S street)", "src": ["plonkit"], "sv": null, "anchor": "pTop", "img": "cn_forbiddencity.png", "type": "general" },
-  { "cat": "special", "text": "Museum tells the city: Hubei (Wuhan, palace grey roofs), Suzhou (white/grey angular), Long Museum (Shanghai, boxy concrete)", "src": ["plonkit"], "sv": null, "anchor": "TjfT", "img": "cn_hubeimuseum.png", "type": "arch" }
+  { "cat": "country", "type": "cars", "text": "All mainland coverage is **tripod** coverage — motion blur, slightly saturated colours, no car", "src": ["plonkit"], "sv": null, "anchor": "0D6J", "img": "cn_tripod.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "hong-kong", "note": "Hong Kong has full **Google-car** coverage (not tripod).", "diff": "See a car/normal road coverage with Chinese signage → think HK (or Macau/Taiwan), not the mainland." },
+      { "slug": "macau", "note": "Macau also has full Google-car coverage.", "diff": "Car coverage + Portuguese/Chinese bilingual signs → Macau." } ] },
+  { "cat": "country", "type": "language", "text": "**Simplified Chinese** characters (reduced stroke count)", "src": ["plonkit"], "sv": null, "anchor": "7ABL", "img": "cn_language.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "taiwan", "note": "Taiwan uses **traditional** Chinese.", "diff": "Complex many-stroke characters + car coverage + scooters everywhere → Taiwan." },
+      { "slug": "hong-kong", "note": "Hong Kong uses **traditional** Chinese (+ much English).", "diff": "Traditional characters + English + left-hand traffic → HK." },
+      { "slug": "macau", "note": "Macau uses **traditional** Chinese (+ Portuguese).", "diff": "Portuguese on signs → Macau." } ] },
+  { "cat": "country", "type": "plates", "text": "Plates **blue with white text**", "src": ["plonkit"], "sv": null, "anchor": "CygQ", "img": "cn_licenceplate.png" },
+  { "cat": "region", "type": "general", "text": "Coverage = several **small spots**, mainly in/near major east-coast urban areas; a big share is **hidden** coverage (not on Google Maps, only via Map-Making App)", "src": ["plonkit"], "sv": null, "anchor": "R4Q8", "img": "cn_coverage.png", "super": true },
+  { "cat": "region", "type": "general", "text": "Much coverage is **inside museums** — most covered museums are in/around **Beijing & Shanghai**", "src": ["plonkit"], "sv": null, "anchor": "y76w", "img": "cn_museums.png" },
+  { "cat": "region", "type": "general", "text": "**Ancient towns** with coverage: Zhoucun, NE of Xuzhou, Yangzhou, west of Jiaxing, west of Zhangzhou", "src": ["plonkit"], "sv": null, "anchor": "dosV", "img": "cn_ancienttowns.png" },
+  { "cat": "region", "type": "general", "text": "**Outdoor urban** coverage: Beijing, Yangzhou, Shanghai, Shenzhen, Chengdu", "src": ["plonkit"], "sv": null, "anchor": "bsTm", "img": "cn_urban.png" },
+  { "cat": "state", "type": "naming", "text": "Plate 1st character = **province indicator** (京 Beijing, 沪 Shanghai, 粤 Guangdong…) — learnable", "src": ["plonkit"], "sv": null, "anchor": "CygQ", "img": "cn_licenceplate.png", "super": true },
+  { "cat": "special", "area": "Beijing", "type": "arch", "text": "**Palace Museum / Forbidden City** — massive palace in the centre of Beijing", "src": ["plonkit"], "sv": null, "anchor": "pTop", "img": "cn_forbiddencity.png" },
+  { "cat": "special", "area": "Beijing", "type": "arch", "text": "**Today Art Museum**: modern street with cafés/bars + an uncanny statue out front", "src": ["plonkit"], "sv": null, "anchor": "2kV6", "img": "cn_todayartmuseum.png" },
+  { "cat": "special", "area": "Chengdu", "type": "arch", "text": "**Sichuan Museum**: parking area with lots of greenery", "src": ["plonkit"], "sv": null, "anchor": "9s1q", "img": "cn_sichuanmuseum.png" },
+  { "cat": "special", "area": "Wuhan", "type": "arch", "text": "**Hubei Museum**: palace-like architecture with grey roofs", "src": ["plonkit"], "sv": null, "anchor": "TjfT", "img": "cn_hubeimuseum.png" },
+  { "cat": "special", "area": "Hangzhou", "type": "arch", "text": "**Museum of Silk Production**: rounded glass facade + fountain at the front", "src": ["plonkit"], "sv": null, "anchor": "ZSAE", "img": "cn_museumofsilk.png" },
+  { "cat": "special", "area": "Shanghai", "type": "arch", "text": "**Long Museum**: boxy concrete main building", "src": ["plonkit"], "sv": null, "anchor": "Fgo6", "img": "cn_longmuseum.png" },
+  { "cat": "special", "area": "Suzhou", "type": "arch", "text": "**Suzhou Museum**: white-and-grey symmetric angular architecture", "src": ["plonkit"], "sv": null, "anchor": "V4ba", "img": "cn_suzhoumuseum.png" },
+  { "cat": "special", "area": "Yangzhou", "type": "arch", "text": "**Yangzhou Museum**: beige rounded stone building", "src": ["plonkit"], "sv": null, "anchor": "d3En", "img": "cn_yangzhoumuseum.png" },
+  { "cat": "special", "area": "Zhoucun", "type": "general", "text": "**Zhoucun** = the only pinpointable ancient city — street runs straight north–south", "src": ["plonkit"], "sv": null, "anchor": "CodW", "img": "cn_zhoucunancientcity.png", "uniq": "unique" }
  ]
 }

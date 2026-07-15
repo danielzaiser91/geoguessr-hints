@@ -283,37 +283,100 @@ Study: [Plonk It](https://www.plonkit.net/sao-tome-and-principe)
 # Asia
 
 ## China
-Study: [Plonk It](https://www.plonkit.net/china)
+Study: [Plonk It](https://www.plonkit.net/china) · [GeoGuessr map](https://www.geoguessr.com/maps/639830917274a5e2480cd39f)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Mainland = **tripod coverage** only (motion blur, saturated colours), no car (HK & Macau have car coverage) | [P](https://www.plonkit.net/china) |  |
-| Country | **Simplified** Chinese characters (Traditional → Taiwan/HK/Macau) | [P](https://www.plonkit.net/china) |  |
+| Country | All mainland coverage is **tripod** coverage — motion blur, slightly saturated colours, no car | [P](https://www.plonkit.net/china) |  |
+| Country | **Simplified Chinese** characters (reduced stroke count) | [P](https://www.plonkit.net/china) |  |
 | Country | Plates **blue with white text** | [P](https://www.plonkit.net/china) |  |
-| Region | Coverage = small spots near east-coast cities (Beijing, Shanghai, Shenzhen, Chengdu, Yangzhou); much is inside museums / ancient cities | [P](https://www.plonkit.net/china) |  |
-| State | Plate 1st character = province indicator (京 Beijing, 沪 Shanghai, 粤 Guangdong…) — learnable | [P](https://www.plonkit.net/china) |  |
-| Special | Forbidden City / Palace Museum = central Beijing; Zhoucun = only pinpointable ancient city (straight N–S street) | [P](https://www.plonkit.net/china) |  |
-| Special | Museum tells the city: Hubei (Wuhan, palace grey roofs), Suzhou (white/grey angular), Long Museum (Shanghai, boxy concrete) | [P](https://www.plonkit.net/china) |  |
+| Region | Coverage = several **small spots**, mainly in/near major east-coast urban areas; a big share is **hidden** coverage (not on Google Maps, only via Map-Making App) | [P](https://www.plonkit.net/china) |  |
+| Region | Much coverage is **inside museums** — most covered museums are in/around **Beijing & Shanghai** | [P](https://www.plonkit.net/china) |  |
+| Region | **Ancient towns** with coverage: Zhoucun, NE of Xuzhou, Yangzhou, west of Jiaxing, west of Zhangzhou | [P](https://www.plonkit.net/china) |  |
+| Region | **Outdoor urban** coverage: Beijing, Yangzhou, Shanghai, Shenzhen, Chengdu | [P](https://www.plonkit.net/china) |  |
+| State | Plate 1st character = **province indicator** (京 Beijing, 沪 Shanghai, 粤 Guangdong…) — learnable | [P](https://www.plonkit.net/china) |  |
+| Special | **Palace Museum / Forbidden City** — massive palace in the centre of Beijing | [P](https://www.plonkit.net/china) |  |
+| Special | **Today Art Museum**: modern street with cafés/bars + an uncanny statue out front | [P](https://www.plonkit.net/china) |  |
+| Special | **Sichuan Museum**: parking area with lots of greenery | [P](https://www.plonkit.net/china) |  |
+| Special | **Hubei Museum**: palace-like architecture with grey roofs | [P](https://www.plonkit.net/china) |  |
+| Special | **Museum of Silk Production**: rounded glass facade + fountain at the front | [P](https://www.plonkit.net/china) |  |
+| Special | **Long Museum**: boxy concrete main building | [P](https://www.plonkit.net/china) |  |
+| Special | **Suzhou Museum**: white-and-grey symmetric angular architecture | [P](https://www.plonkit.net/china) |  |
+| Special | **Yangzhou Museum**: beige rounded stone building | [P](https://www.plonkit.net/china) |  |
+| Special | **Zhoucun** = the only pinpointable ancient city — street runs straight north–south | [P](https://www.plonkit.net/china) |  |
 
 ## India
-Study: [Plonk It](https://www.plonkit.net/india)
+Study: [Plonk It](https://www.plonkit.net/india) · [GeoGuessr map](https://www.geoguessr.com/maps/62e10035c97fc44e29bd8e0e)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Mostly **"shitcam"** (brownish colours, big circular blur); Gen4 = smallcam; drives on the **left** | [P](https://www.plonkit.net/india) |  |
-| Country | Plates: long, usually **white**; commercial = **yellow**, EV = **green** | [P](https://www.plonkit.net/india) |  |
-| Country | **B&W striped signposts** (also BD/NP/LK); poles almost always concrete/metal (wood v. rare); common = square concrete pole w/ trident top | [P](https://www.plonkit.net/india) |  |
-| Country | English on much signage; many regional **scripts** (best region tool → below) | [P](https://www.plonkit.net/india) |  |
-| State | **Devanagari** (bar across top of words) = Hindi → central/north; Marathi (has ळ) → Maharashtra | [P](https://www.plonkit.net/india) |  |
-| State | **Gujarati** = like Hindi but **no top bar** → Gujarat | [P](https://www.plonkit.net/india) |  |
-| State | **Bengali** (left-facing triangles) → West Bengal/NE (& Bangladesh); Assamese variant (ৰ ৱ) → Assam | [P](https://www.plonkit.net/india) |  |
-| State | **Kannada** (curves + small circles) → Karnataka; **Telugu** (checkmark diacritics on top) → Telangana/Andhra | [P](https://www.plonkit.net/india) |  |
-| State | **Tamil** (curves + 90° angles) → Tamil Nadu (& Sri Lanka); **Malayalam** (upside-down U shapes) → Kerala | [P](https://www.plonkit.net/india) |  |
-| State | **Oriya** (round "skull-emoji" tops) → Odisha; **Punjabi** (broken top bar, soft letters) → Punjab | [P](https://www.plonkit.net/india) |  |
-| State | Meghalaya = almost exclusively **English** | [P](https://www.plonkit.net/india) |  |
-| State | **Holey concrete poles** = Gujarat; yellow tuk-tuks w/ black roofs → south (TG/AP/TN) | [P](https://www.plonkit.net/india) |  |
-| State | Pole paint: **5+ thin** black/yellow stripes → Delhi; **exactly 4 thick** → Bihar | [P](https://www.plonkit.net/india) |  |
-| State | Gurdwaras (white domes, Khanda symbol) → Punjab; bright flat orange ridged roof tiles → Tamil Nadu | [P](https://www.plonkit.net/india) |  |
+| Country | Most coverage = **"shitcam"** — low quality, brownish colours, often a large circular blur over the car | [P](https://www.plonkit.net/india) |  |
+| Country | All **Gen4 = smallcam**: mounted lower, big circular blur with a small front protrusion (blur can be fully transparent) | [P](https://www.plonkit.net/india) |  |
+| Country | Significant number of **Gen3 trekkers** throughout the country | [P](https://www.plonkit.net/india) |  |
+| Country | Drives on the **left** | [P](https://www.plonkit.net/india) |  |
+| Country | Wide variety of **scripts** — most narrow down the region (see the state section) | [P](https://www.plonkit.net/india) |  |
+| Country | Plates fairly **long**; standard **white**, commercial **yellow**, electric **green** | [P](https://www.plonkit.net/india) |  |
+| Country | **Black-and-white striped signposts** | [P](https://www.plonkit.net/india) |  |
+| Country | Most common pole: **square concrete with a trident poletop**; poles almost always concrete/metal — wooden extremely rare | [P](https://www.plonkit.net/india) |  |
+| Region | **Hindi** (Devanagari: top line through each word, straight verticals) → central & northern regions | [P](https://www.plonkit.net/india) |  |
+| Region | **Yellow tuk-tuks with black roofs** → south (Telangana, Andhra Pradesh, Tamil Nadu); rare elsewhere | [P](https://www.plonkit.net/india) |  |
+| Region | **Thin grey metal poles** (often two close together) → all of the northeast + Himalayan Uttarakhand & Himachal Pradesh | [P](https://www.plonkit.net/india) |  |
+| Region | **Northeast pole metas**: even + uneven poletop combos; '**<**'-shaped double diagonal bars (Meghalaya & Arunachal, occasionally Assam); two crossbars w/ 2 insulators each (Assam/Meghalaya/Mizoram — **>2 bars → Meghalaya or Mizoram**) | [P](https://www.plonkit.net/india) |  |
+| Region | **Roof metas**: central = rounded, disorganised tiles; south = organised flat bright-orange tiles w/ middle ridge (esp. Tamil Nadu; darker brown further north); West Bengal = flat tiles w/ **diamond protrusion** + large corrugated **hip roofs** (also nearby Bihar/Odisha); northeast = metal roofs w/ small top triangle + houses of square panels | [P](https://www.plonkit.net/india) |  |
+| Region | **Thatched huts** → east coast + northern plains (big hay mounds too) | [P](https://www.plonkit.net/india) |  |
+| Region | **Pine metas**: chir pines (smooth conical crowns, long needles) → Uttarakhand/Himachal/J&K/W-Arunachal; khasi pines (jagged, disorganised crowns) → Meghalaya & Manipur | [P](https://www.plonkit.net/india) |  |
+| Region | **Cacti fences** (Euphorbia) → Gujarat, W-Maharashtra, S-Rajasthan | [P](https://www.plonkit.net/india) |  |
+| Region | **Palm metas**: palmyra (lollipop shape) in numbers → south/east; areca (very thin trunk, small crown) → SW coast, northeast, Andaman & Nicobar; date palms → dry central regions; oil-palm plantations → Andhra panhandle (near Telangana border) | [P](https://www.plonkit.net/india) |  |
+| Region | **Crop metas**: tea → northeast + far south (flat tea = Assam / NE-West-Bengal); sugarcane → around Uttar Pradesh + southwest; cotton → Gujarat & Maharashtra; canola → around Rajasthan | [P](https://www.plonkit.net/india) |  |
+| Region | **Himalaya** = by far the tallest mountains; **Ladakh/N-Himachal** = extremely dry high-altitude desert; **northern plains** (Ganges valley) = fertile, extremely flat open fields | [P](https://www.plonkit.net/india) |  |
+| Region | **Soil metas**: distinctly dark soil → Maharashtra + adjacent; red soil → SW coast + around Chhattisgarh/W-Odisha; sandy dry → W-Rajasthan | [P](https://www.plonkit.net/india) |  |
+| Region | **Boxy square cars** visible in mapped areas (Odisha variant shows a hood); northeast: fences of thin wooden sticks in a square pattern | [P](https://www.plonkit.net/india) |  |
+| State | **Marathi** — Devanagari like Hindi, but sometimes uses **ळ** (not in Hindi) | [P](https://www.plonkit.net/india) |  |
+| State | **Punjabi** — softer letter shapes, top bar **broken** over some letters; distinct **ਨ ਲ ਅ** + soft-curve diacritic below letters | [P](https://www.plonkit.net/india) |  |
+| State | **Gujarati** — like Hindi but **no top line** over the words | [P](https://www.plonkit.net/india) |  |
+| State | **Bengali** — Devanagari-like but many letters with **left-facing triangles** | [P](https://www.plonkit.net/india) |  |
+| State | **Assamese** — Bengali script plus extra characters, notably **ৰ ৱ** | [P](https://www.plonkit.net/india) |  |
+| State | **Kannada** — smooth curves + small circles; often a **squiggly tail** top-right (rarer in Telugu) | [P](https://www.plonkit.net/india) |  |
+| State | **Telugu** — very similar to Kannada, but often **checkmark-like diacritics** on top of letters | [P](https://www.plonkit.net/india) |  |
+| State | **Tamil** — mix of curves, straight lines and **90° angles**; dot-shaped diacritics (also common in Sri Lanka) | [P](https://www.plonkit.net/india) |  |
+| State | **Oriya** — curvy; wide **semi-circles covering letter tops** (mnemonic: looks like the skull emoji 💀) | [P](https://www.plonkit.net/india) |  |
+| State | **Malayalam** — simple curvy letters, many **upside-down U shapes** | [P](https://www.plonkit.net/india) |  |
+| State | **Manipuri (Meitei)** — many vertical lines and right angles; metal trident poles, sometimes small bars on the trident | [P](https://www.plonkit.net/india) |  |
+| State | **Mizo** — Latin script (most common non-English Latin language in Indian coverage); lush green valleys, eroded hillsides with many scattered small peaks (Meghalaya's ridge tops are smoother) | [P](https://www.plonkit.net/india) |  |
+| State | **Almost exclusively English** signage — the only region like this | [P](https://www.plonkit.net/india) |  |
+| State | **Concrete holey poles** — Gujarat + Daman & Diu / Dadra & Nagar Haveli | [P](https://www.plonkit.net/india) |  |
+| State | Poles **divided in two sections** (Brazil-style) | [P](https://www.plonkit.net/india) |  |
+| State | Metal poles with a **mesh pattern**; taxis often have a **yellow hood** or small yellow circle; Buddhist prayer flags (also Arunachal) | [P](https://www.plonkit.net/india) |  |
+| State | **Metal holey poles**; small **yellow pole stickers** (similar stickers rarely elsewhere); with Goa the most developed states — wealthy modern homes | [P](https://www.plonkit.net/india) |  |
+| State | Electricity counters **mint green** with window-like squares (rarely Haryana); small **window-shaped metal poletops** (Punjab & Haryana); **gurdwaras** (white domes, Khanda symbol) most common here | [P](https://www.plonkit.net/india) |  |
+| State | Trident poletop with **centre insulator directly on the pole top**, outer two on a crossbar below (sometimes Haryana; multi-bar variant exists) | [P](https://www.plonkit.net/india) |  |
+| State | **Upside-down triangle poletops** below the pole top (less common in Madhya Pradesh) | [P](https://www.plonkit.net/india) |  |
+| State | Metal bar shaped like an **upside-down A** slightly below the pole top | [P](https://www.plonkit.net/india) |  |
+| State | **Upside-down trapezoid connector** on poles (also Meghalaya, Tripura, Maharashtra; rare elsewhere) — only use when no other pole meta is present | [P](https://www.plonkit.net/india) |  |
+| State | Poletops attached with two vertical bars forming a **tall narrow rectangle**; variant with two crossbars + diagonal supports to the pole | [P](https://www.plonkit.net/india) |  |
+| State | Trident poletop with the **middle bar tip bent 90°** | [P](https://www.plonkit.net/india) |  |
+| State | Poletop with a **short crossbar above a longer crossbar** | [P](https://www.plonkit.net/india) |  |
+| State | Pole/tree markings: **one black stripe between two white** stripes | [P](https://www.plonkit.net/india) |  |
+| State | Pole paint: **5+ thin black-and-yellow stripes**; orange & bright-green **buses** | [P](https://www.plonkit.net/india) |  |
+| State | Pole paint: exactly **4 thicker black-and-yellow stripes**; trees with **4 red-white stripes** (also Jharkhand, less often) | [P](https://www.plonkit.net/india) |  |
+| State | **Western Ghats**: tabletop ridgelines (plateaus, not peaks); N drier, S greener — rainy season turns everything green | [P](https://www.plonkit.net/india) |  |
+| Special | Black **pole stickers with digits + a middle arrow** | [P](https://www.plonkit.net/india) |  |
+| Special | Planned city: blue **sector signs**, round yellow marks on street lights, street signs with **numbers instead of names** (nearby SAS Nagar & Panchkula similar) | [P](https://www.plonkit.net/india) |  |
+| Special | Separated **middle bus lanes** on large roads (people still drive in them) | [P](https://www.plonkit.net/india) |  |
+| Special | **Black taxis with yellow roofs** | [P](https://www.plonkit.net/india) |  |
+| Special | **Elevated railways** → Bengaluru, Chennai, Delhi, Hyderabad, Jaipur, Kochi, Kolkata, Mumbai | [P](https://www.plonkit.net/india) |  |
+| Special | Roofs of **thin grey bricks**; same bricks/rocks in walls & stockyards | [P](https://www.plonkit.net/india) |  |
+| Special | NW-Bihar/NE-UP: **white-painted clay huts**; central Bihar: wooden huts with a **cross pattern** | [P](https://www.plonkit.net/india) |  |
+| Special | **Tree spotlights**: Japanese cedar (tall, narrow fluffy crowns) → Sikkim/WB border + Meghalaya; Himalayan cedar → NH34 Harsil–Gangotri + Shimla; Bhutan white pine (hanging needles) → Mechuka valley + Bhutan border (Arunachal) | [P](https://www.plonkit.net/india) |  |
+| Special | **Doum palms** (palmyra-like but multi-branched) | [P](https://www.plonkit.net/india) |  |
+| Special | Endangered **Indian pitcher plant** — exclusive to the Khasi Hills (roadside esp. NH206 north of Umlārem) | [P](https://www.plonkit.net/india) |  |
+| Special | Western half far more **barren** (logging/erosion); NW of Dehradun: barren brown-grass hills, small cliff-side roads; **Chaukhamba** massif near Ukhimath: snow, three peaks, centre tallest | [P](https://www.plonkit.net/india) |  |
+| Special | The **only NE-India spot with visible snowy mountains**; brownish grass + Bhutan white pines; north of Mechuka increasingly overcast/dark | [P](https://www.plonkit.net/india) |  |
+| Special | South of Shillong: **V-shaped green eroded valleys** with flat smooth ridgetops (Mizoram = less smooth, more rises/falls); NH6/NH206 SE of Shillong: khasi pines + **yellow outer road lines** + fresh dark pavement (only Meghalaya road with yellow outer lines) | [P](https://www.plonkit.net/india) |  |
+| Special | **Salt flats & coastal marshes**, near-zero vegetation, shallow water pools (W-Rajasthan is sandier with desert shrubs) | [P](https://www.plonkit.net/india) |  |
+| Special | Southern tip: huge **monolithic rock mountains** (Magenthiragiri hills visible from afar); flat bushy landscape with **very red soil** in the south | [P](https://www.plonkit.net/india) |  |
+| Special | Abundant **coconut trees**, often painted **red-and-white** (like the Polish flag) | [P](https://www.plonkit.net/india) |  |
+| Special | **NH326** west of Brahmapur: thin grey antenna + unusually high-quality shitcam (best near Harabhangi Reservoir) | [P](https://www.plonkit.net/india) |  |
 
 ## Kazakhstan
 Study: [Plonk It](https://www.plonkit.net/kazakhstan)
@@ -838,23 +901,87 @@ Study: [Plonk It](https://www.plonkit.net/macau)
 # Europe
 
 ## Russia
-Study: [Plonk It](https://www.plonkit.net/russia)
+Study: [Plonk It](https://www.plonkit.net/russia) · [GeoGuessr map](https://www.geoguessr.com/maps/62e309bfac02fca31aa404b8)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates **fully white, black text** (Europe usu. has blue strip) | [P](https://www.plonkit.net/russia) |  |
-| Country | Cyrillic w/ **Ы Э Ё Ъ**; улица = street (ул.), город = city (г.) | [P](https://www.plonkit.net/russia) |  |
-| Country | Many bollards + unusually **wide intersections** | [P](https://www.plonkit.net/russia) |  |
-| Country | Square concrete poles (also post-Soviet states); concrete support blocks at pole base | [P](https://www.plonkit.net/russia) |  |
-| Country | B&W striped guardrails / kerbs / pole shields | [P](https://www.plonkit.net/russia) |  |
-| Country | Gen3: black or white car w/ **long antenna**; pedestrian crossings = alternating white+yellow stripes | [P](https://www.plonkit.net/russia) |  |
-| Region | Birch everywhere; **larch** more common further east (Siberia) | [P](https://www.plonkit.net/russia) |  |
-| Region | Kamchatka = grey volcanic soil + volcanoes; Caucasus mtns → south (Dagestan dry/flat) | [P](https://www.plonkit.net/russia) |  |
-| Region | **RHD Japanese import cars** (steering wheel on the right) get commoner the further **east** you go (common from ~Novosibirsk eastward) — a fast east/west tell | [P](https://www.plonkit.net/russia) |  |
+| Country | Plates **fully white, black text** (Europe usu. has a blue strip) | [P](https://www.plonkit.net/russia) |  |
+| Country | Russian **Cyrillic** with the special letters **Ы Э Ё Ъ** | [P](https://www.plonkit.net/russia) |  |
+| Country | Key words: street = **улица** (ул.), city = **город** (г.) | [P](https://www.plonkit.net/russia) |  |
+| Country | Three main bollard types: very **thin on a stick**, **black top + red vertical reflector**, and a German-style one | [P](https://www.plonkit.net/russia) |  |
+| Country | Near intersections: a very **large number of bollards**; intersections unusually **wide** | [P](https://www.plonkit.net/russia) |  |
+| Country | Signposts often have **black-painted bottoms** | [P](https://www.plonkit.net/russia) |  |
+| Country | Mainly **square concrete poles**; often **concrete support blocks** at the pole base (wooden poles raised on the support) | [P](https://www.plonkit.net/russia) |  |
+| Country | Gen3: **black or white car with a long antenna** (sometimes short antenna without visible car) | [P](https://www.plonkit.net/russia) |  |
+| Country | Pedestrian signs: simply drawn person, **3 stripes**, often a bright **yellow border** | [P](https://www.plonkit.net/russia) |  |
+| Country | Pedestrian crossings: alternating **white and yellow** stripes | [P](https://www.plonkit.net/russia) |  |
+| Country | **Black & white striped** guardrails, kerbs and bridge barriers | [P](https://www.plonkit.net/russia) |  |
+| Country | Urban housing = large rectangular **concrete apartment blocks** (newer areas more modern) | [P](https://www.plonkit.net/russia) |  |
+| Country | Rural housing: basic **wooden houses with metal roofs** | [P](https://www.plonkit.net/russia) |  |
+| Country | Richly **decorated window frames** (often painted blue) on traditional homes/log cabins | [P](https://www.plonkit.net/russia) |  |
+| Country | Urban areas: **exposed above-ground pipes** held up by vertical pipes | [P](https://www.plonkit.net/russia) |  |
+| Region | **Birch trees** (white peeling bark) range over most of Russia — almost never far south or far north in the west | [P](https://www.plonkit.net/russia) |  |
+| Region | **Siberian larches** (needle-like leaves) dominate much of the east — more prevalent the further east / higher up | [P](https://www.plonkit.net/russia) |  |
+| Region | **Spruce vs fir vs larch**: spruce = dense, droopy/parallel dark branches | [P](https://www.plonkit.net/russia) |  |
+| Region | **Flower metas**: fireweed (pink) → north; sosnowsky hogweed (white) → Moscow/Komi/Perm; sunflowers → Ukraine border + Ulyanovsk/Samara/N-Orenburg; blue-pod lupines → N-Vladimir/E-Ivanovo/SW-Kostroma | [P](https://www.plonkit.net/russia) |  |
+| Region | **Tree metas near borders**: black poplar → south (Ukraine border) + west Kazakh border; Russian olive → Kazakhstan border | [P](https://www.plonkit.net/russia) |  |
+| Region | **Sandy roadsides** → Khanty-Mansi, Yamalo-Nenets, around Nizhny Novgorod (Volga), Karelia, Murmansk, W-Sakha (beware: also near rivers elsewhere) | [P](https://www.plonkit.net/russia) |  |
+| Region | **Red soil** → around Izhevsk & Perm, much of Arkhangelsk, Leningrad & Pskov Oblast, near Volgograd/Astrakhan (non-exhaustive — appears near water/iron mines anywhere) | [P](https://www.plonkit.net/russia) |  |
+| Region | **Far-north tundra**: relatively flat with very low vegetation | [P](https://www.plonkit.net/russia) |  |
+| Region | West of the Caspian Sea: extremely **dry & flat** (Kalmykia, Astrakhan, Dagestan) | [P](https://www.plonkit.net/russia) |  |
+| Region | **Caucasus** = one of Russia's largest ranges; Mt. **Elbrus** (highest) on the Kabardino-Balkaria / Karachay-Cherkessia border | [P](https://www.plonkit.net/russia) |  |
+| Region | **Rocks along the road** → most of Karelia & Murmansk (smaller/rarer in Perm Krai & Buryatia) | [P](https://www.plonkit.net/russia) |  |
+| Region | **RHD Japanese import cars** get commoner the further **east** you go (from ~Novosibirsk) — fast east/west tell | [P](https://www.plonkit.net/russia) |  |
+| Region | Very **thin stick-mounted bollards** → eastern half, starting around Omsk (normal bollards still plentiful) | [P](https://www.plonkit.net/russia) |  |
+| Region | **Black traffic-sign bottoms** → Stavropol, Chechnya, W-Dagestan (rare uncoloured exceptions in other southern subjects) | [P](https://www.plonkit.net/russia) |  |
+| Region | Roads made of **concrete blocks** → the north: Komi, Nenets, Yamalo-Nenets | [P](https://www.plonkit.net/russia) |  |
+| Region | Town names in **Cyrillic + Latin** → near the Baltic border & around Moscow (less often near Finland) | [P](https://www.plonkit.net/russia) |  |
+| Region | **Brown tourist signs** → Moscow Oblast + bordering oblasts (elsewhere only near attractions/city centres) | [P](https://www.plonkit.net/russia) |  |
+| Region | **Red-brick-only buildings** → mostly south (+ Magnitogorsk, Orsk, Omsk); more brick in view = more reliable | [P](https://www.plonkit.net/russia) |  |
+| Region | **Mosques** → Muslim-majority south + Tatarstan & Bashkortostan | [P](https://www.plonkit.net/russia) |  |
+| Region | **Full coverage map** — very sparse in the east & north; knowing the gaps helps | [P](https://www.plonkit.net/russia) |  |
+| Region | **Gen3 white car (long antenna)** hotspots: southern Chelyabinsk, snow coverage around Novosibirsk, Far East from Amur Oblast | [P](https://www.plonkit.net/russia) |  |
+| Region | **Short-antenna types** (Gen3) region-guess Russia | [P](https://www.plonkit.net/russia) |  |
+| Region | **Long-antenna types** (Gen3) | [P](https://www.plonkit.net/russia) |  |
+| Region | **Gen4 seasons** region-guess | [P](https://www.plonkit.net/russia) |  |
+| Region | **Gen4 car colours** | [P](https://www.plonkit.net/russia) |  |
 | State | Area codes — the leading digit gives the zone: | [P](https://www.plonkit.net/russia) |  |
-| State | Gen3 unblurred plate regional code (right side): 01 = Adygea … learnable list | [P](https://www.plonkit.net/russia) |  |
-| State | Omsk = birch patches in green farm fields (summer Gen4); Kaliningrad = white-striped lined oaks | [P](https://www.plonkit.net/russia) |  |
-| State | Bilingual signs (Tatar, Bashkir…) → Tatarstan / Bashkortostan | [P](https://www.plonkit.net/russia) |  |
+| State | Gen3 sometimes has **unblurred plates** — regional code on the right; ordered alphabetically within subject type (01 = Adygea, 28 = Amur; 3-digit: drop first digit, 123 → 23 Krasnodar) | [P](https://www.plonkit.net/russia) |  |
+| State | **Bus stops** styles are unique to specific federal subjects — memorable: Krasnoyarsk Krai, Chuvashia, Tatarstan, Mari El | [P](https://www.plonkit.net/russia) |  |
+| State | **Bilingual minority-language signs** (town entries, street names) | [P](https://www.plonkit.net/russia) |  |
+| State | **Lined oak trees** (often w/ a single white trunk stripe) are extremely common | [P](https://www.plonkit.net/russia) |  |
+| State | Big **red brake light** in view; Gen3 here is **autumn-only** (autumn Gen3 otherwise: Bryansk, Tula, Belgorod); cobblestones common | [P](https://www.plonkit.net/russia) |  |
+| State | Summer **Gen4**: green fields interrupted by isolated **birch patches** — spills into S-Tyumen & Novosibirsk (near Tatarsk); in Gen3 this look covers a much larger area | [P](https://www.plonkit.net/russia) |  |
+| State | **Sparsely planted roadside larches** + open rolling fields (also adjacent subjects); **yellow pole plates** on most poles | [P](https://www.plonkit.net/russia) |  |
+| State | Grassy fields + bushy vegetation in **early-spring Gen4** (flat or mountainous); typical flowers; **white limestone brick** buildings (also adjacent regions) | [P](https://www.plonkit.net/russia) |  |
+| State | **Giant butterbur** ('Sakhalin cabbage') very common, esp. southern half (related plants very rarely in Adygea); blurred long antenna | [P](https://www.plonkit.net/russia) |  |
+| State | Unique **grey gravelly soil** + the most **volcanoes** of any region (close-up e.g. in Klyuchi); most Russian **trekker coverage** is Kamchatka | [P](https://www.plonkit.net/russia) |  |
+| State | Gravelly/dark soil toward the mountains **east of Yakutsk** (from ~Keskil); main road **south of Yakutsk**: larches + big mountains, Gen4 **white car north of Berkakit**; very **hazy** coverage east/south of Mirny (often orange/white haze, Vilyuy river) | [P](https://www.plonkit.net/russia) |  |
+| State | Noticeably warmer: **lush, diverse hilly forests**; mostly overcast w/ white long-antenna car; open rolling hills near the tri-border | [P](https://www.plonkit.net/russia) |  |
+| State | Eastern half of the **Kolyma Highway**: tall hazy hills/mountains, unpaved dark gravel (haze absent in the western half) | [P](https://www.plonkit.net/russia) |  |
+| State | Open grassy landscape w/ shrubs + mountains (lusher near Baikal); **forest-fire haze** near Lake Gusinoye (vs Mirny haze: Buryatia = open rolling land) | [P](https://www.plonkit.net/russia) |  |
+| State | Main road: **black car, long antenna, driving north** through the Altai mountains — often foggy/rainy | [P](https://www.plonkit.net/russia) |  |
+| State | **Dry steppe mountains + long antenna** → Tuva; south Altai road looks similar — use driving direction & clouds; also has Kursk-style outer dashed lines | [P](https://www.plonkit.net/russia) |  |
+| State | Open hilly land, **low shrubbery + fireweed** (lower shrubs = further north); Gen4 main road & some 2018 Karelia roads: **two yellow bands** on most signposts | [P](https://www.plonkit.net/russia) |  |
+| State | **Outer dashed road lines** throughout Kursk Oblast (exceptions: Tuva; rarely Karelia, Primorsky, Khabarovsk) | [P](https://www.plonkit.net/russia) |  |
+| State | **Clips on the edges of signposts** (very rarely Pskov/Novgorod or elsewhere) | [P](https://www.plonkit.net/russia) |  |
+| State | **Extended insulator bars** on poles (also S-Kemerovo); **rounded rectangular fences with a middle line** | [P](https://www.plonkit.net/russia) |  |
+| State | Bollard with a **grey rectangle + double red reflectors** — specific to the **P100** | [P](https://www.plonkit.net/russia) |  |
+| State | Distinct **decorative pedestrian-sign holders** | [P](https://www.plonkit.net/russia) |  |
+| State | Historic buildings: **green roofs, red brick + white stone details** (churches similar) | [P](https://www.plonkit.net/russia) |  |
+| City | **Blue tourist signs with English translations** — only in Moscow | [P](https://www.plonkit.net/russia) |  |
+| City | Street signs with a **transliteration on black background** (mainly downtown) | [P](https://www.plonkit.net/russia) |  |
+| City | Exclusive **circular street signs** (up to 4 languages); striped **red-white poles** (also a few other Mordovia cities) | [P](https://www.plonkit.net/russia) |  |
+| City | **Alternating red-and-white poles** (less commonly greater Nizhny Novgorod, randomly elsewhere) | [P](https://www.plonkit.net/russia) |  |
+| City | Utility poles with a **mesh framework** (much rarer in e.g. Tolyatti) | [P](https://www.plonkit.net/russia) |  |
+| City | **Red-painted poles** — only in Murom | [P](https://www.plonkit.net/russia) |  |
+| City | **Angled extended insulator bar** on poles | [P](https://www.plonkit.net/russia) |  |
+| City | Pedestrian signs on a **U-shaped hook** | [P](https://www.plonkit.net/russia) |  |
+| City | Unique **hanging pedestrian signs** | [P](https://www.plonkit.net/russia) |  |
+| City | Fence with a **thin rounded-rectangle top** (Tolyatti often paints it yellow) | [P](https://www.plonkit.net/russia) |  |
+| City | Decorative fences, usually **bright orange** | [P](https://www.plonkit.net/russia) |  |
+| Special | **Far-east / north spotlights** | [P](https://www.plonkit.net/russia) |  |
+| Special | **Baikal & south spotlights** | [P](https://www.plonkit.net/russia) |  |
 
 ## Ukraine
 Study: [Plonk It](https://www.plonkit.net/ukraine)

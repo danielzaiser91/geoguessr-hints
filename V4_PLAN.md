@@ -118,7 +118,7 @@ every shared_with.slug exists. Build FAILS on violation (keeps data honest).
 ### Countries — full pass + classification (play-value order, biggest first)
 Format: `- [ ] slug` → check when BOTH captured-complete AND classified.
 
-**Asia:** - [x] kyrgyzstan · - [ ] russia · - [ ] china · - [ ] india · - [ ] indonesia ·
+**Asia:** - [x] kyrgyzstan · - [x] russia · - [x] china · - [x] india · - [ ] indonesia ·
 - [ ] japan · - [ ] thailand · - [ ] malaysia · - [ ] philippines · - [ ] vietnam ·
 - [ ] south-korea · - [ ] taiwan · - [ ] kazakhstan · - [ ] mongolia · - [ ] sri-lanka ·
 - [ ] bangladesh · - [ ] cambodia · - [ ] laos · - [ ] nepal · - [ ] bhutan · - [ ] pakistan ·
@@ -171,4 +171,5 @@ Format: `- [ ] slug` → check when BOTH captured-complete AND classified.
   verify via DOM checks + cache-busting query param (?v=N) since python http.server has no cache headers.
 
 ## Status
-- Infra: DONE (2026-07-15) · Countries: 1/136 (kyrgyzstan) · Final passes: not started
+- Infra: DONE (2026-07-15) · Countries: 4/136 (kyrgyzstan, russia, china, india) · Final passes: not started
+- NOTE russia is data continent "Europe" (matches MASTER). Russia rewritten 13→77 hints, china 7→17, india ~20→67.
