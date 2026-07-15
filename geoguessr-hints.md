@@ -600,23 +600,43 @@ Study: [Plonk It](https://www.plonkit.net/japan) · [GeoGuessr map](https://www.
 | Special | Huge number of **trekkers/tripods** across many prefectures (see Plonk It's dedicated resource) | [P](https://www.plonkit.net/japan) |  |
 
 ## Vietnam
-Study: [Plonk It](https://www.plonkit.net/vietnam)
+Study: [Plonk It](https://www.plonkit.net/vietnam) · [GeoGuessr map](https://www.geoguessr.com/maps/685f296859482938d5b066f0)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Drives on the **right**; plates white with black lettering (long or short) | [P](https://www.plonkit.net/vietnam) |  |
-| Country | **Vietnamese** = Latin script with **more diacritics than any other** on Street View; short, mostly single-syllable words | [P](https://www.plonkit.net/vietnam) |  |
-| Country | Common bollard = small **square concrete, painted white with a red top** | [P](https://www.plonkit.net/vietnam) |  |
-| Country | Road-sign posts painted **red-and-white striped**; road signs have a **yellow-orange background** (unique in SE Asia) | [P](https://www.plonkit.net/vietnam) |  |
-| Country | **Waystones** white w/ colourful (red/blue) top, road number + distances → great for pinpointing | [P](https://www.plonkit.net/vietnam) |  |
-| Country | Chevrons black/yellow or white/red (single arrow); direction signs blue, arrows often point in **odd directions** | [P](https://www.plonkit.net/vietnam) |  |
-| Country | Unusually **short yellow middle dashes** are distinctive; concrete-block minor roads common | [P](https://www.plonkit.net/vietnam) |  |
-| Country | A-type guardrails with reflectors **red on one side / yellow on the other**; red-white concrete barriers on mountain roads | [P](https://www.plonkit.net/vietnam) |  |
-| Country | Big pole variety: **holey poles** (also Sri Lanka), round indented poles, trapezoid poletops, grey electricity boxes w/ a sloped bottom | [P](https://www.plonkit.net/vietnam) |  |
-| Country | **Most motorcycle coverage in the world** — bone-shaped blur (sometimes just a helmet); rural motorcycle coverage ≈ Vietnam | [P](https://www.plonkit.net/vietnam) |  |
-| Region | **Mekong Delta** = ultra-flat, canals + linear villages, palms; **Red River Delta** flat fields (north); **Central Highlands** = red soil, hilly, rubber/tea/pepper | [P](https://www.plonkit.net/vietnam) |  |
-| State | **Addresses everywhere** (storefronts) → scan for the **province** (tỉnh / TP abbreviations); learn OLD provinces (2025 reform merged many) | [P](https://www.plonkit.net/vietnam) |  |
-| State | Area codes start with **2**, ordered north→south; plate region codes painted on trucks | [P](https://www.plonkit.net/vietnam) |  |
+| Country | Drives on the **right** | [P](https://www.plonkit.net/vietnam) |  |
+| Country | Plates **white with black lettering** — long and short versions | [P](https://www.plonkit.net/vietnam) |  |
+| Country | **Vietnamese**: Latin script with **more diacritics than anything else on Street View**; words short, mostly single-syllable | [P](https://www.plonkit.net/vietnam) |  |
+| Country | Most common bollard: small **square concrete, white with red top** | [P](https://www.plonkit.net/vietnam) |  |
+| Country | Sign posts painted in a **red-and-white stripe pattern**; road signs have a **yellow-orange background** (unique within SE Asia) | [P](https://www.plonkit.net/vietnam) |  |
+| Country | **Waystones white with colourful (red/blue) top** — road number on the side, distances front/back (great for pinpointing) | [P](https://www.plonkit.net/vietnam) |  |
+| Country | Chevrons **black-on-yellow or white-on-red**, typically with only ONE arrow; directional signs blue w/ thin/no border and oddly-angled white arrows | [P](https://www.plonkit.net/vietnam) |  |
+| Country | Distinctly **short yellow middle dashes**; minor roads of **concrete blocks** very common | [P](https://www.plonkit.net/vietnam) |  |
+| Country | **A-type guardrails** with reflectors **red on one side / yellow on the other**; red-white striped concrete barriers on mountain roads | [P](https://www.plonkit.net/vietnam) |  |
+| Country | **Holey poles** (holes on lower half or nearly full length) | [P](https://www.plonkit.net/vietnam) |  |
+| Country | Round concrete poles with **indents + small pin holes** near the top; upside-down **trapezoid poletops**; **double poles**; light-grey **electricity boxes** (1–4 indented windows, bottom sloping down) | [P](https://www.plonkit.net/vietnam) |  |
+| Country | **Motorcycle coverage** (bone-shaped blur, one side higher; sometimes a visible helmet) — Gen3 + Gen4; by far the most in the world | [P](https://www.plonkit.net/vietnam) |  |
+| Country | **Shitcam** exists in a few spots — with the same bone-shaped blur (other shitcam countries have a bigger circular blur); only in parts of the **Red River Delta** | [P](https://www.plonkit.net/vietnam) |  |
+| Country | **Grain drying on roads** | [P](https://www.plonkit.net/vietnam) |  |
+| Region | **Addresses on storefronts** run specific→general: number → ward/commune (phường/xã) → district (quận/huyện/thị xã/thành phố) → province (tỉnh) — often abbreviated (H., TP., TB.) | [P](https://www.plonkit.net/vietnam) |  |
+| Region | **Provinces** = the key address part — learn names + abbreviations (TG = Tien Giang) | [P](https://www.plonkit.net/vietnam) |  |
+| Region | **Area codes** start with 2 (+1–2 digits), ordered north → south; **plate codes** (often painted on truck sides) map to regions; some **place-name prefixes** are regional | [P](https://www.plonkit.net/vietnam) |  |
+| Region | **Red River Delta**: wide, completely flat fields (less commonly Mekong); single **graves in the middle of fields**; boxy tall multi-storey houses with **Greco-Roman kitsch** (pillars, pediments — sometimes near HCMC too) | [P](https://www.plonkit.net/vietnam) |  |
+| Region | **Mekong Delta**: extremely flat & water-rich, dead-straight canals with linear villages, dense population, even more tropical (palms, wetland); houses boxy but **single-storey** | [P](https://www.plonkit.net/vietnam) |  |
+| Region | **Central Highlands**: hilly w/ distant mountains, **red soil**, dry rolling fields, drier vegetation; **black-pepper plantations** (vines shrouding tree trunks) in/around the highlands | [P](https://www.plonkit.net/vietnam) |  |
+| Region | **Crop metas**: rubber plantations (thin trunks w/ plastic wrap, dense grid) → north of HCMC + Central Highlands; tea (trimmed rows on hills) → north + Bảo Lộc/Lâm Đồng; khasi-pine clusters → far NE (Lạng Sơn, Quảng Ninh); dragonfruit (wet-mop look) → Phan Thiết + Long An/Tiền Giang border | [P](https://www.plonkit.net/vietnam) |  |
+| Region | Coast NE of Phan Thiết: noticeably **dry, sandy, partly rocky**; **wind-turbine clusters** mostly in the south (SE of Dalat, N of Buon Ma Thuot, S of Pleiku, SE of Dong Hoi, E of Quy Nhon, offshore S of HCMC, W-Quang Tri) | [P](https://www.plonkit.net/vietnam) |  |
+| Region | **North**: thin roof spires (almost only northern half); NW: traditional **wooden stilt houses** w/ corrugated roofs + triangular roof openings; grid-pattern **stick/bamboo fences** (like NE India) | [P](https://www.plonkit.net/vietnam) |  |
+| Region | **Pole region metas**: full-length holey poles → north (half-length = everywhere); few/no pinholes → north; trapezoid poletops → centre+north (3 off-centre incomplete trapezoids → north); triangle poletop w/ supports under crossbar → south; A-shape above crossbar → centre; uneven/off-centre crossbars → south; bamboo poles → rural NW mountains; black pole stickers (Malaysia-like, simpler) → north | [P](https://www.plonkit.net/vietnam) |  |
+| Special | Countryside densely covered in **greenhouses** | [P](https://www.plonkit.net/vietnam) |  |
+| Special | **Đồng Văn Karst Geopark** (far north): rounded pointy mountains w/ sparse vegetation + exposed **dark rock** (the wider north has pointy mountains too — the exposed rock is the tell) | [P](https://www.plonkit.net/vietnam) |  |
+| Special | Island near Cambodia: **Gen3 only**, dark red soil, forested ridge in the NE | [P](https://www.plonkit.net/vietnam) |  |
+| Special | Coastal roads east of Hải Phòng: **pointy rocky islands** rising from the sea | [P](https://www.plonkit.net/vietnam) |  |
+| Special | A **single large mountain** in an otherwise perfectly flat landscape (NE of the city) | [P](https://www.plonkit.net/vietnam) |  |
+| Special | Northern peninsula: **sand dunes hugging the road** (mostly divided highway) | [P](https://www.plonkit.net/vietnam) |  |
+| Special | Historic town south of Da Nang: **old yellow buildings** with dark brown doors/details | [P](https://www.plonkit.net/vietnam) |  |
+| Special | Mountain resort town: touristy stores, excessive signage, **palace-like grand hotels** (European-SEA style mix) | [P](https://www.plonkit.net/vietnam) |  |
+| Special | Beach resorts east of the city: signs with **Cyrillic** alongside Vietnamese (Russian tourists) | [P](https://www.plonkit.net/vietnam) |  |
 
 ## Malaysia
 Study: [Plonk It](https://www.plonkit.net/malaysia) · [GeoGuessr map](https://www.geoguessr.com/maps/6a1494309d674c08cdc2d943)
@@ -662,23 +682,41 @@ Study: [Plonk It](https://www.plonkit.net/oman)
 | Country | **Black-yellow chevrons with many arrows**; **red-and-white painted pylons**; **be'ah** garbage bins (numbers on them = region) | [P](https://www.plonkit.net/oman) |  |
 
 ## Philippines
-Study: [Plonk It](https://www.plonkit.net/philippines)
+Study: [Plonk It](https://www.plonkit.net/philippines) · [GeoGuessr map](https://www.geoguessr.com/maps/64f4959080229b9a3d429041)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | **Concrete roads** extremely common (also Thailand); drives on the **right** | [P](https://www.plonkit.net/philippines) |  |
-| Country | Plate white/black (older 2002 series has a **green tint**); **tricycles** (tuk-tuks) often outnumber cars | [P](https://www.plonkit.net/philippines) |  |
-| Country | **Octagonal metal poles** common; single insulator on a vertical bar attached to the pole's side | [P](https://www.plonkit.net/philippines) |  |
-| Country | Middle lines yellow or white — often **combined yellow+white** (unique in East Asia); yellow has an orange tint | [P](https://www.plonkit.net/philippines) |  |
-| Country | Tall **square yellow km stones** are unique to the Philippines; chevrons red-on-white; signposts painted red/orange/yellow | [P](https://www.plonkit.net/philippines) |  |
-| Country | **English on signs** everywhere — the only major SE Asian country where this is common | [P](https://www.plonkit.net/philippines) |  |
-| Country | Gen3 white car w/ visible **black roof**; silvery-grey car (also Bhutan); **grains spread on roads to dry** | [P](https://www.plonkit.net/philippines) |  |
-| Country | Many regional **tricycle/tuk-tuk designs** (roughly mappable by area) | [P](https://www.plonkit.net/philippines) |  |
-| Region | N. Luzon = forested dry **pine mountains**; oil palm/pineapple/banana → Mindanao; sugarcane → Negros/Panay | [P](https://www.plonkit.net/philippines) |  |
-| State | **Black/white pole boxes** carry a 3-letter **municipality abbreviation** → pinpoint the town | [P](https://www.plonkit.net/philippines) |  |
-| State | **Province names on signs** (memorise — not on the map); motorcycle plates colour-coded (north = strip on top, south = bottom) | [P](https://www.plonkit.net/philippines) |  |
-| Special | **Chocolate Hills** (round grassy hills) → Bohol; **Mayon** perfect-cone volcano; Cordillera = yellow/black striped concrete guardrails | [P](https://www.plonkit.net/philippines) |  |
-| Special | **Amakan** woven-bamboo walls → south; western Mindanao majority **Muslim**; Mountain-Dew-bottle decorations → N. Luzon | [P](https://www.plonkit.net/philippines) |  |
+| Country | **Concrete roads** extremely common | [P](https://www.plonkit.net/philippines) |  |
+| Country | Drives on the **right** (unlike Indonesia/Malaysia/Thailand) | [P](https://www.plonkit.net/philippines) |  |
+| Country | Plates **white with black text**; many older 2002-series plates with a **green tint** | [P](https://www.plonkit.net/philippines) |  |
+| Country | **Octagonal metal poles** common; often a **single insulator atop a vertical side bar** | [P](https://www.plonkit.net/philippines) |  |
+| Country | Middle lines **yellow or white — often combined yellow+white** (no other East-Asian country does this); yellow lines have a distinct **orange tint** | [P](https://www.plonkit.net/philippines) |  |
+| Country | Tall **square yellow km stones** | [P](https://www.plonkit.net/philippines) |  |
+| Country | Chevrons **red on white**; signposts often painted **red, orange or yellow** | [P](https://www.plonkit.net/philippines) |  |
+| Country | **Tuk-tuks/tricycles everywhere** — often more common than cars | [P](https://www.plonkit.net/philippines) |  |
+| Country | **English on signs everywhere** — the only major SE-Asian country where that's the norm (Filipino official) | [P](https://www.plonkit.net/philippines) |  |
+| Country | Gen3: **white car with visible black roof**; sometimes a silvery grey car | [P](https://www.plonkit.net/philippines) |  |
+| Country | **Grain spread out on roads** to dry | [P](https://www.plonkit.net/philippines) |  |
+| Region | Black/white **pole boxes** with 3-letter **municipality abbreviations** (all-3 = municipality, or 2 municipality + 1 province; e.g. GMI/GMU = Gamu, Isabela) — not standardised, variants exist | [P](https://www.plonkit.net/philippines) |  |
+| Region | **Tuk-tuk/tricycle designs vary by region** (infographic by AeroGelo) | [P](https://www.plonkit.net/philippines) |  |
+| Region | **Province names** on many signs — but not shown on the map → memorise them (Davao de Oro = ex-Compostela Valley); landlines start 0 + area code (mobiles 09) | [P](https://www.plonkit.net/philippines) |  |
+| Region | **Motorcycle plates colour-coded by region** — north: coloured strip on TOP, south: on the BOTTOM | [P](https://www.plonkit.net/philippines) |  |
+| Region | **Crop metas**: corn → N-Luzon + Mindanao; oil palms → Mindanao; sugarcane → Negros & Panay; pineapple → Mindanao; banana plantations → central/southern Mindanao (wild bananas grow everywhere!) | [P](https://www.plonkit.net/philippines) |  |
+| Region | **Amakan (woven bamboo) walls**: diamond pattern → southern half; diagonal weave ('Sawali') → Palawan + northern half | [P](https://www.plonkit.net/philippines) |  |
+| Region | **Chile-style indented square poles** → north of Manila + around Bacolod (Negros) | [P](https://www.plonkit.net/philippines) |  |
+| State | Forested mountains with **dry mountainsides + pines** (rarely similar on high Mindanao roads); **Mountain-Dew-bottle decorations** common; **kuliglig tractors** around Cauayan | [P](https://www.plonkit.net/philippines) |  |
+| State | **Moluccan albizia** trees (light trunks, pinnate crowns) — esp. east & central Mindanao; western region is **Muslim-majority** (rest of PH strongly Christian); square **mesh poles** on the Zamboanga peninsula | [P](https://www.plonkit.net/philippines) |  |
+| State | **Yellow-black striped concrete guardrails** | [P](https://www.plonkit.net/philippines) |  |
+| State | White guardrails with **three recurring black stripes** | [P](https://www.plonkit.net/philippines) |  |
+| City | **Ladder poletop** (two L-profile bars + many thin connecting wires) — Manila & surroundings; countrywide lookalikes use square bars and ≤2 wires | [P](https://www.plonkit.net/philippines) |  |
+| Special | **Chocolate Hills**: round grassy hills w/ dark brown soil (central Bohol); NW-Bohol has a Street View car **with tape on the back** | [P](https://www.plonkit.net/philippines) |  |
+| Special | **Volcano spotlights**: Arayat — alone in flat farmland; Mayon — near-perfect cone (often cloud-capped), one of the tallest; just south of Mayon: vehicle with **thick black bars** | [P](https://www.plonkit.net/philippines) |  |
+| Special | Destroyed houses & ruins from the **2017 Marawi siege** | [P](https://www.plonkit.net/philippines) |  |
+| Special | Decorated white **Bataan Death March memorial waystones** (Mariveles/Bagac → San Fernando) | [P](https://www.plonkit.net/philippines) |  |
+| Special | Trans-Palawan highway south of Puerto Princesa: **very wide (often 6 lanes) but empty**; look for the **double electrical wire** | [P](https://www.plonkit.net/philippines) |  |
+| Special | Lamp posts **yellow with black-striped bottoms** | [P](https://www.plonkit.net/philippines) |  |
+| Special | Images & statues of **ancient Roman soldiers** | [P](https://www.plonkit.net/philippines) |  |
+| Special | **Rare cars**: black car w/ roof rack → General Santos; orange car w/ visible side mirrors → Corregidor Island | [P](https://www.plonkit.net/philippines) |  |
 
 ## Laos
 Study: [Plonk It](https://www.plonkit.net/laos)

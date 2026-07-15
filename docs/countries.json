@@ -13959,147 +13959,473 @@
    "area_km2": 300000,
    "links": {
     "plonkit": "https://www.plonkit.net/philippines",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/64f4959080229b9a3d429041"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "**Concrete roads** extremely common (also Thailand); drives on the **right**",
+     "type": "markings",
+     "text": "**Concrete roads** extremely common",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "qKJU",
      "img": "1_concreteroad.png",
-     "type": "markings"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "thailand",
+       "note": "Thailand also has many concrete roads.",
+       "diff": "Thailand drives **left** + Thai script; Philippines drives right with English signage.",
+       "img": "th_concrete_roads.webp"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Plate white/black (older 2002 series has a **green tint**); **tricycles** (tuk-tuks) often outnumber cars",
+     "type": "general",
+     "text": "Drives on the **right** (unlike Indonesia/Malaysia/Thailand)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "paH1",
+     "img": "1_rightdrive.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "cambodia",
+       "note": "Also right-hand traffic.",
+       "diff": "Khmer script → Cambodia."
+      },
+      {
+       "slug": "laos",
+       "note": "Also right-hand traffic.",
+       "diff": "Lao script → Laos."
+      },
+      {
+       "slug": "taiwan",
+       "note": "Also right-hand traffic.",
+       "diff": "Traditional Chinese → Taiwan."
+      },
+      {
+       "slug": "vietnam",
+       "note": "Also right-hand traffic.",
+       "diff": "Vietnamese diacritics → Vietnam."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "plates",
+     "text": "Plates **white with black text**; many older 2002-series plates with a **green tint**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "SJtk",
-     "img": "2_licenseplate.png",
-     "type": "plates"
+     "img": "2_licenseplate.png"
     },
     {
      "cat": "country",
-     "text": "**Octagonal metal poles** common; single insulator on a vertical bar attached to the pole's side",
+     "type": "utility",
+     "text": "**Octagonal metal poles** common; often a **single insulator atop a vertical side bar**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "2hW1",
      "img": "1_octopole.png",
-     "type": "utility"
+     "imgs": [
+      "1_poleinsulator.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "bangladesh",
+       "note": "Octagonal poles appear there too.",
+       "diff": "Bengali script → Bangladesh."
+      },
+      {
+       "slug": "malaysia",
+       "note": "Some parts of Malaysia have them.",
+       "diff": "Left-hand traffic + BERHENTI signs → Malaysia."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Middle lines yellow or white — often **combined yellow+white** (unique in East Asia); yellow has an orange tint",
+     "type": "markings",
+     "text": "Middle lines **yellow or white — often combined yellow+white** (no other East-Asian country does this); yellow lines have a distinct **orange tint**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "IPDO",
      "img": "1_roadline.png",
-     "type": "markings"
+     "uniq": "unique*",
+     "uniq_note": "The combined yellow+white middle line is not common in any other East/Southeast-Asian country — outside the region, always confirm with other clues."
     },
     {
      "cat": "country",
-     "text": "Tall **square yellow km stones** are unique to the Philippines; chevrons red-on-white; signposts painted red/orange/yellow",
+     "type": "signs",
+     "text": "Tall **square yellow km stones**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "uStw",
      "img": "1_kmstone.png",
-     "type": "signs"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "**English on signs** everywhere — the only major SE Asian country where this is common",
+     "type": "signs",
+     "text": "Chevrons **red on white**; signposts often painted **red, orange or yellow**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "DIih",
+     "img": "1_chevron.png",
+     "imgs": [
+      "1_signpost.png"
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "**Tuk-tuks/tricycles everywhere** — often more common than cars",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "cmeG",
+     "img": "1_tuktuk.png"
+    },
+    {
+     "cat": "country",
+     "type": "language",
+     "text": "**English on signs everywhere** — the only major SE-Asian country where that's the norm (Filipino official)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "NKYi",
      "img": "1_english.png",
-     "type": "language"
+     "super": true
     },
     {
      "cat": "country",
-     "text": "Gen3 white car w/ visible **black roof**; silvery-grey car (also Bhutan); **grains spread on roads to dry**",
+     "type": "cars",
+     "text": "Gen3: **white car with visible black roof**; sometimes a silvery grey car",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Qhbg",
      "img": "1_gen3car.png",
-     "type": "cars"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "bhutan",
+       "note": "The silvery grey car also appears in Bhutan.",
+       "diff": "Dzongkha script + Himalayan valleys → Bhutan."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Many regional **tricycle/tuk-tuk designs** (roughly mappable by area)",
+     "type": "general",
+     "text": "**Grain spread out on roads** to dry",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "cmeG",
-     "img": "1_tuktuk.png",
-     "type": "general"
+     "anchor": "yIwj",
+     "img": "1_roadgrain.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "vietnam",
+       "note": "Road-drying grain is common in Vietnam too.",
+       "diff": "Vietnamese diacritics + conical hats → Vietnam."
+      }
+     ]
     },
     {
-     "cat": "state",
-     "text": "**Black/white pole boxes** carry a 3-letter **municipality abbreviation** → pinpoint the town",
+     "cat": "region",
+     "type": "naming",
+     "text": "Black/white **pole boxes** with 3-letter **municipality abbreviations** (all-3 = municipality, or 2 municipality + 1 province; e.g. GMI/GMU = Gamu, Isabela) — not standardised, variants exist",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "QPqh",
      "img": "2_blackwhiteboxes.png",
-     "type": "naming"
+     "super": true
     },
     {
-     "cat": "state",
-     "text": "**Province names on signs** (memorise — not on the map); motorcycle plates colour-coded (north = strip on top, south = bottom)",
+     "cat": "region",
+     "type": "cars",
+     "text": "**Tuk-tuk/tricycle designs vary by region** (infographic by AeroGelo)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "fCvm",
+     "img": "2_tuktukmap.jpeg",
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "naming",
+     "text": "**Province names** on many signs — but not shown on the map → memorise them (Davao de Oro = ex-Compostela Valley); landlines start 0 + area code (mobiles 09)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "KVEg",
+     "img": "provinces.png",
+     "imgs": [
+      "2_areacodes.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "plates",
+     "text": "**Motorcycle plates colour-coded by region** — north: coloured strip on TOP, south: on the BOTTOM",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "3TK5",
      "img": "2_licenceplates.png",
-     "type": "naming"
+     "super": true
     },
     {
-     "cat": "region",
-     "text": "N. Luzon = forested dry **pine mountains**; oil palm/pineapple/banana → Mindanao; sugarcane → Negros/Panay",
+     "cat": "state",
+     "area": "Northern Luzon",
+     "type": "landscape",
+     "text": "Forested mountains with **dry mountainsides + pines** (rarely similar on high Mindanao roads); **Mountain-Dew-bottle decorations** common; **kuliglig tractors** around Cauayan",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "40U4",
      "img": "2_luzonmountain.png",
-     "type": "landscape"
+     "imgs": [
+      "2_mountaindew.png",
+      "2_cambocar.png"
+     ]
     },
     {
-     "cat": "special",
-     "text": "**Chocolate Hills** (round grassy hills) → Bohol; **Mayon** perfect-cone volcano; Cordillera = yellow/black striped concrete guardrails",
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Crop metas**: corn → N-Luzon + Mindanao; oil palms → Mindanao; sugarcane → Negros & Panay; pineapple → Mindanao; banana plantations → central/southern Mindanao (wild bananas grow everywhere!)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "landscape"
+     "anchor": "9hUv",
+     "img": "2_corn.png",
+     "imgs": [
+      "2_oilpalms.png",
+      "2_sugarcane.png",
+      "2_pineapple.png",
+      "2_banana.png"
+     ]
     },
     {
-     "cat": "special",
-     "text": "**Amakan** woven-bamboo walls → south; western Mindanao majority **Muslim**; Mountain-Dew-bottle decorations → N. Luzon",
+     "cat": "state",
+     "area": "Mindanao",
+     "type": "landscape",
+     "text": "**Moluccan albizia** trees (light trunks, pinnate crowns) — esp. east & central Mindanao; western region is **Muslim-majority** (rest of PH strongly Christian); square **mesh poles** on the Zamboanga peninsula",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "general"
+     "anchor": "YkcX",
+     "img": "2_mindanaotree.png",
+     "imgs": [
+      "2_islam.png",
+      "2_zamboangapole.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "arch",
+     "text": "**Amakan (woven bamboo) walls**: diamond pattern → southern half; diagonal weave ('Sawali') → Palawan + northern half",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "ZiXa",
+     "img": "2_diamondpatternhouse.png",
+     "imgs": [
+      "2_palawanpatternhouse.png"
+     ]
+    },
+    {
+     "cat": "state",
+     "area": "Cordillera",
+     "type": "utility",
+     "text": "**Yellow-black striped concrete guardrails**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "qoLR",
+     "img": "2_baguioconcreteguardrail.png"
+    },
+    {
+     "cat": "state",
+     "area": "Bicol",
+     "type": "utility",
+     "text": "White guardrails with **three recurring black stripes**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "yYbQ",
+     "img": "2_bicolguardrail.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "region",
+     "type": "utility",
+     "text": "**Chile-style indented square poles** → north of Manila + around Bacolod (Negros)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "OkTN",
+     "img": "2_chilepole.png"
+    },
+    {
+     "cat": "city",
+     "area": "Manila",
+     "type": "utility",
+     "text": "**Ladder poletop** (two L-profile bars + many thin connecting wires) — Manila & surroundings; countrywide lookalikes use square bars and ≤2 wires",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "vjQB",
+     "img": "2_manilapoletop.png",
+     "uniq": "unique*",
+     "uniq_note": "Similar poletops with SQUARE bars appear countrywide — but they almost never have more than two connecting wires; the true many-wired ladder is Manila-area only."
+    },
+    {
+     "cat": "special",
+     "area": "Bohol",
+     "type": "landscape",
+     "text": "**Chocolate Hills**: round grassy hills w/ dark brown soil (central Bohol); NW-Bohol has a Street View car **with tape on the back**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "S1IY",
+     "img": "3_chocolatehills.png",
+     "imgs": [
+      "3_boholcar.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Volcano spotlights**: Arayat — alone in flat farmland; Mayon — near-perfect cone (often cloud-capped), one of the tallest; just south of Mayon: vehicle with **thick black bars**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "AvQg",
+     "img": "3_arayatvolcano.png",
+     "imgs": [
+      "3_mayonvolcano.png",
+      "3_mayoncar.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "area": "Marawi",
+     "type": "arch",
+     "text": "Destroyed houses & ruins from the **2017 Marawi siege**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Js5k",
+     "img": "3_marawiruins.png"
+    },
+    {
+     "cat": "special",
+     "area": "Bataan",
+     "type": "signs",
+     "text": "Decorated white **Bataan Death March memorial waystones** (Mariveles/Bagac → San Fernando)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "LrWc",
+     "img": "3_bataandeathmarchstone.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "area": "Palawan",
+     "type": "markings",
+     "text": "Trans-Palawan highway south of Puerto Princesa: **very wide (often 6 lanes) but empty**; look for the **double electrical wire**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "2IcS",
+     "img": "3_trans-palawanhighway.png"
+    },
+    {
+     "cat": "special",
+     "area": "Siquijor",
+     "type": "utility",
+     "text": "Lamp posts **yellow with black-striped bottoms**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "lYvE",
+     "img": "3_siquijorlamp.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "area": "Marinduque",
+     "type": "general",
+     "text": "Images & statues of **ancient Roman soldiers**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "A2hm",
+     "img": "3_marinduqueromansoldier.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "cars",
+     "text": "**Rare cars**: black car w/ roof rack → General Santos; orange car w/ visible side mirrors → Corregidor Island",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "9xJp",
+     "img": "3_generalsantoscar.png",
+     "imgs": [
+      "3_corregidorcar.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },
@@ -20728,160 +21054,537 @@
    "area_km2": 331212,
    "links": {
     "plonkit": "https://www.plonkit.net/vietnam",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/685f296859482938d5b066f0"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Drives on the **right**; plates white with black lettering (long or short)",
+     "type": "general",
+     "text": "Drives on the **right**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "6cXr",
+     "img": "vn_drivingside.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "cambodia",
+       "note": "Also right-hand traffic with normal Street View.",
+       "diff": "Khmer script → Cambodia; Vietnamese = Latin w/ heavy diacritics."
+      },
+      {
+       "slug": "philippines",
+       "note": "Also right-hand traffic.",
+       "diff": "English signage + tricycles → Philippines."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "plates",
+     "text": "Plates **white with black lettering** — long and short versions",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Vre7",
-     "img": "vietnam_plate2.png",
-     "type": "plates"
+     "img": "vietnam_plate2.png"
     },
     {
      "cat": "country",
-     "text": "**Vietnamese** = Latin script with **more diacritics than any other** on Street View; short, mostly single-syllable words",
+     "type": "language",
+     "text": "**Vietnamese**: Latin script with **more diacritics than anything else on Street View**; words short, mostly single-syllable",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "JEke",
      "img": "vn_language.png",
-     "type": "language"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Common bollard = small **square concrete, painted white with a red top**",
+     "type": "bollards",
+     "text": "Most common bollard: small **square concrete, white with red top**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "nJ04",
-     "img": "vn_bollard.png",
-     "type": "bollards"
+     "img": "vn_bollard.png"
     },
     {
      "cat": "country",
-     "text": "Road-sign posts painted **red-and-white striped**; road signs have a **yellow-orange background** (unique in SE Asia)",
+     "type": "signs",
+     "text": "Sign posts painted in a **red-and-white stripe pattern**; road signs have a **yellow-orange background** (unique within SE Asia)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "VjVL",
-     "img": "vn_roadsigncolour.png",
-     "type": "signs"
+     "anchor": "aj5h",
+     "img": "vn_signpost.png",
+     "imgs": [
+      "vn_roadsigncolour.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "The yellow-orange sign background is unique within Southeast Asia — outside the region confirm with the diacritic-heavy language."
     },
     {
      "cat": "country",
-     "text": "**Waystones** white w/ colourful (red/blue) top, road number + distances → great for pinpointing",
+     "type": "signs",
+     "text": "**Waystones white with colourful (red/blue) top** — road number on the side, distances front/back (great for pinpointing)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "C6Qt",
      "img": "vn_waystones.png",
-     "type": "signs"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "thailand",
+       "note": "Similar white waystones with coloured tops.",
+       "diff": "Thai script + left-hand traffic → Thailand."
+      },
+      {
+       "slug": "cambodia",
+       "note": "Similar waystones.",
+       "diff": "Khmer script → Cambodia."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Chevrons black/yellow or white/red (single arrow); direction signs blue, arrows often point in **odd directions**",
+     "type": "signs",
+     "text": "Chevrons **black-on-yellow or white-on-red**, typically with only ONE arrow; directional signs blue w/ thin/no border and oddly-angled white arrows",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "BjVO",
-     "img": "vn_directionalsign.png",
-     "type": "signs"
+     "anchor": "EDRU",
+     "img": "vn_chevron.png",
+     "imgs": [
+      "vn_directionalsign.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Unusually **short yellow middle dashes** are distinctive; concrete-block minor roads common",
+     "type": "markings",
+     "text": "Distinctly **short yellow middle dashes**; minor roads of **concrete blocks** very common",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "e8fi",
      "img": "vn_yellowmiddleline.png",
-     "type": "markings"
+     "imgs": [
+      "vn_concreteroad.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "philippines",
+       "note": "Concrete-block roads common there too.",
+       "diff": "English signage → Philippines."
+      },
+      {
+       "slug": "thailand",
+       "note": "Concrete roads too.",
+       "diff": "Thai script + left-hand traffic → Thailand."
+      },
+      {
+       "slug": "indonesia",
+       "note": "Concrete roads occasionally.",
+       "diff": "Left-hand traffic + black plates → Indonesia."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "A-type guardrails with reflectors **red on one side / yellow on the other**; red-white concrete barriers on mountain roads",
+     "type": "utility",
+     "text": "**A-type guardrails** with reflectors **red on one side / yellow on the other**; red-white striped concrete barriers on mountain roads",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "FGDV",
      "img": "vietnam_guardrail.png",
-     "type": "utility"
+     "imgs": [
+      "vn_concretebarriers.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "The two-coloured (red/yellow) guardrail reflectors are very recognisable — standard A-type guardrails elsewhere use a single colour."
     },
     {
      "cat": "country",
-     "text": "Big pole variety: **holey poles** (also Sri Lanka), round indented poles, trapezoid poletops, grey electricity boxes w/ a sloped bottom",
+     "type": "utility",
+     "text": "**Holey poles** (holes on lower half or nearly full length)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "nwf2",
      "img": "vn_holeypoles.png",
-     "type": "utility"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "sri-lanka",
+       "note": "The only other Asian country with common holey poles — but the holes are **much larger**.",
+       "diff": "Big holes + Sinhala script → Sri Lanka."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Most motorcycle coverage in the world** — bone-shaped blur (sometimes just a helmet); rural motorcycle coverage ≈ Vietnam",
+     "type": "utility",
+     "text": "Round concrete poles with **indents + small pin holes** near the top; upside-down **trapezoid poletops**; **double poles**; light-grey **electricity boxes** (1–4 indented windows, bottom sloping down)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "7pdd",
+     "img": "vn_cambopoletop.png",
+     "imgs": [
+      "vn_trapezoidpoletop.png",
+      "vn_doublepole.png",
+      "vn_electricityboxes.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "cambodia",
+       "note": "Same indent+pinhole pole type.",
+       "diff": "Khmer script → Cambodia."
+      },
+      {
+       "slug": "taiwan",
+       "note": "Similar poles.",
+       "diff": "Traditional Chinese + scooters → Taiwan."
+      },
+      {
+       "slug": "indonesia",
+       "note": "Trapezoid poletops resemble N/C-Sulawesi ones.",
+       "diff": "Left-hand traffic + Indonesian → Indonesia."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "**Motorcycle coverage** (bone-shaped blur, one side higher; sometimes a visible helmet) — Gen3 + Gen4; by far the most in the world",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "7U7D",
      "img": "vn_motorbike.png",
-     "type": "cars"
+     "uniq": "unique*",
+     "uniq_note": "Motorbike coverage exists elsewhere, but rural motorbike coverage almost guarantees Vietnam — no other country has anywhere near this much."
     },
     {
-     "cat": "state",
-     "text": "**Addresses everywhere** (storefronts) → scan for the **province** (tỉnh / TP abbreviations); learn OLD provinces (2025 reform merged many)",
+     "cat": "country",
+     "type": "cars",
+     "text": "**Shitcam** exists in a few spots — with the same bone-shaped blur (other shitcam countries have a bigger circular blur); only in parts of the **Red River Delta**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "kRby",
+     "img": "vn_shitcamstep1.png",
+     "imgs": [
+      "vn_shitcamregion.png"
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "general",
+     "text": "**Grain drying on roads**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "NQ8Q",
+     "img": "vn_riceonroad.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "philippines",
+       "note": "Common there too.",
+       "diff": "English signage → Philippines."
+      },
+      {
+       "slug": "thailand",
+       "note": "Rarely there.",
+       "diff": "Thai script → Thailand."
+      }
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "naming",
+     "text": "**Addresses on storefronts** run specific→general: number → ward/commune (phường/xã) → district (quận/huyện/thị xã/thành phố) → province (tỉnh) — often abbreviated (H., TP., TB.)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "aaUK",
-     "imgs": [
-      "vn_address.jpeg",
-      "vn_provincemap_darkmode.png"
-     ],
-     "type": "naming"
+     "img": "vn_address.jpeg",
+     "super": true
     },
     {
      "cat": "region",
-     "text": "**Mekong Delta** = ultra-flat, canals + linear villages, palms; **Red River Delta** flat fields (north); **Central Highlands** = red soil, hilly, rubber/tea/pepper",
+     "type": "naming",
+     "text": "**Provinces** = the key address part — learn names + abbreviations (TG = Tien Giang)",
+     "bullets": [
+      "2025 reform merged most provinces — coverage predates it, so OLD province names are NOT scannable on the map → memorise them"
+     ],
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "nrTS",
-     "imgs": [
-      "vn_mekongcanal.png",
-      "vn_redriverdeltalandscape.png"
-     ],
-     "type": "landscape"
+     "anchor": "whpO",
+     "img": "vn_provincemap_darkmode.png",
+     "super": true
     },
     {
-     "cat": "state",
-     "text": "Area codes start with **2**, ordered north→south; plate region codes painted on trucks",
+     "cat": "region",
+     "type": "naming",
+     "text": "**Area codes** start with 2 (+1–2 digits), ordered north → south; **plate codes** (often painted on truck sides) map to regions; some **place-name prefixes** are regional",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "LvjX",
+     "img": "vnareacodes_map.jpg",
      "imgs": [
-      "vnareacodes_map.jpg",
-      "vnlicencecodes_map.jpg"
+      "vnlicencecodes_map.jpg",
+      "vn_prefixes.png"
      ],
-     "type": "naming"
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Red River Delta**: wide, completely flat fields (less commonly Mekong); single **graves in the middle of fields**; boxy tall multi-storey houses with **Greco-Roman kitsch** (pillars, pediments — sometimes near HCMC too)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "j6ch",
+     "img": "vn_redriverdeltalandscape.png",
+     "imgs": [
+      "vn_gravesinfields.png",
+      "vn_redriverdeltahouses.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Mekong Delta**: extremely flat & water-rich, dead-straight canals with linear villages, dense population, even more tropical (palms, wetland); houses boxy but **single-storey**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "nrTS",
+     "img": "vn_mekongcanal.png",
+     "imgs": [
+      "vn_mekongdeltahouses.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Central Highlands**: hilly w/ distant mountains, **red soil**, dry rolling fields, drier vegetation; **black-pepper plantations** (vines shrouding tree trunks) in/around the highlands",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "s59g",
+     "img": "vn_centralhighlands.png",
+     "imgs": [
+      "vn_pepper.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Crop metas**: rubber plantations (thin trunks w/ plastic wrap, dense grid) → north of HCMC + Central Highlands; tea (trimmed rows on hills) → north + Bảo Lộc/Lâm Đồng; khasi-pine clusters → far NE (Lạng Sơn, Quảng Ninh); dragonfruit (wet-mop look) → Phan Thiết + Long An/Tiền Giang border",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "G0Xi",
+     "img": "vn_rubbertree.png",
+     "imgs": [
+      "vn_tea.png",
+      "vn_khasipines.png",
+      "vn_dragonfruit.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "Coast NE of Phan Thiết: noticeably **dry, sandy, partly rocky**; **wind-turbine clusters** mostly in the south (SE of Dalat, N of Buon Ma Thuot, S of Pleiku, SE of Dong Hoi, E of Quy Nhon, offshore S of HCMC, W-Quang Tri)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "RLOA",
+     "img": "vn_drycoast.png",
+     "imgs": [
+      "ViN turbines.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "arch",
+     "text": "**North**: thin roof spires (almost only northern half); NW: traditional **wooden stilt houses** w/ corrugated roofs + triangular roof openings; grid-pattern **stick/bamboo fences** (like NE India)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "noS2",
+     "img": "vn_northspires.png",
+     "imgs": [
+      "vn_northwesternhouses.png",
+      "vn_woodenfence.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "utility",
+     "text": "**Pole region metas**: full-length holey poles → north (half-length = everywhere); few/no pinholes → north; trapezoid poletops → centre+north (3 off-centre incomplete trapezoids → north); triangle poletop w/ supports under crossbar → south; A-shape above crossbar → centre; uneven/off-centre crossbars → south; bamboo poles → rural NW mountains; black pole stickers (Malaysia-like, simpler) → north",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "vhPv",
+     "img": "vn_holeypoleregion.png",
+     "imgs": [
+      "vn_nopinholepole.png",
+      "vn_trapezoidpoletopregion.png",
+      "vn_tripletrapezoidpoletopregion1.png",
+      "vn_trianglepoletopregion.png",
+      "vn_ashapedpoletop.png",
+      "vn_offcentrepoletop.png",
+      "vn_bamboopole.png",
+      "vn_blackpolesticker.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "special",
+     "area": "Đà Lạt",
+     "type": "landscape",
+     "text": "Countryside densely covered in **greenhouses**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "fQVL",
+     "img": "vn_dalatgreenhouses.png"
+    },
+    {
+     "cat": "special",
+     "area": "Hà Giang",
+     "type": "landscape",
+     "text": "**Đồng Văn Karst Geopark** (far north): rounded pointy mountains w/ sparse vegetation + exposed **dark rock** (the wider north has pointy mountains too — the exposed rock is the tell)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "am6o",
+     "img": "vn_dongvankarstgeopark.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "area": "Phú Quốc",
+     "type": "landscape",
+     "text": "Island near Cambodia: **Gen3 only**, dark red soil, forested ridge in the NE",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "K108",
+     "img": "vn_phuquoc.png"
+    },
+    {
+     "cat": "special",
+     "area": "Hạ Long Bay",
+     "type": "landscape",
+     "text": "Coastal roads east of Hải Phòng: **pointy rocky islands** rising from the sea",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "FORO",
+     "img": "vn_halongbay.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "area": "Tây Ninh",
+     "type": "landscape",
+     "text": "A **single large mountain** in an otherwise perfectly flat landscape (NE of the city)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "kryK",
+     "img": "vn_tayninhmountain.png"
+    },
+    {
+     "cat": "special",
+     "area": "Khánh Hoà",
+     "type": "landscape",
+     "text": "Northern peninsula: **sand dunes hugging the road** (mostly divided highway)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "VvpQ",
+     "img": "vn_khanhhoapeninsula.png"
+    },
+    {
+     "cat": "special",
+     "area": "Hội An",
+     "type": "arch",
+     "text": "Historic town south of Da Nang: **old yellow buildings** with dark brown doors/details",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "QELO",
+     "img": "vn_hoian.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "area": "Sa Pa",
+     "type": "arch",
+     "text": "Mountain resort town: touristy stores, excessive signage, **palace-like grand hotels** (European-SEA style mix)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "V5np",
+     "img": "vn_sapa.png"
+    },
+    {
+     "cat": "special",
+     "area": "Phan Thiết",
+     "type": "language",
+     "text": "Beach resorts east of the city: signs with **Cyrillic** alongside Vietnamese (Russian tourists)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "sbhF",
+     "img": "vn_cyrillic.png",
+     "uniq": "unique"
     }
    ]
   }
