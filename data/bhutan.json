@@ -5,14 +5,27 @@
  "area_km2": 38394,
  "links": { "plonkit": "https://www.plonkit.net/bhutan", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Plates almost always **full red** (the only Asian country w/ red plates); taxis = **yellow plates + yellow roofs**", "src": ["plonkit"], "sv": null, "anchor": "FySh", "img": "Bhutan_License_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "**Grey car, no antenna** — the only left-driving country with a grey Google car", "src": ["plonkit"], "sv": null, "anchor": "y1Qr", "img": "googlecar.png", "type": "cars" },
-  { "cat": "country", "text": "**Stone-block safety barriers** on winding rural roads (a great rural-Bhutan clue); guardrails are rare", "src": ["plonkit"], "sv": null, "anchor": "uFJO", "img": "stonebarriers.png", "type": "utility" },
-  { "cat": "country", "text": "Very distinct architecture: **tin roofs + painted wooden frames**", "src": ["plonkit"], "sv": null, "anchor": "uyf1", "img": "architecture.png", "type": "arch" },
-  { "cat": "country", "text": "**Dzongkha** script — unique-looking letters (found only in Bhutan on Street View)", "src": ["plonkit"], "sv": null, "anchor": "iq4h", "img": "Dzongkha.png", "type": "language" },
-  { "cat": "country", "text": "**Mountainous** (most coverage on mountain roads); **prayer flags** by the road; flat land only in the south", "src": ["plonkit"], "sv": null, "anchor": "b3oU", "img": "landscape.png", "type": "landscape" },
-  { "cat": "country", "text": "Road markers = **yellow top / white bottom** (national highways show the road number on top → pinpoint the road)", "src": ["plonkit"], "sv": null, "anchor": "fJM0", "img": "waystone.png", "type": "signs" },
-  { "cat": "country", "text": "City signs (red or blue) show the **town name**; **black-and-white striped signposts** (also LK/IN/NP/MY/BD)", "src": ["plonkit"], "sv": null, "anchor": "tkrk", "img": "signpost.png", "type": "signs" },
-  { "cat": "region", "text": "Coverage on main roads + cities; south is flat (only 4 regions covered); **Phobjikha Valley** = the biggest open flat valley", "src": ["plonkit"], "sv": null, "anchor": "NdvV", "img": "bt_coverage.png", "type": "naming" }
+  { "cat": "country", "type": "plates", "text": "Plates almost always **full red**; taxis = **yellow plates + yellow roofs**", "src": ["plonkit"], "sv": null, "anchor": "FySh", "img": "Bhutan_License_Plate.png", "imgs": ["taxi.png"], "uniq": "unique*", "uniq_note": "Within Asia, Bhutan is the only country with full-red plates — outside Asia, red plates exist (e.g. some European trade plates), so confirm with Dzongkha script or the stone barriers." },
+  { "cat": "country", "type": "cars", "text": "Coverage = **grey Google car without antenna**", "src": ["plonkit"], "sv": null, "anchor": "y1Qr", "img": "googlecar.png",
+    "uniq": "unique*", "uniq_note": "The only LEFT-driving country with a grey car — don't mistake it for a white car (e.g. Philippines' silvery grey drives right)." },
+  { "cat": "country", "type": "utility", "text": "**Stone-block safety barriers** on winding rural roads (guardrails rare) — the best rural Bhutan tell", "src": ["plonkit"], "sv": null, "anchor": "uFJO", "img": "stonebarriers.png", "uniq": "unique" },
+  { "cat": "country", "type": "arch", "text": "Traditional architecture: **tin roofs + ornate painted wooden frames** — very distinct", "src": ["plonkit"], "sv": null, "anchor": "uyf1", "img": "architecture.png", "uniq": "unique" },
+  { "cat": "country", "type": "language", "text": "**Dzongkha** script — on Street View these letters exist only in Bhutan", "src": ["plonkit"], "sv": null, "anchor": "iq4h", "img": "Dzongkha.png", "uniq": "unique" },
+  { "cat": "country", "type": "landscape", "text": "Mountainous — coverage mostly on main mountain roads (flat areas only in the south); **prayer flags** along roads", "src": ["plonkit"], "sv": null, "anchor": "b3oU", "img": "landscape.png", "imgs": ["flags.png"] },
+  { "cat": "country", "type": "utility", "text": "Thin metal poles, often **painted black at the bottom**", "src": ["plonkit"], "sv": null, "anchor": "M7LD", "img": "poles.png" },
+  { "cat": "country", "type": "signs", "text": "Road markers: **yellow top + white bottom** — best rural pinpointing clue; national-highway numbers on top (not on the map — learnable table)", "src": ["plonkit"], "sv": null, "anchor": "fJM0", "img": "waystone.png", "super": true },
+  { "cat": "country", "type": "signs", "text": "Red/blue **city signs with the town name** — instant location tell in cities", "src": ["plonkit"], "sv": null, "anchor": "3qFe", "img": "bluesigns.png" },
+  { "cat": "country", "type": "utility", "text": "**Black-white striped signposts**", "src": ["plonkit"], "sv": null, "anchor": "tkrk", "img": "signpost.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "sri-lanka", "note": "Same posts.", "diff": "Sinhala script → Sri Lanka." },
+      { "slug": "india", "note": "Same posts.", "diff": "Shitcam/smallcam + Indian scripts → India." },
+      { "slug": "nepal", "note": "Same posts.", "diff": "All-shitcam + Devanagari → Nepal." },
+      { "slug": "malaysia", "note": "Same posts.", "diff": "Malay Latin → Malaysia." },
+      { "slug": "bangladesh", "note": "Same posts.", "diff": "Bengali script → Bangladesh." } ] },
+  { "cat": "region", "type": "general", "text": "Coverage on main roads & cities; **two solid white outer lines** → only western Bhutan near/south of Thimphu; flat landscape → only the four southern regions", "src": ["plonkit"], "sv": null, "anchor": "NdvV", "img": "bt_coverage.png", "imgs": ["White_Road_Lines.png", "Landscape_-_South_Flat.png"], "super": true },
+  { "cat": "region", "type": "landscape", "text": "**Phobjikha Valley** (S of Nubding): the largest wide, flat agricultural valley with no major river in view", "src": ["plonkit"], "sv": null, "anchor": "FHkm", "img": "bt_probjihkavalley.png" },
+  { "cat": "special", "area": "Haa", "type": "cars", "text": "A **hook on the back of the car** in Haa District (mainly the town of Ha) — sometimes barely visible", "src": ["plonkit"], "sv": null, "anchor": "s895", "img": "bt_haacar.png", "uniq": "unique" },
+  { "cat": "special", "type": "cars", "text": "**Late-sunset coverage** in exactly two places: rural sideroad in east Mongar + urban area around Paro", "src": ["plonkit"], "sv": null, "anchor": "RG1f", "img": "bt_mongarsunset.png" },
+  { "cat": "special", "type": "landscape", "text": "**Airport metas**: Gelephu = the only southern flat airport; Paro International = dry NW valley; Bumthang Domestic = wet northern valley", "src": ["plonkit"], "sv": null, "anchor": "QdQ2", "img": "Gelephu_Airport.png", "imgs": ["Paro_International_Airport.png", "Bumthang_Domestic_Airport.png"] }
  ]
 }

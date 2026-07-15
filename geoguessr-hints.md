@@ -971,15 +971,21 @@ Study: [Plonk It](https://www.plonkit.net/bhutan)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates almost always **full red** (the only Asian country w/ red plates); taxis = **yellow plates + yellow roofs** | [P](https://www.plonkit.net/bhutan) |  |
-| Country | **Grey car, no antenna** — the only left-driving country with a grey Google car | [P](https://www.plonkit.net/bhutan) |  |
-| Country | **Stone-block safety barriers** on winding rural roads (a great rural-Bhutan clue); guardrails are rare | [P](https://www.plonkit.net/bhutan) |  |
-| Country | Very distinct architecture: **tin roofs + painted wooden frames** | [P](https://www.plonkit.net/bhutan) |  |
-| Country | **Dzongkha** script — unique-looking letters (found only in Bhutan on Street View) | [P](https://www.plonkit.net/bhutan) |  |
-| Country | **Mountainous** (most coverage on mountain roads); **prayer flags** by the road; flat land only in the south | [P](https://www.plonkit.net/bhutan) |  |
-| Country | Road markers = **yellow top / white bottom** (national highways show the road number on top → pinpoint the road) | [P](https://www.plonkit.net/bhutan) |  |
-| Country | City signs (red or blue) show the **town name**; **black-and-white striped signposts** (also LK/IN/NP/MY/BD) | [P](https://www.plonkit.net/bhutan) |  |
-| Region | Coverage on main roads + cities; south is flat (only 4 regions covered); **Phobjikha Valley** = the biggest open flat valley | [P](https://www.plonkit.net/bhutan) |  |
+| Country | Plates almost always **full red**; taxis = **yellow plates + yellow roofs** | [P](https://www.plonkit.net/bhutan) |  |
+| Country | Coverage = **grey Google car without antenna** | [P](https://www.plonkit.net/bhutan) |  |
+| Country | **Stone-block safety barriers** on winding rural roads (guardrails rare) — the best rural Bhutan tell | [P](https://www.plonkit.net/bhutan) |  |
+| Country | Traditional architecture: **tin roofs + ornate painted wooden frames** — very distinct | [P](https://www.plonkit.net/bhutan) |  |
+| Country | **Dzongkha** script — on Street View these letters exist only in Bhutan | [P](https://www.plonkit.net/bhutan) |  |
+| Country | Mountainous — coverage mostly on main mountain roads (flat areas only in the south); **prayer flags** along roads | [P](https://www.plonkit.net/bhutan) |  |
+| Country | Thin metal poles, often **painted black at the bottom** | [P](https://www.plonkit.net/bhutan) |  |
+| Country | Road markers: **yellow top + white bottom** — best rural pinpointing clue; national-highway numbers on top (not on the map — learnable table) | [P](https://www.plonkit.net/bhutan) |  |
+| Country | Red/blue **city signs with the town name** — instant location tell in cities | [P](https://www.plonkit.net/bhutan) |  |
+| Country | **Black-white striped signposts** | [P](https://www.plonkit.net/bhutan) |  |
+| Region | Coverage on main roads & cities; **two solid white outer lines** → only western Bhutan near/south of Thimphu; flat landscape → only the four southern regions | [P](https://www.plonkit.net/bhutan) |  |
+| Region | **Phobjikha Valley** (S of Nubding): the largest wide, flat agricultural valley with no major river in view | [P](https://www.plonkit.net/bhutan) |  |
+| Special | A **hook on the back of the car** in Haa District (mainly the town of Ha) — sometimes barely visible | [P](https://www.plonkit.net/bhutan) |  |
+| Special | **Late-sunset coverage** in exactly two places: rural sideroad in east Mongar + urban area around Paro | [P](https://www.plonkit.net/bhutan) |  |
+| Special | **Airport metas**: Gelephu = the only southern flat airport; Paro International = dry NW valley; Bumthang Domestic = wet northern valley | [P](https://www.plonkit.net/bhutan) |  |
 
 ## Taiwan
 Study: [Plonk It](https://www.plonkit.net/taiwan) · [GeoGuessr map](https://www.geoguessr.com/maps/63f420f9f1482fc046350710)
