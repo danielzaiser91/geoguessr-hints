@@ -11352,136 +11352,358 @@
    "area_km2": 330803,
    "links": {
     "plonkit": "https://www.plonkit.net/malaysia",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/6a1494309d674c08cdc2d943"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Plates **black with 2 white sections** (Indonesia = 3 sections); drives on the **left**",
+     "type": "plates",
+     "text": "Plates **black with two white sections** (visible through the blur); drives on the **left**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "r0EY",
      "img": "Malaysia_License_Plate.png",
-     "type": "plates"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "indonesia",
+       "note": "Indonesian plates are black too — but with **three** white sections.",
+       "diff": "2 sections → Malaysia, 3 → Indonesia. Also: Malaysia = all-white road lines, English-influenced spellings (televisyen).",
+       "img": "Indonesia_License_Plate_2.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Double white centre lines** (only SE Asian country to do so); thick **yellow bar** markings ~exclusive to Malaysia",
+     "type": "markings",
+     "text": "**Double white centre lines** on two-lane roads — the only SE-Asian country doing this",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "5Y5B",
      "img": "Road_lines.png",
-     "type": "markings"
+     "uniq": "unique*",
+     "uniq_note": "Within Southeast Asia unique; double white centre lines exist outside the region, so pair with plates/language."
     },
     {
      "cat": "country",
-     "text": "Electricity poles often have **black or white stickers** (sometimes red-white / red-blue stripes below)",
+     "type": "markings",
+     "text": "Thick **yellow bars** on the road edge",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "FTvY",
+     "img": "yellow_road_markings.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "hong-kong",
+       "note": "Very rarely similar yellow patterns.",
+       "diff": "Chinese-first signage + urban density → HK."
+      },
+      {
+       "slug": "united-kingdom",
+       "note": "Yellow edge markings exist in the UK too.",
+       "diff": "European environment, UK plates → United Kingdom."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "utility",
+     "text": "Electricity poles with **black or white stickers** (sometimes red-white / red-blue stripes below the black sticker)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Dwit",
+     "img": "Untitled_design__2825_29.png"
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "**BERHENTI** (stop) & **BERI LALUAN** (yield) signs",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "rEQ4",
      "img": "Untitled_design__2824_29.png",
-     "type": "utility"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "**BERHENTI** (stop) & **BERI LALUAN** (yield) signs are unique to Malaysia; bollards in black/white/grey/red",
+     "type": "bollards",
+     "text": "Bollards in **black/white/grey/red** combinations (several varieties, same layout)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "H5tX",
-     "img": "Untitled_design__2823_29.png",
-     "type": "signs"
+     "img": "Untitled_design__2823_29.png"
     },
     {
      "cat": "country",
-     "text": "Directional signs w/ **hexagonal yellow highway shields** (unique); km markers white-and-blue",
+     "type": "signs",
+     "text": "Directional signs with **hexagonal yellow highway shields**; km markers **white-and-blue** (shields often visible on them)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "TekU",
-     "img": "Untitled_design__2830_29.png",
-     "type": "signs"
+     "anchor": "LlHN",
+     "img": "directionalsign.png",
+     "imgs": [
+      "Untitled_design__2830_29.png"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "**Malay** (Latin, ≈ Indonesian); **Chinese characters** common (≈25% of Malaysians are of Chinese descent)",
+     "type": "language",
+     "text": "**Malay** (Latin script) — practically indistinguishable from Indonesian for non-speakers",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "1Mkw",
      "img": "my_language.png",
-     "type": "language"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "indonesia",
+       "note": "Nearly the same language.",
+       "diff": "English-influenced spellings (**-syen**) → Malaysia; Dutch-influenced (**-si**) → Indonesia. Plates 2 vs 3 sections.",
+       "img": "Indonesian_language.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Signposts almost always **black-and-white striped**; black-and-white kerbs common",
+     "type": "language",
+     "text": "**Chinese characters** are common (24.6% of the population is of Chinese descent) — unlike Indonesia",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "GMuK",
+     "img": "chinese.png"
+    },
+    {
+     "cat": "country",
+     "type": "utility",
+     "text": "Signposts almost always **black-and-white striped**; B&W kerbs common",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "X4Fj",
      "img": "signpost.png",
-     "type": "utility"
+     "imgs": [
+      "kerb.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "sri-lanka",
+       "note": "Same B&W posts.",
+       "diff": "Sinhala script → Sri Lanka."
+      },
+      {
+       "slug": "india",
+       "note": "Same B&W posts.",
+       "diff": "Shitcam/smallcam + Indian scripts → India.",
+       "img": "ingen4_blackandwhitesignposts.png"
+      },
+      {
+       "slug": "nepal",
+       "note": "Same B&W posts.",
+       "diff": "All-shitcam + Himalaya → Nepal."
+      },
+      {
+       "slug": "bangladesh",
+       "note": "Same B&W posts.",
+       "diff": "Bengali script → Bangladesh."
+      },
+      {
+       "slug": "bhutan",
+       "note": "Same B&W posts.",
+       "diff": "Dzongkha script + mountain roads → Bhutan."
+      }
+     ]
     },
     {
      "cat": "state",
-     "text": "Each state has its **own road-letter prefix**; state flags appear regularly (worth learning)",
+     "type": "naming",
+     "text": "Each state has its **own road-number letter prefix** (federal territories excluded; Sabah has only A2 & A7 as A-roads)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "tGn7",
      "img": "my_roads.png",
-     "type": "naming"
+     "super": true
     },
     {
      "cat": "state",
-     "text": "**Postal codes on most street signs** → narrow the region",
+     "type": "naming",
+     "text": "**State flags** appear regularly — worth learning; **postal codes** are on most street signs",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "4IWF",
-     "img": "malaysia_postal_codes_new.png",
-     "type": "naming"
+     "anchor": "3C19",
+     "img": "malaysia_state_flags.png",
+     "imgs": [
+      "malaysia_postal_codes_new.png"
+     ],
+     "super": true
     },
     {
-     "cat": "state",
-     "text": "Pole stickers: black = mainland, **white = Sarawak (Borneo)**; 'TEL TNB' stickers = Johor",
+     "cat": "region",
+     "type": "utility",
+     "text": "**Black pole stickers** → mainland (on Borneo only in Gen4); **white pole stickers** → only Sarawak (Borneo)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Fn5n",
      "img": "MalayBlackStickers.png",
-     "type": "utility"
+     "imgs": [
+      "White_Sticker.png"
+     ]
+    },
+    {
+     "cat": "state",
+     "area": "Johor",
+     "type": "utility",
+     "text": "Black stickers with **'TEL TNB'** at the bottom — only in Johor; **yellow street-name signs with black outline** (S-Negeri-Sembilan: only the arrow tip black)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "DVpF",
+     "img": "TEL_TNB_Johor_Black_Sticker.png",
+     "imgs": [
+      "Johor_Street_Sign.png"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "region",
-     "text": "Borneo: **Sabah very mountainous** (much coverage on mountain roads); Sarawak flatter, wooden diagonal-support poles; isolated karst near Perlis (Thai border)",
+     "type": "utility",
+     "text": "Lamp posts with **two small circles** on the support or **triangular metal support** → mainland Malaysia",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "landscape"
+     "anchor": "c4nQ",
+     "img": "my_twocircleslamppost.png",
+     "imgs": [
+      "Triangular_Metal_Mainland_Lamp_Post.png"
+     ]
+    },
+    {
+     "cat": "state",
+     "area": "Sarawak",
+     "type": "utility",
+     "text": "Borneo poles: **2-1 insulator config + long diagonal wooden support** — exclusive to Sarawak (Indonesian lookalikes aren't wooden); 'boomerang' sheet-metal lamp posts (more outside Kuching)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "4IDp",
+     "img": "Diagonal_Support_Poles.png",
+     "imgs": [
+      "Sarawak_Lamp_Posts.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "state",
+     "area": "Sabah",
+     "type": "utility",
+     "text": "Thin metal poles with **two parallel pole tops** — exclusive to Sabah; green arrow street signs with yellow **JKR** hexagon; very mountainous coverage (Sarawak = flatter, mountains only distant)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "AlbW",
+     "img": "Two_Horizontal_Support_Poles.png",
+     "imgs": [
+      "Sabah_Street_Signs.png",
+      "Sabah_Mountains.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "state",
+     "type": "utility",
+     "text": "**Trash-bin logos** tell the state: 'S' logo → Negeri Sembilan/Malacca/Johor; leaf logo → Perlis/Kedah; 'Alam Flora' sunny landscape → Pahang/KL/Putrajaya",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "VZEz",
+     "img": "my_malaccabins.png",
+     "imgs": [
+      "my_kedahbins.png",
+      "my_kualalumpurbins.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "**Arrow-shaped street-name signs** (any colour) are exclusive to Malaysia",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "lopw",
+     "img": "Johor_Street_Sign.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "state",
+     "area": "Perlis",
+     "type": "landscape",
+     "text": "**Isolated rock formations** rising abruptly from flat land near the Thai border",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "vYmT",
+     "img": "Perlis_State_Isolated_Rock_Formations.png"
     },
     {
      "cat": "special",
-     "text": "Arrow-shaped street signs (Malaysia-unique): **yellow = Johor**, green w/ JKR hexagon = Sabah; trash-bin logos cluster by state",
+     "area": "Labuan",
+     "type": "general",
+     "text": "Urban areas dotted with **blue cylindrical containers**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "signs"
+     "anchor": "4Be2",
+     "img": "Labuan_blue_bins.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "area": "Gunung Mulu NP",
+     "type": "cars",
+     "text": "Unique **grey car with long front antenna** (Sarawak)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "0dJK",
+     "img": "Sarawak_Gunung_Mulu_National_Park_Google_Car.png",
+     "uniq": "unique"
     }
    ]
   },
@@ -18153,162 +18375,628 @@
    "area_km2": 513120,
    "links": {
     "plonkit": "https://www.plonkit.net/thailand",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/638777aabd4e538d5e52d4f9"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Plate white (passenger), **yellow = commercial** (unique in SE Asia; Laos yellow = regular); drives **left** (KH/VN/LA drive right)",
+     "type": "plates",
+     "text": "Plates large & **white** (passenger) / **yellow** (commercial)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "rzJ6",
      "img": "Thailand_License_Plate.png",
-     "type": "plates"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "laos",
+       "note": "Laos uses **yellow plates on regular vehicles** — within SE Asia, yellow *commercial* plates are Thailand-only.",
+       "diff": "Yellow on ordinary cars + right-hand traffic → Laos."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Thai script**: compact, with tiny circles inside most letters (Khmer = longer lines/accents; Lao similar → check driving side)",
+     "type": "general",
+     "text": "Drives on the **left**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "zad0",
-     "img": "th_language.png",
-     "type": "language"
+     "anchor": "aRcg",
+     "img": "Untitled_design_289_29.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "cambodia",
+       "note": "Cambodia drives **right**.",
+       "diff": "Right-hand traffic + Khmer script → Cambodia."
+      },
+      {
+       "slug": "vietnam",
+       "note": "Vietnam drives **right**.",
+       "diff": "Right-hand traffic + Latin (diacritic-heavy) script → Vietnam."
+      },
+      {
+       "slug": "laos",
+       "note": "Laos drives **right**.",
+       "diff": "Right-hand traffic + Lao script → Laos."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Bollard = **square with a pointed top**, black-and-white stripes (also KH/LA/ID)",
+     "type": "bollards",
+     "text": "Bollard **square with pointed top**, black-and-white stripes",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "bTGN",
+     "img": "2022-12-22_41.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "cambodia",
+       "note": "Same bollard style.",
+       "diff": "Khmer script + right-hand traffic → Cambodia."
+      },
+      {
+       "slug": "laos",
+       "note": "Same bollard style.",
+       "diff": "Lao script + right-hand traffic → Laos."
+      },
+      {
+       "slug": "indonesia",
+       "note": "Similar b&w bollards.",
+       "diff": "Indonesian (Latin) language + kabupaten signs → Indonesia."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "utility",
+     "text": "Signposts **square & bulky**, usually white with **black-painted bottoms**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "LKJb",
      "img": "round.png",
-     "type": "bollards"
+     "uniq": "unique*",
+     "uniq_note": "Within Southeast Asia this signpost design is unique to Thailand (per Plonk It) — outside SEA check other clues."
     },
     {
      "cat": "country",
-     "text": "**Concrete roads** with a large square-slab pattern common (also Philippines); **yellow middle lines** (Malaysia = white)",
+     "type": "markings",
+     "text": "**Concrete roads** with a large square pattern are common",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "V3cL",
      "img": "th_concrete_roads.webp",
-     "type": "markings"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "philippines",
+       "note": "Concrete square-pattern roads are common there too.",
+       "diff": "Right-hand traffic + English/Tagalog signs → Philippines."
+      },
+      {
+       "slug": "indonesia",
+       "note": "Occasionally similar concrete roads.",
+       "diff": "Indonesian language + black plates → Indonesia."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Square poles with small **vertical holes**; street-light poles striped red/black or black/white at the base",
+     "type": "utility",
+     "text": "Poles **square with small holes** running vertically",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "w9ag",
      "img": "th_square_poles.webp",
-     "type": "utility"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "sri-lanka",
+       "note": "Similar holed square poles.",
+       "diff": "Sinhala script + left-low-cam Gen4 → Sri Lanka."
+      },
+      {
+       "slug": "cambodia",
+       "note": "Similar poles.",
+       "diff": "Khmer script → Cambodia."
+      },
+      {
+       "slug": "laos",
+       "note": "Similar poles.",
+       "diff": "Lao script, right-hand traffic → Laos."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Very distinctive **long thin lamp posts** overhanging the road; square bulky white signposts w/ black-painted bottom",
+     "type": "language",
+     "text": "**Thai script**: compact, many fonts have **tiny circles** in the letters",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "oN48",
-     "img": "lamp.png",
-     "type": "utility"
+     "anchor": "zad0",
+     "img": "th_language.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "cambodia",
+       "note": "Khmer has **longer lines + more accents underneath**.",
+       "diff": "Under-letter accents & pointier look → Cambodia."
+      },
+      {
+       "slug": "laos",
+       "note": "Lao script looks very similar to Thai.",
+       "diff": "Check the **driving side**: left = Thailand, right = Laos. Lao stop signs have 2 characters (Thai 3)."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Directional signs: small roads white (2-part, **Garuda** emblem if no place name); highways green w/ Latin below Thai",
+     "type": "markings",
+     "text": "**Yellow middle lines** (solid or dashed)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "p3S3",
+     "img": "2022-12-22_42.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "malaysia",
+       "note": "Malaysia has **only white** middle lines.",
+       "diff": "Yellow centre line → Thailand, not Malaysia."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "utility",
+     "text": "Street-light poles with **red-black or black-white striped bottoms**; distinct **long thin lamp posts** hanging over the road",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "pVKM",
+     "img": "Street_Light_Markings.png",
+     "imgs": [
+      "lamp.png"
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Small-road directional signs: white **two-part** (arrow below, info above), road number with **Garuda**; highways green with Latin under the Thai names",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "1K3M",
-     "img": "Road_Number_Signs.png",
-     "type": "signs"
+     "img": "Road_Number_Signs.png"
     },
     {
      "cat": "country",
-     "text": "Distinctive **green village signs** (found in no other country); many street flags incl. yellow royal flags",
+     "type": "signs",
+     "text": "**Stop signs in Thai script** (Laos: similar but only 2 characters instead of 3)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "ahtf",
+     "img": "Screenshot (638).png"
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Road markers with **white Garuda = national roads** (white/black on the map), **black Garuda = province roads** (blue/yellow on the map)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "pELn",
+     "img": "Untitled_design8.png",
+     "super": true
+    },
+    {
+     "cat": "country",
+     "type": "general",
+     "text": "Streets lined with **flags** — national + yellow **royal flags**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "SrCQ",
+     "img": "2022-12-24__281_29.png"
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Distinctive **green village signs** all around the country",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "xPZV",
      "img": "greensign.png",
-     "type": "signs"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Most **Gen3 has no visible car**; Thai-script stop signs (3 chars; Lao = 2)",
+     "type": "cars",
+     "text": "Most Gen3 has **no visible car** (rare: bike trekkers, white car with brake light)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "4W5G",
      "img": "gen3nocar.png",
-     "type": "cars"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "laos",
+       "note": "Vientiane Gen3 also shows no car.",
+       "diff": "Lao script + right-hand traffic → Laos."
+      },
+      {
+       "slug": "cambodia",
+       "note": "Some Cambodian Gen3 shows no car.",
+       "diff": "Khmer script → Cambodia."
+      }
+     ]
     },
     {
-     "super": true,
-     "cat": "state",
-     "text": "National road **first digit = region**: 1 = north, 2 = NE, 3 = centre, 4 = south; Bangkok phone code 02",
+     "cat": "region",
+     "type": "naming",
+     "text": "**Area codes**: Bangkok = 02, others 3 digits, geographically grouped — first digit already helps (mobiles 08/09, 06 non-regional)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "sHFO",
+     "img": "Indicatifs_Thailande.png",
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "naming",
+     "text": "**National road first digit** → region: 1 = north, 2 = northeast, 3 = centre, 4 = south (1–2 digit highways can cross regions)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "aVcK",
      "img": "thailand_national_roads.png",
-     "type": "naming"
+     "super": true
     },
     {
-     "super": true,
-     "cat": "state",
-     "text": "Provincial waystones + **black boxes** carry a 2–3 letter **province abbreviation** (Thai script) → pinpoint province",
+     "cat": "region",
+     "type": "naming",
+     "text": "Provincial roads: **2-letter Thai province abbreviation** on waystones & signs (never on national-road ones); black boxes carry **3-letter abbreviations** (ABC1234 or TCC-L2-ABC format)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "Lj1E",
-     "img": "blackboxes.png",
-     "type": "naming"
+     "anchor": "03iF",
+     "img": "abbreviations.png",
+     "imgs": [
+      "blackboxes.png"
+     ],
+     "super": true
     },
     {
      "cat": "region",
-     "text": "**Muslim south**: Jawi (Arabic-based) script on signs, mosques, Islamic attire",
+     "type": "general",
+     "text": "**Far south = Muslim-majority**: Islamic attire, Jawi (Arabic-based) script, mosques",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "UnwR",
-     "img": "islam.png",
-     "type": "language"
+     "img": "islam.png"
     },
     {
      "cat": "region",
-     "text": "Tall mountains → NW; low forested mtns → centre-north; flat & dry → N/E of Bangkok; **red soil** → NE",
+     "type": "landscape",
+     "text": "**Landscape metas**: flat & dry → north of Bangkok + east (east feels drier); tall mountains → northwest (+parts of peninsula); low smooth forested → centre-north; steep exposed rock → west + peninsula; red soil → mostly northeast; gravel roads → mapped areas",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "OGfz",
-     "img": "Landscape_-_Tall_Mountains_Northwest.png",
-     "type": "landscape"
+     "anchor": "JvSJ",
+     "img": "Landscape_-_Eastern_Flat_and_Dry.png",
+     "imgs": [
+      "Landscape_-_Tall_Mountains_Northwest.png",
+      "lowmountains.png",
+      "exposedrockmountain.png",
+      "redsoil.png",
+      "gravelroad.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Plantation metas (south)**: rubber (black taps on trunks) mostly south; >90% of palm oil in the south; areca palms on the peninsula (esp. Ranong); garden croton (yellow/orange/red leaves) around Ranong & coasts",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "0BPM",
+     "img": "Rubber_Wood_Plantations.png",
+     "imgs": [
+      "zsNKCmO.png",
+      "arecapalms.png",
+      "xeufVFg.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Rice**: main belt mapped; dry-season rice → central plains (dry season = wildfire haze in the sky); wet-season rice → eastern plains",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "ZxIl",
+     "img": "th_rice.png",
+     "imgs": [
+      "dryseasonrice.png",
+      "wetseasonrice.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Coconut/palm metas**: dense short-coconut plantations → west of Bangkok; tall-coconut plantations → Prachuap Khiri Khan; masses of palmyra palms → east peninsula coast (S of Bangkok + far south)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "3SeI",
+     "img": "shortcoconutplantation.png",
+     "imgs": [
+      "tallcoconutplantation.png",
+      "palmyrapalms.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Crop metas**: sugarcane → central/east; cassava (digitate leaves) → central + NE plains; corn → north/central; fruit → Chiang Mai–Lamphun valley + E-Sa-Kaeo/Chanthaburi; durian → Chanthaburi; pineapple → SE & SW of Bangkok; eucalyptus plantations → Sa Kaeo; teak (big leaves, yellow flowers) → north; Tenasserim pines → north/northwest only",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "QXyi",
+     "img": "sugarcane.png",
+     "imgs": [
+      "cassava.png",
+      "7xwo2Rl.png",
+      "jDPRtU0.png",
+      "pk9UXvb.png",
+      "pineapple.png",
+      "uEC2dBG.png",
+      "teak.png",
+      "pinetrees.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "arch",
+     "text": "**Grey corrugated metal roofs** → mostly north & south",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "hzDI",
+     "img": "graycorrugatedroofs.png"
+    },
+    {
+     "cat": "region",
+     "type": "utility",
+     "text": "**Pole metas**: Chilean-style indented poles → around Bangkok (thicker versions on highways everywhere); insulators with **7+ ridges** → southern peninsula + Chiang Rai/Phayao highways (5–6 = standard); **1 insulator** on crossbar → peninsula south of Ranong/Chumphon, **2** → rest of country",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "3oUo",
+     "img": "indentedpole.png",
+     "imgs": [
+      "7ridgeinsulator.png",
+      "oneinsulator.png",
+      "twoinsulators.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "utility",
+     "text": "**Wind turbines** → W-Chaiyaphum & W-Nakhon-Ratchasima + coast of Songkhla/Nakhon Si Thammarat",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "85br",
+     "img": "windturbines.png"
+    },
+    {
+     "cat": "state",
+     "area": "Chiang Mai / Mae Hong Son",
+     "type": "bollards",
+     "text": "Black bollard with **three large white reflectors**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "2tIc",
+     "img": "specialbollard.png"
+    },
+    {
+     "cat": "city",
+     "area": "Phuket / Islands",
+     "type": "general",
+     "text": "**Phuket**: touristy & wealthy — modern buildings, resorts, heavy traffic among hills; **Koh Samui & Koh Pha-Ngan**: narrow crowded tropical roads",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "VtmL",
+     "img": "phuket.png",
+     "imgs": [
+      "kohsamui.png"
+     ]
+    },
+    {
+     "cat": "city",
+     "area": "Bangkok",
+     "type": "cars",
+     "text": "Taxis **pink** and **yellow-on-green**; street signs with small green section under blue (Bangkok & Nonthaburi)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Rqm9",
+     "img": "bangkoktaxi.png",
+     "imgs": [
+      "bangkokstreetsign.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "Yellow-on-green taxis may rarely appear elsewhere — but **pink taxis are practically exclusive** to Bangkok."
+    },
+    {
+     "cat": "city",
+     "area": "Chiang Mai",
+     "type": "cars",
+     "text": "Red **songthaew** trucks (shared-taxi pickups)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "ThIf",
+     "img": "chiangmairedtruck.png"
+    },
+    {
+     "cat": "city",
+     "area": "Pattaya",
+     "type": "signs",
+     "text": "Street signs **shaped like a ship's helm**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "V83y",
+     "img": "pattayastreetsign.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "city",
+     "area": "Chiang Rai",
+     "type": "signs",
+     "text": "**Red street signs with golden decorated borders** in Mueang Chiang Rai (blue variants exist)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "uY5m",
+     "img": "chiangraistreetsign.png"
     },
     {
      "cat": "special",
-     "text": "**Bangkok pink & yellow-on-green taxis**; red **songthaew** pickups → Chiang Mai; Phuket = touristy, hilly, resorts",
+     "type": "landscape",
+     "text": "**Northern spotlights**: Phrao valley (flat, ringed by mountains, rice+fruit); Doi Luang Chiang Dao (3rd-tallest, distinct shape); Phayao's long jagged N-S ridge; W-Tak rolling corn/sugarcane hills w/ very brown pavement; Phetchabun valley flanked by N-S ranges",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "general"
+     "anchor": "vdHm",
+     "img": "phraovalley.png",
+     "imgs": [
+      "doiluangchiangdao.png",
+      "phayaomountains.png",
+      "westerntak.png",
+      "FFCwiY9.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Central/NE spotlights**: Kanchanaburi deep-red cassava/rubber fields; SW-Lopburi distinct mountains; N-Saraburi E-W exposed-rock ranges; Chaiyaphum long flat ridges; Khao Yai NP tourist strip + rocky hills (camera **smudge** on the forest road!); N-Nakhon-Phanom karst views (on the Lao side); Mukdahan long low hills in mixed fields; SE-Nakhon-Ratchasima & S-Sisaket brown paved roads in crop fields",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "bIyP",
+     "img": "kanchanaburifields.png",
+     "imgs": [
+      "lopburimountains.png",
+      "saraburimountains.png",
+      "chaiyaphumridges.png",
+      "khaoyaiNP.png",
+      "khaoyaismudge.png",
+      "nakhonphanom_mountains.png",
+      "mukdahanhills.png",
+      "nakhonratchasimaSE.png",
+      "southsisaket.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Southern spotlights**: Khao Sam Roi Yot NP rock massifs (visible from the province centre); Khao Sok NP — tallest/steepest southern rock mountains (E-W); W-Krabi/E-Phang-nga N-S rock ranges",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "eYu7",
+     "img": "khaosamroiyotNP.png",
+     "imgs": [
+      "khaosokNP.png",
+      "westernkrabimountains.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "naming",
+     "text": "**Grid spotlights**: S-Lopburi NNW grid (rice/corn/sugarcane/cassava, ridges N/S/W); Pathum Thani near-perfect N-S grid; W-Rayong NE-SW industrial grid (rubber/cassava/pineapple); Highway 44 (Krabi–Surat Thani): divided 4-lane w/ huge median — often only a yellow inner line betrays it",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "govn",
+     "img": "lopburigrid.png",
+     "imgs": [
+      "pathumthanigrid.png",
+      "rayonggrid.png",
+      "hwy44.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "cars",
+     "text": "**Rare cars**: visible-mirror car → only far southern Thailand (mostly overwritten by Gen4); **Ko Sichang** island car with bars protruding from the blur",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "qBp9",
+     "img": "jOVfr8B.png",
+     "imgs": [
+      "Ko_Sichang_Car.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },

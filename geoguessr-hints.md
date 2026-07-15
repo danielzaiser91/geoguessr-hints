@@ -499,24 +499,48 @@ Study: [Plonk It](https://www.plonkit.net/turkey)
 | Special | **Göreme/Cappadocia** (Nevşehir): sandstone monoliths w/ carved dwellings; **Mt. Ararat** volcano far east; whitewashed flat-roof houses → Bodrum | [P](https://www.plonkit.net/turkey) |  |
 
 ## Thailand
-Study: [Plonk It](https://www.plonkit.net/thailand)
+Study: [Plonk It](https://www.plonkit.net/thailand) · [GeoGuessr map](https://www.geoguessr.com/maps/638777aabd4e538d5e52d4f9)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plate white (passenger), **yellow = commercial** (unique in SE Asia; Laos yellow = regular); drives **left** (KH/VN/LA drive right) | [P](https://www.plonkit.net/thailand) |  |
-| Country | **Thai script**: compact, with tiny circles inside most letters (Khmer = longer lines/accents; Lao similar → check driving side) | [P](https://www.plonkit.net/thailand) |  |
-| Country | Bollard = **square with a pointed top**, black-and-white stripes (also KH/LA/ID) | [P](https://www.plonkit.net/thailand) |  |
-| Country | **Concrete roads** with a large square-slab pattern common (also Philippines); **yellow middle lines** (Malaysia = white) | [P](https://www.plonkit.net/thailand) |  |
-| Country | Square poles with small **vertical holes**; street-light poles striped red/black or black/white at the base | [P](https://www.plonkit.net/thailand) |  |
-| Country | Very distinctive **long thin lamp posts** overhanging the road; square bulky white signposts w/ black-painted bottom | [P](https://www.plonkit.net/thailand) |  |
-| Country | Directional signs: small roads white (2-part, **Garuda** emblem if no place name); highways green w/ Latin below Thai | [P](https://www.plonkit.net/thailand) |  |
-| Country | Distinctive **green village signs** (found in no other country); many street flags incl. yellow royal flags | [P](https://www.plonkit.net/thailand) |  |
-| Country | Most **Gen3 has no visible car**; Thai-script stop signs (3 chars; Lao = 2) | [P](https://www.plonkit.net/thailand) |  |
-| Region | **Muslim south**: Jawi (Arabic-based) script on signs, mosques, Islamic attire | [P](https://www.plonkit.net/thailand) |  |
-| Region | Tall mountains → NW; low forested mtns → centre-north; flat & dry → N/E of Bangkok; **red soil** → NE | [P](https://www.plonkit.net/thailand) |  |
-| State | National road **first digit = region**: 1 = north, 2 = NE, 3 = centre, 4 = south; Bangkok phone code 02 | [P](https://www.plonkit.net/thailand) |  |
-| State | Provincial waystones + **black boxes** carry a 2–3 letter **province abbreviation** (Thai script) → pinpoint province | [P](https://www.plonkit.net/thailand) |  |
-| Special | **Bangkok pink & yellow-on-green taxis**; red **songthaew** pickups → Chiang Mai; Phuket = touristy, hilly, resorts | [P](https://www.plonkit.net/thailand) |  |
+| Country | Plates large & **white** (passenger) / **yellow** (commercial) | [P](https://www.plonkit.net/thailand) |  |
+| Country | Drives on the **left** | [P](https://www.plonkit.net/thailand) |  |
+| Country | Bollard **square with pointed top**, black-and-white stripes | [P](https://www.plonkit.net/thailand) |  |
+| Country | Signposts **square & bulky**, usually white with **black-painted bottoms** | [P](https://www.plonkit.net/thailand) |  |
+| Country | **Concrete roads** with a large square pattern are common | [P](https://www.plonkit.net/thailand) |  |
+| Country | Poles **square with small holes** running vertically | [P](https://www.plonkit.net/thailand) |  |
+| Country | **Thai script**: compact, many fonts have **tiny circles** in the letters | [P](https://www.plonkit.net/thailand) |  |
+| Country | **Yellow middle lines** (solid or dashed) | [P](https://www.plonkit.net/thailand) |  |
+| Country | Street-light poles with **red-black or black-white striped bottoms**; distinct **long thin lamp posts** hanging over the road | [P](https://www.plonkit.net/thailand) |  |
+| Country | Small-road directional signs: white **two-part** (arrow below, info above), road number with **Garuda**; highways green with Latin under the Thai names | [P](https://www.plonkit.net/thailand) |  |
+| Country | **Stop signs in Thai script** (Laos: similar but only 2 characters instead of 3) | [P](https://www.plonkit.net/thailand) |  |
+| Country | Road markers with **white Garuda = national roads** (white/black on the map), **black Garuda = province roads** (blue/yellow on the map) | [P](https://www.plonkit.net/thailand) |  |
+| Country | Streets lined with **flags** — national + yellow **royal flags** | [P](https://www.plonkit.net/thailand) |  |
+| Country | Distinctive **green village signs** all around the country | [P](https://www.plonkit.net/thailand) |  |
+| Country | Most Gen3 has **no visible car** (rare: bike trekkers, white car with brake light) | [P](https://www.plonkit.net/thailand) |  |
+| Region | **Area codes**: Bangkok = 02, others 3 digits, geographically grouped — first digit already helps (mobiles 08/09, 06 non-regional) | [P](https://www.plonkit.net/thailand) |  |
+| Region | **National road first digit** → region: 1 = north, 2 = northeast, 3 = centre, 4 = south (1–2 digit highways can cross regions) | [P](https://www.plonkit.net/thailand) |  |
+| Region | Provincial roads: **2-letter Thai province abbreviation** on waystones & signs (never on national-road ones); black boxes carry **3-letter abbreviations** (ABC1234 or TCC-L2-ABC format) | [P](https://www.plonkit.net/thailand) |  |
+| Region | **Far south = Muslim-majority**: Islamic attire, Jawi (Arabic-based) script, mosques | [P](https://www.plonkit.net/thailand) |  |
+| Region | **Landscape metas**: flat & dry → north of Bangkok + east (east feels drier); tall mountains → northwest (+parts of peninsula); low smooth forested → centre-north; steep exposed rock → west + peninsula; red soil → mostly northeast; gravel roads → mapped areas | [P](https://www.plonkit.net/thailand) |  |
+| Region | **Plantation metas (south)**: rubber (black taps on trunks) mostly south; >90% of palm oil in the south; areca palms on the peninsula (esp. Ranong); garden croton (yellow/orange/red leaves) around Ranong & coasts | [P](https://www.plonkit.net/thailand) |  |
+| Region | **Rice**: main belt mapped; dry-season rice → central plains (dry season = wildfire haze in the sky); wet-season rice → eastern plains | [P](https://www.plonkit.net/thailand) |  |
+| Region | **Coconut/palm metas**: dense short-coconut plantations → west of Bangkok; tall-coconut plantations → Prachuap Khiri Khan; masses of palmyra palms → east peninsula coast (S of Bangkok + far south) | [P](https://www.plonkit.net/thailand) |  |
+| Region | **Crop metas**: sugarcane → central/east; cassava (digitate leaves) → central + NE plains; corn → north/central; fruit → Chiang Mai–Lamphun valley + E-Sa-Kaeo/Chanthaburi; durian → Chanthaburi; pineapple → SE & SW of Bangkok; eucalyptus plantations → Sa Kaeo; teak (big leaves, yellow flowers) → north; Tenasserim pines → north/northwest only | [P](https://www.plonkit.net/thailand) |  |
+| Region | **Grey corrugated metal roofs** → mostly north & south | [P](https://www.plonkit.net/thailand) |  |
+| Region | **Pole metas**: Chilean-style indented poles → around Bangkok (thicker versions on highways everywhere); insulators with **7+ ridges** → southern peninsula + Chiang Rai/Phayao highways (5–6 = standard); **1 insulator** on crossbar → peninsula south of Ranong/Chumphon, **2** → rest of country | [P](https://www.plonkit.net/thailand) |  |
+| Region | **Wind turbines** → W-Chaiyaphum & W-Nakhon-Ratchasima + coast of Songkhla/Nakhon Si Thammarat | [P](https://www.plonkit.net/thailand) |  |
+| State | Black bollard with **three large white reflectors** | [P](https://www.plonkit.net/thailand) |  |
+| City | **Phuket**: touristy & wealthy — modern buildings, resorts, heavy traffic among hills; **Koh Samui & Koh Pha-Ngan**: narrow crowded tropical roads | [P](https://www.plonkit.net/thailand) |  |
+| City | Taxis **pink** and **yellow-on-green**; street signs with small green section under blue (Bangkok & Nonthaburi) | [P](https://www.plonkit.net/thailand) |  |
+| City | Red **songthaew** trucks (shared-taxi pickups) | [P](https://www.plonkit.net/thailand) |  |
+| City | Street signs **shaped like a ship's helm** | [P](https://www.plonkit.net/thailand) |  |
+| City | **Red street signs with golden decorated borders** in Mueang Chiang Rai (blue variants exist) | [P](https://www.plonkit.net/thailand) |  |
+| Special | **Northern spotlights**: Phrao valley (flat, ringed by mountains, rice+fruit); Doi Luang Chiang Dao (3rd-tallest, distinct shape); Phayao's long jagged N-S ridge; W-Tak rolling corn/sugarcane hills w/ very brown pavement; Phetchabun valley flanked by N-S ranges | [P](https://www.plonkit.net/thailand) |  |
+| Special | **Central/NE spotlights**: Kanchanaburi deep-red cassava/rubber fields; SW-Lopburi distinct mountains; N-Saraburi E-W exposed-rock ranges; Chaiyaphum long flat ridges; Khao Yai NP tourist strip + rocky hills (camera **smudge** on the forest road!); N-Nakhon-Phanom karst views (on the Lao side); Mukdahan long low hills in mixed fields; SE-Nakhon-Ratchasima & S-Sisaket brown paved roads in crop fields | [P](https://www.plonkit.net/thailand) |  |
+| Special | **Southern spotlights**: Khao Sam Roi Yot NP rock massifs (visible from the province centre); Khao Sok NP — tallest/steepest southern rock mountains (E-W); W-Krabi/E-Phang-nga N-S rock ranges | [P](https://www.plonkit.net/thailand) |  |
+| Special | **Grid spotlights**: S-Lopburi NNW grid (rice/corn/sugarcane/cassava, ridges N/S/W); Pathum Thani near-perfect N-S grid; W-Rayong NE-SW industrial grid (rubber/cassava/pineapple); Highway 44 (Krabi–Surat Thani): divided 4-lane w/ huge median — often only a yellow inner line betrays it | [P](https://www.plonkit.net/thailand) |  |
+| Special | **Rare cars**: visible-mirror car → only far southern Thailand (mostly overwritten by Gen4); **Ko Sichang** island car with bars protruding from the blur | [P](https://www.plonkit.net/thailand) |  |
 
 ## Iraq
 Study: [Plonk It](https://www.plonkit.net/iraq)
@@ -595,22 +619,32 @@ Study: [Plonk It](https://www.plonkit.net/vietnam)
 | State | Area codes start with **2**, ordered north→south; plate region codes painted on trucks | [P](https://www.plonkit.net/vietnam) |  |
 
 ## Malaysia
-Study: [Plonk It](https://www.plonkit.net/malaysia)
+Study: [Plonk It](https://www.plonkit.net/malaysia) · [GeoGuessr map](https://www.geoguessr.com/maps/6a1494309d674c08cdc2d943)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates **black with 2 white sections** (Indonesia = 3 sections); drives on the **left** | [P](https://www.plonkit.net/malaysia) |  |
-| Country | **Double white centre lines** (only SE Asian country to do so); thick **yellow bar** markings ~exclusive to Malaysia | [P](https://www.plonkit.net/malaysia) |  |
-| Country | Electricity poles often have **black or white stickers** (sometimes red-white / red-blue stripes below) | [P](https://www.plonkit.net/malaysia) |  |
-| Country | **BERHENTI** (stop) & **BERI LALUAN** (yield) signs are unique to Malaysia; bollards in black/white/grey/red | [P](https://www.plonkit.net/malaysia) |  |
-| Country | Directional signs w/ **hexagonal yellow highway shields** (unique); km markers white-and-blue | [P](https://www.plonkit.net/malaysia) |  |
-| Country | **Malay** (Latin, ≈ Indonesian); **Chinese characters** common (≈25% of Malaysians are of Chinese descent) | [P](https://www.plonkit.net/malaysia) |  |
-| Country | Signposts almost always **black-and-white striped**; black-and-white kerbs common | [P](https://www.plonkit.net/malaysia) |  |
-| Region | Borneo: **Sabah very mountainous** (much coverage on mountain roads); Sarawak flatter, wooden diagonal-support poles; isolated karst near Perlis (Thai border) | [P](https://www.plonkit.net/malaysia) |  |
-| State | Each state has its **own road-letter prefix**; state flags appear regularly (worth learning) | [P](https://www.plonkit.net/malaysia) |  |
-| State | **Postal codes on most street signs** → narrow the region | [P](https://www.plonkit.net/malaysia) |  |
-| State | Pole stickers: black = mainland, **white = Sarawak (Borneo)**; 'TEL TNB' stickers = Johor | [P](https://www.plonkit.net/malaysia) |  |
-| Special | Arrow-shaped street signs (Malaysia-unique): **yellow = Johor**, green w/ JKR hexagon = Sabah; trash-bin logos cluster by state | [P](https://www.plonkit.net/malaysia) |  |
+| Country | Plates **black with two white sections** (visible through the blur); drives on the **left** | [P](https://www.plonkit.net/malaysia) |  |
+| Country | **Double white centre lines** on two-lane roads — the only SE-Asian country doing this | [P](https://www.plonkit.net/malaysia) |  |
+| Country | Thick **yellow bars** on the road edge | [P](https://www.plonkit.net/malaysia) |  |
+| Country | Electricity poles with **black or white stickers** (sometimes red-white / red-blue stripes below the black sticker) | [P](https://www.plonkit.net/malaysia) |  |
+| Country | **BERHENTI** (stop) & **BERI LALUAN** (yield) signs | [P](https://www.plonkit.net/malaysia) |  |
+| Country | Bollards in **black/white/grey/red** combinations (several varieties, same layout) | [P](https://www.plonkit.net/malaysia) |  |
+| Country | Directional signs with **hexagonal yellow highway shields**; km markers **white-and-blue** (shields often visible on them) | [P](https://www.plonkit.net/malaysia) |  |
+| Country | **Malay** (Latin script) — practically indistinguishable from Indonesian for non-speakers | [P](https://www.plonkit.net/malaysia) |  |
+| Country | **Chinese characters** are common (24.6% of the population is of Chinese descent) — unlike Indonesia | [P](https://www.plonkit.net/malaysia) |  |
+| Country | Signposts almost always **black-and-white striped**; B&W kerbs common | [P](https://www.plonkit.net/malaysia) |  |
+| Country | **Arrow-shaped street-name signs** (any colour) are exclusive to Malaysia | [P](https://www.plonkit.net/malaysia) |  |
+| Region | **Black pole stickers** → mainland (on Borneo only in Gen4); **white pole stickers** → only Sarawak (Borneo) | [P](https://www.plonkit.net/malaysia) |  |
+| Region | Lamp posts with **two small circles** on the support or **triangular metal support** → mainland Malaysia | [P](https://www.plonkit.net/malaysia) |  |
+| State | Each state has its **own road-number letter prefix** (federal territories excluded; Sabah has only A2 & A7 as A-roads) | [P](https://www.plonkit.net/malaysia) |  |
+| State | **State flags** appear regularly — worth learning; **postal codes** are on most street signs | [P](https://www.plonkit.net/malaysia) |  |
+| State | Black stickers with **'TEL TNB'** at the bottom — only in Johor; **yellow street-name signs with black outline** (S-Negeri-Sembilan: only the arrow tip black) | [P](https://www.plonkit.net/malaysia) |  |
+| State | Borneo poles: **2-1 insulator config + long diagonal wooden support** — exclusive to Sarawak (Indonesian lookalikes aren't wooden); 'boomerang' sheet-metal lamp posts (more outside Kuching) | [P](https://www.plonkit.net/malaysia) |  |
+| State | Thin metal poles with **two parallel pole tops** — exclusive to Sabah; green arrow street signs with yellow **JKR** hexagon; very mountainous coverage (Sarawak = flatter, mountains only distant) | [P](https://www.plonkit.net/malaysia) |  |
+| State | **Trash-bin logos** tell the state: 'S' logo → Negeri Sembilan/Malacca/Johor; leaf logo → Perlis/Kedah; 'Alam Flora' sunny landscape → Pahang/KL/Putrajaya | [P](https://www.plonkit.net/malaysia) |  |
+| State | **Isolated rock formations** rising abruptly from flat land near the Thai border | [P](https://www.plonkit.net/malaysia) |  |
+| Special | Urban areas dotted with **blue cylindrical containers** | [P](https://www.plonkit.net/malaysia) |  |
+| Special | Unique **grey car with long front antenna** (Sarawak) | [P](https://www.plonkit.net/malaysia) |  |
 
 ## Oman
 Study: [Plonk It](https://www.plonkit.net/oman)
