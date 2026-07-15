@@ -460,20 +460,28 @@ Study: [Plonk It](https://www.plonkit.net/indonesia) · [GeoGuessr map](https://
 | Special | Rare cars: **white SUV with black bars + wooden roof plank** (east Bali); **black cab with men in the truck bed** near Jagasatru | [P](https://www.plonkit.net/indonesia) |  |
 
 ## Mongolia
-Study: [Plonk It](https://www.plonkit.net/mongolia)
+Study: [Plonk It](https://www.plonkit.net/mongolia) · [GeoGuessr map](https://www.geoguessr.com/maps/61f153744f445700019e9bfb)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plate mostly white w/ a **red Soyombo** hint on the left | [P](https://www.plonkit.net/mongolia) |  |
-| Country | **Cyrillic** w/ letters **Ɵ Ү** (not in Russian) + double vowels (aa/ЭЭ); unique **ЗОГС** stop sign | [P](https://www.plonkit.net/mongolia) |  |
-| Country | All coverage = a **large pickup truck** (often w/ a tent, red mirrors, snorkel, roof racks) | [P](https://www.plonkit.net/mongolia) |  |
-| Country | **Steppe** biome: empty grasslands/deserts, characteristic lack of trees, rugged/rolling hills, rivers & lakes | [P](https://www.plonkit.net/mongolia) |  |
-| Country | Unique **white bowling-pin bollards** with two red stripes near the top | [P](https://www.plonkit.net/mongolia) |  |
-| Country | Russian-influenced infra: wooden poles w/ stone support blocks, white lamp posts, 3-stripe pedestrian signs | [P](https://www.plonkit.net/mongolia) |  |
-| Country | Neighbourhoods frequently separated by **dirt alleys + wooden fences** | [P](https://www.plonkit.net/mongolia) |  |
-| Country | White round **yurts** everywhere (nomadic dwellings) | [P](https://www.plonkit.net/mongolia) |  |
-| Country | Large **herds** (horses, yaks, camels, sheep); decorated stone-pile shrines called **ovoos** | [P](https://www.plonkit.net/mongolia) |  |
-| Region | Very limited coverage (highways + towns, densest around **Ulaanbaatar**); driving direction tends **away from UB**; east/south flat, north hilly + larch/birch forest, west = mountains | [P](https://www.plonkit.net/mongolia) |  |
+| Country | Plates mostly white with a **red Soyombo hint** on the left | [P](https://www.plonkit.net/mongolia) |  |
+| Country | **Mongolian Cyrillic** with **Ө Ү** (not in Russian) + frequent **double vowels** (аа, өө, ээ); Latin & traditional Mongolian script occasionally | [P](https://www.plonkit.net/mongolia) |  |
+| Country | All coverage driven with a **large pickup truck** — often visible, with tent, red side mirrors, snorkel or roof racks | [P](https://www.plonkit.net/mongolia) |  |
+| Country | **Steppe biomes**: empty grasslands/deserts with characteristic **lack of trees**; rugged/rocky/rolling hills, rivers & lakes | [P](https://www.plonkit.net/mongolia) |  |
+| Country | White **bowling-pin bollards with two red stripes** near the top | [P](https://www.plonkit.net/mongolia) |  |
+| Country | Russian-influenced infra: wooden poles w/ stone support blocks, white lamp posts, 3-stripe ped signs; **ЗОГС stop sign** is unique; each town has its own lamp-post design | [P](https://www.plonkit.net/mongolia) |  |
+| Country | Neighbourhoods separated by **dirt alleys + wooden fences**; white round **yurts** everywhere; large **animal herds** (horses/yaks/camels…); **ovoos** (decorated stone piles/shrines) | [P](https://www.plonkit.net/mongolia) |  |
+| Region | **Coverage very limited** — highways + big towns, densest around Ulaanbaatar (lots of hidden coverage exists); driving direction is usually **away from Ulaanbaatar** | [P](https://www.plonkit.net/mongolia) |  |
+| Region | **Topography**: flat east & south · rolling hills north · big mountains/rocky hills west | [P](https://www.plonkit.net/mongolia) |  |
+| Region | **Fall coverage** (orange trees/grass) only Lun↔Hatgal + some Ulaanbaatar; **Bugant forest**: narrow Russian-looking dirt trails w/ close trees + birches (trails not on the map); **crop fields** rare — Selenge & Töv near UB | [P](https://www.plonkit.net/mongolia) |  |
+| City | By far the biggest city (~50% of the population): high-rises, chains, buses, pedestrians, clean roads; suburbs = vast **yurt districts** on hills | [P](https://www.plonkit.net/mongolia) |  |
+| Special | **Highway metas** | [P](https://www.plonkit.net/mongolia) |  |
+| Special | **Gen3 car metas** (split the country by the truck) | [P](https://www.plonkit.net/mongolia) |  |
+| Special | **Gen4 car metas**: UB = silver truck w/ ornate **blue-white roof decal** + snorkel/antenna; east = silver pickup w/ **metal box + shovel** (Bodi Group); west = silver pickup w/ big **light-blue tent** — strap variants: 1 knot = NW, knots both straps = SW, clumped lower strap = central-south (UB→Altai), 4 straps = central-north, open zipper = near Khorgo | [P](https://www.plonkit.net/mongolia) |  |
+| Special | **Town spotlights (north/centre)** | [P](https://www.plonkit.net/mongolia) |  |
+| Special | **Town spotlights (east/south/west)** | [P](https://www.plonkit.net/mongolia) |  |
+| Special | **Landscape spotlights**: far-west glacier peaks (tallest mountains; car w/ green/black bag over right racks); shrubs+patchy grass E of Uvs lake (Shaazgai similar but hillier); **Khan Khokhii NP** — densest forests, dark soil, grey tent; **Gobi Gurvan Saikhan NP** — bright orange dunes (Jeep follow car in the SW corner); **Yolyn Am valley** — extreme fog + dark soil; **Khoridol Saridag** river valley — rocky cliffs + pebble-covered ground | [P](https://www.plonkit.net/mongolia) |  |
+| Special | **Night coverage** in exactly 4 areas: NW of Murun, W of Dashbalbar, S of Baruun-Urt, E of Dariganga — always driving toward town; **rainstorm coverage** E of Khorgo (dark skies, raindrops on camera, sometimes a rainbow) | [P](https://www.plonkit.net/mongolia) |  |
 
 ## Pakistan
 Study: [Plonk It](https://www.plonkit.net/pakistan)

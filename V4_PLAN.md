@@ -120,7 +120,7 @@ Format: `- [ ] slug` → check when BOTH captured-complete AND classified.
 
 **Asia:** - [x] kyrgyzstan · - [x] russia · - [x] china · - [x] india · - [x] indonesia ·
 - [x] japan · - [x] thailand · - [x] malaysia · - [x] philippines · - [x] vietnam ·
-- [x] south-korea · - [x] taiwan · - [ ] kazakhstan · - [ ] mongolia · - [ ] sri-lanka ·
+- [x] south-korea · - [x] taiwan · - [x] kazakhstan · - [ ] mongolia · - [ ] sri-lanka ·
 - [ ] bangladesh · - [ ] cambodia · - [ ] laos · - [ ] nepal · - [ ] bhutan · - [ ] pakistan ·
 - [ ] turkey · - [ ] israel-west-bank · - [ ] jordan · - [ ] iraq · - [ ] lebanon ·
 - [ ] united-arab-emirates · - [ ] qatar · - [ ] oman · - [ ] singapore · - [ ] hong-kong ·
@@ -171,5 +171,5 @@ Format: `- [ ] slug` → check when BOTH captured-complete AND classified.
   verify via DOM checks + cache-busting query param (?v=N) since python http.server has no cache headers.
 
 ## Status
-- Infra: DONE (2026-07-15) · Countries: 12/136 (kyrgyzstan, russia, china, india, indonesia, japan, thailand, malaysia, philippines, vietnam, south-korea, taiwan) · Final passes: not started
+- Infra: DONE (2026-07-15) · Countries: 13/136 (kyrgyzstan, russia, china, india, indonesia, japan, thailand, malaysia, philippines, vietnam, south-korea, taiwan, kazakhstan) · Final passes: not started
 - NOTE russia is data continent "Europe" (matches MASTER). Russia rewritten 13→77 hints, china 7→17, india ~20→67.
