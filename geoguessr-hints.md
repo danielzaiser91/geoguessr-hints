@@ -3015,12 +3015,14 @@ Study: [Plonk It](https://www.plonkit.net/guam)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | US overseas territory (counts as US); car fully blurred but a **front-right antenna + tiny roof-rack** show (the N. Mariana car has NO roof rack) | [P](https://www.plonkit.net/guam) |  |
-| Country | Poles almost always **thick concrete** (N. Mariana Islands use wooden poles) | [P](https://www.plonkit.net/guam) |  |
-| Country | **Green** street signs (N. Mariana Islands use blue) | [P](https://www.plonkit.net/guam) |  |
-| Country | Tropical, dense low vegetation; a very large number of **road reflectors** (also true of N. Mariana) | [P](https://www.plonkit.net/guam) |  |
-| Country | **East Asian languages** common — Japanese, Chinese, Korean, even Russian | [P](https://www.plonkit.net/guam) |  |
-| Region | Coverage limited (little inland in the south); **hilly south, flat north**; LeoPalace Resort = white buildings w/ orange tiled roofs | [P](https://www.plonkit.net/guam) |  |
+| Country | US overseas territory — **counts as US** in country streaks | [P](https://www.plonkit.net/guam) |  |
+| Country | Car fully blurred, but a **front-right antenna + a tiny bit of roof rack** show | [P](https://www.plonkit.net/guam) |  |
+| Country | Poles almost always **thick concrete** | [P](https://www.plonkit.net/guam) |  |
+| Country | **Green street signs** | [P](https://www.plonkit.net/guam) |  |
+| Country | Tropical climate, lots of **dense, fairly low vegetation**; huge numbers of **road reflectors** (also NMI) | [P](https://www.plonkit.net/guam) |  |
+| Country | **East Asian languages** (Japanese, Chinese, Korean, even Russian) common on signs (also NMI) | [P](https://www.plonkit.net/guam) |  |
+| Region | Coverage fairly limited (almost none inland in the south); **south = hilly, north = flat** | [P](https://www.plonkit.net/guam) |  |
+| Special | **Spotlights**: yellow signposts near Apra View; **LeoPalace Resort** = white buildings w/ orange tiled roofs (superficially Java-like) | [P](https://www.plonkit.net/guam) |  |
 
 ## Northern Mariana Islands
 Study: [Plonk It](https://www.plonkit.net/northern-mariana-islands)

@@ -11577,69 +11577,132 @@
    "hints": [
     {
      "cat": "country",
-     "text": "US overseas territory (counts as US); car fully blurred but a **front-right antenna + tiny roof-rack** show (the N. Mariana car has NO roof rack)",
+     "type": "general",
+     "text": "US overseas territory — **counts as US** in country streaks",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "w6da",
+     "img": "gu_location.png"
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "Car fully blurred, but a **front-right antenna + a tiny bit of roof rack** show",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "KSIf",
      "img": "gu_car.png",
-     "type": "cars"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "northern-mariana-islands",
+       "note": "NMI's car shows NO roof rack.",
+       "diff": "Roof rack visible → Guam."
+      },
+      {
+       "slug": "puerto-rico",
+       "note": "PR Gen3 has a similar front-right antenna.",
+       "diff": "Pacific + Asian languages → Guam."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Poles almost always **thick concrete** (N. Mariana Islands use wooden poles)",
+     "type": "utility",
+     "text": "Poles almost always **thick concrete**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "04NE",
      "img": "gu_pole.png",
-     "type": "utility"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "northern-mariana-islands",
+       "note": "NMI typically has WOODEN poles.",
+       "diff": "Concrete → Guam; wood → NMI."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Green** street signs (N. Mariana Islands use blue)",
+     "type": "signs",
+     "text": "**Green street signs**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Gyzt",
      "img": "streetsign.png",
-     "type": "signs"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "northern-mariana-islands",
+       "note": "NMI uses BLUE street signs.",
+       "diff": "Green → Guam; blue → NMI."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Tropical, dense low vegetation; a very large number of **road reflectors** (also true of N. Mariana)",
+     "type": "landscape",
+     "text": "Tropical climate, lots of **dense, fairly low vegetation**; huge numbers of **road reflectors** (also NMI)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "793A",
-     "img": "gu_reflectorspam.png",
-     "type": "landscape"
+     "anchor": "a1Iu",
+     "img": "gu_landscape.png",
+     "imgs": [
+      "gu_reflectorspam.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "**East Asian languages** common — Japanese, Chinese, Korean, even Russian",
+     "type": "language",
+     "text": "**East Asian languages** (Japanese, Chinese, Korean, even Russian) common on signs (also NMI)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "eTI3",
-     "img": "gu_asian.png",
-     "type": "language"
+     "img": "gu_asian.png"
     },
     {
      "cat": "region",
-     "text": "Coverage limited (little inland in the south); **hilly south, flat north**; LeoPalace Resort = white buildings w/ orange tiled roofs",
+     "type": "landscape",
+     "text": "Coverage fairly limited (almost none inland in the south); **south = hilly, north = flat**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "qvj3",
-     "img": "gu_hillysouth.png",
-     "type": "general"
+     "anchor": "I0mE",
+     "img": "gu_coverage.png",
+     "imgs": [
+      "gu_hillysouth.png",
+      "gu_flatnorth.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "signs",
+     "text": "**Spotlights**: yellow signposts near Apra View; **LeoPalace Resort** = white buildings w/ orange tiled roofs (superficially Java-like)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "hxXB",
+     "img": "Apra_View_Hint.png",
+     "imgs": [
+      "gu_leopalace.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },
