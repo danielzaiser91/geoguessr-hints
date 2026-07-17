@@ -3051,12 +3051,13 @@ Study: [Plonk It](https://www.plonkit.net/christmas-island)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Australian external territory SSW of Java (counts as Australia); car = a unique **silver pickup w/ its truck bed visible** — usually all you need to ID (don't confuse w/ Cocos Islands) | [P](https://www.plonkit.net/christmas-island) |  |
-| Country | **Yellow** licence plates | [P](https://www.plonkit.net/christmas-island) |  |
-| Country | Mostly dense **tropical forest**; some unpaved roads have bright **white sandy soil**; palms in places | [P](https://www.plonkit.net/christmas-island) |  |
-| Country | Standard **Australian bollard** (white, red front / grey back reflector); Aussie speed signs & green sign backgrounds | [P](https://www.plonkit.net/christmas-island) |  |
-| Region | Built-up areas in the **NE**; a boat trekker hugs the steep rocky north coast (white deck pokes through the blur); many trail trekkers in dense foliage | [P](https://www.plonkit.net/christmas-island) |  |
-| Region | Famous for **red crabs** (trekker among hundreds near Ethel Beach; crab references on signs); harbour recognisable by large **cranes** | [P](https://www.plonkit.net/christmas-island) |  |
+| Country | Australian external territory SSW of Java — **counts as Australia** in streaks (don't confuse w/ the Cocos Islands further west) | [P](https://www.plonkit.net/christmas-island) |  |
+| Country | Car coverage = unique **silver pickup w/ visible truck bed** — usually all you need; also drove very rural trails | [P](https://www.plonkit.net/christmas-island) |  |
+| Country | Mostly **dense tropical forest**; some unpaved roads w/ bright **white sandy soil**; palms in places; built-up areas only small | [P](https://www.plonkit.net/christmas-island) |  |
+| Country | Standard **Australian bollard** (white, red front / grey back) + Aussie signage (speed signs, green signs) | [P](https://www.plonkit.net/christmas-island) |  |
+| Country | **Yellow licence plates** | [P](https://www.plonkit.net/christmas-island) |  |
+| Region | Built-up areas in the **northeast**; rest = forest; **boat trekker** along the steep rocky north coast (white deck through the blur); many small **trail trekkers** in dense foliage (occasional beaches/lookouts) | [P](https://www.plonkit.net/christmas-island) |  |
+| Special | **Spotlights**: Jln Pantai coastal road = trekker instead of the car (no truck bed!); harbour = big **cranes** visible from afar; NE-coast **golf course** (trekker + car); famous **red crabs** — trekker among hundreds near Ethel Beach (+ The Dales, west coast) + crab signs island-wide | [P](https://www.plonkit.net/christmas-island) |  |
 
 ## Pitcairn Islands
 Study: [Plonk It](https://www.plonkit.net/pitcairn-islands)

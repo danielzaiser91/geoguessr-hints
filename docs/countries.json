@@ -6176,69 +6176,103 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Australian external territory SSW of Java (counts as Australia); car = a unique **silver pickup w/ its truck bed visible** — usually all you need to ID (don't confuse w/ Cocos Islands)",
+     "type": "general",
+     "text": "Australian external territory SSW of Java — **counts as Australia** in streaks (don't confuse w/ the Cocos Islands further west)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "bapH",
+     "img": "Christmas_Island_in_its_region.png"
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "Car coverage = unique **silver pickup w/ visible truck bed** — usually all you need; also drove very rural trails",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "fsLu",
      "img": "Christmas-Island-car-meta.png",
-     "type": "cars"
-    },
-    {
-     "cat": "country",
-     "text": "**Yellow** licence plates",
-     "src": [
-      "plonkit"
+     "imgs": [
+      "Christmas-Island-rural-coverage.png"
      ],
-     "sv": null,
-     "anchor": "SxJI",
-     "img": "Christmas_Island_License_Plate.png",
-     "type": "plates"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Mostly dense **tropical forest**; some unpaved roads have bright **white sandy soil**; palms in places",
+     "type": "landscape",
+     "text": "Mostly **dense tropical forest**; some unpaved roads w/ bright **white sandy soil**; palms in places; built-up areas only small",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "p6bw",
-     "img": "Christmas-island-landscape.png",
-     "type": "landscape"
+     "img": "Christmas-island-landscape.png"
     },
     {
      "cat": "country",
-     "text": "Standard **Australian bollard** (white, red front / grey back reflector); Aussie speed signs & green sign backgrounds",
+     "type": "bollards",
+     "text": "Standard **Australian bollard** (white, red front / grey back) + Aussie signage (speed signs, green signs)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "XuYJ",
      "img": "Christmas-Island-bollard.png",
-     "type": "bollards"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "australia",
+       "note": "Identical mainland kit.",
+       "diff": "Silver-pickup car + jungle island → Christmas Island."
+      }
+     ]
     },
     {
-     "cat": "region",
-     "text": "Built-up areas in the **NE**; a boat trekker hugs the steep rocky north coast (white deck pokes through the blur); many trail trekkers in dense foliage",
+     "cat": "country",
+     "type": "plates",
+     "text": "**Yellow licence plates**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "lGDi",
-     "img": "Boat_Trekker.png",
-     "type": "general"
+     "anchor": "SxJI",
+     "img": "Christmas_Island_License_Plate.png"
     },
     {
      "cat": "region",
-     "text": "Famous for **red crabs** (trekker among hundreds near Ethel Beach; crab references on signs); harbour recognisable by large **cranes**",
+     "type": "general",
+     "text": "Built-up areas in the **northeast**; rest = forest; **boat trekker** along the steep rocky north coast (white deck through the blur); many small **trail trekkers** in dense foliage (occasional beaches/lookouts)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "xSfX",
-     "img": "Christmas-Island-cranes.png",
-     "type": "general"
+     "anchor": "n2Na",
+     "img": "Christmas-island-urban-areas.png",
+     "imgs": [
+      "Boat_Trekker.png",
+      "Trail_Trekkers.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Spotlights**: Jln Pantai coastal road = trekker instead of the car (no truck bed!); harbour = big **cranes** visible from afar; NE-coast **golf course** (trekker + car); famous **red crabs** — trekker among hundreds near Ethel Beach (+ The Dales, west coast) + crab signs island-wide",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "iIEF",
+     "img": "Christmas-Island-Jin-Pantai-road.png",
+     "imgs": [
+      "Christmas-Island-cranes.png",
+      "Christmas-Island-golf-course.png",
+      "Christmas-Island-red-crabs.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },
