@@ -132,7 +132,7 @@ Format: `- [ ] slug` → check when BOTH captured-complete AND classified.
 - [x] bulgaria · - [x] serbia · - [x] croatia · - [x] slovakia · - [x] slovenia ·
 - [x] lithuania · - [x] latvia · - [x] estonia · - [x] iceland · - [x] albania ·
 - [x] north-macedonia · - [x] montenegro · - [x] luxembourg · - [x] malta · - [x] andorra ·
-- [x] monaco · - [ ] san-marino · - [ ] liechtenstein · - [ ] gibraltar · - [ ] jersey ·
+- [x] monaco · - [x] san-marino · - [ ] liechtenstein · - [ ] gibraltar · - [ ] jersey ·
 - [ ] isle-of-man · - [ ] faroe-islands · - [ ] madeira · - [ ] azores · - [ ] svalbard
 **N. America:** - [ ] usa · - [ ] canada · - [ ] mexico · - [ ] guatemala · - [ ] costa-rica ·
 - [ ] panama · - [ ] dominican-republic · - [ ] puerto-rico · - [ ] greenland · - [ ] bermuda ·

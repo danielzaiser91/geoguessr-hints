@@ -2246,12 +2246,15 @@ Study: [Plonk It](https://www.plonkit.net/san-marino)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | **Monte Titano** (739 m, with its **three towers**) dominates and is visible from almost every point | [P](https://www.plonkit.net/san-marino) |  |
-| Country | Landscape = smooth **agricultural hills**, many small winding roads, lush Mediterranean vegetation | [P](https://www.plonkit.net/san-marino) |  |
-| Country | Plates **short, white, blue lettering** (most European plates are longer w/ blue strips) | [P](https://www.plonkit.net/san-marino) |  |
-| Country | Road signs, bollards & poles **identical to Italy's**; many signs point to nearby **Rimini** (Italy) | [P](https://www.plonkit.net/san-marino) |  |
-| Country | The only country with **yellow chevrons + burgundy-red arrows**; elaborate blue-painted crosswalks w/ hanging signs | [P](https://www.plonkit.net/san-marino) |  |
-| Country | **Lime-green bins** common (some now black in Gen4); Superstrada = the only divided road; historic centre = Gen3 trekker | [P](https://www.plonkit.net/san-marino) |  |
+| Country | **Monte Titano** (739 m) dominates the landscape, visible from almost everywhere — look for the **three towers** to confirm | [P](https://www.plonkit.net/san-marino) |  |
+| Country | Landscape: smooth **agricultural hills**, many small winding roads, lush Mediterranean vegetation | [P](https://www.plonkit.net/san-marino) |  |
+| Country | Plates **short, white, blue lettering** — most European plates are longer with blue strips | [P](https://www.plonkit.net/san-marino) |  |
+| Country | Road signs & bollards **identical to Italy's**; many signs point to nearby **Rimini**; poles round concrete or wood, like Italy | [P](https://www.plonkit.net/san-marino) |  |
+| Country | The **only country in the world with yellow chevrons + burgundy-red arrows** | [P](https://www.plonkit.net/san-marino) |  |
+| Country | Elaborate pedestrian crossings: **blue-painted crosswalks + hanging signs** — specific to San Marino | [P](https://www.plonkit.net/san-marino) |  |
+| Country | **Lime-green trash bins** particularly common (in Gen4 some replaced by black bins) | [P](https://www.plonkit.net/san-marino) |  |
+| Region | **Superstrada di San Marino** (Dogana → City of San Marino) = the **only divided road** in the country, lanes separated by metal guardrail | [P](https://www.plonkit.net/san-marino) |  |
+| Special | The **historic centre** is covered by a Gen3 **trekker camera** | [P](https://www.plonkit.net/san-marino) |  |
 
 ## Gibraltar
 Study: [Plonk It](https://www.plonkit.net/gibraltar)

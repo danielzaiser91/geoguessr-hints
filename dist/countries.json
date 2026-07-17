@@ -23843,69 +23843,130 @@
    "hints": [
     {
      "cat": "country",
-     "text": "**Monte Titano** (739 m, with its **three towers**) dominates and is visible from almost every point",
+     "type": "landscape",
+     "text": "**Monte Titano** (739 m) dominates the landscape, visible from almost everywhere — look for the **three towers** to confirm",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "nbvK",
      "img": "San_Marino_Monte_Titano.png",
-     "type": "landscape"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Landscape = smooth **agricultural hills**, many small winding roads, lush Mediterranean vegetation",
+     "type": "landscape",
+     "text": "Landscape: smooth **agricultural hills**, many small winding roads, lush Mediterranean vegetation",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Fpf0",
      "img": "San_Marino_Landscape.png",
-     "type": "landscape"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "italy",
+       "note": "Indistinguishable from the surrounding Emilia-Romagna/Marche hills.",
+       "diff": "Short white plates + Monte Titano → San Marino."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Plates **short, white, blue lettering** (most European plates are longer w/ blue strips)",
+     "type": "plates",
+     "text": "Plates **short, white, blue lettering** — most European plates are longer with blue strips",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "B9B0",
      "img": "San_Marino_License_Plate.png",
-     "type": "plates"
+     "uniq": "unique*",
+     "uniq_note": "Within an Italian-looking round the short strip-less plates are the giveaway; Italian cars drive through constantly, so check several."
     },
     {
      "cat": "country",
-     "text": "Road signs, bollards & poles **identical to Italy's**; many signs point to nearby **Rimini** (Italy)",
+     "type": "signs",
+     "text": "Road signs & bollards **identical to Italy's**; many signs point to nearby **Rimini**; poles round concrete or wood, like Italy",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "9e8C",
      "img": "San_Marino_Italian_infrastructure.png",
-     "type": "signs"
+     "imgs": [
+      "San_Marino_Poles.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "italy",
+       "note": "Infrastructure is deliberately Italian-standard.",
+       "diff": "Plates + yellow-burgundy chevrons + lime bins → San Marino."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "The only country with **yellow chevrons + burgundy-red arrows**; elaborate blue-painted crosswalks w/ hanging signs",
+     "type": "signs",
+     "text": "The **only country in the world with yellow chevrons + burgundy-red arrows**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "XqN5",
      "img": "San_Marino_Chevron.png",
-     "type": "signs"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "**Lime-green bins** common (some now black in Gen4); Superstrada = the only divided road; historic centre = Gen3 trekker",
+     "type": "markings",
+     "text": "Elaborate pedestrian crossings: **blue-painted crosswalks + hanging signs** — specific to San Marino",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "RCBb",
+     "img": "San_Marino_Pedestrian_Crossing.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "country",
+     "type": "general",
+     "text": "**Lime-green trash bins** particularly common (in Gen4 some replaced by black bins)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "HAjS",
      "img": "San_Marino_Trash_Bins.png",
-     "type": "general"
+     "uniq": "unique*",
+     "uniq_note": "Within the Italy/San Marino border zone the lime bins lean San Marino strongly."
+    },
+    {
+     "cat": "region",
+     "type": "roads",
+     "text": "**Superstrada di San Marino** (Dogana → City of San Marino) = the **only divided road** in the country, lanes separated by metal guardrail",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "7HE9",
+     "img": "San_Marino_divided_road.png",
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "cars",
+     "text": "The **historic centre** is covered by a Gen3 **trekker camera**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "nInM",
+     "img": "Historic_Centre_Trekker.png",
+     "uniq": "unique"
     }
    ]
   },
