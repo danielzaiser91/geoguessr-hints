@@ -79,11 +79,11 @@ Study: [Plonk It](https://www.plonkit.net/tanzania)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Extremely limited coverage: **Gen3 trekkers in Gombe NP**, tripods on **Kilimanjaro**, + car spills on the Kenya border (none on roads / pinpointable) | [P](https://www.plonkit.net/tanzania) |  |
-| Special | **Kilimanjaro tripods**: high-altitude dark grey rock, eternal snow, mountaineers/tents; ethereal motion-blur look | [P](https://www.plonkit.net/tanzania) |  |
-| Special | **Gombe NP trekker**: lowland dense dark jungle (chimps) → savannah trees → bare grassland w/ Lake Tanganyika views | [P](https://www.plonkit.net/tanzania) |  |
-| Special | **Boat trekker** on Lake Tanganyika (olive-green & white boat; the coast is always to your east) — don't confuse with Madagascar's boats | [P](https://www.plonkit.net/tanzania) |  |
-| Special | One more tripod inside **Jane Goodall's house** (Gombe NP) | [P](https://www.plonkit.net/tanzania) |  |
+| Country | Extremely limited coverage: **Gen3 trekkers in Gombe NP** (+1 indoor tripod), tripods on **Kilimanjaro**, and car spill coverage on the Kenya border — nothing pinpointable or on roads → memorise the trekkers | [P](https://www.plonkit.net/tanzania) |  |
+| Special | **Kilimanjaro tripods**: high-altitude dark-grey rock, eternal snow in the distance, sometimes mountaineers & tents; tripod look = motion blur + saturated 'ethereal' colours (tripods exist in other countries too) | [P](https://www.plonkit.net/tanzania) |  |
+| Special | **Gombe NP walking trekker**: lowlands = dense dark jungle (sometimes **chimpanzees**); higher = open savanna-like trees; hilltops = bare grassland w/ views over Lake Tanganyika | [P](https://www.plonkit.net/tanzania) |  |
+| Special | **Lake Tanganyika boat trekker** hugging the coast (coast ALWAYS east): olive-green & white boat w/ pixelated people; forested hills w/ bare grassy tops | [P](https://www.plonkit.net/tanzania) |  |
+| Special | One more tripod **inside Jane Goodall's house** (Gombe NP, next to the trekker coverage) | [P](https://www.plonkit.net/tanzania) |  |
 
 ## Nigeria
 Study: [Plonk It](https://www.plonkit.net/nigeria) · [GeoGuessr map](https://www.geoguessr.com/maps/6294b310ed0f1605632b12b2)

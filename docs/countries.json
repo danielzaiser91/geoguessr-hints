@@ -32568,58 +32568,78 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Extremely limited coverage: **Gen3 trekkers in Gombe NP**, tripods on **Kilimanjaro**, + car spills on the Kenya border (none on roads / pinpointable)",
+     "type": "general",
+     "text": "Extremely limited coverage: **Gen3 trekkers in Gombe NP** (+1 indoor tripod), tripods on **Kilimanjaro**, and car spill coverage on the Kenya border — nothing pinpointable or on roads → memorise the trekkers",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "VyY8",
      "img": "Coverage-map.png",
-     "type": "cars"
+     "super": true
     },
     {
      "cat": "special",
-     "text": "**Kilimanjaro tripods**: high-altitude dark grey rock, eternal snow, mountaineers/tents; ethereal motion-blur look",
+     "type": "cars",
+     "text": "**Kilimanjaro tripods**: high-altitude dark-grey rock, eternal snow in the distance, sometimes mountaineers & tents; tripod look = motion blur + saturated 'ethereal' colours (tripods exist in other countries too)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "JhL0",
      "img": "Mt_kilimanjaro_explainer.png",
-     "type": "general"
+     "imgs": [
+      "Mt_kilimanjaro_comp.png"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "special",
-     "text": "**Gombe NP trekker**: lowland dense dark jungle (chimps) → savannah trees → bare grassland w/ Lake Tanganyika views",
+     "type": "landscape",
+     "text": "**Gombe NP walking trekker**: lowlands = dense dark jungle (sometimes **chimpanzees**); higher = open savanna-like trees; hilltops = bare grassland w/ views over Lake Tanganyika",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "zdnx",
      "img": "Gombe_trekker_chimps.png",
-     "type": "landscape"
+     "imgs": [
+      "Gombe_trekker_savannah_trees.png",
+      "Gombe_trekker_hill_tops.png"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "special",
-     "text": "**Boat trekker** on Lake Tanganyika (olive-green & white boat; the coast is always to your east) — don't confuse with Madagascar's boats",
+     "type": "cars",
+     "text": "**Lake Tanganyika boat trekker** hugging the coast (coast ALWAYS east): olive-green & white boat w/ pixelated people; forested hills w/ bare grassy tops",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "zbUq",
      "img": "Gombe_boat.png",
-     "type": "general"
+     "uniq": "unique*",
+     "uniq_note": "Don't confuse with the Madagascar boat trekkers.",
+     "shared_with": [
+      {
+       "slug": "madagascar",
+       "note": "Madagascar has boat trekkers too.",
+       "diff": "Olive-green boat + coast east → Tanzania."
+      }
+     ]
     },
     {
      "cat": "special",
-     "text": "One more tripod inside **Jane Goodall's house** (Gombe NP)",
+     "type": "general",
+     "text": "One more tripod **inside Jane Goodall's house** (Gombe NP, next to the trekker coverage)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "eCS1",
      "img": "Jane_Goodalls_house.png",
-     "type": "general"
+     "uniq": "unique"
     }
    ]
   },
