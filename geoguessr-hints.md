@@ -2537,20 +2537,32 @@ Study: [Plonk It](https://www.plonkit.net/panama)
 | Region | Coverage sparse on the north coast + east of Panama City; **phone & taxi-plate first digit = region**; David flat, Changuinola bananas, Panama City white high-rises | [P](https://www.plonkit.net/panama) |  |
 
 ## Costa Rica
-Study: [Plonk It](https://www.plonkit.net/costa-rica)
+Study: [Plonk It](https://www.plonkit.net/costa-rica) · [GeoGuessr map](https://www.geoguessr.com/maps/69fd32301b7ce0cfa117e61f)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Gen4 = large white pickup w/ a **front antenna** (Panama's truck is almost always fully blurred; Ecuador's has no antenna) | [P](https://www.plonkit.net/costa-rica) |  |
-| Country | Plates short white w/ blue text → a **light-blue tint** through the blur | [P](https://www.plonkit.net/costa-rica) |  |
-| Country | Lush tropical: rolling hills, agricultural lowlands, **peaky volcanoes down the centre**, dense rainforest | [P](https://www.plonkit.net/costa-rica) |  |
-| Country | Architecture less colonial than Panama: **dark-red sheet-metal / plastic-tile roofs**, pastel concrete, heavily barred windows & fences | [P](https://www.plonkit.net/costa-rica) |  |
-| Country | Spanish; stop sign says **"ALTO"** (Panama = thicker font; rest of Spanish LatAm = "PARE") | [P](https://www.plonkit.net/costa-rica) |  |
-| Country | **Red taxis** are standard (Panama uses yellow taxis) | [P](https://www.plonkit.net/costa-rica) |  |
-| Country | Poles: **long silver insulators**; low crossbar w/ 2-on-1 insulators + support bars; L-bent thin metal crossbars | [P](https://www.plonkit.net/costa-rica) |  |
-| Country | Utility lamps often have a **blue dot** on top (also PA/CO/BR) | [P](https://www.plonkit.net/costa-rica) |  |
-| Country | Road signs often have a **cross on the back** (esp. diamond warnings); 'bollard' = a vertical **orange board w/ 3 black circles** | [P](https://www.plonkit.net/costa-rica) |  |
-| Region | **Imperial beer** ads (black-eagle mascot); circular electricity counters; **pole stickers** province-specific (first digit); yellow pole-paint style varies by province | [P](https://www.plonkit.net/costa-rica) |  |
+| Country | Gen4 = **large white pickup truck w/ a front antenna**, often fully or partly visible | [P](https://www.plonkit.net/costa-rica) |  |
+| Country | Plates short, white w/ blue text → **light-blue tint** through the blur | [P](https://www.plonkit.net/costa-rica) |  |
+| Country | Lush tropical: rolling hills, agricultural lowlands, **peaky volcanoes through the centre**, dense rainforests dotted around | [P](https://www.plonkit.net/costa-rica) |  |
+| Country | Less colonial than Panama: **dark-red sheet-metal/plastic-tile roofs**, pastel concrete walls, low or boxy 2-storey houses — **heavily fenced & barred** | [P](https://www.plonkit.net/costa-rica) |  |
+| Country | **Spanish** official (Brazil = Portuguese) | [P](https://www.plonkit.net/costa-rica) |  |
+| Country | Stop signs say **'ALTO'** | [P](https://www.plonkit.net/costa-rica) |  |
+| Country | **Red taxis** are the standard | [P](https://www.plonkit.net/costa-rica) |  |
+| Country | **Long silver insulators** on poles | [P](https://www.plonkit.net/costa-rica) |  |
+| Country | Common poletop: even crossbar w/ **uneven insulators (2-on-1)**, crossbar set lower than usual, usually **with support bars**; also single side-insulator at the very top; thin **L-bent metal crossbars** | [P](https://www.plonkit.net/costa-rica) |  |
+| Country | Pole lamps w/ a **blue dot** on top (also PA/CO/BR) | [P](https://www.plonkit.net/costa-rica) |  |
+| Country | Road signs often have a **cross on the back** (esp. diamond warnings) | [P](https://www.plonkit.net/costa-rica) |  |
+| Country | 'Bollard' = vertical **orange board w/ 3 black circles** | [P](https://www.plonkit.net/costa-rica) |  |
+| Country | Electricity counters **circular, often w/ a big metal box** beside them (circular also in Mexico etc.) | [P](https://www.plonkit.net/costa-rica) |  |
+| Country | **Imperial beer ads** w/ the black eagle mascot everywhere | [P](https://www.plonkit.net/costa-rica) |  |
+| Region | **Provinces** appear on signs + have their own flags; area codes moderately useful | [P](https://www.plonkit.net/costa-rica) |  |
+| Region | **Pole-marking metas**: | [P](https://www.plonkit.net/costa-rica) |  |
+| Region | **Landscape & crops**: | [P](https://www.plonkit.net/costa-rica) |  |
+| Region | Taxis carry **yellow triangles w/ town name + province letter code**; driftwood-branch fences → west; irrigation canals → south of Bagaces/Cañas; stilt houses → NE coast; folded-down car antenna → north/NE | [P](https://www.plonkit.net/costa-rica) |  |
+| City | **San José**: biggest urban area, valley w/ inclined roads, taller buildings; municipality-wide **green street signs w/ white emblem rectangle** — Calle/Avenida numbers increase outward from downtown | [P](https://www.plonkit.net/costa-rica) |  |
+| Special | **Road spotlights**: few train tracks (GMA → Puntarenas west; via Turrialba → Siquirres/Limón east); only concrete highways = eastern RN 18 + divided RN 1 Liberia↔RN 18; RN 32 (RN 4→Limón) = divided through flat lush lowlands, w/ **yellow centre bollards** between toll & RN 4; yellow follow-car w/ 2 front windows → RN 2 east of Palmar Norte; wind turbines → Guanacaste clusters + SW of Cartago; bright-white soil roads → north of Liberia; night coverage → San Vito; tuk-tuks → Puerto Viejo de Talamanca (+ Nosara) | [P](https://www.plonkit.net/costa-rica) |  |
+| Special | **Rainbolt coverage**: Rainbolt / film crew on a black Toyota around **La Fortuna**; his Gen4 trekker (brown hair, camera crew, stair trail → waterfall) SW of La Fortuna; another tropical-trail trekker (black-haired) in Mistico Park west of La Fortuna | [P](https://www.plonkit.net/costa-rica) |  |
+| Special | **Gen3 = trekkers only**: around San José + NW coast beaches, Cocos Island (500 km offshore) + Caño Island boat. Pinpointable ones incl. Children's Museum (castle look), National Museum tower, orange bridge at Parque de la Paz, La Sabana/National Stadium, University of CR, Palacio de los Deportes (Heredia), airport walk, 3 dogs in pine forest (Bosque de la Hoja), Cartago museum/ruins/stadium, Punta Leona resort (Turkish-style red bricks), Liberia white building, Filadelfia L-shaped bricks | [P](https://www.plonkit.net/costa-rica) |  |
 
 ## Dominican Republic
 Study: [Plonk It](https://www.plonkit.net/dominican-republic)
