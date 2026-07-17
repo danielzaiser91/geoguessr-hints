@@ -3085,7 +3085,7 @@
    "area_km2": 8515767,
    "links": {
     "plonkit": "https://www.plonkit.net/brazil",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/61df8477a94f5d0001ef9f2c"
    },
    "videos": [
     {
@@ -3101,7 +3101,8 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Plate: white + **blue top stripe** (since 2018); red = commercial",
+     "type": "plates",
+     "text": "Plates: white until 2018, now **white w/ blue top stripe**; red = commercial vehicles",
      "src": [
       "plonkit"
      ],
@@ -3111,212 +3112,482 @@
     },
     {
      "cat": "country",
-     "text": "**Portuguese**: -ão (not -ón), -nh (not -ñ), -lh (not -ll)",
+     "type": "language",
+     "text": "**Portuguese** (not Spanish): **-ão** instead of -ón, **-ch/-lh** instead of -ll, **-nh** instead of -ñ",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "nX3d",
-     "img": "Portuguese.png"
+     "img": "Portuguese.png",
+     "uniq": "unique*",
+     "uniq_note": "Within the Americas only Brazil speaks Portuguese."
     },
     {
      "cat": "country",
-     "text": "**Red soil** across most of the country (not NE, not most of Rio Grande do Sul)",
+     "type": "landscape",
+     "text": "**Distinctly red soil** in most of the country — light pink (Mato Grosso) to deep maroon (Paraná river); NOT red in the northeast or most of Rio Grande do Sul",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "oNlC",
      "img": "soil.png",
-     "type": "landscape"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "argentina",
+       "note": "Misiones province has deep red soil too.",
+       "diff": "Spanish + black-on-yellow chevrons → Argentina."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "\"Ladder\" poles: rectangular, small holes near top (also Paraguay)",
+     "type": "utility",
+     "text": "Most common poles look like a **ladder at the bottom**: rectangular, long segments below, small holes near the top",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "YM9a",
      "img": "ladders.png",
-     "type": "utility"
+     "uniq": "unique*",
+     "uniq_note": "Paraguay uses similar ladder poles — Portuguese vs Spanish decides."
     },
     {
      "cat": "country",
-     "text": "Road-sign backs painted **black** (also Paraguay)",
+     "type": "signs",
+     "text": "Sign backs mostly **painted black** (also common in Paraguay); **blue road markers** w/ road number + km on roadsides",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "dpxG",
      "img": "Black_sign_back.png",
-     "type": "signs"
+     "imgs": [
+      "blue.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Chevrons **yellow-on-black** (rest of S. America uses black-on-yellow)",
+     "type": "signs",
+     "text": "Chevrons **yellow-on-black**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "N06x",
      "img": "Untitled_design32.png",
-     "type": "signs"
+     "uniq": "unique*",
+     "uniq_note": "Most of South America uses the inverted black-on-yellow."
     },
     {
      "cat": "country",
-     "text": "Roads: double yellow centre + white outer lines; white painted kerbs common",
+     "type": "markings",
+     "text": "Usually **double yellow middle + white outer lines** (occasionally single dashed yellow); **white-painted kerbs** frequent",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "2B6I",
      "img": "doubleyellow.png",
-     "type": "markings"
+     "imgs": [
+      "whitekerbs.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Transparent satellite dishes (unique in Latin America); blue Fortlev roof water tanks",
+     "type": "arch",
+     "text": "Many houses w/ **orange tiled roofs**; **blue Fortlev water tanks** on roofs; **transparent satellite dishes** (within LatAm generally Brazil-only)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "Cwjn",
-     "img": "transparentdish.png",
-     "type": "utility"
+     "anchor": "rdVZ",
+     "img": "redtile.png",
+     "imgs": [
+      "watertanks.png",
+      "transparentdish.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "The transparent dish is the strong tell; tanks/roofs support it."
     },
     {
      "cat": "country",
-     "text": "Gen3 car: white, stubby antenna w/ diagonal coil (also EC/CO/MX); smallcam exists (only BR/PE/AR in S. America)",
+     "type": "cars",
+     "text": "Gen3: white car w/ **stubby coiled antenna** OR white car w/ no antenna (often only the antenna or nothing visible); Gen4 cars w/ visible front: **blue**, **white w/ blue stripe**, or **white**; smallcam exists (in S. America only Brazil, Peru, Argentina)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "y0J7",
      "img": "gen3.png",
-     "type": "cars"
+     "imgs": [
+      "gen4.png",
+      "Smallcam_Brazil.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "ecuador",
+       "note": "Stubby coiled antenna also there.",
+       "diff": "Portuguese → Brazil."
+      },
+      {
+       "slug": "colombia",
+       "note": "Same antenna type.",
+       "diff": "Portuguese → Brazil."
+      },
+      {
+       "slug": "mexico",
+       "note": "Same antenna type.",
+       "diff": "Continent context decides."
+      }
+     ]
     },
     {
      "cat": "region",
-     "text": "Coverage mostly eastern half; Amazon very sparse",
+     "type": "general",
+     "text": "Coverage concentrated in the **eastern half**; Amazon very sparse — build a mental map of the few western roads",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "YNbb",
      "img": "br_coverage.png",
-     "type": "general"
+     "super": true
     },
     {
      "cat": "region",
-     "text": "NE = Caatinga: dry soil, shrubs, succulents",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "cZMu",
-     "img": "caatinga.png",
-     "type": "landscape"
-    },
-    {
-     "cat": "region",
-     "text": "Paraná pines (araucaria, flat-top branches) → south: PR, SC, RS",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "JlDz",
-     "img": "paranapine.png",
-     "type": "landscape"
-    },
-    {
-     "cat": "region",
-     "text": "Carnaúba palms (fan leaves, spiked lower trunk) → CE, PI, RN",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "X9sq",
-     "img": "Carnauba_2.png",
-     "type": "landscape"
-    },
-    {
-     "super": true,
-     "cat": "state",
-     "text": "Area codes (DDD) grouped by 1st digit; ending in **1** = state capital",
+     "type": "naming",
+     "text": "**Area codes (DDD)** in parentheses, grouped by first digit; codes ending in **1 = major city/state capital**; numbers w/o code: 8 digits landline / 9 mobile",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "otjB",
      "img": "Brasil_-_C_C3_B3digos_de__C3_A1rea_DDD.png",
-     "type": "naming"
+     "super": true
     },
     {
-     "cat": "state",
-     "text": "2-letter state acronyms on km markers / state road numbers",
+     "cat": "region",
+     "type": "naming",
+     "text": "**2-letter state acronyms** on state-road numbers (km markers etc.) — learnable by heart; **CEP postcodes** on street signs: first 2 digits run **anti-clockwise from São Paulo** to Rio Grande do Sul",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "avhC",
      "img": "State_acronyms.png",
-     "type": "naming"
+     "imgs": [
+      "cepcodes.png"
+     ],
+     "super": true
     },
     {
-     "cat": "state",
-     "text": "CEP postcode first 2 digits: numbering runs anti-clockwise from São Paulo → ends Rio Grande do Sul",
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Landscape by region**:",
+     "bullets": [
+      "Elevation: highest near the SE coast (map)",
+      "Northeast = Caatinga: dry soil, shrubs, succulents (deceptively green in rainy season)",
+      "Amazon: dense rainforest or grassy hills w/ sparse trees; few roads",
+      "Acre: small grass hills, roads RIDE the hills (also near Marabá, Pará)",
+      "Roraima: open grassy plains + big distant mountains; thin bunched grass",
+      "Rio Grande do Sul: lush green fields, hilly or flat (south resembles Uruguay)",
+      "MG/RJ/ES: rolling grassy hills; ES + surroundings: big exposed-rock mountains"
+     ],
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "sjAl",
-     "img": "cepcodes.png",
-     "type": "naming"
+     "anchor": "3jxg",
+     "img": "Brazil_topo.png",
+     "imgs": [
+      "caatinga.png",
+      "amazon.png",
+      "acre.png",
+      "roraima.png",
+      "rgds.png",
+      "hills.png",
+      "exposed_rock_mountains.png"
+     ],
+     "super": true
     },
     {
-     "cat": "state",
-     "text": "Round concrete poles → south (esp. São Paulo); wooden poles → RS, Roraima, Amazonas, RJ",
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Flora**:",
+     "bullets": [
+      "Paraná pines (long horizontal branches, leaves only at the tips): PR, SC, RS",
+      "Coconut palms: NE states + coast",
+      "Carnaúba palms (fan leaves, spiked lower trunk): CE, PI, RN (+ Xique Xique, BA)",
+      "Babassu palms (long robust leaves): Amazon",
+      "Açaí palms (drooping leaflets, very thin trunks): around Belém/Amazon",
+      "Moriche palms (rounded fans, dead leaves drooping): RR, AM, TO, GO",
+      "Macaw palms (thin leaves, spear top): MS, N-TO, around Belo Horizonte — use multiple trees",
+      "Long-stemmed leafy plants: CE, RN, PB",
+      "Very tall grass: TO, GO, BA, MG"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "JlDz",
+     "img": "paranapine.png",
+     "imgs": [
+      "coconut.png",
+      "Carnauba_2.png",
+      "babassu.png",
+      "acai.png",
+      "Moriche_2.png",
+      "macaw_palm2.png",
+      "longstems.png",
+      "tocantins_grass.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Agriculture**: eucalyptus plantations everywhere (esp. south + Amapá); sugarcane → São Paulo by far (+ PR, MS, NE coast); soybeans → MT, PR, GO; coffee → Minas Gerais (+ ES, NE-SP)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Dz8D",
+     "img": "trees2.png",
+     "imgs": [
+      "brazil_sugarcane2.png",
+      "soybeanas.png",
+      "coffee.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "utility",
+     "text": "**Pole types & IDs by state**:",
+     "bullets": [
+      "Round concrete poles: south, esp. São Paulo (+ big-city centres everywhere)",
+      "Wooden poles: RS, Roraima, Amazonas, RJ",
+      "Crossbar supports common (rare in the NE); single support → TO, SC, MG",
+      "Yellow paint ID starting w/ a LETTER → BA & PE; starting w/ a NUMBER → GO",
+      "Small yellow/orange plate on thin ties → RN & PE (higher up in PE)",
+      "Black paint + yellow/white text → Paraná",
+      "Beige plate built into the pole → MA (rarer PA/PI)",
+      "Street name painted on poles at intersections → Paraná (spills into SC/RS)",
+      "Asymmetric crossbar + support to the long side → SP (also RS, RJ, MS)",
+      "Asymmetric crossbar w/o supports → only CE (concrete) & RO (metal, rare)",
+      "Zigzag top bar on flat crossbar → only CE & RR",
+      "'Pencil poles' (smooth cone top) → RJ (rare Brasília/Manaus)",
+      "Γ-shaped poles w/ electricity box → RJ + Belém/Salvador/Fortaleza/Maceió",
+      "Electricity counters ON poles → Cuiabá, Macapá, PA cities",
+      "1 top insulator + alternating horizontals → MT + S-Acre"
+     ],
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "ySa0",
      "img": "Brazil_Round_Poles_2.png",
-     "type": "utility"
-    },
-    {
-     "cat": "state",
-     "area": "Roraima",
-     "text": "Open grassy plains, distant mountains, thin bunched grass",
-     "src": [
-      "plonkit"
+     "imgs": [
+      "Brazil_Pole_Wooden.png",
+      "br_polesupport.png",
+      "Brazil_Single_support.png",
+      "BA_and_PE_Code.png",
+      "GO_code.png",
+      "RN_code.png",
+      "Parana_pole_paint_id.png",
+      "ma_pole_code_2.png",
+      "Parana_streets.png",
+      "br_saopaulopoletop.png",
+      "br_cearapoletop.png",
+      "br_ceararoraimapole.png",
+      "br_riopencilpole.png",
+      "br_gammabox.png",
+      "br_counteronpole.png",
+      "mtacpole.png"
      ],
-     "sv": null,
-     "anchor": "rQrQ",
-     "img": "roraima.png"
+     "super": true
     },
     {
-     "cat": "special",
-     "text": "\"Brown mushroom\" insulators → only Pernambuco; \"white mushroom\" → Bahia",
+     "cat": "region",
+     "type": "utility",
+     "text": "**Insulators by state**:",
+     "bullets": [
+      "Brown mushrooms → only Pernambuco",
+      "White mushrooms → Bahia (rare Brasília)",
+      "Transparent → Alagoas + Santa Catarina (rare SE/CE/DF)",
+      "Thread-spool shape → RJ & ES (seen in CE)",
+      "Uniquely long & thin → Ceará (rare GO)",
+      "Horizontal insulators → Pará (less MT; rare AC/AP/TO/SC/RS)",
+      "Long grey → PA, MT, TO, BA, MS, PR, SC",
+      "Black double-UFO trident → Maranhão configuration",
+      "'Lollipop' (sphere on a rod) → RN, PB, PE (rare SE)",
+      "Dark brown w/ grey base → SC & RS"
+     ],
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "vAH9",
      "img": "brown_mushroom.png",
-     "type": "utility"
+     "imgs": [
+      "ba_insulators.png",
+      "transparent1.png",
+      "thread.png",
+      "skinny.png",
+      "para_pole.png",
+      "longinsulators.png",
+      "mainsulators.png",
+      "lollipop.png",
+      "dark.png"
+     ],
+     "super": true
     },
     {
-     "cat": "special",
-     "text": "\"Pencil pole\" (smooth cone top) → Rio de Janeiro; pole street-names painted → Paraná",
+     "cat": "region",
+     "type": "utility",
+     "text": "**Lamps & misc**: concrete trash baskets → AC/RO (metal elsewhere); two-part lamps → MG/GO; arm-less fancy lamps → NW-Paraná; lamp arm attached directly to pole → MT/MS/PA/AP/RN/PE/SC; Roraima lamp colours: red = Boa Vista/Normandia/Mucajaí, blue = Rorainópolis, green = Pacaraima/Iracema, yellow = Caracaraí; colourful ornate lamp arms (often w/ town name) → Ceará; **João-de-Barro nests** (mud spheres on poles) → south",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "CZb8",
-     "img": "br_riopencilpole.png",
-     "type": "utility"
+     "anchor": "XAyk",
+     "img": "concrete_bins.png",
+     "imgs": [
+      "br_twopartlamp.png",
+      "PRLamps2.png",
+      "br_mtmslamps.png",
+      "roraima_lamps.png",
+      "ceara_lamps.png",
+      "joao.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "roads",
+     "text": "**Roads**: São Paulo has by far the most divided highways (+ phone numbers under km markers); cobblestone → NE + RS; hexagonal concrete tiles → SC & MG; red-brick roads → Acre; random-stone cobble → SE-RS & MG; uneven square stones + dark soil → W-RS/W-SC (same in Misiones, AR); brown-tile pavements → RS; red roadside gravel → Piauí (caution)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "BAUZ",
+     "img": "brazil_highways.png",
+     "imgs": [
+      "SPphone.png",
+      "NEroads.png",
+      "scroads.png",
+      "acreroad.png",
+      "anarchy.png",
+      "unevensquare.png",
+      "rgds_pavement.png",
+      "piauiroad.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "arch",
+     "text": "**Architecture**: European (vaguely German) style → SC & the south; wooden stilt houses → Acre (rarer low-lying AM/PA)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "kfSE",
+     "img": "european.png",
+     "imgs": [
+      "houses.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "cars",
+     "text": "**Amapá**: ALL Gen4 has a **smudge front-right** + always the white car w/ blue stripe; Gen3 **rifts → Alagoas**; NW-RS has a distinct Gen3 camera glitch",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "6VbT",
+     "img": "amapasmudge.png",
+     "imgs": [
+      "alagoas.png",
+      "rgds_glitch.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "roads",
+     "text": "**Recognisable roads**: BR-364 (Acre) = rollercoaster road riding the hills, no traffic, blue Gen4 car; BR-319 (Amazonas) = lush flat mostly-unpaved Amazon road w/ bright orange soil + poles all along; BR-163 (Pará) = hilly, curvy, dry/hazy, truck traffic (blue car north, smallcam south)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "vMha",
+     "img": "acre364.png",
+     "imgs": [
+      "amazon319.png",
+      "para163.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Landscape spotlights**: Uiramutã (N-Roraima) = dry mountains w/ distinctive 'folds'; coastal RS = rare flat wetland",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "BSvK",
+     "img": "roraimafolded.png",
+     "imgs": [
+      "coastalrgds.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "city",
+     "type": "utility",
+     "text": "**City metas**: SP yellow square pole ID (3 municipality letters + numbers); wrapped sticker street signs → Campo Grande (w/ red-yellow stripe) & Joinville; fully-curved lamp arms → Rio de Janeiro; blue lamps w/ orange arm → Teresina; orange lamp heads → Belém; light-green lamps + multi-counter poles → Cuiabá; white numbered lamp plaques → Belo Horizonte (0/1) & Uberaba (1/2); zigzag pole + yellow head → Caxias do Sul; poles white w/ blue+red stripes → Florianópolis",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "MfEn",
+     "img": "saopauloyellow.png",
+     "imgs": [
+      "pole_wrapped.png",
+      "riocurved.png",
+      "teresina.png",
+      "belemorange.png",
+      "cuiaba.png",
+      "belouber.png",
+      "caxiaslamps.png",
+      "florianopolis.png"
+     ],
+     "super": true,
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "cars",
+     "text": "**Trekkers & unique cars**: Amazon boat+walking trekker on the Madeira/Aripuanã rivers (rainforest + villages); Lençóis Maranhenses NP = sand dunes w/ water pools, white truck w/ black bed; **Fernando de Noronha** (340 km offshore): white buggy visible at the front, big exposed rocks + boat coverage",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "GV3p",
+     "img": "boat.png",
+     "imgs": [
+      "maranhaopark.png",
+      "ilha.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },

@@ -2682,30 +2682,35 @@ Study: [Plonk It](https://www.plonkit.net/bermuda)
 # South America
 
 ## Brazil
-Study: [Plonk It](https://www.plonkit.net/brazil)
+Study: [Plonk It](https://www.plonkit.net/brazil) · [GeoGuessr map](https://www.geoguessr.com/maps/61df8477a94f5d0001ef9f2c)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plate: white + **blue top stripe** (since 2018); red = commercial | [P](https://www.plonkit.net/brazil) |  |
-| Country | **Portuguese**: -ão (not -ón), -nh (not -ñ), -lh (not -ll) | [P](https://www.plonkit.net/brazil) |  |
-| Country | **Red soil** across most of the country (not NE, not most of Rio Grande do Sul) | [P](https://www.plonkit.net/brazil) |  |
-| Country | "Ladder" poles: rectangular, small holes near top (also Paraguay) | [P](https://www.plonkit.net/brazil) |  |
-| Country | Road-sign backs painted **black** (also Paraguay) | [P](https://www.plonkit.net/brazil) |  |
-| Country | Chevrons **yellow-on-black** (rest of S. America uses black-on-yellow) | [P](https://www.plonkit.net/brazil) |  |
-| Country | Roads: double yellow centre + white outer lines; white painted kerbs common | [P](https://www.plonkit.net/brazil) |  |
-| Country | Transparent satellite dishes (unique in Latin America); blue Fortlev roof water tanks | [P](https://www.plonkit.net/brazil) |  |
-| Country | Gen3 car: white, stubby antenna w/ diagonal coil (also EC/CO/MX); smallcam exists (only BR/PE/AR in S. America) | [P](https://www.plonkit.net/brazil) |  |
-| Region | Coverage mostly eastern half; Amazon very sparse | [P](https://www.plonkit.net/brazil) |  |
-| Region | NE = Caatinga: dry soil, shrubs, succulents | [P](https://www.plonkit.net/brazil) |  |
-| Region | Paraná pines (araucaria, flat-top branches) → south: PR, SC, RS | [P](https://www.plonkit.net/brazil) |  |
-| Region | Carnaúba palms (fan leaves, spiked lower trunk) → CE, PI, RN | [P](https://www.plonkit.net/brazil) |  |
-| State | Area codes (DDD) grouped by 1st digit; ending in **1** = state capital | [P](https://www.plonkit.net/brazil) |  |
-| State | 2-letter state acronyms on km markers / state road numbers | [P](https://www.plonkit.net/brazil) |  |
-| State | CEP postcode first 2 digits: numbering runs anti-clockwise from São Paulo → ends Rio Grande do Sul | [P](https://www.plonkit.net/brazil) |  |
-| State | Round concrete poles → south (esp. São Paulo); wooden poles → RS, Roraima, Amazonas, RJ | [P](https://www.plonkit.net/brazil) |  |
-| State | Open grassy plains, distant mountains, thin bunched grass | [P](https://www.plonkit.net/brazil) |  |
-| Special | "Brown mushroom" insulators → only Pernambuco; "white mushroom" → Bahia | [P](https://www.plonkit.net/brazil) |  |
-| Special | "Pencil pole" (smooth cone top) → Rio de Janeiro; pole street-names painted → Paraná | [P](https://www.plonkit.net/brazil) |  |
+| Country | Plates: white until 2018, now **white w/ blue top stripe**; red = commercial vehicles | [P](https://www.plonkit.net/brazil) |  |
+| Country | **Portuguese** (not Spanish): **-ão** instead of -ón, **-ch/-lh** instead of -ll, **-nh** instead of -ñ | [P](https://www.plonkit.net/brazil) |  |
+| Country | **Distinctly red soil** in most of the country — light pink (Mato Grosso) to deep maroon (Paraná river); NOT red in the northeast or most of Rio Grande do Sul | [P](https://www.plonkit.net/brazil) |  |
+| Country | Most common poles look like a **ladder at the bottom**: rectangular, long segments below, small holes near the top | [P](https://www.plonkit.net/brazil) |  |
+| Country | Sign backs mostly **painted black** (also common in Paraguay); **blue road markers** w/ road number + km on roadsides | [P](https://www.plonkit.net/brazil) |  |
+| Country | Chevrons **yellow-on-black** | [P](https://www.plonkit.net/brazil) |  |
+| Country | Usually **double yellow middle + white outer lines** (occasionally single dashed yellow); **white-painted kerbs** frequent | [P](https://www.plonkit.net/brazil) |  |
+| Country | Many houses w/ **orange tiled roofs**; **blue Fortlev water tanks** on roofs; **transparent satellite dishes** (within LatAm generally Brazil-only) | [P](https://www.plonkit.net/brazil) |  |
+| Country | Gen3: white car w/ **stubby coiled antenna** OR white car w/ no antenna (often only the antenna or nothing visible); Gen4 cars w/ visible front: **blue**, **white w/ blue stripe**, or **white**; smallcam exists (in S. America only Brazil, Peru, Argentina) | [P](https://www.plonkit.net/brazil) |  |
+| Region | Coverage concentrated in the **eastern half**; Amazon very sparse — build a mental map of the few western roads | [P](https://www.plonkit.net/brazil) |  |
+| Region | **Area codes (DDD)** in parentheses, grouped by first digit; codes ending in **1 = major city/state capital**; numbers w/o code: 8 digits landline / 9 mobile | [P](https://www.plonkit.net/brazil) |  |
+| Region | **2-letter state acronyms** on state-road numbers (km markers etc.) — learnable by heart; **CEP postcodes** on street signs: first 2 digits run **anti-clockwise from São Paulo** to Rio Grande do Sul | [P](https://www.plonkit.net/brazil) |  |
+| Region | **Landscape by region**: | [P](https://www.plonkit.net/brazil) |  |
+| Region | **Flora**: | [P](https://www.plonkit.net/brazil) |  |
+| Region | **Agriculture**: eucalyptus plantations everywhere (esp. south + Amapá); sugarcane → São Paulo by far (+ PR, MS, NE coast); soybeans → MT, PR, GO; coffee → Minas Gerais (+ ES, NE-SP) | [P](https://www.plonkit.net/brazil) |  |
+| Region | **Pole types & IDs by state**: | [P](https://www.plonkit.net/brazil) |  |
+| Region | **Insulators by state**: | [P](https://www.plonkit.net/brazil) |  |
+| Region | **Lamps & misc**: concrete trash baskets → AC/RO (metal elsewhere); two-part lamps → MG/GO; arm-less fancy lamps → NW-Paraná; lamp arm attached directly to pole → MT/MS/PA/AP/RN/PE/SC; Roraima lamp colours: red = Boa Vista/Normandia/Mucajaí, blue = Rorainópolis, green = Pacaraima/Iracema, yellow = Caracaraí; colourful ornate lamp arms (often w/ town name) → Ceará; **João-de-Barro nests** (mud spheres on poles) → south | [P](https://www.plonkit.net/brazil) |  |
+| Region | **Roads**: São Paulo has by far the most divided highways (+ phone numbers under km markers); cobblestone → NE + RS; hexagonal concrete tiles → SC & MG; red-brick roads → Acre; random-stone cobble → SE-RS & MG; uneven square stones + dark soil → W-RS/W-SC (same in Misiones, AR); brown-tile pavements → RS; red roadside gravel → Piauí (caution) | [P](https://www.plonkit.net/brazil) |  |
+| Region | **Architecture**: European (vaguely German) style → SC & the south; wooden stilt houses → Acre (rarer low-lying AM/PA) | [P](https://www.plonkit.net/brazil) |  |
+| Region | **Amapá**: ALL Gen4 has a **smudge front-right** + always the white car w/ blue stripe; Gen3 **rifts → Alagoas**; NW-RS has a distinct Gen3 camera glitch | [P](https://www.plonkit.net/brazil) |  |
+| City | **City metas**: SP yellow square pole ID (3 municipality letters + numbers); wrapped sticker street signs → Campo Grande (w/ red-yellow stripe) & Joinville; fully-curved lamp arms → Rio de Janeiro; blue lamps w/ orange arm → Teresina; orange lamp heads → Belém; light-green lamps + multi-counter poles → Cuiabá; white numbered lamp plaques → Belo Horizonte (0/1) & Uberaba (1/2); zigzag pole + yellow head → Caxias do Sul; poles white w/ blue+red stripes → Florianópolis | [P](https://www.plonkit.net/brazil) |  |
+| Special | **Recognisable roads**: BR-364 (Acre) = rollercoaster road riding the hills, no traffic, blue Gen4 car; BR-319 (Amazonas) = lush flat mostly-unpaved Amazon road w/ bright orange soil + poles all along; BR-163 (Pará) = hilly, curvy, dry/hazy, truck traffic (blue car north, smallcam south) | [P](https://www.plonkit.net/brazil) |  |
+| Special | **Landscape spotlights**: Uiramutã (N-Roraima) = dry mountains w/ distinctive 'folds'; coastal RS = rare flat wetland | [P](https://www.plonkit.net/brazil) |  |
+| Special | **Trekkers & unique cars**: Amazon boat+walking trekker on the Madeira/Aripuanã rivers (rainforest + villages); Lençóis Maranhenses NP = sand dunes w/ water pools, white truck w/ black bed; **Fernando de Noronha** (340 km offshore): white buggy visible at the front, big exposed rocks + boat coverage | [P](https://www.plonkit.net/brazil) |  |
 
 ## Argentina
 Study: [Plonk It](https://www.plonkit.net/argentina)
