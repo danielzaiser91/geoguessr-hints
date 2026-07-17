@@ -1372,21 +1372,39 @@ Study: [Plonk It](https://www.plonkit.net/spain) · [GeoGuessr map](https://www.
 | Special | **Spotlights**: N-Castilla-La-Mancha = early-spring dirt roads, green fields + leafless vineyards on red soil (Gen3; similar Gen4 further south); AP-15 (Navarra) = flat bollards w/ square red reflector + red guardrail reflectors; **Ebro delta** = dead-flat rice + canals, mountains S/W/N; El Ejido (Almería↔Motril) = white-roof greenhouse sea; Doñana NP = rare unique car | [P](https://www.plonkit.net/spain) |  |
 
 ## Sweden
-Study: [Plonk It](https://www.plonkit.net/sweden)
+Study: [Plonk It](https://www.plonkit.net/sweden) · [GeoGuessr map](https://www.geoguessr.com/maps/63161cf3f3120c7c32110ae4)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Swedish: **Å Ä Ö** (Danish/Norwegian have only Å; Finnish has Ä Ö + long double-vowel words) | [P](https://www.plonkit.net/sweden) |  |
-| Country | **All road lines white** (Norway & Finland use yellow); highway outer line split into sectioned pattern | [P](https://www.plonkit.net/sweden) |  |
-| Country | Road signs = red border + **yellow background**; **chevrons = yellow arrows on blue** (only Sweden in Europe) | [P](https://www.plonkit.net/sweden) |  |
-| Country | Lots of **red+yellow** infrastructure (roadwork, signpost stripes) — distinctive to Sweden | [P](https://www.plonkit.net/sweden) |  |
-| Country | Bollards black+white (orange reflector at intersections); wooden poles w/ small **black cap on top** (Nordic) | [P](https://www.plonkit.net/sweden) |  |
-| Country | Pedestrian sign **4 stripes** (Finland/Denmark = 5); blue signs with a large white **M** on small roads | [P](https://www.plonkit.net/sweden) |  |
-| Country | Street suffixes **vägen / gatan** (v / g); dark-red painted wooden countryside houses (Nordic) | [P](https://www.plonkit.net/sweden) |  |
-| Country | **Volvo ≈ 30% of cars**; Swedish church flag (yellow, red cross, crown) near churches | [P](https://www.plonkit.net/sweden) |  |
-| Country | Gen4 cars: red / white / blue (only the blue one appears in NO/FI/DK); Gen3 white car long antenna | [P](https://www.plonkit.net/sweden) |  |
-| Region | North & west = mountainous w/ long narrow lakes; south & east = flatter; boreal forest + many lakes | [P](https://www.plonkit.net/sweden) |  |
-| Region | Snow poles orange w/ reflector above middle (Finland's is thinner, near the top) | [P](https://www.plonkit.net/sweden) |  |
+| Country | Plates long white + EU strip; **taxis = yellow plates** | [P](https://www.plonkit.net/sweden) |  |
+| Country | **Swedish: Å Ä Ö** | [P](https://www.plonkit.net/sweden) |  |
+| Country | **All lines white**: small roads = short dashed outer lines (shorter than Norway's); highways = sectioned 'solid' outer line pattern (Denmark's sections are rectangular) | [P](https://www.plonkit.net/sweden) |  |
+| Country | Bollards black-white w/ **grey reflector** (orange at intersections); wedge, round or thin-curved | [P](https://www.plonkit.net/sweden) |  |
+| Country | Snow poles **orange w/ tall white reflector slightly above the middle** (sometimes a thinner second one above) | [P](https://www.plonkit.net/sweden) |  |
+| Country | Wooden poles w/ small **black metal cap on top** (Nordic-only); lamps mounted slightly **below the top w/ double bolting** (Finland: top-mounted, straighter); wooden **electricity markers w/ blue+white stripe** = Sweden-only in the Nordics | [P](https://www.plonkit.net/sweden) |  |
+| Country | Pedestrian signs **4 stripes** (+female-silhouette version!); FI/DK = 5 stripes, NO = 4 or 5 | [P](https://www.plonkit.net/sweden) |  |
+| Country | Directional signs **blue w/ thin white arrow** or **yellow w/ red border** (tiny places); road signs = **yellow background + red border** (Finland adds a thin yellow outer border); 'M' meeting-place signs (Norway's M font differs) | [P](https://www.plonkit.net/sweden) |  |
+| Country | Chevrons **yellow arrows on blue** — only country in Europe (very rare in Luxembourg); much infra painted **red+yellow** (roadwork signs, blocks, even chevrons); signpost stripes: blue-white (also FI/EE) but **red-yellow/blue-red/white-red ≈ Sweden-only** | [P](https://www.plonkit.net/sweden) |  |
+| Country | Street suffixes **-vägen / -gatan** (short v/g; gränd near centres); Norway: veien/gate attached; Denmark: vej/gade | [P](https://www.plonkit.net/sweden) |  |
+| Country | Countryside: wooden houses in **Falu-red** paint (only SE/NO/FI); urban = modern concrete/brick | [P](https://www.plonkit.net/sweden) |  |
+| Country | Boreal forests, farms, many lakes; N+W mountainous w/ narrow lakes, S+E flatter; traditional **diagonal-stacked wooden fences** (rare in other Nordics) | [P](https://www.plonkit.net/sweden) |  |
+| Country | **Volvo ≈ 30%** of cars (NO/FI ~10%); Swedish **church flag** (red cross on yellow + crown) near churches | [P](https://www.plonkit.net/sweden) |  |
+| Country | Gen3: white car w/ **long antenna** (all Iceland coverage has this too; some Finland); Gen4: **red, white or blue** car (only the blue exists in NO/FI/DK); smallcam | [P](https://www.plonkit.net/sweden) |  |
+| Region | **Vegetation zones**: broadleaf (non-birch) → southern half; ferns → south+centre; treeless mountain tops → NW only; thin weak boreal trees + sandy soil → far north; beech forests → far south; **rock walls** → south + Öland + Gotland tips (church walls everywhere) | [P](https://www.plonkit.net/sweden) |  |
+| Region | **Landscape regions**: west-coast round exposed rocks w/ bushes (Stockholm's are sharper + mossy); Skåne = most open farmland, diverse crops; Mälaren = flat fields w/ tree 'islands'; Väster-/Östergötland = open + **wind turbines**; Halland = flat fields + round forested hills; Umeå–Luleå coast = flat small fields; Jämtland = grass farmland on wide steep hills; High Coast = rocky forest mountains + curvy valleys; Södermanland = fields through small valleys | [P](https://www.plonkit.net/sweden) |  |
+| Region | **Islands**: Gotland = white roadside sand (north + Fårö), wedge-cut fences, limestone houses w/ dirty-white facades, distinct churches; **Öland** = dead-flat, barren bushy south / lusher north, many small rock walls + uneven stone brick, most **windmills** in Sweden; red dirt roads → Dalarna (+Kalmar, Norrbotten/Västerbotten border); grey dirt roads w/ green edges → N-Jämtland; birch rows in northern coastal towns | [P](https://www.plonkit.net/sweden) |  |
+| Region | **Architecture regions**: grey metal roofs → north; Skåne = white-stone/red-brick w/ coloured wooden gable triangles, half-timbered (south Skåne + S-Halland), older red brick (like Denmark), mossy corrugated barn roofs, grey diamond-tiled roofs (+Blekinge/Öland); west coast = light/white-yellow houses (Gothenburg→Norway) + dense red fishing sheds; **Dalarna** = red timber + log portals + härbren; Hälsingland = grand many-windowed red farmhouses; north coast = octagonal/outward-leaning log sheds | [P](https://www.plonkit.net/sweden) |  |
+| Region | **Bus-stop signs & shelters are region-specific** (big learnable infographics; cities have own local variants; neon-yellow school signs → Linköping/Norrköping/Jönköping; Halland stripes on Västra-Götaland stops = Kungsbacka; black shelters w/ square roof ridge = Västerås + Umeå) | [P](https://www.plonkit.net/sweden) |  |
+| Region | **Road numbers**: national 9–99, regional 100–404, increasing to the **northeast**; railway-crossing sign backs: yellow 5-digit sticker, **first digit = region** (NE-increasing; 6 = random); **area codes**: first 2 digits regional (Stockholm = 08), 3rd/4th increase NE; snowmobile-trail red crosses → northern half | [P](https://www.plonkit.net/sweden) |  |
+| Region | **Toponym-ending map** (incl. farmsteads); **Sámi** bilingual signs → inland north; **Meänkieli** (Finnish-like, rivers ending 'väylä') → Finnish border (trilingual w/ Sámi possible) | [P](https://www.plonkit.net/sweden) |  |
+| Region | **Bollard regions**: German-style wedges → south; cylindrical w/ horizontal black section → west coast + Värmland/S-Dalarna; flat (or black-rectangle) → northern major roads; small white w/ blue or red strip → rural Skåne; green snow poles → around Umeå; red roads + thin pines → W-Dalarna | [P](https://www.plonkit.net/sweden) |  |
+| Region | White Google car w/ **blue stripe on the back** → west coast + Skåne (almost never outside Sweden) | [P](https://www.plonkit.net/sweden) |  |
+| City | **Street signs**: Stockholm = two rows split by a black line (suburbs plain white; also rare central Gävle); Gothenburg = unique blue two-liners; Malmö = old white w/ black corners; Ystad = same but yellow; Vellinge = Gothenburg-like but one line; Falköping = plain yellow; Köping = blue w/ thin black outline; 'gattu/gatu' endings → central Dalarna; **Elfdalian** ('-ween/-weg') → Älvdalen only; trams → Gothenburg (+Norrköping, Stockholm, Gen4 Lund) | [P](https://www.plonkit.net/sweden) |  |
+| Special | **North spotlights**: E10 Kiruna→Norway = small birches + snowy mountains + big lake north; road 99 north = grey sandy ground + ditch + low mixed forest; Ritsem road = big lake south + dramatic mountains; the only paved road **above the treeline** = Jämtland/Västerbotten border; highest public (dirt) road = Flatruet (cloudy Gen4 summer); **Kiruna** = staircase-shaped mine mountains; Gällivare = smooth treeless mountain SW | [P](https://www.plonkit.net/sweden) |  |
+| Special | **South spotlights**: Omberg = lone forested ridge west of flat fields; mistletoe → Mälaren/Västerås; Visingsö island in Vättern; orchards → Kivik (+Vånga, Båstad, SE-Vättern); N-Öland coastal road = rocky beach + low bushes; Fårö = dry stony fields w/ junipers; Hoburgen = south-Gotland west-coast road w/ grassy ridge east | [P](https://www.plonkit.net/sweden) |  |
+| Special | **Architecture spotlights**: Walloon-mill factory towns N/E of Uppsala (identical row houses + belfries); blue/green **slag-stone buildings** → Bergslagen; crown-topped brick chimneys → Lake Siljan; **Visby** = Hanseatic cobblestone + bright stone houses + roses + town wall; Gamla Stan Stockholm = warm-coloured old stone over narrow alleys | [P](https://www.plonkit.net/sweden) |  |
+| Special | **Misc spotlights**: 3 yellow stripes on posts → Karlstad (+Stockholm traffic lights); tree-felling ads on poles → Stockholm suburbs; dragon statues → Sundsvall ('Drakstaden'); E4 Umeå→Finland = divided w/ wide ditch, thin birch-pine forest; snow-pole combos near Norway: two wide reflectors close = E12, yellow poles w/ 2 reflectors = road 95, orange+yellow mix = E10 | [P](https://www.plonkit.net/sweden) |  |
+| Special | **Coverage metas**: road 95 W of Arjeplog = Gen4 thawing snow; Umeå = spring Gen4 w/ dirty snow piles (unique among cities); E45 Orsa→Älvros = wet brown-red pavement; Holmön = Gen3 white-antenna car w/ **visual glitch**; Foskrosvägen = red dirt + water smudges (find via 'Reindeer spot point') | [P](https://www.plonkit.net/sweden) |  |
 
 ## Norway
 Study: [Plonk It](https://www.plonkit.net/norway)
@@ -1479,22 +1497,31 @@ Study: [Plonk It](https://www.plonkit.net/finland)
 | Special | City transit: **Helsinki** green-yellow trams + blue/white buses; **Tampere** red trams ('NYSSE' buses); **Turku** yellow buses; **Jyväskylä** green; **Oulu** pink front | [P](https://www.plonkit.net/finland) |  |
 
 ## Poland
-Study: [Plonk It](https://www.plonkit.net/poland)
+Study: [Plonk It](https://www.plonkit.net/poland) · [GeoGuessr map](https://www.geoguessr.com/maps/639012abdb1a28b03ddaf218)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plate: long white + blue strip left (EV = green) | [P](https://www.plonkit.net/poland) |  |
-| Country | Bollard: **red strip wraps all the way around** (red front / white back reflector) | [P](https://www.plonkit.net/poland) |  |
-| Country | **Holey poles** (thin concrete, see-through holes NOT reaching the bottom) — HU/RO ones are wider & holes reach bottom | [P](https://www.plonkit.net/poland) |  |
-| Country | **Warning signs = yellow background + thin red border** (unique in Europe to Poland) | [P](https://www.plonkit.net/poland) |  |
-| Country | Pedestrian sign = **single horizontal line** (Austria/Belgium use two); chevrons white w/ red arrows | [P](https://www.plonkit.net/poland) |  |
-| Country | All-white lines, **double middle lines common**; B-type guardrails w/ round red reflectors | [P](https://www.plonkit.net/poland) |  |
-| Country | Polish: **Ł** (unique), Ń, Ż, Ą/Ę; consonant-heavy, uses **W not V**; direction signs green w/ distinct font | [P](https://www.plonkit.net/poland) |  |
-| Country | Flat & green, tree-lined roads; very Catholic → roadside shrines & Polish Catholic flags | [P](https://www.plonkit.net/poland) |  |
-| Region | South border = hilly/mountainous (Tatras); rest flat; wooden houses → east (Podlaskie) | [P](https://www.plonkit.net/poland) |  |
-| State | Regional roads 3-digit, **first digit = region** (yellow boxes); landline area codes 2-digit, well-clustered | [P](https://www.plonkit.net/poland) |  |
-| State | Place names: **-owo → north, -ów → south** (Kraków is southern), -ino/-yno → NW | [P](https://www.plonkit.net/poland) |  |
-| State | Minority languages: German → Opole; Kashubian → north; Lithuanian → Puńsk | [P](https://www.plonkit.net/poland) |  |
+| Country | Plates long white + blue strip left (EVs = green plates) | [P](https://www.plonkit.net/poland) |  |
+| Country | Bollards: **red strip wrapping all the way around** (red reflector front, white back; sometimes numbered; thin curved version exists) | [P](https://www.plonkit.net/poland) |  |
+| Country | Thin concrete **holey poles** (holes usually NOT reaching the bottom); doubles, A-frames, round concrete | [P](https://www.plonkit.net/poland) |  |
+| Country | All-white lines; **double middle lines** very common — good Poland clue | [P](https://www.plonkit.net/poland) |  |
+| Country | **B-type (square) guardrails with circular red reflectors** — one of very few European countries | [P](https://www.plonkit.net/poland) |  |
+| Country | Warning triangles: **yellow background + thin red border** — unique in Europe; prohibitory = white w/ thick red border | [P](https://www.plonkit.net/poland) |  |
+| Country | Pedestrian sign with a **single horizontal line** instead of zebra stripes | [P](https://www.plonkit.net/poland) |  |
+| Country | Direction signs **green** w/ distinct Polish font (expressways blue); town entry: green name sign + b&w stylised-town sign; chevrons white w/ red arrows | [P](https://www.plonkit.net/poland) |  |
+| Country | **Polish**: Ł (unique), Ą/Ę hooks (also Lithuanian), Ć Ń Ó Ś Ź acutes (Ń unique; Ś/Ź otherwise only Montenegrin), Ż dot (unique); consonant clusters, no V but lots of **W** (only Slavic language), Z/K/C everywhere | [P](https://www.plonkit.net/poland) |  |
+| Country | Generally **flat & green**, agriculture + forests (mountains only near the southern border); many **tree-lined roads** | [P](https://www.plonkit.net/poland) |  |
+| Country | Neatly **tiled sidewalks** (grey/light red, varied patterns) — sometimes even tiled roads | [P](https://www.plonkit.net/poland) |  |
+| Country | Central-European: light/pastel stucco, orange/red/black/brown roofs w/ 'plastic-tidy' tiles; blocky detached homes; communist-era (often renovated) apartment blocks; dense historic downtowns | [P](https://www.plonkit.net/poland) |  |
+| Country | Very Catholic: roadside **Christian shrines** + blue-white/yellow-white Catholic flags | [P](https://www.plonkit.net/poland) |  |
+| Country | Rare Gen4 black or white car (both also elsewhere in Europe) | [P](https://www.plonkit.net/poland) |  |
+| Region | **3-digit regional road numbers cluster by first digit** (yellow boxes on signs; 2-digit roads don't follow this); **area codes**: first 2 digits regional — even the first digit alone narrows a lot | [P](https://www.plonkit.net/poland) |  |
+| Region | **Suffix meta**: -owo = north, **-ów = south** (think Kraków), -ino/-yno = northwest, -ew = centre | [P](https://www.plonkit.net/poland) |  |
+| Region | Rare **bilingual signs**: Kashubian (umlauts+accents) → north; German → Opole; Lithuanian → Puńsk; Belarusian → east border; Lemko (Cyrillic) → southeast | [P](https://www.plonkit.net/poland) |  |
+| Region | **South border = hilly/mountainous** (rest mostly flat); traditional **wooden houses** → east (Podlaskie); orchards → around Grójec & Sandomierz | [P](https://www.plonkit.net/poland) |  |
+| Region | **Pole markings**: yellow → west+south; black → southeast (+north pockets); white background → Podlaskie (occasionally Łódź); lamps **on top of the pole** → northeast (+far-south pockets), side-mounted lamps rare in the NE | [P](https://www.plonkit.net/poland) |  |
+| City | **Gdańsk**: Dutch-Golden-Age downtown (Amsterdam-like); street signs: Białystok = turquoise w/ district; Szczecin = green-blue; Poznań = black w/ blue district section | [P](https://www.plonkit.net/poland) |  |
+| Special | **Tatra Mountains** (highest, near Zakopane/Slovak border); **Hel peninsula**: coastal forest road w/ **parallel railway** | [P](https://www.plonkit.net/poland) |  |
 
 ## Italy
 Study: [Plonk It](https://www.plonkit.net/italy) · [GeoGuessr map](https://www.geoguessr.com/maps/653b2196685acb6e827bb4de)
