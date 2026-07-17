@@ -2734,23 +2734,31 @@ Study: [Plonk It](https://www.plonkit.net/argentina) · [GeoGuessr map](https://
 | Special | **Spotlights (south/east)**: Mar del Plata area = quartzite facades + orange tiles + vaulted porches; semi-coastal grass hills → NE of Bahía Blanca; monkey-puzzle trees → W-Neuquén (road 23; also Chile); **'sawdust' car** (sandy dust on black back) → centre-south; rock formations → Villa Dique Florentino Ameghino (NE-Chubut); Comodoro Rivadavia on Chenque hill slopes; snow coverage → eastern RP25 (E-Santa Cruz); melting snow → RN293 (SW-Santa Cruz); snowy mountains to the north → **Ushuaia** (southernmost city) | [P](https://www.plonkit.net/argentina) |  |
 
 ## Peru
-Study: [Plonk It](https://www.plonkit.net/peru)
+Study: [Plonk It](https://www.plonkit.net/peru) · [GeoGuessr map](https://www.geoguessr.com/maps/63e7e2184c0ca2dca3723ca2)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates white or **yellow** (in S. America yellow = only Peru/Colombia); taxis = yellow top / white bottom | [P](https://www.plonkit.net/peru) |  |
-| Country | Gen3 solid **black or white** Google car; **has Gen4** (Bolivia doesn't; Ecuador Gen4 = big pickup); smallcam exists | [P](https://www.plonkit.net/peru) |  |
-| Country | White outer lines; highways single-dashed/double yellow; **rural mountain roads have no centre line** (mostly Peru in SA) | [P](https://www.plonkit.net/peru) |  |
-| Country | **Black-and-white striped signposts** (only Peru in S. America); metal signposts have **concrete blocks at the base** | [P](https://www.plonkit.net/peru) |  |
-| Country | Bollards red or yellow, mostly **triangular concrete**; guardrails black/yellow striped (Peru's outer stripe black; Bolivia yellow) | [P](https://www.plonkit.net/peru) |  |
-| Country | km markers = **concrete, black-and-white**; **bridges commonly painted orange** | [P](https://www.plonkit.net/peru) |  |
-| Country | **Mototaxis** (tuk-tuks) common in cities; red-and-white stickers on taxis; rectangular metal electricity counters (2–3 slits) | [P](https://www.plonkit.net/peru) |  |
-| Country | Currency **Sol (S/.)**; many country-unique political-party logos painted on walls | [P](https://www.plonkit.net/peru) |  |
-| Region | Coverage mostly west + main highways; **flat east, mountainous west**; dry desert west, rainforest east | [P](https://www.plonkit.net/peru) |  |
-| Region | **Red brick + blue-glass buildings** → near Lake Titicaca (like W. Bolivia); overhanging wood-supported roofs → north | [P](https://www.plonkit.net/peru) |  |
-| State | Highways numbered **north→south** (mostly west); 1 / 3 / 5 longest, cross multiple departments | [P](https://www.plonkit.net/peru) |  |
-| State | Pole markings: **yellow vertical numbers** + a 2–3 letter city code (e.g. CH = Chimbote) → north coast & Tacna | [P](https://www.plonkit.net/peru) |  |
-| Special | **Lima** lamp posts have a sweeping **inverted-J** top; cylindrical black/yellow-top bollard = Moquegua (south) | [P](https://www.plonkit.net/peru) |  |
+| Country | Plates **white or yellow** (yellow rarer); taxis: **yellow top / white bottom** | [P](https://www.plonkit.net/peru) |  |
+| Country | Gen3: solid **black or white** Google car; **Peru HAS Gen4** (Bolivia none; Ecuador's Gen4 = big pickup); smallcam exists | [P](https://www.plonkit.net/peru) |  |
+| Country | Always **white outer lines**; highways: single dashed or double yellow middle; **rural mountain roads: white outers, NO centre line** (in S. America predominantly Peru); divided highways can be all-white | [P](https://www.plonkit.net/peru) |  |
+| Country | **Black-and-white striped signposts** — the only South American country (some areas black-yellow); metal signposts sit in **concrete blocks** (also S.America-unique) | [P](https://www.plonkit.net/peru) |  |
+| Country | Bollards red or yellow, mostly **triangular concrete** (circular variants exist) | [P](https://www.plonkit.net/peru) |  |
+| Country | Guardrails w/ **black-yellow stripes** (sometimes arrow design) | [P](https://www.plonkit.net/peru) |  |
+| Country | km markers: **concrete, painted black & white** (road number near urban areas) | [P](https://www.plonkit.net/peru) |  |
+| Country | Poles concrete or wood, sometimes w/ **horizontal concrete bars** (also Argentina); painted bottoms **black or black-yellow** (S.America-unique pattern; Colombia similar) | [P](https://www.plonkit.net/peru) |  |
+| Country | Bridges commonly painted **orange**; landscape default = **semi-arid mountain ranges & valleys** | [P](https://www.plonkit.net/peru) |  |
+| Country | **Mototaxis** (tuk-tuks) everywhere (Lima, Trujillo, Chiclayo, Piura, Iquitos); taxis w/ wide **red-white side stickers** | [P](https://www.plonkit.net/peru) |  |
+| Country | Electricity counters: **rectangular, metallic, 2–3 horizontal slits** — unique design | [P](https://www.plonkit.net/peru) |  |
+| Country | Currency **Sol (S/.)** on price signs; many **political-party logos** painted on walls — all Peru-unique | [P](https://www.plonkit.net/peru) |  |
+| Country | Architecture mix: colonial buildings, contemporary 'boxy' concrete, traditional **red brick** | [P](https://www.plonkit.net/peru) |  |
+| Region | Coverage mostly **west + main highways** (exceptions: around Iquitos + the 30C east); terrain: **mountainous west, flat east** (but flat desert near Piura NW); climate: desert west, rainforest east; highway numbers rise **north→south** (1/3/5 = the long ones) | [P](https://www.plonkit.net/peru) |  |
+| Region | **Landscape & flora by region**: | [P](https://www.plonkit.net/peru) |  |
+| Region | **Red brick + blue-tinted-glass buildings increase toward Lake Titicaca** (W-Bolivia look — caution, red brick exists everywhere); **overhanging roofs w/ wooden supports** → north (often brightly coloured) | [P](https://www.plonkit.net/peru) |  |
+| Region | **Pole markings**: yellow vertical numbers → north coast + Tacna, often w/ a horizontal 2–3-letter **city code** (CH = Chimbote); open-front tuk-tuks → northern half; **Lima lamps = inverted-J sweep** (occasionally Iquitos/Pucallpa); cylindrical bollard w/ black-yellow top → only **Moquegua** | [P](https://www.plonkit.net/peru) |  |
+| City | **Cities**: Lima = long straight divided boulevards; Pucallpa = consistent WSW-ENE grid; **Iquitos** = isolated Gen3-only Amazon city w/ tuk-tuks + overcast; **Cusco** = red brick + colonial mix, ringed by mountains, airport mid-city (La-Paz-like!); Tacna = dry ridge to the north; Puerto Maldonado = moto-taxi drivers in **yellow vests** | [P](https://www.plonkit.net/peru) |  |
+| Special | **Road spotlights**: 1N at the Piura/Lambayeque border = semi-desert, overcast Gen3; 1N/1S divided section = the only rural divided highway; 1S south of Ica = coast-hugging, red-orange soil, all Gen4; 5N (San Alejandro↔Esperanza) = straight flat rainforest road; 30C (Planchón↔Iñapari) = white Gen3 car, dense forest, Brazil-interior look; 28B (Kimbiri↔Echarate) = faded/missing lines, hillside + river valley; Jauja↔Huancayo valley = flat plain w/ trees + villages between N-S ranges | [P](https://www.plonkit.net/peru) |  |
+| Special | **Lakes & volcanoes**: north side of Titicaca = wetter-season coverage than the south side; Lake Chinchaycocha = marshy 'middle lake' w/ mountains east (less populated than Titicaca); **volcanoes → only the southeast** (esp. around Arequipa) | [P](https://www.plonkit.net/peru) |  |
+| Special | **Machu Picchu**: white Street View car Aguas Calientes → Machu Picchu; train-track trekker between Aguas Calientes & Cusco | [P](https://www.plonkit.net/peru) |  |
 
 ## Colombia
 Study: [Plonk It](https://www.plonkit.net/colombia)

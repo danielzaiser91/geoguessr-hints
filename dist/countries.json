@@ -23728,149 +23728,387 @@
    "area_km2": 1285216,
    "links": {
     "plonkit": "https://www.plonkit.net/peru",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/63e7e2184c0ca2dca3723ca2"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Plates white or **yellow** (in S. America yellow = only Peru/Colombia); taxis = yellow top / white bottom",
+     "type": "plates",
+     "text": "Plates **white or yellow** (yellow rarer); taxis: **yellow top / white bottom**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "KObV",
      "img": "Peru_License_Plate.png",
-     "type": "plates"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "colombia",
+       "note": "Yellow plates in S. America: only Peru, Colombia (+ rarely Chile).",
+       "diff": "B&W striped signposts → Peru."
+      },
+      {
+       "slug": "chile",
+       "note": "Rare yellow/orange commercial plates.",
+       "diff": "Striped signposts → Peru."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Gen3 solid **black or white** Google car; **has Gen4** (Bolivia doesn't; Ecuador Gen4 = big pickup); smallcam exists",
+     "type": "cars",
+     "text": "Gen3: solid **black or white** Google car; **Peru HAS Gen4** (Bolivia none; Ecuador's Gen4 = big pickup); smallcam exists",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "YZbB",
      "img": "1.gen3cars.png",
-     "type": "cars"
+     "imgs": [
+      "1.gen4.png",
+      "Smallcam_Peru.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "argentina",
+       "note": "Black car also AR/UY; smallcam also AR/BR.",
+       "diff": "B&W km markers + striped posts → Peru."
+      },
+      {
+       "slug": "uruguay",
+       "note": "Black car there too.",
+       "diff": "Square poles → Uruguay."
+      },
+      {
+       "slug": "bolivia",
+       "note": "White car too — but NO Gen4 at all in Bolivia.",
+       "diff": "Gen4 present → Peru."
+      },
+      {
+       "slug": "chile",
+       "note": "White car too.",
+       "diff": "Chile's black-section variant; striped posts → Peru."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "White outer lines; highways single-dashed/double yellow; **rural mountain roads have no centre line** (mostly Peru in SA)",
+     "type": "markings",
+     "text": "Always **white outer lines**; highways: single dashed or double yellow middle; **rural mountain roads: white outers, NO centre line** (in S. America predominantly Peru); divided highways can be all-white",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "r5e9",
-     "img": "1.roadlines.png",
-     "type": "markings"
+     "img": "1.roadlines.png"
     },
     {
      "cat": "country",
-     "text": "**Black-and-white striped signposts** (only Peru in S. America); metal signposts have **concrete blocks at the base**",
+     "type": "utility",
+     "text": "**Black-and-white striped signposts** — the only South American country (some areas black-yellow); metal signposts sit in **concrete blocks** (also S.America-unique)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "8cvB",
      "img": "1.signpost.png",
-     "type": "utility"
+     "imgs": [
+      "1.concreteblocks.png"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Bollards red or yellow, mostly **triangular concrete**; guardrails black/yellow striped (Peru's outer stripe black; Bolivia yellow)",
+     "type": "bollards",
+     "text": "Bollards red or yellow, mostly **triangular concrete** (circular variants exist)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "xFoX",
      "img": "1.bollard.png",
-     "type": "bollards"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "km markers = **concrete, black-and-white**; **bridges commonly painted orange**",
+     "type": "utility",
+     "text": "Guardrails w/ **black-yellow stripes** (sometimes arrow design)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "o1h4",
+     "img": "1.guardrailmarking.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "bolivia",
+       "note": "Similar striped guardrails there.",
+       "diff": "Outer stripe: **black → Peru, yellow → Bolivia**."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "km markers: **concrete, painted black & white** (road number near urban areas)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "ILfq",
+     "img": "1.kmmarker.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "country",
+     "type": "utility",
+     "text": "Poles concrete or wood, sometimes w/ **horizontal concrete bars** (also Argentina); painted bottoms **black or black-yellow** (S.America-unique pattern; Colombia similar)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "WEkO",
+     "img": "Peru_poles.png",
+     "imgs": [
+      "Peru_pole_paint.png"
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "general",
+     "text": "Bridges commonly painted **orange**; landscape default = **semi-arid mountain ranges & valleys**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "PfWF",
      "img": "1.orangebridge.png",
-     "type": "general"
+     "imgs": [
+      "1.mountains.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "**Mototaxis** (tuk-tuks) common in cities; red-and-white stickers on taxis; rectangular metal electricity counters (2–3 slits)",
+     "type": "cars",
+     "text": "**Mototaxis** (tuk-tuks) everywhere (Lima, Trujillo, Chiclayo, Piura, Iquitos); taxis w/ wide **red-white side stickers**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "UBbs",
      "img": "1.tuktuk.png",
-     "type": "general"
+     "imgs": [
+      "pe_taxisticker.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Currency **Sol (S/.)**; many country-unique political-party logos painted on walls",
+     "type": "utility",
+     "text": "Electricity counters: **rectangular, metallic, 2–3 horizontal slits** — unique design",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "NelL",
+     "img": "peru_electricity_counter.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "country",
+     "type": "general",
+     "text": "Currency **Sol (S/.)** on price signs; many **political-party logos** painted on walls — all Peru-unique",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "DIQR",
      "img": "1.currency.png",
-     "type": "general"
-    },
-    {
-     "cat": "region",
-     "text": "Coverage mostly west + main highways; **flat east, mountainous west**; dry desert west, rainforest east",
-     "src": [
-      "plonkit"
+     "imgs": [
+      "1.parties.png"
      ],
-     "sv": null,
-     "anchor": "C4Zg",
-     "img": "Peru_terrain.png",
-     "type": "landscape"
+     "uniq": "unique"
     },
     {
-     "cat": "state",
-     "text": "Highways numbered **north→south** (mostly west); 1 / 3 / 5 longest, cross multiple departments",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "ztvL",
-     "img": "2.highwaynumbers.png",
-     "type": "naming"
-    },
-    {
-     "cat": "state",
-     "text": "Pole markings: **yellow vertical numbers** + a 2–3 letter city code (e.g. CH = Chimbote) → north coast & Tacna",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "1XZ8",
-     "img": "Peru_pole_paint.png",
-     "type": "utility"
-    },
-    {
-     "cat": "region",
-     "text": "**Red brick + blue-glass buildings** → near Lake Titicaca (like W. Bolivia); overhanging wood-supported roofs → north",
+     "cat": "country",
+     "type": "arch",
+     "text": "Architecture mix: colonial buildings, contemporary 'boxy' concrete, traditional **red brick**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "akzm",
-     "img": "1.architecture.png",
-     "type": "arch"
+     "img": "1.architecture.png"
     },
     {
-     "cat": "special",
-     "text": "**Lima** lamp posts have a sweeping **inverted-J** top; cylindrical black/yellow-top bollard = Moquegua (south)",
+     "cat": "region",
+     "type": "general",
+     "text": "Coverage mostly **west + main highways** (exceptions: around Iquitos + the 30C east); terrain: **mountainous west, flat east** (but flat desert near Piura NW); climate: desert west, rainforest east; highway numbers rise **north→south** (1/3/5 = the long ones)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "utility"
+     "anchor": "eOh8",
+     "img": "Peru_Coverage_Map1.png",
+     "imgs": [
+      "Peru_terrain.png",
+      "climatemap_darkmode.png",
+      "2.highwaynumbers.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Landscape & flora by region**:",
+     "bullets": [
+      "Tumbes off-roads: sandy soil + green/withered bushes — and NEVER a black car (white only)",
+      "SW-Piura: dry flat w/ few shrubs; NW of Piura city: same but hillier",
+      "Coconut/tall palms: coastal agriculture north of Lima",
+      "Olive plantations: Tacna (far south)",
+      "Sugar cane: north coast near Chiclayo/Trujillo; bananas similar (north coast)",
+      "Flat high-mountain plains: central Puno + around Lake Chinchaycocha (Bolivia-like!)",
+      "South of Lake Titicaca: low grass, stone walls, brown brick",
+      "Far north: shrub-covered mountains, drier toward the coast/Ecuador",
+      "Pine plantations: higher elevations",
+      "Around Tarapoto: foliage-covered mountains (Colombia/Brazil feel)",
+      "Central highlands: exposed rocky outcroppings (Junín→Ayacucho); sharp rocky peaks Huaraz→Cusco",
+      "Light-green lichen on rocks: high central/southern Peru",
+      "Dark red soil: Cusco, Ayacucho, Cajamarca, Tarapoto",
+      "Ica/Arequipa/Tacna: barren flat desert w/ mountains east (N-Chile look)",
+      "Central/south coastal farm valleys: SW-NE between bare dry mountains"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "IidK",
+     "img": "2.tumbesdry.png",
+     "imgs": [
+      "2.piurasouthwest.png",
+      "2.piuranorthwest.png",
+      "2.northernpalms.png",
+      "2.tacnaolives.png",
+      "2.sugarcane.png",
+      "2.banana.png",
+      "2.flatmountains.png",
+      "2.titicaca.png",
+      "2.northernmountains.png",
+      "2.pineplantation.png",
+      "Peru_tarapoto.png",
+      "2.middlehighlandsrocks.png",
+      "2.spikymountains.png",
+      "Peru_lichen.png",
+      "Peru_red_soil.png",
+      "2.flatsoutherndesert.png",
+      "2.southagriculturevalley.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "arch",
+     "text": "**Red brick + blue-tinted-glass buildings increase toward Lake Titicaca** (W-Bolivia look — caution, red brick exists everywhere); **overhanging roofs w/ wooden supports** → north (often brightly coloured)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "JcSb",
+     "img": "2.redbrick.png",
+     "imgs": [
+      "2.northernroof.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "utility",
+     "text": "**Pole markings**: yellow vertical numbers → north coast + Tacna, often w/ a horizontal 2–3-letter **city code** (CH = Chimbote); open-front tuk-tuks → northern half; **Lima lamps = inverted-J sweep** (occasionally Iquitos/Pucallpa); cylindrical bollard w/ black-yellow top → only **Moquegua**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "tRd3",
+     "img": "Yellow_Pole_Marking.png",
+     "imgs": [
+      "2.northerntuktuk.png",
+      "lima_lamps_v2.png",
+      "2.moqueguabollard.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "roads",
+     "text": "**Road spotlights**: 1N at the Piura/Lambayeque border = semi-desert, overcast Gen3; 1N/1S divided section = the only rural divided highway; 1S south of Ica = coast-hugging, red-orange soil, all Gen4; 5N (San Alejandro↔Esperanza) = straight flat rainforest road; 30C (Planchón↔Iñapari) = white Gen3 car, dense forest, Brazil-interior look; 28B (Kimbiri↔Echarate) = faded/missing lines, hillside + river valley; Jauja↔Huancayo valley = flat plain w/ trees + villages between N-S ranges",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "uSmV",
+     "img": "3.1npiura.png",
+     "imgs": [
+      "3.1n1sdivided.png",
+      "3.1scoast.png",
+      "3.5n.png",
+      "3.30c.png",
+      "3.28b.png",
+      "3.huancayojaujavalley.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Lakes & volcanoes**: north side of Titicaca = wetter-season coverage than the south side; Lake Chinchaycocha = marshy 'middle lake' w/ mountains east (less populated than Titicaca); **volcanoes → only the southeast** (esp. around Arequipa)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "592g",
+     "img": "3.northtiticaca.png",
+     "imgs": [
+      "3.chinchaycocha.png",
+      "3.arequipavolcano.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "city",
+     "type": "general",
+     "text": "**Cities**: Lima = long straight divided boulevards; Pucallpa = consistent WSW-ENE grid; **Iquitos** = isolated Gen3-only Amazon city w/ tuk-tuks + overcast; **Cusco** = red brick + colonial mix, ringed by mountains, airport mid-city (La-Paz-like!); Tacna = dry ridge to the north; Puerto Maldonado = moto-taxi drivers in **yellow vests**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "qYbM",
+     "img": "3.limaboulevards.png",
+     "imgs": [
+      "3.pucallpagrid.png",
+      "3.iquitos.png",
+      "3.cusco.png",
+      "3.tacnaridge.png",
+      "Puerto_maldonado_vests.png"
+     ],
+     "super": true,
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "cars",
+     "text": "**Machu Picchu**: white Street View car Aguas Calientes → Machu Picchu; train-track trekker between Aguas Calientes & Cusco",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "YfpD",
+     "img": "3.machupicchucar.png",
+     "imgs": [
+      "3.traintrack.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },
