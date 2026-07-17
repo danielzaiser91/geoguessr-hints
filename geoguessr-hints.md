@@ -2270,12 +2270,13 @@ Study: [Plonk It](https://www.plonkit.net/monaco)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Microstate on the **French Riviera** (a few km west of Italy); dense, rich, Mediterranean — essentially **no rural areas** | [P](https://www.plonkit.net/monaco) |  |
-| Country | Monaco plates are **short & lack the blue strip**; many French cars too (often old yellow rear plates, since coverage is old Gen2) | [P](https://www.plonkit.net/monaco) |  |
-| Country | **Hilly**; luxurious apartment buildings, neoclassical details, pastel colours | [P](https://www.plonkit.net/monaco) |  |
-| Country | Planted **palm trees** common | [P](https://www.plonkit.net/monaco) |  |
-| Country | Lots of coverage **inside tunnels**; rows of parked **mopeds** everywhere | [P](https://www.plonkit.net/monaco) |  |
-| Special | Harbour **Gen3 boat trekker** (expensive yachts + skyline) shows up a lot in competitive modes | [P](https://www.plonkit.net/monaco) |  |
+| Country | Microstate on the **French Riviera**, a few km west of the Italian border; rich, densely populated city state — essentially **no rural areas** | [P](https://www.plonkit.net/monaco) |  |
+| Country | Architecture like southern France / northern Italy but **more luxurious**: apartment towers, neoclassical details, pastel colours | [P](https://www.plonkit.net/monaco) |  |
+| Country | Monégasque plates **short & without the blue strip** (many normal French plates around too — often old yellow rears, the Gen2 coverage is that old) | [P](https://www.plonkit.net/monaco) |  |
+| Country | **Hilly**; the few unbuilt spots show Mediterranean vegetation; planted **palm trees** common | [P](https://www.plonkit.net/monaco) |  |
+| Country | A lot of coverage **inside tunnels** | [P](https://www.plonkit.net/monaco) |  |
+| Country | Rows of **parked mopeds** all around the streets | [P](https://www.plonkit.net/monaco) |  |
+| Special | **Harbour Gen3 boat trekker**: brown-haired Google employee w/ sunglasses, expensive yachts, skyline + hills behind — appears a lot in competitive modes, worth memorising | [P](https://www.plonkit.net/monaco) |  |
 
 # North America
 

@@ -5,11 +5,15 @@
  "area_km2": 2,
  "links": { "plonkit": "https://www.plonkit.net/monaco", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Microstate on the **French Riviera** (a few km west of Italy); dense, rich, Mediterranean — essentially **no rural areas**", "src": ["plonkit"], "sv": null, "anchor": "dU2m", "img": "Monaco_Rich.png", "type": "landscape" },
-  { "cat": "country", "text": "Monaco plates are **short & lack the blue strip**; many French cars too (often old yellow rear plates, since coverage is old Gen2)", "src": ["plonkit"], "sv": null, "anchor": "c3Rx", "img": "Monaco_Licence_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "**Hilly**; luxurious apartment buildings, neoclassical details, pastel colours", "src": ["plonkit"], "sv": null, "anchor": "W7d3", "img": "Monaco_Hilly.png", "type": "arch" },
-  { "cat": "country", "text": "Planted **palm trees** common", "src": ["plonkit"], "sv": null, "anchor": "3BaL", "img": "Palm_trees.png", "type": "landscape" },
-  { "cat": "country", "text": "Lots of coverage **inside tunnels**; rows of parked **mopeds** everywhere", "src": ["plonkit"], "sv": null, "anchor": "6LyB", "img": "Tunnels.png", "type": "general" },
-  { "cat": "special", "text": "Harbour **Gen3 boat trekker** (expensive yachts + skyline) shows up a lot in competitive modes", "src": ["plonkit"], "sv": null, "anchor": "Dzdt", "img": "Harbour_trekker.png", "type": "general" }
+  { "cat": "country", "type": "landscape", "text": "Microstate on the **French Riviera**, a few km west of the Italian border; rich, densely populated city state — essentially **no rural areas**", "src": ["plonkit"], "sv": null, "anchor": "1Jgd", "img": "Monaco_location.png" },
+  { "cat": "country", "type": "arch", "text": "Architecture like southern France / northern Italy but **more luxurious**: apartment towers, neoclassical details, pastel colours", "src": ["plonkit"], "sv": null, "anchor": "dU2m", "img": "Monaco_Rich.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "france", "note": "Riviera cities like Nice look similar.", "diff": "Short strip-less plates + extreme density/luxury → Monaco." },
+      { "slug": "italy", "note": "Ligurian coastal towns look similar.", "diff": "Italian plates + language → Italy." } ] },
+  { "cat": "country", "type": "plates", "text": "Monégasque plates **short & without the blue strip** (many normal French plates around too — often old yellow rears, the Gen2 coverage is that old)", "src": ["plonkit"], "sv": null, "anchor": "c3Rx", "img": "Monaco_Licence_Plate.png", "uniq": "unique*", "uniq_note": "Short + no EU strip separates from France; but French-plated cars dominate the streets, so look for several." },
+  { "cat": "country", "type": "landscape", "text": "**Hilly**; the few unbuilt spots show Mediterranean vegetation; planted **palm trees** common", "src": ["plonkit"], "sv": null, "anchor": "W7d3", "img": "Monaco_Hilly.png", "imgs": ["Palm_trees.png"] },
+  { "cat": "country", "type": "roads", "text": "A lot of coverage **inside tunnels**", "src": ["plonkit"], "sv": null, "anchor": "6LyB", "img": "Tunnels.png" },
+  { "cat": "country", "type": "cars", "text": "Rows of **parked mopeds** all around the streets", "src": ["plonkit"], "sv": null, "anchor": "gJQj", "img": "Monaco_Mopeds.png" },
+  { "cat": "special", "type": "cars", "text": "**Harbour Gen3 boat trekker**: brown-haired Google employee w/ sunglasses, expensive yachts, skyline + hills behind — appears a lot in competitive modes, worth memorising", "src": ["plonkit"], "sv": null, "anchor": "Dzdt", "img": "Harbour_trekker.png", "uniq": "unique" }
  ]
 }
