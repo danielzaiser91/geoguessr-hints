@@ -26616,58 +26616,96 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Overseas collectivity of **France** (counts as France), south of Newfoundland; all coverage is a **Gen3 trekker**",
+     "type": "general",
+     "text": "Overseas collectivity of **France** just south of Newfoundland — **counts as France** in country streaks; all coverage = **Gen3 trekker**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "rkZW",
-     "img": "pm_trekker.png",
-     "type": "cars"
+     "anchor": "o6jY",
+     "img": "Saint_Pierre_and_Miquelon_in_France.svg.png",
+     "imgs": [
+      "pm_trekker.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Plates white or yellow, all w/ a **blue EU strip** (white ones also have a French blue strip on the right)",
+     "type": "plates",
+     "text": "Plates white or yellow, short or long — all w/ a **blue EU strip** (white ones also have the French blue strip right); front plates optional",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "XNt7",
      "img": "pm_licenceplate.png",
-     "type": "plates"
+     "uniq": "unique*",
+     "uniq_note": "EU plates in a Newfoundland-like landscape = the SPM giveaway."
     },
     {
      "cat": "country",
-     "text": "Houses = **boxy wooden panels in vivid, bold colours**",
+     "type": "arch",
+     "text": "Houses of **wooden panels, boxy, in vivid colours**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "LYkQ",
-     "img": "pm_architecture.png",
-     "type": "arch"
+     "img": "pm_architecture.png"
     },
     {
      "cat": "country",
-     "text": "Flat to rolling **grassland**, the coast visible more often than not",
+     "type": "landscape",
+     "text": "Flat to rolling **grasslands**, coast usually visible",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "sJ6B",
-     "img": "pm_landscape.png",
-     "type": "landscape"
+     "img": "pm_landscape.png"
     },
     {
      "cat": "region",
-     "text": "Coverage only in E **Saint-Pierre** (capital; sidewalk trekker, bigger buildings, busier) and the N tip of **Miquelon-Langlade** (ATV shadow + vivid timber cladding)",
+     "type": "general",
+     "text": "Coverage limited: only **eastern Saint-Pierre** + the **northern tip of Miquelon-Langlade**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "BqCt",
-     "img": "St_Pierre_Town.png",
-     "type": "general"
+     "anchor": "ZcfW",
+     "img": "pm_coverage.png",
+     "super": true
+    },
+    {
+     "cat": "city",
+     "type": "general",
+     "text": "**Miquelon-Langlade town**: bold vivid timber cladding + the ATV's shadow visible; **Saint-Pierre** (capital): sidewalk trekker, bigger buildings, more cars, busier feel; **Île-aux-Marins**: slightly hilly grass w/ spaced boxy houses",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "sUYi",
+     "img": "Miquelon_Langlade_Town.png",
+     "imgs": [
+      "St_Pierre_Town.png",
+      "Ile_aux_Marins.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "cars",
+     "text": "**Spotlights**: far-north rural trekker = rolling grass + wooden path between trees; Saint-Pierre island rural trekker = rockier landscape, tree-lined path; **boat trekker** (Saint-Pierre ↔ Île-aux-Marins) = man in a grey-black sweater",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "WBWG",
+     "img": "Rural_North.png",
+     "imgs": [
+      "Saint_Pierre_Island_Rural.png",
+      "Boat.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },

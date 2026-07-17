@@ -2653,11 +2653,13 @@ Study: [Plonk It](https://www.plonkit.net/saint-pierre-and-miquelon)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Overseas collectivity of **France** (counts as France), south of Newfoundland; all coverage is a **Gen3 trekker** | [P](https://www.plonkit.net/saint-pierre-and-miquelon) |  |
-| Country | Plates white or yellow, all w/ a **blue EU strip** (white ones also have a French blue strip on the right) | [P](https://www.plonkit.net/saint-pierre-and-miquelon) |  |
-| Country | Houses = **boxy wooden panels in vivid, bold colours** | [P](https://www.plonkit.net/saint-pierre-and-miquelon) |  |
-| Country | Flat to rolling **grassland**, the coast visible more often than not | [P](https://www.plonkit.net/saint-pierre-and-miquelon) |  |
-| Region | Coverage only in E **Saint-Pierre** (capital; sidewalk trekker, bigger buildings, busier) and the N tip of **Miquelon-Langlade** (ATV shadow + vivid timber cladding) | [P](https://www.plonkit.net/saint-pierre-and-miquelon) |  |
+| Country | Overseas collectivity of **France** just south of Newfoundland — **counts as France** in country streaks; all coverage = **Gen3 trekker** | [P](https://www.plonkit.net/saint-pierre-and-miquelon) |  |
+| Country | Plates white or yellow, short or long — all w/ a **blue EU strip** (white ones also have the French blue strip right); front plates optional | [P](https://www.plonkit.net/saint-pierre-and-miquelon) |  |
+| Country | Houses of **wooden panels, boxy, in vivid colours** | [P](https://www.plonkit.net/saint-pierre-and-miquelon) |  |
+| Country | Flat to rolling **grasslands**, coast usually visible | [P](https://www.plonkit.net/saint-pierre-and-miquelon) |  |
+| Region | Coverage limited: only **eastern Saint-Pierre** + the **northern tip of Miquelon-Langlade** | [P](https://www.plonkit.net/saint-pierre-and-miquelon) |  |
+| City | **Miquelon-Langlade town**: bold vivid timber cladding + the ATV's shadow visible; **Saint-Pierre** (capital): sidewalk trekker, bigger buildings, more cars, busier feel; **Île-aux-Marins**: slightly hilly grass w/ spaced boxy houses | [P](https://www.plonkit.net/saint-pierre-and-miquelon) |  |
+| Special | **Spotlights**: far-north rural trekker = rolling grass + wooden path between trees; Saint-Pierre island rural trekker = rockier landscape, tree-lined path; **boat trekker** (Saint-Pierre ↔ Île-aux-Marins) = man in a grey-black sweater | [P](https://www.plonkit.net/saint-pierre-and-miquelon) |  |
 
 ## Bermuda
 Study: [Plonk It](https://www.plonkit.net/bermuda)
