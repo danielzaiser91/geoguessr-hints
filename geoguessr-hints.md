@@ -1905,17 +1905,20 @@ Study: [Plonk It](https://www.plonkit.net/estonia)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plate long white + standard EU blue strip left | [P](https://www.plonkit.net/estonia) |  |
-| Country | Bollards **round, baton-like**: rectangular reflector front + **two circular reflectors** back (Latvia/Lithuania differ) | [P](https://www.plonkit.net/estonia) |  |
-| Country | Least consistent Baltic poles: round wooden (metal cap) + square concrete; **trident poletops** somewhat common | [P](https://www.plonkit.net/estonia) |  |
-| Country | Chevrons **red w/ white arrows** (like Russia/Ukraine; Latvia & Lithuania = the opposite) | [P](https://www.plonkit.net/estonia) |  |
-| Country | Blue **km marker perpendicular to the road**, numbers on both sides (all Baltics share the marker; angle distinguishes them) | [P](https://www.plonkit.net/estonia) |  |
-| Country | Signs = **thin red border running to the edge, no white outline**; A-type guardrails w/ no reflectors | [P](https://www.plonkit.net/estonia) |  |
-| Country | Pedestrian sign **3 stripes, detailed person** (Lithuania 3 but less detailed; Latvia 5) | [P](https://www.plonkit.net/estonia) |  |
-| Country | **Estonian** (Finnic, ≈ Finnish): letters **Ä Ö Ü Õ**; street = tänav (tn) / tee; oval blue house numbers | [P](https://www.plonkit.net/estonia) |  |
-| Country | Bus-stop sign bus has **4 windows** (Latvia = 5; Lithuania same as EE); blue-and-white signpost wrappings common | [P](https://www.plonkit.net/estonia) |  |
-| Country | Outer road lines sometimes **short dashes** (also Lithuania & Sweden); Gen3 often has a green-tinted **'green blur'** | [P](https://www.plonkit.net/estonia) |  |
-| Region | Fairly flat (hilliest SE + S Lääne-Viru); large **Russian minority** → bilingual Cyrillic signs around **Narva / Ida-Viru** (NE); Tallinn old town = medieval | [P](https://www.plonkit.net/estonia) |  |
+| Country | Plates long white + EU strip | [P](https://www.plonkit.net/estonia) |  |
+| Country | Bollards **round, baton-like**: rectangular front reflector + two circular back reflectors (white or orange) | [P](https://www.plonkit.net/estonia) |  |
+| Country | Least consistent Baltic poles: round wooden (± diagonal supports) + square concrete (LT-like); trident tops; wooden poles w/ **Nordic metal caps** (also SE/FI/NO, sometimes LV) | [P](https://www.plonkit.net/estonia) |  |
+| Country | Outer lines sometimes **short dashes** (also LT; Sweden mostly) | [P](https://www.plonkit.net/estonia) |  |
+| Country | Chevrons **red w/ white arrows** (like RU/UA; LV/LT inverted!); Baltic km markers: Estonia's **perpendicular to the road, numbers both sides**; warning-sign border thin red **to the edge** (no white outline); **guardrails without reflectors** (LV: white/red, LT: orange) | [P](https://www.plonkit.net/estonia) |  |
+| Country | Pedestrian signs 3 stripes + **detailed person (shoes, attached head)** (LT: simpler, LV: 5 stripes); bus-stop sign 4-window bus (LV: 5); **blue-white signpost wrappings** (also FI/SE) | [P](https://www.plonkit.net/estonia) |  |
+| Country | **Estonian** (Finnic!): Ä Ö Ü + **Õ**; street = **tänav (tn)** / road = **tee** — unique words (Finnish -tie looks similar); many streets lack a suffix entirely | [P](https://www.plonkit.net/estonia) |  |
+| Country | **Oval blue house numbers** (not LV/LT; also Russia) | [P](https://www.plonkit.net/estonia) |  |
+| Country | Wood + white brick, steep corrugated metal roofs; **most wooden buildings of the Baltics** | [P](https://www.plonkit.net/estonia) |  |
+| Country | Directional signs blue/white w/ white outline (FI builds the arrow into the border; LV arrows more stylised) | [P](https://www.plonkit.net/estonia) |  |
+| Country | Gen3 often has a **'green blur'** tint on part of the panorama (not LV/LT; also Gotland/Sweden); Gen3 covers many **very rural roads** — thin rural Gen3 in a Baltic round leans Estonia | [P](https://www.plonkit.net/estonia) |  |
+| Region | Fairly flat (max 318 m) — hilliest: southeast + southern Lääne-Viru; **Russian bilingual signs** → Ida-Viru (Narva area) | [P](https://www.plonkit.net/estonia) |  |
+| City | Old town = perfectly preserved **medieval/renaissance** area (Central-Europe look) — unlike anywhere else in Estonia | [P](https://www.plonkit.net/estonia) |  |
+| Special | Island: all **Gen4 late-autumn** (brown leaves) + moody dark near-sunset clouds (Tartu has some autumn too) | [P](https://www.plonkit.net/estonia) |  |
 
 ## Denmark
 Study: [Plonk It](https://www.plonkit.net/denmark)
