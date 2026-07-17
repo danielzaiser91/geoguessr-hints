@@ -2595,13 +2595,18 @@ Study: [Plonk It](https://www.plonkit.net/hawaii)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | US state; most common plate = white w/ an **arcing rainbow** across the centre (visible even through blur); front plates required | [P](https://www.plonkit.net/hawaii) |  |
-| Country | Only US state w/ its **own language** — Hawaiian place names on signs; vowel-heavy, just 8 consonants (H K L M N P W + ʻokina), macrons Ā Ē Ī Ō Ū | [P](https://www.plonkit.net/hawaii) |  |
-| Country | Lots of Gen4 **smallcam**; Gen3 often has a stubby **antenna**; fair amount of **Gen2** (rural) — all rare/notable for the US | [P](https://www.plonkit.net/hawaii) |  |
-| Country | Lush tropical vegetation (ferns, tall grass) on **volcanic topography** — sloping volcanoes, cliffs, valleys, craters | [P](https://www.plonkit.net/hawaii) |  |
-| Country | Homes = 1–2 storey **wood**, light colours, often w/ **volcanic-rock retaining walls**; thick **yellow bands** on poles (not California's 3 stripes) | [P](https://www.plonkit.net/hawaii) |  |
-| Country | Highway shields shaped like a **guitar pick** (number at the bottom) on yellow posts | [P](https://www.plonkit.net/hawaii) |  |
-| Region | State-highway first digit = island (1–2 Hawaiʻi, 3 Maui, 5 Kauaʻi, 6–9 Oʻahu); **Kauaʻi** = deep red soil + jungle; **Oʻahu** = Honolulu, the largest city | [P](https://www.plonkit.net/hawaii) |  |
+| Country | Most common plate: white w/ an **arcing rainbow** across the centre — outline sometimes visible through the blur; **front plates required** | [P](https://www.plonkit.net/hawaii) |  |
+| Country | Only US state w/ its **own language**: Hawaiian place names everywhere — only 8 consonants (H K L M N P W + ʻokina), every word ends in a vowel, macrons **Ā Ē Ī Ō Ū**, many diphthongs (UI/AI/AE…) | [P](https://www.plonkit.net/hawaii) |  |
+| Country | Camera mix: lots of Gen4 **smallcam** (low mount, big round blur, car parts visible); Gen3 mostly w/ a **stubby antenna**; fair amount of **Gen2** on rural roads (rare elsewhere in the US) | [P](https://www.plonkit.net/hawaii) |  |
+| Country | **Lush tropical vegetation** (ferns, tall grass, flowers) on **volcanic topography**: sloping volcanoes, rugged cliffs, valleys, craters — the combo is the Hawaii tell | [P](https://www.plonkit.net/hawaii) |  |
+| Country | Homes: 1–2 storey **wood, light colours**, often w/ **volcanic-rock retaining walls** | [P](https://www.plonkit.net/hawaii) |  |
+| Country | Thick **yellow bands** on poles | [P](https://www.plonkit.net/hawaii) |  |
+| Country | Highway shields shaped like a **guitar pick** w/ the number at the bottom; mostly on **yellow signposts** | [P](https://www.plonkit.net/hawaii) |  |
+| Country | Raised pavement markers in a repeating pattern: **1 reflector – 4 close together – 1** | [P](https://www.plonkit.net/hawaii) |  |
+| Region | State-highway **first digit = island**: 1–2 Hawaiʻi (Big Island), 3 Maui, 4 Molokaʻi/Lānaʻi, 5 Kauaʻi, 6–9 Oʻahu; all four 'interstates' are on Oʻahu | [P](https://www.plonkit.net/hawaii) |  |
+| Region | **Car = island group**: smallcam w/ **black car** → Hawaiʻi/Maui/Oʻahu; **white car** → Kauaʻi/Molokaʻi/Lānaʻi; Gen2 & non-smallcam Gen4 only on Hawaiʻi/Maui/Oʻahu; a distinct **green blur → only Oʻahu** | [P](https://www.plonkit.net/hawaii) |  |
+| Region | **Islands**: | [P](https://www.plonkit.net/hawaii) |  |
+| Special | **Spotlights**: the 'Hawaiian lattice' road grid on Mauna Loa's slope (volcanic soil/rocks, road angles are the clue); Kaunakakai = Molokaʻi's only 'urban' town; **Red Hill** (Maui) = barren red rock ABOVE the clouds; Kahoʻolawe = trekker-only islet SW of Maui (gravel trails, dry shrubs, dark red soil) | [P](https://www.plonkit.net/hawaii) |  |
 
 ## Puerto Rico
 Study: [Plonk It](https://www.plonkit.net/puerto-rico)
