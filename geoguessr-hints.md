@@ -1859,10 +1859,15 @@ Study: [Plonk It](https://www.plonkit.net/svalbard)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Arctic archipelago under **Norway** (counts as Norway); plates are **black w/ yellow text** | [P](https://www.plonkit.net/svalbard) |  |
-| Country | **Barren, treeless mountains**; only moss & grass, no trees; usually overcast & gloomy | [P](https://www.plonkit.net/svalbard) |  |
-| Country | **Russian** sometimes on signs (old Soviet mining settlements) | [P](https://www.plonkit.net/svalbard) |  |
-| Region | 3 towns: **Longyearbyen** = largest, boxy minimalist buildings; **Pyramiden** = abandoned Soviet blocks + pyramid-shaped mountains; **Barentsburg** = desolate, multi-coloured apartment blocks | [P](https://www.plonkit.net/svalbard) |  |
+| Country | Arctic archipelago under Norwegian sovereignty — **counts as Norway** in country streaks | [P](https://www.plonkit.net/svalbard) |  |
+| Country | Plates generally **black w/ yellow text** | [P](https://www.plonkit.net/svalbard) |  |
+| Country | **Barren, treeless mountains**; vegetation = only moss & grasses; sky often overcast, gloomy coverage | [P](https://www.plonkit.net/svalbard) |  |
+| Country | **Russian** sometimes on signs (Soviet-era mining settlements) | [P](https://www.plonkit.net/svalbard) |  |
+| City | **Longyearbyen**: largest settlement, many **boxy minimalistic buildings** | [P](https://www.plonkit.net/svalbard) |  |
+| City | **Pyramiden**: feels abandoned — Soviet-style multi-storey blocks, no human activity, **pyramidal mountains** in the distance | [P](https://www.plonkit.net/svalbard) |  |
+| City | **Barentsburg**: most desolate of the three towns; **multi-coloured apartment blocks** near the hilltop; even gloomier coverage | [P](https://www.plonkit.net/svalbard) |  |
+| Special | **Road spotlights**: SE of Longyearbyen = treeless mountains both sides + lakes to the mountains (small black mirror sometimes left); south of the airport = trekker holding a **red car** on a winding road (or the distinct NE mountain line) | [P](https://www.plonkit.net/svalbard) |  |
+| Special | **Boat coverage**: | [P](https://www.plonkit.net/svalbard) |  |
 
 ## Croatia
 Study: [Plonk It](https://www.plonkit.net/croatia) · [GeoGuessr map](https://www.geoguessr.com/maps/6669b8a2f52cc856ea46ebf8)

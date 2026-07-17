@@ -5,9 +5,20 @@
  "area_km2": 61022,
  "links": { "plonkit": "https://www.plonkit.net/svalbard", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Arctic archipelago under **Norway** (counts as Norway); plates are **black w/ yellow text**", "src": ["plonkit"], "sv": null, "anchor": "V6YU", "img": "svalbard_licenceplate.png", "type": "plates" },
-  { "cat": "country", "text": "**Barren, treeless mountains**; only moss & grass, no trees; usually overcast & gloomy", "src": ["plonkit"], "sv": null, "anchor": "pmRN", "img": "image.png", "type": "landscape" },
-  { "cat": "country", "text": "**Russian** sometimes on signs (old Soviet mining settlements)", "src": ["plonkit"], "sv": null, "anchor": "Hxz3", "img": "svalbard_russian.png", "type": "language" },
-  { "cat": "region", "text": "3 towns: **Longyearbyen** = largest, boxy minimalist buildings; **Pyramiden** = abandoned Soviet blocks + pyramid-shaped mountains; **Barentsburg** = desolate, multi-coloured apartment blocks", "src": ["plonkit"], "sv": null, "anchor": "ywbM", "img": "Pyramiden.png", "type": "general" }
+  { "cat": "country", "type": "general", "text": "Arctic archipelago under Norwegian sovereignty — **counts as Norway** in country streaks", "src": ["plonkit"], "sv": null, "anchor": "TJmr", "img": "Svalbard_in_Europe__28-mini_map_-rivers_29.svg.png" },
+  { "cat": "country", "type": "plates", "text": "Plates generally **black w/ yellow text**", "src": ["plonkit"], "sv": null, "anchor": "V6YU", "img": "svalbard_licenceplate.png", "uniq": "unique*", "uniq_note": "Mainland Norway uses white plates — black/yellow in an Arctic setting → Svalbard." },
+  { "cat": "country", "type": "landscape", "text": "**Barren, treeless mountains**; vegetation = only moss & grasses; sky often overcast, gloomy coverage", "src": ["plonkit"], "sv": null, "anchor": "pmRN", "img": "image.png", "uniq": "unique*", "uniq_note": "Iceland is the lookalike — Svalbard is even more barren, with zero trees and Arctic light." },
+  { "cat": "country", "type": "language", "text": "**Russian** sometimes on signs (Soviet-era mining settlements)", "src": ["plonkit"], "sv": null, "anchor": "Hxz3", "img": "svalbard_russian.png" },
+  { "cat": "city", "type": "arch", "text": "**Longyearbyen**: largest settlement, many **boxy minimalistic buildings**", "src": ["plonkit"], "sv": null, "anchor": "igav", "img": "Longyearbyen.png" },
+  { "cat": "city", "type": "arch", "text": "**Pyramiden**: feels abandoned — Soviet-style multi-storey blocks, no human activity, **pyramidal mountains** in the distance", "src": ["plonkit"], "sv": null, "anchor": "ywbM", "img": "Pyramiden.png", "uniq": "unique" },
+  { "cat": "city", "type": "arch", "text": "**Barentsburg**: most desolate of the three towns; **multi-coloured apartment blocks** near the hilltop; even gloomier coverage", "src": ["plonkit"], "sv": null, "anchor": "pqGg", "img": "Barentsburg.png", "uniq": "unique" },
+  { "cat": "special", "type": "landscape", "text": "**Road spotlights**: SE of Longyearbyen = treeless mountains both sides + lakes to the mountains (small black mirror sometimes left); south of the airport = trekker holding a **red car** on a winding road (or the distinct NE mountain line)", "src": ["plonkit"], "sv": null, "anchor": "B7RJ", "img": "Longyearbyen_Road.png", "imgs": ["Airport_Road.png"], "uniq": "unique" },
+  { "cat": "special", "type": "cars", "text": "**Boat coverage**:", "bullets": [
+      "Large ship → NW Spitsbergen NP (coverage gets darker toward the east)",
+      "Wooden-deck boat → several places",
+      "Small red boat w/ men in red jackets → northwest",
+      "Black-deck boat → Isfjorden (Barentsburg–Grumant)",
+      "Slanted-wheelhouse boat → east of Pyramiden" ],
+    "src": ["plonkit"], "sv": null, "anchor": "ujEh", "img": "National_Park_Boat.png", "imgs": ["Wooden_Boat.png", "Small_Red_Boat.png", "Isfjorden_Boat.png", "Pyramiden_Boat.png"], "uniq": "unique" }
  ]
 }
