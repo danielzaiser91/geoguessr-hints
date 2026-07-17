@@ -2979,23 +2979,25 @@ Study: [Plonk It](https://www.plonkit.net/australia) · [GeoGuessr map](https://
 | Special | **Spotlights**: | [P](https://www.plonkit.net/australia) |  |
 
 ## New Zealand
-Study: [Plonk It](https://www.plonkit.net/new-zealand)
+Study: [Plonk It](https://www.plonkit.net/new-zealand) · [GeoGuessr map](https://www.geoguessr.com/maps/61f3f49330ad7100010d56c2)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Bollard: **red strip wraps around the top** (unique to NZ), thin yellow/white reflector on front or back | [P](https://www.plonkit.net/new-zealand) |  |
-| Country | Plates white w/ black text (appear mostly white through the blur) | [P](https://www.plonkit.net/new-zealand) |  |
-| Country | Poles = concrete w/ **one long indent** + small silver **possum guards**; wooden & holey poles also exist | [P](https://www.plonkit.net/new-zealand) |  |
-| Country | **Give-way signs red text** (Australia = black); **give-way triangles painted on the road** (AU doesn't do this) | [P](https://www.plonkit.net/new-zealand) |  |
-| Country | Warning signs diamond yellow on **white posts**; **blue street signs** common (esp. rural) — Australia almost never blue | [P](https://www.plonkit.net/new-zealand) |  |
-| Country | White outer lines; **yellow dashed outer** in towns; inner = single dashed white or **double yellow** (AU has no yellow inner, snow aside) | [P](https://www.plonkit.net/new-zealand) |  |
-| Country | Chevrons **black-on-yellow with a thin black border** (Australia = same colours, no border) | [P](https://www.plonkit.net/new-zealand) |  |
-| Country | Green directional signs (state-highway # in a **red crest**); **bridge markers** (yellow = river name); brown signs = landmarks | [P](https://www.plonkit.net/new-zealand) |  |
-| Country | **Ferns** very common in forested areas | [P](https://www.plonkit.net/new-zealand) |  |
-| Region | **Southern Alps** snowy range (South Island); West Coast temperate **rainforest**; Waikato/Northland dry rolling hills; **Mt Taranaki** smooth cone; teal glacial lakes near Queenstown | [P](https://www.plonkit.net/new-zealand) |  |
-| State | Two-digit **state-highway numbers run N→S**; **Fonterra farm-sign** first digit = region | [P](https://www.plonkit.net/new-zealand) |  |
-| State | Phone = 7 digits + 2-digit area code (02 = mobile); city rubbish bins & bus-stop signs identify Auckland/Wellington/Christchurch | [P](https://www.plonkit.net/new-zealand) |  |
-| Special | Pole stickers & possum-guard styles pinpoint region (Gisborne yellow cow-tag; Marlborough olive-brown guard; Southland cylindrical); Canterbury = tall hedge rows on flat plains | [P](https://www.plonkit.net/new-zealand) |  |
+| Country | Bollards: **red strip wrapping around the top & whole back** + thin yellow/white reflector — unique to NZ | [P](https://www.plonkit.net/new-zealand) |  |
+| Country | Plates white w/ black text (mostly white through blur; custom plates can show blue/black edges) | [P](https://www.plonkit.net/new-zealand) |  |
+| Country | Most common pole: concrete w/ **one long indent** + small silver **possum guards**; round wooden & 'holey' concrete poles too | [P](https://www.plonkit.net/new-zealand) |  |
+| Country | Give-way signs: white border + **RED text**; **give-way triangles painted on the road** | [P](https://www.plonkit.net/new-zealand) |  |
+| Country | Directional/warning signs on **white posts**; warning = yellow diamonds; **blue street signs** dominate (esp. rural) — Australia almost never uses blue | [P](https://www.plonkit.net/new-zealand) |  |
+| Country | Outer lines white (yellow DASHED outer in towns; none on small roads); inner = single dashed white or **unbroken double yellow** | [P](https://www.plonkit.net/new-zealand) |  |
+| Country | Chevrons **black-on-yellow w/ a thin black border** (AU: same colours, NO border); green direction signs w/ highway number in a **red crest**; brown signs → landmarks; **bridge markers** on most paved roads (yellow = river/bridge name) | [P](https://www.plonkit.net/new-zealand) |  |
+| Country | **Ferns** everywhere in forested areas | [P](https://www.plonkit.net/new-zealand) |  |
+| Region | **2-digit state highways numbered N→S** (bollards sometimes show the number); phone = 2-digit area code + 7 digits (02 = mobile); **Fonterra farm-sign first digit = region**; unique bus stops → Auckland/Wellington/Christchurch; **rubbish-bin council logos** ID cities (green lids ≈ Christchurch) | [P](https://www.plonkit.net/new-zealand) |  |
+| Region | **Landscape**: | [P](https://www.plonkit.net/new-zealand) |  |
+| Region | **Pole metas by region**: | [P](https://www.plonkit.net/new-zealand) |  |
+| Region | **More region metas**: solid white outers w/o middle → Gisborne (+ N-Hawke's Bay; Wellington = narrower); green-striped bollards → S-Canterbury (+ E-Southland); black-striped bollards → Wellington (old Gen3); fences: tight posts → North Island + N-South Island, wide gaps → South Island + Taranaki, thin metal posts → almost only South Island; short wooden fence-post extensions → Hawke's Bay, long → Southland/Hawke's Bay | [P](https://www.plonkit.net/new-zealand) |  |
+| Region | **Car metas**: white-blue front car → mostly North Island (occasionally Canterbury/Marlborough); blurred white-blue-white striped car → South Island + around/north of Auckland | [P](https://www.plonkit.net/new-zealand) |  |
+| City | **Town/city street-sign graphics** for the north + south (clickable); **Wellington** = super hilly; Lower/Upper Hutt = wide green SW-NE valley; Blenheim = hill ranges north + south; Christchurch = 2011-earthquake scars (broken roads in 2012 coverage, empty ex-house districts later) | [P](https://www.plonkit.net/new-zealand) |  |
+| Special | **Spotlights**: | [P](https://www.plonkit.net/new-zealand) |  |
 
 ## Vanuatu
 Study: [Plonk It](https://www.plonkit.net/vanuatu)
