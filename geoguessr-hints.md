@@ -3104,10 +3104,10 @@ Study: [Plonk It](https://www.plonkit.net/antarctica)
 | Cat | Hint | Src | SV |
 |---|---|---|---|
 | Country | Mostly **snow and ice**; any soil is **always dark** | [P](https://www.plonkit.net/antarctica) |  |
-| Country | **Penguins** appear in parts of the coverage — handy to rule out the Arctic | [P](https://www.plonkit.net/antarctica) |  |
-| Region | **Deception Island** = blue-and-white ship in the bay, abandoned equipment, a black-sand beach w/ penguins; **Half Moon Island** = tripod w/ people in red jackets | [P](https://www.plonkit.net/antarctica) |  |
-| Region | **McMurdo Station** = largest base — dark brown soil, many buildings, American infrastructure, sunset coverage (sun setting in the **south**, so don't guess the N hemisphere) | [P](https://www.plonkit.net/antarctica) |  |
-| Region | The **South Pole** tripod = a ring of national flags + a 'Geographic South Pole' sign (often placed on community world maps) | [P](https://www.plonkit.net/antarctica) |  |
+| Country | **Penguins** in parts of the coverage — rules out the Arctic instantly | [P](https://www.plonkit.net/antarctica) |  |
+| Region | **Peninsula islands**: | [P](https://www.plonkit.net/antarctica) |  |
+| Region | **Ross Island & McMurdo**: | [P](https://www.plonkit.net/antarctica) |  |
+| Special | **South Pole tripod**: ring of national flags + 'Geographic South Pole' sign (appears on community world maps for scoring range); the **South Pole Observatory** has tripod coverage around & inside | [P](https://www.plonkit.net/antarctica) |  |
 
 ## South Georgia & Sandwich Islands
 Study: [Plonk It](https://www.plonkit.net/south-georgia-sandwich-islands)

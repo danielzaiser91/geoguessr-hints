@@ -5,10 +5,24 @@
  "area_km2": 14000000,
  "links": { "plonkit": "https://www.plonkit.net/antarctica", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Mostly **snow and ice**; any soil is **always dark**", "src": ["plonkit"], "sv": null, "anchor": "sUvL", "img": "aq_snow.png", "type": "landscape" },
-  { "cat": "country", "text": "**Penguins** appear in parts of the coverage — handy to rule out the Arctic", "src": ["plonkit"], "sv": null, "anchor": "MJ6N", "img": "aq_pingwings.png", "type": "general" },
-  { "cat": "region", "text": "**Deception Island** = blue-and-white ship in the bay, abandoned equipment, a black-sand beach w/ penguins; **Half Moon Island** = tripod w/ people in red jackets", "src": ["plonkit"], "sv": null, "anchor": "5eul", "img": "aq_deceptionisland.png", "type": "general" },
-  { "cat": "region", "text": "**McMurdo Station** = largest base — dark brown soil, many buildings, American infrastructure, sunset coverage (sun setting in the **south**, so don't guess the N hemisphere)", "src": ["plonkit"], "sv": null, "anchor": "cZIY", "img": "aq_darksoil.png", "type": "general" },
-  { "cat": "region", "text": "The **South Pole** tripod = a ring of national flags + a 'Geographic South Pole' sign (often placed on community world maps)", "src": ["plonkit"], "sv": null, "type": "general" }
+  { "cat": "country", "type": "landscape", "text": "Mostly **snow and ice**; any soil is **always dark**", "src": ["plonkit"], "sv": null, "anchor": "sUvL", "img": "aq_snow.png", "imgs": ["aq_darksoil.png"] },
+  { "cat": "country", "type": "general", "text": "**Penguins** in parts of the coverage — rules out the Arctic instantly", "src": ["plonkit"], "sv": null, "anchor": "MJ6N", "img": "aq_pingwings.png", "uniq": "unique" },
+  { "cat": "region", "type": "landscape", "text": "**Peninsula islands**:", "bullets": [
+      "Half Moon Island: tripod + many people in red jackets",
+      "Deception Island: blue-white ship in the bay + abandoned beach equipment; trekker group walking in a line; black-sand beach full of penguins",
+      "Cuverville Island: overcast + coastline NW + penguins (east)",
+      "Danco Island: beautiful sunset over a snowy fjord",
+      "Petermann Island: snow w/ exposed rock patches + overexposed camera" ],
+    "src": ["plonkit"], "sv": null, "anchor": "M09G", "img": "aq_halfmoonisland.png", "imgs": ["aq_deceptionisland.png", "aq_deceptionislandconga.png", "aq_deceptionislanddarkbeach.png", "aq_cuvervilleisland.png", "aq_dancoisland.png", "aq_petermannisland.png"], "super": true, "uniq": "unique" },
+  { "cat": "region", "type": "landscape", "text": "**Ross Island & McMurdo**:", "bullets": [
+      "Western tip of Ross Island: extremely dark barren rocky soil",
+      "Wooden cabin tripod (grey metal roof) south of the eastern tip",
+      "McMurdo Station = the largest base: dark brown soil, many buildings, US infrastructure, sunset coverage (sun sets in the SOUTH — don't get tricked into the northern hemisphere!)",
+      "Tripods inside several McMurdo buildings + a small wooden hut east",
+      "SE of McMurdo: trekker on ice around machinery",
+      "West of Ross Island: fantastical desolate mainland valleys",
+      "South of McMurdo: vast snowfield w/ spread-out hills" ],
+    "src": ["plonkit"], "sv": null, "anchor": "267M", "img": "aq_rossisland.png", "imgs": ["aq_rossislandcabin.png", "aq_mcmurdo.png", "aq_mcmurdotripods.png", "aq_mcmurdohut.png", "aq_icetrekker.png", "aq_mainlandvalleys.png", "aq_blackisland.png"], "super": true, "uniq": "unique" },
+  { "cat": "special", "type": "general", "text": "**South Pole tripod**: ring of national flags + 'Geographic South Pole' sign (appears on community world maps for scoring range); the **South Pole Observatory** has tripod coverage around & inside", "src": ["plonkit"], "sv": null, "anchor": "gvxD", "img": "aq_southpole.png", "imgs": ["aq_southpoleobservatory.png"], "uniq": "unique" }
  ]
 }

@@ -147,7 +147,7 @@ Format: `- [ ] slug` → check when BOTH captured-complete AND classified.
 **Oceania:** - [x] australia · - [x] new-zealand · - [x] vanuatu · - [x] guam ·
 - [x] american-samoa · - [x] christmas-island · - [x] cocos-islands ·
 - [x] northern-mariana-islands · - [ ] pitcairn-islands
-**Antarctica:** - [ ] antarctica · - [ ] south-georgia-sandwich-islands
+**Antarctica:** - [x] antarctica · - [ ] south-georgia-sandwich-islands
 
 ### Final passes (after all countries)
 - [ ] Global uniqueness consistency sweep: re-grep every `unique`/`unique*` claim against the
