@@ -929,14 +929,21 @@ Study: [Plonk It](https://www.plonkit.net/jordan)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | **Black car, no antenna, no red brake light** — the only Middle Eastern country covered by this car | [P](https://www.plonkit.net/jordan) |  |
-| Country | Plates white (long or short); commercial/taxis have a **green strip on the left** (only Jordan in the ME; Israel = yellow plates) | [P](https://www.plonkit.net/jordan) |  |
-| Country | **Arabic**; unlike the UAE, **little English** on commercial signs (a good UAE-vs-Jordan tell) | [P](https://www.plonkit.net/jordan) |  |
-| Country | Roads: **yellow outer, white middle** lines; chevrons **white w/ red arrows** (Israel = black w/ white arrows) | [P](https://www.plonkit.net/jordan) |  |
-| Country | Electricity poles: rounded concrete w/ a diagonal support or **three horizontal 'Y' tops**; thin metal poles w/ 3 vertical coils | [P](https://www.plonkit.net/jordan) |  |
-| Country | Very **arid** — lots of lifeless desert; even the lushest parts look like arid Mediterranean | [P](https://www.plonkit.net/jordan) |  |
-| Country | Buildings mostly **bright sandstone brick w/ flat roofs**; roads often warped/cracked (worse than Israel) | [P](https://www.plonkit.net/jordan) |  |
-| Region | Coverage only in the **far west** (Amman = big-city; ends N of Jerash; south reaches Aqaba); **Madaba = red soil**; highways 15/35/40/65/80 each distinct | [P](https://www.plonkit.net/jordan) |  |
+| Country | **Black car, no antenna, no red brake light** | [P](https://www.plonkit.net/jordan) |  |
+| Country | Plates **white** (long or short); taxis/commercial = **green strip left** | [P](https://www.plonkit.net/jordan) |  |
+| Country | **Arabic** — and unlike the UAE, most commercial signs have **no English** | [P](https://www.plonkit.net/jordan) |  |
+| Country | **Yellow outer + white middle lines** | [P](https://www.plonkit.net/jordan) |  |
+| Country | Chevrons **white with red arrows** (Israel: black w/ white arrows) | [P](https://www.plonkit.net/jordan) |  |
+| Country | Poles: rounded concrete w/ **diagonal support** or **3 horizontal Y-tops**; thin metal poles w/ 2 supports + 3 vertical coils | [P](https://www.plonkit.net/jordan) |  |
+| Country | Very **arid**, much lifeless desert — even the lushest parts are only arid-Mediterranean | [P](https://www.plonkit.net/jordan) |  |
+| Country | Bright **sandstone-brick buildings with flat roofs** | [P](https://www.plonkit.net/jordan) |  |
+| Country | Road quality often poor — heat-warped, **buckled cracks** (generally worse than Israel) | [P](https://www.plonkit.net/jordan) |  |
+| Region | Coverage only in the **far west**: bigger towns + main roads; ends N of Jerash (Irbid = zero coverage), south to Aqaba | [P](https://www.plonkit.net/jordan) |  |
+| City | Largest city w/ extensive coverage: big-city feel, slightly hilly, medium apartment blocks; taxis **yellow-green** | [P](https://www.plonkit.net/jordan) |  |
+| Special | **Highway metas** | [P](https://www.plonkit.net/jordan) |  |
+| Special | Flat, sometimes tilled fields w/ **rich red soil** (continues N+S along Hwy 35); taxis yellow w/ **white bumpers** | [P](https://www.plonkit.net/jordan) |  |
+| Special | **Wadi al Hasa** (Hwy 35): arid rolling-hill valley, smooth rounded rock, single-lane road; **Aqaba**: jagged mountain wall east/south + olive-green/black taxis | [P](https://www.plonkit.net/jordan) |  |
+| Special | Wadi Musa: **bulbous rock formations**; Petra trekkers: eroded reddish rock, narrow gorges, tourist crowds (a mainstay of the default World map!) | [P](https://www.plonkit.net/jordan) |  |
 
 ## United Arab Emirates
 Study: [Plonk It](https://www.plonkit.net/united-arab-emirates)
@@ -1029,18 +1036,34 @@ Study: [Plonk It](https://www.plonkit.net/taiwan) · [GeoGuessr map](https://www
 | Special | **Rare finds**: green train car → east Chiayi near Alishan; blue pickup → Taipei riverside parks | [P](https://www.plonkit.net/taiwan) |  |
 
 ## Israel & the West Bank
-Study: [Plonk It](https://www.plonkit.net/israel-west-bank)
+Study: [Plonk It](https://www.plonkit.net/israel-west-bank) · [GeoGuessr map](https://www.geoguessr.com/maps/63728a6bab17814982dc0412)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates **yellow w/ a blue strip on the left** (also common in the West Bank; Jordan/UAE = white, Tunisia = black); West Bank plates are white w/ green text (inverted → green on taxis/buses) | [P](https://www.plonkit.net/israel-west-bank) |  |
-| Country | Gen3 = **black car w/ a long antenna** (also black w/o antenna, or silver w/ a short antenna); Gen4 only in Israel, usually a **dirty front camera** (clean around Tel Aviv) | [P](https://www.plonkit.net/israel-west-bank) |  |
-| Country | **Hebrew** (practically only here) + **Arabic** (esp. in the West Bank) | [P](https://www.plonkit.net/israel-west-bank) |  |
-| Country | Stop signs show a **painted hand** instead of a word | [P](https://www.plonkit.net/israel-west-bank) |  |
-| Country | **Striped kerbs** (red/white & black/white); yellow outer + white centre road lines; white-on-black chevrons; km markers white w/ a red/green/blue border | [P](https://www.plonkit.net/israel-west-bank) |  |
-| Country | Utility poles w/ **black-and-white striped bottoms**; **mesh-framework** poles very common | [P](https://www.plonkit.net/israel-west-bank) |  |
-| Country | Warm-coloured **stone buildings**, blocky; Mediterranean orange-tile roofs more common than elsewhere in the Middle East (flat roofs too) | [P](https://www.plonkit.net/israel-west-bank) |  |
-| Region | Green forested **north** → extremely dry sandy **south** & E West Bank; near **Jerusalem** nearly every building is pale **Jerusalem stone**; Dead Sea = barren, Sea of Galilee = vegetated | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Country | Israeli plates **yellow with blue strip left** (also common in the West Bank) | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Country | Most Gen3: **black car with long antenna** (also black w/o antenna, silver w/ short antenna) | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Country | **Hebrew** (practically only here) + **Arabic** (esp. West Bank) | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Country | Landscape: greener **Mediterranean north** → very **arid south** | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Country | Bright, warm **stone buildings**, blocky; orange tiled roofs commoner than elsewhere in the Middle East, flat roofs equally common | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Country | Most roads: **yellow outer + white centre lines**; striped kerbs everywhere (red-white, black-white; rarely red-yellow, blue-white) | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Country | Both **A-type and B-type guardrails** common | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Country | Chevrons **white on black**; km markers white with thick **red/green/blue border**; stop sign shows a **hand** instead of a word | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Country | Poles: **black-white striped painted bottoms** + very common **mesh-framework poles**; yellow warning sign on poles | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Region | **Coverage**: sparse in southern Israel + most of the West Bank; **area codes** map (only mapped codes are regional) | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Region | **Gen4 only in Israel** (black car); mostly a **dirty front camera** — clean camera ≈ Tel Aviv area | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Region | **North** = mountainous, green, forested; **centre** = flat, urban, better highways; **south + eastern West Bank** = extremely dry/sandy; **west of Jerusalem** looks like the north — but always hilly (no wide flat valleys) + Jerusalem-stone houses; **West Bank** = semi-arid Mediterranean, hillier & less agricultural than central Israel | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Region | **Jerusalem stone**: nearly every building in Jerusalem + nearby West Bank cities (smoother on new buildings; single such houses exist elsewhere) | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Region | **Date-palm plantations** near the Jordanian border; cemented **rock walls** in the north; small **irrigation canals** around Beit She'an | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Region | **Water bodies**: Dead Sea = surrounded by total dryness (also visible from Jordan/West Bank); Sea of Galilee = noticeably vegetated; **Mount Carmel** = long NW-SE ridge near Haifa (green, high-altitude coverage on top); **Mount Gilboa** = very dry from afar, green on top | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Region | **West Bank plates**: white w/ green text (blurred = green tint); taxis/buses inverted (green w/ white); Israeli plates also common there | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Region | **West Bank follow cars**: small white Suzuki → centre/south; dark-blue Ford → northwest; big white Citroën 'SECURITY' → around Jerusalem (Bethlehem, Ramallah; always with antenna-less black car) | [P](https://www.plonkit.net/israel-west-bank) |  |
+| City | Roadsides **full of parked cars** (free spots → probably the north of the city) | [P](https://www.plonkit.net/israel-west-bank) |  |
+| City | White rectangular signs with a **thin blue border** | [P](https://www.plonkit.net/israel-west-bank) |  |
+| City | **Jericho**: date palms in sparse, poor-looking urban setting; **Ramallah**: sheer mass of black water tanks on most houses; **Bethlehem**: blue house numbers w/ Arabic + Eastern-Arabic numerals split by a diagonal | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Special | **Road/mountain spotlights**: Road 90 (longest) = dry + N-S angle (≈ roads 31/40!), southern stretch has a dry range east + palms; Road 2 = Mediterranean visible west (mountains east → Haifa↔Zikhron Yaakov); Mount Tavor = soft round shape; Timna NP = total dryness + ridges all around; tall rocky mountains east of **Eilat**; camel-back range → Kiryat Shmona; reservoir north of Hasolelim forest; tall coastal chimneys north of Netanya | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Special | **City-unique infra**: Harish grey mosaic tower brickwork; Nahariya 3-arm white lamps; Acre 'Barad-dûr' lamps (central-Israel lookalikes lack the horn gap); Netivot angular high+low lamps; Eilat blue-white pole bottoms; Kiryat Motzkin yellow fences/posts; Ashdod blue-white fences; Raanana thick/cube roundabout signs; Rahat grey Hyundai follow car | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Special | **House-number metas**: Rosh Haayin = blue w/ **G-clef**; Ness Ziona = Israeli flag; Herzliya = blue shield shape; **Bnei Brak** = ultra-Orthodox religious clothing on the street | [P](https://www.plonkit.net/israel-west-bank) |  |
+| Special | **Israel National Trail**: one of the world's longest trekkers, through every landscape; orange-blue-white **trail markings** | [P](https://www.plonkit.net/israel-west-bank) |  |
 
 ## Qatar
 Study: [Plonk It](https://www.plonkit.net/qatar)
@@ -1057,18 +1080,21 @@ Study: [Plonk It](https://www.plonkit.net/qatar)
 | Region | Well covered (S/W lack it); **numbered zones on street signs** = region; antenna length = region (short = north, long = Doha/SW); stadiums (Lusail golden bowl, Al Bayt stripes) | [P](https://www.plonkit.net/qatar) |  |
 
 ## Lebanon
-Study: [Plonk It](https://www.plonkit.net/lebanon)
+Study: [Plonk It](https://www.plonkit.net/lebanon) · [GeoGuessr map](https://www.geoguessr.com/maps/662191c459258954c4609012)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates long or short with a **blue strip on the left** (Euro-like); **taxis have deep-red plates** | [P](https://www.plonkit.net/lebanon) |  |
-| Country | Arabic, but **English & French** also common on signage | [P](https://www.plonkit.net/lebanon) |  |
-| Country | **Shitcam** — Lebanon is the only ME country with it; the rest of coverage is **Gen3 trekker** | [P](https://www.plonkit.net/lebanon) |  |
-| Country | **Mediterranean** landscape with lots of hills and rocky cliffs | [P](https://www.plonkit.net/lebanon) |  |
-| Country | **Metallic mesh poles** (sometimes painted bright yellow) + generic wooden poles | [P](https://www.plonkit.net/lebanon) |  |
-| Country | Many buildings of **sandstone brick** (looks like Jerusalem stone of Israel/West Bank) | [P](https://www.plonkit.net/lebanon) |  |
-| Region | Coverage concentrated on the **west coast, north of Beirut**; Zahle = flat fields + black car; snowy tops → NE mountains | [P](https://www.plonkit.net/lebanon) |  |
-| Special | Gen3 trekkers: **Beirut** high-rises + palm promenade; **Byblos** ancient stone city; **Baalbek** Roman ruins; several university campuses | [P](https://www.plonkit.net/lebanon) |  |
+| Country | Plates long or short w/ **blue strip left** (Euro-like); **taxis = deep-red plates** | [P](https://www.plonkit.net/lebanon) |  |
+| Country | **Arabic** official — plus common **English and French** | [P](https://www.plonkit.net/lebanon) |  |
+| Country | **Only Middle-Eastern country with official shitcam** coverage; everything else = **Gen3 trekkers** | [P](https://www.plonkit.net/lebanon) |  |
+| Country | Mediterranean landscape — many **hills & rocky cliffs** | [P](https://www.plonkit.net/lebanon) |  |
+| Country | **Metal mesh poles**, sometimes painted bright **yellow**; generic wooden poles too | [P](https://www.plonkit.net/lebanon) |  |
+| Country | Many **sandstone-brick buildings** | [P](https://www.plonkit.net/lebanon) |  |
+| Region | Coverage concentrated on the **west coast north of Beirut** | [P](https://www.plonkit.net/lebanon) |  |
+| Region | **Zahle**: flat farmland w/ mountains NW (+ visible **black car** in/around Zahle); **NE mountains** east of Tripoli = snow coverage; **northern Lebanon** = very flat farmland, mountains SE | [P](https://www.plonkit.net/lebanon) |  |
+| City | Only covered city with **modern high-rises**; promenade coverage: grey brick pavement + many **fan palms**; Université Saint Joseph = grand old sandstone building | [P](https://www.plonkit.net/lebanon) |  |
+| Special | **University spotlights**: Beirut Arab Univ. (Debbieh) = sparse modern sandstone on forested hill, sea far west; LIU = stone buildings w/ unpainted ground floors + beige upper floors; Balamand = cubic modern white; Lebanese American Univ. (E of Byblos) = urban, much construction | [P](https://www.plonkit.net/lebanon) |  |
+| Special | **Historic spotlights**: Byblos = ancient city, uniform unpainted stone; Bsharri trekker = big canyon south; **Baalbek** = Roman ruin complex; Mseilha fortress (SW of Tripoli) on a limestone monolith; the only rural coastal trekker road = SW of Tripoli | [P](https://www.plonkit.net/lebanon) |  |
 
 ## Cyprus
 Study: [Plonk It](https://www.plonkit.net/cyprus)

@@ -5,7 +5,7 @@
  "area_km2": 438317,
  "links": { "plonkit": "https://www.plonkit.net/iraq", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "All coverage = a **single trekker inside the Iraqi National Museum, Baghdad**", "src": ["plonkit"], "sv": null, "anchor": "8Q3g", "img": "Coverage_location.png", "type": "cars" },
+  { "cat": "country", "text": "All coverage = a **single trekker inside the Iraqi National Museum, Baghdad**", "src": ["plonkit"], "sv": null, "anchor": "8Q3g", "img": "Coverage_location.png", "type": "cars", "uniq": "unique" },
   { "cat": "country", "text": "Camera is **'Gen 1.5'** — Gen2-like but worse quality, often blindingly overexposed; trekker blur has a well-defined **pointed** shape", "src": ["plonkit"], "sv": null, "anchor": "ZqvN", "img": "Trekker_mounted_on_cart.png", "type": "cars" },
   { "cat": "country", "text": "The only outdoor part = a small **patio w/ a diagonal walkway + date palms**", "src": ["plonkit"], "sv": null, "anchor": "sXI8", "img": "Bild_2022-07-01_181856327.png", "type": "landscape" },
   { "cat": "special", "text": "Interior = **statues, steles, artefacts** and a few back rooms", "src": ["plonkit"], "sv": null, "anchor": "gZMi", "img": "Steeles.png", "type": "general" }

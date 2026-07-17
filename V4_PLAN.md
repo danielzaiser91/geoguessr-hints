@@ -122,7 +122,7 @@ Format: `- [ ] slug` → check when BOTH captured-complete AND classified.
 - [x] japan · - [x] thailand · - [x] malaysia · - [x] philippines · - [x] vietnam ·
 - [x] south-korea · - [x] taiwan · - [x] kazakhstan · - [x] mongolia · - [x] sri-lanka ·
 - [x] bangladesh · - [x] cambodia · - [x] laos · - [x] nepal · - [x] bhutan · - [x] pakistan ·
-- [x] turkey · - [ ] israel-west-bank · - [ ] jordan · - [ ] iraq · - [ ] lebanon ·
+- [x] turkey · - [x] israel-west-bank · - [x] jordan · - [x] iraq · - [x] lebanon ·
 - [ ] united-arab-emirates · - [ ] qatar · - [ ] oman · - [ ] singapore · - [ ] hong-kong ·
 - [ ] macau · - [ ] cyprus · - [ ] british-indian-ocean-territory
 **Europe:** - [ ] germany · - [ ] france · - [ ] united-kingdom · - [ ] spain · - [ ] italy ·

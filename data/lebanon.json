@@ -3,15 +3,21 @@
  "slug": "lebanon",
  "continent": "Asia",
  "area_km2": 10452,
- "links": { "plonkit": "https://www.plonkit.net/lebanon", "geoguessr": null },
+ "links": { "plonkit": "https://www.plonkit.net/lebanon", "geoguessr": "https://www.geoguessr.com/maps/662191c459258954c4609012" },
  "hints": [
-  { "cat": "country", "text": "Plates long or short with a **blue strip on the left** (Euro-like); **taxis have deep-red plates**", "src": ["plonkit"], "sv": null, "anchor": "2BL4", "img": "lb_licenceplates.png", "type": "plates" },
-  { "cat": "country", "text": "Arabic, but **English & French** also common on signage", "src": ["plonkit"], "sv": null, "anchor": "C649", "img": "lb_arabic.png", "type": "language" },
-  { "cat": "country", "text": "**Shitcam** — Lebanon is the only ME country with it; the rest of coverage is **Gen3 trekker**", "src": ["plonkit"], "sv": null, "anchor": "DdnD", "img": "lb_shitcam.png", "type": "cars" },
-  { "cat": "country", "text": "**Mediterranean** landscape with lots of hills and rocky cliffs", "src": ["plonkit"], "sv": null, "anchor": "Lgc7", "img": "lb_landscape.png", "type": "landscape" },
-  { "cat": "country", "text": "**Metallic mesh poles** (sometimes painted bright yellow) + generic wooden poles", "src": ["plonkit"], "sv": null, "anchor": "cdUJ", "img": "Lebanon_Poles.png", "type": "utility" },
-  { "cat": "country", "text": "Many buildings of **sandstone brick** (looks like Jerusalem stone of Israel/West Bank)", "src": ["plonkit"], "sv": null, "anchor": "p2gU", "img": "lb_sandstonebricks.png", "type": "arch" },
-  { "cat": "region", "text": "Coverage concentrated on the **west coast, north of Beirut**; Zahle = flat fields + black car; snowy tops → NE mountains", "src": ["plonkit"], "sv": null, "anchor": "eRJg", "img": "Lebanon_Coverage_Map.png", "type": "naming" },
-  { "cat": "special", "text": "Gen3 trekkers: **Beirut** high-rises + palm promenade; **Byblos** ancient stone city; **Baalbek** Roman ruins; several university campuses", "src": ["plonkit"], "sv": null, "anchor": "kaHF", "img": "lb_beirut.png", "type": "general" }
+  { "cat": "country", "type": "plates", "text": "Plates long or short w/ **blue strip left** (Euro-like); **taxis = deep-red plates**", "src": ["plonkit"], "sv": null, "anchor": "2BL4", "img": "lb_licenceplates.png" },
+  { "cat": "country", "type": "language", "text": "**Arabic** official — plus common **English and French**", "src": ["plonkit"], "sv": null, "anchor": "C649", "img": "lb_arabic.png",
+    "uniq": "unique*", "uniq_note": "The Arabic+French mix is the Middle-East tell for Lebanon — other Arabic countries on Street View pair with English (UAE) or nothing (Jordan)." },
+  { "cat": "country", "type": "cars", "text": "**Only Middle-Eastern country with official shitcam** coverage; everything else = **Gen3 trekkers**", "src": ["plonkit"], "sv": null, "anchor": "DdnD", "img": "lb_shitcam.png", "imgs": ["lb_trekker.png"], "uniq": "unique" },
+  { "cat": "country", "type": "landscape", "text": "Mediterranean landscape — many **hills & rocky cliffs**", "src": ["plonkit"], "sv": null, "anchor": "Lgc7", "img": "lb_landscape.png" },
+  { "cat": "country", "type": "utility", "text": "**Metal mesh poles**, sometimes painted bright **yellow**; generic wooden poles too", "src": ["plonkit"], "sv": null, "anchor": "cdUJ", "img": "Lebanon_Poles.png" },
+  { "cat": "country", "type": "arch", "text": "Many **sandstone-brick buildings**", "src": ["plonkit"], "sv": null, "anchor": "p2gU", "img": "lb_sandstonebricks.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "israel-west-bank", "note": "Looks very similar to Jerusalem stone.", "diff": "Hebrew → Israel; French/English mix + shitcam → Lebanon.", "img": "ilps_jerusalemarchitecture.png" } ] },
+  { "cat": "region", "type": "general", "text": "Coverage concentrated on the **west coast north of Beirut**", "src": ["plonkit"], "sv": null, "anchor": "eRJg", "img": "Lebanon_Coverage_Map.png", "super": true },
+  { "cat": "region", "type": "landscape", "text": "**Zahle**: flat farmland w/ mountains NW (+ visible **black car** in/around Zahle); **NE mountains** east of Tripoli = snow coverage; **northern Lebanon** = very flat farmland, mountains SE", "src": ["plonkit"], "sv": null, "anchor": "JCQE", "img": "Lebanon_East_Flat_Hint.png", "imgs": ["Lebanon_Snow_Hint.png", "Lebanon_Very_Flat_Hint.png", "Lebanon_Black_Car_Hint.png"] },
+  { "cat": "city", "area": "Beirut", "type": "arch", "text": "Only covered city with **modern high-rises**; promenade coverage: grey brick pavement + many **fan palms**; Université Saint Joseph = grand old sandstone building", "src": ["plonkit"], "sv": null, "anchor": "kaHF", "img": "lb_beirut.png", "imgs": ["lb_beirutcoast.png", "lb_usj.png"] },
+  { "cat": "special", "type": "arch", "text": "**University spotlights**: Beirut Arab Univ. (Debbieh) = sparse modern sandstone on forested hill, sea far west; LIU = stone buildings w/ unpainted ground floors + beige upper floors; Balamand = cubic modern white; Lebanese American Univ. (E of Byblos) = urban, much construction", "src": ["plonkit"], "sv": null, "anchor": "RzjR", "img": "lb_beirutarabuni.png", "imgs": ["lb_liu.png", "lb_balamanduni.png", "lb_lebaneseamericanuni.png"] },
+  { "cat": "special", "type": "arch", "text": "**Historic spotlights**: Byblos = ancient city, uniform unpainted stone; Bsharri trekker = big canyon south; **Baalbek** = Roman ruin complex; Mseilha fortress (SW of Tripoli) on a limestone monolith; the only rural coastal trekker road = SW of Tripoli", "src": ["plonkit"], "sv": null, "anchor": "fPLp", "img": "lb_byblos.png", "imgs": ["lb_bsharricanyon.png", "lb_baalbek.png", "lb_mseilhafort.png", "lb_romanroad.png"], "uniq": "unique" }
  ]
 }

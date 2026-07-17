@@ -8456,7 +8456,8 @@
      "sv": null,
      "anchor": "8Q3g",
      "img": "Coverage_location.png",
-     "type": "cars"
+     "type": "cars",
+     "uniq": "unique"
     },
     {
      "cat": "country",
@@ -8736,96 +8737,375 @@
    "area_km2": 22072,
    "links": {
     "plonkit": "https://www.plonkit.net/israel-west-bank",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/63728a6bab17814982dc0412"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Plates **yellow w/ a blue strip on the left** (also common in the West Bank; Jordan/UAE = white, Tunisia = black); West Bank plates are white w/ green text (inverted → green on taxis/buses)",
+     "type": "plates",
+     "text": "Israeli plates **yellow with blue strip left** (also common in the West Bank)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Lxx7",
      "img": "il_Licence_Plate.png",
-     "type": "plates"
+     "uniq": "unique*",
+     "uniq_note": "Yellow+blue-strip plates are specific to Israel — Jordan and the UAE use white plates, Tunisia black; but the design also dominates in the West Bank (same page here)."
     },
     {
      "cat": "country",
-     "text": "Gen3 = **black car w/ a long antenna** (also black w/o antenna, or silver w/ a short antenna); Gen4 only in Israel, usually a **dirty front camera** (clean around Tel Aviv)",
+     "type": "cars",
+     "text": "Most Gen3: **black car with long antenna** (also black w/o antenna, silver w/ short antenna)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "UXde",
-     "img": "il_car.png",
-     "type": "cars"
+     "img": "il_car.png"
     },
     {
      "cat": "country",
-     "text": "**Hebrew** (practically only here) + **Arabic** (esp. in the West Bank)",
+     "type": "language",
+     "text": "**Hebrew** (practically only here) + **Arabic** (esp. West Bank)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "26il",
      "img": "il_language.png",
-     "type": "language"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Stop signs show a **painted hand** instead of a word",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "QlFr",
-     "img": "il_stopsign.png",
-     "type": "signs"
-    },
-    {
-     "cat": "country",
-     "text": "**Striped kerbs** (red/white & black/white); yellow outer + white centre road lines; white-on-black chevrons; km markers white w/ a red/green/blue border",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "OiB7",
-     "img": "il_kerb.png",
-     "type": "markings"
-    },
-    {
-     "cat": "country",
-     "text": "Utility poles w/ **black-and-white striped bottoms**; **mesh-framework** poles very common",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "q6eN",
-     "img": "IL_Mesh_Pole.png",
-     "type": "utility"
-    },
-    {
-     "cat": "country",
-     "text": "Warm-coloured **stone buildings**, blocky; Mediterranean orange-tile roofs more common than elsewhere in the Middle East (flat roofs too)",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "Xg52",
-     "img": "ilps_architecture.png",
-     "type": "arch"
-    },
-    {
-     "cat": "region",
-     "text": "Green forested **north** → extremely dry sandy **south** & E West Bank; near **Jerusalem** nearly every building is pale **Jerusalem stone**; Dead Sea = barren, Sea of Galilee = vegetated",
+     "type": "landscape",
+     "text": "Landscape: greener **Mediterranean north** → very **arid south**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "cY6B",
-     "img": "il_landscape.png",
-     "type": "landscape"
+     "img": "il_landscape.png"
+    },
+    {
+     "cat": "country",
+     "type": "arch",
+     "text": "Bright, warm **stone buildings**, blocky; orange tiled roofs commoner than elsewhere in the Middle East, flat roofs equally common",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Xg52",
+     "img": "ilps_architecture.png"
+    },
+    {
+     "cat": "country",
+     "type": "markings",
+     "text": "Most roads: **yellow outer + white centre lines**; striped kerbs everywhere (red-white, black-white; rarely red-yellow, blue-white)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "cn98",
+     "img": "IL_Roadlines.png",
+     "imgs": [
+      "il_kerb.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "united-arab-emirates",
+       "note": "Yellow outer lines also in UAE/Jordan/Oman.",
+       "diff": "White plates + desert + Gulf architecture → UAE; Hebrew → Israel.",
+       "img": "ae_roadlines.png"
+      },
+      {
+       "slug": "jordan",
+       "note": "Yellow outer lines too.",
+       "diff": "White plates + Arabic-only → Jordan."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "utility",
+     "text": "Both **A-type and B-type guardrails** common",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "aDf0",
+     "img": "ilps_guardrails.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "turkey",
+       "note": "The only other Middle-Eastern country where B-type guardrails are common.",
+       "diff": "Turkish (dotless ı) vs Hebrew script.",
+       "img": "tr_guardrails.png"
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Chevrons **white on black**; km markers white with thick **red/green/blue border**; stop sign shows a **hand** instead of a word",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "LiS4",
+     "img": "Israeli_Chevron.png",
+     "imgs": [
+      "ilps_kmmarker.png",
+      "il_stopsign.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "The hand stop sign is a strong tell — but check for Hebrew to be safe (a few other countries use symbol stop signs on private roads)."
+    },
+    {
+     "cat": "country",
+     "type": "utility",
+     "text": "Poles: **black-white striped painted bottoms** + very common **mesh-framework poles**; yellow warning sign on poles",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "ik9R",
+     "img": "IL_Stripy_Pole.png",
+     "imgs": [
+      "IL_Mesh_Pole.png",
+      "il_utilitypolesigns.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "general",
+     "text": "**Coverage**: sparse in southern Israel + most of the West Bank; **area codes** map (only mapped codes are regional)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "laqT",
+     "img": "ilps_coverage1.png",
+     "imgs": [
+      "ilps_areacodes.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "cars",
+     "text": "**Gen4 only in Israel** (black car); mostly a **dirty front camera** — clean camera ≈ Tel Aviv area",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "4Y89",
+     "img": "il_gen4.png",
+     "imgs": [
+      "il_gen4smudge.png",
+      "il_gen4nosmudge.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**North** = mountainous, green, forested; **centre** = flat, urban, better highways; **south + eastern West Bank** = extremely dry/sandy; **west of Jerusalem** looks like the north — but always hilly (no wide flat valleys) + Jerusalem-stone houses; **West Bank** = semi-arid Mediterranean, hillier & less agricultural than central Israel",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "XZS5",
+     "img": "il_northlandscape.png",
+     "imgs": [
+      "il_centrallandscape.png",
+      "ilps_southdry.png",
+      "il_jerusalemlandscape.png",
+      "ps_landscape.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "arch",
+     "text": "**Jerusalem stone**: nearly every building in Jerusalem + nearby West Bank cities (smoother on new buildings; single such houses exist elsewhere)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "l6Gd",
+     "img": "ilps_jerusalemarchitecture.png"
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Date-palm plantations** near the Jordanian border; cemented **rock walls** in the north; small **irrigation canals** around Beit She'an",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "bTSZ",
+     "img": "ilps_palmplantation.png",
+     "imgs": [
+      "il_rockwalls.png",
+      "il_irrigationchannel.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Water bodies**: Dead Sea = surrounded by total dryness (also visible from Jordan/West Bank); Sea of Galilee = noticeably vegetated; **Mount Carmel** = long NW-SE ridge near Haifa (green, high-altitude coverage on top); **Mount Gilboa** = very dry from afar, green on top",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "8SBk",
+     "img": "ilps_deadsea.png",
+     "imgs": [
+      "il_seaofgalilee.png",
+      "il_mountcarmel.png",
+      "ilps_mountgilboa.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "plates",
+     "text": "**West Bank plates**: white w/ green text (blurred = green tint); taxis/buses inverted (green w/ white); Israeli plates also common there",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "isW8",
+     "img": "ps_licenceplates2.png"
+    },
+    {
+     "cat": "region",
+     "type": "cars",
+     "text": "**West Bank follow cars**: small white Suzuki → centre/south; dark-blue Ford → northwest; big white Citroën 'SECURITY' → around Jerusalem (Bethlehem, Ramallah; always with antenna-less black car)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "jBWo",
+     "img": "ps_followcarwhite.png",
+     "imgs": [
+      "ps_followcardarkblue.png",
+      "ps_followcarbigwhite.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Road/mountain spotlights**: Road 90 (longest) = dry + N-S angle (≈ roads 31/40!), southern stretch has a dry range east + palms; Road 2 = Mediterranean visible west (mountains east → Haifa↔Zikhron Yaakov); Mount Tavor = soft round shape; Timna NP = total dryness + ridges all around; tall rocky mountains east of **Eilat**; camel-back range → Kiryat Shmona; reservoir north of Hasolelim forest; tall coastal chimneys north of Netanya",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "nIuy",
+     "img": "il_90.png",
+     "imgs": [
+      "il_90south.png",
+      "il_road2.png",
+      "il_mounttavor.png",
+      "il_timna.png",
+      "il_eilatmountain.png",
+      "il_kiryatshmona.png",
+      "il_hasolelim.png",
+      "il_chimneys.png"
+     ]
+    },
+    {
+     "cat": "city",
+     "area": "Tel Aviv",
+     "type": "general",
+     "text": "Roadsides **full of parked cars** (free spots → probably the north of the city)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "hFUY",
+     "img": "il_telavivparking.png"
+    },
+    {
+     "cat": "city",
+     "area": "Jerusalem",
+     "type": "signs",
+     "text": "White rectangular signs with a **thin blue border**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "rMis",
+     "img": "il_jerusalemsign.png"
+    },
+    {
+     "cat": "city",
+     "area": "West Bank cities",
+     "type": "general",
+     "text": "**Jericho**: date palms in sparse, poor-looking urban setting; **Ramallah**: sheer mass of black water tanks on most houses; **Bethlehem**: blue house numbers w/ Arabic + Eastern-Arabic numerals split by a diagonal",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "NQSw",
+     "img": "ps_jericho.png",
+     "imgs": [
+      "ps_ramallahwatertanks.png",
+      "ps_betlehemhousenumber.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "utility",
+     "text": "**City-unique infra**: Harish grey mosaic tower brickwork; Nahariya 3-arm white lamps; Acre 'Barad-dûr' lamps (central-Israel lookalikes lack the horn gap); Netivot angular high+low lamps; Eilat blue-white pole bottoms; Kiryat Motzkin yellow fences/posts; Ashdod blue-white fences; Raanana thick/cube roundabout signs; Rahat grey Hyundai follow car",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "x53j",
+     "img": "il_harishhouse.png",
+     "imgs": [
+      "il_nahariyalamp.png",
+      "il_acrelamp.png",
+      "il_netivotlamp.png",
+      "il_eilatpole.png",
+      "il_kiryatmotzkinfence.png",
+      "il_ashdodfence.png",
+      "il_raananaroundabout.png",
+      "il_rahatfollow.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "naming",
+     "text": "**House-number metas**: Rosh Haayin = blue w/ **G-clef**; Ness Ziona = Israeli flag; Herzliya = blue shield shape; **Bnei Brak** = ultra-Orthodox religious clothing on the street",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "wUDq",
+     "img": "il_roshhaayinhousenumber.png",
+     "imgs": [
+      "il_nesszionahousenumber.png",
+      "il_herzliyahousenumber.png",
+      "il_bneibrak.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Israel National Trail**: one of the world's longest trekkers, through every landscape; orange-blue-white **trail markings**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "qG8X",
+     "img": "il_nationaltrail.png",
+     "uniq": "unique"
     }
    ]
   },
@@ -9774,91 +10054,251 @@
    "hints": [
     {
      "cat": "country",
-     "text": "**Black car, no antenna, no red brake light** — the only Middle Eastern country covered by this car",
+     "type": "cars",
+     "text": "**Black car, no antenna, no red brake light**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "4E7V",
      "img": "Untitled_design89.png",
-     "type": "cars"
+     "uniq": "unique*",
+     "uniq_note": "The only Middle-Eastern country covered by a black car without antenna or brake light — elsewhere in the world black cars exist, so confirm with Arabic-only signage."
     },
     {
      "cat": "country",
-     "text": "Plates white (long or short); commercial/taxis have a **green strip on the left** (only Jordan in the ME; Israel = yellow plates)",
+     "type": "plates",
+     "text": "Plates **white** (long or short); taxis/commercial = **green strip left**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "xs0t",
      "img": "Jordan_License_Plate.png",
-     "type": "plates"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "united-arab-emirates",
+       "note": "UAE also uses long white plates.",
+       "diff": "The **green strip** is Jordan-only in the Middle East; UAE has English on most signs, Jordan doesn't.",
+       "img": "gen3car.png"
+      },
+      {
+       "slug": "israel-west-bank",
+       "note": "Israel = yellow plates; the West Bank mixes white domestic + yellow Israeli.",
+       "diff": "Yellow plates → Israel; Hebrew script → Israel.",
+       "img": "il_Licence_Plate.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Arabic**; unlike the UAE, **little English** on commercial signs (a good UAE-vs-Jordan tell)",
+     "type": "language",
+     "text": "**Arabic** — and unlike the UAE, most commercial signs have **no English**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "pOx9",
      "img": "arabic_language.png",
-     "type": "language"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "united-arab-emirates",
+       "note": "Arabic too — but with English on most commercial signage.",
+       "diff": "No English → Jordan; bilingual → UAE."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Roads: **yellow outer, white middle** lines; chevrons **white w/ red arrows** (Israel = black w/ white arrows)",
+     "type": "markings",
+     "text": "**Yellow outer + white middle lines**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "VLxu",
      "img": "roadlines.png",
-     "type": "markings"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "united-arab-emirates",
+       "note": "Same line scheme.",
+       "diff": "Modern Gulf highways + English → UAE.",
+       "img": "ae_roadlines.png"
+      },
+      {
+       "slug": "israel-west-bank",
+       "note": "Same line scheme.",
+       "diff": "Hebrew + yellow plates → Israel.",
+       "img": "IL_Roadlines.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Electricity poles: rounded concrete w/ a diagonal support or **three horizontal 'Y' tops**; thin metal poles w/ 3 vertical coils",
+     "type": "signs",
+     "text": "Chevrons **white with red arrows** (Israel: black w/ white arrows)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "gP2h",
+     "img": "chevron.png"
+    },
+    {
+     "cat": "country",
+     "type": "utility",
+     "text": "Poles: rounded concrete w/ **diagonal support** or **3 horizontal Y-tops**; thin metal poles w/ 2 supports + 3 vertical coils",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Ol57",
-     "img": "Untitled_design92.png",
-     "type": "utility"
+     "img": "Untitled_design92.png"
     },
     {
      "cat": "country",
-     "text": "Very **arid** — lots of lifeless desert; even the lushest parts look like arid Mediterranean",
+     "type": "landscape",
+     "text": "Very **arid**, much lifeless desert — even the lushest parts are only arid-Mediterranean",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "7uVv",
-     "img": "jo_landscape.png",
-     "type": "landscape"
+     "img": "jo_landscape.png"
     },
     {
      "cat": "country",
-     "text": "Buildings mostly **bright sandstone brick w/ flat roofs**; roads often warped/cracked (worse than Israel)",
+     "type": "arch",
+     "text": "Bright **sandstone-brick buildings with flat roofs**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "VL43",
      "img": "jo_architecture.png",
-     "type": "arch"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "israel-west-bank",
+       "note": "Jerusalem & West Bank use similar sandstone.",
+       "diff": "Hebrew or yellow plates → Israel side.",
+       "img": "ilps_jerusalemarchitecture.png"
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "markings",
+     "text": "Road quality often poor — heat-warped, **buckled cracks** (generally worse than Israel)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "sTXB",
+     "img": "Jordan_road.png"
     },
     {
      "cat": "region",
-     "text": "Coverage only in the **far west** (Amman = big-city; ends N of Jerash; south reaches Aqaba); **Madaba = red soil**; highways 15/35/40/65/80 each distinct",
+     "type": "general",
+     "text": "Coverage only in the **far west**: bigger towns + main roads; ends N of Jerash (Irbid = zero coverage), south to Aqaba",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "FniX",
      "img": "jo_coverage.png",
-     "type": "naming"
+     "super": true
+    },
+    {
+     "cat": "city",
+     "area": "Amman",
+     "type": "general",
+     "text": "Largest city w/ extensive coverage: big-city feel, slightly hilly, medium apartment blocks; taxis **yellow-green**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "KlNE",
+     "img": "Amman.png",
+     "imgs": [
+      "Amman_Taxi.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Highway metas**",
+     "bullets": [
+      "**15** (longest divided, N-S): desert; rocky hills near Aqaba",
+      "**35** (Amman↔Jerash, divided): green-speckled hills + **T-shaped lampposts** (only here)",
+      "**40** (west of Amman, divided): low green shrubs, hills → sandy Dead-Sea side; **Y-shaped lampposts**",
+      "**65 north**: Dead Sea directly west + long flat ridge across",
+      "**65 south**: single-lane N-S, long sandy stretches south of Feifa (some overcast; sunset near Aqaba airport)",
+      "**80**: divided valley road between rigid mountains, runs **E-W** (vs 15's N-S)"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "EQ0O",
+     "img": "Road_-_Highway_15.png",
+     "imgs": [
+      "Road_-_Highway_35.png",
+      "Road_-_Highway_40.png",
+      "Road_-_North_Highway_65.png",
+      "Road_-_South_Highway_65.png",
+      "Road_-_Highway_80.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "special",
+     "area": "Madaba",
+     "type": "landscape",
+     "text": "Flat, sometimes tilled fields w/ **rich red soil** (continues N+S along Hwy 35); taxis yellow w/ **white bumpers**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "NwiC",
+     "img": "Landscape_-_Madaba_Soil.png",
+     "imgs": [
+      "Madaba_Taxi.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Wadi al Hasa** (Hwy 35): arid rolling-hill valley, smooth rounded rock, single-lane road; **Aqaba**: jagged mountain wall east/south + olive-green/black taxis",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Bbns",
+     "img": "Wadi_Al_Hasa_Rolling_Hills.png",
+     "imgs": [
+      "Aqaba_Mountains.png",
+      "Aqaba_Taxi.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "area": "Petra / Wadi Musa",
+     "type": "landscape",
+     "text": "Wadi Musa: **bulbous rock formations**; Petra trekkers: eroded reddish rock, narrow gorges, tourist crowds (a mainstay of the default World map!)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "033t",
+     "img": "Wadi_Musa_Mountains.png",
+     "imgs": [
+      "Petra.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },
@@ -11650,96 +12090,167 @@
    "area_km2": 10452,
    "links": {
     "plonkit": "https://www.plonkit.net/lebanon",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/662191c459258954c4609012"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Plates long or short with a **blue strip on the left** (Euro-like); **taxis have deep-red plates**",
+     "type": "plates",
+     "text": "Plates long or short w/ **blue strip left** (Euro-like); **taxis = deep-red plates**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "2BL4",
-     "img": "lb_licenceplates.png",
-     "type": "plates"
+     "img": "lb_licenceplates.png"
     },
     {
      "cat": "country",
-     "text": "Arabic, but **English & French** also common on signage",
+     "type": "language",
+     "text": "**Arabic** official — plus common **English and French**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "C649",
      "img": "lb_arabic.png",
-     "type": "language"
+     "uniq": "unique*",
+     "uniq_note": "The Arabic+French mix is the Middle-East tell for Lebanon — other Arabic countries on Street View pair with English (UAE) or nothing (Jordan)."
     },
     {
      "cat": "country",
-     "text": "**Shitcam** — Lebanon is the only ME country with it; the rest of coverage is **Gen3 trekker**",
+     "type": "cars",
+     "text": "**Only Middle-Eastern country with official shitcam** coverage; everything else = **Gen3 trekkers**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "DdnD",
      "img": "lb_shitcam.png",
-     "type": "cars"
+     "imgs": [
+      "lb_trekker.png"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "**Mediterranean** landscape with lots of hills and rocky cliffs",
+     "type": "landscape",
+     "text": "Mediterranean landscape — many **hills & rocky cliffs**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Lgc7",
-     "img": "lb_landscape.png",
-     "type": "landscape"
+     "img": "lb_landscape.png"
     },
     {
      "cat": "country",
-     "text": "**Metallic mesh poles** (sometimes painted bright yellow) + generic wooden poles",
+     "type": "utility",
+     "text": "**Metal mesh poles**, sometimes painted bright **yellow**; generic wooden poles too",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "cdUJ",
-     "img": "Lebanon_Poles.png",
-     "type": "utility"
+     "img": "Lebanon_Poles.png"
     },
     {
      "cat": "country",
-     "text": "Many buildings of **sandstone brick** (looks like Jerusalem stone of Israel/West Bank)",
+     "type": "arch",
+     "text": "Many **sandstone-brick buildings**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "p2gU",
      "img": "lb_sandstonebricks.png",
-     "type": "arch"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "israel-west-bank",
+       "note": "Looks very similar to Jerusalem stone.",
+       "diff": "Hebrew → Israel; French/English mix + shitcam → Lebanon.",
+       "img": "ilps_jerusalemarchitecture.png"
+      }
+     ]
     },
     {
      "cat": "region",
-     "text": "Coverage concentrated on the **west coast, north of Beirut**; Zahle = flat fields + black car; snowy tops → NE mountains",
+     "type": "general",
+     "text": "Coverage concentrated on the **west coast north of Beirut**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "eRJg",
      "img": "Lebanon_Coverage_Map.png",
-     "type": "naming"
+     "super": true
     },
     {
-     "cat": "special",
-     "text": "Gen3 trekkers: **Beirut** high-rises + palm promenade; **Byblos** ancient stone city; **Baalbek** Roman ruins; several university campuses",
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Zahle**: flat farmland w/ mountains NW (+ visible **black car** in/around Zahle); **NE mountains** east of Tripoli = snow coverage; **northern Lebanon** = very flat farmland, mountains SE",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "JCQE",
+     "img": "Lebanon_East_Flat_Hint.png",
+     "imgs": [
+      "Lebanon_Snow_Hint.png",
+      "Lebanon_Very_Flat_Hint.png",
+      "Lebanon_Black_Car_Hint.png"
+     ]
+    },
+    {
+     "cat": "city",
+     "area": "Beirut",
+     "type": "arch",
+     "text": "Only covered city with **modern high-rises**; promenade coverage: grey brick pavement + many **fan palms**; Université Saint Joseph = grand old sandstone building",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "kaHF",
      "img": "lb_beirut.png",
-     "type": "general"
+     "imgs": [
+      "lb_beirutcoast.png",
+      "lb_usj.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "arch",
+     "text": "**University spotlights**: Beirut Arab Univ. (Debbieh) = sparse modern sandstone on forested hill, sea far west; LIU = stone buildings w/ unpainted ground floors + beige upper floors; Balamand = cubic modern white; Lebanese American Univ. (E of Byblos) = urban, much construction",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "RzjR",
+     "img": "lb_beirutarabuni.png",
+     "imgs": [
+      "lb_liu.png",
+      "lb_balamanduni.png",
+      "lb_lebaneseamericanuni.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "arch",
+     "text": "**Historic spotlights**: Byblos = ancient city, uniform unpainted stone; Bsharri trekker = big canyon south; **Baalbek** = Roman ruin complex; Mseilha fortress (SW of Tripoli) on a limestone monolith; the only rural coastal trekker road = SW of Tripoli",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "fPLp",
+     "img": "lb_byblos.png",
+     "imgs": [
+      "lb_bsharricanyon.png",
+      "lb_baalbek.png",
+      "lb_mseilhafort.png",
+      "lb_romanroad.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },
