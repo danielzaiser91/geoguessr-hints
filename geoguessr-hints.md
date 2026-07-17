@@ -1611,19 +1611,23 @@ Study: [Plonk It](https://www.plonkit.net/greece)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates white or standard EU blue-strip; **taxis = yellow plates** | [P](https://www.plonkit.net/greece) |  |
-| Country | **Greek alphabet** — unique; lowercase has softer shapes than Cyrillic (Cyprus also uses it) | [P](https://www.plonkit.net/greece) |  |
-| Country | Poles primarily **wooden, dark brown & tall**; **harp-shaped metal poletops** (unique to GR + Cyprus); 5 vertical insulators | [P](https://www.plonkit.net/greece) |  |
-| Country | Faded **solid white double middle lines**; **yellow road lines** more common than in any other S. European country | [P](https://www.plonkit.net/greece) |  |
-| Country | Bollards wedge-shaped w/ almost-square reflectors (red front / white back) | [P](https://www.plonkit.net/greece) |  |
-| Country | Chevrons **white arrows on black**; warning signs red border + yellow background | [P](https://www.plonkit.net/greece) |  |
-| Country | Directional signs blue, arrow-shaped: **Greek in yellow, English in white** | [P](https://www.plonkit.net/greece) |  |
-| Country | Town-entry signs white w/ thick blue horizontal stripes; km markers blue w/ "km" in Latin + Greek | [P](https://www.plonkit.net/greece) |  |
-| Country | Pedestrian sign = **two dotted horizontal lines** (not vertical stripes) | [P](https://www.plonkit.net/greece) |  |
-| Country | **Miniature roadside churches** on small pedestals — unique to Greece | [P](https://www.plonkit.net/greece) |  |
-| Country | White/pastel stone houses w/ orange roofs; iconic **white houses + blue trim** (mainly on the islands) | [P](https://www.plonkit.net/greece) |  |
-| Country | Very **mountainous** (winding mountain roads); **red dirt** common (also Albania); bleak Gen3 winter/fall coverage | [P](https://www.plonkit.net/greece) |  |
-| Special | Area codes start **2** (+1–3 digits; 3rd digit 1 = biggest city, 9 = its surroundings); **Cyclades** = white+blue houses, barren treeless small islands; **Meteora** monoliths N of Trikala; Athens yellow / Thessaloniki blue taxis | [P](https://www.plonkit.net/greece) |  |
+| Country | Plates all-white or EU blue-strip; **taxis = yellow plates** | [P](https://www.plonkit.net/greece) |  |
+| Country | **Greek alphabet** — Latin/Cyrillic-like but soft lowercase shapes | [P](https://www.plonkit.net/greece) |  |
+| Country | **Tall dark-brown wooden poles**; harp-shaped metal poletops (only GR+CY); often **5 vertical insulators**; side lamps w/ round shade (also MK/RS) | [P](https://www.plonkit.net/greece) |  |
+| Country | Slightly faded **solid white double middle lines** (Mediterranean tell); **yellow lines commoner than anywhere else in southern Europe** | [P](https://www.plonkit.net/greece) |  |
+| Country | Wedge bollards w/ **almost square reflectors** — red front / white back | [P](https://www.plonkit.net/greece) |  |
+| Country | Chevrons white-on-black (also AL/IT/UK; Spain = only 2/4 arrows); **warning signs red border + yellow background** | [P](https://www.plonkit.net/greece) |  |
+| Country | Directional signs blue, arrow-shaped: **Greek in YELLOW + English in white**; town entry = white w/ thick blue stripes top+bottom; km markers blue w/ 'km' in both alphabets | [P](https://www.plonkit.net/greece) |  |
+| Country | Pedestrian signs: **two dotted horizontal lines** (not stripes) | [P](https://www.plonkit.net/greece) |  |
+| Country | Roadside **miniature churches on pedestals** — unique to Greece | [P](https://www.plonkit.net/greece) |  |
+| Country | Mediterranean: white/pastel stone + orange tiles — **white houses commoner than elsewhere**; urban = light multi-floor w/ connected balconies; the famous **white+blue** style mostly on islands | [P](https://www.plonkit.net/greece) |  |
+| Country | Very mountainous — much winding mountain-road coverage; **red dirt** very common (also Albania) | [P](https://www.plonkit.net/greece) |  |
+| Country | Smallcam Gen4; much **bleak winter/fall Gen3** coverage | [P](https://www.plonkit.net/greece) |  |
+| Region | **Island coverage map**: mainland + Crete have all 3 generations, most islands don't; **area codes**: 2 + 1–3 digits (3rd digit 1 = biggest city of the region, 9 = its surroundings) | [P](https://www.plonkit.net/greece) |  |
+| Region | Big flat farm valleys → Thessaloniki + Larissa; tallest mountains + high-altitude roads → western half; **Cyclades** = white-blue houses + barren bushy islands; olives → coasts (Crete, S-Peloponnese); citrus → S-Peloponnese | [P](https://www.plonkit.net/greece) |  |
+| Region | **Crete**: unique antenna w/ a slight bulge at the tip | [P](https://www.plonkit.net/greece) |  |
+| City | **Athens** = yellow taxis; **Thessaloniki** = blue taxis w/ white roof + unusually tall rooftop antennas | [P](https://www.plonkit.net/greece) |  |
+| Special | **Mount Pangaion** = solitary mountain south of a flat valley; **Meteora** = monolithic rock towers north of Trikala | [P](https://www.plonkit.net/greece) |  |
 
 ## Bulgaria
 Study: [Plonk It](https://www.plonkit.net/bulgaria)
