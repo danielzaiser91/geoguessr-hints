@@ -6665,80 +6665,194 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Wide **fjords + jagged green mountains** rising straight from the water w/ rocky ridgelines (greener & more imposing than Iceland); **almost no trees**",
+     "type": "landscape",
+     "text": "Long wide **fjords + jagged green mountains rising straight from the water**, rocky ridgelines along the mountainsides; **almost no naturally growing trees**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "g4Xq",
      "img": "fo1.png",
-     "type": "landscape"
+     "imgs": [
+      "fo2.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "iceland",
+       "note": "Icelandic coastal mountains look similar but less imposing and less green.",
+       "diff": "Greener + more imposing → Faroes; volcanic black gravel → Iceland."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Gen4 = **black pickup w/ a front antenna** (always blurred; Iceland's truck has no antenna); Gen3 = black car w/ a plain grey roof rack",
+     "type": "cars",
+     "text": "Gen4 = **black pickup truck w/ a front antenna** (always blurred); Gen3 = **black car w/ a plain grey roof rack**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "RbUF",
-     "img": "fo_car.png",
-     "type": "cars"
+     "anchor": "ddcl",
+     "img": "fo3.png",
+     "imgs": [
+      "fo_car.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "No other country with a similar landscape has these cars — Iceland's truck lacks the antenna.",
+     "shared_with": [
+      {
+       "slug": "iceland",
+       "note": "Iceland's Gen4 truck has NO front antenna (and is red & white).",
+       "diff": "Front antenna + black truck → Faroes."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Houses = wood w/ an above-ground **stone basement in a different colour**; roofs are **metal or grass (turf)**",
+     "type": "arch",
+     "text": "Houses of **wood on an above-ground stone basement** painted a different colour; roofs **metal or turf (grass)**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "COV6",
      "img": "fo4.png",
-     "type": "arch"
+     "uniq": "unique*",
+     "uniq_note": "The two-tone wood-on-stone build with turf roofs is the classic Faroese look."
     },
     {
      "cat": "country",
-     "text": "**Faroese** (closest to Icelandic): Á Ð Í Ó Ú Ý Æ **Ø** — the Ø (vs Icelandic's É/Þ) is the tell",
+     "type": "language",
+     "text": "**Faroese** (closest to Icelandic): Á Ð Í Ó Ú Ý Æ + **Ø**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "q721",
      "img": "fo_language.png",
-     "type": "language"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "iceland",
+       "note": "Icelandic shares most letters but uses É and Þ instead of Ø.",
+       "diff": "**Ø → Faroese; Þ → Icelandic.**"
+      },
+      {
+       "slug": "denmark",
+       "note": "Danish also uses Ø.",
+       "diff": "Ð/accented vowels → Faroese; flat Denmark vs fjord walls."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Bollards = small **wooden sticks painted yellow** (sometimes red on top); guardrails have **yellow reflectors** (unique in Northern Europe)",
+     "type": "bollards",
+     "text": "Bollards = small **wooden sticks painted yellow**, sometimes red on top",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "u8Th",
+     "img": "fo5.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "country",
+     "type": "utility",
+     "text": "Guardrails w/ **yellow reflectors** — no other northern European country has them",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "ggio",
      "img": "fo_reflector.png",
-     "type": "bollards"
+     "uniq": "unique*",
+     "uniq_note": "Within northern Europe unique; Andorra/Spain/Belgium use yellow too but look nothing alike."
     },
     {
      "cat": "country",
-     "text": "Directional signs yellow w/ a thin black border + metal frame (very like Iceland's)",
+     "type": "signs",
+     "text": "Directional signs **yellow w/ thin black border + metal frame**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "AtU1",
      "img": "fo6.png",
-     "type": "signs"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "iceland",
+       "note": "Very similar yellow signs in Iceland.",
+       "diff": "Ø + turf roofs → Faroes; ð/þ → Iceland."
+      }
+     ]
     },
     {
      "cat": "region",
-     "text": "**Tórshavn** = biggest (only place w/ 3+ floor buildings); **Klaksvík** = narrow N-S fjord; **Kirkjubøur** = black turf-roof houses + a church ruin",
+     "type": "landscape",
+     "text": "**Tórshavn**: by far the biggest town, the only place w/ buildings **taller than 3 floors**; relatively open landscape, esp. to the east",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "vpGT",
      "img": "Torshavn.png",
-     "type": "naming"
+     "super": true
+    },
+    {
+     "cat": "city",
+     "type": "landscape",
+     "text": "**Klaksvík** (2nd biggest): narrow **N-S fjord** w/ fairly steep hills",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "iisY",
+     "img": "Klaksvik.png"
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Wind parks** (3 visible): largest NW of Tórshavn; others NE of Tórshavn + east of Vestmanna; **Kirkjubøur** (southern tip): black houses w/ grass roofs + small church ruin",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "awY5",
+     "img": "fo_windparks.png",
+     "imgs": [
+      "Blackhouses_town_idk.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "cars",
+     "text": "**Trekkers**:",
+     "bullets": [
+      "Koltur island: narrow low peninsula on the SE tip",
+      "Eiðiskollur: extremely low clouds around the peninsula",
+      "West of Skopun: wide strait north w/ the main islands behind",
+      "Klakkur: two pyramid-shaped mountains south w/ a thin snow layer",
+      "Gjógv: village view south w/ snowy mountains behind",
+      "Grey boat 'RIB62' w/ people in reflective clothes → en route to Koltur"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Le4A",
+     "img": "fo_kolturtrekker.png",
+     "imgs": [
+      "fo_eidiskollur.png",
+      "fo_hvannholmurtrekker.png",
+      "fo_klakkurtrekker.png",
+      "fo_gjogvtrekker.png",
+      "fo_boat.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },

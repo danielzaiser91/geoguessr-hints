@@ -2143,13 +2143,17 @@ Study: [Plonk It](https://www.plonkit.net/faroe-islands)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Wide **fjords + jagged green mountains** rising straight from the water w/ rocky ridgelines (greener & more imposing than Iceland); **almost no trees** | [P](https://www.plonkit.net/faroe-islands) |  |
-| Country | Gen4 = **black pickup w/ a front antenna** (always blurred; Iceland's truck has no antenna); Gen3 = black car w/ a plain grey roof rack | [P](https://www.plonkit.net/faroe-islands) |  |
-| Country | Houses = wood w/ an above-ground **stone basement in a different colour**; roofs are **metal or grass (turf)** | [P](https://www.plonkit.net/faroe-islands) |  |
-| Country | **Faroese** (closest to Icelandic): Á Ð Í Ó Ú Ý Æ **Ø** — the Ø (vs Icelandic's É/Þ) is the tell | [P](https://www.plonkit.net/faroe-islands) |  |
-| Country | Bollards = small **wooden sticks painted yellow** (sometimes red on top); guardrails have **yellow reflectors** (unique in Northern Europe) | [P](https://www.plonkit.net/faroe-islands) |  |
-| Country | Directional signs yellow w/ a thin black border + metal frame (very like Iceland's) | [P](https://www.plonkit.net/faroe-islands) |  |
-| Region | **Tórshavn** = biggest (only place w/ 3+ floor buildings); **Klaksvík** = narrow N-S fjord; **Kirkjubøur** = black turf-roof houses + a church ruin | [P](https://www.plonkit.net/faroe-islands) |  |
+| Country | Long wide **fjords + jagged green mountains rising straight from the water**, rocky ridgelines along the mountainsides; **almost no naturally growing trees** | [P](https://www.plonkit.net/faroe-islands) |  |
+| Country | Gen4 = **black pickup truck w/ a front antenna** (always blurred); Gen3 = **black car w/ a plain grey roof rack** | [P](https://www.plonkit.net/faroe-islands) |  |
+| Country | Houses of **wood on an above-ground stone basement** painted a different colour; roofs **metal or turf (grass)** | [P](https://www.plonkit.net/faroe-islands) |  |
+| Country | **Faroese** (closest to Icelandic): Á Ð Í Ó Ú Ý Æ + **Ø** | [P](https://www.plonkit.net/faroe-islands) |  |
+| Country | Bollards = small **wooden sticks painted yellow**, sometimes red on top | [P](https://www.plonkit.net/faroe-islands) |  |
+| Country | Guardrails w/ **yellow reflectors** — no other northern European country has them | [P](https://www.plonkit.net/faroe-islands) |  |
+| Country | Directional signs **yellow w/ thin black border + metal frame** | [P](https://www.plonkit.net/faroe-islands) |  |
+| Region | **Tórshavn**: by far the biggest town, the only place w/ buildings **taller than 3 floors**; relatively open landscape, esp. to the east | [P](https://www.plonkit.net/faroe-islands) |  |
+| City | **Klaksvík** (2nd biggest): narrow **N-S fjord** w/ fairly steep hills | [P](https://www.plonkit.net/faroe-islands) |  |
+| Special | **Wind parks** (3 visible): largest NW of Tórshavn; others NE of Tórshavn + east of Vestmanna; **Kirkjubøur** (southern tip): black houses w/ grass roofs + small church ruin | [P](https://www.plonkit.net/faroe-islands) |  |
+| Special | **Trekkers**: | [P](https://www.plonkit.net/faroe-islands) |  |
 
 ## Madeira
 Study: [Plonk It](https://www.plonkit.net/madeira)
