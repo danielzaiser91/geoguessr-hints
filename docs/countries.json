@@ -8735,45 +8735,66 @@
    "hints": [
     {
      "cat": "country",
-     "text": "British Overseas Territory east of Argentina's Tierra del Fuego (counts as UK); only a few **Gen3 trekkers** on 3 western islands (Carcass, West Point, New Island) — memorise them",
+     "type": "general",
+     "text": "British Overseas Territory east of Tierra del Fuego — **counts as UK** in streaks; coverage = only a few **Gen3 trekkers** on 3 western islands (**Carcass, West Point, New Island**), none on streets → memorise the trekkers, not metas",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "general"
+     "anchor": "6TmE",
+     "img": "1280px-Location_map_of_the_Falklands__E2_80_93_Alternative_version_4.svg.png",
+     "super": true
     },
     {
-     "cat": "region",
-     "text": "**Carcass Island** trekker: open plains, ocean clearly visible, ground can get rocky (don't confuse w/ the Faroe Islands trekker)",
+     "cat": "special",
+     "type": "cars",
+     "text": "**Carcass Island** trekker: open plains, ocean clearly visible, sometimes rocky ground",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "YLmC",
      "img": "Falklands_Carcass_Island.png",
-     "type": "general"
+     "uniq": "unique*",
+     "uniq_note": "Don't confuse it with the Faroe Islands trekkers — those have mountains rising from the sea.",
+     "shared_with": [
+      {
+       "slug": "faroe-islands",
+       "note": "Similar treeless ocean-plain trekker vibes.",
+       "diff": "Jagged fjord mountains → Faroes; low open plains → Falklands."
+      }
+     ]
     },
     {
-     "cat": "region",
-     "text": "**West Point Island**: open plains w/ slightly yellow grass, ocean not clearly visible; a boat trekker in West Point Bay shows the MS National Geographic Explorer",
+     "cat": "special",
+     "type": "cars",
+     "text": "**West Point Island**: open plains w/ slightly yellow grass, ocean NOT clearly visible; boat trekker in West Point Bay w/ the **MS National Geographic Explorer** + yellow hills",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "2ull",
      "img": "Falklands_West_Point_Island.png",
-     "type": "general"
+     "imgs": [
+      "Falklands_West_Point_Boat.png"
+     ],
+     "uniq": "unique"
     },
     {
-     "cat": "region",
-     "text": "**New Island**: sandy beach w/ people in red & blue jackets; inland = dark brown soil + tyre tracks; distinct steep cliffs",
+     "cat": "special",
+     "type": "cars",
+     "text": "**New Island**: sandy beach w/ people in red & blue jackets; inland = dark brown soil + tyre tracks; **distinct steep cliffs**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "CKJ1",
-     "img": "Falklands_New_Island_Cliffs.png",
-     "type": "general"
+     "anchor": "Kg1F",
+     "img": "Falklands_New_Island_Beach.png",
+     "imgs": [
+      "Falklands_New_Island_Brown_Soil.png",
+      "Falklands_New_Island_Cliffs.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },

@@ -2869,10 +2869,10 @@ Study: [Plonk It](https://www.plonkit.net/falkland-islands)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | British Overseas Territory east of Argentina's Tierra del Fuego (counts as UK); only a few **Gen3 trekkers** on 3 western islands (Carcass, West Point, New Island) — memorise them | [P](https://www.plonkit.net/falkland-islands) |  |
-| Region | **Carcass Island** trekker: open plains, ocean clearly visible, ground can get rocky (don't confuse w/ the Faroe Islands trekker) | [P](https://www.plonkit.net/falkland-islands) |  |
-| Region | **West Point Island**: open plains w/ slightly yellow grass, ocean not clearly visible; a boat trekker in West Point Bay shows the MS National Geographic Explorer | [P](https://www.plonkit.net/falkland-islands) |  |
-| Region | **New Island**: sandy beach w/ people in red & blue jackets; inland = dark brown soil + tyre tracks; distinct steep cliffs | [P](https://www.plonkit.net/falkland-islands) |  |
+| Country | British Overseas Territory east of Tierra del Fuego — **counts as UK** in streaks; coverage = only a few **Gen3 trekkers** on 3 western islands (**Carcass, West Point, New Island**), none on streets → memorise the trekkers, not metas | [P](https://www.plonkit.net/falkland-islands) |  |
+| Special | **Carcass Island** trekker: open plains, ocean clearly visible, sometimes rocky ground | [P](https://www.plonkit.net/falkland-islands) |  |
+| Special | **West Point Island**: open plains w/ slightly yellow grass, ocean NOT clearly visible; boat trekker in West Point Bay w/ the **MS National Geographic Explorer** + yellow hills | [P](https://www.plonkit.net/falkland-islands) |  |
+| Special | **New Island**: sandy beach w/ people in red & blue jackets; inland = dark brown soil + tyre tracks; **distinct steep cliffs** | [P](https://www.plonkit.net/falkland-islands) |  |
 
 ## Curaçao
 Study: [Plonk It](https://www.plonkit.net/curacao)
