@@ -11530,55 +11530,97 @@
    "area_km2": 572,
    "links": {
     "plonkit": "https://www.plonkit.net/isle-of-man",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/673b8d44492287e99fd31fa3"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "British Crown dependency between the UK & Ireland (counts as UK); coverage is only **Gen2** (lower quality, washed-out)",
+     "type": "general",
+     "text": "British Crown dependency **between the UK and Ireland** — counts as UK in streaks",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "cEF8",
+     "img": "isleofmanplace.png"
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "Coverage is **Gen2 only**: lower quality, circular blur above & below, slightly off colours",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "hu7c",
      "img": "gen2.png",
-     "type": "cars"
+     "uniq": "unique*",
+     "uniq_note": "An all-Gen2 British-looking island round is IoM or Jersey — IoM is gloomier/hillier, Jersey sunnier with French names."
     },
     {
      "cat": "country",
-     "text": "Plates UK-style (white front / yellow rear) but with a **red strip on the left**",
+     "type": "plates",
+     "text": "Plates UK-style (white front / yellow rear) but w/ a **red strip on the left**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "eKbX",
      "img": "IOM_Plate.png",
-     "type": "plates"
+     "uniq": "unique*",
+     "uniq_note": "The red strip separates IoM from mainland UK & Jersey plates.",
+     "shared_with": [
+      {
+       "slug": "united-kingdom",
+       "note": "Same white/yellow scheme, no red strip there.",
+       "diff": "Red strip → Isle of Man."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Landscape = **hilly farmland** w/ narrow roads; drives on the left",
+     "type": "landscape",
+     "text": "Landscape: **hilly farmland** w/ narrow roads through it",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "ZZ1O",
-     "img": "landscape.png",
-     "type": "landscape"
+     "img": "landscape.png"
     },
     {
      "cat": "country",
-     "text": "**Whitewashed houses** w/ entrance walls (like Ireland); striped kerbs along main roads",
+     "type": "arch",
+     "text": "Houses w/ **whitewashed walls + entrance walls**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "4nRh",
      "img": "architecture.png",
-     "type": "arch"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "ireland",
+       "note": "Very similar to rural Ireland.",
+       "diff": "Gen2-only + red-strip plates → IoM; Gen3/4 + green Eircode plates → Ireland."
+      }
+     ]
     },
     {
      "cat": "country",
+     "type": "markings",
+     "text": "**Striped kerbs** sometimes along main roads",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "2MfZ",
+     "img": "kerb.png"
+    },
+    {
+     "cat": "country",
+     "type": "bollards",
      "text": "**Blue bollards** common in urban areas",
      "src": [
       "plonkit"
@@ -11586,18 +11628,102 @@
      "sv": null,
      "anchor": "fUGu",
      "img": "bollard.png",
-     "type": "bollards"
+     "uniq": "unique"
     },
     {
-     "cat": "region",
-     "text": "**Gorse** (bright yellow flowers) very common; Douglas = capital w/ terraced rows; lamp-post stickers narrow you to 1 of 21 parishes",
+     "cat": "country",
+     "type": "landscape",
+     "text": "**Gorse** bushes (bright yellow flowers) very common",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "pQGf",
      "img": "image.png",
-     "type": "general"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "united-kingdom",
+       "note": "Gorse also in rugged UK areas (e.g. Scottish Highlands).",
+       "diff": "Gen2 + red-strip plates → IoM."
+      },
+      {
+       "slug": "ireland",
+       "note": "Gorse common in Ireland too.",
+       "diff": "Camera generation decides."
+      }
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "Generally hilly; the **north is very flat** w/ mountains visible to the south; **Laxey** sits in a NW-SE valley; a **'twig smudge'** on the left lens → southern IoM",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "sQ1O",
+     "img": "0.png",
+     "imgs": [
+      "1.png",
+      "3.png",
+      "2.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "utility",
+     "text": "**Lamp-post sticker meta** (region decider):",
+     "bullets": [
+      "Generic lamp w/ blue base + small blue sticker = most of the island; top 2 letters → 1 of the 21 parishes",
+      "All-green lamps → Ramsey & Castletown (rarer: Malew, Santon, Garff)",
+      "White sticker w/ 2 green numbers → Douglas",
+      "Yellow sticker → southern Onchan; its 2 letters = road-name initials ('SD' = Sunningdale Drive)"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "kUjb",
+     "img": "4.png",
+     "imgs": [
+      "5.png",
+      "6.png",
+      "7.png"
+     ],
+     "super": true,
+     "uniq": "unique"
+    },
+    {
+     "cat": "city",
+     "type": "arch",
+     "text": "**Douglas** (capital): rows of **terraced houses**, higher density; street signs w/ the **oval coat of arms** → Ramsey; arms ABOVE the text → Port Erin",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "jTc8",
+     "img": "Douglas_Metropolitan_Area.png",
+     "imgs": [
+      "8.png",
+      "9.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Spotlights**: Ronaldsway Airport = large open field w/ boundary fence; **Peel Castle** on its island → Peel",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Arok",
+     "img": "Airport.png",
+     "imgs": [
+      "10.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },

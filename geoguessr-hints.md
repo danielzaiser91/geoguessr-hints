@@ -2166,16 +2166,22 @@ Study: [Plonk It](https://www.plonkit.net/madeira)
 | Region | Banana plantations in the **south**; misty central-west **plateau** w/ wind turbines; **arid eastern tip** w/ little vegetation | [P](https://www.plonkit.net/madeira) |  |
 
 ## Isle of Man
-Study: [Plonk It](https://www.plonkit.net/isle-of-man)
+Study: [Plonk It](https://www.plonkit.net/isle-of-man) · [GeoGuessr map](https://www.geoguessr.com/maps/673b8d44492287e99fd31fa3)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | British Crown dependency between the UK & Ireland (counts as UK); coverage is only **Gen2** (lower quality, washed-out) | [P](https://www.plonkit.net/isle-of-man) |  |
-| Country | Plates UK-style (white front / yellow rear) but with a **red strip on the left** | [P](https://www.plonkit.net/isle-of-man) |  |
-| Country | Landscape = **hilly farmland** w/ narrow roads; drives on the left | [P](https://www.plonkit.net/isle-of-man) |  |
-| Country | **Whitewashed houses** w/ entrance walls (like Ireland); striped kerbs along main roads | [P](https://www.plonkit.net/isle-of-man) |  |
+| Country | British Crown dependency **between the UK and Ireland** — counts as UK in streaks | [P](https://www.plonkit.net/isle-of-man) |  |
+| Country | Coverage is **Gen2 only**: lower quality, circular blur above & below, slightly off colours | [P](https://www.plonkit.net/isle-of-man) |  |
+| Country | Plates UK-style (white front / yellow rear) but w/ a **red strip on the left** | [P](https://www.plonkit.net/isle-of-man) |  |
+| Country | Landscape: **hilly farmland** w/ narrow roads through it | [P](https://www.plonkit.net/isle-of-man) |  |
+| Country | Houses w/ **whitewashed walls + entrance walls** | [P](https://www.plonkit.net/isle-of-man) |  |
+| Country | **Striped kerbs** sometimes along main roads | [P](https://www.plonkit.net/isle-of-man) |  |
 | Country | **Blue bollards** common in urban areas | [P](https://www.plonkit.net/isle-of-man) |  |
-| Region | **Gorse** (bright yellow flowers) very common; Douglas = capital w/ terraced rows; lamp-post stickers narrow you to 1 of 21 parishes | [P](https://www.plonkit.net/isle-of-man) |  |
+| Country | **Gorse** bushes (bright yellow flowers) very common | [P](https://www.plonkit.net/isle-of-man) |  |
+| Region | Generally hilly; the **north is very flat** w/ mountains visible to the south; **Laxey** sits in a NW-SE valley; a **'twig smudge'** on the left lens → southern IoM | [P](https://www.plonkit.net/isle-of-man) |  |
+| Region | **Lamp-post sticker meta** (region decider): | [P](https://www.plonkit.net/isle-of-man) |  |
+| City | **Douglas** (capital): rows of **terraced houses**, higher density; street signs w/ the **oval coat of arms** → Ramsey; arms ABOVE the text → Port Erin | [P](https://www.plonkit.net/isle-of-man) |  |
+| Special | **Spotlights**: Ronaldsway Airport = large open field w/ boundary fence; **Peel Castle** on its island → Peel | [P](https://www.plonkit.net/isle-of-man) |  |
 
 ## Andorra
 Study: [Plonk It](https://www.plonkit.net/andorra)
