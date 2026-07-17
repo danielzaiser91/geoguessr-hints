@@ -3,15 +3,33 @@
  "slug": "cyprus",
  "continent": "Asia",
  "area_km2": 9251,
- "links": { "plonkit": "https://www.plonkit.net/cyprus", "geoguessr": null },
+ "links": { "plonkit": "https://www.plonkit.net/cyprus", "geoguessr": "https://www.geoguessr.com/maps/69066659c7731161a3738090" },
  "hints": [
-  { "cat": "country", "text": "Drives on the **left** (former UK colony); plates are white EU **or** UK-style yellow-rear, most w/ an EU strip; red rental plates common", "src": ["plonkit"], "sv": null, "anchor": "SpqU", "img": "Cyprus License Plates.jpg", "type": "plates" },
-  { "cat": "country", "text": "**Greek + English** everywhere (Greek alphabet, softer than Cyrillic); only the **southern** half is covered", "src": ["plonkit"], "sv": null, "anchor": "LzpI", "img": "gr_language.webp", "type": "language" },
-  { "cat": "country", "text": "Gen4 **'smallcam'** mounted low, big circular blur w/ a small front protrusion, sometimes a short **antenna on the back** (Greek smallcam never has an antenna)", "src": ["plonkit"], "sv": null, "anchor": "RNMJ", "img": "cy_smallcam.png", "type": "cars" },
-  { "cat": "country", "text": "Bollards like Turkey's (red front / white back reflector) but **triangular w/ a slanted top**, not flat", "src": ["plonkit"], "sv": null, "anchor": "blro", "img": "cy_bollard.png", "type": "bollards" },
-  { "cat": "country", "text": "**Town-entry signs**: yellow rectangle w/ red border (or small white one) w/ Greek+English + a speed sign above — unique; directional signs like Greece but Greek is **not** all-caps", "src": ["plonkit"], "sv": null, "anchor": "e6Mi", "img": "Cyprus TownEntry.png", "type": "signs" },
-  { "cat": "country", "text": "Tall **dark-brown wooden** utility poles; poletops = crossbar-insulators or a **harp-shaped** metal frame (symmetric 3-insulator top is Cyprus-specific)", "src": ["plonkit"], "sv": null, "anchor": "zqFQ", "img": "Cyprus Poles.png", "type": "utility" },
-  { "cat": "country", "text": "Brightly-painted stone houses (tiled/flat roofs) w/ a white **horizontal cylindrical roof water tank**; Mediterranean scrub, olive/palm/cypress", "src": ["plonkit"], "sv": null, "anchor": "GraQ", "img": "Cyprus WaterTank.png", "type": "arch" },
-  { "cat": "region", "text": "Small hilly island, **centre highest** (orient by it); bright **limestone** on the south coast, **reddish soil** inland/NW; roads A/B/E/F grouped by first digit", "src": ["plonkit"], "sv": null, "anchor": "JQb2", "img": "Cyprus Landscape.png", "type": "landscape" }
+  { "cat": "country", "type": "plates", "text": "Plates white EU **or** UK-style **yellow rear**, mostly w/ EU strip; **red rental plates** common", "src": ["plonkit"], "sv": null, "anchor": "SpqU", "img": "Cyprus License Plates.jpg" },
+  { "cat": "country", "type": "general", "text": "Drives on the **left** (ex-UK colony — UK-style signs & road lines too)", "src": ["plonkit"], "sv": null, "anchor": "SuER", "img": "CyprusDriveSide.png", "imgs": ["UKSimilrities.png"],
+    "uniq": "shared", "shared_with": [
+      { "slug": "malta", "note": "Malta also drives left with UK heritage.", "diff": "Maltese/English + globigerina limestone → Malta; Greek script → Cyprus." },
+      { "slug": "united-kingdom", "note": "The infrastructure itself is borrowed from the UK.", "diff": "Mediterranean landscape + Greek → Cyprus." } ] },
+  { "cat": "country", "type": "language", "text": "**Greek + English** (Greek alphabet, soft lowercase shapes)", "src": ["plonkit"], "sv": null, "anchor": "LzpI", "img": "gr_language.webp",
+    "uniq": "shared", "shared_with": [
+      { "slug": "greece", "note": "Same alphabet.", "diff": "Cyprus drives LEFT + English co-signage; Greece drives right.", "img": "gr_language.webp" } ] },
+  { "cat": "country", "type": "cars", "text": "Mostly Gen4 **smallcam** (low mount, big blur, front protrusion) — sometimes a **short antenna** visible at the back", "src": ["plonkit"], "sv": null, "anchor": "RNMJ", "img": "cy_smallcam.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "greece", "note": "Greece has much smallcam too — but **never a visible antenna**.", "diff": "Antenna → Cyprus. Driving side decides anyway." } ] },
+  { "cat": "country", "type": "bollards", "text": "Bollards like Turkish ones (red front / white back reflector) but **triangular with a slanted top**, not flat", "src": ["plonkit"], "sv": null, "anchor": "blro", "img": "cy_bollard.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "turkey", "note": "Superficially similar bollards.", "diff": "Turkish ones are **flat**; Cypriot triangular + slanted.", "img": "tr_bollard.png" } ] },
+  { "cat": "country", "type": "signs", "text": "Directional signs ≈ Greek ones — but Greek text is NOT all-caps (Greece: all-caps); **town-entry signs** (yellow w/ red border or white, bilingual + speed limit above) are unique to Cyprus", "src": ["plonkit"], "sv": null, "anchor": "qUjp", "img": "cy_directionalsign.png", "imgs": ["Cyprus TownEntry.png"], "uniq": "unique" },
+  { "cat": "country", "type": "utility", "text": "Tall **dark-brown wooden poles** (like Greece); poletops: crossbar w/ 0/3 insulators, 5 side insulators, or harp-shaped frame — the **symmetric 3-insulator top is Cyprus-specific**", "src": ["plonkit"], "sv": null, "anchor": "Ls03", "img": "cy_utilitypole.png", "imgs": ["Cyprus Poles.png"],
+    "uniq": "shared", "shared_with": [
+      { "slug": "greece", "note": "Same pole style & most poletops.", "diff": "The symmetric 3-insulator top → Cyprus; driving side otherwise." } ] },
+  { "cat": "country", "type": "arch", "text": "Brightly painted **stone buildings**, tiled or flat roofs (Greek-like); houses often carry a **white horizontal cylindrical water tank** w/ circular lid", "src": ["plonkit"], "sv": null, "anchor": "mLLv", "img": "cy_architecture.png", "imgs": ["Cyprus WaterTank.png"] },
+  { "cat": "country", "type": "landscape", "text": "Mediterranean: bright exposed rock, olive/palm/cypress trees, green coastal farmland, pine-forest mountains inland", "src": ["plonkit"], "sv": null, "anchor": "JQb2", "img": "Cyprus Landscape.png" },
+  { "cat": "region", "type": "general", "text": "Only the **southern half** covered (Republic + Akrotiri & Dhekelia); road numbers A/B/E/F grouped by first digit (E/F near matching B road); 5 provinces = 2-digit area codes (2x); postal codes 4-digit on street signs (T.K./T.T.)", "src": ["plonkit"], "sv": null, "anchor": "tgbp", "img": "Cyprus Coverage Map.jpg", "imgs": ["Cyprus Road Numbers Map.jpg", "Cyprus Area Codes Map.jpg", "Cyprus Postal Codes Map.jpg"], "super": true },
+  { "cat": "region", "type": "landscape", "text": "**Terrain = compass**: centre = highest; white limestone → south coast; reddish soil → interior + NW; vineyards → SW; wild mustard (yellow flowers) → mostly east; dark red fields → north + Famagusta", "src": ["plonkit"], "sv": null, "anchor": "7IFu", "img": "image (4).png", "imgs": ["Cyprus White Rock.png", "e5PzGxX.jpeg(2).png", "Cyprus Wine Regions.png", "Cyprus Yellow Flowers.png", "Cyprus or Zacatecas.png"] },
+  { "cat": "region", "type": "landscape", "text": "**Paphos Forest**: windy mountain roads, red soil, uninhabited — and (almost) no bollards; **NE**: Kyrenia ridge visible north over flat farmland; NE also has **black-top bollards** (Slovenia-like)", "src": ["plonkit"], "sv": null, "anchor": "IsTg", "img": "Cyprus Paphos Forest.png", "imgs": ["Cyprus North Valley.png", "Cyprus or Slovenia maybe Bonsia_.png"] },
+  { "cat": "region", "type": "cars", "text": "**Famagusta** (far east): flat + red fields — and ALL coverage is **shitcam** (rare elsewhere on the island)", "src": ["plonkit"], "sv": null, "anchor": "H1jq", "img": "Cyprus Famagusta.png", "uniq": "unique" },
+  { "cat": "region", "type": "utility", "text": "**Wind turbines** in 2 clusters: west of Larnaca (sandy rolling farm hills) + SW of Anogyra (Oreites Forest, incline toward the visible coast)", "src": ["plonkit"], "sv": null, "anchor": "zbcn", "img": "Cyprus Wind Torbines.png", "imgs": ["Cyprus NE Torbines.png", "Cyprus SW Torbines.png"] },
+  { "cat": "special", "type": "landscape", "text": "**Spotlights**: snow coverage near Panagia Machaira monastery; dashed **blue lines** between road markings around Mount Olympus; banana plantations around Peyia (west coast); **Limassol** = Russian on many commercial signs (17% Russian-speaking)", "src": ["plonkit"], "sv": null, "anchor": "MDsc", "img": "Cyprus Snow!.png", "imgs": ["Cyprus Blue Lines.png", "Ecuadooor.png", "limassol_cyrillic.png"], "uniq": "unique" }
  ]
 }

@@ -5,11 +5,19 @@
  "area_km2": 33,
  "links": { "plonkit": "https://www.plonkit.net/macau", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Chinese SAR (counts as China); coverage only **Gen2** — some of the **oldest**, so extra washed-out & overexposed (a tell in itself)", "src": ["plonkit"], "sv": null, "anchor": "Rskk", "img": "gen2.png", "type": "cars" },
-  { "cat": "country", "text": "Plates **black w/ white text** (long or square)", "src": ["plonkit"], "sv": null, "anchor": "xDZU", "img": "Licence_Plates.png", "type": "plates" },
-  { "cat": "country", "text": "Grey cylindrical lamp posts with a **black-painted bottom** (Hong Kong's similar posts lack the black bottom)", "src": ["plonkit"], "sv": null, "anchor": "5pnX", "img": "lamppost.png", "type": "utility" },
-  { "cat": "country", "text": "**Chinese + Portuguese** (former Portuguese colony) — Portuguese common on storefronts", "src": ["plonkit"], "sv": null, "anchor": "YpXQ", "img": "chinese_portuguese.png", "type": "language" },
-  { "cat": "country", "text": "White street signs w/ a **blue border** around Chinese + Portuguese text — unique to Macau", "src": ["plonkit"], "sv": null, "anchor": "3QHj", "img": "streetsigns.png", "type": "naming" },
-  { "cat": "region", "text": "**Casinos & gambling ads** everywhere (kitsch; some newer ones under construction in the old Gen2); dense apartments north, hilly rural south", "src": ["plonkit"], "sv": null, "anchor": "aq1W", "img": "Gambling.png", "type": "general" }
+  { "cat": "country", "type": "cars", "text": "Chinese SAR (counts as China); coverage only **Gen2** — some of the **oldest**, extra washed-out & overexposed (a tell in itself)", "src": ["plonkit"], "sv": null, "anchor": "Rskk", "img": "gen2.png", "uniq": "unique" },
+  { "cat": "country", "type": "plates", "text": "Plates **black with white text**, long or square", "src": ["plonkit"], "sv": null, "anchor": "xDZU", "img": "Licence_Plates.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "malaysia", "note": "Black plates too (2 sections).", "diff": "Gen2 washed-out coverage + Portuguese → Macau." },
+      { "slug": "indonesia", "note": "Black plates (3 sections).", "diff": "Portuguese + casinos → Macau." },
+      { "slug": "singapore", "note": "Black unsegmented plates too.", "diff": "Singapore = crisp modern coverage; Macau = old Gen2." } ] },
+  { "cat": "country", "type": "utility", "text": "Cylindrical grey lamp posts with **black-painted bottom**", "src": ["plonkit"], "sv": null, "anchor": "5pnX", "img": "lamppost.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "hong-kong", "note": "HK's similar lamp posts lack the black bottom.", "diff": "Black bottom → Macau.", "img": "ooh_light_producing_thing.png" } ] },
+  { "cat": "country", "type": "language", "text": "**Portuguese + Chinese** on storefronts and signs (colonial history)", "src": ["plonkit"], "sv": null, "anchor": "YpXQ", "img": "chinese_portuguese.png", "uniq": "unique" },
+  { "cat": "country", "type": "signs", "text": "White street signs w/ **blue border** around Chinese + Portuguese text", "src": ["plonkit"], "sv": null, "anchor": "3QHj", "img": "streetsigns.png", "uniq": "unique" },
+  { "cat": "country", "type": "general", "text": "**Casinos & gambling ads** everywhere (50% of GDP), extravagant kitsch buildings — many still under construction in the old coverage", "src": ["plonkit"], "sv": null, "anchor": "aq1W", "img": "Gambling.png" },
+  { "cat": "region", "type": "arch", "text": "**North**: dense apartments, gridded narrow streets, cars parked both sides; **south**: hilly rural winding roads w/ trees — few clues, use the washed-out Gen2 + lamp posts", "src": ["plonkit"], "sv": null, "anchor": "vB8M", "img": "Dense.png", "imgs": ["Rural.png"] },
+  { "cat": "special", "type": "utility", "text": "**Bridges**: Sai Van = cuboid towers with arches; Amizade = red guardrails", "src": ["plonkit"], "sv": null, "anchor": "Hhsi", "img": "Sai_Van_Bridge.png", "imgs": ["Amizade_Bridge.png"], "uniq": "unique" }
  ]
 }

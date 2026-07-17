@@ -5,13 +5,21 @@
  "area_km2": 728,
  "links": { "plonkit": "https://www.plonkit.net/singapore", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Developed **city-state** — clean & orderly; divided main roads w/ **B&W curbs + double yellow outer lines** + tall apartment blocks (often all you need)", "src": ["plonkit"], "sv": null, "anchor": "dONA", "img": "landscape.png", "type": "general" },
-  { "cat": "country", "text": "Street signs = **green, rounded edges, distinct white font** (one unique nationwide format)", "src": ["plonkit"], "sv": null, "anchor": "oACN", "img": "streetsign.png", "type": "naming" },
-  { "cat": "country", "text": "Plates mostly **black w/ white text** (MY/ID also black, but their letters split into 2–3 sections; Singapore's don't)", "src": ["plonkit"], "sv": null, "anchor": "mfCc", "img": "Singapore_License_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "Directional signs green + English; expressways have **3-letter codes** (e.g. TPE); road signs sit on a **square white background** (unique)", "src": ["plonkit"], "sv": null, "anchor": "9Mue", "img": "directionalsign.png", "type": "signs" },
-  { "cat": "country", "text": "**Rain trees** along main roads; warnings painted large on the road (famous **\"HUMP AHEAD\"**)", "src": ["plonkit"], "sv": null, "anchor": "U9vA", "img": "raintrees.png", "type": "landscape" },
-  { "cat": "country", "text": "Buses mostly **lime-green**; bus stops protected by concrete **black-and-yellow warning-band bollards**", "src": ["plonkit"], "sv": null, "anchor": "RNhX", "img": "busstopbollard.png", "type": "general" },
-  { "cat": "country", "text": "Traffic lights on a **curved perforated metal sheet**", "src": ["plonkit"], "sv": null, "anchor": "hHxa", "img": "trafficlight.png", "type": "utility" },
-  { "cat": "region", "text": "Streets named after their **neighbourhood** (appears fast on the map, e.g. Ang Mo Kio); Sentosa = resort feel; Tuas = industrial cranes/containers", "src": ["plonkit"], "sv": null, "anchor": "gJnM", "img": "Untitled_design__2845_29.png", "type": "naming" }
+  { "cat": "country", "type": "general", "text": "Developed **city-state** — clean & orderly; divided main roads w/ **B&W kerbs + double yellow outer lines** + tall apartment blocks (often all you need)", "src": ["plonkit"], "sv": null, "anchor": "dONA", "img": "landscape.png" },
+  { "cat": "country", "type": "signs", "text": "Street signs: **green, rounded edges, distinct white font** — unique format; directional signs green/white English (expressways = 3-letter codes like TPE)", "src": ["plonkit"], "sv": null, "anchor": "oACN", "img": "streetsign.png", "imgs": ["directionalsign.png"], "uniq": "unique" },
+  { "cat": "country", "type": "plates", "text": "Plates **black with white text** (occasionally British white/yellow, rarely red)", "src": ["plonkit"], "sv": null, "anchor": "mfCc", "img": "Singapore_License_Plate.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "malaysia", "note": "Black plates too — but usually split into **2 sections**.", "diff": "Unsegmented plate → Singapore.", "img": "Malaysia_License_Plate.png" },
+      { "slug": "indonesia", "note": "Black plates with **3 sections**.", "diff": "Unsegmented plate → Singapore.", "img": "Indonesia_License_Plate_2.png" } ] },
+  { "cat": "country", "type": "signs", "text": "Road signs always on a **square white background**", "src": ["plonkit"], "sv": null, "anchor": "gJnM", "img": "Untitled_design__2845_29.png", "uniq": "unique" },
+  { "cat": "country", "type": "landscape", "text": "**Rain trees** planted along main roads everywhere", "src": ["plonkit"], "sv": null, "anchor": "U9vA", "img": "raintrees.png" },
+  { "cat": "country", "type": "markings", "text": "Warnings written on the road in big letters (**HUMP AHEAD**)", "src": ["plonkit"], "sv": null, "anchor": "hevr", "img": "roadwarnings.png", "uniq": "unique" },
+  { "cat": "country", "type": "cars", "text": "Buses mostly **lime-green** (also white-purple SBS Transit); bus stops guarded by concrete bollards w/ **black-yellow warning bands**; yellow **bus-leaving box** on the street", "src": ["plonkit"], "sv": null, "anchor": "NOTm", "img": "Copy_of_Untitled__2822_29.png", "imgs": ["busstopbollard.png", "busleavingbox.png"],
+    "uniq": "shared", "shared_with": [
+      { "slug": "malaysia", "note": "Similar (not identical) bus-stop bollards in some Malaysian cities.", "diff": "Lime-green buses + orderly city-state look → Singapore." } ] },
+  { "cat": "country", "type": "utility", "text": "Traffic lights on a **curved, hole-punched metal sheet** support", "src": ["plonkit"], "sv": null, "anchor": "hHxa", "img": "trafficlight.png", "uniq": "unique" },
+  { "cat": "region", "type": "naming", "text": "Streets named after their **neighbourhood** (esp. suburbs) — e.g. 'Ang Mo Kio Street 31' → scan the map for the neighbourhood name", "src": ["plonkit"], "sv": null, "anchor": "sB3c", "img": "2022-12-21__283_29.png", "super": true },
+  { "cat": "region", "type": "general", "text": "**Tuas** = industrial: straight roads, cranes, shipping containers; **Sentosa** = resort feel, winding roads, green signposts, sometimes a green lane", "src": ["plonkit"], "sv": null, "anchor": "nZF6", "img": "Singapore_Tuas.png", "imgs": ["Singapore_Sentosa.png"] },
+  { "cat": "special", "type": "landscape", "text": "**Island trekkers**: Pulau Ubin = unusually rural forest + camo hat visible looking down; St John & Lazarus = smooth asphalt + sea nearby; **Kusu Island** = red paving stones on the whole path", "src": ["plonkit"], "sv": null, "anchor": "SP7M", "img": "Singapore_Pulau-Ubin.png", "imgs": ["Singapore_St_John_and_Lazarus.png", "Singapore_Kusu_Island.png"], "uniq": "unique" }
  ]
 }

@@ -2347,7 +2347,7 @@
      "type": "landscape"
     },
     {
-     "cat": "region",
+     "cat": "special",
      "text": "**Coin du Mire** = dark rocky shore + grassy field (no palms); a white shipwreck sits on the beach at the E tip of **Nelsons Island**",
      "src": [
       "plonkit"
@@ -2355,7 +2355,8 @@
      "sv": null,
      "anchor": "u9yO",
      "img": "io_shipwreck.png",
-     "type": "general"
+     "type": "general",
+     "uniq": "unique"
     }
    ]
   },
@@ -4112,96 +4113,261 @@
    "area_km2": 9251,
    "links": {
     "plonkit": "https://www.plonkit.net/cyprus",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/69066659c7731161a3738090"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Drives on the **left** (former UK colony); plates are white EU **or** UK-style yellow-rear, most w/ an EU strip; red rental plates common",
+     "type": "plates",
+     "text": "Plates white EU **or** UK-style **yellow rear**, mostly w/ EU strip; **red rental plates** common",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "SpqU",
-     "img": "Cyprus License Plates.jpg",
-     "type": "plates"
+     "img": "Cyprus License Plates.jpg"
     },
     {
      "cat": "country",
-     "text": "**Greek + English** everywhere (Greek alphabet, softer than Cyrillic); only the **southern** half is covered",
+     "type": "general",
+     "text": "Drives on the **left** (ex-UK colony — UK-style signs & road lines too)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "SuER",
+     "img": "CyprusDriveSide.png",
+     "imgs": [
+      "UKSimilrities.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "malta",
+       "note": "Malta also drives left with UK heritage.",
+       "diff": "Maltese/English + globigerina limestone → Malta; Greek script → Cyprus."
+      },
+      {
+       "slug": "united-kingdom",
+       "note": "The infrastructure itself is borrowed from the UK.",
+       "diff": "Mediterranean landscape + Greek → Cyprus."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "language",
+     "text": "**Greek + English** (Greek alphabet, soft lowercase shapes)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "LzpI",
      "img": "gr_language.webp",
-     "type": "language"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "greece",
+       "note": "Same alphabet.",
+       "diff": "Cyprus drives LEFT + English co-signage; Greece drives right.",
+       "img": "gr_language.webp"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Gen4 **'smallcam'** mounted low, big circular blur w/ a small front protrusion, sometimes a short **antenna on the back** (Greek smallcam never has an antenna)",
+     "type": "cars",
+     "text": "Mostly Gen4 **smallcam** (low mount, big blur, front protrusion) — sometimes a **short antenna** visible at the back",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "RNMJ",
      "img": "cy_smallcam.png",
-     "type": "cars"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "greece",
+       "note": "Greece has much smallcam too — but **never a visible antenna**.",
+       "diff": "Antenna → Cyprus. Driving side decides anyway."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Bollards like Turkey's (red front / white back reflector) but **triangular w/ a slanted top**, not flat",
+     "type": "bollards",
+     "text": "Bollards like Turkish ones (red front / white back reflector) but **triangular with a slanted top**, not flat",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "blro",
      "img": "cy_bollard.png",
-     "type": "bollards"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "turkey",
+       "note": "Superficially similar bollards.",
+       "diff": "Turkish ones are **flat**; Cypriot triangular + slanted.",
+       "img": "tr_bollard.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Town-entry signs**: yellow rectangle w/ red border (or small white one) w/ Greek+English + a speed sign above — unique; directional signs like Greece but Greek is **not** all-caps",
+     "type": "signs",
+     "text": "Directional signs ≈ Greek ones — but Greek text is NOT all-caps (Greece: all-caps); **town-entry signs** (yellow w/ red border or white, bilingual + speed limit above) are unique to Cyprus",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "e6Mi",
-     "img": "Cyprus TownEntry.png",
-     "type": "signs"
+     "anchor": "qUjp",
+     "img": "cy_directionalsign.png",
+     "imgs": [
+      "Cyprus TownEntry.png"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Tall **dark-brown wooden** utility poles; poletops = crossbar-insulators or a **harp-shaped** metal frame (symmetric 3-insulator top is Cyprus-specific)",
+     "type": "utility",
+     "text": "Tall **dark-brown wooden poles** (like Greece); poletops: crossbar w/ 0/3 insulators, 5 side insulators, or harp-shaped frame — the **symmetric 3-insulator top is Cyprus-specific**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "zqFQ",
-     "img": "Cyprus Poles.png",
-     "type": "utility"
+     "anchor": "Ls03",
+     "img": "cy_utilitypole.png",
+     "imgs": [
+      "Cyprus Poles.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "greece",
+       "note": "Same pole style & most poletops.",
+       "diff": "The symmetric 3-insulator top → Cyprus; driving side otherwise."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Brightly-painted stone houses (tiled/flat roofs) w/ a white **horizontal cylindrical roof water tank**; Mediterranean scrub, olive/palm/cypress",
+     "type": "arch",
+     "text": "Brightly painted **stone buildings**, tiled or flat roofs (Greek-like); houses often carry a **white horizontal cylindrical water tank** w/ circular lid",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "GraQ",
-     "img": "Cyprus WaterTank.png",
-     "type": "arch"
+     "anchor": "mLLv",
+     "img": "cy_architecture.png",
+     "imgs": [
+      "Cyprus WaterTank.png"
+     ]
     },
     {
-     "cat": "region",
-     "text": "Small hilly island, **centre highest** (orient by it); bright **limestone** on the south coast, **reddish soil** inland/NW; roads A/B/E/F grouped by first digit",
+     "cat": "country",
+     "type": "landscape",
+     "text": "Mediterranean: bright exposed rock, olive/palm/cypress trees, green coastal farmland, pine-forest mountains inland",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "JQb2",
-     "img": "Cyprus Landscape.png",
-     "type": "landscape"
+     "img": "Cyprus Landscape.png"
+    },
+    {
+     "cat": "region",
+     "type": "general",
+     "text": "Only the **southern half** covered (Republic + Akrotiri & Dhekelia); road numbers A/B/E/F grouped by first digit (E/F near matching B road); 5 provinces = 2-digit area codes (2x); postal codes 4-digit on street signs (T.K./T.T.)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "tgbp",
+     "img": "Cyprus Coverage Map.jpg",
+     "imgs": [
+      "Cyprus Road Numbers Map.jpg",
+      "Cyprus Area Codes Map.jpg",
+      "Cyprus Postal Codes Map.jpg"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Terrain = compass**: centre = highest; white limestone → south coast; reddish soil → interior + NW; vineyards → SW; wild mustard (yellow flowers) → mostly east; dark red fields → north + Famagusta",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "7IFu",
+     "img": "image (4).png",
+     "imgs": [
+      "Cyprus White Rock.png",
+      "e5PzGxX.jpeg(2).png",
+      "Cyprus Wine Regions.png",
+      "Cyprus Yellow Flowers.png",
+      "Cyprus or Zacatecas.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Paphos Forest**: windy mountain roads, red soil, uninhabited — and (almost) no bollards; **NE**: Kyrenia ridge visible north over flat farmland; NE also has **black-top bollards** (Slovenia-like)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "IsTg",
+     "img": "Cyprus Paphos Forest.png",
+     "imgs": [
+      "Cyprus North Valley.png",
+      "Cyprus or Slovenia maybe Bonsia_.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "cars",
+     "text": "**Famagusta** (far east): flat + red fields — and ALL coverage is **shitcam** (rare elsewhere on the island)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "H1jq",
+     "img": "Cyprus Famagusta.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "region",
+     "type": "utility",
+     "text": "**Wind turbines** in 2 clusters: west of Larnaca (sandy rolling farm hills) + SW of Anogyra (Oreites Forest, incline toward the visible coast)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "zbcn",
+     "img": "Cyprus Wind Torbines.png",
+     "imgs": [
+      "Cyprus NE Torbines.png",
+      "Cyprus SW Torbines.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Spotlights**: snow coverage near Panagia Machaira monastery; dashed **blue lines** between road markings around Mount Olympus; banana plantations around Peyia (west coast); **Limassol** = Russian on many commercial signs (17% Russian-speaking)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "MDsc",
+     "img": "Cyprus Snow!.png",
+     "imgs": [
+      "Cyprus Blue Lines.png",
+      "Ecuadooor.png",
+      "limassol_cyrillic.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },
@@ -6518,94 +6684,273 @@
    "area_km2": 1106,
    "links": {
     "plonkit": "https://www.plonkit.net/hong-kong",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/6294af15ed0f1605632b122d"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Chinese SAR (counts as China); plates **white front / yellow rear** (long or short); some cars carry an extra black mainland plate",
+     "type": "plates",
+     "text": "Chinese SAR (counts as China in streaks); plates **white front / yellow rear** (some cars carry an extra black mainland plate)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "ixNM",
      "img": "Hong_Kong_License_Plate.png",
-     "type": "plates"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "sri-lanka",
+       "note": "Also white front / yellow rear plates.",
+       "diff": "Sinhala + tropical island → Sri Lanka; dense skyscrapers → HK."
+      }
+     ]
     },
     {
      "cat": "country",
+     "type": "general",
      "text": "Drives on the **left** (Singapore too; Taiwan drives right)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "1TPi",
-     "img": "driving_side.png",
-     "type": "cars"
+     "img": "driving_side.png"
     },
     {
      "cat": "country",
-     "text": "Dense city of skyscrapers & busy streets; **rural areas mountainous + subtropical green** (Singapore is very flat)",
+     "type": "arch",
+     "text": "Ultra-dense city: modern skyscrapers, busy streets — the 'vibe' alone identifies urban HK; **extremely tall apartment towers** (much taller than Singapore/Taiwan); wall-mounted **air conditioners** everywhere",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Mg72",
      "img": "urban_landscape.png",
-     "type": "landscape"
+     "imgs": [
+      "Tall_apartment_buildings.png",
+      "it_27s_hot_outside.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "**Extremely tall apartment buildings** (taller than SG/Taiwan); wall-mounted **air conditioners** everywhere",
+     "type": "landscape",
+     "text": "Rural HK: mountainous, green subtropical; low-rise villages but apartment towers rarely far away (Singapore = flat!)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "MfZN",
-     "img": "Tall_apartment_buildings.png",
-     "type": "arch"
+     "anchor": "EDC9",
+     "img": "rural_landscape.png"
     },
     {
      "cat": "country",
-     "text": "**English + Traditional Chinese** bilingual signs (residents mainly speak Cantonese)",
+     "type": "language",
+     "text": "**Bilingual English + traditional Chinese** signs (Cantonese-speaking)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "cYCy",
      "img": "bilingual.png",
-     "type": "language"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "taiwan",
+       "note": "Traditional characters too.",
+       "diff": "Taiwan drives right, much less English."
+      },
+      {
+       "slug": "macau",
+       "note": "Traditional characters + Portuguese instead of English.",
+       "diff": "Portuguese → Macau."
+      },
+      {
+       "slug": "china",
+       "note": "Mainland = simplified characters + tripod coverage.",
+       "diff": "Simplified + tripods → mainland."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Grey cylindrical lamp posts (wide base, white sticker); **no striped kerbs** (unlike Singapore); grey pedestrian guardrails; rural = wooden poles only",
+     "type": "utility",
+     "text": "Cylindrical **grey lamp posts w/ wide base** (+white sticker); rural-only cylindrical wooden poles (single/double, w/ counters/transformers)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "Bt5r",
-     "img": "utility_poles.png",
-     "type": "utility"
+     "anchor": "3H1P",
+     "img": "ooh_light_producing_thing.png",
+     "imgs": [
+      "utility_poles.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "**Yellow pedestrian crossings** (some yellow grids); white centre + white/yellow outer lines; roads often concrete",
+     "type": "markings",
+     "text": "Kerbs almost **never striped** (vs Singapore!); grey pedestrian guardrails; **yellow pedestrian crossings** + yellow intersection grids; white centre + white/yellow outer lines (yellow outer = no stopping); concrete roads common",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "Qc6r",
-     "img": "yellow_road_markings.png",
-     "type": "markings"
+     "anchor": "exTo",
+     "img": "never_striped.png",
+     "imgs": [
+      "yellow_road_markings.png",
+      "road_lines.png"
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Road signs white rectangular w/ **thick black outline** + bilingual text; give-way = white triangle w/ thick red border + bilingual text",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "HC1Y",
+     "img": "road_signs.png",
+     "imgs": [
+      "give_way_sign.png"
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "landscape",
+     "text": "**Weathered rock walls** on mountainsides, some netted, with green/blue plaques",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "hZST",
+     "img": "not_so_great_wall_of_china.png"
+    },
+    {
+     "cat": "country",
+     "type": "utility",
+     "text": "Red **fire hydrants** (circular top, 3 protrusions; pipe variant); yellow bollards w/ **white arrow in blue circle**; bright **orange bins**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "LeDC",
+     "img": "fire_hydrant.png",
+     "imgs": [
+      "bollard_thing.png",
+      "orange_bins.png"
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "**Taxis**: silver roofs + green bumper stickers; red = HK Island/Kowloon, green = New Territories, blue = Lantau/Chek Lap Kok; **double-decker buses** (place names on the front help region-guess; Singapore's are lime-green)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "M4e3",
+     "img": "taxis.png",
+     "imgs": [
+      "buses.png"
+     ],
+     "super": true
     },
     {
      "cat": "region",
-     "text": "Taxi colour = region: **red** (HK Island/Kowloon), **green** (New Territories), **blue** (Lantau); double-decker buses; bright-orange sidewalk bins",
+     "type": "utility",
+     "text": "**Rail metas**: double-decker tram along north HK Island (don't confuse w/ red MTR line); NW New Territories = light-rail w/ green-orange platforms, separated tracks",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "general"
+     "anchor": "9S94",
+     "img": "apple_pie.png",
+     "imgs": [
+      "very_important_meta_1.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "arch",
+     "text": "**District looks**: Mong Kok = crowded grid, shops under old apartment blocks (little glass); Central = modern skyscrapers, luxury stores; Mid-Levels = non-identical tall apartments on hills; Quarry Bay = identical white-brown blocks + glass offices; Caribbean Coast/Tung Chung = identical 'wall' apartments + palms; NW border area = flat waterlogged rice paddies + Shenzhen skyline north; boxy village houses → north",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "AEGS",
+     "img": "MOMN.png",
+     "imgs": [
+      "what_color_is_your_bugatti.png",
+      "hose.png",
+      "neck_strainer.png",
+      "why_is_there_grass_on_the_pavement.png",
+      "wateh.png",
+      "rural_architecture.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "arch",
+     "text": "**IFC vs ICC**: IFC (HK Island) = rounder + vertical window frames; ICC (Kowloon) = cuboid, no frames — tells you which side you're on",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "hNWm",
+     "img": "my_file_names_aren_27t_as_good_as_the_ones_cron_comes_up_with.png",
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "utility",
+     "text": "**Bridge metas**: Tsing Ma = only major suspension bridge, ladder towers, yellow-red guardrails; Ting Kau = 3 cylindrical towers + yellow paint; Stonecutters = no yellow, box-beam guardrails; HK-Zhuhai-Macao bridge visible from Chek Lap Kok's South Perimeter Road (b&y barriers)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "jvPq",
+     "img": "hk_tsing_ma_bridge.png",
+     "imgs": [
+      "hk_ting_kau_bridge.png",
+      "hk_stonecutters_bridge.png",
+      "hk_macao_zhuhai_bridge.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "markings",
+     "text": "**Road spotlights**: Lung Wo Road = both skylines visible (Island S, Kowloon N); Tai Chung Kiu Road = NE divided, Shing Mun River west, palm median + bike path (Route 2 = more lanes); Fan Kam Road = narrow, dense tropical, no outer lines, NE; Lam Kam Road = E-W, busier, wider, tree median; Disneyland roads = divided, palms + **teal street lamps**; Chek Lap Kok = large-scale construction + bridges",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "nmVf",
+     "img": "lung_wo_road.png",
+     "imgs": [
+      "venice.png",
+      "tre.png",
+      "lam_kam_road.png",
+      "legoland.png",
+      "construkshin.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Trekker islands**: Peng Chau, Cheung Chau, Lamma (hilliest) = no cars, narrow streets, rural buildings; **Lugard Road** (Victoria Peak) = black guardrail + skyline view + tourists; Kai Tak Cruise Terminal = shiny cylinder w/ triangular windows (seen from Eastern Corridor / Kwun Tong bypass)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "nGo8",
+     "img": "i_go_cycling_here_every_so_often.png",
+     "imgs": [
+      "jerry_from_texas.png",
+      "hk_cruise_terminal.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },
@@ -12686,69 +13031,128 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Chinese SAR (counts as China); coverage only **Gen2** — some of the **oldest**, so extra washed-out & overexposed (a tell in itself)",
+     "type": "cars",
+     "text": "Chinese SAR (counts as China); coverage only **Gen2** — some of the **oldest**, extra washed-out & overexposed (a tell in itself)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Rskk",
      "img": "gen2.png",
-     "type": "cars"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Plates **black w/ white text** (long or square)",
+     "type": "plates",
+     "text": "Plates **black with white text**, long or square",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "xDZU",
      "img": "Licence_Plates.png",
-     "type": "plates"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "malaysia",
+       "note": "Black plates too (2 sections).",
+       "diff": "Gen2 washed-out coverage + Portuguese → Macau."
+      },
+      {
+       "slug": "indonesia",
+       "note": "Black plates (3 sections).",
+       "diff": "Portuguese + casinos → Macau."
+      },
+      {
+       "slug": "singapore",
+       "note": "Black unsegmented plates too.",
+       "diff": "Singapore = crisp modern coverage; Macau = old Gen2."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Grey cylindrical lamp posts with a **black-painted bottom** (Hong Kong's similar posts lack the black bottom)",
+     "type": "utility",
+     "text": "Cylindrical grey lamp posts with **black-painted bottom**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "5pnX",
      "img": "lamppost.png",
-     "type": "utility"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "hong-kong",
+       "note": "HK's similar lamp posts lack the black bottom.",
+       "diff": "Black bottom → Macau.",
+       "img": "ooh_light_producing_thing.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Chinese + Portuguese** (former Portuguese colony) — Portuguese common on storefronts",
+     "type": "language",
+     "text": "**Portuguese + Chinese** on storefronts and signs (colonial history)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "YpXQ",
      "img": "chinese_portuguese.png",
-     "type": "language"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "White street signs w/ a **blue border** around Chinese + Portuguese text — unique to Macau",
+     "type": "signs",
+     "text": "White street signs w/ **blue border** around Chinese + Portuguese text",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "3QHj",
      "img": "streetsigns.png",
-     "type": "naming"
+     "uniq": "unique"
     },
     {
-     "cat": "region",
-     "text": "**Casinos & gambling ads** everywhere (kitsch; some newer ones under construction in the old Gen2); dense apartments north, hilly rural south",
+     "cat": "country",
+     "type": "general",
+     "text": "**Casinos & gambling ads** everywhere (50% of GDP), extravagant kitsch buildings — many still under construction in the old coverage",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "aq1W",
-     "img": "Gambling.png",
-     "type": "general"
+     "img": "Gambling.png"
+    },
+    {
+     "cat": "region",
+     "type": "arch",
+     "text": "**North**: dense apartments, gridded narrow streets, cars parked both sides; **south**: hilly rural winding roads w/ trees — few clues, use the washed-out Gen2 + lamp posts",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "vB8M",
+     "img": "Dense.png",
+     "imgs": [
+      "Rural.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "utility",
+     "text": "**Bridges**: Sai Van = cuboid towers with arches; Amizade = red guardrails",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Hhsi",
+     "img": "Sai_Van_Bridge.png",
+     "imgs": [
+      "Amizade_Bridge.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },
@@ -19505,91 +19909,167 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Developed **city-state** — clean & orderly; divided main roads w/ **B&W curbs + double yellow outer lines** + tall apartment blocks (often all you need)",
+     "type": "general",
+     "text": "Developed **city-state** — clean & orderly; divided main roads w/ **B&W kerbs + double yellow outer lines** + tall apartment blocks (often all you need)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "dONA",
-     "img": "landscape.png",
-     "type": "general"
+     "img": "landscape.png"
     },
     {
      "cat": "country",
-     "text": "Street signs = **green, rounded edges, distinct white font** (one unique nationwide format)",
+     "type": "signs",
+     "text": "Street signs: **green, rounded edges, distinct white font** — unique format; directional signs green/white English (expressways = 3-letter codes like TPE)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "oACN",
      "img": "streetsign.png",
-     "type": "naming"
+     "imgs": [
+      "directionalsign.png"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Plates mostly **black w/ white text** (MY/ID also black, but their letters split into 2–3 sections; Singapore's don't)",
+     "type": "plates",
+     "text": "Plates **black with white text** (occasionally British white/yellow, rarely red)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "mfCc",
      "img": "Singapore_License_Plate.png",
-     "type": "plates"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "malaysia",
+       "note": "Black plates too — but usually split into **2 sections**.",
+       "diff": "Unsegmented plate → Singapore.",
+       "img": "Malaysia_License_Plate.png"
+      },
+      {
+       "slug": "indonesia",
+       "note": "Black plates with **3 sections**.",
+       "diff": "Unsegmented plate → Singapore.",
+       "img": "Indonesia_License_Plate_2.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Directional signs green + English; expressways have **3-letter codes** (e.g. TPE); road signs sit on a **square white background** (unique)",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "9Mue",
-     "img": "directionalsign.png",
-     "type": "signs"
-    },
-    {
-     "cat": "country",
-     "text": "**Rain trees** along main roads; warnings painted large on the road (famous **\"HUMP AHEAD\"**)",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "U9vA",
-     "img": "raintrees.png",
-     "type": "landscape"
-    },
-    {
-     "cat": "country",
-     "text": "Buses mostly **lime-green**; bus stops protected by concrete **black-and-yellow warning-band bollards**",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "RNhX",
-     "img": "busstopbollard.png",
-     "type": "general"
-    },
-    {
-     "cat": "country",
-     "text": "Traffic lights on a **curved perforated metal sheet**",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "hHxa",
-     "img": "trafficlight.png",
-     "type": "utility"
-    },
-    {
-     "cat": "region",
-     "text": "Streets named after their **neighbourhood** (appears fast on the map, e.g. Ang Mo Kio); Sentosa = resort feel; Tuas = industrial cranes/containers",
+     "type": "signs",
+     "text": "Road signs always on a **square white background**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "gJnM",
      "img": "Untitled_design__2845_29.png",
-     "type": "naming"
+     "uniq": "unique"
+    },
+    {
+     "cat": "country",
+     "type": "landscape",
+     "text": "**Rain trees** planted along main roads everywhere",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "U9vA",
+     "img": "raintrees.png"
+    },
+    {
+     "cat": "country",
+     "type": "markings",
+     "text": "Warnings written on the road in big letters (**HUMP AHEAD**)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "hevr",
+     "img": "roadwarnings.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "Buses mostly **lime-green** (also white-purple SBS Transit); bus stops guarded by concrete bollards w/ **black-yellow warning bands**; yellow **bus-leaving box** on the street",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "NOTm",
+     "img": "Copy_of_Untitled__2822_29.png",
+     "imgs": [
+      "busstopbollard.png",
+      "busleavingbox.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "malaysia",
+       "note": "Similar (not identical) bus-stop bollards in some Malaysian cities.",
+       "diff": "Lime-green buses + orderly city-state look → Singapore."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "utility",
+     "text": "Traffic lights on a **curved, hole-punched metal sheet** support",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "hHxa",
+     "img": "trafficlight.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "region",
+     "type": "naming",
+     "text": "Streets named after their **neighbourhood** (esp. suburbs) — e.g. 'Ang Mo Kio Street 31' → scan the map for the neighbourhood name",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "sB3c",
+     "img": "2022-12-21__283_29.png",
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "general",
+     "text": "**Tuas** = industrial: straight roads, cranes, shipping containers; **Sentosa** = resort feel, winding roads, green signposts, sometimes a green lane",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "nZF6",
+     "img": "Singapore_Tuas.png",
+     "imgs": [
+      "Singapore_Sentosa.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Island trekkers**: Pulau Ubin = unusually rural forest + camo hat visible looking down; St John & Lazarus = smooth asphalt + sea nearby; **Kusu Island** = red paving stones on the whole path",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "SP7M",
+     "img": "Singapore_Pulau-Ubin.png",
+     "imgs": [
+      "Singapore_St_John_and_Lazarus.png",
+      "Singapore_Kusu_Island.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },

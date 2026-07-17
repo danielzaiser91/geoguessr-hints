@@ -1114,46 +1114,65 @@ Study: [Plonk It](https://www.plonkit.net/lebanon) · [GeoGuessr map](https://ww
 | Special | **Historic spotlights**: Byblos = ancient city, uniform unpainted stone; Bsharri trekker = big canyon south; **Baalbek** = Roman ruin complex; Mseilha fortress (SW of Tripoli) on a limestone monolith; the only rural coastal trekker road = SW of Tripoli | [P](https://www.plonkit.net/lebanon) |  |
 
 ## Cyprus
-Study: [Plonk It](https://www.plonkit.net/cyprus)
+Study: [Plonk It](https://www.plonkit.net/cyprus) · [GeoGuessr map](https://www.geoguessr.com/maps/69066659c7731161a3738090)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Drives on the **left** (former UK colony); plates are white EU **or** UK-style yellow-rear, most w/ an EU strip; red rental plates common | [P](https://www.plonkit.net/cyprus) |  |
-| Country | **Greek + English** everywhere (Greek alphabet, softer than Cyrillic); only the **southern** half is covered | [P](https://www.plonkit.net/cyprus) |  |
-| Country | Gen4 **'smallcam'** mounted low, big circular blur w/ a small front protrusion, sometimes a short **antenna on the back** (Greek smallcam never has an antenna) | [P](https://www.plonkit.net/cyprus) |  |
-| Country | Bollards like Turkey's (red front / white back reflector) but **triangular w/ a slanted top**, not flat | [P](https://www.plonkit.net/cyprus) |  |
-| Country | **Town-entry signs**: yellow rectangle w/ red border (or small white one) w/ Greek+English + a speed sign above — unique; directional signs like Greece but Greek is **not** all-caps | [P](https://www.plonkit.net/cyprus) |  |
-| Country | Tall **dark-brown wooden** utility poles; poletops = crossbar-insulators or a **harp-shaped** metal frame (symmetric 3-insulator top is Cyprus-specific) | [P](https://www.plonkit.net/cyprus) |  |
-| Country | Brightly-painted stone houses (tiled/flat roofs) w/ a white **horizontal cylindrical roof water tank**; Mediterranean scrub, olive/palm/cypress | [P](https://www.plonkit.net/cyprus) |  |
-| Region | Small hilly island, **centre highest** (orient by it); bright **limestone** on the south coast, **reddish soil** inland/NW; roads A/B/E/F grouped by first digit | [P](https://www.plonkit.net/cyprus) |  |
+| Country | Plates white EU **or** UK-style **yellow rear**, mostly w/ EU strip; **red rental plates** common | [P](https://www.plonkit.net/cyprus) |  |
+| Country | Drives on the **left** (ex-UK colony — UK-style signs & road lines too) | [P](https://www.plonkit.net/cyprus) |  |
+| Country | **Greek + English** (Greek alphabet, soft lowercase shapes) | [P](https://www.plonkit.net/cyprus) |  |
+| Country | Mostly Gen4 **smallcam** (low mount, big blur, front protrusion) — sometimes a **short antenna** visible at the back | [P](https://www.plonkit.net/cyprus) |  |
+| Country | Bollards like Turkish ones (red front / white back reflector) but **triangular with a slanted top**, not flat | [P](https://www.plonkit.net/cyprus) |  |
+| Country | Directional signs ≈ Greek ones — but Greek text is NOT all-caps (Greece: all-caps); **town-entry signs** (yellow w/ red border or white, bilingual + speed limit above) are unique to Cyprus | [P](https://www.plonkit.net/cyprus) |  |
+| Country | Tall **dark-brown wooden poles** (like Greece); poletops: crossbar w/ 0/3 insulators, 5 side insulators, or harp-shaped frame — the **symmetric 3-insulator top is Cyprus-specific** | [P](https://www.plonkit.net/cyprus) |  |
+| Country | Brightly painted **stone buildings**, tiled or flat roofs (Greek-like); houses often carry a **white horizontal cylindrical water tank** w/ circular lid | [P](https://www.plonkit.net/cyprus) |  |
+| Country | Mediterranean: bright exposed rock, olive/palm/cypress trees, green coastal farmland, pine-forest mountains inland | [P](https://www.plonkit.net/cyprus) |  |
+| Region | Only the **southern half** covered (Republic + Akrotiri & Dhekelia); road numbers A/B/E/F grouped by first digit (E/F near matching B road); 5 provinces = 2-digit area codes (2x); postal codes 4-digit on street signs (T.K./T.T.) | [P](https://www.plonkit.net/cyprus) |  |
+| Region | **Terrain = compass**: centre = highest; white limestone → south coast; reddish soil → interior + NW; vineyards → SW; wild mustard (yellow flowers) → mostly east; dark red fields → north + Famagusta | [P](https://www.plonkit.net/cyprus) |  |
+| Region | **Paphos Forest**: windy mountain roads, red soil, uninhabited — and (almost) no bollards; **NE**: Kyrenia ridge visible north over flat farmland; NE also has **black-top bollards** (Slovenia-like) | [P](https://www.plonkit.net/cyprus) |  |
+| Region | **Famagusta** (far east): flat + red fields — and ALL coverage is **shitcam** (rare elsewhere on the island) | [P](https://www.plonkit.net/cyprus) |  |
+| Region | **Wind turbines** in 2 clusters: west of Larnaca (sandy rolling farm hills) + SW of Anogyra (Oreites Forest, incline toward the visible coast) | [P](https://www.plonkit.net/cyprus) |  |
+| Special | **Spotlights**: snow coverage near Panagia Machaira monastery; dashed **blue lines** between road markings around Mount Olympus; banana plantations around Peyia (west coast); **Limassol** = Russian on many commercial signs (17% Russian-speaking) | [P](https://www.plonkit.net/cyprus) |  |
 
 ## Hong Kong
-Study: [Plonk It](https://www.plonkit.net/hong-kong)
+Study: [Plonk It](https://www.plonkit.net/hong-kong) · [GeoGuessr map](https://www.geoguessr.com/maps/6294af15ed0f1605632b122d)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Chinese SAR (counts as China); plates **white front / yellow rear** (long or short); some cars carry an extra black mainland plate | [P](https://www.plonkit.net/hong-kong) |  |
+| Country | Chinese SAR (counts as China in streaks); plates **white front / yellow rear** (some cars carry an extra black mainland plate) | [P](https://www.plonkit.net/hong-kong) |  |
 | Country | Drives on the **left** (Singapore too; Taiwan drives right) | [P](https://www.plonkit.net/hong-kong) |  |
-| Country | Dense city of skyscrapers & busy streets; **rural areas mountainous + subtropical green** (Singapore is very flat) | [P](https://www.plonkit.net/hong-kong) |  |
-| Country | **Extremely tall apartment buildings** (taller than SG/Taiwan); wall-mounted **air conditioners** everywhere | [P](https://www.plonkit.net/hong-kong) |  |
-| Country | **English + Traditional Chinese** bilingual signs (residents mainly speak Cantonese) | [P](https://www.plonkit.net/hong-kong) |  |
-| Country | Grey cylindrical lamp posts (wide base, white sticker); **no striped kerbs** (unlike Singapore); grey pedestrian guardrails; rural = wooden poles only | [P](https://www.plonkit.net/hong-kong) |  |
-| Country | **Yellow pedestrian crossings** (some yellow grids); white centre + white/yellow outer lines; roads often concrete | [P](https://www.plonkit.net/hong-kong) |  |
-| Region | Taxi colour = region: **red** (HK Island/Kowloon), **green** (New Territories), **blue** (Lantau); double-decker buses; bright-orange sidewalk bins | [P](https://www.plonkit.net/hong-kong) |  |
+| Country | Ultra-dense city: modern skyscrapers, busy streets — the 'vibe' alone identifies urban HK; **extremely tall apartment towers** (much taller than Singapore/Taiwan); wall-mounted **air conditioners** everywhere | [P](https://www.plonkit.net/hong-kong) |  |
+| Country | Rural HK: mountainous, green subtropical; low-rise villages but apartment towers rarely far away (Singapore = flat!) | [P](https://www.plonkit.net/hong-kong) |  |
+| Country | **Bilingual English + traditional Chinese** signs (Cantonese-speaking) | [P](https://www.plonkit.net/hong-kong) |  |
+| Country | Cylindrical **grey lamp posts w/ wide base** (+white sticker); rural-only cylindrical wooden poles (single/double, w/ counters/transformers) | [P](https://www.plonkit.net/hong-kong) |  |
+| Country | Kerbs almost **never striped** (vs Singapore!); grey pedestrian guardrails; **yellow pedestrian crossings** + yellow intersection grids; white centre + white/yellow outer lines (yellow outer = no stopping); concrete roads common | [P](https://www.plonkit.net/hong-kong) |  |
+| Country | Road signs white rectangular w/ **thick black outline** + bilingual text; give-way = white triangle w/ thick red border + bilingual text | [P](https://www.plonkit.net/hong-kong) |  |
+| Country | **Weathered rock walls** on mountainsides, some netted, with green/blue plaques | [P](https://www.plonkit.net/hong-kong) |  |
+| Country | Red **fire hydrants** (circular top, 3 protrusions; pipe variant); yellow bollards w/ **white arrow in blue circle**; bright **orange bins** | [P](https://www.plonkit.net/hong-kong) |  |
+| Country | **Taxis**: silver roofs + green bumper stickers; red = HK Island/Kowloon, green = New Territories, blue = Lantau/Chek Lap Kok; **double-decker buses** (place names on the front help region-guess; Singapore's are lime-green) | [P](https://www.plonkit.net/hong-kong) |  |
+| Region | **Rail metas**: double-decker tram along north HK Island (don't confuse w/ red MTR line); NW New Territories = light-rail w/ green-orange platforms, separated tracks | [P](https://www.plonkit.net/hong-kong) |  |
+| Region | **District looks**: Mong Kok = crowded grid, shops under old apartment blocks (little glass); Central = modern skyscrapers, luxury stores; Mid-Levels = non-identical tall apartments on hills; Quarry Bay = identical white-brown blocks + glass offices; Caribbean Coast/Tung Chung = identical 'wall' apartments + palms; NW border area = flat waterlogged rice paddies + Shenzhen skyline north; boxy village houses → north | [P](https://www.plonkit.net/hong-kong) |  |
+| Region | **IFC vs ICC**: IFC (HK Island) = rounder + vertical window frames; ICC (Kowloon) = cuboid, no frames — tells you which side you're on | [P](https://www.plonkit.net/hong-kong) |  |
+| Special | **Bridge metas**: Tsing Ma = only major suspension bridge, ladder towers, yellow-red guardrails; Ting Kau = 3 cylindrical towers + yellow paint; Stonecutters = no yellow, box-beam guardrails; HK-Zhuhai-Macao bridge visible from Chek Lap Kok's South Perimeter Road (b&y barriers) | [P](https://www.plonkit.net/hong-kong) |  |
+| Special | **Road spotlights**: Lung Wo Road = both skylines visible (Island S, Kowloon N); Tai Chung Kiu Road = NE divided, Shing Mun River west, palm median + bike path (Route 2 = more lanes); Fan Kam Road = narrow, dense tropical, no outer lines, NE; Lam Kam Road = E-W, busier, wider, tree median; Disneyland roads = divided, palms + **teal street lamps**; Chek Lap Kok = large-scale construction + bridges | [P](https://www.plonkit.net/hong-kong) |  |
+| Special | **Trekker islands**: Peng Chau, Cheung Chau, Lamma (hilliest) = no cars, narrow streets, rural buildings; **Lugard Road** (Victoria Peak) = black guardrail + skyline view + tourists; Kai Tak Cruise Terminal = shiny cylinder w/ triangular windows (seen from Eastern Corridor / Kwun Tong bypass) | [P](https://www.plonkit.net/hong-kong) |  |
 
 ## Singapore
 Study: [Plonk It](https://www.plonkit.net/singapore)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Developed **city-state** — clean & orderly; divided main roads w/ **B&W curbs + double yellow outer lines** + tall apartment blocks (often all you need) | [P](https://www.plonkit.net/singapore) |  |
-| Country | Street signs = **green, rounded edges, distinct white font** (one unique nationwide format) | [P](https://www.plonkit.net/singapore) |  |
-| Country | Plates mostly **black w/ white text** (MY/ID also black, but their letters split into 2–3 sections; Singapore's don't) | [P](https://www.plonkit.net/singapore) |  |
-| Country | Directional signs green + English; expressways have **3-letter codes** (e.g. TPE); road signs sit on a **square white background** (unique) | [P](https://www.plonkit.net/singapore) |  |
-| Country | **Rain trees** along main roads; warnings painted large on the road (famous **"HUMP AHEAD"**) | [P](https://www.plonkit.net/singapore) |  |
-| Country | Buses mostly **lime-green**; bus stops protected by concrete **black-and-yellow warning-band bollards** | [P](https://www.plonkit.net/singapore) |  |
-| Country | Traffic lights on a **curved perforated metal sheet** | [P](https://www.plonkit.net/singapore) |  |
-| Region | Streets named after their **neighbourhood** (appears fast on the map, e.g. Ang Mo Kio); Sentosa = resort feel; Tuas = industrial cranes/containers | [P](https://www.plonkit.net/singapore) |  |
+| Country | Developed **city-state** — clean & orderly; divided main roads w/ **B&W kerbs + double yellow outer lines** + tall apartment blocks (often all you need) | [P](https://www.plonkit.net/singapore) |  |
+| Country | Street signs: **green, rounded edges, distinct white font** — unique format; directional signs green/white English (expressways = 3-letter codes like TPE) | [P](https://www.plonkit.net/singapore) |  |
+| Country | Plates **black with white text** (occasionally British white/yellow, rarely red) | [P](https://www.plonkit.net/singapore) |  |
+| Country | Road signs always on a **square white background** | [P](https://www.plonkit.net/singapore) |  |
+| Country | **Rain trees** planted along main roads everywhere | [P](https://www.plonkit.net/singapore) |  |
+| Country | Warnings written on the road in big letters (**HUMP AHEAD**) | [P](https://www.plonkit.net/singapore) |  |
+| Country | Buses mostly **lime-green** (also white-purple SBS Transit); bus stops guarded by concrete bollards w/ **black-yellow warning bands**; yellow **bus-leaving box** on the street | [P](https://www.plonkit.net/singapore) |  |
+| Country | Traffic lights on a **curved, hole-punched metal sheet** support | [P](https://www.plonkit.net/singapore) |  |
+| Region | Streets named after their **neighbourhood** (esp. suburbs) — e.g. 'Ang Mo Kio Street 31' → scan the map for the neighbourhood name | [P](https://www.plonkit.net/singapore) |  |
+| Region | **Tuas** = industrial: straight roads, cranes, shipping containers; **Sentosa** = resort feel, winding roads, green signposts, sometimes a green lane | [P](https://www.plonkit.net/singapore) |  |
+| Special | **Island trekkers**: Pulau Ubin = unusually rural forest + camo hat visible looking down; St John & Lazarus = smooth asphalt + sea nearby; **Kusu Island** = red paving stones on the whole path | [P](https://www.plonkit.net/singapore) |  |
 
 ## British Indian Ocean Territory
 Study: [Plonk It](https://www.plonkit.net/british-indian-ocean-territory)
@@ -1163,19 +1182,21 @@ Study: [Plonk It](https://www.plonkit.net/british-indian-ocean-territory)
 | Country | UK overseas territory in the Indian Ocean (counts as UK); all coverage = a **Gen3 trekker**, none pinpointable (rare in community maps) | [P](https://www.plonkit.net/british-indian-ocean-territory) |  |
 | Country | Mostly small **atolls in the northern half**; much coverage on **sand beaches lined w/ palms** | [P](https://www.plonkit.net/british-indian-ocean-territory) |  |
 | Country | Coastal **coconut-palm forests**; **mangroves** on several atolls; grassy fields w/ bushes on the larger islands; trekker sometimes offshore in the water | [P](https://www.plonkit.net/british-indian-ocean-territory) |  |
-| Region | **Coin du Mire** = dark rocky shore + grassy field (no palms); a white shipwreck sits on the beach at the E tip of **Nelsons Island** | [P](https://www.plonkit.net/british-indian-ocean-territory) |  |
+| Special | **Coin du Mire** = dark rocky shore + grassy field (no palms); a white shipwreck sits on the beach at the E tip of **Nelsons Island** | [P](https://www.plonkit.net/british-indian-ocean-territory) |  |
 
 ## Macau
 Study: [Plonk It](https://www.plonkit.net/macau)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Chinese SAR (counts as China); coverage only **Gen2** — some of the **oldest**, so extra washed-out & overexposed (a tell in itself) | [P](https://www.plonkit.net/macau) |  |
-| Country | Plates **black w/ white text** (long or square) | [P](https://www.plonkit.net/macau) |  |
-| Country | Grey cylindrical lamp posts with a **black-painted bottom** (Hong Kong's similar posts lack the black bottom) | [P](https://www.plonkit.net/macau) |  |
-| Country | **Chinese + Portuguese** (former Portuguese colony) — Portuguese common on storefronts | [P](https://www.plonkit.net/macau) |  |
-| Country | White street signs w/ a **blue border** around Chinese + Portuguese text — unique to Macau | [P](https://www.plonkit.net/macau) |  |
-| Region | **Casinos & gambling ads** everywhere (kitsch; some newer ones under construction in the old Gen2); dense apartments north, hilly rural south | [P](https://www.plonkit.net/macau) |  |
+| Country | Chinese SAR (counts as China); coverage only **Gen2** — some of the **oldest**, extra washed-out & overexposed (a tell in itself) | [P](https://www.plonkit.net/macau) |  |
+| Country | Plates **black with white text**, long or square | [P](https://www.plonkit.net/macau) |  |
+| Country | Cylindrical grey lamp posts with **black-painted bottom** | [P](https://www.plonkit.net/macau) |  |
+| Country | **Portuguese + Chinese** on storefronts and signs (colonial history) | [P](https://www.plonkit.net/macau) |  |
+| Country | White street signs w/ **blue border** around Chinese + Portuguese text | [P](https://www.plonkit.net/macau) |  |
+| Country | **Casinos & gambling ads** everywhere (50% of GDP), extravagant kitsch buildings — many still under construction in the old coverage | [P](https://www.plonkit.net/macau) |  |
+| Region | **North**: dense apartments, gridded narrow streets, cars parked both sides; **south**: hilly rural winding roads w/ trees — few clues, use the washed-out Gen2 + lamp posts | [P](https://www.plonkit.net/macau) |  |
+| Special | **Bridges**: Sai Van = cuboid towers with arches; Amizade = red guardrails | [P](https://www.plonkit.net/macau) |  |
 
 # Europe
 

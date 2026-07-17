@@ -8,6 +8,6 @@
   { "cat": "country", "text": "UK overseas territory in the Indian Ocean (counts as UK); all coverage = a **Gen3 trekker**, none pinpointable (rare in community maps)", "src": ["plonkit"], "sv": null, "anchor": "ia3w", "img": "io_trekker.png", "type": "cars" },
   { "cat": "country", "text": "Mostly small **atolls in the northern half**; much coverage on **sand beaches lined w/ palms**", "src": ["plonkit"], "sv": null, "anchor": "ToF6", "img": "io_beaches.png", "type": "landscape" },
   { "cat": "country", "text": "Coastal **coconut-palm forests**; **mangroves** on several atolls; grassy fields w/ bushes on the larger islands; trekker sometimes offshore in the water", "src": ["plonkit"], "sv": null, "anchor": "0jgl", "img": "io_palmforest.png", "type": "landscape" },
-  { "cat": "region", "text": "**Coin du Mire** = dark rocky shore + grassy field (no palms); a white shipwreck sits on the beach at the E tip of **Nelsons Island**", "src": ["plonkit"], "sv": null, "anchor": "u9yO", "img": "io_shipwreck.png", "type": "general" }
+  { "cat": "special", "text": "**Coin du Mire** = dark rocky shore + grassy field (no palms); a white shipwreck sits on the beach at the E tip of **Nelsons Island**", "src": ["plonkit"], "sv": null, "anchor": "u9yO", "img": "io_shipwreck.png", "type": "general", "uniq": "unique" }
  ]
 }
