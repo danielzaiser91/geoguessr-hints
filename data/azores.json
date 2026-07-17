@@ -5,11 +5,31 @@
  "area_km2": 2333,
  "links": { "plonkit": "https://www.plonkit.net/azores", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Autonomous region of Portugal → Portuguese infra; mostly **open agricultural fields on rolling hills** (Madeira = steep mountains, few fields)", "src": ["plonkit"], "sv": null, "anchor": "6R9V", "img": "landscape.png", "type": "landscape" },
-  { "cat": "country", "text": "**Dry stone walls of black volcanic rock** very common (absent on Madeira; mainland walls aren't volcanic)", "src": ["plonkit"], "sv": null, "anchor": "MSfT", "img": "rockwall.png", "type": "general" },
-  { "cat": "country", "text": "**Hydrangeas** + **Japanese cedars** (cryptomeria) common — cedars aren't native anywhere in mainland Europe", "src": ["plonkit"], "sv": null, "anchor": "2vH0", "img": "cedars.png", "type": "general" },
-  { "cat": "country", "text": "Houses 1–2 storeys, orange tile roofs, white/pastel w/ **dark-green shutters**; **grey highlights** almost exclusive to the Azores", "src": ["plonkit"], "sv": null, "anchor": "D5Ni", "img": "architecture.png", "type": "arch" },
-  { "cat": "country", "text": "Street signs = **painted ceramic tiles**, blue letters w/ a decorative border", "src": ["plonkit"], "sv": null, "anchor": "159s", "img": "streetsign.png", "type": "naming" },
-  { "cat": "region", "text": "Only **São Miguel, Terceira & Faial** have car coverage; São Miguel = only Gen4 + only island w/ lakes; **black-and-white cows** (Madeira's are brown/white)", "src": ["plonkit"], "sv": null, "anchor": "j5G7", "img": "gen4.png", "type": "general" }
+  { "cat": "country", "type": "signs", "text": "Autonomous region of Portugal → **Portuguese infrastructure** (poles, chevrons, bollards)", "src": ["plonkit"], "sv": null, "anchor": "fva4", "img": "portugueseinfra_az.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "portugal", "note": "Identical national kit.", "diff": "Volcanic rock walls + hydrangeas + rolling pasture → Azores." },
+      { "slug": "madeira", "note": "Same infra on Madeira.", "diff": "See landscape/flora hints below." } ] },
+  { "cat": "country", "type": "landscape", "text": "Mostly **open agricultural fields in a rolling landscape**, taller round hills in the background", "src": ["plonkit"], "sv": null, "anchor": "6R9V", "img": "landscape.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "madeira", "note": "Madeira is very mountainous and rarely has open fields.", "diff": "Rolling pasture → Azores; steep terraces → Madeira." },
+      { "slug": "ireland", "note": "Green pasture + stone walls can feel Irish.", "diff": "Volcanic black rock + Portuguese signs → Azores." } ] },
+  { "cat": "country", "type": "general", "text": "**Dry rock walls of volcanic rocks** very common", "src": ["plonkit"], "sv": null, "anchor": "MSfT", "img": "rockwall.png", "uniq": "unique*", "uniq_note": "Madeira barely has them; mainland Portugal's dry walls aren't volcanic black.",
+    "shared_with": [
+      { "slug": "portugal", "note": "Mainland dry walls exist but not from volcanic rock.", "diff": "Black volcanic stone → Azores." },
+      { "slug": "madeira", "note": "Dry rock walls are not common on Madeira.", "diff": "Walls everywhere → Azores." } ] },
+  { "cat": "country", "type": "general", "text": "**Hydrangeas** commonly line roads; **Japanese cedars** (cryptomeria) very common — not native anywhere in mainland Europe", "src": ["plonkit"], "sv": null, "anchor": "uDZd", "img": "hydrangeas.png", "imgs": ["cedars.png"],
+    "uniq": "shared", "shared_with": [
+      { "slug": "madeira", "note": "Hydrangeas rare, cedars less common there.", "diff": "Hydrangea hedges + cedar plantations → Azores." } ] },
+  { "cat": "country", "type": "arch", "text": "Houses 1–2 storeys, orange tiled roofs, white/pastel walls, often **dark-green shutters**; **grey highlights** almost exclusive to the Azores (mainland: yellow/blue)", "src": ["plonkit"], "sv": null, "anchor": "D5Ni", "img": "architecture.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "portugal", "note": "Yellow/blue highlights exist on the mainland too.", "diff": "GREY highlights → Azores." } ] },
+  { "cat": "country", "type": "naming", "text": "Street signs almost exclusively **painted ceramic tiles**: blue letters + decorative pattern around the edge", "src": ["plonkit"], "sv": null, "anchor": "159s", "img": "streetsign.png", "uniq": "unique*", "uniq_note": "Ceramic azulejo-style street signs as the DEFAULT is an Azores tell (mainland has them only in old towns)." },
+  { "cat": "country", "type": "signs", "text": "Signposts often **striped** (also on Madeira)", "src": ["plonkit"], "sv": null, "anchor": "rdxB", "img": "signpost.png" },
+  { "cat": "country", "type": "general", "text": "**Black-and-white cows** very common", "src": ["plonkit"], "sv": null, "anchor": "eaE2", "img": "cows.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "madeira", "note": "Madeiran cows are usually brown with white spots.", "diff": "Black-white → Azores; brown-white → Madeira." } ] },
+  { "cat": "region", "type": "cars", "text": "Only **São Miguel, Terceira and Faial** have car coverage; **Gen4 only on São Miguel**; shitcam on São Miguel (car w/ centre indentation) + Faial (smooth car, sometimes antenna)", "src": ["plonkit"], "sv": null, "anchor": "lyKf", "img": "coverage_az_2025.png", "imgs": ["gen4.png", "azores_shitcam.png"], "super": true },
+  { "cat": "region", "type": "landscape", "text": "**Lakes → only São Miguel** (in all of Azores + Madeira); rock walls w/ **white concrete top → Terceira**; whitewashed walls w/ uneven dark basalt stones → **Faial**", "src": ["plonkit"], "sv": null, "anchor": "Lvxy", "img": "lakes.png", "imgs": ["whiterockwall.png", "faial_white_rocks_very_real_meta.png"], "super": true },
+  { "cat": "special", "type": "cars", "text": "**Faial**: trekker walking along a crater edge", "src": ["plonkit"], "sv": null, "anchor": "2fiy", "img": "ilhadofaial.png", "uniq": "unique" }
  ]
 }

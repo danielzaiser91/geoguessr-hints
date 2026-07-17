@@ -2131,12 +2131,17 @@ Study: [Plonk It](https://www.plonkit.net/azores)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Autonomous region of Portugal → Portuguese infra; mostly **open agricultural fields on rolling hills** (Madeira = steep mountains, few fields) | [P](https://www.plonkit.net/azores) |  |
-| Country | **Dry stone walls of black volcanic rock** very common (absent on Madeira; mainland walls aren't volcanic) | [P](https://www.plonkit.net/azores) |  |
-| Country | **Hydrangeas** + **Japanese cedars** (cryptomeria) common — cedars aren't native anywhere in mainland Europe | [P](https://www.plonkit.net/azores) |  |
-| Country | Houses 1–2 storeys, orange tile roofs, white/pastel w/ **dark-green shutters**; **grey highlights** almost exclusive to the Azores | [P](https://www.plonkit.net/azores) |  |
-| Country | Street signs = **painted ceramic tiles**, blue letters w/ a decorative border | [P](https://www.plonkit.net/azores) |  |
-| Region | Only **São Miguel, Terceira & Faial** have car coverage; São Miguel = only Gen4 + only island w/ lakes; **black-and-white cows** (Madeira's are brown/white) | [P](https://www.plonkit.net/azores) |  |
+| Country | Autonomous region of Portugal → **Portuguese infrastructure** (poles, chevrons, bollards) | [P](https://www.plonkit.net/azores) |  |
+| Country | Mostly **open agricultural fields in a rolling landscape**, taller round hills in the background | [P](https://www.plonkit.net/azores) |  |
+| Country | **Dry rock walls of volcanic rocks** very common | [P](https://www.plonkit.net/azores) |  |
+| Country | **Hydrangeas** commonly line roads; **Japanese cedars** (cryptomeria) very common — not native anywhere in mainland Europe | [P](https://www.plonkit.net/azores) |  |
+| Country | Houses 1–2 storeys, orange tiled roofs, white/pastel walls, often **dark-green shutters**; **grey highlights** almost exclusive to the Azores (mainland: yellow/blue) | [P](https://www.plonkit.net/azores) |  |
+| Country | Street signs almost exclusively **painted ceramic tiles**: blue letters + decorative pattern around the edge | [P](https://www.plonkit.net/azores) |  |
+| Country | Signposts often **striped** (also on Madeira) | [P](https://www.plonkit.net/azores) |  |
+| Country | **Black-and-white cows** very common | [P](https://www.plonkit.net/azores) |  |
+| Region | Only **São Miguel, Terceira and Faial** have car coverage; **Gen4 only on São Miguel**; shitcam on São Miguel (car w/ centre indentation) + Faial (smooth car, sometimes antenna) | [P](https://www.plonkit.net/azores) |  |
+| Region | **Lakes → only São Miguel** (in all of Azores + Madeira); rock walls w/ **white concrete top → Terceira**; whitewashed walls w/ uneven dark basalt stones → **Faial** | [P](https://www.plonkit.net/azores) |  |
+| Special | **Faial**: trekker walking along a crater edge | [P](https://www.plonkit.net/azores) |  |
 
 ## Faroe Islands
 Study: [Plonk It](https://www.plonkit.net/faroe-islands)
