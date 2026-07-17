@@ -1614,7 +1614,7 @@ Study: [Plonk It](https://www.plonkit.net/belarus)
 | Country | Only coverage (bar spills) = a **single walking trekker in historic central Minsk**, mostly pedestrian-only streets | [P](https://www.plonkit.net/belarus) |  |
 | Country | Historic Minsk = well-kept **classical European architecture**, white/pastel walls | [P](https://www.plonkit.net/belarus) |  |
 | Country | Signs in **Belarusian or Russian** (both Cyrillic); letters **ў, і** are not in Russian | [P](https://www.plonkit.net/belarus) |  |
-| Country | Minsk-centre street signs are **sea-green** ("вул" = street); pavement mostly grey rectangular tiles | [P](https://www.plonkit.net/belarus) |  |
+| Country | Minsk-centre street signs are **sea-green** ("вул" = street); pavement mostly grey rectangular tiles (pink pattern section on one part) | [P](https://www.plonkit.net/belarus) |  |
 | Special | The **Holy Spirit Cathedral** (two towers) features prominently and can be seen from afar | [P](https://www.plonkit.net/belarus) |  |
 
 ## Greece

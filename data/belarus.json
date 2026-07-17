@@ -5,10 +5,10 @@
  "area_km2": 207600,
  "links": { "plonkit": "https://www.plonkit.net/belarus", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Only coverage (bar spills) = a **single walking trekker in historic central Minsk**, mostly pedestrian-only streets", "src": ["plonkit"], "sv": null, "anchor": "Jq87", "img": "Coverage_map.png", "type": "cars" },
+  { "cat": "country", "text": "Only coverage (bar spills) = a **single walking trekker in historic central Minsk**, mostly pedestrian-only streets", "src": ["plonkit"], "sv": null, "anchor": "Jq87", "img": "Coverage_map.png", "type": "cars", "uniq": "unique" },
   { "cat": "country", "text": "Historic Minsk = well-kept **classical European architecture**, white/pastel walls", "src": ["plonkit"], "sv": null, "anchor": "GrKy", "img": "General_look.png", "type": "arch" },
   { "cat": "special", "text": "The **Holy Spirit Cathedral** (two towers) features prominently and can be seen from afar", "src": ["plonkit"], "sv": null, "anchor": "aHmA", "img": "church.png", "type": "general" },
-  { "cat": "country", "text": "Signs in **Belarusian or Russian** (both Cyrillic); letters **ў, і** are not in Russian", "src": ["plonkit"], "sv": null, "anchor": "nIJX", "img": "by_language.png", "type": "language" },
-  { "cat": "country", "text": "Minsk-centre street signs are **sea-green** (\"вул\" = street); pavement mostly grey rectangular tiles", "src": ["plonkit"], "sv": null, "anchor": "USRk", "img": "Street_signs.png", "type": "naming" }
+  { "cat": "country", "text": "Signs in **Belarusian or Russian** (both Cyrillic); letters **ў, і** are not in Russian", "src": ["plonkit"], "sv": null, "anchor": "nIJX", "img": "by_language.png", "type": "language", "uniq": "shared", "shared_with": [ { "slug": "russia", "note": "Russian is used in Belarus too.", "diff": "Letters ў / і → Belarusian, not Russian." }, { "slug": "ukraine", "note": "Ukrainian also uses і.", "diff": "ў exists only in Belarusian." } ] },
+  { "cat": "country", "text": "Minsk-centre street signs are **sea-green** (\"вул\" = street); pavement mostly grey rectangular tiles (pink pattern section on one part)", "src": ["plonkit"], "sv": null, "anchor": "USRk", "img": "Street_signs.png", "imgs": ["by_pavement.png"], "type": "naming", "uniq": "unique" }
  ]
 }

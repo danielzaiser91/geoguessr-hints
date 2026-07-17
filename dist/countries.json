@@ -1463,7 +1463,8 @@
      "sv": null,
      "anchor": "Jq87",
      "img": "Coverage_map.png",
-     "type": "cars"
+     "type": "cars",
+     "uniq": "unique"
     },
     {
      "cat": "country",
@@ -1496,18 +1497,35 @@
      "sv": null,
      "anchor": "nIJX",
      "img": "by_language.png",
-     "type": "language"
+     "type": "language",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "russia",
+       "note": "Russian is used in Belarus too.",
+       "diff": "Letters ў / і → Belarusian, not Russian."
+      },
+      {
+       "slug": "ukraine",
+       "note": "Ukrainian also uses і.",
+       "diff": "ў exists only in Belarusian."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Minsk-centre street signs are **sea-green** (\"вул\" = street); pavement mostly grey rectangular tiles",
+     "text": "Minsk-centre street signs are **sea-green** (\"вул\" = street); pavement mostly grey rectangular tiles (pink pattern section on one part)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "USRk",
      "img": "Street_signs.png",
-     "type": "naming"
+     "imgs": [
+      "by_pavement.png"
+     ],
+     "type": "naming",
+     "uniq": "unique"
     }
    ]
   },
