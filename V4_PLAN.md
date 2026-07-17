@@ -125,8 +125,8 @@ Format: `- [ ] slug` → check when BOTH captured-complete AND classified.
 - [x] turkey · - [x] israel-west-bank · - [x] jordan · - [x] iraq · - [x] lebanon ·
 - [x] united-arab-emirates · - [x] qatar · - [x] oman · - [x] singapore · - [x] hong-kong ·
 - [x] macau · - [x] cyprus · - [x] british-indian-ocean-territory
-**Europe:** - [x] germany · - [x] france · - [x] united-kingdom · - [x] spain · - [ ] italy ·
-- [ ] netherlands · - [ ] poland · - [ ] sweden · - [ ] norway · - [ ] finland · - [ ] denmark ·
+**Europe:** - [x] germany · - [x] france · - [x] united-kingdom · - [x] spain · - [x] italy ·
+- [x] netherlands · - [ ] poland · - [ ] sweden · - [ ] norway · - [ ] finland · - [ ] denmark ·
 - [ ] ireland · - [ ] belgium · - [ ] switzerland · - [ ] austria · - [ ] portugal ·
 - [ ] greece · - [ ] czechia · - [ ] romania · - [ ] hungary · - [ ] ukraine · - [ ] belarus ·
 - [ ] bulgaria · - [ ] serbia · - [ ] croatia · - [ ] slovakia · - [ ] slovenia ·

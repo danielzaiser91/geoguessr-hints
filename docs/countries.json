@@ -10086,196 +10086,331 @@
    "area_km2": 301340,
    "links": {
     "plonkit": "https://www.plonkit.net/italy",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/653b2196685acb6e827bb4de"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Plate: two blue strips + **short front plate** (unique; Albania has 2 strips but not short)",
+     "type": "plates",
+     "text": "Plates: **blue strips both sides + distinctly short front plate** — the combination is unique",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "sYKL",
-     "img": "it_licenceplate.png"
+     "img": "it_licenceplate.png",
+     "uniq": "unique*",
+     "uniq_note": "Albania also has two blue strips and France a small right strip — but neither has the short front plate; short front + two strips = Italy."
     },
     {
      "cat": "country",
-     "text": "**Triangular** bollard, white w/ black top, red front / white rear (Albania identical)",
+     "type": "bollards",
+     "text": "Bollards **triangular, white w/ black top**, red front / white rear reflector",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "BBrE",
      "img": "it_bollard.png",
-     "type": "bollards"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "albania",
+       "note": "Albania uses the same bollards.",
+       "diff": "Albanian language + Gen4 quality + poorer roads → Albania.",
+       "img": "Bollards.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Road lines often = white outer + **no middle line**; **double guardrails** common w/ red reflectors (Spain = yellow)",
+     "type": "markings",
+     "text": "Very common: **solid white outer lines with NO middle line** (rarer in other Mediterranean countries)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "GY26",
-     "img": "it_roadlines.png",
-     "type": "markings"
+     "img": "it_roadlines.png"
     },
     {
      "cat": "country",
-     "text": "Italian: double consonants, lots of i's, words end in vowels; street = **via**",
+     "type": "language",
+     "text": "**Italian**: double consonants, many i's, ì é à, words end in vowels; street = **via**; 'Passo carrabile' no-parking signs w/ comune name on top",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "clmq",
      "img": "it_language.png",
-     "type": "language"
+     "imgs": [
+      "it_passocarrabile.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Round concrete poles (unusual for the Med) + concrete trident poletops; black/dark sign backs",
+     "type": "landscape",
+     "text": "Mediterranean: farmland on rolling hills + forested mountain valleys",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "RTSX",
+     "img": "it_landscape.png"
+    },
+    {
+     "cat": "country",
+     "type": "arch",
+     "text": "Pastel stone houses w/ **terracotta roofs**; wooden **two-part sideways-opening shutters**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "CcGf",
+     "img": "it_architecture.png"
+    },
+    {
+     "cat": "country",
+     "type": "utility",
+     "text": "Many **round concrete poles** (unusual for the Mediterranean); wooden poles w/ small white sticker; **concrete trident poletops**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "NzGb",
      "img": "it_concretepole.png",
-     "type": "utility"
+     "imgs": [
+      "it_whitepolesticker.png",
+      "it_poletop.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Directional signs **blue w/ white arrow, ALL CAPS**; Autostrade (motorway) signs green",
+     "type": "utility",
+     "text": "**Double guardrails** very common; guardrails w/ **red front reflectors** (Spain: yellow); distinct endings — flatter, wider, bending away",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "6adv",
+     "img": "it_doubleguardrail.png",
+     "imgs": [
+      "it_redreflector.png",
+      "Italy_Guardrail_Ending.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "spain",
+       "note": "Spain's guardrail reflectors are **yellow**.",
+       "diff": "Red reflectors → Italy.",
+       "img": "2022-12-11_5.png"
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "**Black/dark-grey sign backs** common",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "RnwF",
+     "img": "it_blacksignback.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "germany",
+       "note": "Black sign backs too.",
+       "diff": "German language + landscape → Germany.",
+       "img": "German_Signback.png"
+      },
+      {
+       "slug": "romania",
+       "note": "Black backs too.",
+       "diff": "Romanian ă î ș ț → Romania."
+      },
+      {
+       "slug": "albania",
+       "note": "Black backs too.",
+       "diff": "Albanian → Albania."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Directional signs blue w/ white arrow, **ALL-CAPS**; Strada Statale = blue w/ white-blue border; Autostrade = green; km markers = white squares w/ **roman numeral (100 m) over arabic (km)**; road numbers SS/SR/SP (State/Regional/Provincial)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "hAqF",
      "img": "it_directionalsign.png",
-     "type": "signs"
+     "imgs": [
+      "Italy_Highway_Signs.png",
+      "it_kmmarker.png",
+      "it_roadnumbers.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "The roman-numeral km markers and SS/SR/SP codes are Italy-specific; the blue directional signs look like several neighbours'."
     },
     {
      "cat": "country",
-     "text": "km markers: white square, **Roman numeral (100 m) over Arabic (km)**; \"passo carrabile\" no-parking signs",
+     "type": "signs",
+     "text": "Chevrons **white on black** (also ES/GR/AL); street signs white w/ thin blue border; pedestrian sign 5 stripes, person **without belt**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "q7lg",
-     "img": "it_kmmarker.png",
-     "type": "signs"
+     "anchor": "7zlG",
+     "img": "it_chevron.png",
+     "imgs": [
+      "it_streetsign.png",
+      "it_pedestriansign.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Road codes **SS / SR / SP** = State / Regional / Provincial; chevrons white-on-black",
+     "type": "cars",
+     "text": "Gen4 **smallcam** coverage",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "AHSj",
-     "img": "it_roadnumbers.png",
-     "type": "naming"
-    },
-    {
-     "cat": "country",
-     "text": "Pastel stone houses w/ terracotta roofs; **Tuscany** = irregular brown-grey brick",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "CcGf",
-     "img": "it_architecture.png",
-     "type": "arch"
+     "anchor": "dto7",
+     "img": "europe_smallcam.png"
     },
     {
      "cat": "region",
-     "text": "Area-code first digit generally increases **east then south**",
+     "type": "naming",
+     "text": "**Area codes**: first digit increases east, then south; each region has its own **flag**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "mzWF",
      "img": "it_phonecodes.png",
-     "type": "naming"
+     "imgs": [
+      "it_regionalflags.png"
+     ],
+     "super": true
     },
     {
-     "cat": "state",
-     "area": "South Tyrol",
-     "text": "**German** bilingual signs (German majority) → South Tyrol / Alto Adige",
+     "cat": "region",
+     "type": "language",
+     "text": "**South Tyrol** = German bilingual signs; **Aosta Valley** = French on signs (via + rue); **Slovene** bilingual near the Slovenian border",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "ZxGw",
      "img": "it_german.png",
-     "type": "language"
-    },
-    {
-     "cat": "state",
-     "area": "Aosta Valley",
-     "text": "**French** bilingual signs (\"rue\") → Aosta Valley in the NW Alps",
-     "src": [
-      "plonkit"
+     "imgs": [
+      "it_aostafrench.png",
+      "it_slovene.png"
      ],
-     "sv": null,
-     "anchor": "IZSl",
-     "img": "it_aostafrench.png",
-     "type": "language"
+     "super": true
     },
     {
      "cat": "region",
-     "text": "**Po Valley** = dead flat + hazy air (north); Apulia (Bari) = olive groves + red dirt + rock walls (SE)",
+     "type": "landscape",
+     "text": "**Po Valley**: completely flat + notorious **haze** (worst air in Europe); rice → west/central Po (+ some Sardinia)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "T4R2",
      "img": "it_povalley.png",
-     "type": "landscape"
+     "imgs": [
+      "it_rice.png"
+     ]
     },
     {
      "cat": "region",
-     "text": "Sicily = arid hilly + rocky mtns; Sardinia = grey rocks poking up (NE); cacti → far south",
+     "type": "landscape",
+     "text": "**Bari peninsula**: olive plantations + bright rock walls + red dirt (SE-Sicily similar); **Alps** = tall ranges + deep valleys; **Sicily** = arid hilly farmland + rocky mountains; **Sardinia** = grey rocks sticking up (esp. NE; Sicily drier); cacti → south (Sicily, S-Sardinia, S-Apulia); citrus → E-Sicily + S-Calabria",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "F3fZ",
-     "img": "it_sicilylandscape.png",
-     "type": "landscape"
+     "anchor": "kMZN",
+     "img": "it_bari.png",
+     "imgs": [
+      "it_alps.png",
+      "it_sicilylandscape.png",
+      "it_sardiniarocks.png",
+      "it_cacti.png",
+      "it_citrus.png"
+     ],
+     "super": true
     },
     {
-     "cat": "special",
-     "text": "**Trulli** (conical stone roofs) → Itria Valley / Alberobello; Apulian flat-roof light houses",
+     "cat": "region",
+     "type": "arch",
+     "text": "**Architecture regions**: Tuscany = irregular unpainted brown-grey brick (NE-Spain similar); Alpine = white stone + wood; Aosta = grey uneven brick (Andorra-like); Veneto/NE = solid shutters w/ black hinges; Apulia = light flat-roofed 2–3-storey houses (Middle-East vibe); **trullo cone roofs = Itria valley only** (Alberobello)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "zq9T",
-     "img": "it_trullo.png",
-     "type": "arch"
+     "anchor": "WLd3",
+     "img": "it_tuscanyarchitecture.png",
+     "imgs": [
+      "it_alpinehouses.png",
+      "it_aostaarchitecture.png",
+      "it_venetoshutters.png",
+      "it_southflatroofs.png",
+      "it_trullo.png"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "special",
-     "text": "Volcanoes as landmarks: **Etna** → E Sicily, **Vesuvius** → Naples; **Venice** = canals everywhere",
+     "type": "cars",
+     "text": "**Campione d'Italia** (exclave in Switzerland): low-cam + long antenna + flag, water to the west (antenna also in parts of CH)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "42k5",
+     "img": "it_exclave.png"
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Volcano/city spotlights**: Etna towers over E-Sicily; Vesuvius S/E of Naples' plains; **Venice** = canals; Plana del Fùcino = mountain-ringed plain w/ perfect N-S road grid",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "AHUP",
      "img": "it_etna.png",
-     "type": "landscape"
+     "imgs": [
+      "it_vesuvio.png",
+      "it_venice.png",
+      "it_planadelfucino.png"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "special",
-     "text": "**Slovene** bilingual signs near the Slovenian border (Friuli / Trieste)",
+     "type": "landscape",
+     "text": "**Island spotlights**: Pantelleria = dark volcanic rock walls + yellow lichen + cacti; Aeolians = volcanic + Mediterranean mix, white tourist villas (Salina = twin-volcano valley; Vulcano = white dirt stripe on the cone); Favignana = N-S mountain spine + Bari-like rock walls, NOT volcanic; San Domino = gloomy overcast **Gen2 only**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "UJSC",
-     "img": "it_slovene.png",
-     "type": "language"
+     "anchor": "2pam",
+     "img": "it_pantelleria.png",
+     "imgs": [
+      "it_aeolianislands.png",
+      "it_salina.png",
+      "it_vulcano.png",
+      "it_favignana.png",
+      "it_sandomino.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },
@@ -15744,152 +15879,380 @@
    "area_km2": 41850,
    "links": {
     "plonkit": "https://www.plonkit.net/netherlands",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/63feed5b6177da9add0b8191"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Plates long **yellow** + blue strip left (Europe yellow = only NL, Luxembourg, UK-back)",
+     "type": "plates",
+     "text": "Plates long **yellow** w/ blue strip left; taxis = blue plates",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "SU02",
-     "img": "Netherlands_plate.png"
+     "img": "Netherlands_plate.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "luxembourg",
+       "note": "Also yellow plates.",
+       "diff": "Luxembourgish/French + hills → Luxembourg."
+      },
+      {
+       "slug": "united-kingdom",
+       "note": "UK rear plates yellow (often no strip).",
+       "diff": "Left-hand traffic → UK.",
+       "img": "United_Kingdom_License_Plate.png"
+      },
+      {
+       "slug": "denmark",
+       "note": "Yellow plates on commercial vehicles.",
+       "diff": "Danish (æ ø å) → Denmark."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Essentially no street-level utility poles** (Belgium has them); extraordinarily **flat** land",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "qzbi",
-     "img": "Lack_of_utility_poles.png",
-     "type": "utility"
-    },
-    {
-     "cat": "country",
-     "text": "Water everywhere: canals, ditches, dikes, bridges; windmills (old & wind turbines)",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "8MuM",
-     "img": "Water_landscape.png",
-     "type": "landscape"
-    },
-    {
-     "cat": "country",
-     "text": "**Bike paths everywhere** (reddish-pink lanes) + tons of cyclists; brick roads common",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "JnCa",
-     "img": "Bicycle_path_2.png",
-     "type": "general"
-    },
-    {
-     "cat": "country",
-     "text": "Brick **rumble strip** on rural road edges (~unique); speed bumps w/ long/short white stripes",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "36OP",
-     "img": "Rumble_strip_v2.png",
-     "type": "markings"
-    },
-    {
-     "cat": "country",
-     "text": "Dutch: double vowels, ij/oe, \"IJ\" one letter; street = straat / -weg / -laan / -plein; signs blue w/ white text",
+     "type": "language",
+     "text": "**Dutch**: double vowels, ij/ieuw/oe clusters, capitalised **IJ** as one letter (unique)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Awqc",
      "img": "nl_language.png",
-     "type": "language"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "belgium",
+       "note": "Flanders speaks Dutch.",
+       "diff": "Belgian white plates w/ red text + utility poles → Belgium."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Road markers **green**: **A-road = red box** (highway), **N-road = yellow box** (regional); sign edges wrap to the back",
+     "type": "bollards",
+     "text": "Simple **white bollard w/ red reflector** (rare French-style round ones — red wrap doesn't go all the way around)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "R6It",
+     "img": "Dutch_bollard.png"
+    },
+    {
+     "cat": "country",
+     "type": "utility",
+     "text": "**Essentially NO street-level utility poles** (only big power lines)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "qzbi",
+     "img": "Lack_of_utility_poles.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "belgium",
+       "note": "Belgium DOES use street poles fairly commonly.",
+       "diff": "Poles present → lean Belgium."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "landscape",
+     "text": "**Extraordinarily flat** (exceptions: S-Limburg low hills, De Veluwe); very **water-rich**: canals/ditches beside roads, dikes, dams, bridges; tree-lined rural roads (also Poland)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "BWFN",
+     "img": "Flat_landscape.png",
+     "imgs": [
+      "Water_landscape.png",
+      "Tree-lined_roads_2.png"
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "general",
+     "text": "Highly **planned & organised**: well-kept roads, master-planned row-house suburbs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "KgeR",
+     "img": "Urban_planning.png"
+    },
+    {
+     "cat": "country",
+     "type": "markings",
+     "text": "All-white lines, often **dashed outer**; sometimes unique **green middle lines**; **reddish-pink bicycle lanes** everywhere + cyclists; brick roads (distinct pattern); grey square sidewalk tiles offset-laid",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "ymqD",
+     "img": "Road_lines.png",
+     "imgs": [
+      "Bicycle_path_2.png",
+      "Brick_roads.png",
+      "Sidewalks.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "Green middle lines are NL-unique; the rest of the road kit (bike lanes, brick roads) is strongly Dutch but exists in Belgium too."
+    },
+    {
+     "cat": "country",
+     "type": "markings",
+     "text": "Speed bumps w/ **alternating long/short white stripes**; rural **brick rumble strips** on road sides — fairly NL-unique, great for rural rounds",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "xQ7P",
+     "img": "Speed_bump.png",
+     "imgs": [
+      "Rumble_strip_v2.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Street signs **blue w/ white letters** (street = straat; -weg/-laan/-pad/-plein; 'fietspad' = just a bike path!); Belgium: multicoloured + municipality named",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "eSJE",
+     "img": "Street_sign.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "belgium",
+       "note": "Belgian street signs vary in colour and usually carry the municipality.",
+       "diff": "Municipality on the sign → Belgium."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Direction signs blue/white (bike versions white w/ red border); **blue town-entry signs**, often elaborate, listing 'gemeente' (municipality = scan helper!)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "B3Dg",
+     "img": "Direction_signs.png",
+     "imgs": [
+      "Town_sign.png"
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "**Green road markers**: red box + A = highway, yellow box + N = regional; sign edges **extend backwards** creating a visible border from behind — consistent & unique to NL",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "HxdF",
      "img": "Road_marker.png",
-     "type": "signs"
+     "imgs": [
+      "nl_signedges.png"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Row houses ≈ half of housing (very high); red-brown brick, orange/grey tiles",
+     "type": "signs",
+     "text": "Signposts w/ **b&w or blue-white striped markings**; bulky **yellow posts** on traffic islands; striped rural barriers",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "CVMV",
-     "img": "Row_houses.png",
-     "type": "arch"
+     "anchor": "ChWn",
+     "img": "Pole_markings.png",
+     "imgs": [
+      "Yellow_signposts.png",
+      "Dutch_road_barrier.png"
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "arch",
+     "text": "**Red-brown brick architecture** (orange or dark-grey tile roofs); **row houses** ≈ half the housing stock — Europe-top; windmills + turbines common",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "vamQ",
+     "img": "Brick_architecture.png",
+     "imgs": [
+      "Row_houses.png",
+      "Windmills.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "belgium",
+       "note": "Similar brick.",
+       "diff": "Poles + municipality street signs → Belgium."
+      },
+      {
+       "slug": "denmark",
+       "note": "Similar brick.",
+       "diff": "Danish æøå → Denmark."
+      },
+      {
+       "slug": "united-kingdom",
+       "note": "Row houses + brick.",
+       "diff": "Left-hand traffic → UK."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "Gen4 glitch showing the **black back of the car**; smallcam coverage",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "58qC",
+     "img": "Black_car_glitch.png",
+     "imgs": [
+      "europe_smallcam.png"
+     ]
     },
     {
      "cat": "region",
-     "text": "Landline area codes (3–4 digit) are geographically grouped → region",
+     "type": "naming",
+     "text": "**Area codes** (3–4 digits, geographically grouped except 07x + two 02x); **hectometre markers** on N-roads have **province-specific designs**; bollard km stickers regional; province flags (mostly rare — exceptions: **Friesland, Noord-Brabant**, unofficial Achterhoek)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "hcMa",
      "img": "Area_codes_of_the_Netherlands.png",
-     "type": "naming"
-    },
-    {
-     "cat": "state",
-     "text": "N-road **hectometre markers** have province-specific designs → identify province",
-     "src": [
-      "plonkit"
+     "imgs": [
+      "Hectometer_roads_with_attribution.png",
+      "Regional_flags_darkmode.png"
      ],
-     "sv": null,
-     "anchor": "PKNI",
-     "img": "Hectometer_roads_with_attribution.png",
-     "type": "naming"
+     "super": true
     },
     {
-     "cat": "state",
-     "area": "Friesland",
-     "text": "**Frisian** language on some signs (vowels w/ circumflex Â Ê Ô Û) → Friesland (north)",
+     "cat": "region",
+     "type": "language",
+     "text": "**Friesland**: bilingual town signs (Frisian); street endings **-wei / -strjitte**; circumflex vowels Â Ê Ô Û + frequent Y",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Jaik",
      "img": "Frisian_language.png",
-     "type": "language"
+     "super": true
     },
     {
-     "cat": "state",
-     "area": "Limburg",
-     "text": "**Low rolling hills** (rare for NL) → Southern Limburg",
+     "cat": "region",
+     "type": "utility",
+     "text": "Street-light stickers: **Limburg = vertical 3–4 digits**; **North Brabant = horizontal 1–2 digits**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "KAD1",
-     "img": "Limburg_hills.png",
-     "type": "landscape"
+     "anchor": "r0hh",
+     "img": "nl_limburgstreetlightsticker.png",
+     "imgs": [
+      "nl_nbstreetlightsticker.png"
+     ]
     },
     {
      "cat": "region",
-     "text": "West & north are **below sea level** → polder landscape (grid ditches); dunes line the North Sea coast",
+     "type": "landscape",
+     "text": "**West/north = polder** (marshy, many small waterways); south/east = normal flat farmland; S-Limburg = low hills; **Veluwe** = unusually forested, heath + sandy soil ('un-Dutch' look); **Flevoland** = reclaimed 1950s land — dead-straight roads, huge fields, turbines, zero historic buildings (exception: **Urk**, an ex-island town); coast = dunes; **Wadden Islands** = touristy + NW dune coasts",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "5Rdh",
      "img": "Polder_landscape.png",
-     "type": "landscape"
+     "imgs": [
+      "South_and_Eastern_landscape.png",
+      "Limburg_hills.png",
+      "Veluwe.png",
+      "Flevoland.png",
+      "Dunes.png",
+      "Wadden_Islands.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "arch",
+     "text": "Northern farms = **very large roofs**; **rolling shutters** more common in the south; **Curaçao** counts as NL (own page)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "ZZh6",
+     "img": "Northern_farm_roofs.png",
+     "imgs": [
+      "Rolling_shutters.png"
+     ]
+    },
+    {
+     "cat": "city",
+     "type": "signs",
+     "text": "**Amsterdam**: street signs w/ **district below the name**; **Oegstgeest**: illegible yellow-on-red signs; **Lelystad**: streets named neighbourhood+number (on the map!)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "ABWw",
+     "img": "Amsterdam_street_sign.png",
+     "imgs": [
+      "Ugliest Street Signs Hint.png",
+      "Lelystad_street_names.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "arch",
+     "text": "**Zaanstreek** (N of Amsterdam): green/black wooden houses w/ white trims + white roof spires; **Baarle**: Belgian enclaves — border markings on the pavement, both flags",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "kG3k",
+     "img": "Zaanstreek_architecture.png",
+     "imgs": [
+      "Baarle.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Afsluitdijk**: dead-straight SW-NE divided causeway, water SE + dike NW; **Westland**: greenhouse ocean SW of The Hague; **Rotterdam harbour**: industry + round fuel tanks (Amsterdam/Delfzijl similar); Hoge Veluwe NP trekker w/ visible **brown hair**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "qfv9",
+     "img": "Afsluitdijk.png",
+     "imgs": [
+      "Westland_Greenhouses.png",
+      "Rotterdam_harbour.png",
+      "Veluwe_trekker.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },
