@@ -2603,12 +2603,19 @@ Study: [Plonk It](https://www.plonkit.net/puerto-rico)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | US territory (counts as US for streaks); mostly **smallcam** (wide round blur + antenna); Gen3 car has a front-right antenna w/ a white dot | [P](https://www.plonkit.net/puerto-rico) |  |
-| Country | **Spanish** on signs (some English); **Wal-Mart** & other US chains common (rare elsewhere in the Caribbean) | [P](https://www.plonkit.net/puerto-rico) |  |
-| Country | Whole island uses phone code **(787)** (also 939) — often written (787) XXX-XXXX | [P](https://www.plonkit.net/puerto-rico) |  |
-| Country | **No front plate** required; US-shape speed signs but **in Spanish**; stop sign = **PARE** | [P](https://www.plonkit.net/puerto-rico) |  |
-| Country | Unique **highway shields** (primary/secondary/tertiary — not in any US state); tall **green km markers** ("km" + a vertical number) | [P](https://www.plonkit.net/puerto-rico) |  |
-| Region | Homes concrete w/ flat roofs + metal gates; **south drier**, mountains in the middle (mostly divided-highway coverage); **Ponce Creole** architecture; colourful Old San Juan | [P](https://www.plonkit.net/puerto-rico) |  |
+| Country | US overseas territory — **counts as US** in country streaks | [P](https://www.plonkit.net/puerto-rico) |  |
+| Country | Nearly all coverage = **smallcam** (wide round low blur, antenna often visible); Gen3 car has a **front-right antenna w/ a small white dot on the tip** | [P](https://www.plonkit.net/puerto-rico) |  |
+| Country | Whole island = phone code **(787)** — format (787) XXX-XXXX (rarer: 939) | [P](https://www.plonkit.net/puerto-rico) |  |
+| Country | **Spanish** commonly on signs (instead of English) | [P](https://www.plonkit.net/puerto-rico) |  |
+| Country | **US store chains (Wal-Mart etc.) everywhere** — rare in the surrounding Caribbean/LatAm | [P](https://www.plonkit.net/puerto-rico) |  |
+| Country | **Front plates not mandatory** → front-plated cars rare (differentiates from Guam/NMI) | [P](https://www.plonkit.net/puerto-rico) |  |
+| Country | Much rural coverage on **large divided highways** | [P](https://www.plonkit.net/puerto-rico) |  |
+| Country | Unique **PR highway shields** (primary/urban/secondary/tertiary) — in no other US state or territory | [P](https://www.plonkit.net/puerto-rico) |  |
+| Country | Speed signs = US shape but **always in Spanish**; stop signs say **'PARE'** | [P](https://www.plonkit.net/puerto-rico) |  |
+| Country | km markers: **tall, green, 'km' on top + number written vertically** in large text | [P](https://www.plonkit.net/puerto-rico) |  |
+| Country | Homes of **concrete w/ flat roofs** + metal gates (esp. urban) — similar elsewhere in LatAm | [P](https://www.plonkit.net/puerto-rico) |  |
+| Region | **South = distinctly drier**; north & south coasts = flat plains/rolling hills; middle = mountains (coverage there mostly divided highways) | [P](https://www.plonkit.net/puerto-rico) |  |
+| City | **Ponce** (south): Ponce-Creole buildings (Victorian × Spanish Revival, wood + masonry); **Old San Juan** (NW tip of San Juan): narrow brick streets, colourful Gothic/Renaissance/Baroque mix | [P](https://www.plonkit.net/puerto-rico) |  |
 
 ## Martinique
 Study: [Plonk It](https://www.plonkit.net/martinique)

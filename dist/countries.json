@@ -24087,69 +24087,195 @@
    "hints": [
     {
      "cat": "country",
-     "text": "US territory (counts as US for streaks); mostly **smallcam** (wide round blur + antenna); Gen3 car has a front-right antenna w/ a white dot",
+     "type": "general",
+     "text": "US overseas territory — **counts as US** in country streaks",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "Npkn",
-     "img": "pr_googlecar.png",
-     "type": "cars"
+     "anchor": "4QdF",
+     "img": "pr_location.png"
     },
     {
      "cat": "country",
-     "text": "**Spanish** on signs (some English); **Wal-Mart** & other US chains common (rare elsewhere in the Caribbean)",
+     "type": "cars",
+     "text": "Nearly all coverage = **smallcam** (wide round low blur, antenna often visible); Gen3 car has a **front-right antenna w/ a small white dot on the tip**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "avsT",
-     "img": "pr_spanish.png",
-     "type": "language"
+     "anchor": "TIjg",
+     "img": "Puerto_Rico_Smallcam.png",
+     "imgs": [
+      "pr_googlecar.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "guam",
+       "note": "Guam & NMI cars also have front-right antennas.",
+       "diff": "PARE + Spanish → Puerto Rico; Pacific setting → Guam/NMI."
+      },
+      {
+       "slug": "northern-mariana-islands",
+       "note": "Same antenna position.",
+       "diff": "Spanish signs → PR."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Whole island uses phone code **(787)** (also 939) — often written (787) XXX-XXXX",
+     "type": "naming",
+     "text": "Whole island = phone code **(787)** — format (787) XXX-XXXX (rarer: 939)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "zV2D",
      "img": "pr_areacode.png",
-     "type": "naming"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "**No front plate** required; US-shape speed signs but **in Spanish**; stop sign = **PARE**",
+     "type": "language",
+     "text": "**Spanish** commonly on signs (instead of English)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "avsT",
+     "img": "pr_spanish.png"
+    },
+    {
+     "cat": "country",
+     "type": "general",
+     "text": "**US store chains (Wal-Mart etc.) everywhere** — rare in the surrounding Caribbean/LatAm",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "FSsp",
+     "img": "pr_wal_mart_gen4.png",
+     "uniq": "unique*",
+     "uniq_note": "US chains + Spanish = Puerto Rico's signature combo."
+    },
+    {
+     "cat": "country",
+     "type": "plates",
+     "text": "**Front plates not mandatory** → front-plated cars rare (differentiates from Guam/NMI)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "x00D",
      "img": "pr_nofrontplates.png",
-     "type": "plates"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "guam",
+       "note": "Front plates common there.",
+       "diff": "No front plate → PR."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Unique **highway shields** (primary/secondary/tertiary — not in any US state); tall **green km markers** (\"km\" + a vertical number)",
+     "type": "roads",
+     "text": "Much rural coverage on **large divided highways**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "eA8V",
+     "img": "pr_highways_gen4"
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Unique **PR highway shields** (primary/urban/secondary/tertiary) — in no other US state or territory",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "8rin",
      "img": "pr_highway_shields.png",
-     "type": "signs"
+     "uniq": "unique"
     },
     {
-     "cat": "region",
-     "text": "Homes concrete w/ flat roofs + metal gates; **south drier**, mountains in the middle (mostly divided-highway coverage); **Ponce Creole** architecture; colourful Old San Juan",
+     "cat": "country",
+     "type": "signs",
+     "text": "Speed signs = US shape but **always in Spanish**; stop signs say **'PARE'**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "MALI",
-     "img": "pr_pare.png",
-     "type": "arch"
+     "anchor": "nXMf",
+     "img": "pr_maximum_new",
+     "imgs": [
+      "pr_pare.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "dominican-republic",
+       "note": "DR also uses PARE (+ all of South America).",
+       "diff": "US signage shapes + smallcam → PR; striped-bar car → DR."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "km markers: **tall, green, 'km' on top + number written vertically** in large text",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "sbGW",
+     "img": "pr_kmmarker.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "country",
+     "type": "arch",
+     "text": "Homes of **concrete w/ flat roofs** + metal gates (esp. urban) — similar elsewhere in LatAm",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "m45n",
+     "img": "pr_house_new2.png"
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**South = distinctly drier**; north & south coasts = flat plains/rolling hills; middle = mountains (coverage there mostly divided highways)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "1NMP",
+     "img": "pr_drysouth.png",
+     "imgs": [
+      "pr_plains.png",
+      "pr_mountains.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "city",
+     "type": "arch",
+     "text": "**Ponce** (south): Ponce-Creole buildings (Victorian × Spanish Revival, wood + masonry); **Old San Juan** (NW tip of San Juan): narrow brick streets, colourful Gothic/Renaissance/Baroque mix",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "nsPb",
+     "img": "pr_ponce_architecture_gen4.png",
+     "imgs": [
+      "pr_old_town_san_juan_gen4.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },
