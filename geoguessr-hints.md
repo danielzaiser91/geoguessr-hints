@@ -169,19 +169,24 @@ Study: [Plonk It](https://www.plonkit.net/kenya) · [GeoGuessr map](https://www.
 | Special | **National-park cars** (almost all w/ snorkel): | [P](https://www.plonkit.net/kenya) |  |
 
 ## Uganda
-Study: [Plonk It](https://www.plonkit.net/uganda)
+Study: [Plonk It](https://www.plonkit.net/uganda) · [GeoGuessr map](https://www.geoguessr.com/maps/64011b19db4309a1c7482efc)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Very limited coverage: **Kampala + Entebbe + national parks**; drives on the **left** | [P](https://www.plonkit.net/uganda) |  |
-| Country | Plates **white front / yellow rear** (long or tall) | [P](https://www.plonkit.net/uganda) |  |
-| Region | **Kampala** Google car: white, square side mirrors, boxy — unique to Kampala & its outskirts | [P](https://www.plonkit.net/uganda) |  |
-| Region | Kampala = busy, narrow unpaved roads, small 1-storey houses w/ walls + barbed wire; **red soil** even on paved roads; very **hilly** | [P](https://www.plonkit.net/uganda) |  |
-| Region | Kampala **taxi buses w/ a blue blocky pattern**; city-centre = black-and-white curbs + multi-storey buildings | [P](https://www.plonkit.net/uganda) |  |
-| Region | **Entebbe** (SW of Kampala): emptier, greener, fancier houses, noticeably more street signs | [P](https://www.plonkit.net/uganda) |  |
-| Region | National-park car = like Kampala's but with a **black bar along the front** (often not visible) | [P](https://www.plonkit.net/uganda) |  |
-| Special | **Kidepo NP** (NE) = savannah w/ mountains all around (a wide mountain to the north) | [P](https://www.plonkit.net/uganda) |  |
-| Special | Parks differ: **Murchison Falls** (low dirt road-barriers, palms north), **Lake Mburo** (driest, dried grass), **Kibale/Semuliki** (dense humid forest paths), **Queen Elizabeth** (non-red dirt) | [P](https://www.plonkit.net/uganda) |  |
+| Country | Very limited coverage: **Kampala + Entebbe + national parks** (map) | [P](https://www.plonkit.net/uganda) |  |
+| Country | Drives on the **left** | [P](https://www.plonkit.net/uganda) |  |
+| Country | Plates: **white front / yellow rear**, long or tall | [P](https://www.plonkit.net/uganda) |  |
+| Region | **National-park car**: like Kampala's but w/ a **black bar along the front** (visibility varies, often invisible) | [P](https://www.plonkit.net/uganda) |  |
+| City | **Kampala Google car**: white, boxy, square side mirrors — unique to Kampala & outskirts | [P](https://www.plonkit.net/uganda) |  |
+| City | Busy look: many signs, narrow unpaved roads, small 1-storey houses behind **walls + barbed wire**; soil **very red** (even paved roads have a red/purple/pink tinge); city is **very hilly** | [P](https://www.plonkit.net/uganda) |  |
+| City | **Taxi buses w/ a blue blocky side pattern** everywhere; city centre = richer, multi-storey, **black-white kerbs** | [P](https://www.plonkit.net/uganda) |  |
+| City | **Entebbe** (SW of Kampala): feels emptier, greener, fancier houses, **significantly more street signs** | [P](https://www.plonkit.net/uganda) |  |
+| Special | **Kidepo NP** (NE): big savanna w/ mountains in most directions — most recognisable range east; north road: forested south half, savanna north half w/ a **wide mountain to the north** | [P](https://www.plonkit.net/uganda) |  |
+| Special | **Murchison Falls NP** (N end of Lake Albert): **low dirt barriers along the roads**; savanna west, small trees/bushes east, only a low wide range far west; **palms → almost certainly northern Murchison** | [P](https://www.plonkit.net/uganda) |  |
+| Special | **Kibale NP**: 3 coverage types — the country's **widest dirt road** through dense tropical forest; a small car-width forest road (bright); tiny dark forest paths; **Semuliki NP** = two parallel humid forest paths, often **water drops on the lens** | [P](https://www.plonkit.net/uganda) |  |
+| Special | **Lake Mburo NP** (W of Lake Victoria): by far the **driest** coverage — completely dried-out grass + dry bushes, hilly but not mountainous | [P](https://www.plonkit.net/uganda) |  |
+| Special | **Mt Elgon NP** (Kenyan border): western path = forest w/ steep upslope east + very dark red dirt; eastern path = small palm-like trees on open hills + a **rifle-carrying man in green** following the trekker | [P](https://www.plonkit.net/uganda) |  |
+| Special | **Queen Elizabeth NP** (N of Lake Edward): one of the only places w/ **non-red (brown/grey) dirt**; tree-shaped **cacti**; water-filled **craters** (north, nowhere else); the only paved road outside Kampala (white outers + yellow middle, powerline east, hills north); **Katwe** = the only real village w/ coverage outside Kampala | [P](https://www.plonkit.net/uganda) |  |
 
 ## Ghana
 Study: [Plonk It](https://www.plonkit.net/ghana) · [GeoGuessr map](https://www.geoguessr.com/maps/6473f3ae6f5ab58346292e87)

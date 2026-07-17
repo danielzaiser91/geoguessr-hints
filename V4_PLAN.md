@@ -140,7 +140,7 @@ Format: `- [ ] slug` → check when BOTH captured-complete AND classified.
 - [x] us-virgin-islands · - [ ] us-minor-outlying-islands
 **S. America:** - [x] brazil · - [x] argentina · - [x] chile · - [x] peru · - [x] colombia ·
 - [x] bolivia · - [x] ecuador · - [x] uruguay · - [x] curacao · - [ ] falkland-islands
-**Africa:** - [x] south-africa · - [x] kenya · - [x] nigeria · - [x] ghana · - [ ] uganda ·
+**Africa:** - [x] south-africa · - [x] kenya · - [x] nigeria · - [x] ghana · - [x] uganda ·
 - [ ] tanzania · - [ ] rwanda · - [ ] senegal · - [ ] botswana · - [ ] namibia · - [ ] lesotho ·
 - [ ] eswatini · - [ ] madagascar · - [ ] tunisia · - [ ] egypt · - [ ] mali · - [ ] reunion ·
 - [ ] sao-tome-and-principe
