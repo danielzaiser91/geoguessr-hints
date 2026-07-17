@@ -2160,14 +2160,22 @@ Study: [Plonk It](https://www.plonkit.net/madeira)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Autonomous region of Portugal → Portuguese infra (poles, chevrons); very **mountainous, semi-tropical** island w/ **eucalyptus** forests (Azores = less mountainous, no eucalyptus) | [P](https://www.plonkit.net/madeira) |  |
-| Country | **African lilies** (Agapanthus, white/blue round clusters) very common; hydrangeas & ferns too | [P](https://www.plonkit.net/madeira) |  |
-| Country | **Terrace farming** everywhere (no flat land), plateaus split by stone walls | [P](https://www.plonkit.net/madeira) |  |
-| Country | Houses white/grey/**pastel** w/ well-kept **red tile roofs**; white concrete-block barriers along roads | [P](https://www.plonkit.net/madeira) |  |
-| Country | Unique small **stone bollards w/ a red reflector** (cuboid or cylindrical) | [P](https://www.plonkit.net/madeira) |  |
-| Country | **Bus-stop signs** in a black/white/yellow scheme; taxis yellow w/ a blue stripe; yellow-&-black mountain guardrails | [P](https://www.plonkit.net/madeira) |  |
-| Country | '**Shitcam**' (official Ari): wide circular blur, gloomy tone, often an unblurred **white car back**; low cloud/fog + tunnels very common | [P](https://www.plonkit.net/madeira) |  |
-| Region | Banana plantations in the **south**; misty central-west **plateau** w/ wind turbines; **arid eastern tip** w/ little vegetation | [P](https://www.plonkit.net/madeira) |  |
+| Country | Autonomous region of Portugal → **Portuguese infrastructure** (poles, chevrons etc.) | [P](https://www.plonkit.net/madeira) |  |
+| Country | Very **mountainous, semi-tropical** island | [P](https://www.plonkit.net/madeira) |  |
+| Country | Lots of **eucalyptus forests** — can look deceptively like mainland Portugal | [P](https://www.plonkit.net/madeira) |  |
+| Country | Flora: **African lilies** (long grassy leaves, round white/blue flower clusters on tall stems) very common; **hydrangeas** occasionally; **ferns** everywhere | [P](https://www.plonkit.net/madeira) |  |
+| Country | **Terrace farming** extensively (no flat land) — stone walls separate the plateaus | [P](https://www.plonkit.net/madeira) |  |
+| Country | Houses white/grey/pastel (yellow, pink) w/ **red tile roofs in good condition** | [P](https://www.plonkit.net/madeira) |  |
+| Country | **White concrete-block barriers** along roads | [P](https://www.plonkit.net/madeira) |  |
+| Country | Bus-stop signs in a unique **black/white/yellow** scheme; taxis **yellow w/ blue side stripe** | [P](https://www.plonkit.net/madeira) |  |
+| Country | Small unique **stone bollards w/ red reflector** — cuboidal or cylindrical | [P](https://www.plonkit.net/madeira) |  |
+| Country | Sometimes **yellow-and-black guardrails** on mountain roads; bridge railings often painted **dark green**; signposts often **striped** (also Azores) | [P](https://www.plonkit.net/madeira) |  |
+| Country | These highway **speed-limit signs are unique to Madeira** | [P](https://www.plonkit.net/madeira) |  |
+| Country | **Low clouds/fog** typical; **tunnels** very common in the mountains | [P](https://www.plonkit.net/madeira) |  |
+| Country | Free-roaming **cows on high roads** + cow warning signs — Madeira's are **brown w/ white spots** | [P](https://www.plonkit.net/madeira) |  |
+| Country | Weird low-quality **'shitcam'** coverage (official Ari): wide circular blur, gloomy image, often an **unblurred white car back** (good maps exclude it, but be aware) | [P](https://www.plonkit.net/madeira) |  |
+| Region | **Banana plantations → south**; centre-west = elevated **plateau** (flat, misty, wind turbines); road east of the plateau = distinctive rocks + black-yellow guardrail; **eastern tip = arid**, nearly no vegetation | [P](https://www.plonkit.net/madeira) |  |
+| Special | **Spotlights**: | [P](https://www.plonkit.net/madeira) |  |
 
 ## Isle of Man
 Study: [Plonk It](https://www.plonkit.net/isle-of-man) · [GeoGuessr map](https://www.geoguessr.com/maps/673b8d44492287e99fd31fa3)

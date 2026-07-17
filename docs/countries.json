@@ -16860,87 +16860,275 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Autonomous region of Portugal → Portuguese infra (poles, chevrons); very **mountainous, semi-tropical** island w/ **eucalyptus** forests (Azores = less mountainous, no eucalyptus)",
+     "type": "signs",
+     "text": "Autonomous region of Portugal → **Portuguese infrastructure** (poles, chevrons etc.)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "qA1O",
+     "img": "portugueseinfra_ma.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "portugal",
+       "note": "Identical national kit.",
+       "diff": "Semi-tropical island mountains + terraces → Madeira."
+      },
+      {
+       "slug": "azores",
+       "note": "Same Portuguese infra on the Azores.",
+       "diff": "See landscape/flora hints below."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "landscape",
+     "text": "Very **mountainous, semi-tropical** island",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "KlHM",
      "img": "landscape.png",
-     "type": "landscape"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "azores",
+       "note": "The Azores are less mountainous and more temperate.",
+       "diff": "Steep + semi-tropical → Madeira; rolling green pasture → Azores."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**African lilies** (Agapanthus, white/blue round clusters) very common; hydrangeas & ferns too",
+     "type": "landscape",
+     "text": "Lots of **eucalyptus forests** — can look deceptively like mainland Portugal",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Fnoy",
+     "img": "eucalyptus.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "portugal",
+       "note": "The mainland is full of eucalyptus too.",
+       "diff": "Ocean glimpses + terraces + tunnels → Madeira."
+      },
+      {
+       "slug": "azores",
+       "note": "The Azores do NOT commonly have eucalypti.",
+       "diff": "Eucalyptus → Madeira/mainland."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "general",
+     "text": "Flora: **African lilies** (long grassy leaves, round white/blue flower clusters on tall stems) very common; **hydrangeas** occasionally; **ferns** everywhere",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "J3BX",
      "img": "africanlily.png",
-     "type": "general"
+     "imgs": [
+      "hydrangea.png",
+      "ferns.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "azores",
+       "note": "Hydrangeas are even MORE common on the Azores.",
+       "diff": "Hydrangea walls everywhere → Azores; lilies + steep terrain → Madeira."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Terrace farming** everywhere (no flat land), plateaus split by stone walls",
+     "type": "landscape",
+     "text": "**Terrace farming** extensively (no flat land) — stone walls separate the plateaus",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "06MA",
      "img": "terracefarming.png",
-     "type": "landscape"
+     "uniq": "unique*",
+     "uniq_note": "Within the Portuguese world the dense stone-wall terraces scream Madeira."
     },
     {
      "cat": "country",
-     "text": "Houses white/grey/**pastel** w/ well-kept **red tile roofs**; white concrete-block barriers along roads",
+     "type": "arch",
+     "text": "Houses white/grey/pastel (yellow, pink) w/ **red tile roofs in good condition**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "CWY3",
-     "img": "houecolours.png",
-     "type": "arch"
+     "img": "houecolours.png"
     },
     {
      "cat": "country",
-     "text": "Unique small **stone bollards w/ a red reflector** (cuboid or cylindrical)",
+     "type": "utility",
+     "text": "**White concrete-block barriers** along roads",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "CXPS",
-     "img": "stonebollards.png",
-     "type": "bollards"
+     "anchor": "uInB",
+     "img": "stoneblocks.png"
     },
     {
      "cat": "country",
-     "text": "**Bus-stop signs** in a black/white/yellow scheme; taxis yellow w/ a blue stripe; yellow-&-black mountain guardrails",
+     "type": "general",
+     "text": "Bus-stop signs in a unique **black/white/yellow** scheme; taxis **yellow w/ blue side stripe**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "yIaR",
      "img": "busstops.png",
-     "type": "general"
+     "imgs": [
+      "taxis.png"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "'**Shitcam**' (official Ari): wide circular blur, gloomy tone, often an unblurred **white car back**; low cloud/fog + tunnels very common",
+     "type": "bollards",
+     "text": "Small unique **stone bollards w/ red reflector** — cuboidal or cylindrical",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "cars"
+     "anchor": "CXPS",
+     "img": "stonebollards.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "country",
+     "type": "utility",
+     "text": "Sometimes **yellow-and-black guardrails** on mountain roads; bridge railings often painted **dark green**; signposts often **striped** (also Azores)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "18cP",
+     "img": "guardrails.png",
+     "imgs": [
+      "greenrailing.png",
+      "signpost.png"
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "These highway **speed-limit signs are unique to Madeira**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "kfwz",
+     "img": "speedsign.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "country",
+     "type": "landscape",
+     "text": "**Low clouds/fog** typical; **tunnels** very common in the mountains",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "WqRe",
+     "img": "lowclouds.png",
+     "imgs": [
+      "cloudywet.png",
+      "tunnels.png"
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "general",
+     "text": "Free-roaming **cows on high roads** + cow warning signs — Madeira's are **brown w/ white spots**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "4VKJ",
+     "img": "cowwarning.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "azores",
+       "note": "Azorean cows are typically black and white.",
+       "diff": "Brown-white → Madeira; black-white → Azores."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "Weird low-quality **'shitcam'** coverage (official Ari): wide circular blur, gloomy image, often an **unblurred white car back** (good maps exclude it, but be aware)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "PUaV",
+     "img": "madeira_shitcam",
+     "uniq": "unique*",
+     "uniq_note": "This camera + white car back is a Madeira signature when it does appear."
     },
     {
      "cat": "region",
-     "text": "Banana plantations in the **south**; misty central-west **plateau** w/ wind turbines; **arid eastern tip** w/ little vegetation",
+     "type": "landscape",
+     "text": "**Banana plantations → south**; centre-west = elevated **plateau** (flat, misty, wind turbines); road east of the plateau = distinctive rocks + black-yellow guardrail; **eastern tip = arid**, nearly no vegetation",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "general"
+     "anchor": "nSn4",
+     "img": "bananaplantation.png",
+     "imgs": [
+      "plateau.png",
+      "streeteastplateau.png",
+      "eastdry.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Spotlights**:",
+     "bullets": [
+      "ER211: dark pavement + exposed brownish soil",
+      "Pico Areeiro: 2nd-highest peak (highest w/ coverage), island view + white radar station",
+      "Penha d'Águia: isolated elevated hill in the NE",
+      "Cristiano Ronaldo Airport (east): north end on numerous concrete pillars",
+      "Cascata dos Anjos (SW): 100-m waterfall cascading onto the road",
+      "Ribeira de Janela islets (NW): vertical jagged photographer spot",
+      "Porto Moniz (NW): dark sharp rock formations w/ an island behind"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "MaYa",
+     "img": "er211.png",
+     "imgs": [
+      "picoareeiro.png",
+      "faialrock.png",
+      "airport.png",
+      "cascatadosanjos.png",
+      "ribeiradejanela.png",
+      "portomonizrock.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },
