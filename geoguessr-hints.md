@@ -1868,25 +1868,22 @@ Study: [Plonk It](https://www.plonkit.net/denmark)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Long white plate + blue strip; commercial = **yellow**; **"Parrot" plates** (yellow section on the left) are unique to Denmark | [P](https://www.plonkit.net/denmark) |  |
-| Country | Generally **flat** with wide open fields; spacious suburbs, denser urban cores | [P](https://www.plonkit.net/denmark) |  |
-| Country | All-white lines, **double middle common**; **outer lines made of small white squares** — a great Denmark tell | [P](https://www.plonkit.net/denmark) |  |
-| Country | Very unique **direction signs**: low to the ground, **pipe-framed**, red/white or blue/white with the arrow in the background | [P](https://www.plonkit.net/denmark) |  |
-| Country | Street names end **-vej**; blue street sign, white text | [P](https://www.plonkit.net/denmark) |  |
-| Country | Unique **white bollard: yellow reflector + dark-orange stripe** (also a green variant); Belgium's lacks the orange stripe | [P](https://www.plonkit.net/denmark) |  |
-| Country | Danish letters **Æ Ø Å** (Norwegian same; Swedish uses Å Ä Ö instead) | [P](https://www.plonkit.net/denmark) |  |
-| Country | Architecture **red brick**, orange/brown/black tiled roofs; **thatched roofs** rural; timber-frame on historical buildings | [P](https://www.plonkit.net/denmark) |  |
-| Country | Signpost with the **pipe frame bent around the sign** = unique to Denmark | [P](https://www.plonkit.net/denmark) |  |
-| Country | **Square B-type guardrails, no reflectors** — only a few European countries use this | [P](https://www.plonkit.net/denmark) |  |
-| Country | Pedestrian sign **5 stripes**, first & fifth **touch the triangle edge** | [P](https://www.plonkit.net/denmark) |  |
-| Country | Red-and-white **chevrons**, often low to the ground; unique **town-entry sign** (red slash when leaving) | [P](https://www.plonkit.net/denmark) |  |
-| Country | Street-level poles **rare** → mostly big **overhead power lines** near highways; bicycle paths common | [P](https://www.plonkit.net/denmark) |  |
-| Country | **PostNord** postal boxes; gas brands Ingo / OK / Uno-X / YX (each shared with one neighbour) | [P](https://www.plonkit.net/denmark) |  |
-| Region | **6 regional bus companies**, each with its own colour scheme + bus-stop sign | [P](https://www.plonkit.net/denmark) |  |
-| State | Road numbering runs **east→west**; roads 2–5 grouped by region; **Bornholm only has 1-roads** | [P](https://www.plonkit.net/denmark) |  |
-| Special | **Bornholm**: green/red/white bus stops + green bicycle signs | [P](https://www.plonkit.net/denmark) |  |
-| Special | **Læsø** island: traditional **seaweed (eelgrass) roofs** | [P](https://www.plonkit.net/denmark) |  |
-| Special | **Anholt** island: only **Gen2**, gloomy overcast, sandy dirt on the roadside | [P](https://www.plonkit.net/denmark) |  |
+| Country | Plates long white + blue strip; commercial **yellow**; **'Parrot' plates** (yellow left section) unique to Denmark | [P](https://www.plonkit.net/denmark) |  |
+| Country | Generally **flat**, wide open fields; airy suburbs, dense urban cores | [P](https://www.plonkit.net/denmark) |  |
+| Country | All-white lines; **double middles** common; outer lines of **small white squares** — a great Denmark tell | [P](https://www.plonkit.net/denmark) |  |
+| Country | **Pipe-framed directional signs low to the ground** (red-white or blue-white, arrow in the background) + the pipe-frame signpost bent around signs — unique | [P](https://www.plonkit.net/denmark) |  |
+| Country | Street names end **-vej**; street signs blue w/ white text | [P](https://www.plonkit.net/denmark) |  |
+| Country | White bollard w/ **yellow reflector + dark-orange stripe** (green variant exists) | [P](https://www.plonkit.net/denmark) |  |
+| Country | **Danish: Æ Ø Å** (Norwegian identical; Faroese Æ+Ø; Icelandic Æ only; Swedish Å+ÄÖ) | [P](https://www.plonkit.net/denmark) |  |
+| Country | **Red brick** everywhere (orange/brown/black tile roofs); thatched roofs rural; grey corrugated (Baltic-like); timber framing on old buildings | [P](https://www.plonkit.net/denmark) |  |
+| Country | **B-type guardrails without reflectors** (rare in Europe); street-level poles rare — mostly big overhead power lines near highways | [P](https://www.plonkit.net/denmark) |  |
+| Country | Pedestrian sign **5 stripes — first & fifth touch the triangle edge** (unique detail); town-entry sign = white silhouette sign, exit = red slash; chevrons red-white, low to the ground | [P](https://www.plonkit.net/denmark) |  |
+| Country | Bus stops **black-yellow** w/ schedule below (older blue-white version exists) | [P](https://www.plonkit.net/denmark) |  |
+| Country | Bicycle paths (also NL/BE); **PostNord red postal boxes**; gas stations: Ingo (also SE), Ok (also NL), Uno-X/Yx (also NO); rare stone bollards w/ red tops near bike paths | [P](https://www.plonkit.net/denmark) |  |
+| Region | **Road numbers ordered east→west**; 2–5 grouped by region, 1x nationwide (2nd digit ≈ region; Bornholm only 1x); **ring roads O1–O4** around Copenhagen, Odense, Aarhus, Aalborg, Hillerød, Kolding, Vejle | [P](https://www.plonkit.net/denmark) |  |
+| Region | **Six regional bus companies** (brand on the front + colour scheme) + region-specific bus-stop signs | [P](https://www.plonkit.net/denmark) |  |
+| Region | **Greenland & Faroe Islands** belong to Denmark — separate pages here | [P](https://www.plonkit.net/denmark) |  |
+| Special | **Bornholm**: green-red-white bus stops + green bicycle signs; **Læsø**: traditional **seaweed (eelgrass) roofs**; **Anholt**: only gloomy overcast Gen2 + sandy roadsides | [P](https://www.plonkit.net/denmark) |  |
 
 ## Netherlands
 Study: [Plonk It](https://www.plonkit.net/netherlands) · [GeoGuessr map](https://www.geoguessr.com/maps/63feed5b6177da9add0b8191)

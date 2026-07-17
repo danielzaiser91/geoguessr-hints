@@ -4538,210 +4538,266 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Long white plate + blue strip; commercial = **yellow**; **\"Parrot\" plates** (yellow section on the left) are unique to Denmark",
+     "type": "plates",
+     "text": "Plates long white + blue strip; commercial **yellow**; **'Parrot' plates** (yellow left section) unique to Denmark",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "I8Xz",
-     "img": "Denmark_License_Plate.png"
+     "img": "Denmark_License_Plate.png",
+     "uniq": "unique*",
+     "uniq_note": "The half-yellow parrot plate exists nowhere else — plain yellow plates also in NL/LU/UK."
     },
     {
      "cat": "country",
-     "text": "Generally **flat** with wide open fields; spacious suburbs, denser urban cores",
+     "type": "landscape",
+     "text": "Generally **flat**, wide open fields; airy suburbs, dense urban cores",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "dC2V",
-     "img": "General_Landscape.png",
-     "type": "landscape"
+     "img": "General_Landscape.png"
     },
     {
      "cat": "country",
-     "text": "All-white lines, **double middle common**; **outer lines made of small white squares** — a great Denmark tell",
+     "type": "markings",
+     "text": "All-white lines; **double middles** common; outer lines of **small white squares** — a great Denmark tell",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "o1S7",
-     "img": "Blocky_Gapped_Outside_Road_Lines.png",
-     "type": "markings"
+     "anchor": "iepe",
+     "img": "Road_Lines.png",
+     "imgs": [
+      "Blocky_Gapped_Outside_Road_Lines.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "poland",
+       "note": "Double middles too.",
+       "diff": "Polish Ł/ż + holey poles → Poland."
+      },
+      {
+       "slug": "greece",
+       "note": "Double middles too.",
+       "diff": "Greek alphabet → Greece."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Very unique **direction signs**: low to the ground, **pipe-framed**, red/white or blue/white with the arrow in the background",
+     "type": "signs",
+     "text": "**Pipe-framed directional signs low to the ground** (red-white or blue-white, arrow in the background) + the pipe-frame signpost bent around signs — unique",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "SVbg",
      "img": "Directional_Signs.png",
-     "type": "signs"
+     "imgs": [
+      "Signpost.png"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Street names end **-vej**; blue street sign, white text",
+     "type": "naming",
+     "text": "Street names end **-vej**; street signs blue w/ white text",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "qCU5",
      "img": "Street_Vej.png",
-     "type": "naming"
+     "super": true
     },
     {
      "cat": "country",
-     "text": "Unique **white bollard: yellow reflector + dark-orange stripe** (also a green variant); Belgium's lacks the orange stripe",
+     "type": "bollards",
+     "text": "White bollard w/ **yellow reflector + dark-orange stripe** (green variant exists)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "6bR5",
      "img": "Bollard.png",
-     "type": "bollards"
+     "uniq": "unique*",
+     "uniq_note": "Unique to Denmark — Belgian lookalikes never have the orange stripe."
     },
     {
      "cat": "country",
-     "text": "Danish letters **Æ Ø Å** (Norwegian same; Swedish uses Å Ä Ö instead)",
+     "type": "language",
+     "text": "**Danish: Æ Ø Å** (Norwegian identical; Faroese Æ+Ø; Icelandic Æ only; Swedish Å+ÄÖ)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "mA1R",
-     "img": "dk_language.png"
+     "img": "dk_language.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "norway",
+       "note": "Same letters.",
+       "diff": "Mountains/fjords → Norway; flat + brick → Denmark."
+      },
+      {
+       "slug": "faroe-islands",
+       "note": "Æ Ø but no Å.",
+       "diff": "Treeless cliffs → Faroes."
+      },
+      {
+       "slug": "sweden",
+       "note": "Å only, plus Ä Ö.",
+       "diff": "Ä/Ö → Sweden."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Architecture **red brick**, orange/brown/black tiled roofs; **thatched roofs** rural; timber-frame on historical buildings",
+     "type": "arch",
+     "text": "**Red brick** everywhere (orange/brown/black tile roofs); thatched roofs rural; grey corrugated (Baltic-like); timber framing on old buildings",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "PUXX",
      "img": "Architecture.png",
-     "type": "arch"
-    },
-    {
-     "cat": "country",
-     "text": "Signpost with the **pipe frame bent around the sign** = unique to Denmark",
-     "src": [
-      "plonkit"
+     "imgs": [
+      "Roofs.png",
+      "Timber_frame_buildings.png"
      ],
-     "sv": null,
-     "anchor": "X28G",
-     "img": "Signpost.png",
-     "type": "signs"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "netherlands",
+       "note": "Similar brick.",
+       "diff": "ij/IJ + yellow plates → NL."
+      },
+      {
+       "slug": "belgium",
+       "note": "Similar brick.",
+       "diff": "French/Dutch + poles → Belgium."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Square B-type guardrails, no reflectors** — only a few European countries use this",
+     "type": "utility",
+     "text": "**B-type guardrails without reflectors** (rare in Europe); street-level poles rare — mostly big overhead power lines near highways",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Dfcn",
      "img": "Guardrail.png",
-     "type": "utility"
+     "imgs": [
+      "Large_Poles.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Pedestrian sign **5 stripes**, first & fifth **touch the triangle edge**",
+     "type": "signs",
+     "text": "Pedestrian sign **5 stripes — first & fifth touch the triangle edge** (unique detail); town-entry sign = white silhouette sign, exit = red slash; chevrons red-white, low to the ground",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "sRx7",
      "img": "Pedestrian_sign.png",
-     "type": "signs"
+     "imgs": [
+      "Town_entry_and_exit_sign.png",
+      "Chevron.png"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Red-and-white **chevrons**, often low to the ground; unique **town-entry sign** (red slash when leaving)",
+     "type": "signs",
+     "text": "Bus stops **black-yellow** w/ schedule below (older blue-white version exists)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "bHDl",
-     "img": "Chevron.png",
-     "type": "signs"
+     "anchor": "ulal",
+     "img": "Bus_stop_sign.png"
     },
     {
      "cat": "country",
-     "text": "Street-level poles **rare** → mostly big **overhead power lines** near highways; bicycle paths common",
+     "type": "general",
+     "text": "Bicycle paths (also NL/BE); **PostNord red postal boxes**; gas stations: Ingo (also SE), Ok (also NL), Uno-X/Yx (also NO); rare stone bollards w/ red tops near bike paths",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "5z6w",
-     "img": "Large_Poles.png",
-     "type": "utility"
+     "anchor": "TriN",
+     "img": "Bicycle_Paths.png",
+     "imgs": [
+      "PostNord_Postal_Box.png",
+      "Gas_Station_Brands.png",
+      "Bicycle_Paths_Bollard.png"
+     ]
     },
     {
-     "cat": "country",
-     "text": "**PostNord** postal boxes; gas brands Ingo / OK / Uno-X / YX (each shared with one neighbour)",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "Expm",
-     "img": "PostNord_Postal_Box.png",
-     "type": "general"
-    },
-    {
-     "cat": "state",
-     "text": "Road numbering runs **east→west**; roads 2–5 grouped by region; **Bornholm only has 1-roads**",
+     "cat": "region",
+     "type": "naming",
+     "text": "**Road numbers ordered east→west**; 2–5 grouped by region, 1x nationwide (2nd digit ≈ region; Bornholm only 1x); **ring roads O1–O4** around Copenhagen, Odense, Aarhus, Aalborg, Hillerød, Kolding, Vejle",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Hx8L",
      "img": "Denmark_Road_Numbers.png",
-     "type": "naming"
+     "imgs": [
+      "Ring_Roads.png"
+     ],
+     "super": true
     },
     {
      "cat": "region",
-     "text": "**6 regional bus companies**, each with its own colour scheme + bus-stop sign",
+     "type": "cars",
+     "text": "**Six regional bus companies** (brand on the front + colour scheme) + region-specific bus-stop signs",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Fhf5",
      "img": "Denmark_Bus_Companies.png",
-     "type": "general"
+     "imgs": [
+      "Denmark_Bus_Stop_Signs.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "general",
+     "text": "**Greenland & Faroe Islands** belong to Denmark — separate pages here",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "N0Lu",
+     "img": "Denmark_Greenland_General.png"
     },
     {
      "cat": "special",
-     "text": "**Bornholm**: green/red/white bus stops + green bicycle signs",
+     "type": "signs",
+     "text": "**Bornholm**: green-red-white bus stops + green bicycle signs; **Læsø**: traditional **seaweed (eelgrass) roofs**; **Anholt**: only gloomy overcast Gen2 + sandy roadsides",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "bVRk",
      "img": "Area_-_Bornholm_Bus_Stop.png",
-     "type": "general"
-    },
-    {
-     "cat": "special",
-     "text": "**Læsø** island: traditional **seaweed (eelgrass) roofs**",
-     "src": [
-      "plonkit"
+     "imgs": [
+      "Bornholm_bicycle_signs.png",
+      "L_C3_A6s_C3_B8_Roof.png",
+      "Anholt_Generation_2.png"
      ],
-     "sv": null,
-     "anchor": "95gK",
-     "img": "L_C3_A6s_C3_B8_Roof.png",
-     "type": "arch"
-    },
-    {
-     "cat": "special",
-     "text": "**Anholt** island: only **Gen2**, gloomy overcast, sandy dirt on the roadside",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "mbZq",
-     "img": "Anholt_Generation_2.png",
-     "type": "landscape"
+     "uniq": "unique"
     }
    ]
   },
