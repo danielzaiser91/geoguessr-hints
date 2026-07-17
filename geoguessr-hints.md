@@ -315,16 +315,18 @@ Study: [Plonk It](https://www.plonkit.net/eswatini)
 | Special | **Spotlights**: MR3 south of Ngomane = flat + long dry grass + dirt on the camera; MR3 Manzini→ZA border = the **only divided highway** (metal + stone guardrails); MR8 (SE, ZA border) = distinct ridge east; Mlawula Reserve = narrow dirt tracks + savanna; **Portuguese text → Lomahasha** (Mozambique border town) | [P](https://www.plonkit.net/eswatini) |  |
 
 ## Reunion
-Study: [Plonk It](https://www.plonkit.net/reunion)
+Study: [Plonk It](https://www.plonkit.net/reunion) · [GeoGuessr map](https://www.geoguessr.com/maps/69f032d04925891dad6caf8a)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Overseas **department of France** (counts as France), east of Madagascar → French signs, bollards & poles | [P](https://www.plonkit.net/reunion) |  |
-| Country | SV car has visible **side mirrors, a roof rack, and black tape on the end of the rear-RIGHT bar** (Ghana's car has tape on the front-right bar) | [P](https://www.plonkit.net/reunion) |  |
-| Country | Mountainous **volcanic** island; roads hug the coast w/ lush green mountains close by; palms, ferns, pines higher up | [P](https://www.plonkit.net/reunion) |  |
-| Region | **Six bus-stop designs** — yellow is most common (island-wide); pink/orange/green/red/L-shaped narrow the region (see Plonk It infographic) | [P](https://www.plonkit.net/reunion) |  |
-| Region | **Sugarcane** grows in the NE & SW; the SW is more built-up/populated | [P](https://www.plonkit.net/reunion) |  |
-| Region | **Cilaos** = town inside a caldera (ring of mountains, overcast); **Route du Volcan** = Martian brown-red soil + white roadside stones; Saint-Paul = black bollards, Saint-Denis (capital) = green bollards w/ white balls | [P](https://www.plonkit.net/reunion) |  |
+| Country | Overseas **department of France** east of Madagascar — **counts as France**; French infrastructure (signs, bollards, poles) | [P](https://www.plonkit.net/reunion) |  |
+| Country | Street View car w/ **visible side mirrors, roof rack + black tape on the end of the REAR-RIGHT bar** | [P](https://www.plonkit.net/reunion) |  |
+| Country | Mountainous **volcanic tropical island**: coastal roads w/ lush green mountains close by; palms & ferns, pines at elevation, flowering plants | [P](https://www.plonkit.net/reunion) |  |
+| Region | Only a handful of roads covered by car (map) — knowing the covered regions = free points | [P](https://www.plonkit.net/reunion) |  |
+| Region | **Six bus-stop designs = region meta**: yellow = island-wide (alone → region hint); L-shaped white/olive (almost never w/ yellow); pink (rarely w/ yellow); orange (almost always w/ yellow) — infographic | [P](https://www.plonkit.net/reunion) |  |
+| Region | **Sugarcane** in the NE + SW (SW = more built-up); **rectangular front-camera blur** on all coverage north of Saint-Louis | [P](https://www.plonkit.net/reunion) |  |
+| City | **Cilaos** = town inside a caldera: mountain wall all around + overcast; **Saint-Paul = black bollards / Saint-Denis (capital) = green bollards w/ white balls** at intersections | [P](https://www.plonkit.net/reunion) |  |
+| Special | **Spotlights**: NW N1 = divided, ridge SE + ocean NW (the bridge on the map does NOT exist in the coverage); **Route du Volcan** = Martian brown-red soil + scattered shrubs + white stones lining the road; Route Forestière 58 = dark winding dirt track w/ grass in the middle, pines + eucalyptus; eastern N2 = single carriageway, dense vegetation or empty treeless expanse (least populated region) | [P](https://www.plonkit.net/reunion) |  |
 
 ## São Tomé and Príncipe
 Study: [Plonk It](https://www.plonkit.net/sao-tome-and-principe)

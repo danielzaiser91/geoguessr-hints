@@ -27325,71 +27325,125 @@
    "area_km2": 2511,
    "links": {
     "plonkit": "https://www.plonkit.net/reunion",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/69f032d04925891dad6caf8a"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Overseas **department of France** (counts as France), east of Madagascar → French signs, bollards & poles",
+     "type": "general",
+     "text": "Overseas **department of France** east of Madagascar — **counts as France**; French infrastructure (signs, bollards, poles)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "gdWo",
+     "img": "D_C3_A9partement_974_in_France__28zoom_29.svg.png",
+     "imgs": [
+      "image.png"
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "Street View car w/ **visible side mirrors, roof rack + black tape on the end of the REAR-RIGHT bar**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "4ixl",
+     "img": "image__281_29.png",
+     "uniq": "unique*",
+     "uniq_note": "Ghana's car has the tape on the FRONT-right bar.",
+     "shared_with": [
+      {
+       "slug": "ghana",
+       "note": "Similar taped roof-rack car.",
+       "diff": "Rear-right tape → Réunion; front-right → Ghana."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "landscape",
+     "text": "Mountainous **volcanic tropical island**: coastal roads w/ lush green mountains close by; palms & ferns, pines at elevation, flowering plants",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Ccd5",
-     "img": "General_Landscape.png",
-     "type": "landscape"
-    },
-    {
-     "cat": "country",
-     "text": "SV car has visible **side mirrors, a roof rack, and black tape on the end of the rear-RIGHT bar** (Ghana's car has tape on the front-right bar)",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "type": "cars"
-    },
-    {
-     "cat": "country",
-     "text": "Mountainous **volcanic** island; roads hug the coast w/ lush green mountains close by; palms, ferns, pines higher up",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "img": "mafate-reunion-island-irt-frog-974-photographies.jpg",
-     "type": "landscape"
+     "img": "General_Landscape.png"
     },
     {
      "cat": "region",
-     "text": "**Six bus-stop designs** — yellow is most common (island-wide); pink/orange/green/red/L-shaped narrow the region (see Plonk It infographic)",
+     "type": "general",
+     "text": "Only a handful of roads covered by car (map) — knowing the covered regions = free points",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "HNMA",
+     "img": "Reunion_Car_Coverage_map.jpg",
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "general",
+     "text": "**Six bus-stop designs = region meta**: yellow = island-wide (alone → region hint); L-shaped white/olive (almost never w/ yellow); pink (rarely w/ yellow); orange (almost always w/ yellow) — infographic",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "oFny",
      "img": "Reunion_Bus_Stops.png",
-     "type": "general"
+     "super": true,
+     "uniq": "unique"
     },
     {
      "cat": "region",
-     "text": "**Sugarcane** grows in the NE & SW; the SW is more built-up/populated",
+     "type": "landscape",
+     "text": "**Sugarcane** in the NE + SW (SW = more built-up); **rectangular front-camera blur** on all coverage north of Saint-Louis",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "5wwx",
      "img": "Sugarcane.png",
-     "type": "landscape"
+     "imgs": [
+      "Reunion_Blur_Hint.png"
+     ],
+     "super": true
     },
     {
-     "cat": "region",
-     "text": "**Cilaos** = town inside a caldera (ring of mountains, overcast); **Route du Volcan** = Martian brown-red soil + white roadside stones; Saint-Paul = black bollards, Saint-Denis (capital) = green bollards w/ white balls",
+     "cat": "city",
+     "type": "landscape",
+     "text": "**Cilaos** = town inside a caldera: mountain wall all around + overcast; **Saint-Paul = black bollards / Saint-Denis (capital) = green bollards w/ white balls** at intersections",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "m512",
      "img": "Cilaos.png",
-     "type": "general"
+     "imgs": [
+      "City_Bollards.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "roads",
+     "text": "**Spotlights**: NW N1 = divided, ridge SE + ocean NW (the bridge on the map does NOT exist in the coverage); **Route du Volcan** = Martian brown-red soil + scattered shrubs + white stones lining the road; Route Forestière 58 = dark winding dirt track w/ grass in the middle, pines + eucalyptus; eastern N2 = single carriageway, dense vegetation or empty treeless expanse (least populated region)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "gOIT",
+     "img": "Coastal_N1.png",
+     "imgs": [
+      "Route_du_Volcan.png",
+      "Rural_Road.png",
+      "Eastern_N2.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },
