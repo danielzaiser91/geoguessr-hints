@@ -21443,247 +21443,585 @@
    "area_km2": 505992,
    "links": {
     "plonkit": "https://www.plonkit.net/spain",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/62f439cfe46df79befe5c5f8"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Plate: long white, single **blue strip left** (Portugal = yellow strip right; Italy = two blue strips)",
+     "type": "plates",
+     "text": "Plates long white, single **blue strip left**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "bPCs",
-     "img": "Spain_License_Plate.png"
+     "img": "Spain_License_Plate.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "portugal",
+       "note": "Portuguese plates usually have a **yellow strip right**.",
+       "diff": "Yellow right strip → Portugal."
+      },
+      {
+       "slug": "italy",
+       "note": "Italian plates have **two** blue strips.",
+       "diff": "Two strips + short front plate → Italy."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Bollard: yellow-orange front reflector + **two white dots on the back**, hollow",
+     "type": "bollards",
+     "text": "Standard bollard: **yellow-orange front reflector + two white dots on the back** (back can be blank), hollow",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "v8wo",
      "img": "Spain_bollards.png",
-     "type": "bollards"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "andorra",
+       "note": "Near Andorra a slightly different bollard appears — the Andorran one.",
+       "diff": "Catalan microstate in the Pyrenees → Andorra."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Hunting signs** (\"coto…caza\", black/white diagonal split) = Spain-unique; lots of high-voltage pylons",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "0bDx",
-     "img": "Caza.png",
-     "type": "signs"
-    },
-    {
-     "cat": "country",
-     "text": "Pedestrian crossing = **8 stripes** (most in Europe; else only Andorra)",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "JLZT",
-     "img": "2022-12-11_11.png",
-     "type": "signs"
-    },
-    {
-     "cat": "country",
-     "text": "Red sign borders run **to the edge** (France/Italy/Portugal keep a white edge); flat signposts",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "lZxf",
-     "img": "Red_border.png",
-     "type": "signs"
-    },
-    {
-     "cat": "country",
-     "text": "Ladder poles + French poletops; chevrons black/white or **blue/white** (blue = only Spain + France)",
+     "type": "utility",
+     "text": "**Ladder poles** + wooden poles in rural areas; 'French' poletops (upside-down triangle, curved top bar); **pylons far more common** than in other Mediterranean countries",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "qBpO",
      "img": "Ladder_and_wooden_poles.png",
-     "type": "utility"
+     "imgs": [
+      "Frenchpoletop_Spain.png",
+      "Pylons.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "france",
+       "note": "Ladder poles + French poletops shared.",
+       "diff": "Blue pole plates → France; Spanish → Spain.",
+       "img": "Ladder_poles.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Spanish: **Ñ** (vs Portuguese ç/lh/-ão); street = **calle**; garage no-parking = \"Vado permanente\"",
+     "type": "signs",
+     "text": "Road markers with **colourful borders** (code on top = road number, letters = region-specific!)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "oE35",
+     "img": "Spain_marker.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "andorra",
+       "note": "Similar markers.",
+       "diff": "CG/CS codes → Andorra."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Rural **hunting signs**: white 'coto … caza' or diagonal b&w — both unique to Spain (code readable = region, e.g. Ex = Extremadura)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "0bDx",
+     "img": "Caza.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "country",
+     "type": "utility",
+     "text": "A-type guardrails with **yellow reflectors**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "okgv",
+     "img": "2022-12-11_5.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "belgium",
+       "note": "Yellow reflectors too.",
+       "diff": "North-European look + Dutch/French → Belgium."
+      },
+      {
+       "slug": "andorra",
+       "note": "Yellow reflectors too.",
+       "diff": "Pyrenees microstate."
+      },
+      {
+       "slug": "gibraltar",
+       "note": "Yellow reflectors too.",
+       "diff": "UK infrastructure + the Rock → Gibraltar."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Pedestrian signs with **8 stripes** — Europe-max (only Andorra matches); stop signs with a distinctly **small font** (Portugal: large font)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "JLZT",
+     "img": "2022-12-11_11.png",
+     "imgs": [
+      "Spain_stop_sign.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "8-stripe crossings exist only in Spain and Andorra — everything else in Europe has fewer stripes."
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Red sign borders **reach the edge** (FR/IT/PT keep a thin white edge); nearly all signs on **flat posts** (Europe: only PT/FR/AD too)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "lZxf",
+     "img": "Red_border.png",
+     "imgs": [
+      "Flat_signpost.png"
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Chevrons: **black w/ white** AND **blue w/ white** (only 2 or 4 arrows; France has 1–5); direction signs white w/ **colourful road-number boxes**, highways blue",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "4Xxl",
+     "img": "Chevrons.png",
+     "imgs": [
+      "Spain_direction_signs.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "france",
+       "note": "Blue-white chevrons too.",
+       "diff": "1/3/5 arrows → France; 2/4 → Spain.",
+       "img": "Chevrons.png"
+      },
+      {
+       "slug": "portugal",
+       "note": "Portugal uses black w/ **yellow** arrows.",
+       "diff": "Yellow arrows → Portugal."
+      },
+      {
+       "slug": "italy",
+       "note": "Black-white chevrons too.",
+       "diff": "Italian language → Italy."
+      },
+      {
+       "slug": "greece",
+       "note": "Black-white chevrons too.",
+       "diff": "Greek alphabet → Greece."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "markings",
+     "text": "Rural roads sometimes have **dashed outer lines** (≈ nonexistent in PT/IT)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Pr6E",
+     "img": "Dashed_road_lines.png"
+    },
+    {
+     "cat": "country",
+     "type": "language",
+     "text": "**Spanish**: ñ unique; vs Portuguese: PT uses ç/lh/-ão/nh + da/do contractions; street = **calle**; garage signs '**Vado permanente**' (+municipality after 'Ayuntamiento de'; Italy: 'Passo carrabile')",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "15qx",
      "img": "es_language.png",
-     "type": "language"
+     "imgs": [
+      "es_calle.png",
+      "Vado_Pernamente.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "portugal",
+       "note": "Closely related languages.",
+       "diff": "ñ → Spanish; ç/lh/-ão → Portuguese.",
+       "img": "Rua.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Rural roads may have **dashed outer lines** (helps vs Portugal/Italy where they're absent)",
+     "type": "landscape",
+     "text": "Highly diverse: lush Atlantic north → bone-dry semideserts; plateaus, rolling hills, jagged ranges; default = dry Mediterranean",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "Pr6E",
-     "img": "Dashed_road_lines.png",
-     "type": "markings"
+     "anchor": "COji",
+     "img": "Spain_landscape_diversity.png"
     },
     {
-     "super": true,
-     "cat": "state",
-     "text": "**Regional road codes** on markers (SG = Segovia, etc.) → pinpoint province",
+     "cat": "country",
+     "type": "cars",
+     "text": "Gen3: long/short/no antenna (back black or white when visible); Gen4: **blue** or black car; smallcam; some old **shitcam** exists",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "wz9Z",
+     "img": "Gen_3_cars.png",
+     "imgs": [
+      "Gen_4_cars.png",
+      "europe_2Bsmallcam.png",
+      "Screenshot__28213_29.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "naming",
+     "text": "**Road-code map**: regional letter codes on markers (SG = Segovia …); national = E/AP/A/R/N (A also Andalusia/Aragón!); Asturias = many local codes; Melilla = ML; **area codes**: 2 digits after the 9 ≈ province",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "CAu9",
      "img": "Spain-road-codes-small-version-v2_darkmode.png",
-     "type": "naming"
-    },
-    {
-     "cat": "state",
-     "text": "Area codes: 2 digits → very accurate; all landlines start with **9**",
-     "src": [
-      "plonkit"
+     "imgs": [
+      "Spain-telephone-codes__281_29_darkmode.png"
      ],
-     "sv": null,
-     "anchor": "RiC9",
-     "img": "Spain-telephone-codes__281_29_darkmode.png",
-     "type": "naming"
-    },
-    {
-     "cat": "state",
-     "area": "Catalonia",
-     "text": "**Catalan** (à, ç, \"i\" for and, street = carrer, \"Gual permanent\") → Catalonia / Valencia / Balearics",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "Y8q6",
-     "img": "es_catalan_language.png",
-     "type": "language"
-    },
-    {
-     "cat": "state",
-     "area": "Catalonia",
-     "text": "Big **square chevrons** with a single arrow common in Catalonia",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "Pptg",
-     "img": "Catalan_chevron.png",
-     "type": "signs"
-    },
-    {
-     "cat": "state",
-     "area": "Basque Country",
-     "text": "**Basque** (x/k/tx heavy, non-Romance; street = kalea) → Basque Country & Navarre",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "yAfo",
-     "img": "es_basque_language.png",
-     "type": "language"
-    },
-    {
-     "cat": "state",
-     "area": "Galicia",
-     "text": "**Galician** (like Portuguese but uses ñ; street = **Rúa**, municipality = concello) → NW",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "4l5N",
-     "img": "es_galician_language.png",
-     "type": "language"
-    },
-    {
-     "cat": "state",
-     "area": "Galicia",
-     "text": "Unique granaries **\"hórreos\"** (raised stone/wood); plain concrete-block buildings",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "EV7o",
-     "img": "Gal_horreos.png",
-     "type": "arch"
-    },
-    {
-     "cat": "state",
-     "area": "Asturias",
-     "text": "**Yellow snow poles** with 1–2 reflectors are unique to Asturias",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "3rNS",
-     "img": "Asturias_snowpole_new.png",
-     "type": "bollards"
-    },
-    {
-     "cat": "state",
-     "area": "Aragón",
-     "text": "Strip of **semi-desert** cutting Navarra→Aragón (white rocky soil; red soil in Teruel)",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "TrLp",
-     "img": "Aragon_semidesert.png",
-     "type": "landscape"
-    },
-    {
-     "cat": "state",
-     "area": "Andalusia",
-     "text": "**White villages** on mountain faces; vast olive plantations; Sierra Nevada snow-capped Nov–May",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "2KLU",
-     "img": "Malaga_style_villages.png",
-     "type": "arch"
+     "super": true
     },
     {
      "cat": "region",
-     "text": "Diverse: dry Mediterranean plateaus & hills common; lush green Atlantic → far N (Galicia/Asturias)",
+     "type": "language",
+     "text": "**Catalan** (Catalonia/Valencia/Balearics — dominant in CAT+BAL): 'i' = and, grave accents à è ò, ç; street = **carrer**; 'Gual permanent'; **Basque** (K/Z, street = kalea/karrika, bilingual black-border sub-signs — Basque on top in Basque Country, Spanish on top in Navarre); **Galician** (≈Portuguese but with ñ, no ç; street = **Rúa**; towns starting A/O/As/Os = Galicia-unique)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "COji",
-     "img": "Spain_landscape_diversity.png",
-     "type": "landscape"
+     "anchor": "yq2C",
+     "img": "Spain_languages4.png",
+     "imgs": [
+      "es_catalan_language.png",
+      "es_catalan_carrer.png",
+      "Gual_permanent.png",
+      "es_basque_language.png",
+      "es_basque_kalea2.png",
+      "es_basque_signs.png",
+      "es_galician_language.png",
+      "Rua.png",
+      "es_galician_town_names.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "naming",
+     "text": "**Regional flags** of the autonomous communities appear often — learnable; Catalan-independence Senyera flags in Catalan areas",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "H1IB",
+     "img": "Regional-flags-of-Spain.png",
+     "imgs": [
+      "Spain_catalonian_independence_flag.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Topography**: Pyrenees NE + Baetic/Sierra Nevada SE highest; Meseta Central plateau ringed by Cantabrian/Iberian/Sierra Morena; north coast = green & lush (UK/Ireland-like); Pyrenees = light grey rock + pines + rock walls (like Andorra/French side; Llívia exclave!); Sierra Nevada = only southern range snowy most of the year",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Pgs1",
+     "img": "Spain_topo.png",
+     "imgs": [
+      "Spain-northern-coast.png",
+      "Spain-pyrenees.png",
+      "Pyrinees_pines.png",
+      "Sierra_nevada.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Region looks**: Castilla y León = flat cereal + sunflowers; La Rioja = vineyards between two ranges; Ebro strip (Navarra→Aragón) = semi-desert w/ sandy soil + shrubs; central/south Aragón = arid flats (white rocky north, red Teruel); Castilla-La Mancha = dead-flat + half of Spain's wine + olive rows (Ciudad Real/Toledo); Extremadura = **dehesa** (open oak fields — don't mistake for olives); Murcia/S-Alicante = arid, sandy, hazy rugged mountains; Málaga coast = white hillside villages",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "JhZA",
+     "img": "CyL_secarral.png",
+     "imgs": [
+      "La_Rioja.png",
+      "Aragon_semidesert.png",
+      "Aragon_dry.png",
+      "ClM.png",
+      "Ex_Dehesa.png",
+      "Murcia_and_near.png",
+      "Murcia_mountains.png",
+      "Malaga_style_villages.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Olives & oranges**: olives in half the country — Córdoba/Jaén = endless rolling-hill plantations (big ones Gen2 only); S of Madrid = small flat fields + red soil; east coast = fenced/rock-walled + mountains in view; oranges → east coast (small valleys) + Guadalquivir basin (open & flat)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "oi9R",
+     "img": "Olivares_gral.png",
+     "imgs": [
+      "Olivares_andalucia.png",
+      "Olivares_clm.png",
+      "Olivares_costa_este.png",
+      "Levante_naranjos.png",
+      "Naranjos_andaluces.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Trees**: eucalyptus → north coast (Galicia most; dry eucalyptus → Huelva); corn → river basins + north coast; stone pines → Valladolid/Huelva flats; Aleppo pines → east coast + Balearics; Baltic pines → Pyrenees/Guadarrama/Iberian System; maritime pines Atlantic vs Mediterranean variants (flat plantations N of Segovia)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "pPsk",
+     "img": "Eucaliptos_N.png",
+     "imgs": [
+      "Eucaliptos_S.png",
+      "Maiz.png",
+      "Stone_pine.png",
+      "Aleppo_pines.png",
+      "Pinus_Sylvestris.png",
+      "Pinus_Pinaster_Atlantic.png",
+      "Pinus_Pinaster_Mediterranean.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "markings",
+     "text": "**Roadline region map** (solid vs dashed outer on small roads); Araba = long-dash middles; Gipuzkoa = long outer dashes; Catalonia = atypical mixes",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "DSs8",
+     "img": "Roadlines_infographic.png",
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "signs",
+     "text": "**Km-marker metas**: rectangular vs square = half-country split; Andalusia = extra-tall w/ governing body; Madrid = square + regional flag; Biscay = big w/ semicircle top; national roads = red rectangle; border colours orange/green/yellow by road size (some regions unique)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "EYsT",
+     "img": "KM_Marker_Infographic.png",
+     "imgs": [
+      "Km_marker_border_colour_infographic.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "signs",
+     "text": "**Regional infra**: Galicia 'Concello' municipality strips (green/blue); Asturias = red CTA bus stops (Madrid's EMT similar), COGERSA bins, **yellow snow poles** (unique); Aragón = flat stick bollards; Catalonia = round corrugated posts (also Basque/Balearics; France-like), Catalan hunting signs, big square 1-arrow chevrons; Lleida/Tarragona = square-orange-reflector bollard (also E-Canaries); **Murcia = red-arrow square chevrons (exclusive)** + rectangular mesh poles; Madrid = round-top red bus stops + green buses; **Extremadura = green-top bollards (exclusive)**; Castilla-La Mancha = blue/white stone field markers; Andalusia = green-stripe Junta signs + **blue-yellow snow poles (unique)**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Sxg8",
+     "img": "Galicia_concello.png",
+     "imgs": [
+      "Asturias_bus_stop.png",
+      "Asturias_cogersa.png",
+      "Asturias_snowpole_new.png",
+      "Aragon_bollard.png",
+      "Round_singpost.png",
+      "Caca.png",
+      "Lleida_Tarragona_bollard.png",
+      "Catalan_chevron.png",
+      "Murcia_chevron.png",
+      "Buses_Madrid.png",
+      "extremadura_bollard.png",
+      "Castilla_la_Mancha_stone_marker.png",
+      "Murcia_Poles.png",
+      "Junta_de_Andaluc_C3_ADa_signs.png",
+      "Snowpole_Andalucia.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "arch",
+     "text": "**Architecture**: slate roofs → NW (ends abruptly east; also Pyrenees near Andorra + NE of Madrid); Galicia = concrete-block houses + **hórreos gallegos** granaries; Asturias = square hórreos on 4 pillars (slate roof → west Asturias); Basque/Cantabria = big white houses w/ wooden frames; Catalonia/E-Aragón = stone **masías**; Andalusia/Extremadura = all-white towns",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "MxpO",
+     "img": "Spa_NW_slate.png",
+     "imgs": [
+      "Galicia_concrete_block.png",
+      "Gal_horreos.png",
+      "Ast_horreos.png",
+      "Casa_vasca.png",
+      "Masia.png",
+      "White_houses_south.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "cars",
+     "text": "**Car metas**: Asturias = black car, no antenna, visible brake light (rare Galicia spill); Gen3 **white-top antenna** → E-Andalusia + Huesca/Lleida (like Gibraltar's)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "kZ8q",
+     "img": "Asturias_Black_Car_no_Antenna.png",
+     "imgs": [
+      "White_tip_antenna.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Balearics**: coastal Mediterranean, Aleppo-pine hills, fruit/olive patches, **low rock walls everywhere** (Bari/Italy similar); all-white houses w/ low-incline tiled roofs; grazing fields ≈ only Menorca; Formentera = low shrubs + Ibiza mountains visible; NW-Mallorca = the only big Balearic range",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "XXLv",
+     "img": "General_look_baleares.png",
+     "imgs": [
+      "Spain-balearic-rock-walls.png",
+      "Baleares_architecture.png",
+      "Menorca_Grazing_fields.png",
+      "Formentera.png",
+      "Mallorca_mountains.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Canary Islands**: extremely diverse (volcanic, arid, pine forests) — 'Spain but the vibe is off' → think Canaries; Lanzarote = moon-like dark volcanic soil + **semicircle rock vineyards**; Fuerteventura = arid + orange soil (archipelago-unique); Las Palmas province = square-orange-reflector bollards (Tenerife province: standard, highways only); **La Graciosa** = barren, overcast, white flat-roof towns",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Ozxq",
+     "img": "Canary-islands-locator-map.png",
+     "imgs": [
+      "Spain-Canary-Islands-landscape-diversity.png",
+      "Spain-Lanzarote-moon-landscape.png",
+      "Spain-Fuerteventura-landscape.png",
+      "GC_bollard.png",
+      "Lanzarote_vinedos.png",
+      "La_graciosa.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "arch",
+     "text": "**Ceuta & Melilla** (N-African enclaves): flat-roof warm-coloured houses; Ceuta = sunny saturated Gen4, eucalyptus+pine mountains, **b&w guardrails (Spain-unique)**; Melilla = hazy, cloudy, little rural coverage",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "k10w",
+     "img": "Ceuta-and-Melilla-location.png",
+     "imgs": [
+      "Ceuta_arq.png",
+      "Ceuta_landscape.png",
+      "Ceuta_guardrail.png",
+      "Melilla.png"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "special",
-     "text": "**Canary Islands**: arid/volcanic (Lanzarote moon-like black soil); own bollards",
+     "type": "signs",
+     "text": "**Camino de Santiago**: yellow scallop on blue on signs/waystones (all over Europe but denser near Santiago) + pilgrims in summer",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "Npdc",
-     "img": "Spain-Lanzarote-moon-landscape.png",
-     "type": "landscape"
+     "anchor": "RGJT",
+     "img": "Camino_de_Santiago.png"
     },
     {
      "cat": "special",
-     "text": "**Ceuta & Melilla** (enclaves in N. Africa): black-and-white guardrails are unique to Ceuta",
+     "type": "landscape",
+     "text": "**Spotlights**: N-Castilla-La-Mancha = early-spring dirt roads, green fields + leafless vineyards on red soil (Gen3; similar Gen4 further south); AP-15 (Navarra) = flat bollards w/ square red reflector + red guardrail reflectors; **Ebro delta** = dead-flat rice + canals, mountains S/W/N; El Ejido (Almería↔Motril) = white-roof greenhouse sea; Doñana NP = rare unique car",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "EW4H",
-     "img": "Ceuta_guardrail.png",
-     "type": "general"
+     "anchor": "yHR2",
+     "img": "Radial_towns_coverage.png",
+     "imgs": [
+      "AP-15_Bollard.png",
+      "Deltebre.png",
+      "el_ejido_greenhouses.png",
+      "Spain-Donona-NP-car.png"
+     ]
+    },
+    {
+     "cat": "city",
+     "type": "signs",
+     "text": "**Barcelona**: black taxis w/ yellow doors; **Bilbao**: uniquely ornate street-sign frames (nowhere else in Spain)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "NrMX",
+     "img": "Barcelona_taxis.png",
+     "imgs": [
+      "bilbao3.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },
@@ -24504,153 +24842,371 @@
    "area_km2": 242495,
    "links": {
     "plonkit": "https://www.plonkit.net/united-kingdom",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/5ba862d12c0173524cd9327a"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Plates: **white front, yellow back** (Ireland = white both + always a blue strip); drives **left**",
+     "type": "plates",
+     "text": "Plates **white front / yellow back**, usually WITHOUT blue strip (some have it; green strip = zero emissions)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "B2JD",
-     "img": "United_Kingdom_License_Plate.png"
+     "img": "United_Kingdom_License_Plate.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "ireland",
+       "note": "Irish plates are white front AND back, ALWAYS with a blue strip.",
+       "diff": "Yellow rear → UK; white rear + strip → Ireland."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Middle line = long dashes with **cat's-eye reflectors** in the gaps; double-yellow no-stopping lines at kerbs",
+     "type": "general",
+     "text": "Drives on the **left** (Europe: only UK, Ireland, Malta, Cyprus)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "REyn",
-     "img": "Cats_eyes_dashes2.png",
-     "type": "markings"
+     "anchor": "uMg6",
+     "img": "UntitledaaA.jpg"
     },
     {
      "cat": "country",
-     "text": "UK bollard: rounded, red-front/white-back reflector, black base & top w/ white stripe",
+     "type": "markings",
+     "text": "**Double yellow lines** at road sides (no stopping — also Ireland); middle dashes w/ **cat's eyes** reflectors in the gaps",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "0Ton",
+     "img": "Kopie_van_Magnifying_Effect_10.png",
+     "imgs": [
+      "Cats_eyes_dashes2.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "ireland",
+       "note": "Double yellows too.",
+       "diff": "Diamond warning signs + YIELD → Ireland."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "bollards",
+     "text": "Standard bollard: rounded, **red front / white back reflector**, black base+top w/ white middle stripe; **yellow traffic bollards** common",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "ecrT",
      "img": "Bollard.png",
-     "type": "bollards"
+     "imgs": [
+      "UK_bollard.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Chevrons **black w/ white arrows** (Ireland = yellow arrows); **triangular** red warning signs (Ireland = diamond yellow)",
+     "type": "utility",
+     "text": "Wooden poles w/ **metal pole steps** (thin horizontal rods); occasional crossbar w/ 2 diagonal supports (triangle)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "WwjT",
+     "img": "Pole_steps.png",
+     "imgs": [
+      "Screenshot (1128).png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "ireland",
+       "note": "Same pole steps.",
+       "diff": "Check the pole warning stickers: UK = man being zapped; Ireland = bolt only + extra outlined sticker."
+      },
+      {
+       "slug": "sweden",
+       "note": "Similar triangle crossbars.",
+       "diff": "Swedish language + right-hand traffic."
+      },
+      {
+       "slug": "finland",
+       "note": "Similar crossbars.",
+       "diff": "Finnish + right-hand traffic."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Chevrons **black w/ white arrows** (Ireland: yellow arrows; France: blue/white); triangular warning signs (Ireland = yellow diamonds!); yield = **GIVE WAY** (Ireland: YIELD)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "zRI4",
      "img": "Chevron.png",
-     "type": "signs"
+     "imgs": [
+      "Warning_sign_shape.png",
+      "Yield_signs2.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "ireland",
+       "note": "The complete separator kit.",
+       "diff": "Yellow chevron arrows, diamond warnings, YIELD, bilingual italic Irish signs → Ireland."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**\"GIVE WAY\"** yield (Ireland = \"YIELD\"); pole warning sticker shows a **man being zapped** (Ireland = no man)",
+     "type": "signs",
+     "text": "Direction signs blue/green/white w/ **A- and M-road numbers** (B = smaller); street signs white/black, **low to the ground on two posts**, suburban ones w/ cul-de-sac icons",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "Bhjy",
-     "img": "Yield_signs2.png",
-     "type": "signs"
+     "anchor": "Vq5E",
+     "img": "Ontwerp_zonder_titel_3.png",
+     "imgs": [
+      "Street_sign.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Roads: **A / M** = major, **B** = minor; terraced / semi-detached houses (61%); brick + chimney pots",
+     "type": "utility",
+     "text": "Pole warning stickers: **man getting zapped by lightning** (Ireland: bolt only + second outlined sticker)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "78cN",
-     "img": "Red_brick_architecture.png",
-     "type": "arch"
+     "anchor": "UeRJ",
+     "img": "Danger_of_death.jpg",
+     "super": true
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Pedestrian crossings: **B&W striped poles w/ yellow globe** (Belisha beacons) instead of signs (also Ireland)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "IJy2",
+     "img": "Pedestrian_signpost.png"
+    },
+    {
+     "cat": "country",
+     "type": "general",
+     "text": "Rural metal gates w/ **square corners** (Ireland + Northern Ireland: rounded!)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "QKVV",
+     "img": "uk_gate.png",
+     "super": true
+    },
+    {
+     "cat": "country",
+     "type": "landscape",
+     "text": "Countryside: very green, **hedgerows**, low rolling hills (Ireland looks the same — use other clues)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "vY5y",
+     "img": "Rural_landscape.png"
+    },
+    {
+     "cat": "country",
+     "type": "arch",
+     "text": "**Terraced & semi-detached houses** (61% of population — Europe-top w/ IE+NL); red brick; maze-like suburbs w/ cul-de-sacs + manicured lawns; chimneys w/ **multiple round pots**; B&W timber framing",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "aUlL",
+     "img": "round.png",
+     "imgs": [
+      "Red_brick_architecture.png",
+      "Suburbs.png",
+      "Chimneys.png",
+      "Timber_framing.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "ireland",
+       "note": "Terraced houses too.",
+       "diff": "Sign/plate kit decides."
+      },
+      {
+       "slug": "netherlands",
+       "note": "Terraced + red brick too.",
+       "diff": "Right-hand traffic + Dutch → Netherlands."
+      },
+      {
+       "slug": "belgium",
+       "note": "Red brick common.",
+       "diff": "Right-hand traffic → Belgium."
+      },
+      {
+       "slug": "denmark",
+       "note": "Red brick common.",
+       "diff": "Right-hand traffic + Danish → Denmark."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "Gen4 **smallcam** coverage (low mount, big blur)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "vT4m",
+     "img": "europe_smallcam.png"
     },
     {
      "cat": "region",
-     "text": "A/B-road **first digit = zone** (grouped, like a pie); NI phone = **028**, London = **020**",
+     "type": "naming",
+     "text": "**Country flags** (England/Scotland/Wales/NI) narrow the region; **A/B-road first digit = zone** (1–8 also in NI); area codes chaotic — remember city codes: London 020, all NI 028; urban **bins carry the city name**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "yII8",
-     "img": "gb_phone_numbers.webp",
-     "type": "naming"
+     "anchor": "RDtH",
+     "img": "England.png",
+     "imgs": [
+      "Untitled-1.png",
+      "gb_phone_numbers.webp",
+      "United_Kingdom_Bins.png"
+     ],
+     "super": true
     },
     {
-     "cat": "state",
-     "area": "Wales",
-     "text": "Bilingual English/Welsh signs; road marking **\"Araf\"** (= Slow) is Wales-only; Welsh uses LL, W, Y",
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Scottish Highlands**: semi-barren mountains (spring Gen4 = brown/yellow); mountainous Wales/N-England can look similar; **Lake District**: hilly + exposed rock + stone walls (rockier than Scotland)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "rm9B",
+     "img": "UK-Scottish-Highlands.png",
+     "imgs": [
+      "Untitled_design_4.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "bollards",
+     "text": "**Scotland**: bulky red-white bollards w/ wrap-around reflector (rare elsewhere; French lookalike is spiked, Scottish round on top); diamond **'Passing Place'** signs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "RtMf",
+     "img": "Indicator-template-UK1.png",
+     "imgs": [
+      "Indicator-template-UK-Scotland.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "language",
+     "text": "**Welsh** (bilingual signs, LL/D/W/Y; road marking **ARAF** = Wales-only); **Scottish Gaelic** (bh/dh/mh clusters, green/yellow sign text — Highlands, N of Glasgow)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "qc5P",
      "img": "Welsh.png",
-     "type": "language"
-    },
-    {
-     "cat": "state",
-     "area": "Scotland",
-     "text": "Scottish Gaelic (green/yellow text) north of Glasgow; barren mountainous **Highlands**; 'Passing Place' diamond signs; red+white round bollards",
-     "src": [
-      "plonkit"
+     "imgs": [
+      "Araf2.png",
+      "UK-Scottish-Gaelic.png"
      ],
-     "sv": null,
-     "anchor": "YFrb",
-     "img": "UK-Scottish-Gaelic.png",
-     "type": "language"
+     "super": true
     },
     {
-     "cat": "state",
-     "area": "Scotland",
-     "text": "Stone buildings: granite → Aberdeen, red sandstone → Glasgow/Dumfries, yellow sandstone → Edinburgh",
+     "cat": "region",
+     "type": "arch",
+     "text": "**Scotland stone**: granite → Aberdeen; red sandstone → Glasgow/Dumfries; yellow sandstone → Edinburgh; **Cornish palms** → far SW coast + Jersey",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "zdZe",
      "img": "Scottish_Buildings.png",
-     "type": "arch"
+     "imgs": [
+      "Palms-UK.png"
+     ]
     },
     {
      "cat": "region",
-     "text": "England countryside = green, hedgerows, low rolling hills (Ireland looks similar — check other clues)",
+     "type": "utility",
+     "text": "**Northern Ireland**: black lamppost stickers w/ yellow text; **wrap-around pole warning stickers** NI-specific; western NI street signs w/ green townland text (metal divider in the north)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "vY5y",
-     "img": "Rural_landscape.png",
-     "type": "landscape"
+     "anchor": "C4hI",
+     "img": "Northern_Ireland_sticker.png",
+     "imgs": [
+      "ni_wraparound_warning.png",
+      "green_bilingual_ulster.png"
+     ]
     },
     {
-     "cat": "special",
-     "text": "Warning stickers wrapped all the way around the pole → Northern Ireland; Cornish palms → far SW coast",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "lkL1",
-     "img": "ni_wraparound_warning.png",
-     "type": "general"
-    },
-    {
-     "cat": "special",
-     "text": "Isle of Man = **Gen2 only**, counts as UK for country streaks",
+     "cat": "region",
+     "type": "general",
+     "text": "**Territories** (count as UK, own pages here): Isle of Man & Jersey (Gen2 only), Gibraltar, Bermuda, Falklands, South Georgia, Pitcairn, BIOT",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "lJbW",
-     "img": "uk_isleofmanlocation.png",
-     "type": "general"
+     "img": "uk_isleofmanlocation.png"
+    },
+    {
+     "cat": "city",
+     "type": "signs",
+     "text": "**Street-sign city metas**: London = name black + **postcode & borough in red**; Aberdeen(shire) = blue w/ white letters (centre: black-yellow); Wakefield = black w/ white outline (Rockwell Nova font)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "iLwq",
+     "img": "LONDON.png",
+     "imgs": [
+      "aberdeenshire_blue_signs.png",
+      "Wakefield council black signs.png"
+     ]
+    },
+    {
+     "cat": "city",
+     "type": "cars",
+     "text": "**London**: some Gen4 by a white **EV** w/ distinct back (same car: Dublin, Germany); **Birmingham**: yellow tape/paint + yellow stickers on most poles & lampposts; **Glasgow**: green-bordered '**Twenty's Plenty**' speed signs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "1NDu",
+     "img": "e_car.png",
+     "imgs": [
+      "aa231.png",
+      "uk_twentysplenty.png"
+     ]
     }
    ]
   },

@@ -1335,31 +1335,41 @@ Study: [Plonk It](https://www.plonkit.net/france) · [GeoGuessr map](https://www
 | Special | **Riviera**: azure-blue painted signposts (Cagnes-sur-mer = powder blue); thin **B-type guardrails** on some northern highways (Le Mans/Tours/Paris/Reims/Metz axes); Gen3 **antenna flags** (colourful, France-unique) — distribution learnable | [P](https://www.plonkit.net/france) |  |
 
 ## Spain
-Study: [Plonk It](https://www.plonkit.net/spain)
+Study: [Plonk It](https://www.plonkit.net/spain) · [GeoGuessr map](https://www.geoguessr.com/maps/62f439cfe46df79befe5c5f8)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plate: long white, single **blue strip left** (Portugal = yellow strip right; Italy = two blue strips) | [P](https://www.plonkit.net/spain) |  |
-| Country | Bollard: yellow-orange front reflector + **two white dots on the back**, hollow | [P](https://www.plonkit.net/spain) |  |
-| Country | **Hunting signs** ("coto…caza", black/white diagonal split) = Spain-unique; lots of high-voltage pylons | [P](https://www.plonkit.net/spain) |  |
-| Country | Pedestrian crossing = **8 stripes** (most in Europe; else only Andorra) | [P](https://www.plonkit.net/spain) |  |
-| Country | Red sign borders run **to the edge** (France/Italy/Portugal keep a white edge); flat signposts | [P](https://www.plonkit.net/spain) |  |
-| Country | Ladder poles + French poletops; chevrons black/white or **blue/white** (blue = only Spain + France) | [P](https://www.plonkit.net/spain) |  |
-| Country | Spanish: **Ñ** (vs Portuguese ç/lh/-ão); street = **calle**; garage no-parking = "Vado permanente" | [P](https://www.plonkit.net/spain) |  |
-| Country | Rural roads may have **dashed outer lines** (helps vs Portugal/Italy where they're absent) | [P](https://www.plonkit.net/spain) |  |
-| Region | Diverse: dry Mediterranean plateaus & hills common; lush green Atlantic → far N (Galicia/Asturias) | [P](https://www.plonkit.net/spain) |  |
-| State | **Regional road codes** on markers (SG = Segovia, etc.) → pinpoint province | [P](https://www.plonkit.net/spain) |  |
-| State | Area codes: 2 digits → very accurate; all landlines start with **9** | [P](https://www.plonkit.net/spain) |  |
-| State | **Catalan** (à, ç, "i" for and, street = carrer, "Gual permanent") → Catalonia / Valencia / Balearics | [P](https://www.plonkit.net/spain) |  |
-| State | Big **square chevrons** with a single arrow common in Catalonia | [P](https://www.plonkit.net/spain) |  |
-| State | **Basque** (x/k/tx heavy, non-Romance; street = kalea) → Basque Country & Navarre | [P](https://www.plonkit.net/spain) |  |
-| State | **Galician** (like Portuguese but uses ñ; street = **Rúa**, municipality = concello) → NW | [P](https://www.plonkit.net/spain) |  |
-| State | Unique granaries **"hórreos"** (raised stone/wood); plain concrete-block buildings | [P](https://www.plonkit.net/spain) |  |
-| State | **Yellow snow poles** with 1–2 reflectors are unique to Asturias | [P](https://www.plonkit.net/spain) |  |
-| State | Strip of **semi-desert** cutting Navarra→Aragón (white rocky soil; red soil in Teruel) | [P](https://www.plonkit.net/spain) |  |
-| State | **White villages** on mountain faces; vast olive plantations; Sierra Nevada snow-capped Nov–May | [P](https://www.plonkit.net/spain) |  |
-| Special | **Canary Islands**: arid/volcanic (Lanzarote moon-like black soil); own bollards | [P](https://www.plonkit.net/spain) |  |
-| Special | **Ceuta & Melilla** (enclaves in N. Africa): black-and-white guardrails are unique to Ceuta | [P](https://www.plonkit.net/spain) |  |
+| Country | Plates long white, single **blue strip left** | [P](https://www.plonkit.net/spain) |  |
+| Country | Standard bollard: **yellow-orange front reflector + two white dots on the back** (back can be blank), hollow | [P](https://www.plonkit.net/spain) |  |
+| Country | **Ladder poles** + wooden poles in rural areas; 'French' poletops (upside-down triangle, curved top bar); **pylons far more common** than in other Mediterranean countries | [P](https://www.plonkit.net/spain) |  |
+| Country | Road markers with **colourful borders** (code on top = road number, letters = region-specific!) | [P](https://www.plonkit.net/spain) |  |
+| Country | Rural **hunting signs**: white 'coto … caza' or diagonal b&w — both unique to Spain (code readable = region, e.g. Ex = Extremadura) | [P](https://www.plonkit.net/spain) |  |
+| Country | A-type guardrails with **yellow reflectors** | [P](https://www.plonkit.net/spain) |  |
+| Country | Pedestrian signs with **8 stripes** — Europe-max (only Andorra matches); stop signs with a distinctly **small font** (Portugal: large font) | [P](https://www.plonkit.net/spain) |  |
+| Country | Red sign borders **reach the edge** (FR/IT/PT keep a thin white edge); nearly all signs on **flat posts** (Europe: only PT/FR/AD too) | [P](https://www.plonkit.net/spain) |  |
+| Country | Chevrons: **black w/ white** AND **blue w/ white** (only 2 or 4 arrows; France has 1–5); direction signs white w/ **colourful road-number boxes**, highways blue | [P](https://www.plonkit.net/spain) |  |
+| Country | Rural roads sometimes have **dashed outer lines** (≈ nonexistent in PT/IT) | [P](https://www.plonkit.net/spain) |  |
+| Country | **Spanish**: ñ unique; vs Portuguese: PT uses ç/lh/-ão/nh + da/do contractions; street = **calle**; garage signs '**Vado permanente**' (+municipality after 'Ayuntamiento de'; Italy: 'Passo carrabile') | [P](https://www.plonkit.net/spain) |  |
+| Country | Highly diverse: lush Atlantic north → bone-dry semideserts; plateaus, rolling hills, jagged ranges; default = dry Mediterranean | [P](https://www.plonkit.net/spain) |  |
+| Country | Gen3: long/short/no antenna (back black or white when visible); Gen4: **blue** or black car; smallcam; some old **shitcam** exists | [P](https://www.plonkit.net/spain) |  |
+| Region | **Road-code map**: regional letter codes on markers (SG = Segovia …); national = E/AP/A/R/N (A also Andalusia/Aragón!); Asturias = many local codes; Melilla = ML; **area codes**: 2 digits after the 9 ≈ province | [P](https://www.plonkit.net/spain) |  |
+| Region | **Catalan** (Catalonia/Valencia/Balearics — dominant in CAT+BAL): 'i' = and, grave accents à è ò, ç; street = **carrer**; 'Gual permanent'; **Basque** (K/Z, street = kalea/karrika, bilingual black-border sub-signs — Basque on top in Basque Country, Spanish on top in Navarre); **Galician** (≈Portuguese but with ñ, no ç; street = **Rúa**; towns starting A/O/As/Os = Galicia-unique) | [P](https://www.plonkit.net/spain) |  |
+| Region | **Regional flags** of the autonomous communities appear often — learnable; Catalan-independence Senyera flags in Catalan areas | [P](https://www.plonkit.net/spain) |  |
+| Region | **Topography**: Pyrenees NE + Baetic/Sierra Nevada SE highest; Meseta Central plateau ringed by Cantabrian/Iberian/Sierra Morena; north coast = green & lush (UK/Ireland-like); Pyrenees = light grey rock + pines + rock walls (like Andorra/French side; Llívia exclave!); Sierra Nevada = only southern range snowy most of the year | [P](https://www.plonkit.net/spain) |  |
+| Region | **Region looks**: Castilla y León = flat cereal + sunflowers; La Rioja = vineyards between two ranges; Ebro strip (Navarra→Aragón) = semi-desert w/ sandy soil + shrubs; central/south Aragón = arid flats (white rocky north, red Teruel); Castilla-La Mancha = dead-flat + half of Spain's wine + olive rows (Ciudad Real/Toledo); Extremadura = **dehesa** (open oak fields — don't mistake for olives); Murcia/S-Alicante = arid, sandy, hazy rugged mountains; Málaga coast = white hillside villages | [P](https://www.plonkit.net/spain) |  |
+| Region | **Olives & oranges**: olives in half the country — Córdoba/Jaén = endless rolling-hill plantations (big ones Gen2 only); S of Madrid = small flat fields + red soil; east coast = fenced/rock-walled + mountains in view; oranges → east coast (small valleys) + Guadalquivir basin (open & flat) | [P](https://www.plonkit.net/spain) |  |
+| Region | **Trees**: eucalyptus → north coast (Galicia most; dry eucalyptus → Huelva); corn → river basins + north coast; stone pines → Valladolid/Huelva flats; Aleppo pines → east coast + Balearics; Baltic pines → Pyrenees/Guadarrama/Iberian System; maritime pines Atlantic vs Mediterranean variants (flat plantations N of Segovia) | [P](https://www.plonkit.net/spain) |  |
+| Region | **Roadline region map** (solid vs dashed outer on small roads); Araba = long-dash middles; Gipuzkoa = long outer dashes; Catalonia = atypical mixes | [P](https://www.plonkit.net/spain) |  |
+| Region | **Km-marker metas**: rectangular vs square = half-country split; Andalusia = extra-tall w/ governing body; Madrid = square + regional flag; Biscay = big w/ semicircle top; national roads = red rectangle; border colours orange/green/yellow by road size (some regions unique) | [P](https://www.plonkit.net/spain) |  |
+| Region | **Regional infra**: Galicia 'Concello' municipality strips (green/blue); Asturias = red CTA bus stops (Madrid's EMT similar), COGERSA bins, **yellow snow poles** (unique); Aragón = flat stick bollards; Catalonia = round corrugated posts (also Basque/Balearics; France-like), Catalan hunting signs, big square 1-arrow chevrons; Lleida/Tarragona = square-orange-reflector bollard (also E-Canaries); **Murcia = red-arrow square chevrons (exclusive)** + rectangular mesh poles; Madrid = round-top red bus stops + green buses; **Extremadura = green-top bollards (exclusive)**; Castilla-La Mancha = blue/white stone field markers; Andalusia = green-stripe Junta signs + **blue-yellow snow poles (unique)** | [P](https://www.plonkit.net/spain) |  |
+| Region | **Architecture**: slate roofs → NW (ends abruptly east; also Pyrenees near Andorra + NE of Madrid); Galicia = concrete-block houses + **hórreos gallegos** granaries; Asturias = square hórreos on 4 pillars (slate roof → west Asturias); Basque/Cantabria = big white houses w/ wooden frames; Catalonia/E-Aragón = stone **masías**; Andalusia/Extremadura = all-white towns | [P](https://www.plonkit.net/spain) |  |
+| Region | **Car metas**: Asturias = black car, no antenna, visible brake light (rare Galicia spill); Gen3 **white-top antenna** → E-Andalusia + Huesca/Lleida (like Gibraltar's) | [P](https://www.plonkit.net/spain) |  |
+| Region | **Balearics**: coastal Mediterranean, Aleppo-pine hills, fruit/olive patches, **low rock walls everywhere** (Bari/Italy similar); all-white houses w/ low-incline tiled roofs; grazing fields ≈ only Menorca; Formentera = low shrubs + Ibiza mountains visible; NW-Mallorca = the only big Balearic range | [P](https://www.plonkit.net/spain) |  |
+| Region | **Canary Islands**: extremely diverse (volcanic, arid, pine forests) — 'Spain but the vibe is off' → think Canaries; Lanzarote = moon-like dark volcanic soil + **semicircle rock vineyards**; Fuerteventura = arid + orange soil (archipelago-unique); Las Palmas province = square-orange-reflector bollards (Tenerife province: standard, highways only); **La Graciosa** = barren, overcast, white flat-roof towns | [P](https://www.plonkit.net/spain) |  |
+| Region | **Ceuta & Melilla** (N-African enclaves): flat-roof warm-coloured houses; Ceuta = sunny saturated Gen4, eucalyptus+pine mountains, **b&w guardrails (Spain-unique)**; Melilla = hazy, cloudy, little rural coverage | [P](https://www.plonkit.net/spain) |  |
+| City | **Barcelona**: black taxis w/ yellow doors; **Bilbao**: uniquely ornate street-sign frames (nowhere else in Spain) | [P](https://www.plonkit.net/spain) |  |
+| Special | **Camino de Santiago**: yellow scallop on blue on signs/waystones (all over Europe but denser near Santiago) + pilgrims in summer | [P](https://www.plonkit.net/spain) |  |
+| Special | **Spotlights**: N-Castilla-La-Mancha = early-spring dirt roads, green fields + leafless vineyards on red soil (Gen3; similar Gen4 further south); AP-15 (Navarra) = flat bollards w/ square red reflector + red guardrail reflectors; **Ebro delta** = dead-flat rice + canals, mountains S/W/N; El Ejido (Almería↔Motril) = white-roof greenhouse sea; Doñana NP = rare unique car | [P](https://www.plonkit.net/spain) |  |
 
 ## Sweden
 Study: [Plonk It](https://www.plonkit.net/sweden)
@@ -1510,23 +1520,32 @@ Study: [Plonk It](https://www.plonkit.net/italy)
 | Special | **Slovene** bilingual signs near the Slovenian border (Friuli / Trieste) | [P](https://www.plonkit.net/italy) |  |
 
 ## United Kingdom
-Study: [Plonk It](https://www.plonkit.net/united-kingdom)
+Study: [Plonk It](https://www.plonkit.net/united-kingdom) · [GeoGuessr map](https://www.geoguessr.com/maps/5ba862d12c0173524cd9327a)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates: **white front, yellow back** (Ireland = white both + always a blue strip); drives **left** | [P](https://www.plonkit.net/united-kingdom) |  |
-| Country | Middle line = long dashes with **cat's-eye reflectors** in the gaps; double-yellow no-stopping lines at kerbs | [P](https://www.plonkit.net/united-kingdom) |  |
-| Country | UK bollard: rounded, red-front/white-back reflector, black base & top w/ white stripe | [P](https://www.plonkit.net/united-kingdom) |  |
-| Country | Chevrons **black w/ white arrows** (Ireland = yellow arrows); **triangular** red warning signs (Ireland = diamond yellow) | [P](https://www.plonkit.net/united-kingdom) |  |
-| Country | **"GIVE WAY"** yield (Ireland = "YIELD"); pole warning sticker shows a **man being zapped** (Ireland = no man) | [P](https://www.plonkit.net/united-kingdom) |  |
-| Country | Roads: **A / M** = major, **B** = minor; terraced / semi-detached houses (61%); brick + chimney pots | [P](https://www.plonkit.net/united-kingdom) |  |
-| Region | A/B-road **first digit = zone** (grouped, like a pie); NI phone = **028**, London = **020** | [P](https://www.plonkit.net/united-kingdom) |  |
-| Region | England countryside = green, hedgerows, low rolling hills (Ireland looks similar — check other clues) | [P](https://www.plonkit.net/united-kingdom) |  |
-| State | Bilingual English/Welsh signs; road marking **"Araf"** (= Slow) is Wales-only; Welsh uses LL, W, Y | [P](https://www.plonkit.net/united-kingdom) |  |
-| State | Scottish Gaelic (green/yellow text) north of Glasgow; barren mountainous **Highlands**; 'Passing Place' diamond signs; red+white round bollards | [P](https://www.plonkit.net/united-kingdom) |  |
-| State | Stone buildings: granite → Aberdeen, red sandstone → Glasgow/Dumfries, yellow sandstone → Edinburgh | [P](https://www.plonkit.net/united-kingdom) |  |
-| Special | Warning stickers wrapped all the way around the pole → Northern Ireland; Cornish palms → far SW coast | [P](https://www.plonkit.net/united-kingdom) |  |
-| Special | Isle of Man = **Gen2 only**, counts as UK for country streaks | [P](https://www.plonkit.net/united-kingdom) |  |
+| Country | Plates **white front / yellow back**, usually WITHOUT blue strip (some have it; green strip = zero emissions) | [P](https://www.plonkit.net/united-kingdom) |  |
+| Country | Drives on the **left** (Europe: only UK, Ireland, Malta, Cyprus) | [P](https://www.plonkit.net/united-kingdom) |  |
+| Country | **Double yellow lines** at road sides (no stopping — also Ireland); middle dashes w/ **cat's eyes** reflectors in the gaps | [P](https://www.plonkit.net/united-kingdom) |  |
+| Country | Standard bollard: rounded, **red front / white back reflector**, black base+top w/ white middle stripe; **yellow traffic bollards** common | [P](https://www.plonkit.net/united-kingdom) |  |
+| Country | Wooden poles w/ **metal pole steps** (thin horizontal rods); occasional crossbar w/ 2 diagonal supports (triangle) | [P](https://www.plonkit.net/united-kingdom) |  |
+| Country | Chevrons **black w/ white arrows** (Ireland: yellow arrows; France: blue/white); triangular warning signs (Ireland = yellow diamonds!); yield = **GIVE WAY** (Ireland: YIELD) | [P](https://www.plonkit.net/united-kingdom) |  |
+| Country | Direction signs blue/green/white w/ **A- and M-road numbers** (B = smaller); street signs white/black, **low to the ground on two posts**, suburban ones w/ cul-de-sac icons | [P](https://www.plonkit.net/united-kingdom) |  |
+| Country | Pole warning stickers: **man getting zapped by lightning** (Ireland: bolt only + second outlined sticker) | [P](https://www.plonkit.net/united-kingdom) |  |
+| Country | Pedestrian crossings: **B&W striped poles w/ yellow globe** (Belisha beacons) instead of signs (also Ireland) | [P](https://www.plonkit.net/united-kingdom) |  |
+| Country | Rural metal gates w/ **square corners** (Ireland + Northern Ireland: rounded!) | [P](https://www.plonkit.net/united-kingdom) |  |
+| Country | Countryside: very green, **hedgerows**, low rolling hills (Ireland looks the same — use other clues) | [P](https://www.plonkit.net/united-kingdom) |  |
+| Country | **Terraced & semi-detached houses** (61% of population — Europe-top w/ IE+NL); red brick; maze-like suburbs w/ cul-de-sacs + manicured lawns; chimneys w/ **multiple round pots**; B&W timber framing | [P](https://www.plonkit.net/united-kingdom) |  |
+| Country | Gen4 **smallcam** coverage (low mount, big blur) | [P](https://www.plonkit.net/united-kingdom) |  |
+| Region | **Country flags** (England/Scotland/Wales/NI) narrow the region; **A/B-road first digit = zone** (1–8 also in NI); area codes chaotic — remember city codes: London 020, all NI 028; urban **bins carry the city name** | [P](https://www.plonkit.net/united-kingdom) |  |
+| Region | **Scottish Highlands**: semi-barren mountains (spring Gen4 = brown/yellow); mountainous Wales/N-England can look similar; **Lake District**: hilly + exposed rock + stone walls (rockier than Scotland) | [P](https://www.plonkit.net/united-kingdom) |  |
+| Region | **Scotland**: bulky red-white bollards w/ wrap-around reflector (rare elsewhere; French lookalike is spiked, Scottish round on top); diamond **'Passing Place'** signs | [P](https://www.plonkit.net/united-kingdom) |  |
+| Region | **Welsh** (bilingual signs, LL/D/W/Y; road marking **ARAF** = Wales-only); **Scottish Gaelic** (bh/dh/mh clusters, green/yellow sign text — Highlands, N of Glasgow) | [P](https://www.plonkit.net/united-kingdom) |  |
+| Region | **Scotland stone**: granite → Aberdeen; red sandstone → Glasgow/Dumfries; yellow sandstone → Edinburgh; **Cornish palms** → far SW coast + Jersey | [P](https://www.plonkit.net/united-kingdom) |  |
+| Region | **Northern Ireland**: black lamppost stickers w/ yellow text; **wrap-around pole warning stickers** NI-specific; western NI street signs w/ green townland text (metal divider in the north) | [P](https://www.plonkit.net/united-kingdom) |  |
+| Region | **Territories** (count as UK, own pages here): Isle of Man & Jersey (Gen2 only), Gibraltar, Bermuda, Falklands, South Georgia, Pitcairn, BIOT | [P](https://www.plonkit.net/united-kingdom) |  |
+| City | **Street-sign city metas**: London = name black + **postcode & borough in red**; Aberdeen(shire) = blue w/ white letters (centre: black-yellow); Wakefield = black w/ white outline (Rockwell Nova font) | [P](https://www.plonkit.net/united-kingdom) |  |
+| City | **London**: some Gen4 by a white **EV** w/ distinct back (same car: Dublin, Germany); **Birmingham**: yellow tape/paint + yellow stickers on most poles & lampposts; **Glasgow**: green-bordered '**Twenty's Plenty**' speed signs | [P](https://www.plonkit.net/united-kingdom) |  |
 
 ## Romania
 Study: [Plonk It](https://www.plonkit.net/romania)
