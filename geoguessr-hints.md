@@ -333,12 +333,13 @@ Study: [Plonk It](https://www.plonkit.net/sao-tome-and-principe)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | All coverage is **'shitcam'** — a dimmer, hazier variant than India/Nigeria; car usually fully blurred (big back blur) w/ a slanted **antenna** poking from the side | [P](https://www.plonkit.net/sao-tome-and-principe) |  |
-| Country | **Portuguese** language; Portuguese-style ladder poles & pedestrian signs | [P](https://www.plonkit.net/sao-tome-and-principe) |  |
-| Country | Tropical islands **almost entirely rainforest**; banana plants everywhere | [P](https://www.plonkit.net/sao-tome-and-principe) |  |
+| Country | All coverage = **'shitcam'** (newer, dimmer & hazier variant than India/Nigeria); car often fully blurred — big back blur + smaller front blur; a **slanted side antenna** often visible | [P](https://www.plonkit.net/sao-tome-and-principe) |  |
+| Country | **Portuguese** is the main language; Portuguese-style infrastructure: **ladder poles** + Portugal-design pedestrian signs | [P](https://www.plonkit.net/sao-tome-and-principe) |  |
+| Country | Tropical islands **almost fully rainforest**; banana plants everywhere | [P](https://www.plonkit.net/sao-tome-and-principe) |  |
 | Country | Some wooden poles **painted blue at the bottom** w/ the letters **CST** | [P](https://www.plonkit.net/sao-tome-and-principe) |  |
-| Country | Taxis & minibuses are **bright yellow** | [P](https://www.plonkit.net/sao-tome-and-principe) |  |
-| Region | **Príncipe** car = blue roof + silver rails (dimmer shitcam); **São Tomé** car = black w/ black rails; oil-palm plantations in the south | [P](https://www.plonkit.net/sao-tome-and-principe) |  |
+| Country | Taxis & minibuses painted **bright yellow** | [P](https://www.plonkit.net/sao-tome-and-principe) |  |
+| Region | **Island meta**: Príncipe = even dimmer desaturated shitcam + car w/ **blue roof + silver rails**; São Tomé = **black car w/ black rails** (mostly blurred) | [P](https://www.plonkit.net/sao-tome-and-principe) |  |
+| Special | **Spotlights**: oil-palm plantations → southern São Tomé; **Trindade** = poles w/ red-white paint | [P](https://www.plonkit.net/sao-tome-and-principe) |  |
 
 # Asia
 

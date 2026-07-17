@@ -5,11 +5,17 @@
  "area_km2": 964,
  "links": { "plonkit": "https://www.plonkit.net/sao-tome-and-principe", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "All coverage is **'shitcam'** — a dimmer, hazier variant than India/Nigeria; car usually fully blurred (big back blur) w/ a slanted **antenna** poking from the side", "src": ["plonkit"], "sv": null, "anchor": "mteu", "img": "st_shit.png", "type": "cars" },
-  { "cat": "country", "text": "**Portuguese** language; Portuguese-style ladder poles & pedestrian signs", "src": ["plonkit"], "sv": null, "anchor": "EmV2", "img": "st_language.png", "type": "language" },
-  { "cat": "country", "text": "Tropical islands **almost entirely rainforest**; banana plants everywhere", "src": ["plonkit"], "sv": null, "anchor": "Iix7", "img": "st_tropical.png", "type": "landscape" },
-  { "cat": "country", "text": "Some wooden poles **painted blue at the bottom** w/ the letters **CST**", "src": ["plonkit"], "sv": null, "anchor": "0mhZ", "img": "st_bluepolepaint.png", "type": "utility" },
-  { "cat": "country", "text": "Taxis & minibuses are **bright yellow**", "src": ["plonkit"], "sv": null, "anchor": "1MAM", "img": "yellow_taxi_sao_tome.png", "type": "general" },
-  { "cat": "region", "text": "**Príncipe** car = blue roof + silver rails (dimmer shitcam); **São Tomé** car = black w/ black rails; oil-palm plantations in the south", "src": ["plonkit"], "sv": null, "anchor": "YviS", "img": "principe_car.png", "type": "general" }
+  { "cat": "country", "type": "cars", "text": "All coverage = **'shitcam'** (newer, dimmer & hazier variant than India/Nigeria); car often fully blurred — big back blur + smaller front blur; a **slanted side antenna** often visible", "src": ["plonkit"], "sv": null, "anchor": "mteu", "img": "st_shit.png", "imgs": ["antenna.png"], "uniq": "unique*", "uniq_note": "Dim hazy shitcam + Portuguese = São Tomé instantly.",
+    "shared_with": [
+      { "slug": "nigeria", "note": "Nigeria's shitcam is the brighter original.", "diff": "Portuguese → São Tomé; English → Nigeria." } ] },
+  { "cat": "country", "type": "language", "text": "**Portuguese** is the main language; Portuguese-style infrastructure: **ladder poles** + Portugal-design pedestrian signs", "src": ["plonkit"], "sv": null, "anchor": "EmV2", "img": "st_language.png", "imgs": ["st_polepedestriancrossing.png"],
+    "uniq": "shared", "shared_with": [
+      { "slug": "brazil", "note": "The other Portuguese SV countries look nothing alike.", "diff": "Tiny rainforest island + shitcam → São Tomé." },
+      { "slug": "portugal", "note": "Same sign/pole designs.", "diff": "Tropical rainforest → São Tomé." } ] },
+  { "cat": "country", "type": "landscape", "text": "Tropical islands **almost fully rainforest**; banana plants everywhere", "src": ["plonkit"], "sv": null, "anchor": "Iix7", "img": "st_tropical.png" },
+  { "cat": "country", "type": "utility", "text": "Some wooden poles **painted blue at the bottom** w/ the letters **CST**", "src": ["plonkit"], "sv": null, "anchor": "0mhZ", "img": "st_bluepolepaint.png", "uniq": "unique" },
+  { "cat": "country", "type": "general", "text": "Taxis & minibuses painted **bright yellow**", "src": ["plonkit"], "sv": null, "anchor": "1MAM", "img": "yellow_taxi_sao_tome.png" },
+  { "cat": "region", "type": "cars", "text": "**Island meta**: Príncipe = even dimmer desaturated shitcam + car w/ **blue roof + silver rails**; São Tomé = **black car w/ black rails** (mostly blurred)", "src": ["plonkit"], "sv": null, "anchor": "oaFS", "img": "st_principecam.png", "imgs": ["principe_car.png", "sao_tome_car.png"], "super": true, "uniq": "unique" },
+  { "cat": "special", "type": "landscape", "text": "**Spotlights**: oil-palm plantations → southern São Tomé; **Trindade** = poles w/ red-white paint", "src": ["plonkit"], "sv": null, "anchor": "1vUE", "img": "st_oilpalmplantation.png", "imgs": ["st_trinidadpolepaint.png"], "uniq": "unique" }
  ]
 }
