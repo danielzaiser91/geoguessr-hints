@@ -1857,21 +1857,23 @@ Study: [Plonk It](https://www.plonkit.net/svalbard)
 | Region | 3 towns: **Longyearbyen** = largest, boxy minimalist buildings; **Pyramiden** = abandoned Soviet blocks + pyramid-shaped mountains; **Barentsburg** = desolate, multi-coloured apartment blocks | [P](https://www.plonkit.net/svalbard) |  |
 
 ## Croatia
-Study: [Plonk It](https://www.plonkit.net/croatia)
+Study: [Plonk It](https://www.plonkit.net/croatia) · [GeoGuessr map](https://www.geoguessr.com/maps/6669b8a2f52cc856ea46ebf8)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plate white — some w/ blue strip left, many fully white (Gen3 mostly no strip); **HR** stickers (Hrvatska) on older cars | [P](https://www.plonkit.net/croatia) |  |
-| Country | Bollard white w/ black rectangle + red/white reflector, **sharp triangle from the top** (Hungary/Lithuania are rounder) | [P](https://www.plonkit.net/croatia) |  |
-| Country | **Croatian** (Slavic, Latin only): **IJE** common where Serbian uses just E | [P](https://www.plonkit.net/croatia) |  |
-| Country | Chevrons **red arrow on yellow or white**; **square B-type guardrails** (few European countries use them) | [P](https://www.plonkit.net/croatia) |  |
-| Country | Gen3 quirk: **side mirrors partially visible** + a small **yellow circular sticker on the mirror** (unique to Croatia); Gen3 mostly **autumn** | [P](https://www.plonkit.net/croatia) |  |
-| Country | Direction signs **yellow bg, black outline, pencil-shaped tip** (like other ex-Yugoslav countries) | [P](https://www.plonkit.net/croatia) |  |
-| Country | Poles cylindrical concrete/wood; wooden ones often have **alternating hooks** (like Latvia) | [P](https://www.plonkit.net/croatia) |  |
-| Country | Exposed **red brick** buildings (more inland); **blue fire hydrants** w/ two diagonal protrusions | [P](https://www.plonkit.net/croatia) |  |
-| Country | Pedestrian sign 5 stripes + belt (Slovenia = no belt); Karlovačko/Ožujsko beer, Konzum/Plodine shops; **no Gen2 car** (only trekker) | [P](https://www.plonkit.net/croatia) |  |
-| Region | NE = flat farmland (like Hungary); hilly N/W of Zagreb; **Adriatic coast** = rocky mountains + islands, beige brick w/ green shutters; **Istria** = red soil + Italian bilingual signs | [P](https://www.plonkit.net/croatia) |  |
-| Special | **Zagreb** big-city feel + blue trams; **Dubrovnik** medieval walls (far south); Rijeka blue overhead traffic-light poles; cypress trees near the southern tip | [P](https://www.plonkit.net/croatia) |  |
+| Country | Plates white — often **fully white in Gen3** (strip commoner on newer/coastal cars); **HR stickers** on older cars | [P](https://www.plonkit.net/croatia) |  |
+| Country | Bollards white w/ black rectangle + red/white reflector, **triangular from above (sharp edges)** | [P](https://www.plonkit.net/croatia) |  |
+| Country | **Croatian**: Latin-only Slavic; **'IJE'** where Serbian uses 'E'; Č Ć Đ Š Ž | [P](https://www.plonkit.net/croatia) |  |
+| Country | Chevrons **red arrow on yellow or white**; direction signs **yellow w/ black outline + pencil tip** (all ex-Yugoslav countries similar) | [P](https://www.plonkit.net/croatia) |  |
+| Country | **B-type guardrails** (rare in Europe) | [P](https://www.plonkit.net/croatia) |  |
+| Country | Gen3: **side mirrors partially visible** (commonest here) — sometimes a **yellow circular sticker on the mirror = Croatia-unique**; most Gen3 = **autumn colours** (not Gen4); Gen4 black or white car, never w/ antenna; Gen2 = only downtown **trekkers** (red cap sometimes visible) | [P](https://www.plonkit.net/croatia) |  |
+| Country | Cylindrical concrete/wooden poles, wooden often w/ **alternating hooks** (≈ Latvia); **blue fire hydrants** w/ two diagonal protrusions (similar in Hungary) | [P](https://www.plonkit.net/croatia) |  |
+| Country | Exposed **red-brick walls** inland (also SI/RS); pedestrian sign 5 stripes + belt (Slovenia's man: no belt) | [P](https://www.plonkit.net/croatia) |  |
+| Country | **Karlovačko & Ožujsko** beer ads; supermarkets Konzum (+Bosnia) & **Plodine (Croatia-only)** | [P](https://www.plonkit.net/croatia) |  |
+| Region | **Area codes**: 0 + code; town names ending **-ec** → northern central Croatia | [P](https://www.plonkit.net/croatia) |  |
+| Region | **NE (Slavonia)** = flat farmland (≈ Hungary/NW-Serbia); N+W of Zagreb = hilly agriculture; **Adriatic coast** = rocky mountains + shrubs + islands (≈ ME/AL); coast houses = beige brick + green shutters (Italy-like); **Istria** = red soil + Italian bilingual signs (west) | [P](https://www.plonkit.net/croatia) |  |
+| City | **Zagreb**: big-city feel, hilly north, **blue trams** + Gen2 sidewalk trekkers; trams only in Zagreb & Osijek; **Rijeka**: long blue traffic-light poles over the road (exclusive) | [P](https://www.plonkit.net/croatia) |  |
+| Special | **Spotlights**: NE of Zadar = flat + distant ridge north; **Ilok** = vineyard country near the Serbian border; **Petrinja** = earthquake ruins (2020); **Dubrovnik** = medieval city walls + tall cypresses near the southern tip | [P](https://www.plonkit.net/croatia) |  |
 
 ## Slovakia
 Study: [Plonk It](https://www.plonkit.net/slovakia)
