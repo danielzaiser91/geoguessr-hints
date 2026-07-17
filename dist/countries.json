@@ -16705,93 +16705,181 @@
    "area_km2": 385207,
    "links": {
     "plonkit": "https://www.plonkit.net/norway",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/6256b73b244c43c4448b6e45"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Very **mountainous, fjords** along most of the coast (Finland/Denmark flat; Sweden mixed)",
+     "type": "landscape",
+     "text": "Very **mountainous, fjords** along most of the coast",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "TPpp",
-     "img": "no_landscape.png"
+     "img": "no_landscape.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "sweden",
+       "note": "Sweden mixes flat/hilly/mountainous.",
+       "diff": "All-white lines + red-yellow infra → Sweden."
+      },
+      {
+       "slug": "finland",
+       "note": "Finland is mostly flat.",
+       "diff": "Flat + lakes → Finland."
+      },
+      {
+       "slug": "denmark",
+       "note": "Denmark is flat.",
+       "diff": "Flat + æøå + brick → Denmark."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Mostly **wooden houses**; many **red or black-painted**; Norway has more **white** houses & fewer brick than SE/FI",
+     "type": "arch",
+     "text": "Almost all houses **wooden**: red (like SE/FI), **black more common than elsewhere**, white frequent; wooden houses even in suburbs (SE/FI use more brick); traditional **grass roofs**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "OjhH",
-     "img": "no_architecture.png"
+     "img": "no_architecture.png",
+     "imgs": [
+      "no_grassroof.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Long white plate + EU strip; **green commercial plates** common on vans (green plates most-likely Norway in Europe)",
+     "type": "plates",
+     "text": "Plates long white + EU strip; **commercial plates green** (vans!) — most common in Europe here",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "A0UC",
-     "img": "no_licenceplate.png"
+     "img": "no_licenceplate.png",
+     "uniq": "unique*",
+     "uniq_note": "Green plates exist elsewhere only on EVs — frequent green VAN plates = Norway."
     },
     {
      "cat": "country",
-     "text": "Letters **Æ Ø Å** (Danish also; Swedish only Å); more E's than Swedish; Norwegian **kk** vs Swedish **ck**",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "u4g0",
-     "img": "no_language.png"
-    },
-    {
-     "cat": "country",
-     "text": "Small roads = **long dashed white outer lines**; big roads solid + **orange-tinged yellow** middle; lines often dotted",
+     "type": "markings",
+     "text": "Small roads: **long dashed white outer lines**; bigger roads: solid outer + **yellow middle w/ orange tinge**; lines often made of **paint dots**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "JxsR",
-     "img": "no_roadlines.png"
+     "img": "no_roadlines.png",
+     "imgs": [
+      "no_roadlinepattern.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "sweden",
+       "note": "Sweden = all-white lines, shorter dashes.",
+       "diff": "Yellow middle → Norway."
+      },
+      {
+       "slug": "finland",
+       "note": "Finnish outer lines always solid; middles yellow or white.",
+       "diff": "Dashed outers → Norway."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Bollard: thin curved rectangle, reflector inside a **black parallelogram**",
+     "type": "language",
+     "text": "**Norwegian: Æ Ø Å** (Danish identical letters!); vs Swedish: more E's, 'kk' instead of 'ck'",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "u4g0",
+     "img": "no_language.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "denmark",
+       "note": "Danish uses Æ Ø Å too — near-identical on signs.",
+       "diff": "Flat Denmark vs mountains; Danish infra (rectangular line sections)."
+      },
+      {
+       "slug": "sweden",
+       "note": "Swedish = Å Ä Ö.",
+       "diff": "Ä/Ö → Sweden; Æ/Ø → Norway."
+      },
+      {
+       "slug": "iceland",
+       "note": "Icelandic has Æ (no Ø/Å).",
+       "diff": "þ ð → Iceland."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "bollards",
+     "text": "Bollards: thin **curved rectangles, reflector inside a black parallelogram**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "0MXz",
-     "img": "no_bollard.png"
+     "img": "no_bollard.png",
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "**Snow poles orange**, thin white reflector **mid-pole** (Sweden wider/higher; Finland at very top); wooden ones w/ painted reflectors",
+     "type": "utility",
+     "text": "Snow poles orange w/ **thin reflector near the middle**; also thin **wooden snow poles with painted reflectors** (other Nordics: wooden ones lack reflectors)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Yvvo",
-     "img": "no_snowpole.png"
+     "img": "no_snowpole.png",
+     "imgs": [
+      "no_snowpolewood.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "sweden",
+       "note": "Swedish reflector wider + higher.",
+       "diff": "Wide high reflector → Sweden.",
+       "img": "snostolpe.png"
+      },
+      {
+       "slug": "finland",
+       "note": "Finnish reflector at the very top.",
+       "diff": "Top reflector → Finland."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Guardrails often on **wooden posts** (not common in SE/FI)",
+     "type": "utility",
+     "text": "**Guardrails often on wooden posts** (not SE/FI); rusty guardrails → coasts (esp. southern west coast)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "O5ze",
      "img": "no_woodenguardrailsupport.png",
-     "type": "utility"
+     "imgs": [
+      "no_rustyguardrail.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "Wooden guardrail posts are the quick Nordic separator — Sweden and Finland use steel."
     },
     {
      "cat": "country",
-     "text": "Pedestrian sign: **4 stripes**, simply-drawn person (Sweden detailed no hat; Finland 5 stripes)",
+     "type": "signs",
+     "text": "Pedestrian signs: 4 stripes + **very simply drawn person** (variants: 5 stripes, hatted person); SE = detailed person no hat, FI = 5 stripes",
      "src": [
       "plonkit"
      ],
@@ -16801,166 +16889,213 @@
     },
     {
      "cat": "country",
-     "text": "Road signs = **red outline + white background** (Sweden & Finland = yellow); chevrons yellow-on-black",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "oDKo",
-     "img": "no_roadsigns.png"
-    },
-    {
-     "cat": "country",
-     "text": "Directional signs **yellow + black border**; road # in green box (Euro/major) or white (minor); blue **M** signs on small roads",
+     "type": "signs",
+     "text": "Directional signs **yellow w/ black border** + road number in green (E/major) or white (small) box; traffic signs = **white background + red outline** (SE/FI: yellow!); bright-yellow construction signs; small signs attached w/ **4 bolts in a tall rectangle**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "MAXX",
-     "img": "no_directionalsigns.png"
+     "img": "no_directionalsigns.png",
+     "imgs": [
+      "no_roadsigns.png",
+      "no_constructionsign.png",
+      "no_signbolt.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Wooden poles w/ small **black metal cap**; lamp mounted w/ **single bolt** (Sweden/Finland double)",
+     "type": "signs",
+     "text": "Blue **M signs** (meeting place) — Swedish version's M font differs (middle point not to the bottom in NO); bus stops = small **blue sign w/ white bus**; 'Sone' speed-zone signs in cities",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "SSKX",
-     "img": "no_lamp.png",
-     "type": "utility"
+     "anchor": "HlLb",
+     "img": "no_msign.png",
+     "imgs": [
+      "no_busstop.png",
+      "no_sone.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Traditional houses often have **grass-covered roofs** (far rarer in SE/FI)",
+     "type": "signs",
+     "text": "Chevrons **yellow on black**; white square km markers: road number (R = findable on the map, Fv = hard) + distance to next town",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "jmxl",
-     "img": "no_grassroof.png",
-     "type": "arch"
+     "anchor": "Yy1U",
+     "img": "no_chevron.png",
+     "imgs": [
+      "no_kmmarker.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Street suffixes **-veien / -gata / -gate**; street signs **centred on top** of the post (Sweden = side/lamp)",
+     "type": "naming",
+     "text": "Street suffixes **-veien / -gata/-gate attached** (Sweden: väg/gata detached variants; Denmark: vej/gade); street signs **centred on top of posts** (Sweden: side-mounted)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "dZk6",
      "img": "no_streetnames.png",
-     "type": "naming"
+     "imgs": [
+      "no_streetsignattachment.png"
+     ],
+     "super": true
     },
     {
-     "super": true,
-     "cat": "state",
-     "text": "Road number **first digit = region**; small white signs show road # (prefix **R** = findable, **F**/Fv = hard) + distance",
+     "cat": "country",
+     "type": "utility",
+     "text": "Wooden poles w/ Nordic **black metal cap**; lamps mounted w/ **thick SINGLE bolting** (SE/FI: double)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "qjon",
+     "img": "no_poles.png",
+     "imgs": [
+      "no_lamp.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "Gen4 **smallcam** coverage",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "x2Iy",
+     "img": "europe_smallcam.png"
+    },
+    {
+     "cat": "region",
+     "type": "naming",
+     "text": "**Road-number first digit = region** (exceptions among 1–2-digit roads; 9 = road 9 N of Kristiansand + far north; Fv roads don't follow)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "HrQE",
      "img": "no_roadnumbers_darkmode.webp",
-     "type": "naming"
+     "super": true
     },
     {
      "cat": "region",
-     "text": "**Sámi bilingual signs** in the north — letters **Á Đ** and many vowels in a row",
+     "type": "language",
+     "text": "**Sámi bilingual signs** in the north: Á, Đ, several vowels in a row",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "4foM",
-     "img": "no_sami.png",
-     "type": "language"
+     "img": "no_sami.png"
     },
     {
      "cat": "region",
-     "text": "Deep **fjords + tall mountains** between Bergen–Trondheim; sharp rocky treeless peaks on **Lofoten**",
+     "type": "landscape",
+     "text": "**Vegetation**: bracken ferns → south; spruces → SE + Trondheim; pines → southern coasts + far inland; oaks → far south; maples → Oslo farmlands; bright moss → Lillehammer↔Oppdal",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "xAUQ",
-     "img": "no_fjordsregion.png"
+     "anchor": "HfAL",
+     "img": "no_ferns.png",
+     "imgs": [
+      "no_spruce.png",
+      "no_pine.png",
+      "no_oak.png",
+      "no_maple.png",
+      "no_moss.png"
+     ]
     },
     {
      "cat": "region",
-     "text": "Farmlands in 3 zones: **SE/Oslo** (flat, rolling forested hills), **Trondheim** (steep hilly), **Stavanger** (vast open, round rock walls, grass)",
+     "type": "landscape",
+     "text": "**Farmland triangle**: SE/Oslo = flattest, rolling w/ smooth forested hills; Trondheim = hilly & uneven; south of Stavanger (Jæren) = flat, vast open grass fields + **round-rock walls**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "x4nu",
      "img": "no_farmlands.png",
-     "type": "landscape"
+     "imgs": [
+      "no_farmlandsoslo.png",
+      "no_farmlandstrondheim.png",
+      "no_farmlandsjaeren.png"
+     ],
+     "super": true
     },
     {
      "cat": "region",
-     "text": "**Black snow poles** most common between Bergen and Trondheim",
+     "type": "landscape",
+     "text": "**Deep fjords + tall mountains** → Bergen↔Trondheim; **Lofoten** = sharp rocky low-tree mountains; NE = rolling, tiny birches + patchy grass; SW = barren treeless highlands; south coast = exposed rock w/ coastal pines; far-north coast = bare grasslands + low distant mountains; all-white villages → south coast",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "xAUQ",
+     "img": "no_fjordsregion.png",
+     "imgs": [
+      "no_lofoten.png",
+      "no_rthernvegetation.png",
+      "no_highlands.png",
+      "no_rockycoast.png",
+      "no_hammerfestlandscape.png",
+      "no_whitehouses.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "utility",
+     "text": "**Black snow poles** → Bergen↔Trondheim; small wide black pole plates → southeast; **Svalbard** = separate page here",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "VlO3",
      "img": "no_blacksnowpoles.png",
-     "type": "bollards"
+     "imgs": [
+      "no_osloblackplate.png"
+     ]
     },
     {
-     "cat": "special",
-     "text": "**Oslo**: fairly large black or red pole plates; SE Norway = small wide black plates",
+     "cat": "city",
+     "type": "utility",
+     "text": "**Oslo**: big black/red pole plates; **Stavanger**: two red stripes on lamp posts; **Bergen**: green fire hydrants",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "NRTp",
      "img": "no_osloblackredplate.png",
-     "type": "utility"
-    },
-    {
-     "cat": "special",
-     "text": "**Stavanger**: two **red stripes** around lamp posts",
-     "src": [
-      "plonkit"
+     "imgs": [
+      "no_stavangerredstripes.png",
+      "no_bergenfirehydrant.png"
      ],
-     "sv": null,
-     "anchor": "8i89",
-     "img": "no_stavangerredstripes.png",
-     "type": "utility"
+     "uniq": "unique"
     },
     {
      "cat": "special",
-     "text": "**Bergen**: distinctive green **fire hydrants**",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "p8gR",
-     "img": "no_bergenfirehydrant.png",
-     "type": "utility"
-    },
-    {
-     "cat": "special",
-     "text": "**Russian border** (Kirkenes, E6/E105): humid green foggy road, thin birches/pines; Russian text on signs",
+     "type": "landscape",
+     "text": "**Russian border**: humid green overcast/foggy road w/ low thin birches+pines; **Russian on signs** near Kirkenes (E6/E105); **Røros** = dense traditional wooden mining town",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "wQZ6",
      "img": "no_russianborder.png",
-     "type": "language"
-    },
-    {
-     "cat": "special",
-     "text": "**Røros**: densely-built traditional wooden mining town",
-     "src": [
-      "plonkit"
+     "imgs": [
+      "no_russian.png",
+      "no_roros.png"
      ],
-     "sv": null,
-     "anchor": "lXDj",
-     "img": "no_roros.png",
-     "type": "arch"
+     "uniq": "unique"
     }
    ]
   },

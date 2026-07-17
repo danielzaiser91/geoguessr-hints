@@ -1407,34 +1407,33 @@ Study: [Plonk It](https://www.plonkit.net/sweden) · [GeoGuessr map](https://www
 | Special | **Coverage metas**: road 95 W of Arjeplog = Gen4 thawing snow; Umeå = spring Gen4 w/ dirty snow piles (unique among cities); E45 Orsa→Älvros = wet brown-red pavement; Holmön = Gen3 white-antenna car w/ **visual glitch**; Foskrosvägen = red dirt + water smudges (find via 'Reindeer spot point') | [P](https://www.plonkit.net/sweden) |  |
 
 ## Norway
-Study: [Plonk It](https://www.plonkit.net/norway)
+Study: [Plonk It](https://www.plonkit.net/norway) · [GeoGuessr map](https://www.geoguessr.com/maps/6256b73b244c43c4448b6e45)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Very **mountainous, fjords** along most of the coast (Finland/Denmark flat; Sweden mixed) | [P](https://www.plonkit.net/norway) |  |
-| Country | Mostly **wooden houses**; many **red or black-painted**; Norway has more **white** houses & fewer brick than SE/FI | [P](https://www.plonkit.net/norway) |  |
-| Country | Long white plate + EU strip; **green commercial plates** common on vans (green plates most-likely Norway in Europe) | [P](https://www.plonkit.net/norway) |  |
-| Country | Letters **Æ Ø Å** (Danish also; Swedish only Å); more E's than Swedish; Norwegian **kk** vs Swedish **ck** | [P](https://www.plonkit.net/norway) |  |
-| Country | Small roads = **long dashed white outer lines**; big roads solid + **orange-tinged yellow** middle; lines often dotted | [P](https://www.plonkit.net/norway) |  |
-| Country | Bollard: thin curved rectangle, reflector inside a **black parallelogram** | [P](https://www.plonkit.net/norway) |  |
-| Country | **Snow poles orange**, thin white reflector **mid-pole** (Sweden wider/higher; Finland at very top); wooden ones w/ painted reflectors | [P](https://www.plonkit.net/norway) |  |
-| Country | Guardrails often on **wooden posts** (not common in SE/FI) | [P](https://www.plonkit.net/norway) |  |
-| Country | Pedestrian sign: **4 stripes**, simply-drawn person (Sweden detailed no hat; Finland 5 stripes) | [P](https://www.plonkit.net/norway) |  |
-| Country | Road signs = **red outline + white background** (Sweden & Finland = yellow); chevrons yellow-on-black | [P](https://www.plonkit.net/norway) |  |
-| Country | Directional signs **yellow + black border**; road # in green box (Euro/major) or white (minor); blue **M** signs on small roads | [P](https://www.plonkit.net/norway) |  |
-| Country | Wooden poles w/ small **black metal cap**; lamp mounted w/ **single bolt** (Sweden/Finland double) | [P](https://www.plonkit.net/norway) |  |
-| Country | Traditional houses often have **grass-covered roofs** (far rarer in SE/FI) | [P](https://www.plonkit.net/norway) |  |
-| Country | Street suffixes **-veien / -gata / -gate**; street signs **centred on top** of the post (Sweden = side/lamp) | [P](https://www.plonkit.net/norway) |  |
-| Region | **Sámi bilingual signs** in the north — letters **Á Đ** and many vowels in a row | [P](https://www.plonkit.net/norway) |  |
-| Region | Deep **fjords + tall mountains** between Bergen–Trondheim; sharp rocky treeless peaks on **Lofoten** | [P](https://www.plonkit.net/norway) |  |
-| Region | Farmlands in 3 zones: **SE/Oslo** (flat, rolling forested hills), **Trondheim** (steep hilly), **Stavanger** (vast open, round rock walls, grass) | [P](https://www.plonkit.net/norway) |  |
-| Region | **Black snow poles** most common between Bergen and Trondheim | [P](https://www.plonkit.net/norway) |  |
-| State | Road number **first digit = region**; small white signs show road # (prefix **R** = findable, **F**/Fv = hard) + distance | [P](https://www.plonkit.net/norway) |  |
-| Special | **Oslo**: fairly large black or red pole plates; SE Norway = small wide black plates | [P](https://www.plonkit.net/norway) |  |
-| Special | **Stavanger**: two **red stripes** around lamp posts | [P](https://www.plonkit.net/norway) |  |
-| Special | **Bergen**: distinctive green **fire hydrants** | [P](https://www.plonkit.net/norway) |  |
-| Special | **Russian border** (Kirkenes, E6/E105): humid green foggy road, thin birches/pines; Russian text on signs | [P](https://www.plonkit.net/norway) |  |
-| Special | **Røros**: densely-built traditional wooden mining town | [P](https://www.plonkit.net/norway) |  |
+| Country | Very **mountainous, fjords** along most of the coast | [P](https://www.plonkit.net/norway) |  |
+| Country | Almost all houses **wooden**: red (like SE/FI), **black more common than elsewhere**, white frequent; wooden houses even in suburbs (SE/FI use more brick); traditional **grass roofs** | [P](https://www.plonkit.net/norway) |  |
+| Country | Plates long white + EU strip; **commercial plates green** (vans!) — most common in Europe here | [P](https://www.plonkit.net/norway) |  |
+| Country | Small roads: **long dashed white outer lines**; bigger roads: solid outer + **yellow middle w/ orange tinge**; lines often made of **paint dots** | [P](https://www.plonkit.net/norway) |  |
+| Country | **Norwegian: Æ Ø Å** (Danish identical letters!); vs Swedish: more E's, 'kk' instead of 'ck' | [P](https://www.plonkit.net/norway) |  |
+| Country | Bollards: thin **curved rectangles, reflector inside a black parallelogram** | [P](https://www.plonkit.net/norway) |  |
+| Country | Snow poles orange w/ **thin reflector near the middle**; also thin **wooden snow poles with painted reflectors** (other Nordics: wooden ones lack reflectors) | [P](https://www.plonkit.net/norway) |  |
+| Country | **Guardrails often on wooden posts** (not SE/FI); rusty guardrails → coasts (esp. southern west coast) | [P](https://www.plonkit.net/norway) |  |
+| Country | Pedestrian signs: 4 stripes + **very simply drawn person** (variants: 5 stripes, hatted person); SE = detailed person no hat, FI = 5 stripes | [P](https://www.plonkit.net/norway) |  |
+| Country | Directional signs **yellow w/ black border** + road number in green (E/major) or white (small) box; traffic signs = **white background + red outline** (SE/FI: yellow!); bright-yellow construction signs; small signs attached w/ **4 bolts in a tall rectangle** | [P](https://www.plonkit.net/norway) |  |
+| Country | Blue **M signs** (meeting place) — Swedish version's M font differs (middle point not to the bottom in NO); bus stops = small **blue sign w/ white bus**; 'Sone' speed-zone signs in cities | [P](https://www.plonkit.net/norway) |  |
+| Country | Chevrons **yellow on black**; white square km markers: road number (R = findable on the map, Fv = hard) + distance to next town | [P](https://www.plonkit.net/norway) |  |
+| Country | Street suffixes **-veien / -gata/-gate attached** (Sweden: väg/gata detached variants; Denmark: vej/gade); street signs **centred on top of posts** (Sweden: side-mounted) | [P](https://www.plonkit.net/norway) |  |
+| Country | Wooden poles w/ Nordic **black metal cap**; lamps mounted w/ **thick SINGLE bolting** (SE/FI: double) | [P](https://www.plonkit.net/norway) |  |
+| Country | Gen4 **smallcam** coverage | [P](https://www.plonkit.net/norway) |  |
+| Region | **Road-number first digit = region** (exceptions among 1–2-digit roads; 9 = road 9 N of Kristiansand + far north; Fv roads don't follow) | [P](https://www.plonkit.net/norway) |  |
+| Region | **Sámi bilingual signs** in the north: Á, Đ, several vowels in a row | [P](https://www.plonkit.net/norway) |  |
+| Region | **Vegetation**: bracken ferns → south; spruces → SE + Trondheim; pines → southern coasts + far inland; oaks → far south; maples → Oslo farmlands; bright moss → Lillehammer↔Oppdal | [P](https://www.plonkit.net/norway) |  |
+| Region | **Farmland triangle**: SE/Oslo = flattest, rolling w/ smooth forested hills; Trondheim = hilly & uneven; south of Stavanger (Jæren) = flat, vast open grass fields + **round-rock walls** | [P](https://www.plonkit.net/norway) |  |
+| Region | **Deep fjords + tall mountains** → Bergen↔Trondheim; **Lofoten** = sharp rocky low-tree mountains; NE = rolling, tiny birches + patchy grass; SW = barren treeless highlands; south coast = exposed rock w/ coastal pines; far-north coast = bare grasslands + low distant mountains; all-white villages → south coast | [P](https://www.plonkit.net/norway) |  |
+| Region | **Black snow poles** → Bergen↔Trondheim; small wide black pole plates → southeast; **Svalbard** = separate page here | [P](https://www.plonkit.net/norway) |  |
+| City | **Oslo**: big black/red pole plates; **Stavanger**: two red stripes on lamp posts; **Bergen**: green fire hydrants | [P](https://www.plonkit.net/norway) |  |
+| Special | **Russian border**: humid green overcast/foggy road w/ low thin birches+pines; **Russian on signs** near Kirkenes (E6/E105); **Røros** = dense traditional wooden mining town | [P](https://www.plonkit.net/norway) |  |
 
 ## Germany
 Study: [Plonk It](https://www.plonkit.net/germany) · [GeoGuessr map](https://www.geoguessr.com/maps/64c1ac0288458417f7393668)
