@@ -2182,14 +2182,19 @@ Study: [Plonk It](https://www.plonkit.net/andorra)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plate has an **orange dot on the left** — unique in Europe to Andorra | [P](https://www.plonkit.net/andorra) |  |
-| Country | Only **Gen2 + Gen3**; Gen3 car has a medium-short antenna & was all shot in **October → autumn colours** | [P](https://www.plonkit.net/andorra) |  |
-| Country | Lots of **stone buildings** everywhere (also just over the border in the French/Spanish Pyrenees) | [P](https://www.plonkit.net/andorra) |  |
-| Country | **Catalan** (street = **carrer**; uses *i* not *y* for 'and'); wooden snow poles | [P](https://www.plonkit.net/andorra) |  |
-| Country | km markers use **CG / CS** road numbers | [P](https://www.plonkit.net/andorra) |  |
-| Country | Guardrails w/ **yellow reflectors** (in Europe only AD/ES/BE); bollard w/ an orange reflector (also Spain) | [P](https://www.plonkit.net/andorra) |  |
-| Country | Pedestrian sign **8 stripes** (only Spain also has 8); yellow & turquoise-green traffic cones countrywide | [P](https://www.plonkit.net/andorra) |  |
-| Region | Mountainous; **Andorra la Vella** = highest European capital (Caldea tower + sky wheel); **Pas de la Casa** = treeless high ski town | [P](https://www.plonkit.net/andorra) |  |
+| Country | Plates w/ an **orange dot on the left** — within Europe unique to Andorra | [P](https://www.plonkit.net/andorra) |  |
+| Country | Only **Gen2 + Gen3** coverage; all Gen3 = medium-short antenna, shot in **October → autumn colours** everywhere; Gen2 mostly overwritten (few small off-roads) | [P](https://www.plonkit.net/andorra) |  |
+| Country | Lots of **stone buildings** — almost everywhere in the country | [P](https://www.plonkit.net/andorra) |  |
+| Country | **Wooden snow poles** in a variety of colours | [P](https://www.plonkit.net/andorra) |  |
+| Country | **Catalan** is the main language: Romance, close to Spanish/French — **'i' instead of 'y' for 'and'**, more words ending in consonants; street = **carrer** | [P](https://www.plonkit.net/andorra) |  |
+| Country | km markers w/ **CG / CS road numbers** | [P](https://www.plonkit.net/andorra) |  |
+| Country | Guardrails w/ **yellow reflectors** | [P](https://www.plonkit.net/andorra) |  |
+| Country | Bollards w/ an **orange reflector** (occasionally on main highways) | [P](https://www.plonkit.net/andorra) |  |
+| Country | **Yellow & turquoise-green traffic cones** used country-wide | [P](https://www.plonkit.net/andorra) |  |
+| Country | Pedestrian signs have **8 stripes** | [P](https://www.plonkit.net/andorra) |  |
+| Country | Lots of **Gen2 snow trekkers**, especially on ski resorts — the most in Europe for its size | [P](https://www.plonkit.net/andorra) |  |
+| City | **Andorra la Vella**: capital surrounded by high mountains — highest European capital (1023 m); look for the **Caldea tower + sky wheel** | [P](https://www.plonkit.net/andorra) |  |
+| City | **Pas de la Casa** (east, 2080 m): touristy shop/hotel town w/ **treeless mountains** all around | [P](https://www.plonkit.net/andorra) |  |
 
 ## Malta
 Study: [Plonk It](https://www.plonkit.net/malta)

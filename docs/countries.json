@@ -573,89 +573,215 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Plate has an **orange dot on the left** — unique in Europe to Andorra",
+     "type": "plates",
+     "text": "Plates w/ an **orange dot on the left** — within Europe unique to Andorra",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "zsXQ",
      "img": "Andorra_License_Plate.png",
-     "type": "plates"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Only **Gen2 + Gen3**; Gen3 car has a medium-short antenna & was all shot in **October → autumn colours**",
+     "type": "cars",
+     "text": "Only **Gen2 + Gen3** coverage; all Gen3 = medium-short antenna, shot in **October → autumn colours** everywhere; Gen2 mostly overwritten (few small off-roads)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "1Qw8",
      "img": "Camera_gens.png",
-     "type": "cars"
+     "imgs": [
+      "Fall_colours_2.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "No Gen4 at all + country-wide autumn = a strong Andorra combo in a Pyrenees-looking round."
     },
     {
      "cat": "country",
-     "text": "Lots of **stone buildings** everywhere (also just over the border in the French/Spanish Pyrenees)",
+     "type": "arch",
+     "text": "Lots of **stone buildings** — almost everywhere in the country",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "oy4W",
      "img": "architecture.png",
-     "type": "arch"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "france",
+       "note": "Same style just across the border in the French Pyrenees.",
+       "diff": "Orange-dot plates + Catalan → Andorra."
+      },
+      {
+       "slug": "spain",
+       "note": "Same style in the Spanish Pyrenees.",
+       "diff": "Orange-dot plates + Catalan-only signs → Andorra."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Catalan** (street = **carrer**; uses *i* not *y* for 'and'); wooden snow poles",
+     "type": "utility",
+     "text": "**Wooden snow poles** in a variety of colours",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "NHCC",
+     "img": "Untitled_design_2855_29.png"
+    },
+    {
+     "cat": "country",
+     "type": "language",
+     "text": "**Catalan** is the main language: Romance, close to Spanish/French — **'i' instead of 'y' for 'and'**, more words ending in consonants; street = **carrer**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "ZYyW",
      "img": "Andorra_Catalan.png",
-     "type": "language"
+     "imgs": [
+      "Screenshot_2022-06-29_203415.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "spain",
+       "note": "Catalan is also used in Catalonia, Valencia and the Balearics.",
+       "diff": "Catalan + orange-dot plates + mountains everywhere → Andorra."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "km markers use **CG / CS** road numbers",
+     "type": "signs",
+     "text": "km markers w/ **CG / CS road numbers**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "kLb3",
      "img": "Copy_of_Copy_of_Copy_of_Copy_of_Small_Pin_281_29.png",
-     "type": "signs"
+     "uniq": "unique*",
+     "uniq_note": "CG/CS numbering is Andorra-only; the marker DESIGN itself resembles Spain's."
     },
     {
      "cat": "country",
-     "text": "Guardrails w/ **yellow reflectors** (in Europe only AD/ES/BE); bollard w/ an orange reflector (also Spain)",
+     "type": "utility",
+     "text": "Guardrails w/ **yellow reflectors**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "yQEn",
+     "img": "guardrailreflector.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "spain",
+       "note": "Yellow guardrail reflectors also in Spain.",
+       "diff": "CG/CS markers + orange-dot plates → Andorra."
+      },
+      {
+       "slug": "belgium",
+       "note": "Belgium is the only other European country with yellow reflectors.",
+       "diff": "High Pyrenees landscape → Andorra."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "bollards",
+     "text": "Bollards w/ an **orange reflector** (occasionally on main highways)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "JMBH",
      "img": "bollard.png",
-     "type": "utility"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "spain",
+       "note": "This bollard can also be found in Spain.",
+       "diff": "Plates/km markers decide."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Pedestrian sign **8 stripes** (only Spain also has 8); yellow & turquoise-green traffic cones countrywide",
+     "type": "utility",
+     "text": "**Yellow & turquoise-green traffic cones** used country-wide",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "TBFy",
+     "img": "Untitled_design_2871_29.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Pedestrian signs have **8 stripes**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "LHX7",
      "img": "Pedestrian_sign.png",
-     "type": "signs"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "spain",
+       "note": "Spain is the only other European country with 8-stripe ped signs.",
+       "diff": "Orange-dot plates + CG/CS → Andorra."
+      }
+     ]
     },
     {
-     "cat": "region",
-     "text": "Mountainous; **Andorra la Vella** = highest European capital (Caldea tower + sky wheel); **Pas de la Casa** = treeless high ski town",
+     "cat": "country",
+     "type": "cars",
+     "text": "Lots of **Gen2 snow trekkers**, especially on ski resorts — the most in Europe for its size",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "naming"
+     "anchor": "PGfc",
+     "img": "snowtrekker.png",
+     "uniq": "unique*",
+     "uniq_note": "Other countries have snow trekkers too, but ski-resort Gen2 trekker rounds lean heavily Andorra."
+    },
+    {
+     "cat": "city",
+     "type": "landscape",
+     "text": "**Andorra la Vella**: capital surrounded by high mountains — highest European capital (1023 m); look for the **Caldea tower + sky wheel**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "OMfo",
+     "img": "Andorra_La_Vella.png",
+     "imgs": [
+      "Caldea_Tower_And_Sky_Wheel.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "city",
+     "type": "landscape",
+     "text": "**Pas de la Casa** (east, 2080 m): touristy shop/hotel town w/ **treeless mountains** all around",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "vpA3",
+     "img": "Pas_De_La_Casa.png",
+     "uniq": "unique"
     }
    ]
   },
