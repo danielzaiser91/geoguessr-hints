@@ -1716,19 +1716,25 @@ Study: [Plonk It](https://www.plonkit.net/austria)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plate long white + EU blue strip (Italy = 2 strips & shorter; Swiss = no strip) | [P](https://www.plonkit.net/austria) |  |
-| Country | Bollards white w/ a **black top**, dark-red or grey reflector, small **nipple cap** (Slovenia/Montenegro = bright red reflector) | [P](https://www.plonkit.net/austria) |  |
-| Country | Chevrons **white-on-red or red-on-yellow** (Germany mostly red-on-white) | [P](https://www.plonkit.net/austria) |  |
-| Country | **Round wooden poles** are the most common pole type | [P](https://www.plonkit.net/austria) |  |
-| Country | German (**Ä Ö Ü ß**); camera meta separates the 3: **Austria = Gen3 + Gen4**, Germany = Gen4 only, Switzerland = low-cam | [P](https://www.plonkit.net/austria) |  |
-| Country | Direction & town-entry signs = **white bg, blue outline, unique font** (Germany = yellow town signs) | [P](https://www.plonkit.net/austria) |  |
-| Country | Pedestrian sign = **two horizontal dashed lines** (not zebra stripes) — unique; all neighbours use zebra | [P](https://www.plonkit.net/austria) |  |
-| Country | Road markers **blue w/ white numbers + one decimal (comma)** (Slovenia white; Germany white outline) | [P](https://www.plonkit.net/austria) |  |
-| Country | Bus-stop signs = **yellow-green circle w/ H**; **"EINBAHN"** one-way sign (Germany = "Einbahnstraße") | [P](https://www.plonkit.net/austria) |  |
-| Country | Dead-end sign = white **upside-down T**; **yellow gas poles** (snow-pole-like) are unique to Austria | [P](https://www.plonkit.net/austria) |  |
-| Country | Alpine architecture: light walls, wooden balconies/panelling on the top floor, dark wooden roofs extending outward | [P](https://www.plonkit.net/austria) |  |
-| Region | **Mostly mountainous** (central/west); flatter east near borders; A/B roads number **east→west**; each state has own flag + bus company; vineyards → far east | [P](https://www.plonkit.net/austria) |  |
-| Special | **Vienna** = dark-blue serif street plaques (leading number = district); Vorarlberg neon-yellow bus poles; Vienna/Innsbruck flag-tape on poles | [P](https://www.plonkit.net/austria) |  |
+| Country | Plates long white + EU strip (Italy: 2 strips & shorter; Switzerland: no strip) | [P](https://www.plonkit.net/austria) |  |
+| Country | White bollards w/ black top, **dark-red or dark-grey reflector**, often a nipple-shaped black cap (sometimes snow pole on top) | [P](https://www.plonkit.net/austria) |  |
+| Country | Chevrons **white-on-red or red-on-yellow** (Germany: mostly red-on-white) | [P](https://www.plonkit.net/austria) |  |
+| Country | **Round wooden poles** most common | [P](https://www.plonkit.net/austria) |  |
+| Country | Mostly mountainous + forested; east/northeast flatter & agricultural | [P](https://www.plonkit.net/austria) |  |
+| Country | **Alpine architecture**: light walls, wooden balconies/top-floor panelling, dark overhanging wooden roofs (S-Germany similar) | [P](https://www.plonkit.net/austria) |  |
+| Country | **German** (Ä Ö Ü ß); camera meta separates the German trio: Austria = Gen3 **and** Gen4; Germany = only Gen4; Switzerland = always low-cam | [P](https://www.plonkit.net/austria) |  |
+| Country | Direction + town-entry signs: **white w/ blue outline + unique font** (Germany: yellow town signs); green facility-direction signs common | [P](https://www.plonkit.net/austria) |  |
+| Country | Pedestrian sign: **two horizontal dashed lines** instead of zebra stripes (all neighbours use stripes) | [P](https://www.plonkit.net/austria) |  |
+| Country | Signs sometimes mounted with **4 metal clips** (unique in Central Europe); road markers **blue w/ white numbers + one decimal comma** (SI: white, DE: white outline); **EINBAHN** one-way signs (DE: Einbahnstraße); 'Anfang'/'Ende' on no-stopping signs; white upside-down-T dead-end signs | [P](https://www.plonkit.net/austria) |  |
+| Country | Bus stops: **yellow-green H circle** (only Germany similar) | [P](https://www.plonkit.net/austria) |  |
+| Country | **Yellow natural-gas poles** (snow-pole lookalikes) — unique to Austria | [P](https://www.plonkit.net/austria) |  |
+| Country | Gen4 smallcam coverage (like most of Western Europe) | [P](https://www.plonkit.net/austria) |  |
+| Region | **Elevation = region**: central+west most mountainous; 'flat' east still rolling; tallest sharpest peaks → the panhandle on the Italian border; **vineyards only in the far east** (Vienna + Lake Neusiedl) | [P](https://www.plonkit.net/austria) |  |
+| Region | **A- and B-road numbers increase east → west** (exception: B222–230 = Vienna); state flags + per-state **bus companies** (logo on the bus) | [P](https://www.plonkit.net/austria) |  |
+| Region | **Tin-foil antenna** → western Austria near the Swiss border (Austria-unique) | [P](https://www.plonkit.net/austria) |  |
+| State | **State metas**: Vorarlberg = neon-yellow bus-stop poles + yellow-white pole stripes + white km markers (also one W-Salzburg road); Salzburg = white painted square next to km markers; Burgenland = green 'Güterweg' signs; Upper Austria = white Güterweg w/ black outline; Lower Austria = **yellow-blue sign borders** (state flag) | [P](https://www.plonkit.net/austria) |  |
+| City | **Vienna**: dark-blue plaques w/ white serif font — **leading number = district**; Salzburg = unique font; Klagenfurt = irregular white border; St. Pölten = rounded white border; Vienna+Innsbruck poles w/ **red-white flag tape** (Vienna: thinner, usually two per pole) | [P](https://www.plonkit.net/austria) |  |
+| Special | **Lake Constance** on the western border — vast, unlike any mountain lake; Gen2 only on one Burgenland road + ski trekkers | [P](https://www.plonkit.net/austria) |  |
 
 ## Czechia
 Study: [Plonk It](https://www.plonkit.net/czechia)
