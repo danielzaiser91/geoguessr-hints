@@ -137,7 +137,7 @@ Format: `- [ ] slug` → check when BOTH captured-complete AND classified.
 **N. America:** - [x] usa · - [x] canada · - [x] mexico · - [x] guatemala · - [x] costa-rica ·
 - [x] panama · - [x] dominican-republic · - [x] puerto-rico · - [x] greenland · - [x] bermuda ·
 - [x] alaska · - [x] hawaii · - [x] martinique · - [x] saint-pierre-and-miquelon ·
-- [ ] us-virgin-islands · - [ ] us-minor-outlying-islands
+- [x] us-virgin-islands · - [ ] us-minor-outlying-islands
 **S. America:** - [ ] brazil · - [ ] argentina · - [ ] chile · - [ ] peru · - [ ] colombia ·
 - [ ] bolivia · - [ ] ecuador · - [ ] uruguay · - [ ] curacao · - [ ] falkland-islands
 **Africa:** - [ ] south-africa · - [ ] kenya · - [ ] nigeria · - [ ] ghana · - [ ] uganda ·

@@ -2642,11 +2642,14 @@ Study: [Plonk It](https://www.plonkit.net/us-virgin-islands)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | US territory (counts as US); 3 unique cars — **St Croix (south)** = a red truck (most coverage) + a white antenna-less car; **St Thomas/St John (north)** = a white car w/ antenna & shorter cab | [P](https://www.plonkit.net/us-virgin-islands) |  |
-| Country | Distinctive colonial architecture (Renaissance/Baroque/Rococo/Victorian): **large arched facades**, central plazas & courtyards | [P](https://www.plonkit.net/us-virgin-islands) |  |
-| Country | Former **Danish colony** → some Danish street names (e.g. '**gade**') / bilingual signs in historic downtowns | [P](https://www.plonkit.net/us-virgin-islands) |  |
-| Country | Plates are short, w/ a **bright-blue or dark-blue** design | [P](https://www.plonkit.net/us-virgin-islands) |  |
-| Region | **St Croix** (south) = loose grid (roads WSW–ENE); **St John & St Thomas** (north) = much curvier roads; boat trekkers off N St Croix (Buck Island has a pink camera tint) | [P](https://www.plonkit.net/us-virgin-islands) |  |
+| Country | US overseas territory (**counts as US**) — and the **only part of the US that drives on the left** | [P](https://www.plonkit.net/us-virgin-islands) |  |
+| Country | Car coverage shows a **large visible Street View car — red or white** | [P](https://www.plonkit.net/us-virgin-islands) |  |
+| Country | Architecture blend of **European Renaissance, Spanish Baroque, Rococo & Victorian**: large arched facades, central plazas, courtyards | [P](https://www.plonkit.net/us-virgin-islands) |  |
+| Country | Former **Danish colony** → Danish street/locality names (e.g. **'gade'**) + bilingual signs in historic downtowns | [P](https://www.plonkit.net/us-virgin-islands) |  |
+| Country | Plates short, **bright-blue or dark-blue** design | [P](https://www.plonkit.net/us-virgin-islands) |  |
+| Region | **St. Croix** (south): primary roads in a loose grid — main roads WSW-ENE, cross roads NNW-SSE; **St. John & St. Thomas** (north): much curvier roads | [P](https://www.plonkit.net/us-virgin-islands) |  |
+| Region | **Car = island**: red truck w/ red cab → only St. Croix (most coverage); white car WITHOUT antenna → St. Croix (rarer); white car WITH antenna + shorter cab → only St. Thomas/St. John | [P](https://www.plonkit.net/us-virgin-islands) |  |
+| Special | Two **boat trekkers** off the north coast of St. Croix: blue waters + hilly islands; near Buck Island NP the camera has a distinct **pink tint** | [P](https://www.plonkit.net/us-virgin-islands) |  |
 
 ## Saint Pierre and Miquelon
 Study: [Plonk It](https://www.plonkit.net/saint-pierre-and-miquelon)

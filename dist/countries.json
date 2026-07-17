@@ -33206,58 +33206,103 @@
    "hints": [
     {
      "cat": "country",
-     "text": "US territory (counts as US); 3 unique cars — **St Croix (south)** = a red truck (most coverage) + a white antenna-less car; **St Thomas/St John (north)** = a white car w/ antenna & shorter cab",
+     "type": "general",
+     "text": "US overseas territory (**counts as US**) — and the **only part of the US that drives on the left**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "QKxC",
+     "img": "vi_location.png",
+     "uniq": "unique*",
+     "uniq_note": "Left-hand traffic + US signage = USVI."
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "Car coverage shows a **large visible Street View car — red or white**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "abU4",
      "img": "vi_cars.png",
-     "type": "cars"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Distinctive colonial architecture (Renaissance/Baroque/Rococo/Victorian): **large arched facades**, central plazas & courtyards",
+     "type": "arch",
+     "text": "Architecture blend of **European Renaissance, Spanish Baroque, Rococo & Victorian**: large arched facades, central plazas, courtyards",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "GTl0",
-     "img": "vi_architecture.png",
-     "type": "arch"
+     "img": "vi_architecture.png"
     },
     {
      "cat": "country",
-     "text": "Former **Danish colony** → some Danish street names (e.g. '**gade**') / bilingual signs in historic downtowns",
+     "type": "language",
+     "text": "Former **Danish colony** → Danish street/locality names (e.g. **'gade'**) + bilingual signs in historic downtowns",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Nfmm",
      "img": "danish_names.png",
-     "type": "language"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Plates are short, w/ a **bright-blue or dark-blue** design",
+     "type": "plates",
+     "text": "Plates short, **bright-blue or dark-blue** design",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "yUX7",
-     "img": "usvi_licenceplates.png",
-     "type": "plates"
+     "img": "usvi_licenceplates.png"
     },
     {
      "cat": "region",
-     "text": "**St Croix** (south) = loose grid (roads WSW–ENE); **St John & St Thomas** (north) = much curvier roads; boat trekkers off N St Croix (Buck Island has a pink camera tint)",
+     "type": "roads",
+     "text": "**St. Croix** (south): primary roads in a loose grid — main roads WSW-ENE, cross roads NNW-SSE; **St. John & St. Thomas** (north): much curvier roads",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "OgDE",
      "img": "vi_southgrid.png",
-     "type": "general"
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "cars",
+     "text": "**Car = island**: red truck w/ red cab → only St. Croix (most coverage); white car WITHOUT antenna → St. Croix (rarer); white car WITH antenna + shorter cab → only St. Thomas/St. John",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "x3lV",
+     "img": "vi_redcar.png",
+     "imgs": [
+      "vi_southwhitecar.png",
+      "vi_northcar.png"
+     ],
+     "super": true,
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "cars",
+     "text": "Two **boat trekkers** off the north coast of St. Croix: blue waters + hilly islands; near Buck Island NP the camera has a distinct **pink tint**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "LB6O",
+     "img": "vi_boats.png",
+     "uniq": "unique"
     }
    ]
   },
