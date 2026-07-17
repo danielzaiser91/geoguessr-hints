@@ -2628,14 +2628,14 @@ Study: [Plonk It](https://www.plonkit.net/puerto-rico)
 | City | **Ponce** (south): Ponce-Creole buildings (Victorian × Spanish Revival, wood + masonry); **Old San Juan** (NW tip of San Juan): narrow brick streets, colourful Gothic/Renaissance/Baroque mix | [P](https://www.plonkit.net/puerto-rico) |  |
 
 ## Martinique
-Study: [Plonk It](https://www.plonkit.net/martinique)
+Study: [Plonk It](https://www.plonkit.net/martinique) · [GeoGuessr map](https://www.geoguessr.com/maps/62a44b22040f04bd36e8a914)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Overseas **department of France** (counts as France), Caribbean between Dominica & St Lucia; coverage = only **3 Gen3 trekkers** — memorise them rather than metas | [P](https://www.plonkit.net/martinique) |  |
-| Region | **Habitation Clément** rum distillery trekker: warehouse w/ truck & forklift, an **H-beam steel** structure, a red-soil dirt track w/ palm trees | [P](https://www.plonkit.net/martinique) |  |
-| Region | **Coastal southern trekker**: hilly path w/ other people, houses w/ orange roofs, ends at a car park w/ stalls | [P](https://www.plonkit.net/martinique) |  |
-| Region | **Jardin de Balata** trekker: dark, humid jungle — buttress-root trees, ferns & bamboo; a man in a black shirt & grey cap sometimes visible | [P](https://www.plonkit.net/martinique) |  |
+| Country | Overseas **department of France** (counts as France), Caribbean between Dominica & St Lucia; coverage = only **3 Gen3 trekkers** — memorise them instead of metas | [P](https://www.plonkit.net/martinique) |  |
+| Special | **Habitation Clément** rum-distillery trekker (pinpointable, appears in ACW!): warehouse w/ truck & forklift; outdoor view w/ hills + machinery; red-soil dirt track w/ palms; distillery interior of **H-beam steel** | [P](https://www.plonkit.net/martinique) |  |
+| Special | **Southern coastal trekker**: starts north on a slightly hilly path w/ other people; houses w/ orange roofs; flatter open path w/ ocean glimpses through the trees; ends south at a car park w/ stalls | [P](https://www.plonkit.net/martinique) |  |
+| Special | **Jardin de Balata** trekker: the most tropical/humid feel — dark & damp, buttress-root trees, ferns, bamboo; a man in a black shirt + grey cap sometimes visible | [P](https://www.plonkit.net/martinique) |  |
 
 ## US Virgin Islands
 Study: [Plonk It](https://www.plonkit.net/us-virgin-islands)

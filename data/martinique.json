@@ -3,11 +3,11 @@
  "slug": "martinique",
  "continent": "North America",
  "area_km2": 1128,
- "links": { "plonkit": "https://www.plonkit.net/martinique", "geoguessr": null },
+ "links": { "plonkit": "https://www.plonkit.net/martinique", "geoguessr": "https://www.geoguessr.com/maps/62a44b22040f04bd36e8a914" },
  "hints": [
-  { "cat": "country", "text": "Overseas **department of France** (counts as France), Caribbean between Dominica & St Lucia; coverage = only **3 Gen3 trekkers** — memorise them rather than metas", "src": ["plonkit"], "sv": null, "type": "general" },
-  { "cat": "region", "text": "**Habitation Clément** rum distillery trekker: warehouse w/ truck & forklift, an **H-beam steel** structure, a red-soil dirt track w/ palm trees", "src": ["plonkit"], "sv": null, "anchor": "BEOL", "img": "Martinique_Habitation_Clement.png", "type": "general" },
-  { "cat": "region", "text": "**Coastal southern trekker**: hilly path w/ other people, houses w/ orange roofs, ends at a car park w/ stalls", "src": ["plonkit"], "sv": null, "anchor": "vcqO", "img": "Martinique_Coastal_Trekker.png", "type": "general" },
-  { "cat": "region", "text": "**Jardin de Balata** trekker: dark, humid jungle — buttress-root trees, ferns & bamboo; a man in a black shirt & grey cap sometimes visible", "src": ["plonkit"], "sv": null, "anchor": "4AF8", "img": "Martinique_Jardin.png", "type": "general" }
+  { "cat": "country", "type": "general", "text": "Overseas **department of France** (counts as France), Caribbean between Dominica & St Lucia; coverage = only **3 Gen3 trekkers** — memorise them instead of metas", "src": ["plonkit"], "sv": null, "anchor": "gRbW", "img": "Martinique_in_France_2016.svg.png", "super": true },
+  { "cat": "special", "type": "cars", "text": "**Habitation Clément** rum-distillery trekker (pinpointable, appears in ACW!): warehouse w/ truck & forklift; outdoor view w/ hills + machinery; red-soil dirt track w/ palms; distillery interior of **H-beam steel**", "src": ["plonkit"], "sv": null, "anchor": "BEOL", "img": "Martinique_Habitation_Clement.png", "uniq": "unique" },
+  { "cat": "special", "type": "cars", "text": "**Southern coastal trekker**: starts north on a slightly hilly path w/ other people; houses w/ orange roofs; flatter open path w/ ocean glimpses through the trees; ends south at a car park w/ stalls", "src": ["plonkit"], "sv": null, "anchor": "vcqO", "img": "Martinique_Coastal_Trekker.png", "uniq": "unique" },
+  { "cat": "special", "type": "cars", "text": "**Jardin de Balata** trekker: the most tropical/humid feel — dark & damp, buttress-root trees, ferns, bamboo; a man in a black shirt + grey cap sometimes visible", "src": ["plonkit"], "sv": null, "anchor": "4AF8", "img": "Martinique_Jardin.png", "uniq": "unique" }
  ]
 }
