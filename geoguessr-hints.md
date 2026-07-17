@@ -184,18 +184,24 @@ Study: [Plonk It](https://www.plonkit.net/uganda)
 | Special | Parks differ: **Murchison Falls** (low dirt road-barriers, palms north), **Lake Mburo** (driest, dried grass), **Kibale/Semuliki** (dense humid forest paths), **Queen Elizabeth** (non-red dirt) | [P](https://www.plonkit.net/uganda) |  |
 
 ## Ghana
-Study: [Plonk It](https://www.plonkit.net/ghana)
+Study: [Plonk It](https://www.plonkit.net/ghana) · [GeoGuessr map](https://www.geoguessr.com/maps/6473f3ae6f5ab58346292e87)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Gen3 unique car: **roof rack w/ black tape** on the right end + hood **wrap w/ a red rectangle** — usually enough to ID Ghana | [P](https://www.plonkit.net/ghana) |  |
-| Country | Gen4 = grey or white **pickup truck w/ a front antenna** (usually blurred) | [P](https://www.plonkit.net/ghana) |  |
-| Country | Plates **white (private) / yellow (commercial)**, long or short (Nigeria's white plates have a green tint) | [P](https://www.plonkit.net/ghana) |  |
-| Country | Mostly **flat, red soil**; tropical vegetation, palms common toward the south | [P](https://www.plonkit.net/ghana) |  |
-| Country | Taxis have **multicoloured body panels** — fenders & quarter panels always **orange-yellow** | [P](https://www.plonkit.net/ghana) |  |
-| Country | Road lines always **white** (many paved roads have none); **wooden poles w/ 3 insulators** on a metal crossbar (Kenya similar) | [P](https://www.plonkit.net/ghana) |  |
-| Country | Patriotic country — things painted **red/yellow/green (+ black star)**; B&W striped signposts in cities | [P](https://www.plonkit.net/ghana) |  |
-| Region | Coverage limited (densest south: Accra/Kumasi); **3 tape types on the car** (unpeeled SW, peeled E/N, scotched N of Kumasi); north = savannah, SW/E = dense forest + palms | [P](https://www.plonkit.net/ghana) |  |
+| Country | Gen3 unique car: **roof rack w/ black tape on the right front end** + visible hood wrap w/ a **red rectangle** — usually all you need for Ghana | [P](https://www.plonkit.net/ghana) |  |
+| Country | Gen4 = **grey/white pickup w/ a front antenna**, mostly fully or partly blurred | [P](https://www.plonkit.net/ghana) |  |
+| Country | Plates: **white private / yellow commercial**, long or short — commercial traffic is so common you'll see both constantly | [P](https://www.plonkit.net/ghana) |  |
+| Country | Mostly **flat w/ red soil**; tropical vegetation, palms esp. toward the south | [P](https://www.plonkit.net/ghana) |  |
+| Country | Taxis w/ **multicoloured body panels** — fenders & quarter panels always **orange-yellow** | [P](https://www.plonkit.net/ghana) |  |
+| Country | Road lines always **white** — many paved roads have none at all | [P](https://www.plonkit.net/ghana) |  |
+| Country | Typically **wooden poles w/ 3 insulators on a metal crossbar** | [P](https://www.plonkit.net/ghana) |  |
+| Country | Patriotic paint everywhere: **red/yellow/green + black star** (flag colours) | [P](https://www.plonkit.net/ghana) |  |
+| Country | **B&W striped signposts** in cities; plain metal posts rural (striped posts exist elsewhere — combine clues) | [P](https://www.plonkit.net/ghana) |  |
+| Region | Coverage limited & memorable: main roads + big cities, densest around **Accra & Kumasi** (Gen4 mostly near those two); paved/unpaved distribution map | [P](https://www.plonkit.net/ghana) |  |
+| Region | **Tape meta** (region decider!): 'unpeeled tape' → southwest; 'peeled tape' → east + north; 'scotched tape' (2 white spots left) → north of Kumasi + west of Tamale | [P](https://www.plonkit.net/ghana) |  |
+| Region | North = **savanna** (dry soil, sparse vegetation); tall mountain ranges → around Lake Volta + near Togo; dense forests + wild palms → southwest & east; tall coastal palms → mostly west | [P](https://www.plonkit.net/ghana) |  |
+| Special | **Road spotlights**: unpaved dry-savanna roads → north of Wa; Sawla↔N10 = crisp new lines, E-W, lush savanna; **Salaga↔Tamale (to Kpalbusi)** = dirt road w/ moody overcast + dark purple-brown soil; Nkwanta↔Domanko = unpaved SE-NW w/ a powerline east; N2 east of Lake Volta = ridgeline SE + grey overcast; N1 east of Accra = flat, open, sparse; N1 near Elubo = brand-new dark asphalt w/ crisp middle line, no outers; Keta Lagoon road = sandy coastal + grey rocks | [P](https://www.plonkit.net/ghana) |  |
+| Special | **Rare cars**: nature reserves = white car w/ visible mirrors (tape still there); Ankasa Game Reserve = whole front visible, roof vinyl + tape; Boabeng-Fiema Monkey Sanctuary = no tape/rack, black right mirror just visible | [P](https://www.plonkit.net/ghana) |  |
 
 ## Senegal
 Study: [Plonk It](https://www.plonkit.net/senegal)

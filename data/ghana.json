@@ -3,15 +3,25 @@
  "slug": "ghana",
  "continent": "Africa",
  "area_km2": 238533,
- "links": { "plonkit": "https://www.plonkit.net/ghana", "geoguessr": null },
+ "links": { "plonkit": "https://www.plonkit.net/ghana", "geoguessr": "https://www.geoguessr.com/maps/6473f3ae6f5ab58346292e87" },
  "hints": [
-  { "cat": "country", "text": "Gen3 unique car: **roof rack w/ black tape** on the right end + hood **wrap w/ a red rectangle** — usually enough to ID Ghana", "src": ["plonkit"], "sv": null, "anchor": "3ug2", "img": "Ghana_car.png", "type": "cars" },
-  { "cat": "country", "text": "Gen4 = grey or white **pickup truck w/ a front antenna** (usually blurred)", "src": ["plonkit"], "sv": null, "anchor": "bJXr", "img": "Ghana cars.png", "type": "cars" },
-  { "cat": "country", "text": "Plates **white (private) / yellow (commercial)**, long or short (Nigeria's white plates have a green tint)", "src": ["plonkit"], "sv": null, "anchor": "dAJp", "img": "Ghana_License_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "Mostly **flat, red soil**; tropical vegetation, palms common toward the south", "src": ["plonkit"], "sv": null, "anchor": "4IA8", "img": "ghana_landscape", "type": "landscape" },
-  { "cat": "country", "text": "Taxis have **multicoloured body panels** — fenders & quarter panels always **orange-yellow**", "src": ["plonkit"], "sv": null, "anchor": "EktN", "img": "ghana_taxis", "type": "general" },
-  { "cat": "country", "text": "Road lines always **white** (many paved roads have none); **wooden poles w/ 3 insulators** on a metal crossbar (Kenya similar)", "src": ["plonkit"], "sv": null, "anchor": "m5GG", "img": "Ghana_poles", "type": "utility" },
-  { "cat": "country", "text": "Patriotic country — things painted **red/yellow/green (+ black star)**; B&W striped signposts in cities", "src": ["plonkit"], "sv": null, "anchor": "sHFU", "img": "ghana_singposts", "type": "signs" },
-  { "cat": "region", "text": "Coverage limited (densest south: Accra/Kumasi); **3 tape types on the car** (unpeeled SW, peeled E/N, scotched N of Kumasi); north = savannah, SW/E = dense forest + palms", "src": ["plonkit"], "sv": null, "anchor": "H3ol", "img": "The_Tape_Lore.png", "type": "cars" }
+  { "cat": "country", "type": "cars", "text": "Gen3 unique car: **roof rack w/ black tape on the right front end** + visible hood wrap w/ a **red rectangle** — usually all you need for Ghana", "src": ["plonkit"], "sv": null, "anchor": "3ug2", "img": "Ghana_car.png", "uniq": "unique" },
+  { "cat": "country", "type": "cars", "text": "Gen4 = **grey/white pickup w/ a front antenna**, mostly fully or partly blurred", "src": ["plonkit"], "sv": null, "anchor": "bJXr", "img": "Ghana cars.png" },
+  { "cat": "country", "type": "plates", "text": "Plates: **white private / yellow commercial**, long or short — commercial traffic is so common you'll see both constantly", "src": ["plonkit"], "sv": null, "anchor": "dAJp", "img": "Ghana_License_Plate.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "nigeria", "note": "Nigerian white plates show a GREEN tint through the blur.", "diff": "Pure white → Ghana." } ] },
+  { "cat": "country", "type": "landscape", "text": "Mostly **flat w/ red soil**; tropical vegetation, palms esp. toward the south", "src": ["plonkit"], "sv": null, "anchor": "4IA8", "img": "ghana_landscape" },
+  { "cat": "country", "type": "general", "text": "Taxis w/ **multicoloured body panels** — fenders & quarter panels always **orange-yellow**", "src": ["plonkit"], "sv": null, "anchor": "EktN", "img": "ghana_taxis", "uniq": "unique" },
+  { "cat": "country", "type": "markings", "text": "Road lines always **white** — many paved roads have none at all", "src": ["plonkit"], "sv": null, "anchor": "Tx1K", "img": "ghana_roadlines_2" },
+  { "cat": "country", "type": "utility", "text": "Typically **wooden poles w/ 3 insulators on a metal crossbar**", "src": ["plonkit"], "sv": null, "anchor": "m5GG", "img": "Ghana_poles",
+    "uniq": "shared", "shared_with": [
+      { "slug": "kenya", "note": "Kenya has a similar pole.", "diff": "Ghana tape car → Ghana; follow SUV → Kenya." } ] },
+  { "cat": "country", "type": "general", "text": "Patriotic paint everywhere: **red/yellow/green + black star** (flag colours)", "src": ["plonkit"], "sv": null, "anchor": "trbc", "img": "ghana_patriotic_colours", "uniq": "unique*", "uniq_note": "The flag-colour painting habit is a strong Ghana vibe." },
+  { "cat": "country", "type": "signs", "text": "**B&W striped signposts** in cities; plain metal posts rural (striped posts exist elsewhere — combine clues)", "src": ["plonkit"], "sv": null, "anchor": "sHFU", "img": "ghana_singposts" },
+  { "cat": "region", "type": "general", "text": "Coverage limited & memorable: main roads + big cities, densest around **Accra & Kumasi** (Gen4 mostly near those two); paved/unpaved distribution map", "src": ["plonkit"], "sv": null, "anchor": "hLru", "img": "GhanaAllCov.jpg", "imgs": ["GhanaGen4.jpg", "Ghana paved unpaved infographic 2"], "super": true },
+  { "cat": "region", "type": "cars", "text": "**Tape meta** (region decider!): 'unpeeled tape' → southwest; 'peeled tape' → east + north; 'scotched tape' (2 white spots left) → north of Kumasi + west of Tamale", "src": ["plonkit"], "sv": null, "anchor": "H3ol", "img": "The_Tape_Lore.png", "super": true, "uniq": "unique" },
+  { "cat": "region", "type": "landscape", "text": "North = **savanna** (dry soil, sparse vegetation); tall mountain ranges → around Lake Volta + near Togo; dense forests + wild palms → southwest & east; tall coastal palms → mostly west", "src": ["plonkit"], "sv": null, "anchor": "JppT", "img": "north.png", "imgs": ["Mountain_ranges.png", "Forests.png", "Coastal_palms.png"], "super": true },
+  { "cat": "special", "type": "roads", "text": "**Road spotlights**: unpaved dry-savanna roads → north of Wa; Sawla↔N10 = crisp new lines, E-W, lush savanna; **Salaga↔Tamale (to Kpalbusi)** = dirt road w/ moody overcast + dark purple-brown soil; Nkwanta↔Domanko = unpaved SE-NW w/ a powerline east; N2 east of Lake Volta = ridgeline SE + grey overcast; N1 east of Accra = flat, open, sparse; N1 near Elubo = brand-new dark asphalt w/ crisp middle line, no outers; Keta Lagoon road = sandy coastal + grey rocks", "src": ["plonkit"], "sv": null, "anchor": "74In", "img": "Wa_unpaved_roads.png", "imgs": ["Sawla-N10_road.png", "Salaga_road.png", "Domanko-Nkwanta_road.png", "N2_ridgeline.png", "East_of_Accra.png", "N1_near_Elubo.png", "Keta_lagoon.png"], "uniq": "unique" },
+  { "cat": "special", "type": "cars", "text": "**Rare cars**: nature reserves = white car w/ visible mirrors (tape still there); Ankasa Game Reserve = whole front visible, roof vinyl + tape; Boabeng-Fiema Monkey Sanctuary = no tape/rack, black right mirror just visible", "src": ["plonkit"], "sv": null, "anchor": "Y6Tn", "img": "theres_so_many_pins.png", "imgs": ["Ankasa_game_reserve_car.png", "ghana_baobeng.png"], "uniq": "unique" }
  ]
 }
