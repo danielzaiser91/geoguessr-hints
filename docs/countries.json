@@ -14288,113 +14288,181 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Plate long white + standard EU blue strip left",
+     "type": "plates",
+     "text": "Plates long white + EU strip",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "ZHtQ",
-     "img": "Latvia_License_Plate.png",
-     "type": "plates"
+     "img": "Latvia_License_Plate.png"
     },
     {
      "cat": "country",
-     "text": "Bollards **thin, slightly curved**: rectangular reflector front + two circular back, **angled black strip**, often numbers below (EE/LT differ)",
+     "type": "bollards",
+     "text": "Bollards thin, slightly **curved**: rectangular front reflector + **two circular back reflectors** (white or orange), angled black strip, often numbered",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "uPlz",
      "img": "Bollard.png",
-     "type": "bollards"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "lithuania",
+       "note": "Different design (wedge, orange rectangle).",
+       "diff": "Two round back dots → Latvia."
+      },
+      {
+       "slug": "estonia",
+       "note": "Different design.",
+       "diff": "Curved + numbered → Latvia."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Poletops with **hook-shaped insulators alternating left-right-left** (much rarer in the other Baltics)",
+     "type": "utility",
+     "text": "Poletops w/ **alternating hook insulators (left-right-left)** — rare in the other Baltics",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Ligx",
      "img": "Poletop.png",
-     "type": "utility"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "croatia",
+       "note": "Similar alternating hooks on wooden poles.",
+       "diff": "Latvian macrons (ā ē ī) vs Croatian č/ć."
+      },
+      {
+       "slug": "bulgaria",
+       "note": "Alternating hooks common there too.",
+       "diff": "Cyrillic → Bulgaria."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Chevrons **white w/ red arrows** (like Lithuania/Poland; Estonia/Russia/Ukraine = opposite)",
+     "type": "signs",
+     "text": "Chevrons white w/ red arrows (EE/RU/UA inverted); Baltic blue km markers — Latvia's **parallel to the road, number on one side** (LT: 45°, EE: perpendicular); warning-sign border **thick red + thin white outline**; **A-type guardrails w/ white or red reflectors** (EE: none, LT: orange)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "xypN",
      "img": "Chevron.png",
-     "type": "signs"
-    },
-    {
-     "cat": "country",
-     "text": "Blue km marker **parallel to the road**, number on one side only (Estonia perpendicular, Lithuania 45°)",
-     "src": [
-      "plonkit"
+     "imgs": [
+      "KM_sign.png",
+      "Latvian_Signs.png",
+      "Guardrail.png"
      ],
-     "sv": null,
-     "anchor": "CK38",
-     "img": "KM_sign.png",
-     "type": "signs"
+     "super": true
     },
     {
      "cat": "country",
-     "text": "Signs = **thick red border + thin white outline**; A-type guardrails w/ white or red reflectors",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "15Re",
-     "img": "Latvian_Signs.png",
-     "type": "signs"
-    },
-    {
-     "cat": "country",
-     "text": "Pedestrian sign **5 stripes, noticeably long legs** — unique in the Baltics (Estonia & Lithuania = 3 stripes)",
+     "type": "signs",
+     "text": "Pedestrian signs **5 stripes** (Baltic-unique; EE/LT = 3) + pedestrian w/ **noticeably long legs**; bus-stop sign w/ **5-window bus** (EE/LT: 4)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "xps4",
      "img": "Pedestrian_sign.png",
-     "type": "signs"
-    },
-    {
-     "cat": "country",
-     "text": "Bus-stop sign bus has **5 windows** (Estonia & Lithuania = 4)",
-     "src": [
-      "plonkit"
+     "imgs": [
+      "Bus_stop_sign.png"
      ],
-     "sv": null,
-     "anchor": "RplU",
-     "img": "Bus_stop_sign.png",
-     "type": "signs"
+     "uniq": "unique*",
+     "uniq_note": "Within the Baltics both metas are Latvia-only; the long-leg pedestrian is Europe-wide distinctive."
     },
     {
      "cat": "country",
-     "text": "**Latvian** (Baltic): macron vowels **Ā Ē Ī**, hook consonants **Ģ Ķ Ļ Ņ**; street = **iela**; tall-rectangle house numbers",
+     "type": "language",
+     "text": "**Latvian**: macron vowels **Ā Ē Ī (Ū)** + hooked consonants **Ģ Ķ Ļ Ņ**; street = **iela** (unique; ultra-rare 'gatve/gat.' in Riga)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "q1yp",
      "img": "Latvian_language.png",
-     "type": "language"
+     "imgs": [
+      "Iela.png"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Architecture wood + white brick w/ steep corrugated metal roofs; **Riga** downtown = art-nouveau (Vienna-like); red & black Gen4 cars",
+     "type": "naming",
+     "text": "House numbers = **tall rectangles** in several colours (not common EE/LT)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "94iJ",
+     "img": "lv_housenumber.png"
+    },
+    {
+     "cat": "country",
+     "type": "arch",
+     "text": "Wood + **white brick** combos, steep corrugated metal roofs; pastel stone in newer areas",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "k1bL",
-     "img": "Latvia_architecture.png",
-     "type": "arch"
+     "img": "Latvia_architecture.png"
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Directional signs blue/white w/ **more stylised arrowheads** than EE/LT",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "6Wew",
+     "img": "lv_directionalsign.png"
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "Gen4 **red or black car** (also LT; Estonia has neither)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "BB6n",
+     "img": "Screenshot (607).png",
+     "imgs": [
+      "Screenshot (610).png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "South of **Jelgava**: wide open, much less forest + more fields than the rest of Latvia",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "PA6J",
+     "img": "South_of_Jelgava.png"
+    },
+    {
+     "cat": "city",
+     "area": "Riga",
+     "type": "arch",
+     "text": "Downtown = majestic **Art-Nouveau architecture** (Vienna-like) — unique in the whole Baltics",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "b4Ic",
+     "img": "Downtown_Riga.png",
+     "uniq": "unique"
     }
    ]
   },

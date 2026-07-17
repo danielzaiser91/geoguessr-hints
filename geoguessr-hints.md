@@ -1838,16 +1838,18 @@ Study: [Plonk It](https://www.plonkit.net/latvia)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plate long white + standard EU blue strip left | [P](https://www.plonkit.net/latvia) |  |
-| Country | Bollards **thin, slightly curved**: rectangular reflector front + two circular back, **angled black strip**, often numbers below (EE/LT differ) | [P](https://www.plonkit.net/latvia) |  |
-| Country | Poletops with **hook-shaped insulators alternating left-right-left** (much rarer in the other Baltics) | [P](https://www.plonkit.net/latvia) |  |
-| Country | Chevrons **white w/ red arrows** (like Lithuania/Poland; Estonia/Russia/Ukraine = opposite) | [P](https://www.plonkit.net/latvia) |  |
-| Country | Blue km marker **parallel to the road**, number on one side only (Estonia perpendicular, Lithuania 45°) | [P](https://www.plonkit.net/latvia) |  |
-| Country | Signs = **thick red border + thin white outline**; A-type guardrails w/ white or red reflectors | [P](https://www.plonkit.net/latvia) |  |
-| Country | Pedestrian sign **5 stripes, noticeably long legs** — unique in the Baltics (Estonia & Lithuania = 3 stripes) | [P](https://www.plonkit.net/latvia) |  |
-| Country | Bus-stop sign bus has **5 windows** (Estonia & Lithuania = 4) | [P](https://www.plonkit.net/latvia) |  |
-| Country | **Latvian** (Baltic): macron vowels **Ā Ē Ī**, hook consonants **Ģ Ķ Ļ Ņ**; street = **iela**; tall-rectangle house numbers | [P](https://www.plonkit.net/latvia) |  |
-| Country | Architecture wood + white brick w/ steep corrugated metal roofs; **Riga** downtown = art-nouveau (Vienna-like); red & black Gen4 cars | [P](https://www.plonkit.net/latvia) |  |
+| Country | Plates long white + EU strip | [P](https://www.plonkit.net/latvia) |  |
+| Country | Bollards thin, slightly **curved**: rectangular front reflector + **two circular back reflectors** (white or orange), angled black strip, often numbered | [P](https://www.plonkit.net/latvia) |  |
+| Country | Poletops w/ **alternating hook insulators (left-right-left)** — rare in the other Baltics | [P](https://www.plonkit.net/latvia) |  |
+| Country | Chevrons white w/ red arrows (EE/RU/UA inverted); Baltic blue km markers — Latvia's **parallel to the road, number on one side** (LT: 45°, EE: perpendicular); warning-sign border **thick red + thin white outline**; **A-type guardrails w/ white or red reflectors** (EE: none, LT: orange) | [P](https://www.plonkit.net/latvia) |  |
+| Country | Pedestrian signs **5 stripes** (Baltic-unique; EE/LT = 3) + pedestrian w/ **noticeably long legs**; bus-stop sign w/ **5-window bus** (EE/LT: 4) | [P](https://www.plonkit.net/latvia) |  |
+| Country | **Latvian**: macron vowels **Ā Ē Ī (Ū)** + hooked consonants **Ģ Ķ Ļ Ņ**; street = **iela** (unique; ultra-rare 'gatve/gat.' in Riga) | [P](https://www.plonkit.net/latvia) |  |
+| Country | House numbers = **tall rectangles** in several colours (not common EE/LT) | [P](https://www.plonkit.net/latvia) |  |
+| Country | Wood + **white brick** combos, steep corrugated metal roofs; pastel stone in newer areas | [P](https://www.plonkit.net/latvia) |  |
+| Country | Directional signs blue/white w/ **more stylised arrowheads** than EE/LT | [P](https://www.plonkit.net/latvia) |  |
+| Country | Gen4 **red or black car** (also LT; Estonia has neither) | [P](https://www.plonkit.net/latvia) |  |
+| Region | South of **Jelgava**: wide open, much less forest + more fields than the rest of Latvia | [P](https://www.plonkit.net/latvia) |  |
+| City | Downtown = majestic **Art-Nouveau architecture** (Vienna-like) — unique in the whole Baltics | [P](https://www.plonkit.net/latvia) |  |
 
 ## Svalbard
 Study: [Plonk It](https://www.plonkit.net/svalbard)
