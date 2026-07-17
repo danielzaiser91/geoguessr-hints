@@ -3,16 +3,76 @@
  "slug": "albania",
  "continent": "Europe",
  "area_km2": 28748,
- "links": { "plonkit": "https://www.plonkit.net/albania", "geoguessr": null },
+ "links": { "plonkit": "https://www.plonkit.net/albania", "geoguessr": "https://www.geoguessr.com/maps/63e1867f36099776e87daf42" },
  "hints": [
-  { "cat": "country", "text": "Plates: blue strips both sides OR a **single red strip on the left** — the only European country with red on the left (Italy = blue both but shorter front)", "src": ["plonkit"], "sv": null, "anchor": "nK4e", "img": "albania_plate.png", "type": "plates" },
-  { "cat": "country", "text": "All Gen4 = **smallcam**; Gen3 often has **rifts** (poor stitching; equally common in Montenegro)", "src": ["plonkit"], "sv": null, "anchor": "i4Ky", "img": "Smallcam.png", "type": "cars" },
-  { "cat": "country", "text": "Bollards = **black top, red+grey reflector, white bottom** (Italy uses the same)", "src": ["plonkit"], "sv": null, "anchor": "z0A7", "img": "Bollards.png", "type": "bollards" },
-  { "cat": "country", "text": "Poletops with an **upside-down triangle** shape (also RS/CZ/SK/RO) + simpler horizontal-bar poles", "src": ["plonkit"], "sv": null, "anchor": "vH1O", "img": "Upside_triangle_pole_top.png", "type": "utility" },
-  { "cat": "country", "text": "Chevrons **white on black** (Italy/Greece/Spain; Montenegro's differ); sign backs often painted black", "src": ["plonkit"], "sv": null, "anchor": "83ib", "img": "Chevron.png", "type": "signs" },
-  { "cat": "country", "text": "Distinct **S-shape on stop signs** (short, angled ends — like Italy); bold speed-sign font (Montenegro's is thinner)", "src": ["plonkit"], "sv": null, "anchor": "QA4i", "img": "al_stopsignss.png", "type": "signs" },
-  { "cat": "country", "text": "**Albanian** language: letters **Ë ë** (& Ç ç); street = **rruga**", "src": ["plonkit"], "sv": null, "anchor": "92gY", "img": "Albanian.png", "type": "language" },
-  { "cat": "country", "text": "Mountainous & Mediterranean; **exposed red soil** roadside; **rooftop cylinder water tanks**; Italian-style pastel buildings; **Mercedes** everywhere", "src": ["plonkit"], "sv": null, "anchor": "imi2", "img": "Landscape.png", "type": "landscape" },
-  { "cat": "region", "text": "Gen3 = long-antenna + rifts, or short-antenna + no rifts; lowlands in the west (Tirana/Shkodër/Vlorë) + the flat Korçë plateau SE; highest mountains far north & south", "src": ["plonkit"], "sv": null, "type": "cars" }
+  { "cat": "country", "type": "plates", "text": "Plates: blue strips both sides OR a **single red strip on the left**", "src": ["plonkit"], "sv": null, "anchor": "nK4e", "img": "albania_plate.png", "uniq": "unique*", "uniq_note": "The red-left-strip plate is unique in Europe. The blue-strip variant however looks Italian — Italian FRONT plates are distinctly shorter.",
+    "shared_with": [
+      { "slug": "italy", "note": "Italian plates also have blue strips on both sides.", "diff": "Italian front plates are distinctly shorter; red strip on the left → always Albania." } ] },
+  { "cat": "country", "type": "cars", "text": "All Gen4 = **smallcam**: camera mounted low, big circular blur w/ small front protrusion (blur can be fully transparent)", "src": ["plonkit"], "sv": null, "anchor": "i4Ky", "img": "Smallcam.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "montenegro", "note": "Most of the Balkans and southern Europe have smallcam.", "diff": "Smallcam only narrows to the region — use plates/language to decide." },
+      { "slug": "greece", "note": "Greek Gen4 is also smallcam.", "diff": "Greek alphabet → Greece; Ë/rruga → Albania." },
+      { "slug": "italy", "note": "Italian Gen4 is also smallcam.", "diff": "Language + bollard bottom: white-painted → Albania/Italy identical, check plates." } ] },
+  { "cat": "country", "type": "cars", "text": "**Rifts** (sky tears from poor stitching) rarely appear in Albanian Gen3", "src": ["plonkit"], "sv": null, "anchor": "iM5P", "img": "Rifts.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "montenegro", "note": "Rifts are equally common in Montenegro; rarely in various other countries.", "diff": "Horizontal-bar poles → Albania; ме/Cyrillic bits → Montenegro." } ] },
+  { "cat": "country", "type": "bollards", "text": "Bollards: **black top, red + grey reflector, white-painted bottom**", "src": ["plonkit"], "sv": null, "anchor": "z0A7", "img": "Bollards.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "italy", "note": "Italy uses the same kind of bollards.", "diff": "Smallcam + Mercedes + red soil → Albania; EU plates → Italy." } ] },
+  { "cat": "country", "type": "utility", "text": "Poletops w/ an **upside-down triangle** shape; simpler poles often have **horizontal bars**", "src": ["plonkit"], "sv": null, "anchor": "vH1O", "img": "Upside_triangle_pole_top.png", "imgs": ["Horizontal_bars.png"],
+    "uniq": "shared", "shared_with": [
+      { "slug": "serbia", "note": "Similar triangle pole tops.", "diff": "Cyrillic → Serbia." },
+      { "slug": "czechia", "note": "Similar pole tops.", "diff": "Háčky (č/ř) → Czechia." },
+      { "slug": "slovakia", "note": "Similar pole tops.", "diff": "Diacritics ľ/ô → Slovakia." },
+      { "slug": "romania", "note": "Similar pole tops.", "diff": "ă/ș/ț → Romania." },
+      { "slug": "montenegro", "note": "If unsure between Montenegro and Albania and you see horizontal-bar poles → guess Albania.", "diff": "Horizontal bars → Albania." } ] },
+  { "cat": "country", "type": "signs", "text": "Chevrons **white on black**", "src": ["plonkit"], "sv": null, "anchor": "83ib", "img": "Chevron.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "italy", "note": "Same white-on-black chevron in southern Europe.", "diff": "Plates + language decide." },
+      { "slug": "greece", "note": "Same chevron.", "diff": "Greek alphabet → Greece." },
+      { "slug": "spain", "note": "Same chevron.", "diff": "Spanish language + landscape → Spain." },
+      { "slug": "montenegro", "note": "Montenegro uses two DIFFERENT chevrons: black-on-white and red-on-yellow.", "diff": "White-on-black → Albania, never Montenegro." } ] },
+  { "cat": "country", "type": "signs", "text": "Backs of road signs often **painted black**", "src": ["plonkit"], "sv": null, "anchor": "Ndso", "img": "Black_back_of_sign.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "italy", "note": "Black sign backs common there too.", "diff": "Plates/language decide." },
+      { "slug": "romania", "note": "Black sign backs common there too.", "diff": "ă/ș/ț → Romania." } ] },
+  { "cat": "country", "type": "signs", "text": "Stop-sign **\"S\" has a distinct shape**: short ends angled like the middle (not vertical) — sometimes on directional signs too", "src": ["plonkit"], "sv": null, "anchor": "QA4i", "img": "al_stopsignss.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "italy", "note": "Italian stop + directional signs have the same S.", "diff": "Plates/language decide." } ] },
+  { "cat": "country", "type": "signs", "text": "Speed-sign numbers in a **bold font**", "src": ["plonkit"], "sv": null, "anchor": "IKcR", "img": "al_speedfont.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "montenegro", "note": "Montenegrin speed-sign font is much thinner.", "diff": "Bold → Albania." } ] },
+  { "cat": "country", "type": "utility", "text": "**Flat, wide guardrail endings** that bend away from the road", "src": ["plonkit"], "sv": null, "anchor": "nISa", "img": "al_guardrailending.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "italy", "note": "The same endings are found in Italy.", "diff": "Plates/language decide." } ] },
+  { "cat": "country", "type": "language", "text": "**Albanian**: not closely related to any European language — distinct look w/ **Ë ë** (& sometimes Ç ç); street = **rruga**", "src": ["plonkit"], "sv": null, "anchor": "92gY", "img": "Albanian.png", "imgs": ["Rruga.png"], "uniq": "unique" },
+  { "cat": "country", "type": "landscape", "text": "Mountainous, Mediterranean climate; green mountains w/ rock patches; flat agricultural valleys in between; lots of **exposed red soil** next to roads", "src": ["plonkit"], "sv": null, "anchor": "imi2", "img": "Landscape.png", "imgs": ["Red_soil.png"],
+    "uniq": "shared", "shared_with": [
+      { "slug": "greece", "note": "Greece also has similar red soil, especially near the Albanian border; in Montenegro it is less common.", "diff": "Greek alphabet → Greece; Ë/rruga → Albania." } ] },
+  { "cat": "country", "type": "arch", "text": "Lots of **cylinder water tanks on roofs**; Italian-style buildings (pastel, orange tiled roofs, blocky w/ balconies)", "src": ["plonkit"], "sv": null, "anchor": "2MxO", "img": "Water_tanks.png", "imgs": ["Italian_style_buildings.png"],
+    "uniq": "shared", "shared_with": [
+      { "slug": "montenegro", "note": "Water tanks are less common in Montenegro.", "diff": "Many tanks → Albania." },
+      { "slug": "turkey", "note": "Parts of Turkey have similar rooftop water tanks.", "diff": "Turkish language/plates → Turkey." } ] },
+  { "cat": "country", "type": "cars", "text": "**Mercedes** is by far the most popular car brand — esp. the classic sedan style", "src": ["plonkit"], "sv": null, "anchor": "LCAs", "img": "Mercedes2.png", "uniq": "unique*", "uniq_note": "As a *dominant* share of traffic this is an Albania tell within Europe; single Mercedes obviously prove nothing." },
+  { "cat": "region", "type": "cars", "text": "Gen3 car+camera meta splits the country in two: **long antenna + rifts in the sky** vs **short antenna + no rifts** (community map exists)", "src": ["plonkit"], "sv": null, "anchor": "dFse", "img": "Rift_coverage.png", "super": true },
+  { "cat": "region", "type": "landscape", "text": "Elevation: lowlands in the **west** (Shkodër, Tirana, Vlorë — farmland + low hills) + the flat **Korçë plateau** SE; highest, almost alpine mountains far **north & far south**", "src": ["plonkit"], "sv": null, "anchor": "yEQq", "img": "Albania_SRTM.png", "super": true },
+  { "cat": "special", "type": "landscape", "text": "**Spotlights**:", "bullets": [
+      "Theth NP road: tall jagged mountains w/ bare mountainsides",
+      "Eastern Montenegrin border: valley w/ tall fully-exposed cliff sides",
+      "Maja e Papingut (south): massive mountain w/ near-vertical cliff top",
+      "SH71 Pishaj–Kokel: wide, almost dried-out river valley SE→NW",
+      "SH4 Vlorë–Orikum: Bay of Vlorë w/ Karaburun peninsula + Sazan island",
+      "NW of Vlorë: coastal Aleppo-pine forest on small roads",
+      "SH4 Levan–Tepelenë + Greek border: double outer lines w/ wide gap" ],
+    "src": ["plonkit"], "sv": null, "anchor": "F6zP", "img": "al_theth.png", "imgs": ["al_montenegrobordervalley.png", "al_papingut.png", "al_lumidevoll.png", "Bay_of_Vlore.png", "al_vlorecoastalforest.png", "al_sh4lines.png"], "uniq": "unique" },
+  { "cat": "special", "type": "roads", "text": "**Divided highways** (only a handful covered):", "bullets": [
+      "A1 Fushë Milot–Thumanë: the only one w/ **triple guardrail**",
+      "SH2 Durrës–Tirana & SH4 Lushnjë–Rrogozhinë: simple concrete blocks",
+      "Tirana/Durrës + A3/SH3 south of Tirana: concrete blocks w/ grass in between",
+      "SH4 Durrës–Fier: basic double guardrail, no mountains",
+      "E851: the only double-guardrail road going straight through mountains",
+      "A2 north of Vlorë: flat surroundings + extra-tall fence on the divider" ],
+    "src": ["plonkit"], "sv": null, "anchor": "uBm9", "img": "al_a1.png", "imgs": ["al_dividedconcrete.png", "al_dividedconcretegrass.png", "al_sh4.png", "al_e851.png", "al_a2.png"], "uniq": "unique" },
+  { "cat": "city", "type": "landscape", "text": "**Lezhë**: old castle on a tall hill; **Gjirokastër**: city on the western hillside of a wide valley", "src": ["plonkit"], "sv": null, "anchor": "Wxzu", "img": "al_lezhe.png", "imgs": ["al_gjirokaster.png"] }
  ]
 }

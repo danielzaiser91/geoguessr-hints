@@ -2021,19 +2021,29 @@ Study: [Plonk It](https://www.plonkit.net/belgium) · [GeoGuessr map](https://ww
 | Special | **Baarle-Hertog** (NE of Antwerp): BE/NL enclave patchwork — borders marked with **white crosses**, street signs reveal the country | [P](https://www.plonkit.net/belgium) |  |
 
 ## Albania
-Study: [Plonk It](https://www.plonkit.net/albania)
+Study: [Plonk It](https://www.plonkit.net/albania) · [GeoGuessr map](https://www.geoguessr.com/maps/63e1867f36099776e87daf42)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates: blue strips both sides OR a **single red strip on the left** — the only European country with red on the left (Italy = blue both but shorter front) | [P](https://www.plonkit.net/albania) |  |
-| Country | All Gen4 = **smallcam**; Gen3 often has **rifts** (poor stitching; equally common in Montenegro) | [P](https://www.plonkit.net/albania) |  |
-| Country | Bollards = **black top, red+grey reflector, white bottom** (Italy uses the same) | [P](https://www.plonkit.net/albania) |  |
-| Country | Poletops with an **upside-down triangle** shape (also RS/CZ/SK/RO) + simpler horizontal-bar poles | [P](https://www.plonkit.net/albania) |  |
-| Country | Chevrons **white on black** (Italy/Greece/Spain; Montenegro's differ); sign backs often painted black | [P](https://www.plonkit.net/albania) |  |
-| Country | Distinct **S-shape on stop signs** (short, angled ends — like Italy); bold speed-sign font (Montenegro's is thinner) | [P](https://www.plonkit.net/albania) |  |
-| Country | **Albanian** language: letters **Ë ë** (& Ç ç); street = **rruga** | [P](https://www.plonkit.net/albania) |  |
-| Country | Mountainous & Mediterranean; **exposed red soil** roadside; **rooftop cylinder water tanks**; Italian-style pastel buildings; **Mercedes** everywhere | [P](https://www.plonkit.net/albania) |  |
-| Region | Gen3 = long-antenna + rifts, or short-antenna + no rifts; lowlands in the west (Tirana/Shkodër/Vlorë) + the flat Korçë plateau SE; highest mountains far north & south | [P](https://www.plonkit.net/albania) |  |
+| Country | Plates: blue strips both sides OR a **single red strip on the left** | [P](https://www.plonkit.net/albania) |  |
+| Country | All Gen4 = **smallcam**: camera mounted low, big circular blur w/ small front protrusion (blur can be fully transparent) | [P](https://www.plonkit.net/albania) |  |
+| Country | **Rifts** (sky tears from poor stitching) rarely appear in Albanian Gen3 | [P](https://www.plonkit.net/albania) |  |
+| Country | Bollards: **black top, red + grey reflector, white-painted bottom** | [P](https://www.plonkit.net/albania) |  |
+| Country | Poletops w/ an **upside-down triangle** shape; simpler poles often have **horizontal bars** | [P](https://www.plonkit.net/albania) |  |
+| Country | Chevrons **white on black** | [P](https://www.plonkit.net/albania) |  |
+| Country | Backs of road signs often **painted black** | [P](https://www.plonkit.net/albania) |  |
+| Country | Stop-sign **"S" has a distinct shape**: short ends angled like the middle (not vertical) — sometimes on directional signs too | [P](https://www.plonkit.net/albania) |  |
+| Country | Speed-sign numbers in a **bold font** | [P](https://www.plonkit.net/albania) |  |
+| Country | **Flat, wide guardrail endings** that bend away from the road | [P](https://www.plonkit.net/albania) |  |
+| Country | **Albanian**: not closely related to any European language — distinct look w/ **Ë ë** (& sometimes Ç ç); street = **rruga** | [P](https://www.plonkit.net/albania) |  |
+| Country | Mountainous, Mediterranean climate; green mountains w/ rock patches; flat agricultural valleys in between; lots of **exposed red soil** next to roads | [P](https://www.plonkit.net/albania) |  |
+| Country | Lots of **cylinder water tanks on roofs**; Italian-style buildings (pastel, orange tiled roofs, blocky w/ balconies) | [P](https://www.plonkit.net/albania) |  |
+| Country | **Mercedes** is by far the most popular car brand — esp. the classic sedan style | [P](https://www.plonkit.net/albania) |  |
+| Region | Gen3 car+camera meta splits the country in two: **long antenna + rifts in the sky** vs **short antenna + no rifts** (community map exists) | [P](https://www.plonkit.net/albania) |  |
+| Region | Elevation: lowlands in the **west** (Shkodër, Tirana, Vlorë — farmland + low hills) + the flat **Korçë plateau** SE; highest, almost alpine mountains far **north & far south** | [P](https://www.plonkit.net/albania) |  |
+| City | **Lezhë**: old castle on a tall hill; **Gjirokastër**: city on the western hillside of a wide valley | [P](https://www.plonkit.net/albania) |  |
+| Special | **Spotlights**: | [P](https://www.plonkit.net/albania) |  |
+| Special | **Divided highways** (only a handful covered): | [P](https://www.plonkit.net/albania) |  |
 
 ## North Macedonia
 Study: [Plonk It](https://www.plonkit.net/north-macedonia)
