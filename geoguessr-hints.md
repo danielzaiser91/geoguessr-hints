@@ -2879,12 +2879,16 @@ Study: [Plonk It](https://www.plonkit.net/curacao)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Dutch Caribbean, north of Venezuela (counts as Netherlands); unique **black car w/ a roof rack**; square **all-white** plates | [P](https://www.plonkit.net/curacao) |  |
-| Country | Semi-arid climate → **cacti** commonly seen | [P](https://www.plonkit.net/curacao) |  |
-| Country | One-storey **pastel bungalows** (metal roofs on shacks, tiled on nicer houses) | [P](https://www.plonkit.net/curacao) |  |
-| Country | Road-sign **coloured borders (red/blue) wrap onto the back**; blue street signs on **yellow signposts** | [P](https://www.plonkit.net/curacao) |  |
-| Country | **Black-and-white striped traffic-light posts** in towns; wooden poles w/ 3 alternating insulators | [P](https://www.plonkit.net/curacao) |  |
-| Region | Dry green hills in the **west** (narrow roads, spread-out houses); **Willemstad** = Queen Juliana Bridge (yellow/blue guardrails); SE wind farm w/ rainy coverage | [P](https://www.plonkit.net/curacao) |  |
+| Country | Constituent country of the **Kingdom of the Netherlands**, north of Venezuela — **counts as Netherlands** in streaks | [P](https://www.plonkit.net/curacao) |  |
+| Country | **Square plates**, looking completely white through the blur (front plates mandatory but a minority go without) | [P](https://www.plonkit.net/curacao) |  |
+| Country | **Black car w/ a roof rack** — unique to Curaçao | [P](https://www.plonkit.net/curacao) |  |
+| Country | Semi-arid climate → **cacti** everywhere | [P](https://www.plonkit.net/curacao) |  |
+| Country | Simple **one-storey pastel bungalows** (metal roofs on shacks, tiles on nicer houses, some multi-storey villas) | [P](https://www.plonkit.net/curacao) |  |
+| Country | Sign borders (red/blue) **continue onto the back of the sign**; blue street signs on **yellow signposts** | [P](https://www.plonkit.net/curacao) |  |
+| Country | **Black-white striped traffic-light posts** in urban areas | [P](https://www.plonkit.net/curacao) |  |
+| Country | Wooden poles w/ **3 horizontal alternating insulators** | [P](https://www.plonkit.net/curacao) |  |
+| Region | **Western half**: semi-arid rural, green-but-dry hills, spread-out houses, narrow roads | [P](https://www.plonkit.net/curacao) |  |
+| Special | **Spotlights**: SE wind farm w/ notably **rainy coverage**; **Queen Juliana Bridge** (Willemstad) = wide 4-lane bridge w/ yellow-blue guardrails + city view; Grote Berg (centre) = a **stick stuck to the camera lens** | [P](https://www.plonkit.net/curacao) |  |
 
 # Oceania
 

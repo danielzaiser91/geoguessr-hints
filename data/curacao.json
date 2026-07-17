@@ -5,11 +5,19 @@
  "area_km2": 444,
  "links": { "plonkit": "https://www.plonkit.net/curacao", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Dutch Caribbean, north of Venezuela (counts as Netherlands); unique **black car w/ a roof rack**; square **all-white** plates", "src": ["plonkit"], "sv": null, "anchor": "IcNc", "img": "image.png", "type": "cars" },
-  { "cat": "country", "text": "Semi-arid climate → **cacti** commonly seen", "src": ["plonkit"], "sv": null, "anchor": "9ndl", "img": "cw_cacti.webp", "type": "landscape" },
-  { "cat": "country", "text": "One-storey **pastel bungalows** (metal roofs on shacks, tiled on nicer houses)", "src": ["plonkit"], "sv": null, "anchor": "nT9Q", "img": "image__281_29.png", "type": "arch" },
-  { "cat": "country", "text": "Road-sign **coloured borders (red/blue) wrap onto the back**; blue street signs on **yellow signposts**", "src": ["plonkit"], "sv": null, "anchor": "zAfQ", "img": "cw_signbackborder.png", "type": "signs" },
-  { "cat": "country", "text": "**Black-and-white striped traffic-light posts** in towns; wooden poles w/ 3 alternating insulators", "src": ["plonkit"], "sv": null, "anchor": "wuzk", "img": "image__283_29.png", "type": "utility" },
-  { "cat": "region", "text": "Dry green hills in the **west** (narrow roads, spread-out houses); **Willemstad** = Queen Juliana Bridge (yellow/blue guardrails); SE wind farm w/ rainy coverage", "src": ["plonkit"], "sv": null, "anchor": "DdrH", "img": "bridge.png", "type": "general" }
+  { "cat": "country", "type": "general", "text": "Constituent country of the **Kingdom of the Netherlands**, north of Venezuela — **counts as Netherlands** in streaks", "src": ["plonkit"], "sv": null, "anchor": "hvDX", "img": "1920px-Curacao_in_its_region.svg.png" },
+  { "cat": "country", "type": "plates", "text": "**Square plates**, looking completely white through the blur (front plates mandatory but a minority go without)", "src": ["plonkit"], "sv": null, "anchor": "IcNc", "img": "image.png" },
+  { "cat": "country", "type": "cars", "text": "**Black car w/ a roof rack** — unique to Curaçao", "src": ["plonkit"], "sv": null, "anchor": "Nchv", "img": "image__284_29.png", "uniq": "unique" },
+  { "cat": "country", "type": "landscape", "text": "Semi-arid climate → **cacti** everywhere", "src": ["plonkit"], "sv": null, "anchor": "9ndl", "img": "cw_cacti.webp" },
+  { "cat": "country", "type": "arch", "text": "Simple **one-storey pastel bungalows** (metal roofs on shacks, tiles on nicer houses, some multi-storey villas)", "src": ["plonkit"], "sv": null, "anchor": "nT9Q", "img": "image__281_29.png" },
+  { "cat": "country", "type": "signs", "text": "Sign borders (red/blue) **continue onto the back of the sign**; blue street signs on **yellow signposts**", "src": ["plonkit"], "sv": null, "anchor": "zAfQ", "img": "cw_signbackborder.png", "imgs": ["cw_yellowsignpost.png"], "uniq": "unique" },
+  { "cat": "country", "type": "utility", "text": "**Black-white striped traffic-light posts** in urban areas", "src": ["plonkit"], "sv": null, "anchor": "YPX7", "img": "image__282_29.png" },
+  { "cat": "country", "type": "utility", "text": "Wooden poles w/ **3 horizontal alternating insulators**", "src": ["plonkit"], "sv": null, "anchor": "wuzk", "img": "image__283_29.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "brazil", "note": "Same poletops there.", "diff": "Caribbean cacti island vs Brazil — context obvious." },
+      { "slug": "south-africa", "note": "Same poletops.", "diff": "Driving side + landscape decide." },
+      { "slug": "eswatini", "note": "Same poletops.", "diff": "Continent context." } ] },
+  { "cat": "region", "type": "landscape", "text": "**Western half**: semi-arid rural, green-but-dry hills, spread-out houses, narrow roads", "src": ["plonkit"], "sv": null, "anchor": "SRsK", "img": "rural.png", "super": true },
+  { "cat": "special", "type": "landscape", "text": "**Spotlights**: SE wind farm w/ notably **rainy coverage**; **Queen Juliana Bridge** (Willemstad) = wide 4-lane bridge w/ yellow-blue guardrails + city view; Grote Berg (centre) = a **stick stuck to the camera lens**", "src": ["plonkit"], "sv": null, "anchor": "zB68", "img": "wind.png", "imgs": ["bridge.png", "stick.png"], "uniq": "unique" }
  ]
 }
