@@ -2828,17 +2828,20 @@ Study: [Plonk It](https://www.plonkit.net/ecuador)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates white, a **mix of short & long** (unique in Latin America); commercial = **orange** (solid or an orange top bar) | [P](https://www.plonkit.net/ecuador) |  |
-| Country | Gen3 white car w/ a **stubby antenna** (also MX/BR/CO); Gen4 white pickup w/ **black trunk, no antenna** (Panama/Costa Rica have a front antenna) | [P](https://www.plonkit.net/ecuador) |  |
-| Country | **Shitcam** — Ecuador is the only Latin American country with it (wide blur, brownish, sometimes a red logo up front) | [P](https://www.plonkit.net/ecuador) |  |
-| Country | **Bollards very common** (rare in LatAm): round w/ 2 red stripes, or flat w/ 2 red reflectors on black | [P](https://www.plonkit.net/ecuador) |  |
-| Country | **Ladder poles** (many small indents) — ~unique in Latin America (Brazil's waffle poles have only a few) | [P](https://www.plonkit.net/ecuador) |  |
-| Country | Concrete roads common; **double guardrails** very common (rare elsewhere in South America) | [P](https://www.plonkit.net/ecuador) |  |
-| Country | **Chevron spam** in curves — noticeably more than most Latin American countries | [P](https://www.plonkit.net/ecuador) |  |
-| Country | Lots of square white road signs; km markers **green w/ the Ecuadorian highway shield** | [P](https://www.plonkit.net/ecuador) |  |
-| Country | **Teal-blue sign backs** (only LatAm country to use them); one/two-way signs w/ text inside the arrow (also DR/PR) | [P](https://www.plonkit.net/ecuador) |  |
-| Country | Houses mostly **grey brick + metal roofs** (Peru/Bolivia use red brick); hexagonal-tile pavement in cities | [P](https://www.plonkit.net/ecuador) |  |
-| Region | Coverage western (Amazon mostly uncovered; + Galápagos trekker); **Andes** run down the middle, flat E/W; **'high antenna' = northern half**; banana plantations SW | [P](https://www.plonkit.net/ecuador) |  |
+| Country | Plates white, a **mix of short & long** — the only Latin American country with both; commercial (taxis/buses) = **solid orange** or orange top bar | [P](https://www.plonkit.net/ecuador) |  |
+| Country | Gen3: white car w/ **stubby coiled antenna**; Gen4: **white pickup w/ black trunk, NO antenna** | [P](https://www.plonkit.net/ecuador) |  |
+| Country | **Shitcam** coverage (official Ari): wide circular blur, brownish colours, sometimes a **red logo** at the front — the only Latin American country with it | [P](https://www.plonkit.net/ecuador) |  |
+| Country | **Bollards very common** (rare in LatAm): round w/ **2 red stripes**, or flat black w/ 2 red reflectors (variants keep the scheme) | [P](https://www.plonkit.net/ecuador) |  |
+| Country | Poles mostly round concrete (generic); the useful one: **ladder pole w/ MANY small indents** — more or less unique in LatAm (Brazil's waffle poles have only a few) | [P](https://www.plonkit.net/ecuador) |  |
+| Country | **Concrete roads** relatively common; **double guardrails** very common (rare elsewhere in S. America) | [P](https://www.plonkit.net/ecuador) |  |
+| Country | **Chevron spam** in curves — far more chevrons than most of LatAm (Colombia occasionally too); lots of **square white road signs** | [P](https://www.plonkit.net/ecuador) |  |
+| Country | km markers **green w/ the Ecuadorian highway shield** | [P](https://www.plonkit.net/ecuador) |  |
+| Country | Sign backs sometimes painted **teal blue** (thin metal posts) — the only LatAm country; one/two-way signs w/ **text inside the arrow** (otherwise only DR & PR in LatAm) | [P](https://www.plonkit.net/ecuador) |  |
+| Country | Houses mostly **grey brick + metal roofs**; hexagonal-tile pavement in some urban areas | [P](https://www.plonkit.net/ecuador) |  |
+| Region | Coverage centred **west** (much of the Amazon uncovered; Galápagos = trekkers); Gen4 nearly everywhere except NW + SE; **antenna meta: 'high antenna' (wire above halfway) = always northern half** | [P](https://www.plonkit.net/ecuador) |  |
+| Region | **Landscape**: Andes through the middle, flat east & west; bananas → southwest; extremely dry coast → only Guayaquil↔Manta; flattest → around Guayaquil (E-25/E-48); **Amazon** = flat + white-barked Cordia trees + oil palms (almost always high antenna); Esmeraldas = Amazon-like but hillier; south = winding mountain roads w/ exposed brown-red dirt; Chimborazo = semi-arid + pines | [P](https://www.plonkit.net/ecuador) |  |
+| Region | **Taxi/plate letter = province** (first letter usually matches the province name; beware P = Pichincha/Quito appears elsewhere); poles w/ oval see-through holes → Loja; black-yellow painted guardrails → Guayas | [P](https://www.plonkit.net/ecuador) |  |
+| Special | **Spotlights**: E-40 (Salinas↔Guayaquil) = one of the only divided highways, in the dry SW; brown pipe alongside some NE roads; **Galápagos** = trekkers + boats only — volcanic soil, low shrubs, craters, giant tortoises | [P](https://www.plonkit.net/ecuador) |  |
 
 ## Uruguay
 Study: [Plonk It](https://www.plonkit.net/uruguay)

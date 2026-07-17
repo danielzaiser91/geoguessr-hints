@@ -7991,122 +7991,254 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Plates white, a **mix of short & long** (unique in Latin America); commercial = **orange** (solid or an orange top bar)",
+     "type": "plates",
+     "text": "Plates white, a **mix of short & long** — the only Latin American country with both; commercial (taxis/buses) = **solid orange** or orange top bar",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "8Xg1",
      "img": "Ecuador_License_Plate.png",
-     "type": "plates"
+     "uniq": "unique*",
+     "uniq_note": "The short+long mix is the tell; orange commercial plates also exist in Chile."
     },
     {
      "cat": "country",
-     "text": "Gen3 white car w/ a **stubby antenna** (also MX/BR/CO); Gen4 white pickup w/ **black trunk, no antenna** (Panama/Costa Rica have a front antenna)",
+     "type": "cars",
+     "text": "Gen3: white car w/ **stubby coiled antenna**; Gen4: **white pickup w/ black trunk, NO antenna**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "HsDH",
      "img": "ec_antenna.png",
-     "type": "cars"
+     "imgs": [
+      "Screenshot__281151_29.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "colombia",
+       "note": "Same antenna; on a BLACK car it's Colombia-only (Colombia can have white too).",
+       "diff": "Teal sign backs + bollards → Ecuador."
+      },
+      {
+       "slug": "mexico",
+       "note": "Same stubby antenna.",
+       "diff": "Regional context decides."
+      },
+      {
+       "slug": "brazil",
+       "note": "Same antenna.",
+       "diff": "Portuguese → Brazil."
+      },
+      {
+       "slug": "panama",
+       "note": "PA/CR pickups have a FRONT antenna.",
+       "diff": "No antenna on the truck → Ecuador."
+      },
+      {
+       "slug": "costa-rica",
+       "note": "CR truck has an antenna and is often visible.",
+       "diff": "No antenna → Ecuador."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Shitcam** — Ecuador is the only Latin American country with it (wide blur, brownish, sometimes a red logo up front)",
+     "type": "cars",
+     "text": "**Shitcam** coverage (official Ari): wide circular blur, brownish colours, sometimes a **red logo** at the front — the only Latin American country with it",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "CduU",
      "img": "ecua_shitcam_with_logo.png",
-     "type": "cars"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "**Bollards very common** (rare in LatAm): round w/ 2 red stripes, or flat w/ 2 red reflectors on black",
+     "type": "bollards",
+     "text": "**Bollards very common** (rare in LatAm): round w/ **2 red stripes**, or flat black w/ 2 red reflectors (variants keep the scheme)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "cF1l",
      "img": "Bollards-EC.png",
-     "type": "bollards"
+     "uniq": "unique*",
+     "uniq_note": "Within Latin America a bollard-heavy round leans Ecuador; a similar rectangle exists in Malaysia."
     },
     {
      "cat": "country",
-     "text": "**Ladder poles** (many small indents) — ~unique in Latin America (Brazil's waffle poles have only a few)",
+     "type": "utility",
+     "text": "Poles mostly round concrete (generic); the useful one: **ladder pole w/ MANY small indents** — more or less unique in LatAm (Brazil's waffle poles have only a few)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "ki46",
      "img": "Ecua_poles.png",
-     "type": "utility"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "brazil",
+       "note": "Brazilian ladder/waffle poles have far fewer indents.",
+       "diff": "Many indents → Ecuador."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Concrete roads common; **double guardrails** very common (rare elsewhere in South America)",
+     "type": "utility",
+     "text": "**Concrete roads** relatively common; **double guardrails** very common (rare elsewhere in S. America)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "3DE7",
-     "img": "Double_guardrails.png",
-     "type": "utility"
+     "anchor": "8XgY",
+     "img": "Concrete_roads.png",
+     "imgs": [
+      "Double_guardrails.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "**Chevron spam** in curves — noticeably more than most Latin American countries",
+     "type": "signs",
+     "text": "**Chevron spam** in curves — far more chevrons than most of LatAm (Colombia occasionally too); lots of **square white road signs**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "ynOS",
      "img": "Chevron_spam2.png",
-     "type": "signs"
+     "imgs": [
+      "Square_signs.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Lots of square white road signs; km markers **green w/ the Ecuadorian highway shield**",
+     "type": "signs",
+     "text": "km markers **green w/ the Ecuadorian highway shield**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "LwpU",
-     "img": "Square_signs.png",
-     "type": "signs"
+     "anchor": "4F5m",
+     "img": "KM_marker.png",
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "**Teal-blue sign backs** (only LatAm country to use them); one/two-way signs w/ text inside the arrow (also DR/PR)",
+     "type": "signs",
+     "text": "Sign backs sometimes painted **teal blue** (thin metal posts) — the only LatAm country; one/two-way signs w/ **text inside the arrow** (otherwise only DR & PR in LatAm)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "rhiO",
      "img": "Teal_sign_back.png",
-     "type": "signs"
+     "imgs": [
+      "ecuador_one_way.jpeg"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "Teal backs = instant Ecuador within South America."
     },
     {
      "cat": "country",
-     "text": "Houses mostly **grey brick + metal roofs** (Peru/Bolivia use red brick); hexagonal-tile pavement in cities",
+     "type": "arch",
+     "text": "Houses mostly **grey brick + metal roofs**; hexagonal-tile pavement in some urban areas",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "r9a6",
      "img": "round__281_29.png",
-     "type": "arch"
+     "imgs": [
+      "Hexagonal_tiles.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "peru",
+       "note": "Peru leans red brick.",
+       "diff": "Grey → Ecuador."
+      },
+      {
+       "slug": "bolivia",
+       "note": "Bolivia is dominated by red brick.",
+       "diff": "Grey → Ecuador; red → Bolivia."
+      }
+     ]
     },
     {
      "cat": "region",
-     "text": "Coverage western (Amazon mostly uncovered; + Galápagos trekker); **Andes** run down the middle, flat E/W; **'high antenna' = northern half**; banana plantations SW",
+     "type": "general",
+     "text": "Coverage centred **west** (much of the Amazon uncovered; Galápagos = trekkers); Gen4 nearly everywhere except NW + SE; **antenna meta: 'high antenna' (wire above halfway) = always northern half**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "landscape"
+     "anchor": "7ek9",
+     "img": "ec_coverage.png",
+     "imgs": [
+      "EcuaGen43.png",
+      "Antenna-EC.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Landscape**: Andes through the middle, flat east & west; bananas → southwest; extremely dry coast → only Guayaquil↔Manta; flattest → around Guayaquil (E-25/E-48); **Amazon** = flat + white-barked Cordia trees + oil palms (almost always high antenna); Esmeraldas = Amazon-like but hillier; south = winding mountain roads w/ exposed brown-red dirt; Chimborazo = semi-arid + pines",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "g3pY",
+     "img": "Ecuador_relief_location_map.svg.png",
+     "imgs": [
+      "banana-plants-EC.png",
+      "ec_dry.png",
+      "Flat-EC.png",
+      "ec_amazon.png",
+      "Esmeraldes-EC.png",
+      "ec_southernregion.png",
+      "ec_chimborazo.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "naming",
+     "text": "**Taxi/plate letter = province** (first letter usually matches the province name; beware P = Pichincha/Quito appears elsewhere); poles w/ oval see-through holes → Loja; black-yellow painted guardrails → Guayas",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "H10J",
+     "img": "ec_taxi.png",
+     "imgs": [
+      "image(1).png",
+      "guayas_guardrail.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "roads",
+     "text": "**Spotlights**: E-40 (Salinas↔Guayaquil) = one of the only divided highways, in the dry SW; brown pipe alongside some NE roads; **Galápagos** = trekkers + boats only — volcanic soil, low shrubs, craters, giant tortoises",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "7DsW",
+     "img": "ec_e40.png",
+     "imgs": [
+      "ThickGreyPipe.png",
+      "Galapagos-EC.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },
