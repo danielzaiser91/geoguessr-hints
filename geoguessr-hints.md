@@ -1747,23 +1747,27 @@ Study: [Plonk It](https://www.plonkit.net/austria)
 | Special | **Lake Constance** on the western border — vast, unlike any mountain lake; Gen2 only on one Burgenland road + ski trekkers | [P](https://www.plonkit.net/austria) |  |
 
 ## Czechia
-Study: [Plonk It](https://www.plonkit.net/czechia)
+Study: [Plonk It](https://www.plonkit.net/czechia) · [GeoGuessr map](https://www.geoguessr.com/maps/64296e3d073f3a44a134da0c)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Bollards: **orange double reflector front / single white back** (only Czechia + Slovakia); rare blue/red variants | [P](https://www.plonkit.net/czechia) |  |
-| Country | Special **extra-wide B-type guardrail** used only by Czechia & Slovakia | [P](https://www.plonkit.net/czechia) |  |
-| Country | Wide round concrete poles, often attached in **pairs**; trident / upside-down-triangle poletops | [P](https://www.plonkit.net/czechia) |  |
-| Country | Chevrons **white w/ red arrows**; temporary **red-and-white striped signposts** common | [P](https://www.plonkit.net/czechia) |  |
-| Country | Stripy **gas/water poles** (snow-pole-like) often next to the road | [P](https://www.plonkit.net/czechia) |  |
-| Country | **Hiking markers** (one colour strip between two white) common (also SK/PL/HU) | [P](https://www.plonkit.net/czechia) |  |
-| Country | Prefab **panel apartment blocks** — well-maintained, vibrant colours/patterns; **diamond-tile roofs** | [P](https://www.plonkit.net/czechia) |  |
-| Country | Gen3 antenna w/ **grey tape** on top (also HU/RO/BG); red, black & white Gen4 cars; rare Gen2 (Slovakia has none) | [P](https://www.plonkit.net/czechia) |  |
-| Country | **Czech** distinct letters **Ř Ě Ů** (Slovak: Ľ Ô Ä Ŕ Ĺ); street = **ulice** (not ulica) | [P](https://www.plonkit.net/czechia) |  |
-| Country | Bright **red street signs** (wall or post) + blue/red house-number signs; km markers have a **yellow outline, no middle line** | [P](https://www.plonkit.net/czechia) |  |
-| Country | Black **bridge-end signs** with the road number on the left (Gen4) | [P](https://www.plonkit.net/czechia) |  |
-| Region | Landscape = **rolling hills** + altitude changes, few tall mountains (Slovakia = more mountains + flat areas); grey/snowy winter Gen3 | [P](https://www.plonkit.net/czechia) |  |
-| State | Road number **first digit 1–6 = region**; roads 7/8/9 all start in **Prague** heading N/NW | [P](https://www.plonkit.net/czechia) |  |
+| Country | Bollards: **orange double reflectors front / single white back** (rare blue/red variants) | [P](https://www.plonkit.net/czechia) |  |
+| Country | **Extra-wide B-type guardrails** — only CZ+SK in Europe (SK occasionally uses others; CZ consistent) | [P](https://www.plonkit.net/czechia) |  |
+| Country | Wide round concrete poles, often **in pairs**; poletops w/ short metal bars; upside-down-triangle supports (also DE/AL/RS/RO); **upward-angled trident tops = CZ+SK only**; lamp posts w/ thick bolted base | [P](https://www.plonkit.net/czechia) |  |
+| Country | Temporary square posts in **red-white stripes**; chevrons white w/ red arrows (rarer red-on-yellow); stripy **gas/water poles** roadside; **hiking markers** (colour strip between two white) — most common in CZ+SK | [P](https://www.plonkit.net/czechia) |  |
+| Country | Prefab panel blocks in **good condition w/ vibrant colours/patterns** (nicer than elsewhere in the ex-East-bloc); **diamond-tile roofs** (also HU) | [P](https://www.plonkit.net/czechia) |  |
+| Country | Gen3 antenna w/ **grey tape on top** (also HU/RO/BG); Gen4 red, black or **white** car (white = CZ, not SK); much **grey winter Gen3**; rare Gen2 (SK: none) | [P](https://www.plonkit.net/czechia) |  |
+| Country | Black **bridge-end signs** w/ road number (Gen4) | [P](https://www.plonkit.net/czechia) |  |
+| Country | **Czech: Ř Ě Ů** (Slovak instead: Ľ Ô Ä Ŕ Ĺ); both use acute vowels (á é í …) — South Slavic doesn't; street = **ulice** (most Slavic: ulica) | [P](https://www.plonkit.net/czechia) |  |
+| Country | Rolling hills, constant altitude changes, few tall mountains (SK: more mountains AND more true flats); solid outer lines w/o centre line common (also DE) | [P](https://www.plonkit.net/czechia) |  |
+| Country | **CZ-vs-SK sign kit**: directional signs arrow-shaped w/ filled tip (SK: small white arrows); sign borders **separated from the edge** (SK: on the edge); highway signs w/ double border; street signs **bright red** (or blue; SK: white w/ red border + blue text); house numbers blue/red w/ white borders (SK: white w/ red/black border); posts w/ **thick black caps** (SK: none); ped signs 5 full-size stripes (SK smaller-scale); **thin sign font** (SK bold); km markers w/ yellow outline, no middle line (SK: middle line, no yellow); railway-cross signs w/o background (SK: white rectangle); bike signs yellow | [P](https://www.plonkit.net/czechia) |  |
+| Country | Suburban houses commonly **connected in pairs** (rarer in all neighbours) | [P](https://www.plonkit.net/czechia) |  |
+| Region | **Road numbers**: first digit 1–5 regional (6 scattered; 7/8/9 = Prague northward); 4-digit **bike paths increase clockwise** from S-Bohemia (A-paths = Prague); area codes = first 1–3 digits (SK numbers start with 0) | [P](https://www.plonkit.net/czechia) |  |
+| Region | **Moravia** = 95% of Czech wine; N-Bohemia = rolling land + steep solitary hills (sometimes castle-topped) | [P](https://www.plonkit.net/czechia) |  |
+| Region | **Architecture regions**: timber frames → northern German border; thick dark wooden support poles → far north; dark wooden houses w/ white line stripes → north; Moravian townhouses = long side to the road + **barn-sized doors** (also NE-Austria); **folk baroque** (decorated walls) → around České Budějovice; single-pane windows → northwest | [P](https://www.plonkit.net/czechia) |  |
+| Region | **Street-sign colours = region**: blue → east (Ostrava = only major blue city); white w/ blue text + red border (SK-style) → Slovak border; white w/ red text → east + far south (**Brno**); white w/ blue text → east + central north; white w/ black text → southeast | [P](https://www.plonkit.net/czechia) |  |
+| City | **City metas**: Prague = grey-white marble mosaic pavement (Portugal-like — check city size!); Zlín = functionalist red-brick Baťa cubes; Brno = **black+white house-number pairs** (district on the black one); Pilsen = two red-white octagonal plates; České Budějovice = red+white underlined plates; **Liberec** = red numbers w/ dividing line + Roman numeral; Písek = yellow numbers w/ black outline; Šumperk = blue signs, text fills the sign | [P](https://www.plonkit.net/czechia) |  |
+| Special | **Polish bilingual street signs** → Český Těšín (rarely nearby) | [P](https://www.plonkit.net/czechia) |  |
 
 ## Ireland
 Study: [Plonk It](https://www.plonkit.net/ireland)
