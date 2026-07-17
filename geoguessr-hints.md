@@ -39,24 +39,26 @@ Study: [Plonk It](https://www.plonkit.net/mali)
 | Special | **Gao** mosque (reddish dirt, pyramid w/ dry branches) & the iconic **Djenné** mud mosque | [P](https://www.plonkit.net/mali) |  |
 
 ## South Africa
-Study: [Plonk It](https://www.plonkit.net/south-africa)
+Study: [Plonk It](https://www.plonkit.net/south-africa) · [GeoGuessr map](https://www.geoguessr.com/maps/6929025bb05048c95545baa6)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Drives **left**; **single yellow outer + white centre lines** (also BW/SZ/LS/NA); unique **triple centre lines** on main roads | [P](https://www.plonkit.net/south-africa) |  |
-| Country | **Gen2 common** (the only African country with it) — big circular blur + sky halo; Gen4 = blue car w/ short antenna | [P](https://www.plonkit.net/south-africa) |  |
-| Country | **11 official languages**, English most on signage; **Afrikaans** suffixes -fontein/-kraal/-kop/-berg (nationwide, not region-useful) | [P](https://www.plonkit.net/south-africa) |  |
-| Country | Most common pole = **"bird poles"** (1–5 horizontal bars w/ thin white insulators like rows of birds) | [P](https://www.plonkit.net/south-africa) |  |
-| Country | **Green directional signs, yellow road number**; N & R roads = South Africa (A/B = BW/LS/NA, MR = Eswatini) | [P](https://www.plonkit.net/south-africa) |  |
-| Country | Triangular red/white warning signs; **white-and-red chevrons** + unique thin single-arrow chevrons | [P](https://www.plonkit.net/south-africa) |  |
-| Country | Suburban houses behind **high walls, fences & gates** (security) | [P](https://www.plonkit.net/south-africa) |  |
-| Region | NE = dry/barren orange-red soil + shrubby hills; **Western Cape** = rocky treeless sharp peaks + vineyards; Northern Cape = red-soil desert | [P](https://www.plonkit.net/south-africa) |  |
-| State | Each **province = own plate design** (Free State greenish, KwaZulu-Natal bluish); N-roads show as a **blue pentagon** on maps | [P](https://www.plonkit.net/south-africa) |  |
-| State | Landline area codes geographically grouped (even the first digit helps); 10-digit numbers | [P](https://www.plonkit.net/south-africa) |  |
-| State | Pole tops = **3 bars forming an 'A'**, bottom insulators on a horizontal bar (Eastern Cape's 'A' is wider) | [P](https://www.plonkit.net/south-africa) |  |
-| State | **Trident pole tops** almost unique to KwaZulu-Natal; sugarcane along the coast | [P](https://www.plonkit.net/south-africa) |  |
-| State | Poles with **1–2 metal arms** holding insulators most common here; '<'-shaped poles → NE provinces | [P](https://www.plonkit.net/south-africa) |  |
-| Special | **Kruger NP** = camo car + savanna (Mozambique border); Johannesburg poles plastered w/ dodgy adverts; **Table Mountain** flat plateau W of Cape Town | [P](https://www.plonkit.net/south-africa) |  |
+| Country | Drives on the **left** | [P](https://www.plonkit.net/south-africa) |  |
+| Country | **Single yellow outer + white centre lines** on most roads; occasionally unique **triple centre lines** (2 solid white + dashed inside, or white-yellow-white) on main roads | [P](https://www.plonkit.net/south-africa) |  |
+| Country | **Gen2 quite common** (big circular blur + sky halo) — the only African country with Gen2; Gen4 = **blue car w/ short antenna**; smallcam exists (short antenna on the back) | [P](https://www.plonkit.net/south-africa) |  |
+| Country | 11 official languages — **English** dominates signage; **Afrikaans** (Dutch-like): suffixes -fontein, -kraal, -kop, -dorp, -nek, -berg/-burg — found nationwide (NOT region-useful) | [P](https://www.plonkit.net/south-africa) |  |
+| Country | Most common pole = **'bird poles'**: 1–5 horizontal bars w/ thin white insulators like rows of perched birds | [P](https://www.plonkit.net/south-africa) |  |
+| Country | **Green directional signs w/ yellow road numbers**; number format = country: **N & R = South Africa only** (A/B = BW/LS/NA; +C/D/M/F = Namibia; MR = Eswatini) | [P](https://www.plonkit.net/south-africa) |  |
+| Country | Triangular **red-border warning signs** (Australia/NZ use yellow diamonds); chevrons **white-red** + unique thin single-arrow mini chevrons roadside | [P](https://www.plonkit.net/south-africa) |  |
+| Country | Suburban houses ringed by **high walls, fences & gates** | [P](https://www.plonkit.net/south-africa) |  |
+| Region | Each **province = own plate design**, some visible through blur: Free State = greenish tint, KwaZulu-Natal = bluish | [P](https://www.plonkit.net/south-africa) |  |
+| Region | **N-highway map** (maps show a blue pentagon instead of the N); **3-digit R-roads geographically grouped** (map; 100s scattered); **area codes**: 10 digits, 0 + 2 regional digits — even the first digit narrows it (06–08 = mobile, useless) | [P](https://www.plonkit.net/south-africa) |  |
+| Region | **Pole tops by province**: | [P](https://www.plonkit.net/south-africa) |  |
+| Region | **Sticker metas**: red squares on sign backs → Eastern Cape (+ nearby NC/FS/NW; on CHEVRON backs = everywhere); white stickers on chevron backs → the Cape provinces; grainy pinkish 'Texas' pavement → Limpopo; power plants → Secunda↔eMalahleni (Mpumalanga) | [P](https://www.plonkit.net/south-africa) |  |
+| Region | **Landscape**: | [P](https://www.plonkit.net/south-africa) |  |
+| City | **City metas**: unique M-route signs → Port Elizabeth (Gqeberha) & Durban; traffic lights wrapped in **3 reflective tape strips** → Johannesburg; Durban lamp arm w/ a bump on top; **dodgy abortion/enlargement ads** on poles → Gauteng (Joburg, eMalahleni) | [P](https://www.plonkit.net/south-africa) |  |
+| Special | **Kruger NP** (Mozambique border): camouflage car w/ black mirrors + roof racks (now also Gen4); flat dry savanna, red soil, no farms, distinctive **directional waystones** at junctions; gravel or lineless paved roads | [P](https://www.plonkit.net/south-africa) |  |
+| Special | **Spotlights**: R360 north of Bokspits = reddish asphalt, arid w/ grey trees + golden grass, N-S; **Table Mountain** (3-km plateau + pyramidal Devil's Peak) → west of Cape Town; George's Peak visible north of George | [P](https://www.plonkit.net/south-africa) |  |
 
 ## Egypt
 Study: [Plonk It](https://www.plonkit.net/egypt)
