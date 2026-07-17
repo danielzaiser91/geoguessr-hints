@@ -3909,7 +3909,7 @@
    "area_km2": 9984670,
    "links": {
     "plonkit": "https://www.plonkit.net/canada",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/61067f9608061c000157a851"
    },
    "videos": [
     {
@@ -3925,224 +3925,582 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Speed signs say **\"MAXIMUM\"** (US = \"SPEED LIMIT\"); km/h, higher numbers",
+     "type": "signs",
+     "text": "Speed signs say **'MAXIMUM'** in **km/h** — numbers higher than US ones, readable from afar; 'MAXIMUM' fits one line ('SPEED LIMIT' takes two)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "DqvA",
      "img": "Canada_maximum_sign.png",
-     "type": "signs"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "usa",
+       "note": "US signs say 'SPEED LIMIT' in miles, often ending in 5.",
+       "diff": "'MAXIMUM' → Canada."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "British English (centre, colour) + metric; less wordy signs than the US",
+     "type": "signs",
+     "text": "Signs **less wordy** than the US: railroad crossbucks & yield signs typically **blank**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "uDWd",
+     "img": "Canada_less_wordy_signs.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "usa",
+       "note": "US spells out 'RAILROAD CROSSING' and 'YIELD'.",
+       "diff": "Blank versions → Canada."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "language",
+     "text": "**British spelling** (centre, colour) + **metric system**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "LqkP",
      "img": "Canada_British_English_and_metric_v2.png",
-     "type": "general"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "usa",
+       "note": "US: American spelling + imperial (miles, feet).",
+       "diff": "'colour/centre' + km → Canada."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Diamond/checkerboard T-intersection sign = Canada only** (US uses rectangular)",
+     "type": "signs",
+     "text": "**Diamond-shaped checkerboard T-intersection signs** — the only country in the world with these",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "zycw",
      "img": "Checkerboard.png",
-     "type": "signs"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Usually **single** yellow centre line (US = more double yellow)",
+     "type": "markings",
+     "text": "Usually **single yellow centre line** (double yellow decently common though)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "MiOa",
      "img": "Road_lines.png",
-     "type": "markings"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "usa",
+       "note": "Double yellow is more common in the US.",
+       "diff": "Not 100% reliable — combine with other clues."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Lots of **Gen2** (rural/remote) → if Gen2 in N. America, likely Canada; Gen3 mirror = two peaks (US single)",
+     "type": "cars",
+     "text": "Fair amount of **Gen2** (esp. rural/remote): big circular blur + halo-like sky distortion; Gen3 much more common than in the US, side-mirror blur = **two peaks** (US: single peak)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "jkB6",
      "img": "Canada_gen_2.png",
-     "type": "cars"
+     "imgs": [
+      "gen3_blurs.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "usa",
+       "note": "Gen2 is very rare in the US (except Alaska/Hawaii).",
+       "diff": "North American Gen2 → lean Canada; two-peak mirror → Canada."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Canada Post **red** logo; communal mailboxes (rare in US, USPS = blue)",
+     "type": "general",
+     "text": "**Communal mailboxes** (very rare in the US); Canada Post logo is **red** (USPS = blue)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "b7hs",
      "img": "Canada_communal_mailbox.png",
-     "type": "general"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "usa",
+       "note": "USPS blue logo; hardly any communal boxes.",
+       "diff": "Red post logo → Canada."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "general",
+     "text": "**North America vs Europe tells** (US + Canada): post mailboxes w/ flag; wooden poles + cylindrical metal transformers (never Europe); raised single insulator; short plates w/o blue strip; overhead stoplight bars; holed/U-profile signposts; tall water towers w/ town names; Gen4 smallcam w/ right mirror visible",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "6tmz",
+     "img": "mailbox_4.png",
+     "imgs": [
+      "canadian_pole_2.png",
+      "single_insulator_2.png",
+      "License_plates.png",
+      "Traffic_light.png",
+      "Canadian_signposts.png",
+      "Watertower_2.png",
+      "Smallcam_NA_.png"
+     ],
+     "super": true
     },
     {
      "cat": "region",
-     "text": "West very **mountainous** (BC, W. Alberta, Yukon); Great Plains prairies flat w/ agriculture in the centre",
+     "type": "plates",
+     "text": "Each province = own **plate design** (some readable blurred); several provinces don't require **front plates** (NB dropped them 2019 but older coverage still shows them; NL commercial vehicles keep front plates)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "nQn9",
-     "img": "Canada_mountains2.png",
-     "type": "landscape"
+     "anchor": "Xmvk",
+     "img": "ca_license_plates_updated.png.png",
+     "super": true
     },
     {
      "cat": "region",
-     "text": "**Canadian Shield** (rocky outcrops + lakes + boreal forest) across the east",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "lFnl",
-     "img": "Canada_Map32.png",
-     "type": "landscape"
-    },
-    {
-     "super": true,
-     "cat": "state",
-     "text": "Area codes learnable by province; each province has its own **plate** design + flag",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "wJ1d",
-     "img": "Canada_area_codes2.png",
-     "type": "naming"
-    },
-    {
-     "cat": "state",
-     "area": "Alberta",
-     "text": "**Bollard**: cylindrical, 2 black bands (white or yellow band between); very common at intersections",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "GAxI",
-     "img": "Alberta_bollard.png",
-     "type": "bollards"
-    },
-    {
-     "super": true,
-     "cat": "state",
-     "area": "Alberta",
-     "text": "Rural roads **numbered sequentially** (Twp Rd / Range Rd) → near-exact location from a sign",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "f2ba",
-     "img": "Alberta_road_system.png",
-     "type": "naming"
-    },
-    {
-     "cat": "state",
-     "area": "British Columbia",
-     "text": "Thin, slightly curved black+white **bollard** (esp. Vancouver Island); often **concrete barriers** instead of guardrails",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "8sEO",
-     "img": "Canada_Map18.png",
-     "type": "bollards"
-    },
-    {
-     "cat": "state",
-     "area": "Manitoba",
-     "text": "Bollard with a plain **black top** (also Saskatchewan); green+white striped sticker on signposts",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "GjWG",
-     "img": "Canada_Map16.png",
-     "type": "bollards"
-    },
-    {
-     "cat": "state",
-     "area": "Northwest Territories",
-     "text": "**Bollard**: cylindrical with 2 *thick* black bands (Alberta's bands are thinner)",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "BSBp",
-     "img": "NWT_bollard.png",
-     "type": "bollards"
-    },
-    {
-     "cat": "state",
-     "area": "Ontario",
-     "text": "**Diamond** roadside markers; km markers with a white square at the bottom",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "s9c4",
-     "img": "Untitled_2200_1080_px_1.png",
-     "type": "signs"
-    },
-    {
-     "cat": "state",
-     "area": "Québec",
-     "text": "**French majority**; **\"Arrêt\"** stop sign = QC only (\"Stop/Arrêt\" bilingual = New Brunswick)",
+     "type": "language",
+     "text": "**French majority in Québec + parts of New Brunswick**; federal bilingualism → occasional bilingual signs anywhere (French communities also in NS/ON/MB)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "hHgh",
      "img": "French_In_Canada_4.png",
-     "type": "language"
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "signs",
+     "text": "Each province has its own **highway shield**; the green **Trans-Canada** shield appears in all 10 provinces; **km markers** vary by province — Ontario's have a unique **white square at the bottom**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "iAnh",
+     "img": "Highway_shield_map_of_Canada_2.png",
+     "imgs": [
+      "Canadian_KM_markers_map_w_numbers2.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "signs",
+     "text": "Speed-sign variants: Ontario = black bottom section w/ 'km/h' or 'BEGINS'; BC = 'km/h' without black section; Québec sometimes French text",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "wU9H",
+     "img": "Speed_limit_map_Canada4_darkmode.webp",
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "utility",
+     "text": "**Pole & transformer metas**:",
+     "bullets": [
+      "Transformer faces the road → BC & New Brunswick (elsewhere parallel to wires)",
+      "Transformer at 45° → PEI & Nova Scotia (PEI: red numbers on the side)",
+      "Insulators facing to/away from road → QC, NS, PEI (elsewhere parallel; avoid intersections)",
+      "Ontario poletop: 2 side insulators w/ distinct attachment + 1 on top (stackable)",
+      "Québec: insulator rods angled slightly up; vertical black-yellow 'Q' label",
+      "Saskatchewan: insulators ALTERNATE 1-left/2-right ↔ 2-left/1-right (rarely MB)",
+      "Manitoba: two hanging insulators",
+      "PEI: small white pole sticker"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "pK0p",
+     "img": "ca_transformers.png",
+     "imgs": [
+      "45_angle_transformers.png",
+      "Perpendicular_Insulators.png",
+      "Canada_Map20.png",
+      "Quebec_poletop.png",
+      "Infrastructure_-_SK_Alternating_Pole_Tops.png",
+      "Manitoba_pole.png",
+      "Quebec_yellow_sticker.png",
+      "PEI_Sticker_Hint.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "markings",
+     "text": "**Road-line metas**: double yellow in the East → most common Nova Scotia, then QC/PEI (Ontario prefers single); SK sometimes has **white dashes between the yellows**; centre rumble strips → AB & BC",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "KwMJ",
+     "img": "canada_double_road_lines.png",
+     "imgs": [
+      "SK-RoadLines_Guide_map.png",
+      "Alberta_Strip.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "signs",
+     "text": "Cones & chevrons: Ontario = **orange-black striped cones**; Québec = **orange-white cones** + the only province w/ **red-white chevrons** (rest of Canada: yellow-black)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "stpJ",
+     "img": "traffic-cones2_extra_whitespace.png",
+     "imgs": [
+      "PEI11.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "naming",
+     "text": "3-digit **area codes** by region (7-digit numbers omit them); **provincial flags** appear often (Québec's Fleurdelisé especially); **Acadian flag** (French tricolour + yellow star) → N/E New Brunswick + pockets of NS/PEI",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "wJ1d",
+     "img": "Canada_area_codes2.png",
+     "imgs": [
+      "ca_flags2.png",
+      "Acadian-flag-2.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Landscape regions**:",
+     "bullets": [
+      "High mountains only in BC, western Alberta, Yukon",
+      "Yukon: boreal hills, conifers shrinking northward, lots of Gen2",
+      "BC interior (Kamloops/Kelowna): arid brown grasslands + pine hillsides",
+      "Great Plains: flat farmland, few trees, driest toward the Montana border",
+      "Canola (bright yellow fields): central-southern prairies (also North Dakota!)",
+      "NW Québec (Rouyn-Noranda): N-S grid, fields between forests, thin birches",
+      "S Saskatchewan: barren hilly river valleys (rest of the prairies = flat)",
+      "Aspens (white birch-like trunks, bright yellow in fall): MB/SK/AB forests",
+      "Canadian Shield (east): exposed rock everywhere",
+      "Québec City–Windsor corridor: densest population, flat green patchwork (looks like the US Great Lakes)",
+      "PEI: distinct RED soil + potato farms (occasionally NB/NS)",
+      "Newfoundland: Christmas-tree-like balsam firs"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "nQn9",
+     "img": "Canada_mountains2.png",
+     "imgs": [
+      "Yukon_landscape.png",
+      "BC_interior.png",
+      "Canada_great_plains.png",
+      "ca_canola.png",
+      "Quebec_North.png",
+      "Saskatchewan_hills.png",
+      "Aspens.png",
+      "Canada_Map32.png",
+      "Quebec_City-Windsor_corridor_v2.png",
+      "PEI_Hint.png",
+      "Newfoundland_trees.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "state",
+     "area": "Alberta",
+     "type": "bollards",
+     "text": "**Bollard**: cylindrical black & white w/ 2 thin black bands — very common at intersections; band between can be yellow, rarely blue (Calgary) or green (Edmonton)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "GAxI",
+     "img": "Alberta_bollard.png",
+     "uniq": "unique*",
+     "uniq_note": "NWT uses the same shape with THICKER bands; BC's version is thinner with wider band spacing."
+    },
+    {
+     "cat": "state",
+     "area": "Alberta",
+     "type": "naming",
+     "text": "Rural roads numbered **sequentially in a grid**: Twp Rd = E–W (numbers rise northward), Rge Rd = N–S (rise westward, reset a few times) → near-exact location from one sign (similar naming rarely in SK); rare wire guardrails (posts + 3–4 metal wires) on major highways",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "f2ba",
+     "img": "Alberta_road_system.png",
+     "imgs": [
+      "ca_albertaguardrail.png"
+     ],
+     "super": true,
+     "uniq": "unique"
+    },
+    {
+     "cat": "state",
+     "area": "British Columbia",
+     "type": "bollards",
+     "text": "Thin, slightly curved black-white **bollard** (esp. Vancouver Island); **concrete barriers** instead of guardrails; signs can have **green backsides** (also PEI); signs sometimes hung from unique posts",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "8sEO",
+     "img": "Canada_Map18.png",
+     "imgs": [
+      "Canada_Map9.png",
+      "Green-backed_signs_map.png",
+      "BC_hanging_signs.png"
+     ]
+    },
+    {
+     "cat": "state",
+     "area": "Manitoba",
+     "type": "bollards",
+     "text": "Bollards black & grey, usually w/ an **orange stripe below the grey**; wooden rectangular version further north; plain black-top version → MB & SK; **green-white striped signpost sticker**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "GjWG",
+     "img": "Canada_Map16.png",
+     "imgs": [
+      "Canada_Map13.png"
+     ]
+    },
+    {
+     "cat": "state",
+     "area": "Manitoba",
+     "type": "naming",
+     "text": "Rural **grid roads named by number + cardinal**: 'Road 105N' = 105 miles north of the US border; E/W numbers count from the principal meridian just west of Winnipeg",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "mVCj",
+     "img": "manitoba_roads.png",
+     "super": true,
+     "uniq": "unique"
+    },
+    {
+     "cat": "state",
+     "area": "Northwest Territories",
+     "type": "bollards",
+     "text": "Bollard cylindrical w/ 2 **thick** black bands (Alberta's are thinner)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "BSBp",
+     "img": "NWT_bollard.png"
+    },
+    {
+     "cat": "state",
+     "area": "Ontario",
+     "type": "signs",
+     "text": "**Diamond roadside markers** (colours vary); guardrails of cylindrical wooden posts + exactly **3 metal wires** (some posts w/ white reflective band)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "s9c4",
+     "img": "Untitled_2200_1080_px_1.png",
+     "imgs": [
+      "Canada_Map19.png"
+     ]
     },
     {
      "cat": "state",
      "area": "Québec",
-     "text": "White **bollards attached to guardrails** (red/green reflector); orange & white striped traffic cones",
+     "type": "language",
+     "text": "**'Arrêt' stop signs = Québec only**; 'Stop/Arrêt' bilingual → most commonly New Brunswick (NB street signs bilingual too); QC T-intersection signs lack the checkerboard pattern",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "bfXS",
+     "img": "Canada_Map16__281_29.png",
+     "imgs": [
+      "Canada_Map1.png",
+      "Bilingual Street Signs.png",
+      "Checkerboard_T_Junction_Signs_QC_Guide_Map.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "state",
+     "area": "Québec",
+     "type": "bollards",
+     "text": "Long thin white **bollards attached to guardrails** w/ red or green top reflector; **yellow fire-hydrant markers** on signposts (Québec City: blue rectangle; Trois-Rivières: small; beware Edmundston NB); rectangular roadside markers (rarely NB divided highways)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "X21k",
      "img": "Quebec_bollard_v2.png",
-     "type": "bollards"
+     "imgs": [
+      "Quebec_Hydrant_markers.png",
+      "Untitled_design_1.png"
+     ]
     },
     {
      "cat": "state",
      "area": "Saskatchewan",
-     "text": "Alternating pole-top insulators (1L/2R ↔ 2L/1R); **white triangles** on signposts",
+     "type": "utility",
+     "text": "**White triangles on signposts** (count varies)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "JWTI",
      "img": "Sask_Spikes.png",
-     "type": "utility"
+     "uniq": "unique"
+    },
+    {
+     "cat": "state",
+     "area": "New Brunswick",
+     "type": "utility",
+     "text": "Rectangular **lampheads** (also NS); Nova Scotia lamp arms = short & curved; flat **yellow bollards** on the NB Trans-Canada Highway",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Qpy3",
+     "img": "New_Brunswick_Square_lamps.png",
+     "imgs": [
+      "nova_scotia_lamp.png",
+      "ca_nbtchwybollard.png"
+     ]
     },
     {
      "cat": "state",
      "area": "Newfoundland & Labrador",
-     "text": "Guardrail wooden posts with a **pyramid-shaped top**; diamond marker beside fire hydrants",
+     "type": "utility",
+     "text": "Guardrail posts w/ **pyramid-shaped tops**; diamond markers next to fire hydrants; **wooden sign boxes**; octagonal wood-plank bins on driveways; T-intersection signs w/ a yellow rectangular border",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "gj69",
      "img": "Newfounland_and_Labrador_pyramids.png",
-     "type": "utility"
+     "imgs": [
+      "NL-fire-hydrant-marker.png",
+      "Newfounland_and_Labrador_boxes.png",
+      "Newfoundland-bins.png",
+      "Checkerboard_T_Junction_Signs_NL_Guide_Map.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "roads",
+     "text": "**Road spotlights**:",
+     "bullets": [
+      "Dempster Hwy (YT-5/NWT-8 → Inuvik): unpaved Gen2, dark soil, tundra w/ short trees; flat + cloudier near Inuvik",
+      "Top of the World Hwy (W of Dawson City): overcast Gen2 high in the mountains",
+      "Hwy 1 near Beaver Creek (Yukon): group of motorcyclists ahead of the car",
+      "AB-93 (Banff/Jasper): steep sharp-peaked mountains both sides + thin tall trees",
+      "Drumheller (AB): treeless canyon-like rock formations",
+      "Trans-Labrador Hwy (500/510): sunny Gen4, thin pines, remote northern feel, low sun; snow near Happy Valley-Goose Bay",
+      "QC-167/QC-113: overcast Gen3 autumn, often snow + a lens smudge",
+      "Gaspé Peninsula inland: dense forested mountains, overcast",
+      "Cape Breton Highlands (NE NS): unusually much elevation, mixed forest",
+      "NL Route 430: SSW-NNE, washed-out lines, coast to the west, balsam firs + distant mountain wall east"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "hVpY",
+     "img": "Dempster_Highway.png",
+     "imgs": [
+      "Canada_Map21.png",
+      "Canada_Map31.png",
+      "ca_ab93.png",
+      "Drumheller_Gen4.png",
+      "NL510_map.png",
+      "quebec_gen3_snow_autumn.png",
+      "Gaspe-peninsula.png",
+      "Cape_Breton.png",
+      "NL_430_v3.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "cars",
+     "text": "**Remote towns & trekkers**:",
+     "bullets": [
+      "Iqaluit (NU capital): urban, turquoise bilingual street signs, bilingual speed signs",
+      "Churchill (N-MB): trekker w/ thin antenna front-right + unique street signs",
+      "Tulita (NWT): unique Google car + dark soil",
+      "Sanikiluaq (Hudson Bay): snowmobile, driver in dark brown coat visible",
+      "Inukjuak (N-QC): snowmobile visible through blur, NO driver (driver visible = Sanikiluaq)",
+      "Grise Fiord: northernmost covered town — unique mountains + ice floes",
+      "Resolute: barren w/ snow patches; Cambridge Bay: only NU Gen2 trekker",
+      "Qikiqtarjuaq: distinct mountains + red-tinted soil",
+      "Kangiqsualujjuaq (N-QC): green rocky hills, trees in the distance",
+      "Nain (Labrador): colourful wooden houses, big hill north, cliffs south, kids beside the trekker",
+      "Red Bay (S-Labrador): coast always visible, slightly red soil, white houses",
+      "Ellesmere Island: the world's northernmost coverage — glacier in barren rock (appears in competitive maps!)"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "ivWy",
+     "img": "Trekker_-_Iqaluit.png",
+     "imgs": [
+      "Trekker_-_Churchill.png",
+      "ca_tutila.png",
+      "Canada_Map7.png",
+      "Unukjuak_map.png",
+      "Grise_Fjord_Map.png",
+      "Resolute_Map.png",
+      "Qikiqtarjuaq_map.png",
+      "Northern_Quebec_Town_map.png",
+      "nainMap.png",
+      "Red_bay_map.png",
+      "Northernmost_trekker.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },

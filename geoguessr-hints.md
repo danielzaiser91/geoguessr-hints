@@ -2327,29 +2327,41 @@ Study: [Plonk It](https://www.plonkit.net/monaco)
 # North America
 
 ## Canada
-Study: [Plonk It](https://www.plonkit.net/canada)
+Study: [Plonk It](https://www.plonkit.net/canada) · [GeoGuessr map](https://www.geoguessr.com/maps/61067f9608061c000157a851)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Speed signs say **"MAXIMUM"** (US = "SPEED LIMIT"); km/h, higher numbers | [P](https://www.plonkit.net/canada) |  |
-| Country | British English (centre, colour) + metric; less wordy signs than the US | [P](https://www.plonkit.net/canada) |  |
-| Country | **Diamond/checkerboard T-intersection sign = Canada only** (US uses rectangular) | [P](https://www.plonkit.net/canada) |  |
-| Country | Usually **single** yellow centre line (US = more double yellow) | [P](https://www.plonkit.net/canada) |  |
-| Country | Lots of **Gen2** (rural/remote) → if Gen2 in N. America, likely Canada; Gen3 mirror = two peaks (US single) | [P](https://www.plonkit.net/canada) |  |
-| Country | Canada Post **red** logo; communal mailboxes (rare in US, USPS = blue) | [P](https://www.plonkit.net/canada) |  |
-| Region | West very **mountainous** (BC, W. Alberta, Yukon); Great Plains prairies flat w/ agriculture in the centre | [P](https://www.plonkit.net/canada) |  |
-| Region | **Canadian Shield** (rocky outcrops + lakes + boreal forest) across the east | [P](https://www.plonkit.net/canada) |  |
-| State | Area codes learnable by province; each province has its own **plate** design + flag | [P](https://www.plonkit.net/canada) |  |
-| State | **Bollard**: cylindrical, 2 black bands (white or yellow band between); very common at intersections | [P](https://www.plonkit.net/canada) |  |
-| State | Rural roads **numbered sequentially** (Twp Rd / Range Rd) → near-exact location from a sign | [P](https://www.plonkit.net/canada) |  |
-| State | Thin, slightly curved black+white **bollard** (esp. Vancouver Island); often **concrete barriers** instead of guardrails | [P](https://www.plonkit.net/canada) |  |
-| State | Bollard with a plain **black top** (also Saskatchewan); green+white striped sticker on signposts | [P](https://www.plonkit.net/canada) |  |
-| State | **Bollard**: cylindrical with 2 *thick* black bands (Alberta's bands are thinner) | [P](https://www.plonkit.net/canada) |  |
-| State | **Diamond** roadside markers; km markers with a white square at the bottom | [P](https://www.plonkit.net/canada) |  |
-| State | **French majority**; **"Arrêt"** stop sign = QC only ("Stop/Arrêt" bilingual = New Brunswick) | [P](https://www.plonkit.net/canada) |  |
-| State | White **bollards attached to guardrails** (red/green reflector); orange & white striped traffic cones | [P](https://www.plonkit.net/canada) |  |
-| State | Alternating pole-top insulators (1L/2R ↔ 2L/1R); **white triangles** on signposts | [P](https://www.plonkit.net/canada) |  |
-| State | Guardrail wooden posts with a **pyramid-shaped top**; diamond marker beside fire hydrants | [P](https://www.plonkit.net/canada) |  |
+| Country | Speed signs say **'MAXIMUM'** in **km/h** — numbers higher than US ones, readable from afar; 'MAXIMUM' fits one line ('SPEED LIMIT' takes two) | [P](https://www.plonkit.net/canada) |  |
+| Country | Signs **less wordy** than the US: railroad crossbucks & yield signs typically **blank** | [P](https://www.plonkit.net/canada) |  |
+| Country | **British spelling** (centre, colour) + **metric system** | [P](https://www.plonkit.net/canada) |  |
+| Country | **Diamond-shaped checkerboard T-intersection signs** — the only country in the world with these | [P](https://www.plonkit.net/canada) |  |
+| Country | Usually **single yellow centre line** (double yellow decently common though) | [P](https://www.plonkit.net/canada) |  |
+| Country | Fair amount of **Gen2** (esp. rural/remote): big circular blur + halo-like sky distortion; Gen3 much more common than in the US, side-mirror blur = **two peaks** (US: single peak) | [P](https://www.plonkit.net/canada) |  |
+| Country | **Communal mailboxes** (very rare in the US); Canada Post logo is **red** (USPS = blue) | [P](https://www.plonkit.net/canada) |  |
+| Country | **North America vs Europe tells** (US + Canada): post mailboxes w/ flag; wooden poles + cylindrical metal transformers (never Europe); raised single insulator; short plates w/o blue strip; overhead stoplight bars; holed/U-profile signposts; tall water towers w/ town names; Gen4 smallcam w/ right mirror visible | [P](https://www.plonkit.net/canada) |  |
+| Region | Each province = own **plate design** (some readable blurred); several provinces don't require **front plates** (NB dropped them 2019 but older coverage still shows them; NL commercial vehicles keep front plates) | [P](https://www.plonkit.net/canada) |  |
+| Region | **French majority in Québec + parts of New Brunswick**; federal bilingualism → occasional bilingual signs anywhere (French communities also in NS/ON/MB) | [P](https://www.plonkit.net/canada) |  |
+| Region | Each province has its own **highway shield**; the green **Trans-Canada** shield appears in all 10 provinces; **km markers** vary by province — Ontario's have a unique **white square at the bottom** | [P](https://www.plonkit.net/canada) |  |
+| Region | Speed-sign variants: Ontario = black bottom section w/ 'km/h' or 'BEGINS'; BC = 'km/h' without black section; Québec sometimes French text | [P](https://www.plonkit.net/canada) |  |
+| Region | **Pole & transformer metas**: | [P](https://www.plonkit.net/canada) |  |
+| Region | **Road-line metas**: double yellow in the East → most common Nova Scotia, then QC/PEI (Ontario prefers single); SK sometimes has **white dashes between the yellows**; centre rumble strips → AB & BC | [P](https://www.plonkit.net/canada) |  |
+| Region | Cones & chevrons: Ontario = **orange-black striped cones**; Québec = **orange-white cones** + the only province w/ **red-white chevrons** (rest of Canada: yellow-black) | [P](https://www.plonkit.net/canada) |  |
+| Region | 3-digit **area codes** by region (7-digit numbers omit them); **provincial flags** appear often (Québec's Fleurdelisé especially); **Acadian flag** (French tricolour + yellow star) → N/E New Brunswick + pockets of NS/PEI | [P](https://www.plonkit.net/canada) |  |
+| Region | **Landscape regions**: | [P](https://www.plonkit.net/canada) |  |
+| State | **Bollard**: cylindrical black & white w/ 2 thin black bands — very common at intersections; band between can be yellow, rarely blue (Calgary) or green (Edmonton) | [P](https://www.plonkit.net/canada) |  |
+| State | Rural roads numbered **sequentially in a grid**: Twp Rd = E–W (numbers rise northward), Rge Rd = N–S (rise westward, reset a few times) → near-exact location from one sign (similar naming rarely in SK); rare wire guardrails (posts + 3–4 metal wires) on major highways | [P](https://www.plonkit.net/canada) |  |
+| State | Thin, slightly curved black-white **bollard** (esp. Vancouver Island); **concrete barriers** instead of guardrails; signs can have **green backsides** (also PEI); signs sometimes hung from unique posts | [P](https://www.plonkit.net/canada) |  |
+| State | Bollards black & grey, usually w/ an **orange stripe below the grey**; wooden rectangular version further north; plain black-top version → MB & SK; **green-white striped signpost sticker** | [P](https://www.plonkit.net/canada) |  |
+| State | Rural **grid roads named by number + cardinal**: 'Road 105N' = 105 miles north of the US border; E/W numbers count from the principal meridian just west of Winnipeg | [P](https://www.plonkit.net/canada) |  |
+| State | Bollard cylindrical w/ 2 **thick** black bands (Alberta's are thinner) | [P](https://www.plonkit.net/canada) |  |
+| State | **Diamond roadside markers** (colours vary); guardrails of cylindrical wooden posts + exactly **3 metal wires** (some posts w/ white reflective band) | [P](https://www.plonkit.net/canada) |  |
+| State | **'Arrêt' stop signs = Québec only**; 'Stop/Arrêt' bilingual → most commonly New Brunswick (NB street signs bilingual too); QC T-intersection signs lack the checkerboard pattern | [P](https://www.plonkit.net/canada) |  |
+| State | Long thin white **bollards attached to guardrails** w/ red or green top reflector; **yellow fire-hydrant markers** on signposts (Québec City: blue rectangle; Trois-Rivières: small; beware Edmundston NB); rectangular roadside markers (rarely NB divided highways) | [P](https://www.plonkit.net/canada) |  |
+| State | **White triangles on signposts** (count varies) | [P](https://www.plonkit.net/canada) |  |
+| State | Rectangular **lampheads** (also NS); Nova Scotia lamp arms = short & curved; flat **yellow bollards** on the NB Trans-Canada Highway | [P](https://www.plonkit.net/canada) |  |
+| State | Guardrail posts w/ **pyramid-shaped tops**; diamond markers next to fire hydrants; **wooden sign boxes**; octagonal wood-plank bins on driveways; T-intersection signs w/ a yellow rectangular border | [P](https://www.plonkit.net/canada) |  |
+| Special | **Road spotlights**: | [P](https://www.plonkit.net/canada) |  |
+| Special | **Remote towns & trekkers**: | [P](https://www.plonkit.net/canada) |  |
 
 ## United States
 Study: [Plonk It](https://www.plonkit.net/usa) · [GeoGuessr map](https://www.geoguessr.com/maps/61dfb63654e4730001e8faf5)
