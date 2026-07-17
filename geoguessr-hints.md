@@ -2967,11 +2967,13 @@ Study: [Plonk It](https://www.plonkit.net/us-minor-outlying-islands)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | US territory chain (counts as US); nearly all pinpointable coverage is the **Midway Atoll**, shot on a **Gen2** camera (find it just west of the 'North Pacific Ocean' map label) | [P](https://www.plonkit.net/us-minor-outlying-islands) |  |
-| Country | **Albatrosses on almost every Midway location** (and birds all over the chain) — the standout tell | [P](https://www.plonkit.net/us-minor-outlying-islands) |  |
-| Region | Midway = two **runways** (nicely paved W–E on the south side; poorly paved N–S) + a small village on the east side | [P](https://www.plonkit.net/us-minor-outlying-islands) |  |
-| Region | Other islands = **Gen3 trekker**, low bushy vegetation, many birds (Lisianski = shore bushes ring; French Frigate Shoals = most birds; East Island = tiny, ocean all around) | [P](https://www.plonkit.net/us-minor-outlying-islands) |  |
-| Region | The western corner of the Midway runway is **one of the most common spots on the official GeoGuessr world map** — worth memorising | [P](https://www.plonkit.net/us-minor-outlying-islands) |  |
+| Country | US territory chain (**counts as US**); the only island w/ pinpointable coverage is the **Midway Atoll** — find it slightly west of the 'North Pacific Ocean' map label | [P](https://www.plonkit.net/us-minor-outlying-islands) |  |
+| Country | Midway coverage = **Gen2 camera** | [P](https://www.plonkit.net/us-minor-outlying-islands) |  |
+| Country | **Albatrosses on almost every Midway location** — the standout tell (only the runways can be albatross-free) | [P](https://www.plonkit.net/us-minor-outlying-islands) |  |
+| Country | The other islands: **Gen3 trekker coverage**, low bushy vegetation, numerous birds | [P](https://www.plonkit.net/us-minor-outlying-islands) |  |
+| Region | **Midway runways**: nicely paved W–E on the south side; poorly paved N–S (worse northward); small **village on the eastern side** | [P](https://www.plonkit.net/us-minor-outlying-islands) |  |
+| Region | **Other islands**: Southeast Island = small central lake + birds in the sky; Lisianski = shore-only coverage ringed by large bushes; Laysan = the only nearly cloudless coverage; French Frigate Shoals = long thin island, shabby runway, by far the most birds; East Island = smallest, barely vegetation, ocean in all directions | [P](https://www.plonkit.net/us-minor-outlying-islands) |  |
+| Special | The **western corner of the Midway runway** is one of the most common locations on the official GeoGuessr world map — memorise it; Eastern Island (next to Midway) has only two patches of low-quality **tripod coverage** | [P](https://www.plonkit.net/us-minor-outlying-islands) |  |
 
 ## Cocos Islands
 Study: [Plonk It](https://www.plonkit.net/cocos-islands)
