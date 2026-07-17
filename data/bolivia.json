@@ -3,18 +3,61 @@
  "slug": "bolivia",
  "continent": "South America",
  "area_km2": 1098581,
- "links": { "plonkit": "https://www.plonkit.net/bolivia", "geoguessr": null },
+ "links": { "plonkit": "https://www.plonkit.net/bolivia", "geoguessr": "https://www.geoguessr.com/maps/63ce9532490bef2c0350ab9f" },
  "hints": [
-  { "cat": "country", "text": "Plates **short, white w/ blue text** (blue hard to see → often looks plain white)", "src": ["plonkit"], "sv": null, "anchor": "qrcc", "img": "1_licenceplate.png", "type": "plates" },
-  { "cat": "country", "text": "Only **Gen3**, a solid **white car, no antenna** (in Latin America also Peru & Chile)", "src": ["plonkit"], "sv": null, "anchor": "jgzQ", "img": "1_googlecar.png", "type": "cars" },
-  { "cat": "country", "text": "Buildings often **large red brick w/ an 'unfinished' look** (also common in parts of Peru)", "src": ["plonkit"], "sv": null, "anchor": "5Eqs", "img": "1_redbrick.png", "type": "arch" },
-  { "cat": "country", "text": "Middle lines yellow / white / **mixed**, outer always white (Chile never mixes; Peru often has outer-only roads)", "src": ["plonkit"], "sv": null, "anchor": "wFBZ", "img": "1_roadlines.png", "type": "markings" },
-  { "cat": "country", "text": "Concrete-slab + **cobblestone roads** (neat stone lines separating disorganised cobbles in between)", "src": ["plonkit"], "sv": null, "anchor": "rTJh", "img": "1_cobblestoneroad.png", "type": "markings" },
-  { "cat": "country", "text": "**Bulky white square signposts** (Peru uses black-and-white 'zebra' signposts)", "src": ["plonkit"], "sv": null, "anchor": "IcXQ", "img": "1_signpost.png", "type": "signs" },
-  { "cat": "country", "text": "Guardrail markings with **yellow stripes on the outside** (Peru = inverse, black outside)", "src": ["plonkit"], "sv": null, "anchor": "8kIo", "img": "1_guardrailmarking.png", "type": "utility" },
-  { "cat": "country", "text": "Poles inconsistent (round concrete w/ pinholes + wooden); **extremely curvy wooden poles** (east) are a great Bolivia clue", "src": ["plonkit"], "sv": null, "anchor": "qTVY", "img": "1_scuffedpole.png", "type": "utility" },
-  { "cat": "country", "text": "km markers = **black top ('Km') / white bottom**, no road number (Argentina's have a road number)", "src": ["plonkit"], "sv": null, "anchor": "D81j", "img": "1_kmmarker.png", "type": "signs" },
-  { "cat": "country", "text": "Traditional dress (bowler hats, pollera skirts); **MAS/Evo** graffiti + party colours (black/white/blue); **Wiphala** flag; **Tigo** telecom (not in Peru)", "src": ["plonkit"], "sv": null, "anchor": "dcL2", "img": "1_MASandEVO.png", "type": "general" },
-  { "cat": "region", "text": "Coverage limited to central & central-west (6 cities: La Paz/El Alto, Cochabamba, Oruro, Sucre, Potosí, Santa Cruz); **Altiplano** plateau (tufted 'hedgehog' grass), lusher north / arider south; reddish soil", "src": ["plonkit"], "sv": null, "type": "landscape" }
+  { "cat": "country", "type": "plates", "text": "Plates **short, white w/ blue text** — blue often invisible through the blur (looks plain white)", "src": ["plonkit"], "sv": null, "anchor": "qrcc", "img": "1_licenceplate.png" },
+  { "cat": "country", "type": "cars", "text": "**Only Gen3 coverage** — solid white car, no antenna", "src": ["plonkit"], "sv": null, "anchor": "jgzQ", "img": "1_googlecar.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "peru", "note": "Same white antenna-less car — but Peru HAS Gen4.", "diff": "Gen4 round → never Bolivia." },
+      { "slug": "chile", "note": "Same car type.", "diff": "Chile's black-section variant + all-white/all-yellow lines → Chile." } ] },
+  { "cat": "country", "type": "arch", "text": "Buildings of **large red bricks w/ an 'unfinished' look**", "src": ["plonkit"], "sv": null, "anchor": "5Eqs", "img": "1_redbrick.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "peru", "note": "Common near Lake Titicaca in Peru too.", "diff": "White square signposts + Tigo ads → Bolivia." } ] },
+  { "cat": "country", "type": "markings", "text": "Middle lines **all-yellow, yellow+white mixed, or all-white**; outer lines always white", "src": ["plonkit"], "sv": null, "anchor": "wFBZ", "img": "1_roadlines.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "chile", "note": "Chile NEVER mixes yellow & white.", "diff": "Mixed lines → Bolivia." },
+      { "slug": "peru", "note": "Peru often has outer-lines-only roads — very rare in Bolivia.", "diff": "No middle line → lean Peru." } ] },
+  { "cat": "country", "type": "markings", "text": "Lots of **concrete-slab roads** + **cobblestone roads** w/ neat stone lines separating disorganised cobbles", "src": ["plonkit"], "sv": null, "anchor": "aQXK", "img": "1_concreteroads.png", "imgs": ["1_cobblestoneroad.png"] },
+  { "cat": "country", "type": "signs", "text": "**Bulky white square signposts**", "src": ["plonkit"], "sv": null, "anchor": "IcXQ", "img": "1_signpost.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "peru", "note": "Peru uses B&W 'zebra' posts.", "diff": "Plain white → Bolivia; striped → Peru." } ] },
+  { "cat": "country", "type": "utility", "text": "Guardrail markings w/ **yellow stripes on the OUTSIDE**", "src": ["plonkit"], "sv": null, "anchor": "8kIo", "img": "1_guardrailmarking.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "peru", "note": "Peru inverts it: black on the outside.", "diff": "Yellow outer → Bolivia; black outer → Peru." } ] },
+  { "cat": "country", "type": "utility", "text": "Poles inconsistent: round concrete w/ pinholes + wooden (rarely Argentina-style); **extremely curvy tree-trunk wooden poles** (esp. east) = a very good Bolivia clue", "src": ["plonkit"], "sv": null, "anchor": "eNja", "img": "1_poles.png", "imgs": ["1_scuffedpole.png"], "uniq": "unique*", "uniq_note": "Slightly bent poles exist elsewhere — EXTREMELY curvy ones scream Bolivia." },
+  { "cat": "country", "type": "signs", "text": "km markers: **black top w/ 'Km' / white bottom w/ distance — NO road number**", "src": ["plonkit"], "sv": null, "anchor": "D81j", "img": "1_kmmarker.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "argentina", "note": "Similar from afar, but Argentina's markers show a road number.", "diff": "No number → Bolivia." } ] },
+  { "cat": "country", "type": "general", "text": "**Traditional dress** common (bowler hats, colourful shawls, pollera skirts — also near-border Peru); **MAS/Evo political graffiti** + objects painted black-white-blue; **Wiphala** flag (7-colour diagonal patchwork); **Tigo** telecom ads (does NOT operate in Peru — solves urban 50-50s); rocks & soil often distinctly **reddish**", "src": ["plonkit"], "sv": null, "anchor": "4FCc", "img": "1_clothes.png", "imgs": ["1_MASandEVO.png", "1_wiphala.png", "1_tigo.png", "1_redrocks.png"], "uniq": "unique*", "uniq_note": "MAS colours + Wiphala + Tigo are Bolivia's fastest urban tells vs Peru." },
+  { "cat": "region", "type": "general", "text": "Coverage very limited: only central/central-west — six main cities (**La Paz/El Alto, Cochabamba, Oruro, Sucre, Potosí, Santa Cruz**) have side streets; elsewhere main roads only (often partly unpaved)", "src": ["plonkit"], "sv": null, "anchor": "TP1D", "img": "2_coveragemap.png", "super": true },
+  { "cat": "region", "type": "landscape", "text": "**Altiplano** plateau dominates the west: grasslands w/ tufted 'hedgehog' grass, mostly flat roads w/ hills around; **lusher north (El Alto/La Paz), arid south (Oruro→Chile)** — exception: one side of divided Ruta 1 looks green up to Oruro; **Lake Titicaca** visible from Ruta 1 (Desaguadero↔Guaqui, lake north) + Ruta 2 (Tiquina↔Batallas, lake S/W), very green around", "src": ["plonkit"], "sv": null, "anchor": "1ybL", "img": "2_altiplano.png", "imgs": ["2_greenaltiplano.png", "2_aridaltiplano.png", "2_laketiticaca.png"], "super": true },
+  { "cat": "region", "type": "landscape", "text": "**Andes** (NW-SE) = tall mountains between Altiplano & Amazon; **east of the Andes** = green tropical flat farmland w/ characteristic **pink soil** (unpaved coverage only around Santa Cruz); **cobblestone roads** mainly in/SE of Cochabamba + around Sucre", "src": ["plonkit"], "sv": null, "anchor": "fO7D", "img": "Bolivia_mountains.png", "imgs": ["2_eastofandes.png", "2_santacruzunpaved.png", "cobblestone_roads_distribution.png"], "super": true },
+  { "cat": "city", "type": "landscape", "text": "**Cities**:", "bullets": [
+      "La Paz: hilly, meandering green valleys; downtown = the ONLY 10+ storey towers; yellow-beige eroded sandstone pillars on hillsides (only here)",
+      "El Alto: flat plateau, dry & dusty, grid streets, endless unfinished red brick; wavy-edged grey brick pavement; **Neo-Andean** futuristic colourful facades (almost only here); gradient-painted gates (green→light green, red→yellow)",
+      "Cochabamba: flat valley w/ an imposing mountain WALL to the north",
+      "Oruro: driest big-city landscape, large dry hill to the west",
+      "Sucre: very hilly + round tree-covered hills; historic white-wall colonial centre w/ orange tiles",
+      "Potosí: hilly + arid, treeless hills; giant pyramid mountain **Cerro Rico** (mining-stripped)",
+      "Santa Cruz: the only big city in flat tropical surroundings (nearby towns look identical)" ],
+    "src": ["plonkit"], "sv": null, "anchor": "RDmK", "img": "cities_elaltolapaz.png", "imgs": ["cities_La_Paz_hills.png", "cities_Downtown_La_Paz.png", "cities_La_Paz_sandstone.png", "cities_El_Alto_vibe.png", "cities_El_Alto_pavement.png", "cities_El_Alto_neo_andean.png", "cities_El_Alto_gradient_doors.png", "cities_Cochabamba_mountains.png", "cities_Oruro_hill_and_landscape.png", "cities_Sucre_hills.png", "cities_Sucre_architecture.png", "cities_Potosi_arid_hills.png", "cities_Potosi_Cerro_Rico.png", "cities_Santa_Cruz_tropical_landscape.png"], "super": true, "uniq": "unique" },
+  { "cat": "special", "type": "roads", "text": "**Road spotlights**:", "bullets": [
+      "Ruta 1 west of El Alto: paved through green grass, white paint numbers on the road, Titicaca north near Desaguadero",
+      "Ruta 3 near Pongo (NE of La Paz): enormous dark-grey mountains + low clouds",
+      "**Death Road** (N Yungas): bendy unpaved jungle road, foggy south, cyclists — the only jungle dirt road",
+      "Ruta 1/4 La Paz↔Oruro: the ONLY large divided highway",
+      "Ruta 4 (Vila Vila→Cochabamba→Buena Vista): square smudge front-left",
+      "Morochata/Ruta 25: isolated Peru-lookalike mountain dirt road (eucalyptus west, arid east)",
+      "Ruta 1 Machacamarca↔Guindal: snow patches + gloomy overcast (north of Challapata: straight NNW, better sky; SE of Challapata: curvier, greyer)",
+      "Ruta 7 Mairana↔Santa Cruz: neon-like camera glitch to the north",
+      "Mataral area (Ruta 7/22): green low-vegetation hills, sunny; big cacti + yellow-flowered trees",
+      "Eastern Ruta 4 (E of Santa Cruz): flat green E-W, asphalt + concrete pads",
+      "Ruta 5 near Chaco (N of Sucre): sunset coverage on concrete",
+      "Ruta 4 SW of Patacamaya: worn grainy asphalt in semi-arid grass",
+      "Nevado Sajama (lone snow volcano) visible → SW Ruta 4 south of Callapa",
+      "Ruta 6 Tarabuco↔Zudáñez: near-white concrete (unique)",
+      "Villa Vitalina↔Coipasa: salt-flat + volcanic-cone desert drive" ],
+    "src": ["plonkit"], "sv": null, "anchor": "zvmK", "img": "road_Ruta_1_Tiwanaku.png", "imgs": ["road_Ruta_3_epic_mountains.png", "road_Death_road.png", "road_Divided_highway_1-4.png", "road_Ruta_4_square_smudge.png", "road_Morochata_road.png", "road_Challapata_Ruta_1.png", "road_North_of_Challapata.png", "road_South_of_Challapata.png", "road_Ruta_7_visual_glitch.png", "road_Mataral_area.png", "road_Mataral_plants.png", "road_Eastern_Ruta_4_Main.png", "road_Chaco_sunset_road.png", "road_Ruta_4_grainy_asphalt.png", "road_Sajama.png", "road_Ruta_6_white_concrete.png", "road_Coipasa_road.png"], "super": true, "uniq": "unique" },
+  { "cat": "special", "type": "cars", "text": "**Sajama NP**: unique car w/ black roof rack + metal bars, unpaved road w/ fluffy bushes, Nevado Sajama always visible; Tomarapi village = adobe walls + thatched roofs", "src": ["plonkit"], "sv": null, "anchor": "caq9", "img": "road_Sajama_car.png", "uniq": "unique" }
  ]
 }

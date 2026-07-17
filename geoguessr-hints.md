@@ -2782,21 +2782,26 @@ Study: [Plonk It](https://www.plonkit.net/colombia)
 | Special | **Unique vehicles**: Leticia (southernmost town) = unique vehicle + long concrete blocks on the road north; **San Andrés** = distinct white car; **Providencia** = grey truck + green street lights on trapezoidal metal supports (support shape also in Barranquilla) | [P](https://www.plonkit.net/colombia) |  |
 
 ## Bolivia
-Study: [Plonk It](https://www.plonkit.net/bolivia)
+Study: [Plonk It](https://www.plonkit.net/bolivia) · [GeoGuessr map](https://www.geoguessr.com/maps/63ce9532490bef2c0350ab9f)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates **short, white w/ blue text** (blue hard to see → often looks plain white) | [P](https://www.plonkit.net/bolivia) |  |
-| Country | Only **Gen3**, a solid **white car, no antenna** (in Latin America also Peru & Chile) | [P](https://www.plonkit.net/bolivia) |  |
-| Country | Buildings often **large red brick w/ an 'unfinished' look** (also common in parts of Peru) | [P](https://www.plonkit.net/bolivia) |  |
-| Country | Middle lines yellow / white / **mixed**, outer always white (Chile never mixes; Peru often has outer-only roads) | [P](https://www.plonkit.net/bolivia) |  |
-| Country | Concrete-slab + **cobblestone roads** (neat stone lines separating disorganised cobbles in between) | [P](https://www.plonkit.net/bolivia) |  |
-| Country | **Bulky white square signposts** (Peru uses black-and-white 'zebra' signposts) | [P](https://www.plonkit.net/bolivia) |  |
-| Country | Guardrail markings with **yellow stripes on the outside** (Peru = inverse, black outside) | [P](https://www.plonkit.net/bolivia) |  |
-| Country | Poles inconsistent (round concrete w/ pinholes + wooden); **extremely curvy wooden poles** (east) are a great Bolivia clue | [P](https://www.plonkit.net/bolivia) |  |
-| Country | km markers = **black top ('Km') / white bottom**, no road number (Argentina's have a road number) | [P](https://www.plonkit.net/bolivia) |  |
-| Country | Traditional dress (bowler hats, pollera skirts); **MAS/Evo** graffiti + party colours (black/white/blue); **Wiphala** flag; **Tigo** telecom (not in Peru) | [P](https://www.plonkit.net/bolivia) |  |
-| Region | Coverage limited to central & central-west (6 cities: La Paz/El Alto, Cochabamba, Oruro, Sucre, Potosí, Santa Cruz); **Altiplano** plateau (tufted 'hedgehog' grass), lusher north / arider south; reddish soil | [P](https://www.plonkit.net/bolivia) |  |
+| Country | Plates **short, white w/ blue text** — blue often invisible through the blur (looks plain white) | [P](https://www.plonkit.net/bolivia) |  |
+| Country | **Only Gen3 coverage** — solid white car, no antenna | [P](https://www.plonkit.net/bolivia) |  |
+| Country | Buildings of **large red bricks w/ an 'unfinished' look** | [P](https://www.plonkit.net/bolivia) |  |
+| Country | Middle lines **all-yellow, yellow+white mixed, or all-white**; outer lines always white | [P](https://www.plonkit.net/bolivia) |  |
+| Country | Lots of **concrete-slab roads** + **cobblestone roads** w/ neat stone lines separating disorganised cobbles | [P](https://www.plonkit.net/bolivia) |  |
+| Country | **Bulky white square signposts** | [P](https://www.plonkit.net/bolivia) |  |
+| Country | Guardrail markings w/ **yellow stripes on the OUTSIDE** | [P](https://www.plonkit.net/bolivia) |  |
+| Country | Poles inconsistent: round concrete w/ pinholes + wooden (rarely Argentina-style); **extremely curvy tree-trunk wooden poles** (esp. east) = a very good Bolivia clue | [P](https://www.plonkit.net/bolivia) |  |
+| Country | km markers: **black top w/ 'Km' / white bottom w/ distance — NO road number** | [P](https://www.plonkit.net/bolivia) |  |
+| Country | **Traditional dress** common (bowler hats, colourful shawls, pollera skirts — also near-border Peru); **MAS/Evo political graffiti** + objects painted black-white-blue; **Wiphala** flag (7-colour diagonal patchwork); **Tigo** telecom ads (does NOT operate in Peru — solves urban 50-50s); rocks & soil often distinctly **reddish** | [P](https://www.plonkit.net/bolivia) |  |
+| Region | Coverage very limited: only central/central-west — six main cities (**La Paz/El Alto, Cochabamba, Oruro, Sucre, Potosí, Santa Cruz**) have side streets; elsewhere main roads only (often partly unpaved) | [P](https://www.plonkit.net/bolivia) |  |
+| Region | **Altiplano** plateau dominates the west: grasslands w/ tufted 'hedgehog' grass, mostly flat roads w/ hills around; **lusher north (El Alto/La Paz), arid south (Oruro→Chile)** — exception: one side of divided Ruta 1 looks green up to Oruro; **Lake Titicaca** visible from Ruta 1 (Desaguadero↔Guaqui, lake north) + Ruta 2 (Tiquina↔Batallas, lake S/W), very green around | [P](https://www.plonkit.net/bolivia) |  |
+| Region | **Andes** (NW-SE) = tall mountains between Altiplano & Amazon; **east of the Andes** = green tropical flat farmland w/ characteristic **pink soil** (unpaved coverage only around Santa Cruz); **cobblestone roads** mainly in/SE of Cochabamba + around Sucre | [P](https://www.plonkit.net/bolivia) |  |
+| City | **Cities**: | [P](https://www.plonkit.net/bolivia) |  |
+| Special | **Road spotlights**: | [P](https://www.plonkit.net/bolivia) |  |
+| Special | **Sajama NP**: unique car w/ black roof rack + metal bars, unpaved road w/ fluffy bushes, Nevado Sajama always visible; Tomarapi village = adobe walls + thatched roofs | [P](https://www.plonkit.net/bolivia) |  |
 
 ## Chile
 Study: [Plonk It](https://www.plonkit.net/chile) · [GeoGuessr map](https://www.geoguessr.com/maps/6430f6ae803b91d398056286)
