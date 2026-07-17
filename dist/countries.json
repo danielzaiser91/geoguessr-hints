@@ -5073,139 +5073,296 @@
    "area_km2": 756096,
    "links": {
     "plonkit": "https://www.plonkit.net/chile",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/6430f6ae803b91d398056286"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Road lines **all white or all yellow** — all-yellow (parks / snowy areas) is ~unique to Chile in the Americas",
+     "type": "markings",
+     "text": "Road lines **all white OR all yellow, never mixed**: all-white most common; all-yellow in national parks / high-snowfall areas",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "oPtv",
      "img": "road_lines.png",
-     "type": "markings"
+     "uniq": "unique*",
+     "uniq_note": "All-yellow lines are essentially Chile-only in the Americas; all-white also occurs in Argentina.",
+     "shared_with": [
+      {
+       "slug": "argentina",
+       "note": "Argentina has a decent amount of all-white-lined roads.",
+       "diff": "Yellow-black chevrons + square poles → Chile; white-red chevrons → Argentina."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Gen3 solid **white car, no antenna** (variant with a black section = unique to Chile); Gen4 blue car",
+     "type": "cars",
+     "text": "Gen3: **solid white car w/o antenna** — plain, or w/ a visible **black section (unique to Chile)**; Gen4 = blue car",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "cQZV",
      "img": "google_car.png",
-     "type": "cars"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "peru",
+       "note": "Plain white antenna-less Gen3 car there too.",
+       "diff": "Black section variant → Chile only."
+      },
+      {
+       "slug": "bolivia",
+       "note": "Same plain white car.",
+       "diff": "Black section → Chile; red-brick towns → Bolivia."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Square concrete poles, indent on both sides** + pinholes on top (fewer supports than Brazil); wooden poles too",
+     "type": "utility",
+     "text": "**Square concrete poles w/ an indent on both sides** + small pinholes up top (fewer horizontal supports than Brazil's ladder poles); wooden poles fairly common too",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "y9xj",
      "img": "pole.png",
-     "type": "utility"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "brazil",
+       "note": "Brazilian ladder poles look similar but have more supports in the indent.",
+       "diff": "Fewer rungs → Chile; Portuguese → Brazil."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Plates white; **commercial & taxi = orange** (also seen in Ecuador)",
+     "type": "plates",
+     "text": "Regular plates white; **commercial & taxis = orange**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "SjoP",
      "img": "Chile_License_Plate.png",
-     "type": "plates"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "ecuador",
+       "note": "Orange plates also in Ecuador.",
+       "diff": "Square indent poles → Chile."
+      },
+      {
+       "slug": "brazil",
+       "note": "Brazilian commercial plates are red — can look similar in some light.",
+       "diff": "Portuguese → Brazil."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Slots at the top of signposts**; chevrons yellow base w/ black arrows (Argentina = white w/ red)",
+     "type": "signs",
+     "text": "**Slots at the top of signposts**; chevrons **yellow w/ black arrows** (Argentina: white-red)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "dkLn",
      "img": "Slotted_Signs.png",
-     "type": "signs"
+     "imgs": [
+      "Chile Chevron.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Bollards Spanish-style (white front / yellow-orange back), fairly rare; **bridges with red-painted fence posts**",
+     "type": "bollards",
+     "text": "Bollards Spanish-style (white front reflector / yellow-orange back) but rare; more often the **orange temporary bollard w/ two white top stripes**; bridges often have **red-painted fence posts**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "uW2V",
-     "img": "red_bridges.png",
-     "type": "general"
+     "anchor": "tCeP",
+     "img": "bollard.png",
+     "imgs": [
+      "temporary_bollards.png",
+      "red_bridges.png"
+     ]
     },
     {
      "cat": "region",
-     "text": "Long narrow country → **climate by latitude**: arid desert north · Mediterranean centre · cool wet oceanic south",
+     "type": "landscape",
+     "text": "4000+ km long → **climate = latitude**: arid desert north, Mediterranean centre (Santiago), cold wet oceanic far south (Köppen map)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "DDG0",
-     "img": "Atacama.png",
-     "type": "landscape"
+     "anchor": "fFHl",
+     "img": "Chile_map_of_KÃ¶ppen_climate_classification_with_new_classification_types_darkmode_wikipediacommons.png",
+     "super": true
     },
     {
-     "super": true,
-     "cat": "state",
-     "text": "Road naming: **first letter A→Y from north→south**; area codes memorable & regional",
+     "cat": "region",
+     "type": "naming",
+     "text": "**Road naming: first letter runs A→Y from north to south** — extremely useful; 2-digit **area codes** regionally memorable (provinces differ in the centre)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "JwjE",
      "img": "Chile_Road_Naming_System_nobg.png",
-     "type": "naming"
+     "imgs": [
+      "Chile_Area_Codes.png"
+     ],
+     "super": true,
+     "uniq": "unique"
     },
     {
      "cat": "region",
-     "text": "**Atacama** (northern third) = extreme arid desert, just sand & bare rock, ~no vegetation",
+     "type": "landscape",
+     "text": "**Landscape north→south**:",
+     "bullets": [
+      "Atacama (northern third): extreme desert, often zero vegetation (extends into Peru/Bolivia/NW-Argentina)",
+      "Arica y Parinacota: smooth sandy eroded/bulbous mountains + valleys",
+      "Rocky uneven mountains: Atacama + N-Coquimbo; brown-red soil in Atacama (Gen3)",
+      "SW-Valparaíso: eucalyptus + dry climate",
+      "Around Santiago: semi-arid dry hills, scattered vegetation",
+      "Maule: greener Mediterranean + vineyards",
+      "Bío Bío: radiata pines w/ puffy needles; narrow tree-lined roads (also Araucanía)",
+      "Far-E Araucanía: monkey-puzzle trees (also across the border in Argentina)",
+      "Isla Grande de Chiloé: rolling NZ-like farmland + Chilean rhubarb (giant cabbage look)",
+      "S-Los Lagos/N-Aysén: lush green valleys, rocky mountains, overcast",
+      "S-Aysén: autumn colours in much coverage; dotted road lines → Los Ríos & Aysén"
+     ],
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "hgxy",
-     "img": "Atacama_Red_Soil.png",
-     "type": "landscape"
-    },
-    {
-     "cat": "region",
-     "text": "Santiago = semi-arid dry hills; **Maule greener w/ vineyards**; eucalyptus + dry climate → SW Valparaíso",
-     "src": [
-      "plonkit"
+     "anchor": "DDG0",
+     "img": "Atacama.png",
+     "imgs": [
+      "Arica_Valleys.png",
+      "Atacama_Rocky_Mountains.png",
+      "Atacama_Red_Soil.png",
+      "euca.png",
+      "Santiago_Mediterrean_Climate_gen4.png",
+      "Maule_Vineyards_gen4.png",
+      "Concepcion_Pines.png",
+      "Biobio__Araucania_Narrow_Roads.png",
+      "monkeh.png",
+      "Isla_Grande.png",
+      "Chilean_Rhubarb__281_29.png",
+      "Southern_Valleys_gen4.png",
+      "Autumn_Coverage.png",
+      "Dotted_roadlines.png"
      ],
-     "sv": null,
-     "anchor": "2h86",
-     "img": "Maule_Vineyards_gen4.png",
-     "type": "landscape"
-    },
-    {
-     "cat": "region",
-     "text": "Radiata (**Concepción**) pines w/ puffy needles → Biobío; **monkey-puzzle** trees → far-E Araucanía; narrow tree-lined roads → Biobío/Araucanía",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "1mL6",
-     "img": "Concepcion_Pines.png",
-     "type": "landscape"
+     "super": true
     },
     {
      "cat": "special",
-     "text": "**Triple yellow lines** common in national parks/reserves; all-yellow on concrete → Magallanes (barren treeless far south)",
+     "type": "roads",
+     "text": "**Recognisable roads**: A-31 = high altitude w/ steep valley drop north + Gen3 sunset; Ruta 21 (Calama→Chiu Chiu) = Gen4 sunset w/ pink-glowing volcanoes; B-710 & Ruta 5 = more Gen4 sunset; **Ruta 1** = coast squeezed between mountain wall (east) & Pacific (west); Ruta 41 = valley + snowy peaks + triple yellow lines; purple lupines → Ruta 240; **all-yellow lines on concrete → Magallanes** (barren grassy treeless far south)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "markings"
+     "anchor": "BUtb",
+     "img": "dont_fall.png",
+     "imgs": [
+      "image.png",
+      "sunset_roads.png",
+      "Regionguessing_Ruta_1.png",
+      "worm_looking_road.png",
+      "flower.png",
+      "Magallanes_concrete_new.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Nature parks**: Lauca = snow-capped line + 2 symmetrical lone volcanoes, fresh dark roads; Pampa del Tamarugal = Tamarugo trees along a NW road; Alto Loa = salt pans → snowy volcanoes; Los Flamencos = smooth reddish mountains + salt pans + triple yellow; Nevado Tres Cruces = red sand, salt pans, mountain pass; Llanos de Challe = brown dirt + juniper + overcast (Pan de Azúcar similar, barer); Alto Bío Bío = treeless cold + triple yellow + monkey puzzles east; Puyehue = dense vegetation, tar snakes, dead trees east",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "mOVz",
+     "img": "Lauca.png",
+     "imgs": [
+      "tama.png",
+      "Alta_Loa_gen4.png",
+      "Los_Flamencos.png",
+      "Tres_Cruces.png",
+      "Llanos.png",
+      "Alto_Bio_Bio.png",
+      "Puyehue.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "city",
+     "type": "landscape",
+     "text": "**Cities**: Arica = gentle sandy ridge; Iquique = towering ridge; Antofagasta = rocky uneven ridge; San Pedro de Atacama = clay-brick walls w/ triangle tops; orange street signs → Lanco (+ Malalhue); Villa O'Higgins = big mountains right east + orange-stained wood everywhere",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "rTlS",
+     "img": "ari_gen4.png",
+     "imgs": [
+      "queque_gen4.png",
+      "anto_mountain.png",
+      "mr_pedro.png",
+      "orange.png",
+      "OHiggins_gen4.png"
+     ],
+     "super": true,
+     "uniq": "unique"
+    },
+    {
+     "cat": "city",
+     "type": "utility",
+     "text": "**Lamp & pole city metas**: orange lamps → Calama & Chañaral; green dome lamps → Copiapó; photocell lamps → Santiago; grey flat-top lamps → Talca; blue lamps w/ yellow stripe → Concepción; silver-grey lamps → Puerto Montt & Temuco; pole paint: white w/ black number → Arica, yellow → other Atacama cities, black round → El Salvador",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "0n0t",
+     "img": "cl_orange_lamp.webp",
+     "imgs": [
+      "Copiapo_Lamps.png",
+      "Santiago_Photocells.png",
+      "talca_lamp.png",
+      "concepcion_lamp.png",
+      "grey_lamp.png",
+      "arica.png",
+      "el_salvador.png"
+     ],
+     "super": true,
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "cars",
+     "text": "**Special cars & trekkers**: 'Outback' trailer behind the car → south of Santiago zoo; grey Hilux w/ snorkel → Baños Morales; white truck w/ mirrors + antenna → Conguillío NP; white pickup → **Puerto Williams** (southernmost covered town, far from all other coverage); ALMA radio telescopes (2 trekkers); horse trekker → NE of San Felipe (Argentina has a similar one!); Torres del Paine = glacier walk w/ orange helmets",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Pt3R",
+     "img": "pace_american.png",
+     "imgs": [
+      "banos_car.png",
+      "conguillo_np.png",
+      "p_william.png",
+      "Atacama_Large_Millimeter_Array.png",
+      "Santiago_Horse_Trekker.png",
+      "torres_del_paine.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },

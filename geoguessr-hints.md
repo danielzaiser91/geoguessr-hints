@@ -2788,22 +2788,24 @@ Study: [Plonk It](https://www.plonkit.net/bolivia)
 | Region | Coverage limited to central & central-west (6 cities: La Paz/El Alto, Cochabamba, Oruro, Sucre, Potosí, Santa Cruz); **Altiplano** plateau (tufted 'hedgehog' grass), lusher north / arider south; reddish soil | [P](https://www.plonkit.net/bolivia) |  |
 
 ## Chile
-Study: [Plonk It](https://www.plonkit.net/chile)
+Study: [Plonk It](https://www.plonkit.net/chile) · [GeoGuessr map](https://www.geoguessr.com/maps/6430f6ae803b91d398056286)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Road lines **all white or all yellow** — all-yellow (parks / snowy areas) is ~unique to Chile in the Americas | [P](https://www.plonkit.net/chile) |  |
-| Country | Gen3 solid **white car, no antenna** (variant with a black section = unique to Chile); Gen4 blue car | [P](https://www.plonkit.net/chile) |  |
-| Country | **Square concrete poles, indent on both sides** + pinholes on top (fewer supports than Brazil); wooden poles too | [P](https://www.plonkit.net/chile) |  |
-| Country | Plates white; **commercial & taxi = orange** (also seen in Ecuador) | [P](https://www.plonkit.net/chile) |  |
-| Country | **Slots at the top of signposts**; chevrons yellow base w/ black arrows (Argentina = white w/ red) | [P](https://www.plonkit.net/chile) |  |
-| Country | Bollards Spanish-style (white front / yellow-orange back), fairly rare; **bridges with red-painted fence posts** | [P](https://www.plonkit.net/chile) |  |
-| Region | Long narrow country → **climate by latitude**: arid desert north · Mediterranean centre · cool wet oceanic south | [P](https://www.plonkit.net/chile) |  |
-| Region | **Atacama** (northern third) = extreme arid desert, just sand & bare rock, ~no vegetation | [P](https://www.plonkit.net/chile) |  |
-| Region | Santiago = semi-arid dry hills; **Maule greener w/ vineyards**; eucalyptus + dry climate → SW Valparaíso | [P](https://www.plonkit.net/chile) |  |
-| Region | Radiata (**Concepción**) pines w/ puffy needles → Biobío; **monkey-puzzle** trees → far-E Araucanía; narrow tree-lined roads → Biobío/Araucanía | [P](https://www.plonkit.net/chile) |  |
-| State | Road naming: **first letter A→Y from north→south**; area codes memorable & regional | [P](https://www.plonkit.net/chile) |  |
-| Special | **Triple yellow lines** common in national parks/reserves; all-yellow on concrete → Magallanes (barren treeless far south) | [P](https://www.plonkit.net/chile) |  |
+| Country | Road lines **all white OR all yellow, never mixed**: all-white most common; all-yellow in national parks / high-snowfall areas | [P](https://www.plonkit.net/chile) |  |
+| Country | Gen3: **solid white car w/o antenna** — plain, or w/ a visible **black section (unique to Chile)**; Gen4 = blue car | [P](https://www.plonkit.net/chile) |  |
+| Country | **Square concrete poles w/ an indent on both sides** + small pinholes up top (fewer horizontal supports than Brazil's ladder poles); wooden poles fairly common too | [P](https://www.plonkit.net/chile) |  |
+| Country | Regular plates white; **commercial & taxis = orange** | [P](https://www.plonkit.net/chile) |  |
+| Country | **Slots at the top of signposts**; chevrons **yellow w/ black arrows** (Argentina: white-red) | [P](https://www.plonkit.net/chile) |  |
+| Country | Bollards Spanish-style (white front reflector / yellow-orange back) but rare; more often the **orange temporary bollard w/ two white top stripes**; bridges often have **red-painted fence posts** | [P](https://www.plonkit.net/chile) |  |
+| Region | 4000+ km long → **climate = latitude**: arid desert north, Mediterranean centre (Santiago), cold wet oceanic far south (Köppen map) | [P](https://www.plonkit.net/chile) |  |
+| Region | **Road naming: first letter runs A→Y from north to south** — extremely useful; 2-digit **area codes** regionally memorable (provinces differ in the centre) | [P](https://www.plonkit.net/chile) |  |
+| Region | **Landscape north→south**: | [P](https://www.plonkit.net/chile) |  |
+| City | **Cities**: Arica = gentle sandy ridge; Iquique = towering ridge; Antofagasta = rocky uneven ridge; San Pedro de Atacama = clay-brick walls w/ triangle tops; orange street signs → Lanco (+ Malalhue); Villa O'Higgins = big mountains right east + orange-stained wood everywhere | [P](https://www.plonkit.net/chile) |  |
+| City | **Lamp & pole city metas**: orange lamps → Calama & Chañaral; green dome lamps → Copiapó; photocell lamps → Santiago; grey flat-top lamps → Talca; blue lamps w/ yellow stripe → Concepción; silver-grey lamps → Puerto Montt & Temuco; pole paint: white w/ black number → Arica, yellow → other Atacama cities, black round → El Salvador | [P](https://www.plonkit.net/chile) |  |
+| Special | **Recognisable roads**: A-31 = high altitude w/ steep valley drop north + Gen3 sunset; Ruta 21 (Calama→Chiu Chiu) = Gen4 sunset w/ pink-glowing volcanoes; B-710 & Ruta 5 = more Gen4 sunset; **Ruta 1** = coast squeezed between mountain wall (east) & Pacific (west); Ruta 41 = valley + snowy peaks + triple yellow lines; purple lupines → Ruta 240; **all-yellow lines on concrete → Magallanes** (barren grassy treeless far south) | [P](https://www.plonkit.net/chile) |  |
+| Special | **Nature parks**: Lauca = snow-capped line + 2 symmetrical lone volcanoes, fresh dark roads; Pampa del Tamarugal = Tamarugo trees along a NW road; Alto Loa = salt pans → snowy volcanoes; Los Flamencos = smooth reddish mountains + salt pans + triple yellow; Nevado Tres Cruces = red sand, salt pans, mountain pass; Llanos de Challe = brown dirt + juniper + overcast (Pan de Azúcar similar, barer); Alto Bío Bío = treeless cold + triple yellow + monkey puzzles east; Puyehue = dense vegetation, tar snakes, dead trees east | [P](https://www.plonkit.net/chile) |  |
+| Special | **Special cars & trekkers**: 'Outback' trailer behind the car → south of Santiago zoo; grey Hilux w/ snorkel → Baños Morales; white truck w/ mirrors + antenna → Conguillío NP; white pickup → **Puerto Williams** (southernmost covered town, far from all other coverage); ALMA radio telescopes (2 trekkers); horse trekker → NE of San Felipe (Argentina has a similar one!); Torres del Paine = glacier walk w/ orange helmets | [P](https://www.plonkit.net/chile) |  |
 
 ## Ecuador
 Study: [Plonk It](https://www.plonkit.net/ecuador)
