@@ -3041,10 +3041,10 @@ Study: [Plonk It](https://www.plonkit.net/american-samoa)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | US territory east of Fiji (counts as US); green tropical mountains + palms, small **concrete roads**, one-storey boxy houses w/ plain **metal-sheet roofs** | [P](https://www.plonkit.net/american-samoa) |  |
-| Country | Identify the island by the truck: **Tutuila** (main, most coverage) = a rusted **black truck bed** | [P](https://www.plonkit.net/american-samoa) |  |
-| Region | **Manu'a & Olosega** = silver-grey truck front w/ side mirrors; **Tau** (easternmost) = glossy black truck | [P](https://www.plonkit.net/american-samoa) |  |
-| Region | Single-lane **bridge** joining Manu'a & Olosega w/ a thin wire guardrail; Ofu Airport = concrete runway, car w/ two orange roof straps | [P](https://www.plonkit.net/american-samoa) |  |
+| Country | US overseas territory east of Fiji — **counts as US** in country streaks | [P](https://www.plonkit.net/american-samoa) |  |
+| Country | Green **tropical mountains + palms**; small roads often **concrete**; one-storey boxy houses w/ plain **metal-sheet roofs** | [P](https://www.plonkit.net/american-samoa) |  |
+| Region | **Island = truck**: Tutuila (main island, most coverage) = slightly rusted **black truck bed**; Manu'a & Olosega = **silver-grey truck front** w/ mirrors; Ta'ū (easternmost) = **glossy black truck** w/ mirrors | [P](https://www.plonkit.net/american-samoa) |  |
+| Special | **Spotlights**: single-lane **bridge Manu'a↔Olosega** w/ thin wire guardrail + both islands visible; **Ofu Airport** = small concrete runway, car w/ **two orange roof straps**, palms beyond the runway | [P](https://www.plonkit.net/american-samoa) |  |
 
 ## Christmas Island
 Study: [Plonk It](https://www.plonkit.net/christmas-island)

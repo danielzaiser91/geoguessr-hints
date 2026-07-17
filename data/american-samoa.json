@@ -5,9 +5,9 @@
  "area_km2": 199,
  "links": { "plonkit": "https://www.plonkit.net/american-samoa", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "US territory east of Fiji (counts as US); green tropical mountains + palms, small **concrete roads**, one-storey boxy houses w/ plain **metal-sheet roofs**", "src": ["plonkit"], "sv": null, "anchor": "OwzU", "img": "image.png", "type": "landscape" },
-  { "cat": "country", "text": "Identify the island by the truck: **Tutuila** (main, most coverage) = a rusted **black truck bed**", "src": ["plonkit"], "sv": null, "anchor": "pQyl", "img": "main_island_car.png", "type": "cars" },
-  { "cat": "region", "text": "**Manu'a & Olosega** = silver-grey truck front w/ side mirrors; **Tau** (easternmost) = glossy black truck", "src": ["plonkit"], "sv": null, "anchor": "0C0S", "img": "other_island_car.png", "type": "cars" },
-  { "cat": "region", "text": "Single-lane **bridge** joining Manu'a & Olosega w/ a thin wire guardrail; Ofu Airport = concrete runway, car w/ two orange roof straps", "src": ["plonkit"], "sv": null, "anchor": "W6tU", "img": "bride.png", "type": "general" }
+  { "cat": "country", "type": "general", "text": "US overseas territory east of Fiji — **counts as US** in country streaks", "src": ["plonkit"], "sv": null, "anchor": "Ve3W", "img": "as_locator.png" },
+  { "cat": "country", "type": "landscape", "text": "Green **tropical mountains + palms**; small roads often **concrete**; one-storey boxy houses w/ plain **metal-sheet roofs**", "src": ["plonkit"], "sv": null, "anchor": "OwzU", "img": "image.png" },
+  { "cat": "region", "type": "cars", "text": "**Island = truck**: Tutuila (main island, most coverage) = slightly rusted **black truck bed**; Manu'a & Olosega = **silver-grey truck front** w/ mirrors; Ta'ū (easternmost) = **glossy black truck** w/ mirrors", "src": ["plonkit"], "sv": null, "anchor": "pQyl", "img": "main_island_car.png", "imgs": ["other_island_car.png", "other_other_island_car.png"], "super": true, "uniq": "unique" },
+  { "cat": "special", "type": "landscape", "text": "**Spotlights**: single-lane **bridge Manu'a↔Olosega** w/ thin wire guardrail + both islands visible; **Ofu Airport** = small concrete runway, car w/ **two orange roof straps**, palms beyond the runway", "src": ["plonkit"], "sv": null, "anchor": "W6tU", "img": "bride.png", "imgs": ["boeing_real_estate.png"], "uniq": "unique" }
  ]
 }
