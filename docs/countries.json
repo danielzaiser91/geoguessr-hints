@@ -9638,17 +9638,28 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Plate: long **white** (incl. back) + blue strip left — **white backplate** distinguishes from UK (yellow back)",
+     "type": "plates",
+     "text": "Plates long **white front AND back** + blue strip left",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "rRE9",
-     "img": "ireland_plate.png"
+     "img": "ireland_plate.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "united-kingdom",
+       "note": "UK = white front but **yellow back**, mostly without the strip.",
+       "diff": "White backplate + strip → Ireland.",
+       "img": "United_Kingdom_License_Plate.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Yellow dashed outer road lines** — common in Ireland, ~never in UK (also NZ)",
+     "type": "markings",
+     "text": "**Yellow dashed outer road lines** — very common (essentially never in the UK)",
      "src": [
       "plonkit",
       "geometas"
@@ -9656,11 +9667,20 @@
      "src_url": "https://geometas.com/metas/countries/ireland/",
      "sv": null,
      "anchor": "5CWT",
-     "img": "Yellow_dashes.png"
+     "img": "Yellow_dashes.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "new-zealand",
+       "note": "NZ also uses yellow dashes.",
+       "diff": "NZ = Pacific vegetation + different signage; Ireland = hedgerows + Irish bilingual signs."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Only European country with yellow diamond warning signs** (regulatory signs stay red/white)",
+     "type": "signs",
+     "text": "**Only European country with yellow diamond warning signs** (regulatory signs stay red-border/white)",
      "src": [
       "plonkit",
       "geometas"
@@ -9668,11 +9688,13 @@
      "src_url": "https://geometas.com/metas/countries/ireland/",
      "sv": null,
      "anchor": "Avrb",
-     "img": "Diamond_road_sign.png"
+     "img": "Diamond_road_sign.png",
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Signage **bilingual English + Irish** (Irish in italics)",
+     "type": "language",
+     "text": "Signage **bilingual English + Irish (italics)** — places, words and phrases translated",
      "src": [
       "plonkit",
       "geometas"
@@ -9680,51 +9702,68 @@
      "src_url": "https://geometas.com/metas/countries/ireland/",
      "sv": null,
      "anchor": "7jug",
-     "img": "Bilingual_signs.png"
+     "img": "Bilingual_signs.png",
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Chevrons **yellow-on-black** (UK = white-on-black); yield says **\"YIELD\"** (UK = \"GIVE WAY\")",
+     "type": "signs",
+     "text": "Chevrons **yellow-on-black** (UK: white); yield sign says **YIELD** (UK: GIVE WAY)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "q0Q1",
-     "img": "Chevrons.png"
+     "img": "Chevrons.png",
+     "imgs": [
+      "Yield_sign.png"
+     ],
+     "super": true
     },
     {
      "cat": "country",
-     "text": "Pole sticker: lightning bolt but **no man being zapped** (UK sticker has the man)",
+     "type": "utility",
+     "text": "Pole warning sticker: **lightning bolt but NO man being zapped** + often a second outlined rectangular sticker (UK sticker shows the man)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "liz2",
-     "img": "Pole_warning_stickers.png"
+     "img": "Pole_warning_stickers.png",
+     "super": true
     },
     {
      "cat": "country",
-     "text": "Green+white bollards; rural gates **rounded corners** (UK square; but N. Ireland also rounded)",
+     "type": "bollards",
+     "text": "**Green-white bollards** (not fully unique but great in UK 50-50s); rural gates w/ **rounded corners** (UK: square — but N. Ireland also rounded!)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "FO2a",
-     "img": "Bollards.png"
+     "img": "Bollards.png",
+     "imgs": [
+      "ie_gate.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "\"Boreens\" — tiny rural roads with a **strip of grass down the middle**; drives on the left; smallcam",
+     "type": "markings",
+     "text": "**Boreens** — tiny rural roads w/ a grass strip down the middle (strong in UK 50-50s); drives **left**; smallcam Gen4",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Gvq4",
-     "img": "Grassy_roads.png"
+     "img": "Grassy_roads.png",
+     "imgs": [
+      "europe_smallcam.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Cream-white buildings w/ black roofs, sometimes grey corner stones",
+     "type": "arch",
+     "text": "**Cream-white buildings w/ black roofs**, sometimes grey corner stones; row buildings in cities (British brick still occurs)",
      "src": [
       "plonkit"
      ],
@@ -9733,54 +9772,87 @@
      "img": "ie_architecture.png"
     },
     {
+     "cat": "country",
+     "type": "landscape",
+     "text": "Very green agricultural land + **hedgerows** — often indistinguishable from the UK; wooden poles w/ **pole steps** + occasional crossbars (also UK/SE/FI); **double yellow no-parking lines** (also UK/Malta); B&W poles w/ yellow bulb at crossings (like UK)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "8zJQ",
+     "img": "Hedgerow_landscape.png",
+     "imgs": [
+      "Utility_poles.png",
+      "Screenshot (1129).png",
+      "Double_yellow_lines.png",
+      "Pedestrian_signs_2.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "united-kingdom",
+       "note": "The full look-alike kit.",
+       "diff": "Decide via: chevron colour, YIELD, plate backs, pole stickers, gate corners, diamond signs.",
+       "img": "Rural_landscape.png"
+      }
+     ]
+    },
+    {
      "cat": "state",
-     "text": "Regional roads = 3-digit; **first digit = region**, numbered **anti-clockwise from Dublin**",
+     "type": "naming",
+     "text": "Regional roads 3-digit: **first digit = region, anti-clockwise from Dublin** (8/9 = newer, non-regional; ~half of the 8s = Dublin metro); **area codes grouped by first digit**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "N93o",
-     "img": "Ireland-road-numbers2.png"
-    },
-    {
-     "cat": "state",
-     "text": "Phone area codes grouped by first digit (learnable) → region",
-     "src": [
-      "plonkit"
+     "img": "Ireland-road-numbers2.png",
+     "imgs": [
+      "ie_phonecodes.png"
      ],
-     "sv": null,
-     "anchor": "5rT8",
-     "img": "ie_phonecodes.png"
+     "super": true
     },
     {
      "cat": "region",
-     "text": "West coast = rugged hilly moorland, brownish/yellow grass, exposed rock (vs neat green fields of the east)",
+     "type": "landscape",
+     "text": "**West coast**: rugged hills, wild brown-yellow moorland, exposed rock (vs neat green east); **Donegal**: tiny hilly rural roads w/ Gen4; **Wicklow Mountains** (S of Dublin) look western — but never a coast view + Gen4 small roads",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "2Zr0",
-     "img": "Western_coastal_landscape.png"
+     "img": "Western_coastal_landscape.png",
+     "imgs": [
+      "Donegal_Gen_4_roads.png",
+      "Wicklow_mountains.png"
+     ]
     },
     {
      "cat": "region",
-     "text": "**EV Gen4 car** (grey back w/ black semicircle) covers most of the east & parts of NW",
+     "type": "cars",
+     "text": "**EV Gen4 car** (grey back w/ black semicircle) → most of the east + parts of the NW (Dublin also has the normal blue car)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "wmsQ",
-     "img": "Donegal_Gen_4_roads.png"
+     "anchor": "SSZH",
+     "img": "ireland_White_car.png"
     },
     {
      "cat": "special",
-     "text": "Distinctive flat **tabletop mountains** → north Sligo / Leitrim; hilly tiny Gen4 roads → Donegal",
+     "type": "landscape",
+     "text": "**Tabletop mountains** → N-Sligo/Leitrim; **Burren NP** = grey limestone karst; **Cork** = the hilly big city",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "k4AI",
-     "img": "Tabletop_mountains.png"
+     "img": "Tabletop_mountains.png",
+     "imgs": [
+      "Burren_National_Park.png",
+      "Cork_hilly_city.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },

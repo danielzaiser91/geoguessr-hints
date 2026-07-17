@@ -1754,20 +1754,20 @@ Study: [Plonk It](https://www.plonkit.net/ireland)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plate: long **white** (incl. back) + blue strip left — **white backplate** distinguishes from UK (yellow back) | [P](https://www.plonkit.net/ireland) |  |
-| Country | **Yellow dashed outer road lines** — common in Ireland, ~never in UK (also NZ) | [P](https://www.plonkit.net/ireland) [geometas](https://geometas.com/metas/countries/ireland/) |  |
-| Country | **Only European country with yellow diamond warning signs** (regulatory signs stay red/white) | [P](https://www.plonkit.net/ireland) [geometas](https://geometas.com/metas/countries/ireland/) |  |
-| Country | Signage **bilingual English + Irish** (Irish in italics) | [P](https://www.plonkit.net/ireland) [geometas](https://geometas.com/metas/countries/ireland/) |  |
-| Country | Chevrons **yellow-on-black** (UK = white-on-black); yield says **"YIELD"** (UK = "GIVE WAY") | [P](https://www.plonkit.net/ireland) |  |
-| Country | Pole sticker: lightning bolt but **no man being zapped** (UK sticker has the man) | [P](https://www.plonkit.net/ireland) |  |
-| Country | Green+white bollards; rural gates **rounded corners** (UK square; but N. Ireland also rounded) | [P](https://www.plonkit.net/ireland) |  |
-| Country | "Boreens" — tiny rural roads with a **strip of grass down the middle**; drives on the left; smallcam | [P](https://www.plonkit.net/ireland) |  |
-| Country | Cream-white buildings w/ black roofs, sometimes grey corner stones | [P](https://www.plonkit.net/ireland) |  |
-| Region | West coast = rugged hilly moorland, brownish/yellow grass, exposed rock (vs neat green fields of the east) | [P](https://www.plonkit.net/ireland) |  |
-| Region | **EV Gen4 car** (grey back w/ black semicircle) covers most of the east & parts of NW | [P](https://www.plonkit.net/ireland) |  |
-| State | Regional roads = 3-digit; **first digit = region**, numbered **anti-clockwise from Dublin** | [P](https://www.plonkit.net/ireland) |  |
-| State | Phone area codes grouped by first digit (learnable) → region | [P](https://www.plonkit.net/ireland) |  |
-| Special | Distinctive flat **tabletop mountains** → north Sligo / Leitrim; hilly tiny Gen4 roads → Donegal | [P](https://www.plonkit.net/ireland) |  |
+| Country | Plates long **white front AND back** + blue strip left | [P](https://www.plonkit.net/ireland) |  |
+| Country | **Yellow dashed outer road lines** — very common (essentially never in the UK) | [P](https://www.plonkit.net/ireland) [geometas](https://geometas.com/metas/countries/ireland/) |  |
+| Country | **Only European country with yellow diamond warning signs** (regulatory signs stay red-border/white) | [P](https://www.plonkit.net/ireland) [geometas](https://geometas.com/metas/countries/ireland/) |  |
+| Country | Signage **bilingual English + Irish (italics)** — places, words and phrases translated | [P](https://www.plonkit.net/ireland) [geometas](https://geometas.com/metas/countries/ireland/) |  |
+| Country | Chevrons **yellow-on-black** (UK: white); yield sign says **YIELD** (UK: GIVE WAY) | [P](https://www.plonkit.net/ireland) |  |
+| Country | Pole warning sticker: **lightning bolt but NO man being zapped** + often a second outlined rectangular sticker (UK sticker shows the man) | [P](https://www.plonkit.net/ireland) |  |
+| Country | **Green-white bollards** (not fully unique but great in UK 50-50s); rural gates w/ **rounded corners** (UK: square — but N. Ireland also rounded!) | [P](https://www.plonkit.net/ireland) |  |
+| Country | **Boreens** — tiny rural roads w/ a grass strip down the middle (strong in UK 50-50s); drives **left**; smallcam Gen4 | [P](https://www.plonkit.net/ireland) |  |
+| Country | **Cream-white buildings w/ black roofs**, sometimes grey corner stones; row buildings in cities (British brick still occurs) | [P](https://www.plonkit.net/ireland) |  |
+| Country | Very green agricultural land + **hedgerows** — often indistinguishable from the UK; wooden poles w/ **pole steps** + occasional crossbars (also UK/SE/FI); **double yellow no-parking lines** (also UK/Malta); B&W poles w/ yellow bulb at crossings (like UK) | [P](https://www.plonkit.net/ireland) |  |
+| Region | **West coast**: rugged hills, wild brown-yellow moorland, exposed rock (vs neat green east); **Donegal**: tiny hilly rural roads w/ Gen4; **Wicklow Mountains** (S of Dublin) look western — but never a coast view + Gen4 small roads | [P](https://www.plonkit.net/ireland) |  |
+| Region | **EV Gen4 car** (grey back w/ black semicircle) → most of the east + parts of the NW (Dublin also has the normal blue car) | [P](https://www.plonkit.net/ireland) |  |
+| State | Regional roads 3-digit: **first digit = region, anti-clockwise from Dublin** (8/9 = newer, non-regional; ~half of the 8s = Dublin metro); **area codes grouped by first digit** | [P](https://www.plonkit.net/ireland) |  |
+| Special | **Tabletop mountains** → N-Sligo/Leitrim; **Burren NP** = grey limestone karst; **Cork** = the hilly big city | [P](https://www.plonkit.net/ireland) |  |
 
 ## Lithuania
 Study: [Plonk It](https://www.plonkit.net/lithuania)
