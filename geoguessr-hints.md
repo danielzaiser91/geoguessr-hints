@@ -2239,13 +2239,19 @@ Study: [Plonk It](https://www.plonkit.net/jersey)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | British Crown Dependency in the Channel Islands (off NW France; counts as UK); all **Gen2**; winding hedgerow lanes, usually **sunny** | [P](https://www.plonkit.net/jersey) |  |
-| Country | Plates UK-model (white front / yellow rear) + island **red coat of arms** + a **'J'** prefix; **no blue strip** (never in the EU) | [P](https://www.plonkit.net/jersey) |  |
-| Country | UK-style infrastructure (drives left, chevrons, warning signs) but **French street & locality names** (Jèrriais on some signs) | [P](https://www.plonkit.net/jersey) |  |
-| Country | Architecture like northern France: pastel walls + **dark slate roofs**; **red-granite** walls & houses; British terraced houses too | [P](https://www.plonkit.net/jersey) |  |
-| Country | **Yellow telephone booths** (UK's are red); Cornish palms used as decorative plants | [P](https://www.plonkit.net/jersey) |  |
-| Country | **Yellow give-way lines** at intersections (UK = double dotted white); '**Green Lane**' cycling signs + blue island-map route markers | [P](https://www.plonkit.net/jersey) |  |
-| Region | Street signs carry the **parish coat of arms**; St Helier = urbanised capital; Les Mielles = treeless western coast | [P](https://www.plonkit.net/jersey) |  |
+| Country | Self-governing **Channel Island** off NW France; British Crown Dependency — **counts as UK** in streaks | [P](https://www.plonkit.net/jersey) |  |
+| Country | All coverage = **Gen2**; English-style winding hedgerow/tree-tunnel lanes but usually **sunny weather** | [P](https://www.plonkit.net/jersey) |  |
+| Country | Plates UK-model (white front / **yellow rear**) + the island's **red coat of arms** left + **'J' prefix**; **no blue strip** (Jersey was never in the EU) | [P](https://www.plonkit.net/jersey) |  |
+| Country | Road infrastructure like the UK: **drives left**, UK-style directional signs, chevrons, warning signs | [P](https://www.plonkit.net/jersey) |  |
+| Country | Vast majority of street/locality names contain **French words** (traditional language **Jèrriais** on some signs) | [P](https://www.plonkit.net/jersey) |  |
+| Country | Architecture like northern France: **pastel walls + dark slate roofs**; British terraced houses also common; many walls/houses of local **red granite** | [P](https://www.plonkit.net/jersey) |  |
+| Country | **Yellow telephone booths** (mainland UK = red) | [P](https://www.plonkit.net/jersey) |  |
+| Country | **Cornish palms** (thin trunks, arching leaves) common as decoration | [P](https://www.plonkit.net/jersey) |  |
+| Country | **Yellow give-way lines** at intersections (UK uses double dotted white) | [P](https://www.plonkit.net/jersey) |  |
+| Country | Extensive cycling network: **'Green Lane' signs** + blue route markers w/ an island map in the centre; some signs asymmetrically attached to posts (more than mainland) | [P](https://www.plonkit.net/jersey) |  |
+| Region | Most street signs carry the **coat of arms of their parish** — enlargeable overview graphic | [P](https://www.plonkit.net/jersey) |  |
+| Region | **St Helier** area = urbanised (taller buildings, narrow lively streets); **Les Mielles** reserve = vast treeless western coast w/ gentle westward slope + partially overcast coverage; SW of the island: **greenish-purple glitch** imagery (darker screen; not Jersey-exclusive) | [P](https://www.plonkit.net/jersey) |  |
+| Special | **Spotlights**: airport boundary fence; **La Collette power-station chimney** visible along the south coast (pinpoint anchor); **Victoria Ave** west of St Helier = the only divided road, w/ a maroon median | [P](https://www.plonkit.net/jersey) |  |
 
 ## San Marino
 Study: [Plonk It](https://www.plonkit.net/san-marino)
