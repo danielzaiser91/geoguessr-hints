@@ -141,20 +141,27 @@ Study: [Plonk It](https://www.plonkit.net/botswana)
 | Region | Coverage sparse (densest in the east + near Gaborone); mostly **pancake-flat**, hills only in ~2 areas (SE between Gaborone & Lobatse) | [P](https://www.plonkit.net/botswana) |  |
 
 ## Kenya
-Study: [Plonk It](https://www.plonkit.net/kenya)
+Study: [Plonk It](https://www.plonkit.net/kenya) · [GeoGuessr map](https://www.geoguessr.com/maps/638188a2ce5dad8d44eb9cae)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Mostly **Gen4 pickup truck** (often blurred; sometimes a **snorkel** — only Kenya & Mongolia have Gen4 snorkels) | [P](https://www.plonkit.net/kenya) |  |
+| Country | Mostly **Gen4 pickup-truck coverage** — usually blurred, but sometimes coloured car parts or a **snorkel** show | [P](https://www.plonkit.net/kenya) |  |
 | Country | Road lines: **outer always solid white**, inner **yellow** (solid or dashed) | [P](https://www.plonkit.net/kenya) |  |
-| Country | Poles concrete or wood with an **L-shaped crossbar** (a similar pole exists in Ghana) | [P](https://www.plonkit.net/kenya) |  |
-| Country | Plates **long white front / square yellow rear**; a grey Toyota SUV often **follows** the Street View car | [P](https://www.plonkit.net/kenya) |  |
-| Country | **Safaricom** (mobile-network brand) is unique to Kenya — almost every city has one | [P](https://www.plonkit.net/kenya) |  |
-| Country | Directional signs **green w/ white border & text** (road numbers white/yellow); other road signs mostly red/white | [P](https://www.plonkit.net/kenya) |  |
-| Country | **Repurposed vans** (matatus) found all over (Uganda's vehicle-wrap design differs) | [P](https://www.plonkit.net/kenya) |  |
-| Country | Many **eucalyptus** species (long clumped leaves, smooth bark); Gen3 = visible roof rack + snorkel (or no car) | [P](https://www.plonkit.net/kenya) |  |
-| Country | Pole markings often carry a **skull + danger** message | [P](https://www.plonkit.net/kenya) |  |
-| State | **County names on signs/billboards** → region; PO BOX **postcode** format (PO BOX XXX-**YYY**ZZ); east/north flat, SW higher; coastal coconut palms; red brick in the west + east of Nairobi | [P](https://www.plonkit.net/kenya) |  |
+| Country | Poles concrete or wood w/ an **L-shaped crossbar** | [P](https://www.plonkit.net/kenya) |  |
+| Country | A **grey Toyota SUV follows** the Street View car on much of the coverage | [P](https://www.plonkit.net/kenya) |  |
+| Country | Plates: **long white front / square YELLOW rear** | [P](https://www.plonkit.net/kenya) |  |
+| Country | **Safaricom** mobile-network shops — unique to Kenya, in almost every city | [P](https://www.plonkit.net/kenya) |  |
+| Country | Directional signs **green w/ white border + text**, road numbers white/yellow; other signs mostly red-white | [P](https://www.plonkit.net/kenya) |  |
+| Country | **Repurposed vans (matatus)** everywhere | [P](https://www.plonkit.net/kenya) |  |
+| Country | **Eucalyptus** very common (long clumped leaves, smooth bark) — supporting clue | [P](https://www.plonkit.net/kenya) |  |
+| Country | Gen3: visible **roof rack + snorkel** (some Gen3 shows no car at all) | [P](https://www.plonkit.net/kenya) |  |
+| Country | Pole markings w/ a **skull + danger message** | [P](https://www.plonkit.net/kenya) |  |
+| Region | **County names** appear on signs/billboards/posters → learn the counties; **PO BOX postcodes**: 'PO BOX XXX-YYYZZ' — the number after the hyphen = area code, city name often follows | [P](https://www.plonkit.net/kenya) |  |
+| Region | Coverage outside the SW mostly on main roads; **east + north = extremely flat, SW = higher**; climate zones humid → very arid (map); far west (around Kisumu) = the farm belt: grassy hills + eucalyptus; Kitui = semi-arid, light-orange sandy dirt; NW (A1/Sibiloi) = tan soil + sparse low trees + dirty exposed car | [P](https://www.plonkit.net/kenya) |  |
+| Region | **Coast**: coconut palms (+ rare Taita-Taveta); white flowers en masse → east of Chyulu Hills / Tsavo / A109 south of Nairobi; endless **stick fences** → around Narok; **red brick** → west + east of Nairobi; mud-and-stick houses → west + coast; light bricks w/ excess mortar → coast | [P](https://www.plonkit.net/kenya) |  |
+| City | **Nairobi** = the only skyscraper city, ringed by poor settlements; **Mt Kilimanjaro** visible to the south from Oloitoktok & the border area; Homa Bay = protruding hill east; **Wajir** = blinding white dirt roads + extremely red roadside soil | [P](https://www.plonkit.net/kenya) |  |
+| Special | **Road spotlights**: B9 (NE) = unpaved bright red-orange dirt; A2 Isiolo↔Marsabit = plants + big ranges (huge range west in Namunyak); A2 north of Marsabit = flatter, barer; A3 north of Garissa = light soil + green trees; western C34 = flat E-W, sugar cane + a long range north; B8 north of Kibaoni = succulents | [P](https://www.plonkit.net/kenya) |  |
+| Special | **National-park cars** (almost all w/ snorkel): | [P](https://www.plonkit.net/kenya) |  |
 
 ## Uganda
 Study: [Plonk It](https://www.plonkit.net/uganda)
