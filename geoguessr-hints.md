@@ -2454,23 +2454,37 @@ Study: [Plonk It](https://www.plonkit.net/greenland)
 | Special | More towns by vehicle: **Qaqortoq** = red car (sunny, greener); **Tasiilaq** = ATV w/ grey handguards; **Uummannaq** = sharp mountain to the north | [P](https://www.plonkit.net/greenland) |  |
 
 ## Mexico
-Study: [Plonk It](https://www.plonkit.net/mexico)
+Study: [Plonk It](https://www.plonkit.net/mexico) · [GeoGuessr map](https://www.geoguessr.com/maps/63382d2cc00816fde6cd69b6)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | **Octagonal concrete poles** (also Colombia); short plates, front plate required | [P](https://www.plonkit.net/mexico) |  |
-| Country | Small **white cylindrical bollards w/ black base** = Mexico-unique; white outer + single yellow middle lines | [P](https://www.plonkit.net/mexico) |  |
-| Country | Stop sign **"ALTO"** (S. America + PR = "PARE"; also PA/CR/GT use ALTO) | [P](https://www.plonkit.net/mexico) |  |
-| Country | Cacti everywhere; thick arrows on signs; yellow accents on kerbs; rooftop cylindrical water tanks | [P](https://www.plonkit.net/mexico) |  |
-| Country | **OXXO** & **Pemex** stations; Nahuatl place names (lots of x, tl, -tlan, -ec) | [P](https://www.plonkit.net/mexico) |  |
-| Country | Has **Gen2** (rare in Latin America); Gen3 white car w/ stubby coiled antenna; US pickups common | [P](https://www.plonkit.net/mexico) |  |
-| Region | **Blue agave fields → Jalisco/Nayarit** (tequila); Mexican Giant Cardon cactus → Baja California | [P](https://www.plonkit.net/mexico) |  |
-| Region | Saguaro cactus → Sonora; **boojum trees** (tentacle-like) → southern Baja California | [P](https://www.plonkit.net/mexico) |  |
-| Region | Monterrey = tall mountains ringing the city; blinding **white soil → Yucatán** (Quintana Roo) | [P](https://www.plonkit.net/mexico) |  |
-| Region | Red brick buildings → states west of CDMX (Jalisco, Michoacán, Guanajuato) | [P](https://www.plonkit.net/mexico) |  |
-| State | Area-code 1st digit = region; postal codes ordered alphabetically by state name | [P](https://www.plonkit.net/mexico) |  |
-| State | **Jalisco bollards** have a crown + "Jalisco" text (only Mexican bollard with writing) | [P](https://www.plonkit.net/mexico) |  |
-| Special | Bollards w/ red band near top → Nayarit; thick cross on sign backs → Chihuahua | [P](https://www.plonkit.net/mexico) |  |
+| Country | Most utility poles = **octagonal concrete**, often w/ engravings on the side | [P](https://www.plonkit.net/mexico) |  |
+| Country | **Short plates**, large design variety, **front plates required** | [P](https://www.plonkit.net/mexico) |  |
+| Country | Typical lines: **solid white outer + single unbroken yellow middle** (broken single / double yellow also common) | [P](https://www.plonkit.net/mexico) |  |
+| Country | Small **cylindrical white bollards w/ black base** (sometimes yellow reflector; flat version exists) — unique to Mexico | [P](https://www.plonkit.net/mexico) |  |
+| Country | Road shields: national = curvy w/ **'MEXICO'** on top; state = straight borders w/ state initials | [P](https://www.plonkit.net/mexico) |  |
+| Country | Directional signs w/ a distinctly **large all-caps white font**; km markers white w/ black font + outline; **noticeably thick arrows** on signs | [P](https://www.plonkit.net/mexico) |  |
+| Country | **Cacti of many species everywhere** | [P](https://www.plonkit.net/mexico) |  |
+| Country | Stop signs say **'ALTO'** | [P](https://www.plonkit.net/mexico) |  |
+| Country | **Yellow accents** on kerbs & bridge barriers quite common | [P](https://www.plonkit.net/mexico) |  |
+| Country | Wide cylindrical **black or white rooftop water tanks** (Tinacos) | [P](https://www.plonkit.net/mexico) |  |
+| Country | **OXXO** & **Pemex** = the big gas-station brands (OXXO exists abroad too, rarer) | [P](https://www.plonkit.net/mexico) |  |
+| Country | **Nahuatl place names**: lots of 'x' and 'tl', suffixes **-tlan/-ec** | [P](https://www.plonkit.net/mexico) |  |
+| Country | **Circular electricity counters** on buildings | [P](https://www.plonkit.net/mexico) |  |
+| Country | **US car brands** popular — lots of pickup trucks | [P](https://www.plonkit.net/mexico) |  |
+| Country | One of very few Latin American countries w/ **Gen2 coverage** | [P](https://www.plonkit.net/mexico) |  |
+| Country | Gen3 cars: **white w/ stubby coiled antenna** OR white w/ visible back + **long red brake light** (rarely just a sliver where the antenna sits); Gen4 cars often show a front — most common **blue**, **white w/ blue stripe**, or **black** | [P](https://www.plonkit.net/mexico) |  |
+| Region | **Area codes**: first digit = region (map); **postal codes** at the bottom of street signs — ordered alphabetically by state name (map) | [P](https://www.plonkit.net/mexico) |  |
+| Region | Every state has **unique plate designs** — the most useful ones are learnable through the blur (infographic) | [P](https://www.plonkit.net/mexico) |  |
+| Region | **Vegetation by region**: | [P](https://www.plonkit.net/mexico) |  |
+| Region | **Landscapes**: red fields → Zacatecas (+S-Durango); Monterrey ringed by tall mountains; stunted-pine rocky mountains → W-Chihuahua/Durango; extremely dark fields → Guanajuato; reddish hills w/ boulders → N-Baja; **blindingly white soil → Quintana Roo** (Gen3 only); red fields in dense tropical forest → N-Campeche | [P](https://www.plonkit.net/mexico) |  |
+| Region | **Architecture**: red brick → west of CDMX (Jalisco/Michoacán/Guanajuato/Aguascalientes); white concrete blocks → around CDMX & east; mud brick → Durango + desert states; northern Mexico = US-bungalow style w/ pastel colours, gates, front yards, Spanish-colonial orange tiles; thatched roofs → Yucatán + E-SLP; light rock walls → Yucatán state | [P](https://www.plonkit.net/mexico) |  |
+| Region | **State infrastructure metas**: | [P](https://www.plonkit.net/mexico) |  |
+| State | Jalisco bollards sometimes carry a **crown + 'Jalisco' text** — no other Mexican bollard has writing | [P](https://www.plonkit.net/mexico) |  |
+| State | Bollards w/ a **red band near the top** — unique to Nayarit (one exception: Federal Hwy 190 on the Oaxaca-Chiapas border) | [P](https://www.plonkit.net/mexico) |  |
+| City | **City lamp metas**: Aguascalientes = yellow lamps; Cuernavaca = black rectangular head + green-painted pole bottoms (faded in Gen4); Santiago de Querétaro = black edges + white middle; Cancún = five-bulb 'dice' lamp; Matamoros = ring-bulb; Hermosillo = zig-zag arm; Chihuahua city = white pole strip w/ street name | [P](https://www.plonkit.net/mexico) |  |
+| Special | **Spotlights**: | [P](https://www.plonkit.net/mexico) |  |
+| Special | **Special cars**: yellow-hood car → La Malinche volcano (Tlaxcala); white truck w/ visible mirrors → Cofre de Perote NP; red car w/ black roof → La Seca (Sinaloa) | [P](https://www.plonkit.net/mexico) |  |
 
 ## Alaska
 Study: [Plonk It](https://www.plonkit.net/alaska)

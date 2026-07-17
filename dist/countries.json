@@ -18321,159 +18321,532 @@
    "area_km2": 1964375,
    "links": {
     "plonkit": "https://www.plonkit.net/mexico",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/63382d2cc00816fde6cd69b6"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "**Octagonal concrete poles** (also Colombia); short plates, front plate required",
+     "type": "utility",
+     "text": "Most utility poles = **octagonal concrete**, often w/ engravings on the side",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "5mCi",
      "img": "mx_octopole.png",
-     "type": "utility"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "colombia",
+       "note": "Octagonal poles are also common in Colombia.",
+       "diff": "ALTO stop signs + cacti → Mexico; PARE → Colombia."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Small **white cylindrical bollards w/ black base** = Mexico-unique; white outer + single yellow middle lines",
+     "type": "plates",
+     "text": "**Short plates**, large design variety, **front plates required**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "2urx",
+     "img": "mx_licenceplate.png"
+    },
+    {
+     "cat": "country",
+     "type": "markings",
+     "text": "Typical lines: **solid white outer + single unbroken yellow middle** (broken single / double yellow also common)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "gmje",
+     "img": "mx_roadlines.png"
+    },
+    {
+     "cat": "country",
+     "type": "bollards",
+     "text": "Small **cylindrical white bollards w/ black base** (sometimes yellow reflector; flat version exists) — unique to Mexico",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "fEc6",
      "img": "mx_bollard.png",
-     "type": "bollards"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Stop sign **\"ALTO\"** (S. America + PR = \"PARE\"; also PA/CR/GT use ALTO)",
+     "type": "signs",
+     "text": "Road shields: national = curvy w/ **'MEXICO'** on top; state = straight borders w/ state initials",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "qDSL",
+     "img": "mx_roadshields.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Directional signs w/ a distinctly **large all-caps white font**; km markers white w/ black font + outline; **noticeably thick arrows** on signs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "hWCI",
+     "img": "mx_directionalsign.png",
+     "imgs": [
+      "mx_kmmarker.png",
+      "mx_arrow.png"
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "landscape",
+     "text": "**Cacti of many species everywhere**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "cx4K",
+     "img": "mx_cacti.jpg"
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Stop signs say **'ALTO'**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "ctfG",
      "img": "mx_alto.png",
-     "type": "signs"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "guatemala",
+       "note": "Guatemala also uses ALTO.",
+       "diff": "Octagonal poles + Mexican shields → Mexico."
+      },
+      {
+       "slug": "costa-rica",
+       "note": "Costa Rica also uses ALTO.",
+       "diff": "Plates + landscape decide."
+      },
+      {
+       "slug": "panama",
+       "note": "Panama also uses ALTO.",
+       "diff": "Plates + landscape decide."
+      },
+      {
+       "slug": "puerto-rico",
+       "note": "Puerto Rico (and all of South America) uses 'PARE'.",
+       "diff": "PARE → never Mexico."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Cacti everywhere; thick arrows on signs; yellow accents on kerbs; rooftop cylindrical water tanks",
+     "type": "markings",
+     "text": "**Yellow accents** on kerbs & bridge barriers quite common",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "cx4K",
-     "img": "mx_cacti.jpg",
-     "type": "landscape"
+     "anchor": "WhQo",
+     "img": "mx_yellowkerbs.png"
     },
     {
      "cat": "country",
-     "text": "**OXXO** & **Pemex** stations; Nahuatl place names (lots of x, tl, -tlan, -ec)",
+     "type": "arch",
+     "text": "Wide cylindrical **black or white rooftop water tanks** (Tinacos)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "UPKI",
+     "img": "mx_watertanks.png"
+    },
+    {
+     "cat": "country",
+     "type": "general",
+     "text": "**OXXO** & **Pemex** = the big gas-station brands (OXXO exists abroad too, rarer)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "LMob",
-     "img": "mx_brands.png",
-     "type": "general"
+     "img": "mx_brands.png"
     },
     {
      "cat": "country",
-     "text": "Has **Gen2** (rare in Latin America); Gen3 white car w/ stubby coiled antenna; US pickups common",
+     "type": "naming",
+     "text": "**Nahuatl place names**: lots of 'x' and 'tl', suffixes **-tlan/-ec**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "VvCA",
+     "img": "mx_placenames.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "country",
+     "type": "utility",
+     "text": "**Circular electricity counters** on buildings",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "MkKr",
+     "img": "mx_electricitycounter.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "usa",
+       "note": "Also circular there.",
+       "diff": "Language decides."
+      },
+      {
+       "slug": "guatemala",
+       "note": "Also circular there.",
+       "diff": "Combine with other clues."
+      },
+      {
+       "slug": "dominican-republic",
+       "note": "Also circular there.",
+       "diff": "Combine with other clues."
+      },
+      {
+       "slug": "philippines",
+       "note": "Also circular there.",
+       "diff": "Continent obvious."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "**US car brands** popular — lots of pickup trucks",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "htqU",
+     "img": "mx_americancars.png"
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "One of very few Latin American countries w/ **Gen2 coverage**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "lXCZ",
      "img": "mx_gen2.png",
-     "type": "cars"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "brazil",
+       "note": "Brazil has some Gen2 but mostly overwritten.",
+       "diff": "Spanish + ALTO → Mexico; Portuguese → Brazil."
+      }
+     ]
     },
     {
-     "super": true,
-     "cat": "state",
-     "text": "Area-code 1st digit = region; postal codes ordered alphabetically by state name",
+     "cat": "country",
+     "type": "cars",
+     "text": "Gen3 cars: **white w/ stubby coiled antenna** OR white w/ visible back + **long red brake light** (rarely just a sliver where the antenna sits); Gen4 cars often show a front — most common **blue**, **white w/ blue stripe**, or **black**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "SUto",
+     "img": "mx_gen3car.png",
+     "imgs": [
+      "mx_gen4cars2.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "The stubby coiled antenna also appears in US national parks — ALTO/Spanish decides."
+    },
+    {
+     "cat": "region",
+     "type": "naming",
+     "text": "**Area codes**: first digit = region (map); **postal codes** at the bottom of street signs — ordered alphabetically by state name (map)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "gtmC",
      "img": "mx_areacodes_nobg.png",
-     "type": "naming"
+     "imgs": [
+      "mx_postcodes.png"
+     ],
+     "super": true
     },
     {
      "cat": "region",
-     "text": "**Blue agave fields → Jalisco/Nayarit** (tequila); Mexican Giant Cardon cactus → Baja California",
+     "type": "plates",
+     "text": "Every state has **unique plate designs** — the most useful ones are learnable through the blur (infographic)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "ORWw",
-     "img": "mx_tequilafield.png",
-     "type": "landscape"
+     "anchor": "ah2z",
+     "img": "mx_licenceplates.png",
+     "super": true
     },
     {
      "cat": "region",
-     "text": "Saguaro cactus → Sonora; **boojum trees** (tentacle-like) → southern Baja California",
+     "type": "landscape",
+     "text": "**Vegetation by region**:",
+     "bullets": [
+      "Prickly pear (flat pads): central Mexico, rare south/coastal",
+      "Pulque agave (wide curling crown): central valley + around San Luis Potosí",
+      "Blue agave fields (tequila): Jalisco & Nayarit",
+      "Tree yucca: San Luis Potosí, Zacatecas + northern neighbours",
+      "Mexican Giant Cardon (huge sprawling arms): Baja peninsula",
+      "Saguaro (short curved arms): western Sonora",
+      "Organ Pipe cactus (thin stems from ground level): Sonora, some BCS",
+      "Blue Myrtle cactus (short up-curving arms): SLP, Querétaro, Hidalgo",
+      "Sugar cane: everywhere but by far most Veracruz",
+      "Coconut palms in big groups: Guerrero & Colima",
+      "Sabal palms (spiky sun crown): east coast, Yucatán, Nayarit",
+      "Attalea rostrata (upright umbrella palm): Veracruz/Tabasco",
+      "Oil-palm plantations: Chiapas (+ edges of Veracruz/Tabasco/Campeche)",
+      "Boojum trees (alien tentacles): southern half of Baja",
+      "Brittlebush (silver-grey shrub): Sonora, esp. Hermosillo",
+      "Thin white-barked trees: Quintana Roo/Yucatán",
+      "Gold grass tufts lining the road: Coahuila; teardrop grass clumps: Tlaxcala"
+     ],
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "3nP6",
-     "img": "mx_saguarocacti.png",
-     "type": "landscape"
+     "anchor": "QJWC",
+     "img": "mx_pricklypear.png",
+     "imgs": [
+      "mx_pulqueagave.png",
+      "mx_tequilafield.png",
+      "mx_treeyucca.png",
+      "mx_bajacacti.png",
+      "mx_saguarocacti.png",
+      "mx_organpipecacti.png",
+      "mx_bluemyrtlecacti.png",
+      "mx_sugarcanecacti.png",
+      "mx_coconutpalm.png",
+      "mx_sabalpalm.png",
+      "mx_veracruzpalm.png",
+      "mx_oilpalm.png",
+      "mx_boojumtree.png",
+      "mx_brittlebush.png",
+      "mx_quintanarootrees.png",
+      "mx_coahuilagrass.png",
+      "mx_tlaxcalagrass.png"
+     ],
+     "super": true
     },
     {
      "cat": "region",
-     "text": "Monterrey = tall mountains ringing the city; blinding **white soil → Yucatán** (Quintana Roo)",
+     "type": "landscape",
+     "text": "**Landscapes**: red fields → Zacatecas (+S-Durango); Monterrey ringed by tall mountains; stunted-pine rocky mountains → W-Chihuahua/Durango; extremely dark fields → Guanajuato; reddish hills w/ boulders → N-Baja; **blindingly white soil → Quintana Roo** (Gen3 only); red fields in dense tropical forest → N-Campeche",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "l5bZ",
+     "anchor": "cxcn",
+     "img": "mx_zacatecasredfield.png",
      "imgs": [
       "mx_monterreymountains.png",
-      "mx_whitesoilqroo.png"
+      "mx_northernpineforest.png",
+      "mx_guanajuatodarkfields.png",
+      "mx_bajahills.png",
+      "mx_whitesoilqroo.png",
+      "mx_campecheagriculture.png"
      ],
-     "type": "landscape"
+     "super": true
     },
     {
      "cat": "region",
-     "text": "Red brick buildings → states west of CDMX (Jalisco, Michoacán, Guanajuato)",
+     "type": "arch",
+     "text": "**Architecture**: red brick → west of CDMX (Jalisco/Michoacán/Guanajuato/Aguascalientes); white concrete blocks → around CDMX & east; mud brick → Durango + desert states; northern Mexico = US-bungalow style w/ pastel colours, gates, front yards, Spanish-colonial orange tiles; thatched roofs → Yucatán + E-SLP; light rock walls → Yucatán state",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "N0AG",
      "img": "mx_redbrick.png",
-     "type": "arch"
+     "imgs": [
+      "mx_whitebrick.png",
+      "mx_mudbrick.png",
+      "mx_northernarchitecture.png",
+      "mx_thatchedhuts.png",
+      "mx_yucatanrockwalls.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "utility",
+     "text": "**State infrastructure metas**:",
+     "bullets": [
+      "Thick cross on sign backs → Chihuahua",
+      "Acorn-shaped white insulators → coasts (Michoacán, Colima, Veracruz)",
+      "Asymmetric crossbar + double-stacked insulators → CDMX/Edomex/Hidalgo/Morelos",
+      "Lowered crossbar wooden poles → Sinaloa & Sonora",
+      "Concrete poles w/ insulators HANGING below crossbars → Yucatán peninsula",
+      "Wooden hanging-insulator poles → Baja peninsula",
+      "Lowered crossbar + single support beam → Durango",
+      "Mesh-body poles → SLP, Guanajuato, Querétaro",
+      "White middle lines → Tabasco",
+      "Red-bark tree fences → Veracruz (+ other coastal states)",
+      "Black tar beside the yellow centre line → Sinaloa/Durango/Guerrero",
+      "Grainy blue-grey pavement → Tamaulipas & Nuevo León (Tamaulipas: dashed outer lines)",
+      "Irregular cobblestone → Nayarit/Jalisco/Colima/Querétaro",
+      "Hexagonal-tile pavement → Puebla & Tlaxcala",
+      "Three-line cobblestone pattern → Oaxaca",
+      "Taxis white w/ pink top → Mexico City"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "baRr",
+     "img": "mx_chihuahuacross.png",
+     "imgs": [
+      "mx_coastalinsulators.png",
+      "mx_asymmetricpoles.png",
+      "mx_sinaloapole.png",
+      "mx_yucatanhangingpoles.png",
+      "mx_bajahangingpole.png",
+      "mx_durangopole.png",
+      "mx_meshpole.png",
+      "mx_tabascowhitelines.png",
+      "mx_veracruzfence.png",
+      "mx_blacktarroadlines.png",
+      "mx_northeastpavement.png",
+      "mx_queretaropavement.png",
+      "mx_pueblapavement.png",
+      "mx_oaxacapavement.png",
+      "mx_cdmxtaxi.png"
+     ],
+     "super": true
     },
     {
      "cat": "state",
      "area": "Jalisco",
-     "text": "**Jalisco bollards** have a crown + \"Jalisco\" text (only Mexican bollard with writing)",
+     "type": "bollards",
+     "text": "Jalisco bollards sometimes carry a **crown + 'Jalisco' text** — no other Mexican bollard has writing",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "83dD",
      "img": "mx_jaliscobollard.png",
-     "type": "bollards"
+     "uniq": "unique"
     },
     {
-     "cat": "special",
-     "text": "Bollards w/ red band near top → Nayarit; thick cross on sign backs → Chihuahua",
+     "cat": "state",
+     "area": "Nayarit",
+     "type": "bollards",
+     "text": "Bollards w/ a **red band near the top** — unique to Nayarit (one exception: Federal Hwy 190 on the Oaxaca-Chiapas border)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "PNuD",
-     "imgs": [
-      "mx_nayaritbollard.png",
-      "mx_chihuahuacross.png"
+     "img": "mx_nayaritbollard.png",
+     "uniq": "unique*",
+     "uniq_note": "Remember the Hwy-190 exception before locking Nayarit."
+    },
+    {
+     "cat": "city",
+     "type": "utility",
+     "text": "**City lamp metas**: Aguascalientes = yellow lamps; Cuernavaca = black rectangular head + green-painted pole bottoms (faded in Gen4); Santiago de Querétaro = black edges + white middle; Cancún = five-bulb 'dice' lamp; Matamoros = ring-bulb; Hermosillo = zig-zag arm; Chihuahua city = white pole strip w/ street name",
+     "src": [
+      "plonkit"
      ],
-     "type": "bollards"
+     "sv": null,
+     "anchor": "xzN2",
+     "img": "mx_aguascalientesyellowlamppost.png",
+     "imgs": [
+      "mx_cuernavacalamp.png",
+      "mx_santiagodequeretarolamp.png",
+      "mx_cancunlamp.png",
+      "mx_matamoroslamp.png",
+      "mx_hermosillolamp.png",
+      "mx_cuernavacagreenpolepaint.png",
+      "mx_chihuahuacitypole.png"
+     ],
+     "super": true,
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Spotlights**:",
+     "bullets": [
+      "Mexicali: flat farmland, ridge west, Washingtonia palms + brown wooden poles",
+      "Poza Rica (Veracruz): citrus plantations on hilltops",
+      "Ciudad Obregón: pinkish-tan soil + irrigation canals",
+      "Twin volcanoes Iztaccíhuatl & Popocatépetl: Edomex/Puebla border (usually faint)",
+      "Cerro del Bernal: lone extinct volcano, S-Tamaulipas",
+      "Sierra del Abra Tanchipa: extremely long flat ridge, E-SLP",
+      "Maderas del Carmen: tall flat ridge, N-Coahuila (only visible from Hwy 53)",
+      "Ciudad Juárez outskirts: orange dirt roads + low shrubs",
+      "Suchixtlahuaca (Oaxaca): hills alternating orange/beige soil",
+      "Guaymas: jagged cliffs, pinkish soil, organ-pipe cacti",
+      "Las Coloradas: pink lakes",
+      "Hwy 54 (NE-Zacatecas): yucca spam both sides + overexposed white car",
+      "40D (Sinaloa–Durango): lush cliffs, tunnels, double yellow lines",
+      "95D (CDMX→Acapulco): divider w/ yellow top & bottom edge",
+      "Eurus wind farm (SE-Oaxaca, Hwy 190): Mexico's largest turbine rows"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "or0C",
+     "img": "mx_mexicali.png",
+     "imgs": [
+      "mx_pozaricaorangetrees.png",
+      "mx_ciudadobregoncanals.png",
+      "mx_twinvolcanoe.png",
+      "mx_cerrodelbernal.png",
+      "mx_sierradelabratanchipa.png",
+      "mx_coaridge.png",
+      "mx_ciudadjuarez.png",
+      "mx_oaxacapinkwhitesoil.png",
+      "mx_guaymas.png",
+      "mx_loscoloradaspinklake.png",
+      "mx_54dividedyuccaroad.png",
+      "mx_40d.png",
+      "mx_95Ddivider.png",
+      "mx_euruswindfarm.png"
+     ],
+     "super": true,
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "cars",
+     "text": "**Special cars**: yellow-hood car → La Malinche volcano (Tlaxcala); white truck w/ visible mirrors → Cofre de Perote NP; red car w/ black roof → La Seca (Sinaloa)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "I66z",
+     "img": "mx_lamalinchecar.png",
+     "imgs": [
+      "mx_cofredeperotecar.png",
+      "mx_lasecacar.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },
