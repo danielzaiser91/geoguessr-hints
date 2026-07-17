@@ -26838,47 +26838,62 @@
    "hints": [
     {
      "cat": "country",
-     "text": "UK territory in the South Pacific (counts as UK); all coverage = a **Gen3 trekker** on just 2 islands (Pitcairn & Henderson)",
+     "type": "general",
+     "text": "UK territory in the South Pacific — **counts as UK** in streaks; coverage limited to **Pitcairn Island + Henderson Island**, all **Gen3 trekker**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "No2U",
-     "img": "pn_trekker.png",
-     "type": "cars"
+     "anchor": "jfvK",
+     "img": "Pitcairn_Islands_in_United_Kingdom.svg.png",
+     "imgs": [
+      "pn_coverage.png",
+      "pn_trekker.png"
+     ],
+     "super": true
     },
     {
      "cat": "country",
-     "text": "Semi-tropical, **densely forested**; most coverage is small **dirt tracks** through forest; soil is very **red**",
+     "type": "landscape",
+     "text": "Semi-tropical, **densely forested**; mostly small **dirt tracks** through forest; soil commonly **very red**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Vx9G",
      "img": "pn_landscape.png",
-     "type": "landscape"
+     "imgs": [
+      "pn_soil.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "Red-dirt forest trekker in the Pacific → Pitcairn."
     },
     {
      "cat": "region",
-     "text": "**Adamstown** = the only settlement (NE shore), some roads concrete rather than dirt; 'The Landing' dock has many small ATVs",
+     "type": "general",
+     "text": "**Adamstown** = the ONLY settlement (NE shore); some town roads are concrete instead of dirt; **'The Landing'** dock at the eastern end = lots of small ATVs",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "YjoB",
      "img": "pn_adamstown.png",
-     "type": "general"
+     "imgs": [
+      "pn_toughslope.png"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "region",
-     "text": "**Henderson Island** coverage = only two white-sand beaches (north & east shore)",
+     "type": "landscape",
+     "text": "**Henderson Island**: only two **white-sand beaches** covered (north + east shore)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "wWlg",
      "img": "pn_henderson.png",
-     "type": "general"
+     "uniq": "unique"
     }
    ]
   },

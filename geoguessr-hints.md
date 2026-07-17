@@ -3066,10 +3066,10 @@ Study: [Plonk It](https://www.plonkit.net/pitcairn-islands)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | UK territory in the South Pacific (counts as UK); all coverage = a **Gen3 trekker** on just 2 islands (Pitcairn & Henderson) | [P](https://www.plonkit.net/pitcairn-islands) |  |
-| Country | Semi-tropical, **densely forested**; most coverage is small **dirt tracks** through forest; soil is very **red** | [P](https://www.plonkit.net/pitcairn-islands) |  |
-| Region | **Adamstown** = the only settlement (NE shore), some roads concrete rather than dirt; 'The Landing' dock has many small ATVs | [P](https://www.plonkit.net/pitcairn-islands) |  |
-| Region | **Henderson Island** coverage = only two white-sand beaches (north & east shore) | [P](https://www.plonkit.net/pitcairn-islands) |  |
+| Country | UK territory in the South Pacific — **counts as UK** in streaks; coverage limited to **Pitcairn Island + Henderson Island**, all **Gen3 trekker** | [P](https://www.plonkit.net/pitcairn-islands) |  |
+| Country | Semi-tropical, **densely forested**; mostly small **dirt tracks** through forest; soil commonly **very red** | [P](https://www.plonkit.net/pitcairn-islands) |  |
+| Region | **Adamstown** = the ONLY settlement (NE shore); some town roads are concrete instead of dirt; **'The Landing'** dock at the eastern end = lots of small ATVs | [P](https://www.plonkit.net/pitcairn-islands) |  |
+| Region | **Henderson Island**: only two **white-sand beaches** covered (north + east shore) | [P](https://www.plonkit.net/pitcairn-islands) |  |
 
 ## US Minor Outlying Islands
 Study: [Plonk It](https://www.plonkit.net/us-minor-outlying-islands)
