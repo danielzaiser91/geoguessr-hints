@@ -2521,20 +2521,26 @@ Study: [Plonk It](https://www.plonkit.net/guatemala)
 | Special | **Tikal trekker**: several Mayan temples just west of Tikal town — the most prominent ruins trekker (others exist, smaller) | [P](https://www.plonkit.net/guatemala) |  |
 
 ## Panama
-Study: [Plonk It](https://www.plonkit.net/panama)
+Study: [Plonk It](https://www.plonkit.net/panama) · [GeoGuessr map](https://www.geoguessr.com/maps/65161a37377228d88a008ba5)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Short plates, usually white w/ a **turquoise strip on top**; front plates not required | [P](https://www.plonkit.net/panama) |  |
-| Country | **White pickup, usually fully blurred** (antenna occasionally visible; Costa Rica's truck is unblurred, Ecuador's has no antenna/railing) | [P](https://www.plonkit.net/panama) |  |
-| Country | Tropical w/ **lots of hills**, palms + drier rolling fields | [P](https://www.plonkit.net/panama) |  |
-| Country | Roads often paralleled by **fences made partly of small living trees** (rest of the posts wooden) | [P](https://www.plonkit.net/panama) |  |
-| Country | Spanish-colonial architecture: vibrant colours, red metal/tile roofs, barred windows | [P](https://www.plonkit.net/panama) |  |
-| Country | Road lines: usually solid outer white + inner yellow; **solid outer white w/ NO middle line ≈ unique to Panama** in LatAm | [P](https://www.plonkit.net/panama) |  |
-| Country | Poles mostly round concrete (varying insulators), often w/ plates + blue/white/red painted numbers | [P](https://www.plonkit.net/panama) |  |
-| Country | **Yellow taxis w/ a chequerboard stripe** (plate drawn on the side w/ city name + regional code) | [P](https://www.plonkit.net/panama) |  |
-| Country | Stop sign **"ALTO"** (thicker font than MX/CR/GT); **red octagonal sign w/ an oddly realistic eye** = unique to Panama | [P](https://www.plonkit.net/panama) |  |
-| Region | Coverage sparse on the north coast + east of Panama City; **phone & taxi-plate first digit = region**; David flat, Changuinola bananas, Panama City white high-rises | [P](https://www.plonkit.net/panama) |  |
+| Country | Short plates, most commonly white w/ a **horizontal turquoise strip on top** (rarely other colours); **no front plates required** | [P](https://www.plonkit.net/panama) |  |
+| Country | Coverage by a **large white pickup that is usually ENTIRELY blurred** (antenna occasionally visible) | [P](https://www.plonkit.net/panama) |  |
+| Country | Tropical w/ **lots of hills**: palms & tropical plants + drier rolling hills and fields | [P](https://www.plonkit.net/panama) |  |
+| Country | Roads paralleled by **fences partly/fully made of small living trees**; other posts almost always wooden | [P](https://www.plonkit.net/panama) |  |
+| Country | Spanish-colonial influence: **vibrant colours**, ornate details; painted concrete (or brick) walls + **red metal-sheet or tile roofs**; barred windows | [P](https://www.plonkit.net/panama) |  |
+| Country | Most common lines: solid outer white + yellow middle; **solid outer white w/ NO middle line ≈ unique to Panama within Latin America** | [P](https://www.plonkit.net/panama) |  |
+| Country | Poles mostly **round concrete** (also wood/metal), varying insulator types; plates attached + **blue/white/red painted numbers** | [P](https://www.plonkit.net/panama) |  |
+| Country | **Yellow taxis w/ a chequerboard stripe** — plate painted on the side incl. city name + regional code | [P](https://www.plonkit.net/panama) |  |
+| Country | Stop signs: **'ALTO' in a thicker font** than MX/CR/GT | [P](https://www.plonkit.net/panama) |  |
+| Country | Red octagonal signs w/ an **oddly realistic eye** — unique to Panama | [P](https://www.plonkit.net/panama) |  |
+| Region | Coverage good EXCEPT the north coast + east of Panama City (map) | [P](https://www.plonkit.net/panama) |  |
+| Region | **First digit of 7-digit phone numbers = region** (5/6/8 useless); **taxi/bus plate first digit = region** (cars travel — caution) | [P](https://www.plonkit.net/panama) |  |
+| Region | **Landscape**: tall grass + palms → around Colón & Panama City; volcanic rocks (loose or in walls) → north of David; David area = flat open fields w/ mountains N/NE; Aguadulce = flat farmland w/ brown-orange soil | [P](https://www.plonkit.net/panama) |  |
+| Region | **Pole-plate metas**: east = tall vertical yellow/white plates on black zip ties (don't confuse w/ the wider 6-digit white plates on metal ties); west = horizontal plates (vertical eastern plate wins if both); thin yellow plates w/ black border → Colón; wind turbines → around Penonomé | [P](https://www.plonkit.net/panama) |  |
+| Region | **Distinct roads**: Ngäbe-Buglé main road = high-altitude above the clouds, dry mountains; Changuinola road = lush green hills, always overcast; Hwy 9 (Panama City→Colón) = divided grainy concrete w/ tar lines; Road 407 = fresh pavement + orange roadside soil | [P](https://www.plonkit.net/panama) |  |
+| Special | **Spotlights**: Panama City = many white high-rises; Colón = warehouses + rundown multi-storey blocks; Changuinola region = banana plantations; sunset coverage → small road south of Tonosí; pine trees + volcanic rock + gravel roads → NE of Volcán; **yellow pole socks** → around Gatún at the Panama Canal | [P](https://www.plonkit.net/panama) |  |
 
 ## Costa Rica
 Study: [Plonk It](https://www.plonkit.net/costa-rica) · [GeoGuessr map](https://www.geoguessr.com/maps/69fd32301b7ce0cfa117e61f)
