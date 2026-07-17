@@ -3004,11 +3004,11 @@ Study: [Plonk It](https://www.plonkit.net/vanuatu)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Pacific island nation NE of Brisbane; all coverage = **Gen3 trekker** | [P](https://www.plonkit.net/vanuatu) |  |
-| Country | Volcanic island → **dark volcanic soil**; tropical, much coverage in dense forest | [P](https://www.plonkit.net/vanuatu) |  |
-| Region | Of 13 islands, only **Ambrym Island** has coverage (find the 'Port Vato' label, N of Port Vila); a unique volcano trekker is in the centre | [P](https://www.plonkit.net/vanuatu) |  |
-| Region | E of the volcano: a plateau w/ dark brown soil, then jungle w/ ferns (man in a red cap), then a **black-sand beach** on the east coast | [P](https://www.plonkit.net/vanuatu) |  |
-| Region | **Endu Pahakol** = the only village w/ coverage — small **thatched huts** + dark soil | [P](https://www.plonkit.net/vanuatu) |  |
+| Country | Pacific island nation NE of Brisbane (between Solomon Islands, New Caledonia & Fiji); all coverage = **Gen3 trekker** | [P](https://www.plonkit.net/vanuatu) |  |
+| Country | Volcanic island → **dark volcanic soil**; tropical, much of the coverage in **dense tropical forest** | [P](https://www.plonkit.net/vanuatu) |  |
+| Region | Of 13 main islands, **only Ambrym Island** has coverage — find the 'Port Vato' label north of Port Vila | [P](https://www.plonkit.net/vanuatu) |  |
+| Special | **Trekker route west→east**: unique **volcano trekker** mid-island; plateau w/ dark brown soil + patchy grass; jungle w/ ferns + **man in a red cap**; **black-sand beach** on the east side; dirt road w/ tyre tracks + slightly purple soil east of the beach | [P](https://www.plonkit.net/vanuatu) |  |
+| Special | **Endu Pahakol** = the only covered village: small **thatched huts** + dark soil | [P](https://www.plonkit.net/vanuatu) |  |
 
 ## Guam
 Study: [Plonk It](https://www.plonkit.net/guam)

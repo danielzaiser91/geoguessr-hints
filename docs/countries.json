@@ -38301,58 +38301,74 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Pacific island nation NE of Brisbane; all coverage = **Gen3 trekker**",
+     "type": "general",
+     "text": "Pacific island nation NE of Brisbane (between Solomon Islands, New Caledonia & Fiji); all coverage = **Gen3 trekker**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "Bssm",
-     "img": "vu_trekker.png",
-     "type": "cars"
+     "anchor": "BJP0",
+     "img": "vanuatu_locator.png",
+     "imgs": [
+      "vu_trekker.png"
+     ],
+     "super": true
     },
     {
      "cat": "country",
-     "text": "Volcanic island → **dark volcanic soil**; tropical, much coverage in dense forest",
+     "type": "landscape",
+     "text": "Volcanic island → **dark volcanic soil**; tropical, much of the coverage in **dense tropical forest**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "2S4i",
-     "img": "vu_tropical.png",
-     "type": "landscape"
+     "anchor": "G1Ko",
+     "img": "vu_soil.png",
+     "imgs": [
+      "vu_tropical.png"
+     ]
     },
     {
      "cat": "region",
-     "text": "Of 13 islands, only **Ambrym Island** has coverage (find the 'Port Vato' label, N of Port Vila); a unique volcano trekker is in the centre",
+     "type": "general",
+     "text": "Of 13 main islands, **only Ambrym Island** has coverage — find the 'Port Vato' label north of Port Vila",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "HJp5",
+     "img": "vu_coverage.png",
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Trekker route west→east**: unique **volcano trekker** mid-island; plateau w/ dark brown soil + patchy grass; jungle w/ ferns + **man in a red cap**; **black-sand beach** on the east side; dirt road w/ tyre tracks + slightly purple soil east of the beach",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "8ppR",
      "img": "Volcano.png",
-     "type": "general"
-    },
-    {
-     "cat": "region",
-     "text": "E of the volcano: a plateau w/ dark brown soil, then jungle w/ ferns (man in a red cap), then a **black-sand beach** on the east coast",
-     "src": [
-      "plonkit"
+     "imgs": [
+      "Plateau.png",
+      "Jungle.png",
+      "Beach.png",
+      "Dirt_Road.png"
      ],
-     "sv": null,
-     "anchor": "g0KZ",
-     "img": "Beach.png",
-     "type": "general"
+     "uniq": "unique"
     },
     {
-     "cat": "region",
-     "text": "**Endu Pahakol** = the only village w/ coverage — small **thatched huts** + dark soil",
+     "cat": "special",
+     "type": "arch",
+     "text": "**Endu Pahakol** = the only covered village: small **thatched huts** + dark soil",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "DTRR",
      "img": "Village.png",
-     "type": "general"
+     "uniq": "unique"
     }
    ]
   },
