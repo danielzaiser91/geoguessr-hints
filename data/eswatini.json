@@ -5,12 +5,25 @@
  "area_km2": 17364,
  "links": { "plonkit": "https://www.plonkit.net/eswatini", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Landscape = **green wooded hills + tall golden grass** (Lesotho's mountains are barren, w/ little long grass)", "src": ["plonkit"], "sv": null, "anchor": "sSv1", "img": "Eswatini_vibe.png", "type": "landscape" },
-  { "cat": "country", "text": "Poles dark brown wood, insulators mostly side-mounted — often **3 insulators** (commonest in Eswatini within S. Africa)", "src": ["plonkit"], "sv": null, "anchor": "Os75", "img": "Copy_of_Untitled_Design__2830_29.png", "type": "utility" },
-  { "cat": "country", "text": "Roads starting with **\"MR\"** are exclusive to Eswatini", "src": ["plonkit"], "sv": null, "anchor": "P8gV", "img": "MRroad.png", "type": "signs" },
-  { "cat": "country", "text": "**Yellow outer lines**, occasionally triple white middle lines (shared with ZA/Lesotho/Botswana)", "src": ["plonkit"], "sv": null, "anchor": "XXIL", "img": "Eswa_lines.png", "type": "markings" },
-  { "cat": "country", "text": "**White car, no antenna** (also ZA / Lesotho / Botswana)", "src": ["plonkit"], "sv": null, "anchor": "PQbM", "img": "white_car.webp", "type": "cars" },
-  { "cat": "country", "text": "Plates **long, green at the bottom** (resemble some South African plates); concrete bus shelters common", "src": ["plonkit"], "sv": null, "anchor": "Y6BK", "img": "Eswatini_License_Plate.png", "type": "plates" },
-  { "cat": "region", "text": "West = montane golden grass + pine plantations; MR9 central-south = dark-green wooded mountains; east = flat + sugarcane; Portuguese → Lomahasha (Mozambique border)", "src": ["plonkit"], "sv": null, "anchor": "pB4I", "img": "Landscape_-_Montane_Grasslands.png", "type": "naming" }
+  { "cat": "country", "type": "landscape", "text": "Landscape: **green wooded hills + tall golden grass**", "src": ["plonkit"], "sv": null, "anchor": "sSv1", "img": "Eswatini_vibe.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "lesotho", "note": "Lesotho's mountains are barren; long grass is rare there.", "diff": "Tall grass + trees → Eswatini; bare tabletops → Lesotho." },
+      { "slug": "south-africa", "note": "Mpumalanga/KZN can look similar.", "diff": "MR-roads + green-bottom plates → Eswatini." } ] },
+  { "cat": "country", "type": "utility", "text": "Poles of **dark brown wood**, simple, insulators mostly side-mounted — **3 insulators** is the Eswatini look within southern Africa", "src": ["plonkit"], "sv": null, "anchor": "Os75", "img": "Copy_of_Untitled_Design__2830_29.png" },
+  { "cat": "country", "type": "signs", "text": "Road numbers starting **'MR'** are exclusive to Eswatini", "src": ["plonkit"], "sv": null, "anchor": "P8gV", "img": "MRroad.png", "uniq": "unique" },
+  { "cat": "country", "type": "markings", "text": "**Yellow outer lines**, occasionally triple white middle lines", "src": ["plonkit"], "sv": null, "anchor": "XXIL", "img": "Eswa_lines.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "south-africa", "note": "Region-wide scheme (ZA/LS/BW too).", "diff": "MR-roads decide." } ] },
+  { "cat": "country", "type": "cars", "text": "All coverage = **white Google car w/o antenna** (Gen3 only)", "src": ["plonkit"], "sv": null, "anchor": "PQbM", "img": "white_car.webp",
+    "uniq": "shared", "shared_with": [
+      { "slug": "south-africa", "note": "Same car (ZA also has Gen2/4).", "diff": "Gen3-only + tall grass → Eswatini." },
+      { "slug": "lesotho", "note": "Same car.", "diff": "Landscape decides." },
+      { "slug": "botswana", "note": "Same car.", "diff": "Flat dry → Botswana; green hills → Eswatini." } ] },
+  { "cat": "country", "type": "plates", "text": "Plates **long, green at the bottom**", "src": ["plonkit"], "sv": null, "anchor": "Y6BK", "img": "Eswatini_License_Plate.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "south-africa", "note": "Some ZA plates look similar.", "diff": "Combine with MR-roads/landscape." } ] },
+  { "cat": "country", "type": "general", "text": "**Concrete bus shelters** common along roads", "src": ["plonkit"], "sv": null, "anchor": "eMUU", "img": "busshelter.png", "uniq": "unique" },
+  { "cat": "region", "type": "landscape", "text": "**Regions**: west = montane grasslands w/ pristine golden grass + pine plantations; central-south (MR9) = **dark, overwhelmingly green** wooded mountains; east = unusually flat w/ distant mountains + **sugar cane along the eastern border**", "src": ["plonkit"], "sv": null, "anchor": "pB4I", "img": "Landscape_-_Montane_Grasslands.png", "imgs": ["Pine_Tree_Plantations.png", "Landscape_-_MR9_Region.png", "Landscape_-_East_Flat.png", "Sugar_Cane.png"], "super": true },
+  { "cat": "special", "type": "roads", "text": "**Spotlights**: MR3 south of Ngomane = flat + long dry grass + dirt on the camera; MR3 Manzini→ZA border = the **only divided highway** (metal + stone guardrails); MR8 (SE, ZA border) = distinct ridge east; Mlawula Reserve = narrow dirt tracks + savanna; **Portuguese text → Lomahasha** (Mozambique border town)", "src": ["plonkit"], "sv": null, "anchor": "f8Wu", "img": "Road_-_MR3_South_of_Ngomane.png", "imgs": ["Road_-_MR3_Manzini_to_South_Africa_Border.png", "Road_-_MR8_Southeast_Ridge.png", "Mlawula_Nature_Reserve.png", "Lomahasha_Portuguese.png"], "uniq": "unique" }
  ]
 }

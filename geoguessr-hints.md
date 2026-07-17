@@ -294,13 +294,15 @@ Study: [Plonk It](https://www.plonkit.net/eswatini)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Landscape = **green wooded hills + tall golden grass** (Lesotho's mountains are barren, w/ little long grass) | [P](https://www.plonkit.net/eswatini) |  |
-| Country | Poles dark brown wood, insulators mostly side-mounted — often **3 insulators** (commonest in Eswatini within S. Africa) | [P](https://www.plonkit.net/eswatini) |  |
-| Country | Roads starting with **"MR"** are exclusive to Eswatini | [P](https://www.plonkit.net/eswatini) |  |
-| Country | **Yellow outer lines**, occasionally triple white middle lines (shared with ZA/Lesotho/Botswana) | [P](https://www.plonkit.net/eswatini) |  |
-| Country | **White car, no antenna** (also ZA / Lesotho / Botswana) | [P](https://www.plonkit.net/eswatini) |  |
-| Country | Plates **long, green at the bottom** (resemble some South African plates); concrete bus shelters common | [P](https://www.plonkit.net/eswatini) |  |
-| Region | West = montane golden grass + pine plantations; MR9 central-south = dark-green wooded mountains; east = flat + sugarcane; Portuguese → Lomahasha (Mozambique border) | [P](https://www.plonkit.net/eswatini) |  |
+| Country | Landscape: **green wooded hills + tall golden grass** | [P](https://www.plonkit.net/eswatini) |  |
+| Country | Poles of **dark brown wood**, simple, insulators mostly side-mounted — **3 insulators** is the Eswatini look within southern Africa | [P](https://www.plonkit.net/eswatini) |  |
+| Country | Road numbers starting **'MR'** are exclusive to Eswatini | [P](https://www.plonkit.net/eswatini) |  |
+| Country | **Yellow outer lines**, occasionally triple white middle lines | [P](https://www.plonkit.net/eswatini) |  |
+| Country | All coverage = **white Google car w/o antenna** (Gen3 only) | [P](https://www.plonkit.net/eswatini) |  |
+| Country | Plates **long, green at the bottom** | [P](https://www.plonkit.net/eswatini) |  |
+| Country | **Concrete bus shelters** common along roads | [P](https://www.plonkit.net/eswatini) |  |
+| Region | **Regions**: west = montane grasslands w/ pristine golden grass + pine plantations; central-south (MR9) = **dark, overwhelmingly green** wooded mountains; east = unusually flat w/ distant mountains + **sugar cane along the eastern border** | [P](https://www.plonkit.net/eswatini) |  |
+| Special | **Spotlights**: MR3 south of Ngomane = flat + long dry grass + dirt on the camera; MR3 Manzini→ZA border = the **only divided highway** (metal + stone guardrails); MR8 (SE, ZA border) = distinct ridge east; Mlawula Reserve = narrow dirt tracks + savanna; **Portuguese text → Lomahasha** (Mozambique border town) | [P](https://www.plonkit.net/eswatini) |  |
 
 ## Reunion
 Study: [Plonk It](https://www.plonkit.net/reunion)
