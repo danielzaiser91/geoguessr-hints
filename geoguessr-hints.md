@@ -131,19 +131,24 @@ Study: [Plonk It](https://www.plonkit.net/madagascar)
 | Region | Coverage very limited, mostly the **west coast** (+ boat trekkers & small atolls); landmarks = Baobab Avenue, Morondava beach, **Antananarivo** (Queen's Palace hill), Kirindy Mitea (reddest soil) | [P](https://www.plonkit.net/madagascar) |  |
 
 ## Botswana
-Study: [Plonk It](https://www.plonkit.net/botswana)
+Study: [Plonk It](https://www.plonkit.net/botswana) · [GeoGuessr map](https://www.geoguessr.com/maps/69d7018c8d737107a968e805)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | **White car, no antenna** (in Africa also ZA / Lesotho / Eswatini) | [P](https://www.plonkit.net/botswana) |  |
-| Country | Plates **white front / yellow rear** (UK-style) — only Botswana & Namibia in southern Africa predominantly have yellow rear plates | [P](https://www.plonkit.net/botswana) |  |
-| Country | Signs in **English**; town names from indigenous languages; **Afrikaans very rare** (unlike South Africa) | [P](https://www.plonkit.net/botswana) |  |
-| Country | Landscape **dry & mostly flat**: shrubs, small trees, golden grass; sandy soil white → red | [P](https://www.plonkit.net/botswana) |  |
-| Country | Road lines **yellow outer / white middle** (Southern Africa; note Botswana drives **left**) | [P](https://www.plonkit.net/botswana) |  |
-| Country | Unique **black-and-yellow striped signposts** (in S. Africa only Botswana); striped kerbs & guardrails | [P](https://www.plonkit.net/botswana) |  |
-| Country | Green direction signs; **road numbers start with A** (South Africa never starts with A); some older **blue-background** signs (~unique to Botswana) | [P](https://www.plonkit.net/botswana) |  |
-| Country | Houses range shack → bungalow, exposed grey brick, occasional round huts; **random small blurs** common in coverage | [P](https://www.plonkit.net/botswana) |  |
-| Region | Coverage sparse (densest in the east + near Gaborone); mostly **pancake-flat**, hills only in ~2 areas (SE between Gaborone & Lobatse) | [P](https://www.plonkit.net/botswana) |  |
+| Country | All coverage: **white Google car w/o antenna** | [P](https://www.plonkit.net/botswana) |  |
+| Country | Plates **white front / yellow rear** (UK-style) | [P](https://www.plonkit.net/botswana) |  |
+| Country | Signs in **English**; town names from indigenous languages; **Afrikaans nearly absent** (unlike ZA) | [P](https://www.plonkit.net/botswana) |  |
+| Country | Typical look: **dry, mostly flat**; shrubs, small trees, golden grass; arid sandy soil white → red (ZA border region similar) | [P](https://www.plonkit.net/botswana) |  |
+| Country | **Yellow outer lines (if present) + white centre** — southern-Africa scheme; drives left | [P](https://www.plonkit.net/botswana) |  |
+| Country | Unique **black-yellow striped signposts** (rarer red-white) — in southern Africa only Botswana; kerbs & guardrails striped too (black-yellow / red-white / black-white) | [P](https://www.plonkit.net/botswana) |  |
+| Country | Small **red-white chevrons** roadside (also very common in ZA); green direction signs w/ **A-prefixed road numbers** (ZA never starts with A); some old **blue-background signs** — relatively unique to Botswana | [P](https://www.plonkit.net/botswana) |  |
+| Country | Houses: shacks → middle-class bungalows, exposed grey brick, occasional round huts (region-wide styles) | [P](https://www.plonkit.net/botswana) |  |
+| Country | **Random small blurs** scattered over the panorama (esp. urban) — a Botswana coverage quirk | [P](https://www.plonkit.net/botswana) |  |
+| Region | **Region map** (soil/vegetation breakdown, clickable); coverage densest in the east + Gaborone (bigger towns have side streets); paved/unpaved map; **pancake-flat** except two hill areas (map) — isolated lone hills possible anywhere | [P](https://www.plonkit.net/botswana) |  |
+| Region | **Region reads**: shrub-covered semi-arid hills → Gaborone↔Lobatse (SE); red firm rocky soil + autumn-coloured/withered trees → eastern pocket north of Francistown; **bright WHITE sand + very dry vegetation** → central-west | [P](https://www.plonkit.net/botswana) |  |
+| Region | **Road reads**: A35 = powerline always WEST + grainy faded asphalt + parallel bush tracks; A33 = unusually lush, greener northward; Middlepits border road = red-tinted asphalt (very red soil + white pebbles near Middlepits) | [P](https://www.plonkit.net/botswana) |  |
+| City | **Gaborone** = richest/most developed look (only Francistown resembles it); **Francistown** = lone hill w/ radio antennas to the north (Serowe's similar hill: taller red-white striped towers + flat top); **Maun** = the only big town on bright white sand | [P](https://www.plonkit.net/botswana) |  |
+| Special | **Spotlights**: western A2 = overcast; Chobe Flood Plains (far north) = winding dirt roads + elephants/warthogs; A30 stretch = orange-leaved trees in rows + tall grass; **salt pans** (central-east, around Nwetwe — show as lakes on the map) w/ leafless June trees; rural dirt tracks outside Gaborone = orange-red dirt + green bushes; A33 construction zone (Sibuya); Maun→Khwai road = extremely white sand + tall green trees (paved to Shorobe, powerline west); A20 = clean asphalt, red soil, dry grey trees (SE of Tshabong: fresh bright-yellow lines + yellow flower patches); **Tsodilo Hills** = big rock-faced hills on dirt roads; Pandamatenga = distinctive silos | [P](https://www.plonkit.net/botswana) |  |
 
 ## Kenya
 Study: [Plonk It](https://www.plonkit.net/kenya) · [GeoGuessr map](https://www.geoguessr.com/maps/638188a2ce5dad8d44eb9cae)
