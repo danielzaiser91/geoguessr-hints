@@ -2196,14 +2196,19 @@ Study: [Plonk It](https://www.plonkit.net/malta)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Drives on the **left** (Cyprus does too) | [P](https://www.plonkit.net/malta) |  |
-| Country | Plates have a blue strip left, but **short plates are very common** (unlike most of Europe) | [P](https://www.plonkit.net/malta) |  |
-| Country | Landscape = slightly hilly **dry agricultural** fields, 1–2 lane roads, cacti & dry shrubs (Mediterranean) | [P](https://www.plonkit.net/malta) |  |
-| Country | **Limestone rock walls** everywhere — this alone is usually enough to know you're in Malta | [P](https://www.plonkit.net/malta) |  |
-| Country | Low buildings, white-to-beige/limestone walls; traditional **covered balconies** (often brightly painted) | [P](https://www.plonkit.net/malta) |  |
-| Country | Street = **"triq"** on almost every street sign | [P](https://www.plonkit.net/malta) |  |
-| Country | **Double yellow no-parking lines** (like UK/Ireland); bus stops common (often naming the location) | [P](https://www.plonkit.net/malta) |  |
-| Country | **English** primary + **Maltese** (Latin w/ unique **Ċ Ġ Ħ Ż**); Gozo = stone barriers + bus routes all in the **300s** | [P](https://www.plonkit.net/malta) |  |
+| Country | Drives on the **left** | [P](https://www.plonkit.net/malta) |  |
+| Country | Plates: blue strip left, but **short plates are very common** (unlike most of Europe) | [P](https://www.plonkit.net/malta) |  |
+| Country | Landscape: slightly hilly **dry agricultural fields**, 1–2-lane roads, cacti & dry shrubs (Mediterranean) | [P](https://www.plonkit.net/malta) |  |
+| Country | **Limestone rock walls** extremely common — this alone usually identifies Malta | [P](https://www.plonkit.net/malta) |  |
+| Country | Low buildings w/ **white-to-beige walls**, often limestone-built | [P](https://www.plonkit.net/malta) |  |
+| Country | Traditional **covered balconies**, often painted in bright colours | [P](https://www.plonkit.net/malta) |  |
+| Country | Street = **"triq"** — on almost every street sign | [P](https://www.plonkit.net/malta) |  |
+| Country | **Bus stops** very common — sometimes with useful location info | [P](https://www.plonkit.net/malta) |  |
+| Country | **Double yellow no-parking lines** along road edges | [P](https://www.plonkit.net/malta) |  |
+| Country | **English** is the primary language; **Maltese** also everywhere — Latin script w/ unique letters **Ċ Ġ Ħ Ż** | [P](https://www.plonkit.net/malta) |  |
+| Region | **Gozo Island**: metal guardrails rare — **low stone barriers** instead; all Gozo bus routes are in the **300s** | [P](https://www.plonkit.net/malta) |  |
+| City | **Valletta**: these blue signs are unique to the capital | [P](https://www.plonkit.net/malta) |  |
+| Special | **Trekker on a white-blue ship** between the main island and Gozo | [P](https://www.plonkit.net/malta) |  |
 
 ## Liechtenstein
 Study: [Plonk It](https://www.plonkit.net/liechtenstein)
