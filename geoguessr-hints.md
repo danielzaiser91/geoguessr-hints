@@ -1577,23 +1577,27 @@ Study: [Plonk It](https://www.plonkit.net/united-kingdom) · [GeoGuessr map](htt
 | City | **London**: some Gen4 by a white **EV** w/ distinct back (same car: Dublin, Germany); **Birmingham**: yellow tape/paint + yellow stickers on most poles & lampposts; **Glasgow**: green-bordered '**Twenty's Plenty**' speed signs | [P](https://www.plonkit.net/united-kingdom) |  |
 
 ## Romania
-Study: [Plonk It](https://www.plonkit.net/romania)
+Study: [Plonk It](https://www.plonkit.net/romania) · [GeoGuessr map](https://www.geoguessr.com/maps/63e125c558300fd915d01c68)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plate long white + single blue strip left | [P](https://www.plonkit.net/romania) |  |
-| Country | **Romanian** (Romance, similar to Italian): special letters **Ă Ș Ț** (+ Â, Î) | [P](https://www.plonkit.net/romania) |  |
-| Country | **Holey poles** with holes reaching the bottom (wide or tall) — Poland's stop short, Hungary's are smaller; round concrete poles too | [P](https://www.plonkit.net/romania) |  |
-| Country | **Extremely large yellow pole stickers** (town name written in the middle) are specific to Romania | [P](https://www.plonkit.net/romania) |  |
-| Country | **Waystones** common: large w/ red or blue framing + road number, or rugged actual stone | [P](https://www.plonkit.net/romania) |  |
-| Country | Outer lines = **short dashes, narrow spaces**; middle lines noticeably **thick** (vs Bulgaria's thin lines) | [P](https://www.plonkit.net/romania) |  |
-| Country | Directional signs blue, arrow-shaped, white border, road number in red or blue | [P](https://www.plonkit.net/romania) |  |
-| Country | Town-entry sign = yellow w/ speed limit + a **city skyline**, white name sign below; black sign backs | [P](https://www.plonkit.net/romania) |  |
-| Country | Chevrons **red-on-white with a yellow frame** (yellow frame most common in Romania) | [P](https://www.plonkit.net/romania) |  |
-| Country | Bollards thin white w/ a **red vertical strip near the top** (rare; Turkey similar); unique thick-red-border yield sign | [P](https://www.plonkit.net/romania) |  |
-| Country | Architecture: pastel stone single-family houses, orange-tile or grey-metal roofs, sometimes painted square-tile walls | [P](https://www.plonkit.net/romania) |  |
-| Country | Tall forested mountains centre/north, flat S/W/E; distinctive **haystack w/ a stick through it**; **Dacia** = >25% of cars | [P](https://www.plonkit.net/romania) |  |
-| Region | **Hungarian bilingual signs** → Covasna/Harghita/Mureș (centre); orange-tile roofs = west, metal roofs = east; **Maramureș** = decorated wooden gates | [P](https://www.plonkit.net/romania) |  |
+| Country | Plates long white + single blue strip left | [P](https://www.plonkit.net/romania) |  |
+| Country | **Romanian** (Romance, Italian-like): **Ă Ș Ț** + Â Î | [P](https://www.plonkit.net/romania) |  |
+| Country | **Holey poles with holes to the very bottom** (wide or tall holes); round concrete poles too (≈ Bulgaria) | [P](https://www.plonkit.net/romania) |  |
+| Country | Trees & poles w/ **white-painted bottoms** (also UA + parts of RU); **huge yellow pole stickers** — Romania-specific, with the **town name in the middle** | [P](https://www.plonkit.net/romania) |  |
+| Country | Upside-down-triangle poletop supports (also CZ/SK/AL/RS) | [P](https://www.plonkit.net/romania) |  |
+| Country | **Waystones very common**: large w/ red or blue frame + road number, rugged real-stone ones, or tiny all-white ones | [P](https://www.plonkit.net/romania) |  |
+| Country | Outer lines = **short dashes w/ narrow gaps**; middle lines **noticeably thick** (Bulgaria: thin) | [P](https://www.plonkit.net/romania) |  |
+| Country | Directional signs blue, arrow-shaped, white border + red/blue road number; town entry = yellow sign w/ speed limit + skyline over a white name sign; **black sign backs** (also IT/AL/DE) | [P](https://www.plonkit.net/romania) |  |
+| Country | Chevrons red-on-white, often with a **yellow frame** (frame ≈ Romania); yield sign w/ **extremely thick red border + thin white outline** unique | [P](https://www.plonkit.net/romania) |  |
+| Country | Bollards thin white w/ **red vertical strip** near the top — but rare in Romania | [P](https://www.plonkit.net/romania) |  |
+| Country | Single-family **pastel stone houses**; roofs orange tile → grey metal; walls of **painted square tiles** in patterns | [P](https://www.plonkit.net/romania) |  |
+| Country | Tall forested mountains centre/north; flat/rolling farmland south, west & east; **haystacks with a stick through the middle** | [P](https://www.plonkit.net/romania) |  |
+| Country | **Dacia > 25% of all cars** (no other Eastern-European country >10%) | [P](https://www.plonkit.net/romania) |  |
+| Region | **Elevation**: tallest mountains centre+north; south & west flat — hills north = you're in the south, hills south/east = you're in the west; orange tiled roofs dominate → western half; metal/fake-tile roofs → eastern half; sunflowers → far east (+far west) | [P](https://www.plonkit.net/romania) |  |
+| Region | **Hungarian-border villages** = Hungarian style (long straight streets, single-storey houses, short side to the road, orange tiles); **Hungarian bilingual signs** → Covasna/Harghita/Mureş (+border); **Maramureș** = elaborately carved wooden gates; south of Iași = rolling valleys w/ NNW-SSE angle + hilltop fields | [P](https://www.plonkit.net/romania) |  |
+| City | **City street signs**: infographic covers every city >100k — learnable; **Sibiu** = 'squinting eye' roof windows | [P](https://www.plonkit.net/romania) |  |
+| Special | **Road/coverage spotlights**: 67C = mountain road w/ all-yellow lines; **7C (Transfăgărășan)** = most dramatic mountains, peak at the Sibiu/Argeș border; Gen2 + mountains ≈ Brașov; Gen2 + flat ≈ Bucharest; **green-boat trekker** through overgrown canals in the far east (no roads there) | [P](https://www.plonkit.net/romania) |  |
 
 ## Belarus
 Study: [Plonk It](https://www.plonkit.net/belarus)

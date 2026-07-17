@@ -20158,149 +20158,294 @@
    "area_km2": 238398,
    "links": {
     "plonkit": "https://www.plonkit.net/romania",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/63e125c558300fd915d01c68"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Plate long white + single blue strip left",
+     "type": "plates",
+     "text": "Plates long white + single blue strip left",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Xgv2",
-     "img": "ro_licenseplate.png",
-     "type": "plates"
+     "img": "ro_licenseplate.png"
     },
     {
      "cat": "country",
-     "text": "**Romanian** (Romance, similar to Italian): special letters **Ă Ș Ț** (+ Â, Î)",
+     "type": "language",
+     "text": "**Romanian** (Romance, Italian-like): **Ă Ș Ț** + Â Î",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "XTjC",
      "img": "ro_language.png",
-     "type": "language"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "turkey",
+       "note": "Turkish Ş can be confused with Romanian Ș (and both use Â/Î-like letters).",
+       "diff": "Ă and Ț → Romania; dotless ı → Turkey.",
+       "img": "tr_language.png"
+      },
+      {
+       "slug": "italy",
+       "note": "The vocabulary looks Italian.",
+       "diff": "Ă Ș Ț diacritics → Romania.",
+       "img": "it_language.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Holey poles** with holes reaching the bottom (wide or tall) — Poland's stop short, Hungary's are smaller; round concrete poles too",
+     "type": "utility",
+     "text": "**Holey poles with holes to the very bottom** (wide or tall holes); round concrete poles too (≈ Bulgaria)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "r5OO",
      "img": "ro_holeypole.png",
-     "type": "utility"
+     "imgs": [
+      "ro_undpoles.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "poland",
+       "note": "Polish holey poles have NO holes near the bottom.",
+       "diff": "Bottom holes → Romania.",
+       "img": "Poland-poles-comp2.png"
+      },
+      {
+       "slug": "hungary",
+       "note": "Hungarian holes are smaller.",
+       "diff": "Big holes → Romania."
+      },
+      {
+       "slug": "bulgaria",
+       "note": "Similar round concrete poles.",
+       "diff": "Cyrillic → Bulgaria."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Extremely large yellow pole stickers** (town name written in the middle) are specific to Romania",
+     "type": "utility",
+     "text": "Trees & poles w/ **white-painted bottoms** (also UA + parts of RU); **huge yellow pole stickers** — Romania-specific, with the **town name in the middle**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "Z6QV",
-     "img": "ro_polesticker.png",
-     "type": "utility"
+     "anchor": "7JK8",
+     "img": "ro_whitepaint.png",
+     "imgs": [
+      "ro_polesticker.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "The extremely large yellow sticker is Romania-only — smaller yellow stickers also exist in Bulgaria and Hungary."
     },
     {
      "cat": "country",
-     "text": "**Waystones** common: large w/ red or blue framing + road number, or rugged actual stone",
+     "type": "utility",
+     "text": "Upside-down-triangle poletop supports (also CZ/SK/AL/RS)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "QpwL",
+     "img": "ro_trianglepoletop.png"
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "**Waystones very common**: large w/ red or blue frame + road number, rugged real-stone ones, or tiny all-white ones",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Avi5",
      "img": "ro_adstones.png",
-     "type": "signs"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Outer lines = **short dashes, narrow spaces**; middle lines noticeably **thick** (vs Bulgaria's thin lines)",
+     "type": "markings",
+     "text": "Outer lines = **short dashes w/ narrow gaps**; middle lines **noticeably thick** (Bulgaria: thin)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "un8E",
-     "img": "ro_road_lines.png",
-     "type": "markings"
+     "anchor": "qXOq",
+     "img": "ro_adlines.png",
+     "imgs": [
+      "ro_road_lines.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "bulgaria",
+       "note": "Similar look, thinner lines.",
+       "diff": "Thick middles → Romania; Cyrillic → Bulgaria."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Directional signs blue, arrow-shaped, white border, road number in red or blue",
+     "type": "signs",
+     "text": "Directional signs blue, arrow-shaped, white border + red/blue road number; town entry = yellow sign w/ speed limit + skyline over a white name sign; **black sign backs** (also IT/AL/DE)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "eXuS",
      "img": "ro_directionalsigns.png",
-     "type": "signs"
+     "imgs": [
+      "ro_townentry.png",
+      "ro_blacksignback.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Town-entry sign = yellow w/ speed limit + a **city skyline**, white name sign below; black sign backs",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "QdP9",
-     "img": "ro_townentry.png",
-     "type": "signs"
-    },
-    {
-     "cat": "country",
-     "text": "Chevrons **red-on-white with a yellow frame** (yellow frame most common in Romania)",
+     "type": "signs",
+     "text": "Chevrons red-on-white, often with a **yellow frame** (frame ≈ Romania); yield sign w/ **extremely thick red border + thin white outline** unique",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "QZba",
      "img": "ro_chevron.png",
-     "type": "signs"
+     "imgs": [
+      "ro_prioritysign.png"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Bollards thin white w/ a **red vertical strip near the top** (rare; Turkey similar); unique thick-red-border yield sign",
+     "type": "bollards",
+     "text": "Bollards thin white w/ **red vertical strip** near the top — but rare in Romania",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "6jeS",
      "img": "ro_bollard.png",
-     "type": "bollards"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "turkey",
+       "note": "Very similar bollard — common there.",
+       "diff": "Bollard rarity + Ă/Ș/Ț → Romania.",
+       "img": "tr_bollard.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Architecture: pastel stone single-family houses, orange-tile or grey-metal roofs, sometimes painted square-tile walls",
+     "type": "arch",
+     "text": "Single-family **pastel stone houses**; roofs orange tile → grey metal; walls of **painted square tiles** in patterns",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "piI6",
-     "img": "ro_architecture.png",
-     "type": "arch"
+     "img": "ro_architecture.png"
     },
     {
      "cat": "country",
-     "text": "Tall forested mountains centre/north, flat S/W/E; distinctive **haystack w/ a stick through it**; **Dacia** = >25% of cars",
+     "type": "landscape",
+     "text": "Tall forested mountains centre/north; flat/rolling farmland south, west & east; **haystacks with a stick through the middle**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "n0lg",
      "img": "ro_landscape.png",
-     "type": "landscape"
+     "imgs": [
+      "ro_haystack.png"
+     ]
     },
     {
-     "cat": "region",
-     "text": "**Hungarian bilingual signs** → Covasna/Harghita/Mureș (centre); orange-tile roofs = west, metal roofs = east; **Maramureș** = decorated wooden gates",
+     "cat": "country",
+     "type": "cars",
+     "text": "**Dacia > 25% of all cars** (no other Eastern-European country >10%)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "language"
+     "anchor": "tyiy",
+     "img": "ro_dacia.png",
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Elevation**: tallest mountains centre+north; south & west flat — hills north = you're in the south, hills south/east = you're in the west; orange tiled roofs dominate → western half; metal/fake-tile roofs → eastern half; sunflowers → far east (+far west)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "R67M",
+     "img": "ro_topography.png",
+     "imgs": [
+      "ro_flat.png",
+      "ro_tiledroofs.png",
+      "ro_metalroofsandplasticfaketiles.png",
+      "ro_sunflowers.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "arch",
+     "text": "**Hungarian-border villages** = Hungarian style (long straight streets, single-storey houses, short side to the road, orange tiles); **Hungarian bilingual signs** → Covasna/Harghita/Mureş (+border); **Maramureș** = elaborately carved wooden gates; south of Iași = rolling valleys w/ NNW-SSE angle + hilltop fields",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "dE1L",
+     "img": "ro_hungarianvillage.png",
+     "imgs": [
+      "ro_hungarian.png",
+      "ro_maramuresgate.png",
+      "ro_eastvalleys.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "city",
+     "type": "signs",
+     "text": "**City street signs**: infographic covers every city >100k — learnable; **Sibiu** = 'squinting eye' roof windows",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "kGpN",
+     "img": "ro_streetsigns.png",
+     "imgs": [
+      "ro_sibiueyes.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Road/coverage spotlights**: 67C = mountain road w/ all-yellow lines; **7C (Transfăgărășan)** = most dramatic mountains, peak at the Sibiu/Argeș border; Gen2 + mountains ≈ Brașov; Gen2 + flat ≈ Bucharest; **green-boat trekker** through overgrown canals in the far east (no roads there)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "t7FZ",
+     "img": "ro_7c.png",
+     "imgs": [
+      "ro_67c.png",
+      "ro_brasovgen2.png",
+      "ro_bucharestgen2.png",
+      "ro_boattrekker.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },
