@@ -18639,91 +18639,189 @@
    "hints": [
     {
      "cat": "country",
-     "text": "All Gen3, **white car no antenna** (also ZA/BW/Eswatini); BW & Eswatini only have Gen3, South Africa also has Gen2/Gen4",
+     "type": "cars",
+     "text": "All coverage = **Gen3, white car w/o antenna** (back visible almost everywhere)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "TZam",
      "img": "Car_meta.png",
-     "type": "cars"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "eswatini",
+       "note": "Same car; Eswatini is also Gen3-only.",
+       "diff": "Tall grass → Eswatini; treeless tabletops → Lesotho."
+      },
+      {
+       "slug": "botswana",
+       "note": "Same Gen3 car, also Gen3-only.",
+       "diff": "Flat dry Kalahari → Botswana; mountains → Lesotho."
+      },
+      {
+       "slug": "south-africa",
+       "note": "Same car, but ZA also has Gen2 + Gen4 (Gen3 is rare there).",
+       "diff": "Gen3 southern-Africa round → lean the small three."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Characteristic **'Lesotho mountains'**: bare & treeless, **tabletop shapes**, recognizable horizontal rocky ridgelines",
+     "type": "landscape",
+     "text": "**'Lesotho mountains'**: bare, treeless, tabletop-like shapes w/ **horizontal rocky ridgelines** (inland SE: more rolling green hills but ridges still show)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "kxM2",
      "img": "Lesotho_mountains.png",
-     "type": "landscape"
+     "uniq": "unique*",
+     "uniq_note": "Western-Cape ZA mountains can look similar — the everywhere-ness of the tabletops is the Lesotho tell."
     },
     {
      "cat": "country",
-     "text": "Plates **long white w/ blue text** (Mokorotlo hat symbol on the left)",
+     "type": "plates",
+     "text": "Plates **long white w/ blue text**; partially unblurred you may see the **Mokorotlo hat symbol** left",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "JzJz",
      "img": "Lesotho_License_Plate.png",
-     "type": "plates"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Road lines **yellow outer / white inner**; unique **triple middle lines** (2 solid + dashed between — only in the 5 Southern African countries)",
+     "type": "markings",
+     "text": "**Yellow outer + white inner lines**; some roads have the southern-African **triple middle lines** (2 solid + dashed between); drives **left**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "0ojD",
-     "img": "Triple_road_lines.png",
-     "type": "markings"
+     "anchor": "kqbl",
+     "img": "Road_lines.png",
+     "imgs": [
+      "Triple_road_lines.png",
+      "Driving_side.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "south-africa",
+       "note": "Whole region shares the scheme.",
+       "diff": "Landscape + plates decide."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Drives **left**; traditional **round thatched huts** common in rural areas",
+     "type": "arch",
+     "text": "Rural areas: traditional **round huts w/ thatched roofs** (rarer in the neighbours)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "mefQ",
-     "img": "Traditional_huts2.png",
-     "type": "arch"
+     "img": "Traditional_huts2.png"
     },
     {
      "cat": "country",
-     "text": "**Agave** plants common; grasslands are **short grass** (Eswatini famously has tall grass)",
+     "type": "landscape",
+     "text": "**Agave plants** common countryside clue; grasslands = **short grass**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "njvL",
      "img": "Agave.png",
-     "type": "landscape"
+     "imgs": [
+      "Short_grass.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "eswatini",
+       "note": "Eswatini famously has TALL grass.",
+       "diff": "Short → Lesotho; tall → Eswatini."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Traditional clothing — many people wear a **Basotho woollen blanket**; lots of free-roaming **livestock** on roads",
+     "type": "general",
+     "text": "Many people wear the traditional **Basotho woollen blanket**; lots of free-roaming **livestock** on roads (cows, horses, donkeys)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "fu9e",
      "img": "Traditional_clothing.png",
-     "type": "general"
+     "imgs": [
+      "Livestock.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "The Basotho blanket is a Lesotho-only garment."
     },
     {
      "cat": "region",
-     "text": "Coverage sparse (all urban coverage in the NW); **flat** region (tabletops far off) vs **mountainous** (road hugs the mountainside; only ~6 main roads covered)",
+     "type": "general",
+     "text": "Coverage very sparse (SE mostly yellow roads only; **all urban coverage in the NW**); two landscape halves: **'flat'** (tabletops far from the road; most coverage/farms) vs **mountainous** (road on the mountainside, big green mountains — only ~6 main roads covered, learnable by heart)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "7YgM",
      "img": "ls_coverage.png",
-     "type": "naming"
+     "imgs": [
+      "Flat_Lesotho.png",
+      "Mountainous_Lesotho.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Reservoirs**: the big **Katse** reservoir visible from the A25; smaller **Mohale** from an A3 off-road (don't confuse w/ the Letseng diamond-mine lake)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "q6tO",
+     "img": "Reservoirs.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "roads",
+     "text": "**Road spotlights**: A2 Maseru↔Mafeteng = by far the best pavement in the country; A25 east of Katse = **raindrops on the camera** in one direction; A5 south of Nyakosoba = construction w/ white-painted stick 'bollards' + wide dark-brown dirt road; Ramatsediso→Sehlabathebe NP = unpaved light-brown road, fluffy clouds, grassy high mountains + light exposed rocks",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "ylee",
+     "img": "A2_road_quality.png",
+     "imgs": [
+      "Raindrops.png",
+      "White_construction_bollard.png",
+      "Sehlabathebe.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "city",
+     "type": "general",
+     "text": "**Maseru** = the only real urban downtown (suburbs still rural); **Qacha's Nek** (remote SE border town) = green mountains all around + notably bad weather",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "p4dx",
+     "img": "Maseru.png",
+     "imgs": [
+      "Qachas_Nek.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },

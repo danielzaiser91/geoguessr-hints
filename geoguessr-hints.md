@@ -259,14 +259,17 @@ Study: [Plonk It](https://www.plonkit.net/lesotho)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | All Gen3, **white car no antenna** (also ZA/BW/Eswatini); BW & Eswatini only have Gen3, South Africa also has Gen2/Gen4 | [P](https://www.plonkit.net/lesotho) |  |
-| Country | Characteristic **'Lesotho mountains'**: bare & treeless, **tabletop shapes**, recognizable horizontal rocky ridgelines | [P](https://www.plonkit.net/lesotho) |  |
-| Country | Plates **long white w/ blue text** (Mokorotlo hat symbol on the left) | [P](https://www.plonkit.net/lesotho) |  |
-| Country | Road lines **yellow outer / white inner**; unique **triple middle lines** (2 solid + dashed between — only in the 5 Southern African countries) | [P](https://www.plonkit.net/lesotho) |  |
-| Country | Drives **left**; traditional **round thatched huts** common in rural areas | [P](https://www.plonkit.net/lesotho) |  |
-| Country | **Agave** plants common; grasslands are **short grass** (Eswatini famously has tall grass) | [P](https://www.plonkit.net/lesotho) |  |
-| Country | Traditional clothing — many people wear a **Basotho woollen blanket**; lots of free-roaming **livestock** on roads | [P](https://www.plonkit.net/lesotho) |  |
-| Region | Coverage sparse (all urban coverage in the NW); **flat** region (tabletops far off) vs **mountainous** (road hugs the mountainside; only ~6 main roads covered) | [P](https://www.plonkit.net/lesotho) |  |
+| Country | All coverage = **Gen3, white car w/o antenna** (back visible almost everywhere) | [P](https://www.plonkit.net/lesotho) |  |
+| Country | **'Lesotho mountains'**: bare, treeless, tabletop-like shapes w/ **horizontal rocky ridgelines** (inland SE: more rolling green hills but ridges still show) | [P](https://www.plonkit.net/lesotho) |  |
+| Country | Plates **long white w/ blue text**; partially unblurred you may see the **Mokorotlo hat symbol** left | [P](https://www.plonkit.net/lesotho) |  |
+| Country | **Yellow outer + white inner lines**; some roads have the southern-African **triple middle lines** (2 solid + dashed between); drives **left** | [P](https://www.plonkit.net/lesotho) |  |
+| Country | Rural areas: traditional **round huts w/ thatched roofs** (rarer in the neighbours) | [P](https://www.plonkit.net/lesotho) |  |
+| Country | **Agave plants** common countryside clue; grasslands = **short grass** | [P](https://www.plonkit.net/lesotho) |  |
+| Country | Many people wear the traditional **Basotho woollen blanket**; lots of free-roaming **livestock** on roads (cows, horses, donkeys) | [P](https://www.plonkit.net/lesotho) |  |
+| Region | Coverage very sparse (SE mostly yellow roads only; **all urban coverage in the NW**); two landscape halves: **'flat'** (tabletops far from the road; most coverage/farms) vs **mountainous** (road on the mountainside, big green mountains — only ~6 main roads covered, learnable by heart) | [P](https://www.plonkit.net/lesotho) |  |
+| City | **Maseru** = the only real urban downtown (suburbs still rural); **Qacha's Nek** (remote SE border town) = green mountains all around + notably bad weather | [P](https://www.plonkit.net/lesotho) |  |
+| Special | **Reservoirs**: the big **Katse** reservoir visible from the A25; smaller **Mohale** from an A3 off-road (don't confuse w/ the Letseng diamond-mine lake) | [P](https://www.plonkit.net/lesotho) |  |
+| Special | **Road spotlights**: A2 Maseru↔Mafeteng = by far the best pavement in the country; A25 east of Katse = **raindrops on the camera** in one direction; A5 south of Nyakosoba = construction w/ white-painted stick 'bollards' + wide dark-brown dirt road; Ramatsediso→Sehlabathebe NP = unpaved light-brown road, fluffy clouds, grassy high mountains + light exposed rocks | [P](https://www.plonkit.net/lesotho) |  |
 
 ## Rwanda
 Study: [Plonk It](https://www.plonkit.net/rwanda) · [GeoGuessr map](https://www.geoguessr.com/maps/65832452fd6dcafd52b68b1a)
