@@ -15579,107 +15579,315 @@
    "area_km2": 309500,
    "links": {
     "plonkit": "https://www.plonkit.net/oman",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/6720235d6b53fba29ed15ac6"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Mostly **desert** w/ little vegetation; **dry mountains** on the north coast + some on the south coast",
+     "type": "landscape",
+     "text": "Mostly **desert**; middle & south flat, north coast **dry mountains** (UAE-like), south coast greener mountains; drivers covered many **small desert tracks**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "EFME",
      "img": "2.png",
-     "type": "landscape"
+     "imgs": [
+      "Screenshot (645).png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Plates: private **yellow**, commercial **red**; white **taxis w/ orange side panels**",
+     "type": "plates",
+     "text": "Private plates **yellow**, commercial **red**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "n8zU",
      "img": "3.png",
-     "type": "plates"
+     "uniq": "unique*",
+     "uniq_note": "Within the covered Middle East, yellow private plates = Oman (Israel's yellow plates carry a blue strip; Laos' yellow plates are in SE Asia)."
     },
     {
      "cat": "country",
-     "text": "Coverage = **white pickup** (usually fully blurred; sometimes antenna or the front is visible)",
+     "type": "cars",
+     "text": "**White pickup truck**, mostly fully blurred (sometimes antenna/front visible)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "qr8t",
      "img": "oman_blurred.png",
-     "type": "cars"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "united-arab-emirates",
+       "note": "Similar pickup.",
+       "diff": "Antenna middle → UAE.",
+       "img": "2022-12-14_1__281_29.png"
+      },
+      {
+       "slug": "qatar",
+       "note": "Similar pickup.",
+       "diff": "Antenna left → Qatar.",
+       "img": "Qatar_cars.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Arabic + **English** (tourism, like the UAE)",
+     "type": "language",
+     "text": "**Arabic + English** on signs (like UAE); blue directional signs w/ white text",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "5QM5",
      "img": "5.png",
-     "type": "language"
+     "imgs": [
+      "9.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Roads yellow outer / white middle; **black-and-yellow curbs** (also common in UAE)",
+     "type": "markings",
+     "text": "**Yellow outer + white middle lines**; **black-yellow kerbs** common",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "ZG0K",
-     "img": "7.png",
-     "type": "markings"
+     "anchor": "vDCC",
+     "img": "6.png",
+     "imgs": [
+      "7.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "united-arab-emirates",
+       "note": "Same lines & kerbs.",
+       "diff": "UAE flatter/more urban; pole and bin details decide.",
+       "img": "ae_kerbs.png"
+      },
+      {
+       "slug": "jordan",
+       "note": "Same lines.",
+       "diff": "No English + black car → Jordan."
+      },
+      {
+       "slug": "israel-west-bank",
+       "note": "Same lines.",
+       "diff": "Hebrew → Israel."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Buildings **light stone, blocky but ornate**, usually with matching ornate fences & gates",
+     "type": "arch",
+     "text": "Light stone **blocky but ornate houses** w/ matching fence + ornate gate (UAE similar)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "eWEb",
-     "img": "8.png",
-     "type": "arch"
+     "img": "8.png"
     },
     {
      "cat": "country",
-     "text": "**Striped signposts** (in the ME only Oman + UAE); directional signs blue in Arabic + English",
+     "type": "utility",
+     "text": "**Black-white striped signposts** (Middle East: only Oman & UAE); wooden poles w/ 3 designs — the **metal triangle above the pole** is unique to Oman; poles generally commoner than UAE/Qatar",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "hxXh",
      "img": "10.png",
-     "type": "signs"
+     "imgs": [
+      "11.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "The triangle-topped wooden pole is unique to Oman; the plain 3-insulator design is shared with the UAE."
     },
     {
      "cat": "country",
-     "text": "**Wooden poles**, 3 pole-top designs — the one w/ a **metal triangle above the pole is unique to Oman**; poles are commoner here than in UAE/Qatar",
+     "type": "signs",
+     "text": "Chevrons **black-yellow with unusually many arrows**; red-white painted **pylons** common (rarely Qatar)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "zoUC",
-     "img": "11.png",
-     "type": "utility"
+     "anchor": "80ME",
+     "img": "13.png",
+     "imgs": [
+      "12.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "**Black-yellow chevrons with many arrows**; **red-and-white painted pylons**; **be'ah** garbage bins (numbers on them = region)",
+     "type": "general",
+     "text": "Garbage bins black plastic or grey metal w/ 3-leaf logo + **'be'ah'** text (UAE variant: 'bee'ah', more colourful); taxis white w/ **orange side panels**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "Bmam",
-     "img": "12.png",
-     "type": "signs"
+     "anchor": "DD2W",
+     "img": "14.png",
+     "imgs": [
+      "Snimek_obrazovky_670.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Regions**: north = dry jagged mountains (N of Nizwa unusually shrubby); around **Salalah** = rolling hills, rocky ground, green valleys, coastal plain; NE (S/W of Bidiyah) = sandy desert w/ light shrubs + dirt roads through orange-pink dunes (SSW direction); red dunes → Saudi border + inland",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "cWlW",
+     "img": "15.png",
+     "imgs": [
+      "16.png",
+      "45.png",
+      "17.png",
+      "18.png",
+      "21.png",
+      "Oman Red Dunes.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "area": "Masirah Island",
+     "type": "landscape",
+     "text": "Dry, slightly hilly, grey soil + brown shrubs; Road 51 has only a **white centre line**; front camera slightly **smudged**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "kcH3",
+     "img": "22.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Vegetation**: acacias (umbrella crowns) → north + coasts; date palms → north coast; coconut palms → Salalah; gas pipelines along roads → around Fahud + central-south pockets; oil drills → Amal, Road 39, NW of Fahud",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "HEHv",
+     "img": "23.png",
+     "imgs": [
+      "24.png",
+      "Oman Pipes.png",
+      "Oman Oil Drills.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "general",
+     "text": "**Bin metas**: colour map by region; bin **numbers = governorate + subdivision codes**; sticker combos: black+black sticker → Al Buraimi/Ash Sharqiyah N/Muscat; grey+black → Ad Dhahirah; black+white → Ad Dakhiliyah/S-Dhofar/Muscat; grey+white → Ad Dakhiliyah (+Dhofar); black no sticker → Al Batinah S + N of Al Khaburah; grey no sticker → Al Batinah N; small western-style black → Muscat + E-Al-Batinah-N; chevron stickers on the side → Muscat; ANY side sticker → north-coast governorates",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "WJdu",
+     "img": "25.png",
+     "imgs": [
+      "26.png",
+      "27.png",
+      "28.png",
+      "29.png",
+      "30.png",
+      "31.png",
+      "32.png",
+      "33.png",
+      "34.png",
+      "35.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "cars",
+     "text": "**Antenna metas**: upward antenna → around/west of Muscat + NW highways (+Al Buraimi, Sohar); forward-facing antenna → only Muscat area (copyright-year splits exist but update on refresh)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "zeu8",
+     "img": "39.png",
+     "imgs": [
+      "40.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Spotlights**: Mirbat ridge (more rugged than Salalah's); crown-shaped lone mountain SE of Nizwa; Adam = hazy, ridge+two hills north (north of Adam: mountains all around); Ubar = green farm patches in desert; Al Amarat (SE of Muscat) = urban ringed by mountains; **Fahud** = bumpy ridge + oil infrastructure; **Musandam exclave** = UAE-like extra-dry orange mountains w/ dipping beds; coastal Musandam = rocky cliffs, coast mostly west",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "I0iI",
+     "img": "Mirbat Ridge Oman.png",
+     "imgs": [
+      "Sinaw Mountain.png",
+      "19.png",
+      "20.png",
+      "43.png",
+      "46.png",
+      "Fahud Oman.png",
+      "Musandam Hint 2.png",
+      "44.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "markings",
+     "text": "**Road metas**",
+     "bullets": [
+      "Ibri→Saudi: flat pink-grey desert, wide shoulders, great condition, straight NE (north section curvier)",
+      "W of Fahud: same soil but poor road, no lines, SE direction",
+      "Road 29 S of Ibri: shrubby, low jagged mountains east, low sun NW; southern part = only white middle line",
+      "Road 31: light flat desert, wide shoulders, faded lines, cloudy; its divided section = the only divided desert road",
+      "Road 32 N of Duqm: hilly desert, northbound; into Ash Sharqiyah N: wide shoulders + darker shrubbier desert, partly overcast",
+      "Road 35: hills+green shrubs, curved lamp posts NE side",
+      "Road 37: NW angle, power line NE (south half), sunset (north half)",
+      "Road 39: narrow/no shoulders, flat (west hillier)",
+      "Road 41 coastal: lightest sand, coast visible, ridge west; western stretch = wide shoulders + reddish soil, cloudy east",
+      "Road 42/49 E of Salalah: scenic coast, tall light rocky cliffs",
+      "S of Shalim: overcast + power line west; N of Shalim: very wide unpaved light road, oil drills",
+      "SE of Ubar: NW angle + power line left + farms (vs 37: desolate/sunset); Road 43: unpaved, sunset, dust trail",
+      "NW of Ubar (unlabelled): small white markings between dashes",
+      "W of ميتان: uniquely light pavement + dunes north",
+      "Roads 45 / west-39: hilly, sunny, E-W, light shoulders + faded middle line — sun overhead = 39, sun west = 45"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "SviY",
+     "img": "48.png",
+     "imgs": [
+      "49.png",
+      "50.png",
+      "52.png",
+      "55.png",
+      "57.png",
+      "58.png",
+      "60.png",
+      "62_copy.png",
+      "64.png",
+      "66.png",
+      "69.png",
+      "71.png",
+      "72.png"
+     ],
+     "super": true
     }
    ]
   },
@@ -17035,91 +17243,184 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Plates long white w/ a **maroon strip on the left**; trucks = black square plates, police = blue",
+     "type": "plates",
+     "text": "Plates long white w/ **maroon strip left**; trucks = black square plates, police = blue",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "swZh",
      "img": "Qatar_License_Plate.png",
-     "type": "plates"
+     "uniq": "unique*",
+     "uniq_note": "The maroon strip is Qatar's national colour — no other covered Gulf country uses it on plates."
     },
     {
      "cat": "country",
-     "text": "White pickup, usually blurred with only the **antenna on the left** + a sliver of car visible; rusty clips on the crossbar",
+     "type": "cars",
+     "text": "Car mostly blurred: **left-side antenna** + a sliver of the white pickup; **rusty clips** on the crossbar",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "F3sC",
      "img": "Qatar_cars.png",
-     "type": "cars"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "united-arab-emirates",
+       "note": "Similar white pickup.",
+       "diff": "Qatar: antenna **left**; UAE: antenna in the middle.",
+       "img": "2022-12-14_1__281_29.png"
+      },
+      {
+       "slug": "oman",
+       "note": "Similar pickup.",
+       "diff": "Antenna position + Oman's mountains."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Predominantly **desert** — flat arid sand as far as you can see, little greenery",
+     "type": "landscape",
+     "text": "Predominantly flat **sand desert** — few trees or greenery",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "unhN",
-     "img": "Qatar_landscape.png",
-     "type": "landscape"
+     "img": "Qatar_landscape.png"
     },
     {
      "cat": "country",
-     "text": "Roads = solid outer white lines w/ white or yellow middle (rarely outer yellow too)",
+     "type": "markings",
+     "text": "Solid **white outer lines** + white/yellow middle (rarely yellow outer)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "ZpMs",
-     "img": "Qatar_Roadlines.png",
-     "type": "markings"
+     "img": "Qatar_Roadlines.png"
     },
     {
      "cat": "country",
-     "text": "**Round poles, 3 insulators** (middle one slightly higher) + two diagonal bars connecting the crossbar to the pole",
+     "type": "utility",
+     "text": "Round poles: 3 insulators (middle slightly higher) + **2 diagonal bars** connecting crossbar to pole",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "IvYr",
-     "img": "Qatarpoles.png",
-     "type": "utility"
+     "img": "Qatarpoles.png"
     },
     {
      "cat": "country",
-     "text": "Chevrons **white-on-red & white-on-blue**; lots of 2022 **World Cup** banners still up",
+     "type": "signs",
+     "text": "Chevrons **white-on-red AND white-on-blue**; crossing signs show a man **in a thobe**; 2022 World-Cup banners in older coverage",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "XQGn",
      "img": "Qatar_chevron.png",
-     "type": "signs"
-    },
-    {
-     "cat": "country",
-     "text": "Crossing signs feature a **man in a thobe**",
-     "src": [
-      "plonkit"
+     "imgs": [
+      "Crossing_Sign.png",
+      "image.png"
      ],
-     "sv": null,
-     "anchor": "Bcaj",
-     "img": "Crossing_Sign.png",
-     "type": "signs"
+     "uniq": "unique"
     },
     {
      "cat": "region",
-     "text": "Well covered (S/W lack it); **numbered zones on street signs** = region; antenna length = region (short = north, long = Doha/SW); stadiums (Lusail golden bowl, Al Bayt stripes)",
+     "type": "general",
+     "text": "Well covered (main + some side roads); only **south & west** lack coverage; municipalities → numbered **zones on street signs**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "sO5C",
      "img": "Qatar_Coverage_Map_.png",
-     "type": "naming"
+     "imgs": [
+      "zones-of-qatar-2020-PSA.JPG"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "cars",
+     "text": "**Antenna length = region**: very short → north; medium → Doha area; long → southwest",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "wBgz",
+     "img": "Short_Antenna_hint__281_29.png",
+     "imgs": [
+      "Middle_Antenna_hint_2.png",
+      "Long_Antenna_hint.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "bollards",
+     "text": "**Bollards on only a few roads**: horizontal road W of the map label = black-yellow centre lines; road S of Madinat al Ka'ban = greener + overcast; coastal road S of Fuwayrit = shrubs + coast; otherwise → the long vertical road W of the label",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "WcSv",
+     "img": "Qatar_Bollards_Hint.png",
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "arch",
+     "text": "**Stadium/landmark spotlights**: Al Bayt = b&w stripes + tent roof; Lusail Stadium = golden bowl; Lusail Plaza = 4 screw-thread towers; Ahmed bin Ali = gahfiya-like structure + Mall of Qatar (boxy, ads, car parks); Education City Stadium = grey diamond cladding + **black-tiled roads** + brown ground-fixed street signs; Khalifa Int'l = open-mouth dual arches; **Torch Tower** = hyperboloid, tallest in Qatar (Baaya district)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "29Ya",
+     "img": "North_Stadium.png",
+     "imgs": [
+      "Lusail_Stadium.png",
+      "Lusail_Plaza.png",
+      "Far_Stadium.png",
+      "Far_Mall.png",
+      "Education_City_Stadium.png",
+      "Education_City_Pavement.png",
+      "Education_City_Signs.png",
+      "South_Stadium.png",
+      "South_Tower.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "cars",
+     "text": "**Truck-bed box metas**: cardboard box right → Lusail; black box left → SE of Ar-Rayyan (green area); black box right → Al Khor + around Torch Tower/Khalifa (boxes not always visible!)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "wSQQ",
+     "img": "Cardboard_Box.png",
+     "imgs": [
+      "Box_Left.png",
+      "Box_Right.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "area": "Hamad Airport",
+     "type": "general",
+     "text": "Tripod coverage inside the airport — incl. a unique tripod **inside a plane**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "tm4B",
+     "img": "Airport.png",
+     "uniq": "unique"
     }
    ]
   },
@@ -22820,102 +23121,274 @@
    "hints": [
     {
      "cat": "country",
+     "type": "landscape",
      "text": "Typically a flat **desert** landscape",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "uy32",
-     "img": "ae_desert.png",
-     "type": "landscape"
+     "img": "ae_desert.png"
     },
     {
      "cat": "country",
-     "text": "Roads: **yellow outer lines**, middle white or yellow (also Jordan/Israel/Oman)",
+     "type": "markings",
+     "text": "**Yellow outer lines**, middle white or yellow",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "HIpw",
      "img": "ae_roadlines.png",
-     "type": "markings"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "jordan",
+       "note": "Same lines.",
+       "diff": "No English on signs + black Google car → Jordan.",
+       "img": "roadlines.png"
+      },
+      {
+       "slug": "israel-west-bank",
+       "note": "Same lines.",
+       "diff": "Hebrew + yellow plates → Israel.",
+       "img": "IL_Roadlines.png"
+      },
+      {
+       "slug": "oman",
+       "note": "Same lines.",
+       "diff": "Oman's pickup antenna/pole details + generally more mountainous SE."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Gen3 **white car w/ black roof racks** (only ME country with a white car); Gen4 = white pickup trekker (antenna centred; Qatar's is left) + a black car",
+     "type": "cars",
+     "text": "Gen3: **white car with black roof racks**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "jc6S",
      "img": "gen3car.png",
-     "type": "cars"
+     "uniq": "unique*",
+     "uniq_note": "The only Middle-Eastern country with a white Google car — white cars exist on other continents, so pair with Arabic+English signage."
     },
     {
      "cat": "country",
-     "text": "Arabic + lots of **English** (tourism; also Qatar/Oman, but not Jordan)",
+     "type": "cars",
+     "text": "Gen4: **white pickup w/ trekker camera** (often fully blurred) or black car w/ visible brake light",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "1rPJ",
+     "img": "2022-12-14_1__281_29.png",
+     "imgs": [
+      "UAE_Gen_4_black.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "qatar",
+       "note": "Similar white pickup.",
+       "diff": "UAE: front antenna in the **middle** of the cabin; Qatar: on the **left**."
+      },
+      {
+       "slug": "oman",
+       "note": "Similar pickup.",
+       "diff": "Check the antenna + Oman's mountains/kerb styles."
+      },
+      {
+       "slug": "israel-west-bank",
+       "note": "Similar black Gen4 car.",
+       "diff": "Hebrew → Israel."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "language",
+     "text": "**Arabic + English** on most signs (tourism)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "oJYL",
      "img": "arabic_language.png",
-     "type": "language"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "qatar",
+       "note": "Also bilingual.",
+       "diff": "Pickup antenna position + Doha skyline → Qatar."
+      },
+      {
+       "slug": "oman",
+       "note": "Also bilingual.",
+       "diff": "More mountains + Omani signposts → Oman."
+      },
+      {
+       "slug": "jordan",
+       "note": "Jordan is mostly Arabic-ONLY.",
+       "diff": "No English → Jordan."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Houses **light-coloured stone** (reddish sidewalk stones); **black-and-white striped signposts** (also Oman) + striped curbs",
+     "type": "arch",
+     "text": "Residential houses of **light-coloured stone**; **reddish sidewalk stones**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "z1O8",
-     "img": "architecture.png",
-     "type": "arch"
+     "img": "architecture.png"
     },
     {
      "cat": "country",
-     "text": "**Divided roads + roundabouts** both very common",
+     "type": "utility",
+     "text": "**Black-white striped signposts** (in the Middle East also Oman); nearly all kerbs striped (b&w or black-yellow)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "lRZb",
+     "img": "ae_signpost.png",
+     "imgs": [
+      "ae_kerbs.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "oman",
+       "note": "Striped signposts too.",
+       "diff": "Oman: brown wooden poles similar; more mountainous; different plate shape."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "markings",
+     "text": "**Divided roads + roundabouts** everywhere; residential roads often **unpaved** despite the wealth",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Lxlq",
      "img": "roundabout.png",
-     "type": "general"
+     "imgs": [
+      "ae_unpavedresidentialroad.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Electricity poles = **dark brown wood, 3 insulators on a horizontal bar** (Oman similar; Jordan = grey concrete, more spaced)",
+     "type": "utility",
+     "text": "Poles: **dark-brown wood, 3 insulators symmetric on a horizontal bar**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "RONH",
      "img": "ae_poles.png",
-     "type": "utility"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "oman",
+       "note": "Similar poletops.",
+       "diff": "Details + landscape decide."
+      },
+      {
+       "slug": "jordan",
+       "note": "Jordanian lookalikes are **grey concrete** with wider-spaced insulators.",
+       "diff": "Wood vs concrete.",
+       "img": "Untitled_design92.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Despite the wealth, residential roads are often **unpaved**; rifts occasionally appear",
+     "type": "cars",
+     "text": "**Camera rifts** occasionally (most common in Albania, Montenegro, Senegal)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "nA0w",
-     "img": "ae_unpavedresidentialroad.png",
-     "type": "landscape"
+     "anchor": "28Pr",
+     "img": "rifts.png"
     },
     {
      "cat": "region",
-     "text": "Coverage mostly **NE**; **Dubai** skyscrapers (Burj Khalifa) + blue street signs; mountains only in the far east (Ras al Khaimah)",
+     "type": "general",
+     "text": "Coverage mostly **northeast** (only exception with car coverage: Sir Baniyas Island; other remote spots = trekkers)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "r48B",
      "img": "ae_coverage.png",
-     "type": "naming"
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Dubai skyline** w/ Burj Khalifa; mountains ONLY in the far east; N-Ras-al-Khaimah = light mountains east; mountains west + flat east = Gulf of Oman coast",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "YjWs",
+     "img": "ae_dubaiskyline.png",
+     "imgs": [
+      "ae_eastmountains.png",
+      "Landscape_-_Ras_al_Khaimah_Mountains.png",
+      "ae_gulfofoman.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "area": "Sir Baniyas Island",
+     "type": "cars",
+     "text": "Rare **white car w/ visible side mirrors** + sparse vegetation",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "9WlQ",
+     "img": "UAE-sir-baniyas.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "city",
+     "area": "Dubai",
+     "type": "signs",
+     "text": "Gen4 **sidewalk trekker** (sometimes black hair visible) incl. old town; **blue street signs w/ narrow metal border** specific to Dubai",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "eQKo",
+     "img": "UAE-dubai-gen-4-trekker.png",
+     "imgs": [
+      "ae_dubaisign.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "general",
+     "text": "**Trekker spotlights**: Al Ain (2 forts + zoo, far from car coverage); racetrack east of Abu Dhabi; remote dune trekkers in the far south (Taraq↔Alyhyali)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "k0FZ",
+     "img": "UAE-al-ain-trekkers.png",
+     "imgs": [
+      "UAE-racetrack.png",
+      "UAE-southern-desert-trekkers.png"
+     ]
     }
    ]
   },

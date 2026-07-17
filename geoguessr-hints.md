@@ -698,19 +698,26 @@ Study: [Plonk It](https://www.plonkit.net/malaysia) · [GeoGuessr map](https://w
 | Special | Unique **grey car with long front antenna** (Sarawak) | [P](https://www.plonkit.net/malaysia) |  |
 
 ## Oman
-Study: [Plonk It](https://www.plonkit.net/oman)
+Study: [Plonk It](https://www.plonkit.net/oman) · [GeoGuessr map](https://www.geoguessr.com/maps/6720235d6b53fba29ed15ac6)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Mostly **desert** w/ little vegetation; **dry mountains** on the north coast + some on the south coast | [P](https://www.plonkit.net/oman) |  |
-| Country | Plates: private **yellow**, commercial **red**; white **taxis w/ orange side panels** | [P](https://www.plonkit.net/oman) |  |
-| Country | Coverage = **white pickup** (usually fully blurred; sometimes antenna or the front is visible) | [P](https://www.plonkit.net/oman) |  |
-| Country | Arabic + **English** (tourism, like the UAE) | [P](https://www.plonkit.net/oman) |  |
-| Country | Roads yellow outer / white middle; **black-and-yellow curbs** (also common in UAE) | [P](https://www.plonkit.net/oman) |  |
-| Country | Buildings **light stone, blocky but ornate**, usually with matching ornate fences & gates | [P](https://www.plonkit.net/oman) |  |
-| Country | **Striped signposts** (in the ME only Oman + UAE); directional signs blue in Arabic + English | [P](https://www.plonkit.net/oman) |  |
-| Country | **Wooden poles**, 3 pole-top designs — the one w/ a **metal triangle above the pole is unique to Oman**; poles are commoner here than in UAE/Qatar | [P](https://www.plonkit.net/oman) |  |
-| Country | **Black-yellow chevrons with many arrows**; **red-and-white painted pylons**; **be'ah** garbage bins (numbers on them = region) | [P](https://www.plonkit.net/oman) |  |
+| Country | Mostly **desert**; middle & south flat, north coast **dry mountains** (UAE-like), south coast greener mountains; drivers covered many **small desert tracks** | [P](https://www.plonkit.net/oman) |  |
+| Country | Private plates **yellow**, commercial **red** | [P](https://www.plonkit.net/oman) |  |
+| Country | **White pickup truck**, mostly fully blurred (sometimes antenna/front visible) | [P](https://www.plonkit.net/oman) |  |
+| Country | **Arabic + English** on signs (like UAE); blue directional signs w/ white text | [P](https://www.plonkit.net/oman) |  |
+| Country | **Yellow outer + white middle lines**; **black-yellow kerbs** common | [P](https://www.plonkit.net/oman) |  |
+| Country | Light stone **blocky but ornate houses** w/ matching fence + ornate gate (UAE similar) | [P](https://www.plonkit.net/oman) |  |
+| Country | **Black-white striped signposts** (Middle East: only Oman & UAE); wooden poles w/ 3 designs — the **metal triangle above the pole** is unique to Oman; poles generally commoner than UAE/Qatar | [P](https://www.plonkit.net/oman) |  |
+| Country | Chevrons **black-yellow with unusually many arrows**; red-white painted **pylons** common (rarely Qatar) | [P](https://www.plonkit.net/oman) |  |
+| Country | Garbage bins black plastic or grey metal w/ 3-leaf logo + **'be'ah'** text (UAE variant: 'bee'ah', more colourful); taxis white w/ **orange side panels** | [P](https://www.plonkit.net/oman) |  |
+| Region | **Regions**: north = dry jagged mountains (N of Nizwa unusually shrubby); around **Salalah** = rolling hills, rocky ground, green valleys, coastal plain; NE (S/W of Bidiyah) = sandy desert w/ light shrubs + dirt roads through orange-pink dunes (SSW direction); red dunes → Saudi border + inland | [P](https://www.plonkit.net/oman) |  |
+| Region | **Vegetation**: acacias (umbrella crowns) → north + coasts; date palms → north coast; coconut palms → Salalah; gas pipelines along roads → around Fahud + central-south pockets; oil drills → Amal, Road 39, NW of Fahud | [P](https://www.plonkit.net/oman) |  |
+| Region | **Bin metas**: colour map by region; bin **numbers = governorate + subdivision codes**; sticker combos: black+black sticker → Al Buraimi/Ash Sharqiyah N/Muscat; grey+black → Ad Dhahirah; black+white → Ad Dakhiliyah/S-Dhofar/Muscat; grey+white → Ad Dakhiliyah (+Dhofar); black no sticker → Al Batinah S + N of Al Khaburah; grey no sticker → Al Batinah N; small western-style black → Muscat + E-Al-Batinah-N; chevron stickers on the side → Muscat; ANY side sticker → north-coast governorates | [P](https://www.plonkit.net/oman) |  |
+| Region | **Antenna metas**: upward antenna → around/west of Muscat + NW highways (+Al Buraimi, Sohar); forward-facing antenna → only Muscat area (copyright-year splits exist but update on refresh) | [P](https://www.plonkit.net/oman) |  |
+| Special | Dry, slightly hilly, grey soil + brown shrubs; Road 51 has only a **white centre line**; front camera slightly **smudged** | [P](https://www.plonkit.net/oman) |  |
+| Special | **Spotlights**: Mirbat ridge (more rugged than Salalah's); crown-shaped lone mountain SE of Nizwa; Adam = hazy, ridge+two hills north (north of Adam: mountains all around); Ubar = green farm patches in desert; Al Amarat (SE of Muscat) = urban ringed by mountains; **Fahud** = bumpy ridge + oil infrastructure; **Musandam exclave** = UAE-like extra-dry orange mountains w/ dipping beds; coastal Musandam = rocky cliffs, coast mostly west | [P](https://www.plonkit.net/oman) |  |
+| Special | **Road metas** | [P](https://www.plonkit.net/oman) |  |
 
 ## Philippines
 Study: [Plonk It](https://www.plonkit.net/philippines) · [GeoGuessr map](https://www.geoguessr.com/maps/64f4959080229b9a3d429041)
@@ -951,14 +958,20 @@ Study: [Plonk It](https://www.plonkit.net/united-arab-emirates)
 | Cat | Hint | Src | SV |
 |---|---|---|---|
 | Country | Typically a flat **desert** landscape | [P](https://www.plonkit.net/united-arab-emirates) |  |
-| Country | Roads: **yellow outer lines**, middle white or yellow (also Jordan/Israel/Oman) | [P](https://www.plonkit.net/united-arab-emirates) |  |
-| Country | Gen3 **white car w/ black roof racks** (only ME country with a white car); Gen4 = white pickup trekker (antenna centred; Qatar's is left) + a black car | [P](https://www.plonkit.net/united-arab-emirates) |  |
-| Country | Arabic + lots of **English** (tourism; also Qatar/Oman, but not Jordan) | [P](https://www.plonkit.net/united-arab-emirates) |  |
-| Country | Houses **light-coloured stone** (reddish sidewalk stones); **black-and-white striped signposts** (also Oman) + striped curbs | [P](https://www.plonkit.net/united-arab-emirates) |  |
-| Country | **Divided roads + roundabouts** both very common | [P](https://www.plonkit.net/united-arab-emirates) |  |
-| Country | Electricity poles = **dark brown wood, 3 insulators on a horizontal bar** (Oman similar; Jordan = grey concrete, more spaced) | [P](https://www.plonkit.net/united-arab-emirates) |  |
-| Country | Despite the wealth, residential roads are often **unpaved**; rifts occasionally appear | [P](https://www.plonkit.net/united-arab-emirates) |  |
-| Region | Coverage mostly **NE**; **Dubai** skyscrapers (Burj Khalifa) + blue street signs; mountains only in the far east (Ras al Khaimah) | [P](https://www.plonkit.net/united-arab-emirates) |  |
+| Country | **Yellow outer lines**, middle white or yellow | [P](https://www.plonkit.net/united-arab-emirates) |  |
+| Country | Gen3: **white car with black roof racks** | [P](https://www.plonkit.net/united-arab-emirates) |  |
+| Country | Gen4: **white pickup w/ trekker camera** (often fully blurred) or black car w/ visible brake light | [P](https://www.plonkit.net/united-arab-emirates) |  |
+| Country | **Arabic + English** on most signs (tourism) | [P](https://www.plonkit.net/united-arab-emirates) |  |
+| Country | Residential houses of **light-coloured stone**; **reddish sidewalk stones** | [P](https://www.plonkit.net/united-arab-emirates) |  |
+| Country | **Black-white striped signposts** (in the Middle East also Oman); nearly all kerbs striped (b&w or black-yellow) | [P](https://www.plonkit.net/united-arab-emirates) |  |
+| Country | **Divided roads + roundabouts** everywhere; residential roads often **unpaved** despite the wealth | [P](https://www.plonkit.net/united-arab-emirates) |  |
+| Country | Poles: **dark-brown wood, 3 insulators symmetric on a horizontal bar** | [P](https://www.plonkit.net/united-arab-emirates) |  |
+| Country | **Camera rifts** occasionally (most common in Albania, Montenegro, Senegal) | [P](https://www.plonkit.net/united-arab-emirates) |  |
+| Region | Coverage mostly **northeast** (only exception with car coverage: Sir Baniyas Island; other remote spots = trekkers) | [P](https://www.plonkit.net/united-arab-emirates) |  |
+| Region | **Dubai skyline** w/ Burj Khalifa; mountains ONLY in the far east; N-Ras-al-Khaimah = light mountains east; mountains west + flat east = Gulf of Oman coast | [P](https://www.plonkit.net/united-arab-emirates) |  |
+| City | Gen4 **sidewalk trekker** (sometimes black hair visible) incl. old town; **blue street signs w/ narrow metal border** specific to Dubai | [P](https://www.plonkit.net/united-arab-emirates) |  |
+| Special | Rare **white car w/ visible side mirrors** + sparse vegetation | [P](https://www.plonkit.net/united-arab-emirates) |  |
+| Special | **Trekker spotlights**: Al Ain (2 forts + zoo, far from car coverage); racetrack east of Abu Dhabi; remote dune trekkers in the far south (Taraq↔Alyhyali) | [P](https://www.plonkit.net/united-arab-emirates) |  |
 
 ## Sri Lanka
 Study: [Plonk It](https://www.plonkit.net/sri-lanka) · [GeoGuessr map](https://www.geoguessr.com/maps/643f1c68df6c69818466ea0c)
@@ -1070,14 +1083,18 @@ Study: [Plonk It](https://www.plonkit.net/qatar)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates long white w/ a **maroon strip on the left**; trucks = black square plates, police = blue | [P](https://www.plonkit.net/qatar) |  |
-| Country | White pickup, usually blurred with only the **antenna on the left** + a sliver of car visible; rusty clips on the crossbar | [P](https://www.plonkit.net/qatar) |  |
-| Country | Predominantly **desert** — flat arid sand as far as you can see, little greenery | [P](https://www.plonkit.net/qatar) |  |
-| Country | Roads = solid outer white lines w/ white or yellow middle (rarely outer yellow too) | [P](https://www.plonkit.net/qatar) |  |
-| Country | **Round poles, 3 insulators** (middle one slightly higher) + two diagonal bars connecting the crossbar to the pole | [P](https://www.plonkit.net/qatar) |  |
-| Country | Chevrons **white-on-red & white-on-blue**; lots of 2022 **World Cup** banners still up | [P](https://www.plonkit.net/qatar) |  |
-| Country | Crossing signs feature a **man in a thobe** | [P](https://www.plonkit.net/qatar) |  |
-| Region | Well covered (S/W lack it); **numbered zones on street signs** = region; antenna length = region (short = north, long = Doha/SW); stadiums (Lusail golden bowl, Al Bayt stripes) | [P](https://www.plonkit.net/qatar) |  |
+| Country | Plates long white w/ **maroon strip left**; trucks = black square plates, police = blue | [P](https://www.plonkit.net/qatar) |  |
+| Country | Car mostly blurred: **left-side antenna** + a sliver of the white pickup; **rusty clips** on the crossbar | [P](https://www.plonkit.net/qatar) |  |
+| Country | Predominantly flat **sand desert** — few trees or greenery | [P](https://www.plonkit.net/qatar) |  |
+| Country | Solid **white outer lines** + white/yellow middle (rarely yellow outer) | [P](https://www.plonkit.net/qatar) |  |
+| Country | Round poles: 3 insulators (middle slightly higher) + **2 diagonal bars** connecting crossbar to pole | [P](https://www.plonkit.net/qatar) |  |
+| Country | Chevrons **white-on-red AND white-on-blue**; crossing signs show a man **in a thobe**; 2022 World-Cup banners in older coverage | [P](https://www.plonkit.net/qatar) |  |
+| Region | Well covered (main + some side roads); only **south & west** lack coverage; municipalities → numbered **zones on street signs** | [P](https://www.plonkit.net/qatar) |  |
+| Region | **Antenna length = region**: very short → north; medium → Doha area; long → southwest | [P](https://www.plonkit.net/qatar) |  |
+| Region | **Bollards on only a few roads**: horizontal road W of the map label = black-yellow centre lines; road S of Madinat al Ka'ban = greener + overcast; coastal road S of Fuwayrit = shrubs + coast; otherwise → the long vertical road W of the label | [P](https://www.plonkit.net/qatar) |  |
+| Special | **Stadium/landmark spotlights**: Al Bayt = b&w stripes + tent roof; Lusail Stadium = golden bowl; Lusail Plaza = 4 screw-thread towers; Ahmed bin Ali = gahfiya-like structure + Mall of Qatar (boxy, ads, car parks); Education City Stadium = grey diamond cladding + **black-tiled roads** + brown ground-fixed street signs; Khalifa Int'l = open-mouth dual arches; **Torch Tower** = hyperboloid, tallest in Qatar (Baaya district) | [P](https://www.plonkit.net/qatar) |  |
+| Special | **Truck-bed box metas**: cardboard box right → Lusail; black box left → SE of Ar-Rayyan (green area); black box right → Al Khor + around Torch Tower/Khalifa (boxes not always visible!) | [P](https://www.plonkit.net/qatar) |  |
+| Special | Tripod coverage inside the airport — incl. a unique tripod **inside a plane** | [P](https://www.plonkit.net/qatar) |  |
 
 ## Lebanon
 Study: [Plonk It](https://www.plonkit.net/lebanon) · [GeoGuessr map](https://www.geoguessr.com/maps/662191c459258954c4609012)
