@@ -19913,58 +19913,200 @@
    "hints": [
     {
      "cat": "country",
-     "text": "All coverage = **Gen3 trekker** (plus several **boat trekkers**); only two spots have a visible car",
+     "type": "cars",
+     "text": "All coverage = **Gen3 trekker** (some on unusual vehicles, same camera); several **boat trekkers**; only 2 places have a visible unique car",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "lIiH",
      "img": "mg_trekker.png",
-     "type": "cars"
+     "imgs": [
+      "mg_boats.png"
+     ],
+     "super": true
     },
     {
      "cat": "country",
-     "text": "Most coverage features **people walking alongside** the trekker — their clothing identifies the country & the exact region",
+     "type": "general",
+     "text": "Most coverage has **people walking alongside** the trekker — their clothes ID both the country and the exact region",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "uY1o",
      "img": "mg_followpeople.png",
-     "type": "general"
+     "uniq": "unique"
     },
     {
      "cat": "country",
+     "type": "language",
      "text": "**French + Malagasy** (Latin script, long multi-syllable words); some English on commercial signs",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "V2nD",
-     "img": "mg_language.png",
-     "type": "language"
+     "img": "mg_language.png"
     },
     {
      "cat": "country",
-     "text": "Climate **extremely dry south/central → tropical north**; iconic **baobab** trees (Baobab Avenue near Morondava)",
+     "type": "landscape",
+     "text": "Climate: **extremely dry south/central → tropical north**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "peJo",
-     "img": "mg_dryness.png",
-     "type": "landscape"
+     "img": "mg_dryness.png"
     },
     {
      "cat": "region",
-     "text": "Coverage very limited, mostly the **west coast** (+ boat trekkers & small atolls); landmarks = Baobab Avenue, Morondava beach, **Antananarivo** (Queen's Palace hill), Kirindy Mitea (reddest soil)",
+     "type": "general",
+     "text": "Coverage very limited, mostly **on/near the west coast** — land + boat mix (map)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "jaEx",
      "img": "mg_coverage.png",
-     "type": "naming"
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "cars",
+     "text": "**North (Ambanja area)**: Ambanja = person in dark-blue T-shirt + black sunglasses; Nosy Ambariovato = hilly forested island w/ 3–4 followers (blue/light-red/dark-red shirts) + a north-shore village; Sambirano river = same blue-shirt person (one section: red shirt + white cap & spotted dress)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "3Ucb",
+     "img": "mg_ambanja.png",
+     "imgs": [
+      "mg_nosyambariovato.png",
+      "mg_nosyambariovatotown.png",
+      "mg_sambirano1.png",
+      "mg_sambirano2.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Ambiky area**: many palms + brown sandy road, follower w/ grey shirt + brown backpack; beach west = low trees + low mountains NW; south = big solitary green bushes + slight red dirt tinge; **atolls** (central west coast): northernmost = pure sand, see shore-to-shore; others = broad-leaved palms (only 2 southernmost show on the map!)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "8VEn",
+     "img": "mg_ambikytown.png",
+     "imgs": [
+      "mg_ambikybeach.png",
+      "mg_ambikyforest.png",
+      "mg_atollnorth.png",
+      "mg_atollsouth.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "city",
+     "type": "landscape",
+     "text": "**Antananarivo**: hillside coverage overlooking the city, leading up to the **Queen's Palace**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "8CI7",
+     "img": "mg_antananarivo.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Morondava region**: RN8 (Andriamena↔Marofandilia) = car w/ big silver roof rack, very dry & sandy; RN8 trekker = extreme dryness + 4 followers (red/blue/grey/light-blue); **Baobab Avenue** = massive broad-trunked baobabs; Morondava town = bald follower in striped shirt + paved road; smooth beach w/ ocean NW; Belo Sur Mer = palms + white-sand blanket; **Kirindy Mitea NP = the reddest soil in Madagascar**; Manahy = car w/ grey roof rack (or blur shape) + grassy field/sand-dune trekker",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "AmoS",
+     "img": "mg_andranomena.png",
+     "imgs": [
+      "mg_andranomenatrekker.png",
+      "mg_baobabavenue.png",
+      "mg_morondavatown.png",
+      "mg_morondavabeach.png",
+      "mg_belosurmertown.png",
+      "mg_belosurmerbeach.png",
+      "mg_kirindymitea.png",
+      "mg_manahycar.png",
+      "mg_manahytrekker.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Andavadoaka region**: village w/ shore east (north of town); sandy cape village w/ shore north; town = 3 people (grey hat + light-blue shirt, red & white shirts); trekkers = grey-hat or yellow-shirt person / light-blue shirt (NE); two **cow carts** south of town (black+brown-white cows w/ blue cart; white+black-white cows); bay south: seaside village w/o people, rocky ground w/o people, multi-person village w/ shallow-water walk, fishing-net cluster",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "61Nb",
+     "img": "mg_nosyratafanika.png",
+     "imgs": [
+      "mg_capitsere.png",
+      "mg_andavadoakatown.png",
+      "mg_andavadoakatrekker1.png",
+      "mg_andavadoakatrekker2.png",
+      "mg_cow1.png",
+      "mg_cow2.png",
+      "mg_velondriaketrekker1.png",
+      "mg_velondriaketrekker2.png",
+      "mg_velondriaketrekker3.png",
+      "mg_velondriakenets.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Tsaranoro Massif**: huge monolithic mountain w/ steep sides + 4 followers (partly in forest = darker); small settlement at the NE end; **Toliara** = busy town, the only large one WITHOUT a follower; St Augustin = 2 followers (yellow tank top + blue shirt), also east of town in shrubby hills",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "bzxa",
+     "img": "mg_tsaranoro.png",
+     "imgs": [
+      "mg_tsaranoroforest.png",
+      "mg_tsaranorocamp.png",
+      "mg_toliara.png",
+      "mg_staugustintown.png",
+      "mg_staugustintrekker.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "cars",
+     "text": "**Boat trekkers**: white boat full of people → around Nosy Ambariovato; blue boat → coast south of it; row boat w/ 5 people + wide wooden frame → NW of Ambohimena; Sambirano-river boat = tourist in blue + gondolier in brown (north part at sunset); atoll boat = shirtless driver w/ white cap; north of Andavadoaka = **huge sail** + yellow-blue bow; bay south = smaller sail or 'Diesel' red shirt; St Augustin = 4 people (red/blue/yellow + brown at the front)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "wCgg",
+     "img": "mg_z_nosyambariovato.png",
+     "imgs": [
+      "mg_z_ankify.png",
+      "mg_z_ambohimena.png",
+      "mg_z_sambirano.png",
+      "mg_z_atolls.png",
+      "mg_z_andavadoaka.png",
+      "mg_z_velondriake.png",
+      "mg_z_staugustin.png"
+     ],
+     "super": true,
+     "uniq": "unique"
     }
    ]
   },
