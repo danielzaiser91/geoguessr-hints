@@ -61,18 +61,17 @@ Study: [Plonk It](https://www.plonkit.net/south-africa) · [GeoGuessr map](https
 | Special | **Spotlights**: R360 north of Bokspits = reddish asphalt, arid w/ grey trees + golden grass, N-S; **Table Mountain** (3-km plateau + pyramidal Devil's Peak) → west of Cape Town; George's Peak visible north of George | [P](https://www.plonkit.net/south-africa) |  |
 
 ## Egypt
-Study: [Plonk It](https://www.plonkit.net/egypt)
+Study: [Plonk It](https://www.plonkit.net/egypt) · [GeoGuessr map](https://www.geoguessr.com/maps/64850a88716908de2fb3a372)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Very sparse — **all Gen3 trekker** coverage (low camera, small blurs, no car shadow) at **7 historic sites** in Cairo & Alexandria | [P](https://www.plonkit.net/egypt) |  |
-| Country | Most buildings are **sandstone**; Arabic script (lines + dots) occasionally on signs | [P](https://www.plonkit.net/egypt) |  |
-| Special | **Giza pyramids** trekker (don't confuse with Memphis's glass pyramid) | [P](https://www.plonkit.net/egypt) |  |
-| Special | **Khafre valley temple** = rows of massive square pillars; **Djoser step pyramid** (stairs + scaffolding) south of Cairo | [P](https://www.plonkit.net/egypt) |  |
-| Special | **Cairo Citadel**: huge clean-cut sandstone walls + Ottoman **Mosque of Muhammad Ali** (grey domes, tall minarets) | [P](https://www.plonkit.net/egypt) |  |
-| Special | **Hanging Church** (Cairo, near Fustat): urban street + church spires w/ crosses, then interior courtyard w/ mosaics & two white spires | [P](https://www.plonkit.net/egypt) |  |
-| Special | **Alexandria — Qaitbay Citadel**: sandstone castle surrounded by thick walls | [P](https://www.plonkit.net/egypt) |  |
-| Special | **Saint Mina monastery** (palace-like, Christian spires/crosses) + **Abu Mena** excavation (small yellow wooden chapel) SW of Alexandria | [P](https://www.plonkit.net/egypt) |  |
+| Country | Very sparse coverage — **all Gen3 trekkers** (low camera, small blurs, no car shadow) at **7 historic sites**: 4 around Cairo + 3 around Alexandria (2 of them far SW of the city) → memorise the trekkers | [P](https://www.plonkit.net/egypt) |  |
+| Country | Most buildings in the coverage = **sandstone**; **Arabic** occasionally on signs (lines + dots) | [P](https://www.plonkit.net/egypt) |  |
+| Special | **Giza pyramids** trekker | [P](https://www.plonkit.net/egypt) |  |
+| Special | **Khafre valley temple**: rows of massive square pillars; **Djoser step pyramid** (stair-like sections + scaffolding) south of Cairo + minor excavation sites & plain desert | [P](https://www.plonkit.net/egypt) |  |
+| Special | **Cairo Citadel**: massive clean-cut sandstone walls; inside = Ottoman **Mosque of Muhammad Ali** w/ light-grey domes + very tall minarets (superficially Hagia-Sophia-like!) | [P](https://www.plonkit.net/egypt) |  |
+| Special | **Hanging Church** (east of Giza, near the 'Fustat' label): outside = normal Cairo street w/ church spires + crosses + sandstone walls; inside = courtyard w/ mosaics + two white spires | [P](https://www.plonkit.net/egypt) |  |
+| Special | **Alexandria**: Qaitbay Citadel = sandstone castle in thick walls; **Saint Mina monastery** (SW, palace-like modern-Arabic buildings w/ Christian crosses); **Abu Mena** excavation just south of it — small **yellow wooden chapel** in the middle | [P](https://www.plonkit.net/egypt) |  |
 
 ## Tanzania
 Study: [Plonk It](https://www.plonkit.net/tanzania)

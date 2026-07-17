@@ -8461,96 +8461,108 @@
    "area_km2": 1002450,
    "links": {
     "plonkit": "https://www.plonkit.net/egypt",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/64850a88716908de2fb3a372"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Very sparse — **all Gen3 trekker** coverage (low camera, small blurs, no car shadow) at **7 historic sites** in Cairo & Alexandria",
+     "type": "cars",
+     "text": "Very sparse coverage — **all Gen3 trekkers** (low camera, small blurs, no car shadow) at **7 historic sites**: 4 around Cairo + 3 around Alexandria (2 of them far SW of the city) → memorise the trekkers",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "1hsl",
      "img": "Egypt-coverage-map.png",
-     "type": "cars"
+     "super": true
     },
     {
      "cat": "country",
-     "text": "Most buildings are **sandstone**; Arabic script (lines + dots) occasionally on signs",
+     "type": "arch",
+     "text": "Most buildings in the coverage = **sandstone**; **Arabic** occasionally on signs (lines + dots)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Ehp5",
      "img": "Sandstone.png",
-     "type": "arch"
+     "imgs": [
+      "Arabic.png"
+     ]
     },
     {
      "cat": "special",
-     "text": "**Giza pyramids** trekker (don't confuse with Memphis's glass pyramid)",
+     "type": "landscape",
+     "text": "**Giza pyramids** trekker",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "xI89",
      "img": "eg_pyramids.png",
-     "type": "general"
+     "uniq": "unique*",
+     "uniq_note": "Don't confuse with the GLASS pyramid in Memphis (Tennessee, USA)."
     },
     {
      "cat": "special",
-     "text": "**Khafre valley temple** = rows of massive square pillars; **Djoser step pyramid** (stairs + scaffolding) south of Cairo",
+     "type": "arch",
+     "text": "**Khafre valley temple**: rows of massive square pillars; **Djoser step pyramid** (stair-like sections + scaffolding) south of Cairo + minor excavation sites & plain desert",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Ogus",
      "img": "eg_khafretemple.png",
-     "type": "general"
+     "imgs": [
+      "eg_djoser.png"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "special",
-     "text": "**Cairo Citadel**: huge clean-cut sandstone walls + Ottoman **Mosque of Muhammad Ali** (grey domes, tall minarets)",
+     "type": "arch",
+     "text": "**Cairo Citadel**: massive clean-cut sandstone walls; inside = Ottoman **Mosque of Muhammad Ali** w/ light-grey domes + very tall minarets (superficially Hagia-Sophia-like!)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "98pq",
-     "img": "Citadel_of_Cairo_mosque.png",
-     "type": "general"
+     "anchor": "PyuJ",
+     "img": "Citadel_of_Cairo_walls.png",
+     "imgs": [
+      "Citadel_of_Cairo_mosque.png"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "special",
-     "text": "**Hanging Church** (Cairo, near Fustat): urban street + church spires w/ crosses, then interior courtyard w/ mosaics & two white spires",
+     "type": "arch",
+     "text": "**Hanging Church** (east of Giza, near the 'Fustat' label): outside = normal Cairo street w/ church spires + crosses + sandstone walls; inside = courtyard w/ mosaics + two white spires",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "iib2",
      "img": "Hanging_Church_outside.png",
-     "type": "general"
+     "imgs": [
+      "Hanging_Church_inside.png"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "special",
-     "text": "**Alexandria — Qaitbay Citadel**: sandstone castle surrounded by thick walls",
+     "type": "arch",
+     "text": "**Alexandria**: Qaitbay Citadel = sandstone castle in thick walls; **Saint Mina monastery** (SW, palace-like modern-Arabic buildings w/ Christian crosses); **Abu Mena** excavation just south of it — small **yellow wooden chapel** in the middle",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "JJUF",
      "img": "eg_quaitbay.png",
-     "type": "general"
-    },
-    {
-     "cat": "special",
-     "text": "**Saint Mina monastery** (palace-like, Christian spires/crosses) + **Abu Mena** excavation (small yellow wooden chapel) SW of Alexandria",
-     "src": [
-      "plonkit"
+     "imgs": [
+      "eg_saintmina.png",
+      "eg_abumena.png"
      ],
-     "sv": null,
-     "anchor": "PQtH",
-     "img": "eg_saintmina.png",
-     "type": "general"
+     "uniq": "unique"
     }
    ]
   },
