@@ -3114,7 +3114,7 @@ Study: [Plonk It](https://www.plonkit.net/south-georgia-sandwich-islands)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | British Overseas Territory east of the Falklands (counts as UK); only a couple of **Gen3 trekkers** (Grytviken + 3 fjord trekkers), none on streets — memorise them | [P](https://www.plonkit.net/south-georgia-sandwich-islands) |  |
-| Region | **Grytviken** = the only pinpointable trekker (appears on community maps) — abandoned rusted machinery, a church + white-painted wooden buildings | [P](https://www.plonkit.net/south-georgia-sandwich-islands) |  |
-| Region | A wide open **valley w/ lightly snow-capped mountains** on the west side of South Georgia Island | [P](https://www.plonkit.net/south-georgia-sandwich-islands) |  |
-| Region | **Prion Island** = wooden walkway, lush green plants & many **seals**; a boat trekker in Hercules Bay shows a man in a red jacket + the MS National Geographic Explorer | [P](https://www.plonkit.net/south-georgia-sandwich-islands) |  |
+| Country | British Overseas Territory east of the Falklands — **counts as UK** in streaks; only a few **Gen3 trekkers** (1 in Grytviken + 3 in isolated fjords), none on streets → memorise them | [P](https://www.plonkit.net/south-georgia-sandwich-islands) |  |
+| Special | **Grytviken** = the ONLY pinpointable trekker (appears in A Community World): abandoned **rusted whaling machinery** + a church & white-painted wooden buildings | [P](https://www.plonkit.net/south-georgia-sandwich-islands) |  |
+| Special | West side of the island: wide open **valley w/ lightly snow-capped mountains** | [P](https://www.plonkit.net/south-georgia-sandwich-islands) |  |
+| Special | **Prion Island**: wooden walkway + lush green plants + many **seals**; **Hercules Bay boat trekker** = man in a red jacket + the MS National Geographic Explorer in the background | [P](https://www.plonkit.net/south-georgia-sandwich-islands) |  |
