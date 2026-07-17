@@ -1677,23 +1677,29 @@ Study: [Plonk It](https://www.plonkit.net/hungary)
 | Region | Road **first digit = a circle around Budapest**; SE very flat (Puszta grasslands), N/W = forested hills; **Lake Balaton** = only large lake, touristy | [P](https://www.plonkit.net/hungary) |  |
 
 ## Portugal
-Study: [Plonk It](https://www.plonkit.net/portugal)
+Study: [Plonk It](https://www.plonkit.net/portugal) · [GeoGuessr map](https://www.geoguessr.com/maps/6484b2a40404933187c284b2)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plate white + blue strip left + **yellow strip right** (unique; discontinued 2020, so Gen4 may show only the blue) | [P](https://www.plonkit.net/portugal) |  |
-| Country | **Portuguese**: Ç Ã Õ Â Ê and **no Ñ** (Spain has Ñ); road = **Rua** (Galician = Rúa) | [P](https://www.plonkit.net/portugal) |  |
-| Country | **Eucalyptus** trees very common (only other part of Europe with them = northern Spain) | [P](https://www.plonkit.net/portugal) |  |
-| Country | Concrete **ladder poles with very tall steps** (each with a small see-through hole) — Spain/France use short steps | [P](https://www.plonkit.net/portugal) |  |
-| Country | Hunting signs **red-and-white** (Spain = black/white); chevrons **black w/ yellow arrows** (only Mediterranean country with these) | [P](https://www.plonkit.net/portugal) |  |
-| Country | Bollards wedge-shaped w/ thin white top, or flat w/ a wide reflector (orange reflector = darker than Spain's yellow) | [P](https://www.plonkit.net/portugal) |  |
-| Country | Directional signs white w/ **black arrows not touching the border**; km markers = wide rectangle w/ a diagonal coloured section | [P](https://www.plonkit.net/portugal) |  |
-| Country | Pedestrian sign **5 stripes, person with a high belt**; stop sign large font (Spain compact); road signs have a **white border** | [P](https://www.plonkit.net/portugal) |  |
-| Country | A-type guardrails w/ **red reflectors** (Spain = yellow) | [P](https://www.plonkit.net/portugal) |  |
-| Country | **Cobblestone** roads (square stones, diagonal) + bright cobblestone sidewalks; white stone houses w/ orange roofs & blue/yellow window trim | [P](https://www.plonkit.net/portugal) |  |
-| Region | **Faro (south)** decorative round/square chimneys; oak fields SE; olives east; **Douro** = steep terraced vineyards east of Porto | [P](https://www.plonkit.net/portugal) |  |
-| State | Landline area codes = first 3 digits (map); codes not starting with 2 aren't regional; **29 = Azores or Madeira** | [P](https://www.plonkit.net/portugal) |  |
-| Special | **Madeira & Azores** count as Portugal; Serra da Estrela = rocky highland w/ yellow-black striped snow poles; Porto = lime-green street signs | [P](https://www.plonkit.net/portugal) |  |
+| Country | Plates white + blue strip left + **yellow strip right** (discontinued 2020 — Gen4 may show only the blue) | [P](https://www.plonkit.net/portugal) |  |
+| Country | **Portuguese**: Ç Ã Õ Â Ê, no Ñ (very common in Spanish); street = **Rua** (Galician: Rúa w/ accent) | [P](https://www.plonkit.net/portugal) |  |
+| Country | **Eucalyptus everywhere** — in Europe otherwise only N-Spain | [P](https://www.plonkit.net/portugal) |  |
+| Country | Concrete ladder poles w/ **very tall steps + small see-through holes per step** (ES/FR: short steps) | [P](https://www.plonkit.net/portugal) |  |
+| Country | Hunting signs **red-white** (diamond or rectangle; Spain's are black-white) | [P](https://www.plonkit.net/portugal) |  |
+| Country | Bollards: wedge w/ **thin white top** or flat w/ wide reflector — white or **dark-orange** reflectors (darker than Spain's yellow) | [P](https://www.plonkit.net/portugal) |  |
+| Country | Directional signs white w/ **black arrows not touching the border** (Spain: colourful number boxes, no arrow); km markers = wide rectangles w/ diagonal coloured left section + big square road-number signs each km; **b&w waystones** | [P](https://www.plonkit.net/portugal) |  |
+| Country | Stop signs w/ **large font** (Spain: small compact font); chevrons **black w/ yellow arrows** — only Mediterranean country with this scheme | [P](https://www.plonkit.net/portugal) |  |
+| Country | Pedestrian signs: 5 stripes + person w/ **noticeably high belt** (ES: 8 stripes, IT: no belt, GR: dotted lines); signs typically in a **white border** (Spain mostly not) | [P](https://www.plonkit.net/portugal) |  |
+| Country | A-type guardrails w/ **red reflectors** (Spain: yellow) | [P](https://www.plonkit.net/portugal) |  |
+| Country | **Cobblestone roads** (square stones laid diagonally) + bright cobblestone sidewalks — very common | [P](https://www.plonkit.net/portugal) |  |
+| Country | **White stone houses w/ orange tiled roofs**; blue/yellow painted lines around windows/doors/wall edges; decorative **mosaic-tile facades** | [P](https://www.plonkit.net/portugal) |  |
+| Country | Gen4 smallcam coverage | [P](https://www.plonkit.net/portugal) |  |
+| Region | **Area codes**: first 3 digits (all start with 2); 29x = **Azores or Madeira** | [P](https://www.plonkit.net/portugal) |  |
+| Region | **Faro** (south): decorative chimneys — round or square w/ spire tops (round = strongest clue); **north**: square concrete-block houses w/ **white mortar** (Galicia similar but w/o the mortar) | [P](https://www.plonkit.net/portugal) |  |
+| Region | **Montado** (sparse holm/cork oaks) → southeast (dry in summer, lush in spring); olive rows → east (far NE + SE) — olives in dense rows vs oaks sparse & patternless; dense eucalyptus forests → northwest; maritime-pine forests → northern half (also Galicia); **terraced Douro vineyards** → east of Porto; citrus → south coast | [P](https://www.plonkit.net/portugal) |  |
+| Region | **Madeira & Azores** count as Portugal — separate pages here | [P](https://www.plonkit.net/portugal) |  |
+| City | **Lime-green street signs** | [P](https://www.plonkit.net/portugal) |  |
+| Special | **Serra da Estrela**: rocky highland + **yellow-black striped snow poles**; sandy-white pine forests → Setúbal↔Sines coast; far southwest = flat, dry, near-treeless bushland | [P](https://www.plonkit.net/portugal) |  |
 
 ## Serbia
 Study: [Plonk It](https://www.plonkit.net/serbia)

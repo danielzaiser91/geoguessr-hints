@@ -19226,153 +19226,303 @@
    "area_km2": 92212,
    "links": {
     "plonkit": "https://www.plonkit.net/portugal",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/6484b2a40404933187c284b2"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Plate white + blue strip left + **yellow strip right** (unique; discontinued 2020, so Gen4 may show only the blue)",
+     "type": "plates",
+     "text": "Plates white + blue strip left + **yellow strip right** (discontinued 2020 — Gen4 may show only the blue)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "lhWL",
      "img": "licenceplate.png",
-     "type": "plates"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "**Portuguese**: Ç Ã Õ Â Ê and **no Ñ** (Spain has Ñ); road = **Rua** (Galician = Rúa)",
+     "type": "language",
+     "text": "**Portuguese**: Ç Ã Õ Â Ê, no Ñ (very common in Spanish); street = **Rua** (Galician: Rúa w/ accent)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "WrlL",
      "img": "language.png",
-     "type": "language"
+     "imgs": [
+      "rua.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "spain",
+       "note": "Closely related; Galician nearly identical.",
+       "diff": "Ñ → Spain; ã/õ/lh → Portugal. Galicia: Rúa w/ accent + ñ.",
+       "img": "es_language.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Eucalyptus** trees very common (only other part of Europe with them = northern Spain)",
+     "type": "landscape",
+     "text": "**Eucalyptus everywhere** — in Europe otherwise only N-Spain",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "OD5a",
      "img": "eucalyptus.png",
-     "type": "landscape"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "spain",
+       "note": "Northern Spanish coast has eucalyptus too.",
+       "diff": "Language details decide.",
+       "img": "Eucaliptos_N.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Concrete **ladder poles with very tall steps** (each with a small see-through hole) — Spain/France use short steps",
+     "type": "utility",
+     "text": "Concrete ladder poles w/ **very tall steps + small see-through holes per step** (ES/FR: short steps)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "fbSP",
      "img": "ladderpole.png",
-     "type": "utility"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "spain",
+       "note": "Ladder poles too, but short-stepped.",
+       "diff": "Tall steps + holes → Portugal.",
+       "img": "Ladder_and_wooden_poles.png"
+      },
+      {
+       "slug": "france",
+       "note": "Short-step ladder poles.",
+       "diff": "Blue pole plates → France."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Hunting signs **red-and-white** (Spain = black/white); chevrons **black w/ yellow arrows** (only Mediterranean country with these)",
+     "type": "signs",
+     "text": "Hunting signs **red-white** (diamond or rectangle; Spain's are black-white)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "DGfn",
      "img": "huntingsign.png",
-     "type": "signs"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Bollards wedge-shaped w/ thin white top, or flat w/ a wide reflector (orange reflector = darker than Spain's yellow)",
+     "type": "bollards",
+     "text": "Bollards: wedge w/ **thin white top** or flat w/ wide reflector — white or **dark-orange** reflectors (darker than Spain's yellow)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "UKlQ",
-     "img": "bollard.png",
-     "type": "bollards"
+     "img": "bollard.png"
     },
     {
      "cat": "country",
-     "text": "Directional signs white w/ **black arrows not touching the border**; km markers = wide rectangle w/ a diagonal coloured section",
+     "type": "signs",
+     "text": "Directional signs white w/ **black arrows not touching the border** (Spain: colourful number boxes, no arrow); km markers = wide rectangles w/ diagonal coloured left section + big square road-number signs each km; **b&w waystones**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "aXLK",
      "img": "directionalsign.png",
-     "type": "signs"
+     "imgs": [
+      "kmmarker.png",
+      "kmstone.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Pedestrian sign **5 stripes, person with a high belt**; stop sign large font (Spain compact); road signs have a **white border**",
+     "type": "signs",
+     "text": "Stop signs w/ **large font** (Spain: small compact font); chevrons **black w/ yellow arrows** — only Mediterranean country with this scheme",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "67d6",
+     "img": "stopsign.png",
+     "imgs": [
+      "chevron.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "Black-yellow chevrons are Mediterranean-unique to Portugal (Nordics/Ireland use them too — but the landscape separates)."
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Pedestrian signs: 5 stripes + person w/ **noticeably high belt** (ES: 8 stripes, IT: no belt, GR: dotted lines); signs typically in a **white border** (Spain mostly not)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "x15t",
      "img": "pedestriansign.png",
-     "type": "signs"
+     "imgs": [
+      "signborder.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "A-type guardrails w/ **red reflectors** (Spain = yellow)",
+     "type": "utility",
+     "text": "A-type guardrails w/ **red reflectors** (Spain: yellow)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "U3KE",
      "img": "guardrail.png",
-     "type": "utility"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "spain",
+       "note": "Yellow reflectors there.",
+       "diff": "Red → Portugal.",
+       "img": "2022-12-11_5.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Cobblestone** roads (square stones, diagonal) + bright cobblestone sidewalks; white stone houses w/ orange roofs & blue/yellow window trim",
+     "type": "markings",
+     "text": "**Cobblestone roads** (square stones laid diagonally) + bright cobblestone sidewalks — very common",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "tuqy",
      "img": "cobblestone.png",
-     "type": "arch"
+     "imgs": [
+      "cobblestonesidewalk.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "The diagonal square-cobblestone roads + calçada sidewalks are the classic Portugal tell — Brazil inherited the sidewalks, so check the plates."
     },
     {
-     "cat": "state",
-     "text": "Landline area codes = first 3 digits (map); codes not starting with 2 aren't regional; **29 = Azores or Madeira**",
+     "cat": "country",
+     "type": "arch",
+     "text": "**White stone houses w/ orange tiled roofs**; blue/yellow painted lines around windows/doors/wall edges; decorative **mosaic-tile facades**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "kEDt",
+     "img": "whitehouse.png",
+     "imgs": [
+      "blueyellowhouse.png",
+      "decorativetiles.png"
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "Gen4 smallcam coverage",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "mTk9",
+     "img": "europe_smallcam.png"
+    },
+    {
+     "cat": "region",
+     "type": "naming",
+     "text": "**Area codes**: first 3 digits (all start with 2); 29x = **Azores or Madeira**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "oTO0",
      "img": "2areacodes_darkmode.webp",
-     "type": "naming"
+     "super": true
     },
     {
      "cat": "region",
-     "text": "**Faro (south)** decorative round/square chimneys; oak fields SE; olives east; **Douro** = steep terraced vineyards east of Porto",
+     "type": "arch",
+     "text": "**Faro** (south): decorative chimneys — round or square w/ spire tops (round = strongest clue); **north**: square concrete-block houses w/ **white mortar** (Galicia similar but w/o the mortar)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "csJJ",
+     "img": "2southernchimney.png",
      "imgs": [
-      "2southernchimney.png",
-      "2olives.png",
-      "2citrus.png"
-     ],
-     "type": "landscape"
+      "pt_concreteblocks.png"
+     ]
     },
     {
-     "cat": "special",
-     "text": "**Madeira & Azores** count as Portugal; Serra da Estrela = rocky highland w/ yellow-black striped snow poles; Porto = lime-green street signs",
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Montado** (sparse holm/cork oaks) → southeast (dry in summer, lush in spring); olive rows → east (far NE + SE) — olives in dense rows vs oaks sparse & patternless; dense eucalyptus forests → northwest; maritime-pine forests → northern half (also Galicia); **terraced Douro vineyards** → east of Porto; citrus → south coast",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "general"
+     "anchor": "1SD6",
+     "img": "2montado.png",
+     "imgs": [
+      "2olives.png",
+      "2eucalyptusforest.png",
+      "2maritimepine.png",
+      "2terracedvineyards.png",
+      "2citrus.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "general",
+     "text": "**Madeira & Azores** count as Portugal — separate pages here",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "sUvJ",
+     "img": "2azoresmadeira.png"
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Serra da Estrela**: rocky highland + **yellow-black striped snow poles**; sandy-white pine forests → Setúbal↔Sines coast; far southwest = flat, dry, near-treeless bushland",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Lkpp",
+     "img": "3serradaestrela.png",
+     "imgs": [
+      "3sandypinearea.png",
+      "3southwest.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "city",
+     "area": "Porto",
+     "type": "signs",
+     "text": "**Lime-green street signs**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "gIlH",
+     "img": "3portostreetsign.png",
+     "uniq": "unique"
     }
    ]
   },

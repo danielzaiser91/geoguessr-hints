@@ -127,7 +127,7 @@ Format: `- [ ] slug` → check when BOTH captured-complete AND classified.
 - [x] macau · - [x] cyprus · - [x] british-indian-ocean-territory
 **Europe:** - [x] germany · - [x] france · - [x] united-kingdom · - [x] spain · - [x] italy ·
 - [x] netherlands · - [x] poland · - [x] sweden · - [x] norway · - [x] finland · - [x] denmark ·
-- [x] ireland · - [x] belgium · - [x] switzerland · - [x] austria · - [ ] portugal ·
+- [x] ireland · - [x] belgium · - [x] switzerland · - [x] austria · - [x] portugal ·
 - [ ] greece · - [ ] czechia · - [ ] romania · - [ ] hungary · - [ ] ukraine · - [ ] belarus ·
 - [ ] bulgaria · - [ ] serbia · - [ ] croatia · - [ ] slovakia · - [ ] slovenia ·
 - [ ] lithuania · - [ ] latvia · - [ ] estonia · - [ ] iceland · - [ ] albania ·
