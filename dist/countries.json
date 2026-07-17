@@ -14770,122 +14770,240 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Plate long white + standard EU blue strip left",
+     "type": "plates",
+     "text": "Plates long white + EU strip",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "ggZt",
-     "img": "Lithuania_License_Plate.png",
-     "type": "plates"
+     "img": "Lithuania_License_Plate.png"
     },
     {
      "cat": "country",
-     "text": "Bollards **wedge-shaped**: orange rectangular reflector front / white back (Estonia & Latvia differ)",
+     "type": "bollards",
+     "text": "Wedge bollards w/ **rectangular ORANGE front reflector** + white back (thin version exists)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "SYjp",
      "img": "Bollard.png",
-     "type": "bollards"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "estonia",
+       "note": "Baltic lookalikes differ.",
+       "diff": "Orange rectangle → Lithuania (see the Baltic bollard infographic)."
+      },
+      {
+       "slug": "latvia",
+       "note": "Latvian bollards look different.",
+       "diff": "Orange rectangle → Lithuania."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Poles usually **square concrete w/ a diagonal support beam**; trident-style poletops",
+     "type": "utility",
+     "text": "Square concrete poles w/ **diagonal support beam** (rarely EE/LV); post-Soviet poletops (short rods, trident arrangements)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "N6PY",
      "img": "Leaner_poles.png",
-     "type": "utility"
+     "imgs": [
+      "Poletops_Lithuania.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "estonia",
+       "note": "Occasionally similar leaning poles.",
+       "diff": "Much commoner in Lithuania; õ/ü language → Estonia."
+      },
+      {
+       "slug": "ukraine",
+       "note": "Diagonal supports common there too.",
+       "diff": "Cyrillic → Ukraine."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Chevrons **white w/ red arrows** + a red outline on the sign edge (Estonia/Russia/Ukraine = opposite colours)",
+     "type": "signs",
+     "text": "Chevrons white w/ red arrows — small single chevrons have a **red edge outline** (LV/PL versions lack it; EE/RU/UA = inverted colours)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Uc6g",
-     "img": "Chevron_Lithuania.png",
-     "type": "signs"
+     "img": "Chevron_Lithuania.png"
     },
     {
      "cat": "country",
-     "text": "Blue km marker at a **45° angle to the road, L-shaped** (Estonia = perpendicular)",
+     "type": "signs",
+     "text": "Baltic blue km markers: Lithuania's at a **45° angle, L-shaped**; warning-sign borders: thin red + thin white outline; **A-type guardrails w/ ORANGE reflectors** (EE: none, LV: red/white)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "0iED",
      "img": "KM_sign_Lithuania.png",
-     "type": "signs"
-    },
-    {
-     "cat": "country",
-     "text": "Signs = **thin red border + thin white outline**; A-type guardrails w/ **orange reflectors** (Estonia none, Latvia red/white)",
-     "src": [
-      "plonkit"
+     "imgs": [
+      "Lithuanian_Signs.png",
+      "Lithuania_guardrail3.png"
      ],
-     "sv": null,
-     "anchor": "q5r2",
-     "img": "Lithuanian_Signs.png",
-     "type": "signs"
+     "super": true
     },
     {
      "cat": "country",
-     "text": "Pedestrian sign **3 stripes, low detail** (like RU/UA; Estonia more detailed; Latvia has 5)",
+     "type": "signs",
+     "text": "Pedestrian signs **3 stripes, low-detail person** (RU/UA same; EE more detailed; LV = 5 stripes); bus-stop sign w/ **4-window bus** (LV: 5 windows; EE same as LT)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "tXGz",
      "img": "Pedestrian_sign_Lithuania.png",
-     "type": "signs"
+     "imgs": [
+      "Bus_stop_sign_Lithuania.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "**Lithuanian** (Baltic): letters **Ą Ę Į Ų Ė**; street = **gatvė (g.)**; many place names end **-ai**",
+     "type": "language",
+     "text": "**Lithuanian**: hooked vowels **Ą Ę Į Ų** + **Ė** (dot) + Y; street = **gatve (g.)** ≈ Lithuania-only (ultra-rare 'gat.' in Riga); many towns end **-ai**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "5P5C",
      "img": "Lithuanian_language.png",
-     "type": "language"
-    },
-    {
-     "cat": "country",
-     "text": "Bus-stop sign bus has **4 windows** (Latvia = 5; Estonia same as LT); directional signs blue w/ white text",
-     "src": [
-      "plonkit"
+     "imgs": [
+      "Gatve.png",
+      "ai_place_names.png"
      ],
-     "sv": null,
-     "anchor": "sIcK",
-     "img": "Bus_stop_sign_Lithuania.png",
-     "type": "signs"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "latvia",
+       "note": "Closely related Baltic language.",
+       "diff": "Hooked vowels + Ė → Lithuanian; Latvian uses macrons (ā ē ī ū) + iela."
+      },
+      {
+       "slug": "poland",
+       "note": "Ą/Ę exist in Polish too.",
+       "diff": "Ł/ż → Polish; Į/Ų/Ė → Lithuanian."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Architecture = light brick + steep corrugated metal roofs; **less forest → more open/agricultural** than the other Baltics",
+     "type": "arch",
+     "text": "Light **brick buildings w/ steep corrugated metal roofs**; wooden houses (fewer than Estonia); pastel stone in suburbs; **Vytis flag** (knight on dark red) occasionally",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "nVmi",
      "img": "lt_architecture.png",
-     "type": "arch"
+     "imgs": [
+      "lithuania_state_flag.png"
+     ]
     },
     {
-     "cat": "special",
-     "text": "Gen3 **random small blurs** (also Kaliningrad; not EE/LV); black & red Gen4; **Curonian Spit** (SW) = dunes + windswept Baltic pines + red wooden houses",
+     "cat": "country",
+     "type": "signs",
+     "text": "Directional signs blue/white (Latvian arrowheads more stylised)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "cars"
+     "anchor": "GkfG",
+     "img": "lt_directionalsign.png"
+    },
+    {
+     "cat": "country",
+     "type": "landscape",
+     "text": "**Least forest of the Baltics** — more open & agricultural (use w/ caution)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "8k76",
+     "img": "Less_forest_cover2.png"
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "Gen3: **random small blurs** on signs/objects (also Kaliningrad; not EE/LV); Gen4 black or red car (not in Estonia)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "fAPZ",
+     "img": "Random_blurs_Lithuania.png",
+     "imgs": [
+      "Screenshot (612).png",
+      "Screenshot (614).png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "russia",
+       "note": "Kaliningrad has the same random blurs.",
+       "diff": "EU plates + gatve → Lithuania.",
+       "img": "kaliningradtrees.png"
+      },
+      {
+       "slug": "estonia",
+       "note": "No random blurs, no black/red Gen4 cars there.",
+       "diff": "Those metas → Lithuania (or Latvia for the cars)."
+      }
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "Fairly flat (nothing over 300 m) — biggest hills SE + central west; **metal pole tags → east**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "mtfw",
+     "img": "Elevation-map.png",
+     "imgs": [
+      "eastern_metal_tag.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Curonian Spit** (road 167): N-S Gen4 road through Baltic-pine forest w/ windswept trees + red Scandinavian-look wooden houses",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "oTsA",
+     "img": "Road_167.png",
+     "imgs": [
+      "lt_curonianspitarctitecture.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "language",
+     "text": "Rare **Polish bilingual signs** → small area in the southeast",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "1lsP",
+     "img": "Polish_in_Lithuania.png"
     }
    ]
   },

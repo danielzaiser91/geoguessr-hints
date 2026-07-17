@@ -1818,17 +1818,20 @@ Study: [Plonk It](https://www.plonkit.net/lithuania)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plate long white + standard EU blue strip left | [P](https://www.plonkit.net/lithuania) |  |
-| Country | Bollards **wedge-shaped**: orange rectangular reflector front / white back (Estonia & Latvia differ) | [P](https://www.plonkit.net/lithuania) |  |
-| Country | Poles usually **square concrete w/ a diagonal support beam**; trident-style poletops | [P](https://www.plonkit.net/lithuania) |  |
-| Country | Chevrons **white w/ red arrows** + a red outline on the sign edge (Estonia/Russia/Ukraine = opposite colours) | [P](https://www.plonkit.net/lithuania) |  |
-| Country | Blue km marker at a **45° angle to the road, L-shaped** (Estonia = perpendicular) | [P](https://www.plonkit.net/lithuania) |  |
-| Country | Signs = **thin red border + thin white outline**; A-type guardrails w/ **orange reflectors** (Estonia none, Latvia red/white) | [P](https://www.plonkit.net/lithuania) |  |
-| Country | Pedestrian sign **3 stripes, low detail** (like RU/UA; Estonia more detailed; Latvia has 5) | [P](https://www.plonkit.net/lithuania) |  |
-| Country | **Lithuanian** (Baltic): letters **Ą Ę Į Ų Ė**; street = **gatvė (g.)**; many place names end **-ai** | [P](https://www.plonkit.net/lithuania) |  |
-| Country | Bus-stop sign bus has **4 windows** (Latvia = 5; Estonia same as LT); directional signs blue w/ white text | [P](https://www.plonkit.net/lithuania) |  |
-| Country | Architecture = light brick + steep corrugated metal roofs; **less forest → more open/agricultural** than the other Baltics | [P](https://www.plonkit.net/lithuania) |  |
-| Special | Gen3 **random small blurs** (also Kaliningrad; not EE/LV); black & red Gen4; **Curonian Spit** (SW) = dunes + windswept Baltic pines + red wooden houses | [P](https://www.plonkit.net/lithuania) |  |
+| Country | Plates long white + EU strip | [P](https://www.plonkit.net/lithuania) |  |
+| Country | Wedge bollards w/ **rectangular ORANGE front reflector** + white back (thin version exists) | [P](https://www.plonkit.net/lithuania) |  |
+| Country | Square concrete poles w/ **diagonal support beam** (rarely EE/LV); post-Soviet poletops (short rods, trident arrangements) | [P](https://www.plonkit.net/lithuania) |  |
+| Country | Chevrons white w/ red arrows — small single chevrons have a **red edge outline** (LV/PL versions lack it; EE/RU/UA = inverted colours) | [P](https://www.plonkit.net/lithuania) |  |
+| Country | Baltic blue km markers: Lithuania's at a **45° angle, L-shaped**; warning-sign borders: thin red + thin white outline; **A-type guardrails w/ ORANGE reflectors** (EE: none, LV: red/white) | [P](https://www.plonkit.net/lithuania) |  |
+| Country | Pedestrian signs **3 stripes, low-detail person** (RU/UA same; EE more detailed; LV = 5 stripes); bus-stop sign w/ **4-window bus** (LV: 5 windows; EE same as LT) | [P](https://www.plonkit.net/lithuania) |  |
+| Country | **Lithuanian**: hooked vowels **Ą Ę Į Ų** + **Ė** (dot) + Y; street = **gatve (g.)** ≈ Lithuania-only (ultra-rare 'gat.' in Riga); many towns end **-ai** | [P](https://www.plonkit.net/lithuania) |  |
+| Country | Light **brick buildings w/ steep corrugated metal roofs**; wooden houses (fewer than Estonia); pastel stone in suburbs; **Vytis flag** (knight on dark red) occasionally | [P](https://www.plonkit.net/lithuania) |  |
+| Country | Directional signs blue/white (Latvian arrowheads more stylised) | [P](https://www.plonkit.net/lithuania) |  |
+| Country | **Least forest of the Baltics** — more open & agricultural (use w/ caution) | [P](https://www.plonkit.net/lithuania) |  |
+| Country | Gen3: **random small blurs** on signs/objects (also Kaliningrad; not EE/LV); Gen4 black or red car (not in Estonia) | [P](https://www.plonkit.net/lithuania) |  |
+| Region | Fairly flat (nothing over 300 m) — biggest hills SE + central west; **metal pole tags → east** | [P](https://www.plonkit.net/lithuania) |  |
+| Special | **Curonian Spit** (road 167): N-S Gen4 road through Baltic-pine forest w/ windswept trees + red Scandinavian-look wooden houses | [P](https://www.plonkit.net/lithuania) |  |
+| Special | Rare **Polish bilingual signs** → small area in the southeast | [P](https://www.plonkit.net/lithuania) |  |
 
 ## Latvia
 Study: [Plonk It](https://www.plonkit.net/latvia)
