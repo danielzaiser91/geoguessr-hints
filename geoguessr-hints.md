@@ -2220,13 +2220,19 @@ Study: [Plonk It](https://www.plonkit.net/liechtenstein)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates **black w/ white lettering + a yellow-and-red emblem** near the left (looks grey through blur, emblem colours visible) | [P](https://www.plonkit.net/liechtenstein) |  |
-| Country | All coverage is **low-cam** (bigger blur, low angle) — only Switzerland & Japan are also always low-cam | [P](https://www.plonkit.net/liechtenstein) |  |
-| Country | Flat **Rhine Valley** with tall mountains in almost every direction (especially towering to the east); lots of pasture | [P](https://www.plonkit.net/liechtenstein) |  |
-| Country | Bollards **B&W cylindrical, rounded top, often a blue side attachment** (wedge design on guardrails); Switzerland near-identical | [P](https://www.plonkit.net/liechtenstein) |  |
-| Country | Bus stops = green-and-white with **LIEMOBIL** written on top | [P](https://www.plonkit.net/liechtenstein) |  |
-| Country | Directional signs white (small roads) / blue (big roads) w/ a pointed arrowhead; pedestrian sign = **7 stripes** in a tall rectangle (identical to Switzerland) | [P](https://www.plonkit.net/liechtenstein) |  |
-| Region | Alpine + modern architecture; town-specific bus stops (**Vaduz** red, **Balzers** black); Triesenberg on the eastern mountain slope | [P](https://www.plonkit.net/liechtenstein) |  |
+| Country | Plates **black w/ white lettering + yellow-and-red emblem** near the left — blurred they look grey with the emblem colours still visible | [P](https://www.plonkit.net/liechtenstein) |  |
+| Country | Most coverage in a **flat river valley w/ tall mountains in almost every direction** — nearby mountains almost always towering to the **east**; lots of pastures/farmland (Rhine valley) | [P](https://www.plonkit.net/liechtenstein) |  |
+| Country | All coverage = **low-cam**: significantly bigger car blur, roads look wider, low viewing angle | [P](https://www.plonkit.net/liechtenstein) |  |
+| Country | Bollards **black-and-white cylindrical, rounded top**, white/grey reflector, often a **blue side attachment**; on guardrails: wedge design instead | [P](https://www.plonkit.net/liechtenstein) |  |
+| Country | Bus stops: **green-and-white design w/ 'LIEMOBIL'** at the top, black metallic border (frame not always black) | [P](https://www.plonkit.net/liechtenstein) |  |
+| Country | Directional signs white (smaller roads) or blue (bigger roads) w/ **pointed contrasting arrowhead** | [P](https://www.plonkit.net/liechtenstein) |  |
+| Country | Pedestrian signs: **7 stripes in an oddly tall rectangle** | [P](https://www.plonkit.net/liechtenstein) |  |
+| Country | **Yellow-black striped road separators**: rounded top w/ a Lego-like knob, 3 stripes each colour, yellow at the bottom | [P](https://www.plonkit.net/liechtenstein) |  |
+| Country | Road signs commonly in a **round grey metal border** | [P](https://www.plonkit.net/liechtenstein) |  |
+| Country | Architecture: blend of **traditional Alpine + modern buildings** (modern esp. in the bigger towns) | [P](https://www.plonkit.net/liechtenstein) |  |
+| Region | Region reads from the mountains: | [P](https://www.plonkit.net/liechtenstein) |  |
+| City | Town-specific street/bus signs: | [P](https://www.plonkit.net/liechtenstein) |  |
+| Special | **Spotlights**: steep rocky cliff w/ trees at base & top → in/around Mäls; the only lakes → just south of Steg (middle of the mountains) | [P](https://www.plonkit.net/liechtenstein) |  |
 
 ## Jersey
 Study: [Plonk It](https://www.plonkit.net/jersey)

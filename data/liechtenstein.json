@@ -5,12 +5,48 @@
  "area_km2": 160,
  "links": { "plonkit": "https://www.plonkit.net/liechtenstein", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Plates **black w/ white lettering + a yellow-and-red emblem** near the left (looks grey through blur, emblem colours visible)", "src": ["plonkit"], "sv": null, "anchor": "rcYy", "img": "Liechtenstein_plates.png", "type": "plates" },
-  { "cat": "country", "text": "All coverage is **low-cam** (bigger blur, low angle) — only Switzerland & Japan are also always low-cam", "src": ["plonkit"], "sv": null, "anchor": "p90S", "img": "2.png", "type": "cars" },
-  { "cat": "country", "text": "Flat **Rhine Valley** with tall mountains in almost every direction (especially towering to the east); lots of pasture", "src": ["plonkit"], "sv": null, "anchor": "SrOE", "img": "FL_Landscape.png", "type": "landscape" },
-  { "cat": "country", "text": "Bollards **B&W cylindrical, rounded top, often a blue side attachment** (wedge design on guardrails); Switzerland near-identical", "src": ["plonkit"], "sv": null, "anchor": "ci1R", "img": "Screenshot__281398_29.png", "type": "bollards" },
-  { "cat": "country", "text": "Bus stops = green-and-white with **LIEMOBIL** written on top", "src": ["plonkit"], "sv": null, "anchor": "qb5C", "img": "Liechtenstein_Architecture__281_29.png", "type": "general" },
-  { "cat": "country", "text": "Directional signs white (small roads) / blue (big roads) w/ a pointed arrowhead; pedestrian sign = **7 stripes** in a tall rectangle (identical to Switzerland)", "src": ["plonkit"], "sv": null, "anchor": "Ctc1", "img": "6.png", "type": "signs" },
-  { "cat": "region", "text": "Alpine + modern architecture; town-specific bus stops (**Vaduz** red, **Balzers** black); Triesenberg on the eastern mountain slope", "src": ["plonkit"], "sv": null, "anchor": "wjF4", "img": "Triesenberg_area.png", "type": "arch" }
+  { "cat": "country", "type": "plates", "text": "Plates **black w/ white lettering + yellow-and-red emblem** near the left — blurred they look grey with the emblem colours still visible", "src": ["plonkit"], "sv": null, "anchor": "rcYy", "img": "Liechtenstein_plates.png", "uniq": "unique*", "uniq_note": "In Europe only Liechtenstein has this black plate w/ yellow-red emblem; Swiss cars (white plates) are constantly around though." },
+  { "cat": "country", "type": "landscape", "text": "Most coverage in a **flat river valley w/ tall mountains in almost every direction** — nearby mountains almost always towering to the **east**; lots of pastures/farmland (Rhine valley)", "src": ["plonkit"], "sv": null, "anchor": "SrOE", "img": "FL_Landscape.png" },
+  { "cat": "country", "type": "cars", "text": "All coverage = **low-cam**: significantly bigger car blur, roads look wider, low viewing angle", "src": ["plonkit"], "sv": null, "anchor": "X4GL", "img": "tv9gAwq.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "switzerland", "note": "Switzerland is always low-cam too.", "diff": "Black plates + LIEMOBIL bus stops → Liechtenstein." },
+      { "slug": "japan", "note": "Japan is the only other always-low-cam country.", "diff": "Continent obvious." } ] },
+  { "cat": "country", "type": "bollards", "text": "Bollards **black-and-white cylindrical, rounded top**, white/grey reflector, often a **blue side attachment**; on guardrails: wedge design instead", "src": ["plonkit"], "sv": null, "anchor": "p90S", "img": "2.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "switzerland", "note": "Swiss bollards can be almost identical.", "diff": "Plates + bus stops decide." } ] },
+  { "cat": "country", "type": "general", "text": "Bus stops: **green-and-white design w/ 'LIEMOBIL'** at the top, black metallic border (frame not always black)", "src": ["plonkit"], "sv": null, "anchor": "ci1R", "img": "Screenshot__281398_29.png", "uniq": "unique" },
+  { "cat": "country", "type": "signs", "text": "Directional signs white (smaller roads) or blue (bigger roads) w/ **pointed contrasting arrowhead**", "src": ["plonkit"], "sv": null, "anchor": "qb5C", "img": "Liechtenstein_Architecture__281_29.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "switzerland", "note": "Same Swiss-style sign system.", "diff": "Plates + LIEMOBIL decide." } ] },
+  { "cat": "country", "type": "signs", "text": "Pedestrian signs: **7 stripes in an oddly tall rectangle**", "src": ["plonkit"], "sv": null, "anchor": "Ctc1", "img": "6.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "switzerland", "note": "Switzerland uses identical signs.", "diff": "Plates + bus stops decide." } ] },
+  { "cat": "country", "type": "utility", "text": "**Yellow-black striped road separators**: rounded top w/ a Lego-like knob, 3 stripes each colour, yellow at the bottom", "src": ["plonkit"], "sv": null, "anchor": "DhYM", "img": "7.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "switzerland", "note": "Some Swiss separators look identical.", "diff": "Plates decide." } ] },
+  { "cat": "country", "type": "signs", "text": "Road signs commonly in a **round grey metal border**", "src": ["plonkit"], "sv": null, "anchor": "ndYF", "img": "Screenshot__281405_29.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "switzerland", "note": "Swiss signs have similar metallic borders.", "diff": "Plates decide." },
+      { "slug": "germany", "note": "German signs too.", "diff": "Alpine valley + black plates → Liechtenstein." } ] },
+  { "cat": "country", "type": "arch", "text": "Architecture: blend of **traditional Alpine + modern buildings** (modern esp. in the bigger towns)", "src": ["plonkit"], "sv": null, "anchor": "UNBX", "img": "9.png" },
+  { "cat": "region", "type": "landscape", "text": "Region reads from the mountains:", "bullets": [
+      "Triesenberg: densely populated mountain slope east of the valley, Rhine valley visible below to the west",
+      "East of the central ridge: mountains all around",
+      "Ruggell: only a small forested ridge to the south (big contrast to elsewhere)",
+      "Mauren: ridge to the north (urban side) + big mountains south/southeast",
+      "Bendern → Austrian border: rolling hills (rest of FL is flat or alpine)",
+      "West of Balzers: flat, NE-gridded roads; two rocky peaks on the Swiss side visible N/NW" ],
+    "src": ["plonkit"], "sv": null, "anchor": "wjF4", "img": "Triesenberg_area.png", "imgs": ["Eastern_Mountains.png", "Ruggell_area.png", "Between_hills.png", "Rolling_hills.png", "West_of_Balzers.png"], "super": true },
+  { "cat": "city", "type": "signs", "text": "Town-specific street/bus signs:", "bullets": [
+      "Vaduz: sometimes RED bus-stop signs; brown street signs w/ traditional German-style font (also northern towns)",
+      "Balzers: sometimes BLACK bus-stop signs",
+      "South + around Bendern: blue street signs w/ thin white border",
+      "Eschen: blue street signs WITHOUT outline",
+      "East: flat black signs",
+      "Schaan: black signs w/ white border + embossed letters",
+      "Ruggell: brown arrow-design signs (unique) + regular brown",
+      "Planken: brown signs w/ generic font" ],
+    "src": ["plonkit"], "sv": null, "anchor": "gG0N", "img": "Vaduz_Bus_Stops.png", "imgs": ["Balzers_Bus_Stop.png", "Blue_Signs_Outline.png", "Blue_Signs_No_Outline.png", "Boring_Black_Signs.png", "Schaan_Signs.png", "Brown_Signs1.png", "Arrow_Signs.png", "Generic_Brown_Signs.png"], "super": true, "uniq": "unique" },
+  { "cat": "special", "type": "landscape", "text": "**Spotlights**: steep rocky cliff w/ trees at base & top → in/around Mäls; the only lakes → just south of Steg (middle of the mountains)", "src": ["plonkit"], "sv": null, "anchor": "NSbp", "img": "Southwest_cliff.png", "imgs": ["lakes_copy.png"], "uniq": "unique" }
  ]
 }
