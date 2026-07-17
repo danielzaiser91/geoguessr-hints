@@ -2107,14 +2107,24 @@ Study: [Plonk It](https://www.plonkit.net/luxembourg)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plate **long yellow + blue strip left** (Netherlands = yellow both; UK = yellow rear only) | [P](https://www.plonkit.net/luxembourg) |  |
-| Country | Bollards B&W wedge w/ grey reflector — **3 bolts** (near-identical to German bollards, which have 2 bolts) | [P](https://www.plonkit.net/luxembourg) |  |
-| Country | Chevrons **black w/ yellow arrows** (no neighbour uses these; else only IS/NO/FI/IE/PT in Europe) | [P](https://www.plonkit.net/luxembourg) |  |
-| Country | Poletops shaped like **upside-down tridents** are the most common (also FR/ES/PT) | [P](https://www.plonkit.net/luxembourg) |  |
-| Country | Almost all coverage is **Gen2 or Gen4** (Gen3 is rare) | [P](https://www.plonkit.net/luxembourg) |  |
-| Country | Trilingual (Luxembourgish/French/German); French dominant on signs; **Luxembourgish** = German-like w/ umlauts + double vowels + occasional é | [P](https://www.plonkit.net/luxembourg) |  |
-| Country | Directional signs **yellow, fully framed, pointed tip, UPPERCASE**; regional road # in a **red box** (1–2 digit), local in a **yellow box** (3-digit) | [P](https://www.plonkit.net/luxembourg) |  |
-| Country | Signs on **white signposts**; short white street signs (often slanted blue corners); pedestrian sign = 5 vertical stripes; green rolling-hill landscape | [P](https://www.plonkit.net/luxembourg) |  |
+| Country | Plates **long yellow + blue strip left** (foreign white plates fairly common — small country) | [P](https://www.plonkit.net/luxembourg) |  |
+| Country | Bollards black & white, wedge-shaped w/ **grey reflectors**; some have a distinctive indent in the lower half | [P](https://www.plonkit.net/luxembourg) |  |
+| Country | Chevrons **black w/ yellow arrows** (rarely blue-yellow) — none of the neighbours use these | [P](https://www.plonkit.net/luxembourg) |  |
+| Country | Poles w/ **upside-down trident** poletops are the most common type (+ various others) | [P](https://www.plonkit.net/luxembourg) |  |
+| Country | Almost all coverage = **Gen2 or Gen4**; Gen3 rare but exists | [P](https://www.plonkit.net/luxembourg) |  |
+| Country | Trilingual: **Luxembourgish, French, German** — French dominates road signs & ads; German present but less common | [P](https://www.plonkit.net/luxembourg) |  |
+| Country | **Luxembourgish**: German-like w/ umlauts + lots of **double vowels** + occasional **é** (Ää, Ëë, ee, aa…); town names from Luxembourgish/German roots | [P](https://www.plonkit.net/luxembourg) |  |
+| Country | Directional signs **yellow, thin black outline, pointed tip, UPPERCASE, fully framed**; road numbers: regional 1–2 digits in a **red box**, local 3 digits in a **yellow box**; town entry signs also yellow + framed, often bilingual | [P](https://www.plonkit.net/luxembourg) |  |
+| Country | **Metal frames** around signs & road infrastructure everywhere | [P](https://www.plonkit.net/luxembourg) |  |
+| Country | Almost all signs on **white signposts** | [P](https://www.plonkit.net/luxembourg) |  |
+| Country | Street signs **short, usually white** (designs vary by town; common: slanted blue corners) | [P](https://www.plonkit.net/luxembourg) |  |
+| Country | Some signposts carry a **bulky round reflector w/ blue-white markings** | [P](https://www.plonkit.net/luxembourg) |  |
+| Country | Pedestrian signs: **5 vertical stripes**; bus-stop sign blue w/ a **six-window bus** (always the same design) | [P](https://www.plonkit.net/luxembourg) |  |
+| Country | Landscape = **green rolling hills**, patchwork of agriculture & forest (yellow plate + hills → LU, flat → NL) | [P](https://www.plonkit.net/luxembourg) |  |
+| Country | Houses w/ **dark slate roofs**; plain undecorated walls in white/grey/pastel | [P](https://www.plonkit.net/luxembourg) |  |
+| Region | **Local road numbers (3 digits, yellow box) cluster by first digit**: 1xx = southern half, 2xx = capital area, 3xx = northern half | [P](https://www.plonkit.net/luxembourg) |  |
+| Region | **North = hillier & higher** than the south; **vineyards → southeast** (Moselle) | [P](https://www.plonkit.net/luxembourg) |  |
+| City | **Luxembourg City** downtown partly covered by a Gen3 **urban trekker** — sometimes his sunglasses & greying hair are visible | [P](https://www.plonkit.net/luxembourg) |  |
 
 ## Azores
 Study: [Plonk It](https://www.plonkit.net/azores)

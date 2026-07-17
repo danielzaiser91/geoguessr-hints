@@ -5,13 +5,50 @@
  "area_km2": 2586,
  "links": { "plonkit": "https://www.plonkit.net/luxembourg", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Plate **long yellow + blue strip left** (Netherlands = yellow both; UK = yellow rear only)", "src": ["plonkit"], "sv": null, "anchor": "aRna", "img": "Luxembourg_License_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "Bollards B&W wedge w/ grey reflector — **3 bolts** (near-identical to German bollards, which have 2 bolts)", "src": ["plonkit"], "sv": null, "anchor": "90cv", "img": "Bollards.png", "type": "bollards" },
-  { "cat": "country", "text": "Chevrons **black w/ yellow arrows** (no neighbour uses these; else only IS/NO/FI/IE/PT in Europe)", "src": ["plonkit"], "sv": null, "anchor": "DmBj", "img": "Chevrons.png", "type": "signs" },
-  { "cat": "country", "text": "Poletops shaped like **upside-down tridents** are the most common (also FR/ES/PT)", "src": ["plonkit"], "sv": null, "anchor": "nKRO", "img": "Poletops.png", "type": "utility" },
-  { "cat": "country", "text": "Almost all coverage is **Gen2 or Gen4** (Gen3 is rare)", "src": ["plonkit"], "sv": null, "anchor": "t9UN", "img": "Luxembourg_camera_meta.png", "type": "cars" },
-  { "cat": "country", "text": "Trilingual (Luxembourgish/French/German); French dominant on signs; **Luxembourgish** = German-like w/ umlauts + double vowels + occasional é", "src": ["plonkit"], "sv": null, "anchor": "jlnY", "img": "lu_language.png", "type": "language" },
-  { "cat": "country", "text": "Directional signs **yellow, fully framed, pointed tip, UPPERCASE**; regional road # in a **red box** (1–2 digit), local in a **yellow box** (3-digit)", "src": ["plonkit"], "sv": null, "anchor": "2Qmq", "img": "Directional_signs.png", "type": "signs" },
-  { "cat": "country", "text": "Signs on **white signposts**; short white street signs (often slanted blue corners); pedestrian sign = 5 vertical stripes; green rolling-hill landscape", "src": ["plonkit"], "sv": null, "anchor": "e5yT", "img": "Street_signs.png", "type": "signs" }
+  { "cat": "country", "type": "plates", "text": "Plates **long yellow + blue strip left** (foreign white plates fairly common — small country)", "src": ["plonkit"], "sv": null, "anchor": "aRna", "img": "Luxembourg_License_Plate.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "netherlands", "note": "NL has yellow plates front AND rear.", "diff": "NL is completely flat; Luxembourg = green rolling hills." },
+      { "slug": "united-kingdom", "note": "UK has yellow REAR plates only (white front).", "diff": "Left-hand traffic → UK." },
+      { "slug": "france", "note": "Some pre-2009 French cars have yellow rear plates.", "diff": "Rare; white signposts + framed yellow signs → Luxembourg." } ] },
+  { "cat": "country", "type": "bollards", "text": "Bollards black & white, wedge-shaped w/ **grey reflectors**; some have a distinctive indent in the lower half", "src": ["plonkit"], "sv": null, "anchor": "90cv", "img": "Bollards.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "germany", "note": "More or less identical to German bollards.", "diff": "Reflector bolts: **3 → Luxembourg, 2 → Germany**." },
+      { "slug": "belgium", "note": "Belgian bollards look very different.", "diff": "This wedge design → LU/DE, not BE/NL/FR." } ] },
+  { "cat": "country", "type": "signs", "text": "Chevrons **black w/ yellow arrows** (rarely blue-yellow) — none of the neighbours use these", "src": ["plonkit"], "sv": null, "anchor": "DmBj", "img": "Chevrons.png", "uniq": "unique*", "uniq_note": "Only Iceland, Norway, Finland, Ireland and Portugal share the colour scheme — all with wildly different landscapes." },
+  { "cat": "country", "type": "utility", "text": "Poles w/ **upside-down trident** poletops are the most common type (+ various others)", "src": ["plonkit"], "sv": null, "anchor": "nKRO", "img": "Poletops.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "france", "note": "Common in France too.", "diff": "Yellow plates + framed yellow signs → Luxembourg." },
+      { "slug": "spain", "note": "Common in Spain too.", "diff": "Spanish language → Spain." },
+      { "slug": "portugal", "note": "Common in Portugal too.", "diff": "Portuguese language → Portugal." } ] },
+  { "cat": "country", "type": "cars", "text": "Almost all coverage = **Gen2 or Gen4**; Gen3 rare but exists", "src": ["plonkit"], "sv": null, "anchor": "t9UN", "img": "Luxembourg_camera_meta.png", "uniq": "unique*", "uniq_note": "A Gen2 round in a modern-looking Western European country is a strong Luxembourg lean." },
+  { "cat": "country", "type": "language", "text": "Trilingual: **Luxembourgish, French, German** — French dominates road signs & ads; German present but less common", "src": ["plonkit"], "sv": null, "anchor": "MrJA", "img": "French_and_German2.png" },
+  { "cat": "country", "type": "language", "text": "**Luxembourgish**: German-like w/ umlauts + lots of **double vowels** + occasional **é** (Ää, Ëë, ee, aa…); town names from Luxembourgish/German roots", "src": ["plonkit"], "sv": null, "anchor": "jlnY", "img": "lu_language.png", "uniq": "unique*", "uniq_note": "é inside otherwise German-looking words (e.g. 'Kéiseker') = Luxembourgish only — German never uses é." },
+  { "cat": "country", "type": "signs", "text": "Directional signs **yellow, thin black outline, pointed tip, UPPERCASE, fully framed**; road numbers: regional 1–2 digits in a **red box**, local 3 digits in a **yellow box**; town entry signs also yellow + framed, often bilingual", "src": ["plonkit"], "sv": null, "anchor": "2Qmq", "img": "Directional_signs.png", "imgs": ["Town_entry_sign.png"], "uniq": "unique" },
+  { "cat": "country", "type": "signs", "text": "**Metal frames** around signs & road infrastructure everywhere", "src": ["plonkit"], "sv": null, "anchor": "oSnE", "img": "Framing.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "denmark", "note": "Denmark also frames a lot of road infrastructure.", "diff": "Frame corners: **square → Luxembourg, rounded → Denmark**." } ] },
+  { "cat": "country", "type": "signs", "text": "Almost all signs on **white signposts**", "src": ["plonkit"], "sv": null, "anchor": "kWxo", "img": "lu_signpost.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "france", "note": "White signposts exist in France, far less common.", "diff": "Yellow plates + frames → Luxembourg." } ] },
+  { "cat": "country", "type": "signs", "text": "Street signs **short, usually white** (designs vary by town; common: slanted blue corners)", "src": ["plonkit"], "sv": null, "anchor": "e5yT", "img": "Street_signs.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "belgium", "note": "Belgian street signs also short but come in other background colours.", "diff": "Always-white + blue corners → Luxembourg." },
+      { "slug": "netherlands", "note": "Dutch street signs almost always blue and much longer than tall.", "diff": "Short white → Luxembourg." } ] },
+  { "cat": "country", "type": "signs", "text": "Some signposts carry a **bulky round reflector w/ blue-white markings**", "src": ["plonkit"], "sv": null, "anchor": "D1t5", "img": "Signpost_markings.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "sweden", "note": "Similar markings there.", "diff": "Landscape separates easily." },
+      { "slug": "finland", "note": "Similar markings there.", "diff": "Landscape separates easily." } ] },
+  { "cat": "country", "type": "signs", "text": "Pedestrian signs: **5 vertical stripes**; bus-stop sign blue w/ a **six-window bus** (always the same design)", "src": ["plonkit"], "sv": null, "anchor": "b7NW", "img": "Pedestrian_sign.png", "imgs": ["Bus_stop_sign.png"],
+    "uniq": "shared", "shared_with": [
+      { "slug": "belgium", "note": "Belgian ped signs have 2 HORIZONTAL stripes; Belgian bus-stop signs always on a yellow signpost.", "diff": "5 vertical stripes / blue 6-window bus → Luxembourg." },
+      { "slug": "netherlands", "note": "Dutch bus-stop signs look significantly different.", "diff": "This exact design → Luxembourg." } ] },
+  { "cat": "country", "type": "landscape", "text": "Landscape = **green rolling hills**, patchwork of agriculture & forest (yellow plate + hills → LU, flat → NL)", "src": ["plonkit"], "sv": null, "anchor": "YP0t", "img": "Landscape2.png" },
+  { "cat": "country", "type": "arch", "text": "Houses w/ **dark slate roofs**; plain undecorated walls in white/grey/pastel", "src": ["plonkit"], "sv": null, "anchor": "SRxb", "img": "Architecture.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "belgium", "note": "Similar architecture in the surrounding Belgian/French regions.", "diff": "Especially prominent in Luxembourg; plates decide." },
+      { "slug": "france", "note": "Similar in adjacent French regions.", "diff": "Plates + framed signs decide." } ] },
+  { "cat": "region", "type": "naming", "text": "**Local road numbers (3 digits, yellow box) cluster by first digit**: 1xx = southern half, 2xx = capital area, 3xx = northern half", "src": ["plonkit"], "sv": null, "anchor": "S1pq", "img": "Road_numbers.png", "super": true, "uniq": "unique" },
+  { "cat": "region", "type": "landscape", "text": "**North = hillier & higher** than the south; **vineyards → southeast** (Moselle)", "src": ["plonkit"], "sv": null, "anchor": "oEEg", "img": "Lux_elevation.png", "imgs": ["Vineyards.png"], "super": true },
+  { "cat": "city", "type": "cars", "text": "**Luxembourg City** downtown partly covered by a Gen3 **urban trekker** — sometimes his sunglasses & greying hair are visible", "src": ["plonkit"], "sv": null, "anchor": "wuhb", "img": "Lux_city_trekker.png", "uniq": "unique" }
  ]
 }
