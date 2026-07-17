@@ -22788,107 +22788,213 @@
    "area_km2": 923768,
    "links": {
     "plonkit": "https://www.plonkit.net/nigeria",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/6294b310ed0f1605632b12b2"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Coverage car = a **pickup truck** (cab + bed visible; Gen3 has a roof rack; sometimes a huge blur)",
+     "type": "cars",
+     "text": "Visible **pickup truck** in most coverage (cab + bed; colours vary; Gen3 has a roof rack; sometimes one huge blur)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "eMZn",
-     "img": "qjpxa6d.png",
-     "type": "cars"
+     "img": "qjpxa6d.png"
     },
     {
      "cat": "country",
-     "text": "A **police follow car** (usually white or black) is almost always behind the Street View car",
+     "type": "cars",
+     "text": "A **police follow car** (mostly white or black) almost always trails the Street View car",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "yfEi",
      "img": "JtDpCOs.png",
-     "type": "cars"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "**Short plates** that look somewhat **green** through the blur",
+     "type": "plates",
+     "text": "**Short plates** looking somewhat **green** through the blur",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Fghi",
-     "img": "0HpTmNo.png",
-     "type": "plates"
+     "img": "0HpTmNo.png"
     },
     {
      "cat": "country",
-     "text": "Poles concrete with **indents + a few horizontal supports** (like Brazil's, but no holes through them)",
+     "type": "utility",
+     "text": "Concrete poles w/ **indents + a few horizontal supports** — like Brazil's but w/o holes through them",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "xB4U",
      "img": "P1Kv8TE.png",
-     "type": "utility"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "brazil",
+       "note": "Brazilian ladder poles have holes through the pole.",
+       "diff": "No holes → Nigeria; context obvious anyway."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Roads often **unmarked / faded / potholed / unpaved** (poorly maintained)",
+     "type": "markings",
+     "text": "Roads often **lineless, faded, potholed or unpaved**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "PoWp",
-     "img": "suJRmbg.png",
-     "type": "markings"
+     "img": "suJRmbg.png"
     },
     {
      "cat": "country",
-     "text": "Houses single-storey w/ **steep metal-sheet roofs** + cinder-block compound walls",
+     "type": "arch",
+     "text": "Single-storey houses w/ **steeply pitched metal-sheet roofs** + cinder-block compound walls",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "ZNLu",
-     "img": "n5DCOsi.png",
-     "type": "arch"
+     "img": "n5DCOsi.png"
     },
     {
      "cat": "country",
-     "text": "**City & state names on storefronts and banners** → very useful for region-guessing",
+     "type": "naming",
+     "text": "**City & state names on storefronts/banners** — learn the states!",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "lrDl",
      "img": "3Ju14jr.png",
-     "type": "naming"
+     "super": true
     },
     {
      "cat": "country",
-     "text": "**Shitcam** (Nigeria is the only mainland-African country with it; 2023–25 coverage is extra low-quality, only otherwise in Lebanon)",
+     "type": "cars",
+     "text": "**Shitcam** (official Ari) — the only mainland-African country with it; the 2023–25 batch is EXTRA low quality (huge cars through the blur — elsewhere only Lebanon)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "6QNl",
      "img": "uhfdEzy.png",
-     "type": "cars"
+     "uniq": "unique*",
+     "uniq_note": "African shitcam = Nigeria (Madeira/Ecuador have it on other continents)."
     },
     {
      "cat": "region",
-     "text": "Fairly flat; **Christian south / Muslim north**; climate tropical (S) → savannah (centre) → arid steppe (N); some states have yellow tuk-tuks; Kaduna haystacks; monolithic rocks around Abuja",
+     "type": "landscape",
+     "text": "Mostly flat w/ subtle changes: hills in Enugu + Ife↔Lokoja (south), more from Abuja→Jimeta (north), biggest = **Mandara range** on the Cameroon border; climate: tropical rainforest south (palms + lush) → savanna centre → arid steppe far north (seasons distort!)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "N7jK",
      "img": "cvD28Vo.png",
-     "type": "landscape"
+     "imgs": [
+      "LE4Uiwu.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "cars",
+     "text": "Coverage sparse (mostly cities + connecting highways); **Gen3 never north of Abuja**; Gen4 not in the NW or far south; shitcam nearly everywhere (maps)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "YLLW",
+     "img": "ng_coveragemap.png",
+     "imgs": [
+      "Nigeria gen 3.png",
+      "kQMqK8d.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "cars",
+     "text": "**State vehicle colours**: several states have unique taxi/tuk-tuk paint jobs (map; vehicle shown = yellow tuk-tuks in that state)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "3nIu",
+     "img": "wb24TAW.png",
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "general",
+     "text": "**Christian south / Muslim north** — hijabs + Muslim attire more common northward",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "ZihY",
+     "img": "V97CXFq.png",
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**State reads**:",
+     "bullets": [
+      "Kaduna: these haystacks are almost exclusive to the state",
+      "Kano: arid-but-green farmland full of corn — shitcam ONLY",
+      "Benue: lush green grass + reddish soil + scattered tall trees + thatched huts (palms → lean the southern neighbours)",
+      "Niger state: the shitcam version of Benue — scattered trees, red soil, dry grass",
+      "Kebbi/Sokoto/Zamfara/Katsina (NW): even more open & arid, few/no trees, shitcam only",
+      "Plateau/Bauchi/Gombe/Adamawa/N-Taraba: savanna + rocky hills (clay-soil hills near Gombe)",
+      "Abuja area: monolithic weathered-rock mountains"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Mh2Y",
+     "img": "wX3WlqR.png",
+     "imgs": [
+      "wNclirz.png",
+      "dQJ6BJw.png",
+      "QCnK9Jk.png",
+      "Fv0BOsJ.png",
+      "gmSG3w0.png",
+      "undefined_-_Imgur.png"
+     ],
+     "super": true,
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "roads",
+     "text": "**Spotlights**: east of Lekki = flat sandy coast + palms, old Gen3 w/ silver follow car; A121 = divided highway w/ short concrete median + lush vegetation + trucks (A232 east of Benin City: wider median); A3 east of Potiskum = Gen4, open arid, divided; dark red soil → Benin City & Enugu; **Obudu Plateau road** = Nigeria's tallest covered mountains, winding, foggy & wet; blue-tinted shitcam in mapped areas; old Gen3 follow-car map (silver Lexus rarely Onitsha↔Enugu)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "pXX3",
+     "img": "jj33SoO.png",
+     "imgs": [
+      "atjozUx.png",
+      "P5apsKU.png",
+      "ng_beninenugusoil.png",
+      "MWN74up.png",
+      "TO8hHR7.png",
+      "OWnDtAE.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },

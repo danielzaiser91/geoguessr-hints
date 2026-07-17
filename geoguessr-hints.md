@@ -86,19 +86,24 @@ Study: [Plonk It](https://www.plonkit.net/tanzania)
 | Special | One more tripod inside **Jane Goodall's house** (Gombe NP) | [P](https://www.plonkit.net/tanzania) |  |
 
 ## Nigeria
-Study: [Plonk It](https://www.plonkit.net/nigeria)
+Study: [Plonk It](https://www.plonkit.net/nigeria) · [GeoGuessr map](https://www.geoguessr.com/maps/6294b310ed0f1605632b12b2)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Coverage car = a **pickup truck** (cab + bed visible; Gen3 has a roof rack; sometimes a huge blur) | [P](https://www.plonkit.net/nigeria) |  |
-| Country | A **police follow car** (usually white or black) is almost always behind the Street View car | [P](https://www.plonkit.net/nigeria) |  |
-| Country | **Short plates** that look somewhat **green** through the blur | [P](https://www.plonkit.net/nigeria) |  |
-| Country | Poles concrete with **indents + a few horizontal supports** (like Brazil's, but no holes through them) | [P](https://www.plonkit.net/nigeria) |  |
-| Country | Roads often **unmarked / faded / potholed / unpaved** (poorly maintained) | [P](https://www.plonkit.net/nigeria) |  |
-| Country | Houses single-storey w/ **steep metal-sheet roofs** + cinder-block compound walls | [P](https://www.plonkit.net/nigeria) |  |
-| Country | **City & state names on storefronts and banners** → very useful for region-guessing | [P](https://www.plonkit.net/nigeria) |  |
-| Country | **Shitcam** (Nigeria is the only mainland-African country with it; 2023–25 coverage is extra low-quality, only otherwise in Lebanon) | [P](https://www.plonkit.net/nigeria) |  |
-| Region | Fairly flat; **Christian south / Muslim north**; climate tropical (S) → savannah (centre) → arid steppe (N); some states have yellow tuk-tuks; Kaduna haystacks; monolithic rocks around Abuja | [P](https://www.plonkit.net/nigeria) |  |
+| Country | Visible **pickup truck** in most coverage (cab + bed; colours vary; Gen3 has a roof rack; sometimes one huge blur) | [P](https://www.plonkit.net/nigeria) |  |
+| Country | A **police follow car** (mostly white or black) almost always trails the Street View car | [P](https://www.plonkit.net/nigeria) |  |
+| Country | **Short plates** looking somewhat **green** through the blur | [P](https://www.plonkit.net/nigeria) |  |
+| Country | Concrete poles w/ **indents + a few horizontal supports** — like Brazil's but w/o holes through them | [P](https://www.plonkit.net/nigeria) |  |
+| Country | Roads often **lineless, faded, potholed or unpaved** | [P](https://www.plonkit.net/nigeria) |  |
+| Country | Single-storey houses w/ **steeply pitched metal-sheet roofs** + cinder-block compound walls | [P](https://www.plonkit.net/nigeria) |  |
+| Country | **City & state names on storefronts/banners** — learn the states! | [P](https://www.plonkit.net/nigeria) |  |
+| Country | **Shitcam** (official Ari) — the only mainland-African country with it; the 2023–25 batch is EXTRA low quality (huge cars through the blur — elsewhere only Lebanon) | [P](https://www.plonkit.net/nigeria) |  |
+| Region | Mostly flat w/ subtle changes: hills in Enugu + Ife↔Lokoja (south), more from Abuja→Jimeta (north), biggest = **Mandara range** on the Cameroon border; climate: tropical rainforest south (palms + lush) → savanna centre → arid steppe far north (seasons distort!) | [P](https://www.plonkit.net/nigeria) |  |
+| Region | Coverage sparse (mostly cities + connecting highways); **Gen3 never north of Abuja**; Gen4 not in the NW or far south; shitcam nearly everywhere (maps) | [P](https://www.plonkit.net/nigeria) |  |
+| Region | **State vehicle colours**: several states have unique taxi/tuk-tuk paint jobs (map; vehicle shown = yellow tuk-tuks in that state) | [P](https://www.plonkit.net/nigeria) |  |
+| Region | **Christian south / Muslim north** — hijabs + Muslim attire more common northward | [P](https://www.plonkit.net/nigeria) |  |
+| Region | **State reads**: | [P](https://www.plonkit.net/nigeria) |  |
+| Special | **Spotlights**: east of Lekki = flat sandy coast + palms, old Gen3 w/ silver follow car; A121 = divided highway w/ short concrete median + lush vegetation + trucks (A232 east of Benin City: wider median); A3 east of Potiskum = Gen4, open arid, divided; dark red soil → Benin City & Enugu; **Obudu Plateau road** = Nigeria's tallest covered mountains, winding, foggy & wet; blue-tinted shitcam in mapped areas; old Gen3 follow-car map (silver Lexus rarely Onitsha↔Enugu) | [P](https://www.plonkit.net/nigeria) |  |
 
 ## Namibia
 Study: [Plonk It](https://www.plonkit.net/namibia)
