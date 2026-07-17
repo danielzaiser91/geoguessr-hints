@@ -1934,23 +1934,27 @@ Study: [Plonk It](https://www.plonkit.net/switzerland)
 | Special | **Ticino** = Italian architecture (south); Graubünden painted-detail stone houses + **Bernina Express** train coverage; Valais thick wooden bollards | [P](https://www.plonkit.net/switzerland) |  |
 
 ## Belgium
-Study: [Plonk It](https://www.plonkit.net/belgium)
+Study: [Plonk It](https://www.plonkit.net/belgium) · [GeoGuessr map](https://www.geoguessr.com/maps/60abde927d6ac000015caec8)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates use **red text** (recognisable even through the blur) | [P](https://www.plonkit.net/belgium) |  |
-| Country | Bollards white w/ a **yellow rectangular reflector** (Denmark = red stripe on top); also a dark-brown bollard w/ two red stripes | [P](https://www.plonkit.net/belgium) |  |
-| Country | A-type guardrails w/ **yellow reflectors** (in Europe only ES/AD/BE) | [P](https://www.plonkit.net/belgium) |  |
-| Country | Poles concrete, square, w/ **tiny holes** + small metal wrappings (oval-hole variant too) | [P](https://www.plonkit.net/belgium) |  |
-| Country | Directional signs blue/white; road signs often carry an **additional small blue sub-sign** (white in other countries) | [P](https://www.plonkit.net/belgium) |  |
-| Country | Pedestrian sign = **two dotted lines, man with a square head** (France/Netherlands use a 5-stripe zebra) | [P](https://www.plonkit.net/belgium) |  |
-| Country | Chevrons **white w/ red arrow** (also NL, never France); km markers often **green** (sometimes red text) | [P](https://www.plonkit.net/belgium) |  |
-| Country | Many rural roads are **concrete slabs** (like PH/TH; NL almost never); all-white lines + **bike lanes on both sides** | [P](https://www.plonkit.net/belgium) |  |
-| Country | **Red brick houses** (north/west); stone, grey, more French-looking houses (south) | [P](https://www.plonkit.net/belgium) |  |
-| Country | Signposts (and sometimes sign backs) often **orange** — unique to Belgium; **gutters on both sides** of almost all roads | [P](https://www.plonkit.net/belgium) |  |
-| Country | Bus stops = **yellow signposts** (yellow shelter roofs); small orange-diamond priority signs; red **H hydrant** signs | [P](https://www.plonkit.net/belgium) |  |
-| Country | **Most blurred houses after Germany**; rarely a red car w/ long antenna (far more common in Ukraine) | [P](https://www.plonkit.net/belgium) |  |
-| Region | **3 languages**: Dutch/Flemish (N), French (S/Wallonia), German (Ostbelgien E); Brussels bilingual; Flanders warning signs = thick red, no white border (= Spain); **Ardennes** SE = steep forested hills | [P](https://www.plonkit.net/belgium) |  |
+| Country | Plates with **red text** — visible through the blur | [P](https://www.plonkit.net/belgium) |  |
+| Country | White bollards w/ **yellow rectangular front reflector** (white back); dark-brown bollard w/ 2 red stripes (also NL) | [P](https://www.plonkit.net/belgium) |  |
+| Country | A-type guardrails w/ **yellow reflectors** (Europe: only ES/AD/BE) | [P](https://www.plonkit.net/belgium) |  |
+| Country | Concrete **square poles w/ tiny holes** + small metal wrappings (wrappings also in France); second type w/ oval holes | [P](https://www.plonkit.net/belgium) |  |
+| Country | Directional signs blue or white; **small BLUE sub-signs** under road signs (other countries: white); km markers green (sometimes red text) | [P](https://www.plonkit.net/belgium) |  |
+| Country | Pedestrian sign: **two horizontal dotted lines + square-headed man** (FR/NL: 5-stripe zebra) | [P](https://www.plonkit.net/belgium) |  |
+| Country | Chevrons **white w/ red arrow** (also NL, never FR) | [P](https://www.plonkit.net/belgium) |  |
+| Country | Rural roads often of **concrete slabs** (PH/TH-like; NL almost never); all-white lines; bike lanes both sides w/ **short dashed outer lines**; **gutters on both sides of almost every road** (rare next door) | [P](https://www.plonkit.net/belgium) |  |
+| Country | **Red-brick houses** (N+W); south = grey stone, French look; **2nd-most blurred houses** after Germany | [P](https://www.plonkit.net/belgium) |  |
+| Country | **Orange signposts/sign backs** — unique to Belgium; street signs short & tall, often w/ **municipality name** (NL signs long & low); town entry = white w/ black border + bold name; priority signs = small orange diamonds; bus stops = **yellow posts** + yellow shelter roofs | [P](https://www.plonkit.net/belgium) |  |
+| Country | Traffic lights on **black-yellow or red-white striped poles**; red **H hydrant signs** (also Germany) | [P](https://www.plonkit.net/belgium) |  |
+| Country | Rare red car w/ long antenna (much commoner in Ukraine); Gen4 smallcam | [P](https://www.plonkit.net/belgium) |  |
+| Region | **3 languages**: Dutch/Flemish (z, w, ee, ij) → Flanders (north); French (ç é è à) → Wallonia (south); German (ä ü ö ß) → Ostbelgien; **Brussels bilingual FR+NL** | [P](https://www.plonkit.net/belgium) |  |
+| Region | **Flanders vs Wallonia**: bus-stop top white (Flanders/Brussels) vs **yellow** (Wallonia); warning signs thick red border w/o white rim (Flanders, = Spanish style) vs w/ white rim (Wallonia); traffic-light poles **yellow-black = Flanders only**, red-white = Wallonia/Brussels | [P](https://www.plonkit.net/belgium) |  |
+| Region | **Area codes**: 1–2 digits after the 0 (04 = mobile); big-city street-sign designs learnable (Bruges doesn't name the municipality!) | [P](https://www.plonkit.net/belgium) |  |
+| Region | Flat NW (coast) → hillier SE; **Ardennes** = steep hills, dense forest, valleys (spills into FR/LU/DE); coastal plain = polders (NL-confusable!); coast lined by an apartment **'wall'** + dunes | [P](https://www.plonkit.net/belgium) |  |
+| Special | **Baarle-Hertog** (NE of Antwerp): BE/NL enclave patchwork — borders marked with **white crosses**, street signs reveal the country | [P](https://www.plonkit.net/belgium) |  |
 
 ## Albania
 Study: [Plonk It](https://www.plonkit.net/albania)
