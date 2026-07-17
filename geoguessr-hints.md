@@ -3029,12 +3029,14 @@ Study: [Plonk It](https://www.plonkit.net/northern-mariana-islands)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | US overseas territory (counts as US); car fully blurred but a **front-right antenna** shows, **closer to the camera** than Guam's — and no roof rack | [P](https://www.plonkit.net/northern-mariana-islands) |  |
-| Country | **Wooden poles**, often w/ a crossbar (Guam uses concrete poles) | [P](https://www.plonkit.net/northern-mariana-islands) |  |
-| Country | **Blue** street signs (Guam uses green) | [P](https://www.plonkit.net/northern-mariana-islands) |  |
-| Country | Tropical, dense low vegetation; the red-flowered **Flame Tree** (Royal Poinciana, Delonix regia) is the official tree & common (not in Guam) | [P](https://www.plonkit.net/northern-mariana-islands) |  |
-| Country | **East Asian languages** (Japanese, Chinese, Korean, Russian) + a huge number of road reflectors (as in Guam) | [P](https://www.plonkit.net/northern-mariana-islands) |  |
-| Region | Only **Saipan** has car coverage (islands to the north have none; Tinian & Rota only tripod); Suicide Cliff = exposed rock at the northern tip | [P](https://www.plonkit.net/northern-mariana-islands) |  |
+| Country | US overseas territory — **counts as US** in country streaks | [P](https://www.plonkit.net/northern-mariana-islands) |  |
+| Country | Car fully blurred, but a **front-right antenna** shows — noticeably **closer to the camera** than Guam's, and no roof rack | [P](https://www.plonkit.net/northern-mariana-islands) |  |
+| Country | **Wooden poles**, frequently w/ a top crossbar | [P](https://www.plonkit.net/northern-mariana-islands) |  |
+| Country | **Blue street signs** | [P](https://www.plonkit.net/northern-mariana-islands) |  |
+| Country | Tropical, dense low vegetation; the **Flame Tree** (Royal Poinciana — wide crown w/ bright red flowers) is the official tree & very common (NOT common in Guam) | [P](https://www.plonkit.net/northern-mariana-islands) |  |
+| Country | Huge numbers of **road reflectors** + **East Asian languages** (JA/ZH/KO/RU) on signs — both also true of Guam | [P](https://www.plonkit.net/northern-mariana-islands) |  |
+| Region | Only **Saipan** has car coverage (northern islands: none; Tinian & Sinapalu: tripods only); dense commercial areas → southern half of the west coast | [P](https://www.plonkit.net/northern-mariana-islands) |  |
+| Special | **Suicide Cliff**: steep cliff w/ lots of exposed rock near Saipan's northern tip | [P](https://www.plonkit.net/northern-mariana-islands) |  |
 
 ## American Samoa
 Study: [Plonk It](https://www.plonkit.net/american-samoa)

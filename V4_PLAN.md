@@ -146,7 +146,7 @@ Format: `- [ ] slug` → check when BOTH captured-complete AND classified.
 - [ ] sao-tome-and-principe
 **Oceania:** - [x] australia · - [x] new-zealand · - [x] vanuatu · - [x] guam ·
 - [x] american-samoa · - [x] christmas-island · - [x] cocos-islands ·
-- [ ] northern-mariana-islands · - [ ] pitcairn-islands
+- [x] northern-mariana-islands · - [ ] pitcairn-islands
 **Antarctica:** - [ ] antarctica · - [ ] south-georgia-sandwich-islands
 
 ### Final passes (after all countries)

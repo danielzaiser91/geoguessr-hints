@@ -24689,69 +24689,128 @@
    "hints": [
     {
      "cat": "country",
-     "text": "US overseas territory (counts as US); car fully blurred but a **front-right antenna** shows, **closer to the camera** than Guam's — and no roof rack",
+     "type": "general",
+     "text": "US overseas territory — **counts as US** in country streaks",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "4Uer",
+     "img": "nmi_location.png"
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "Car fully blurred, but a **front-right antenna** shows — noticeably **closer to the camera** than Guam's, and no roof rack",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "QEJK",
      "img": "nmi_car.png",
-     "type": "cars"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "guam",
+       "note": "Guam shows a roof-rack bit + more distant antenna.",
+       "diff": "No rack + close antenna → NMI."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Wooden poles**, often w/ a crossbar (Guam uses concrete poles)",
+     "type": "utility",
+     "text": "**Wooden poles**, frequently w/ a top crossbar",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "H2l8",
      "img": "nmi_pole.png",
-     "type": "utility"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "guam",
+       "note": "Guam = thick concrete poles.",
+       "diff": "Wood → NMI; concrete → Guam."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Blue** street signs (Guam uses green)",
+     "type": "signs",
+     "text": "**Blue street signs**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "jle0",
      "img": "streetsign.png",
-     "type": "signs"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "guam",
+       "note": "Guam uses green.",
+       "diff": "Blue → NMI; green → Guam."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Tropical, dense low vegetation; the red-flowered **Flame Tree** (Royal Poinciana, Delonix regia) is the official tree & common (not in Guam)",
+     "type": "landscape",
+     "text": "Tropical, dense low vegetation; the **Flame Tree** (Royal Poinciana — wide crown w/ bright red flowers) is the official tree & very common (NOT common in Guam)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "c1Di",
-     "img": "nmi_redflower.png",
-     "type": "landscape"
+     "anchor": "7SWm",
+     "img": "nmi_landscape.png",
+     "imgs": [
+      "nmi_redflower.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "Red-flowered flame trees in a Pacific-US setting → NMI over Guam."
     },
     {
      "cat": "country",
-     "text": "**East Asian languages** (Japanese, Chinese, Korean, Russian) + a huge number of road reflectors (as in Guam)",
+     "type": "general",
+     "text": "Huge numbers of **road reflectors** + **East Asian languages** (JA/ZH/KO/RU) on signs — both also true of Guam",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "lSGS",
-     "img": "nmi_asian.png",
-     "type": "language"
+     "anchor": "2NSb",
+     "img": "nmi_reflectorspam.png",
+     "imgs": [
+      "nmi_asian.png"
+     ]
     },
     {
      "cat": "region",
-     "text": "Only **Saipan** has car coverage (islands to the north have none; Tinian & Rota only tripod); Suicide Cliff = exposed rock at the northern tip",
+     "type": "general",
+     "text": "Only **Saipan** has car coverage (northern islands: none; Tinian & Sinapalu: tripods only); dense commercial areas → southern half of the west coast",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "sU1n",
-     "img": "nmi_towncentres.png",
-     "type": "general"
+     "anchor": "H5Sf",
+     "img": "nmi_coveragemap.png",
+     "imgs": [
+      "nmi_towncentres.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Suicide Cliff**: steep cliff w/ lots of exposed rock near Saipan's northern tip",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "MPiv",
+     "img": "nmi_suicidecliff.png",
+     "uniq": "unique"
     }
    ]
   },
