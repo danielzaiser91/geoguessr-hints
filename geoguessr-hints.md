@@ -1468,32 +1468,32 @@ Study: [Plonk It](https://www.plonkit.net/germany) · [GeoGuessr map](https://ww
 | Special | **Coverage spotlights**: low-cam around Singen/Swiss border; Gen3 **black car in the safari park** SE of Bielefeld (zebra-painted 4x4s; Europe-unique); rare Gen3 antenna car in central Hamburg | [P](https://www.plonkit.net/germany) |  |
 
 ## Finland
-Study: [Plonk It](https://www.plonkit.net/finland)
+Study: [Plonk It](https://www.plonkit.net/finland) · [GeoGuessr map](https://www.geoguessr.com/maps/64695710987cd3031852a79c)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | **Short** white plate + EU blue strip (Åland = short, fully white, no strip) | [P](https://www.plonkit.net/finland) |  |
-| Country | Outer lines **always solid white** (Sweden/Norway use dashes); middle lines varied — yellow lines being **phased out** | [P](https://www.plonkit.net/finland) |  |
-| Country | Bollard: long black-and-white, **white rectangle reflector front + two dots back**, **diagonal** black strip | [P](https://www.plonkit.net/finland) |  |
-| Country | Snow poles orange w/ a **thin white band near the top** (single band; Norway/Sweden = wider, lower, multiple) | [P](https://www.plonkit.net/finland) |  |
-| Country | Finnish looks **unique**: long words, **double vowels**, letters **ä ö** (Estonian similar but adds õ ü) | [P](https://www.plonkit.net/finland) |  |
-| Country | Street names end **-tie / -katu**; white street sign, black text | [P](https://www.plonkit.net/finland) |  |
-| Country | Road signs **yellow background**; red-border signs have a **thin yellow stroke** on the edge (unique to Finland) | [P](https://www.plonkit.net/finland) |  |
-| Country | Pedestrian signs have **5 stripes** (Sweden/Norway usually 4) | [P](https://www.plonkit.net/finland) |  |
-| Country | Directional signs = **solid blue bg, white text + arrows**; chevrons black w/ yellow arrows | [P](https://www.plonkit.net/finland) |  |
-| Country | Wooden poles w/ streetlight, **lamp double-bolted at the top** (Sweden double too but lower & angled) | [P](https://www.plonkit.net/finland) |  |
-| Country | Signposts often have **blue-and-white striped** markings | [P](https://www.plonkit.net/finland) |  |
-| Country | Dense **boreal forest** (pines + white-trunk **birches**); **Land of a Thousand Lakes** — water everywhere | [P](https://www.plonkit.net/finland) |  |
-| Country | Much Gen3 shot in **autumn** → distinct fall colours = good Finland tiebreaker vs other Nordics | [P](https://www.plonkit.net/finland) |  |
-| Country | Architecture modern/utilitarian (concrete apartments downtown); wooden-clad suburbs, some dark-red painted | [P](https://www.plonkit.net/finland) |  |
-| Country | **K-Market & S-Market** supermarkets operate only in Finland (recognisable logos) | [P](https://www.plonkit.net/finland) |  |
-| Country | 'Shitcam' (Ari) low-quality camera: wide circular blur, **no sky halo**, brownish tint — Finland (& Spain) have the most | [P](https://www.plonkit.net/finland) |  |
-| Region | **Swedish bilingual** signs on the south/west coast → don't guess inland; **Sámi** bilingual far north (alphabet uses **c**) | [P](https://www.plonkit.net/finland) |  |
-| Region | **Wind turbines** & most farmland concentrated along the **west/south coast** | [P](https://www.plonkit.net/finland) |  |
-| Region | **Lapland**: snow poles with **2 long reflectors** (2023+ coverage); small stunted spindly trees in the north | [P](https://www.plonkit.net/finland) |  |
-| State | Regional roads **3–4 digit, first digit = region**, distributed **south→north** (1 south … 9 north) | [P](https://www.plonkit.net/finland) |  |
-| Special | **Åland Islands**: monolingually **Swedish**, **red-tinted** pavement, **dashed** outer lines, short all-white plates | [P](https://www.plonkit.net/finland) |  |
-| Special | City transit: **Helsinki** green-yellow trams + blue/white buses; **Tampere** red trams ('NYSSE' buses); **Turku** yellow buses; **Jyväskylä** green; **Oulu** pink front | [P](https://www.plonkit.net/finland) |  |
+| Country | **Shorter-than-normal** white plates + EU strip | [P](https://www.plonkit.net/finland) |  |
+| Country | Outer lines **always solid white** (SE/NO use dashes — exception: Åland!); middle lines: white dashes ± solid white, solid yellow + white dashes, or double yellow (yellow being phased out) | [P](https://www.plonkit.net/finland) |  |
+| Country | Long b&w bollards: **rectangular white front reflector + two dots on the back**, diagonal black strip (round or thin-curved) | [P](https://www.plonkit.net/finland) |  |
+| Country | Snow poles orange w/ **thin white band near the TOP** | [P](https://www.plonkit.net/finland) |  |
+| Country | **Finnish**: unrelated to most of Europe — long words, double vowels, ä/ö | [P](https://www.plonkit.net/finland) |  |
+| Country | Street names end **-tie / -katu** (also -polku, -kuja); street signs white w/ black text | [P](https://www.plonkit.net/finland) |  |
+| Country | Road signs **yellow background** + red-border signs w/ a **thin yellow stroke on the edge** — no other Nordic country has that stroke | [P](https://www.plonkit.net/finland) |  |
+| Country | Pedestrian signs **5 stripes** (SE/NO usually 4); directional signs solid blue w/ white border-arrows; chevrons **black w/ yellow arrows** (NO/IS similar; SE = blue-yellow) | [P](https://www.plonkit.net/finland) |  |
+| Country | Wooden poles; lamps mounted **at the top w/ straight arm + double bolting** (SE: lower + curved); **blue-white striped signposts** (SE too; Estonian ones wider/looser) | [P](https://www.plonkit.net/finland) |  |
+| Country | Dense **boreal forest** (pines + white-trunk birches); Gen3 often in **autumn** (rare in other Nordics — fall vibe = Finland tell); **lakes everywhere** ('Land of a Thousand Lakes') | [P](https://www.plonkit.net/finland) |  |
+| Country | Modern utilitarian architecture; wooden cladding; **Falu-red** country houses (like SE/NO) | [P](https://www.plonkit.net/finland) |  |
+| Country | Only **two bus-stop styles**: blue-white or yellow-black (Sweden has many, mostly with stop names) | [P](https://www.plonkit.net/finland) |  |
+| Country | **K-Market & S-Market** supermarkets exist only in Finland | [P](https://www.plonkit.net/finland) |  |
+| Country | **Shitcam** coverage (most in Europe together w/ Spain); Gen4 smallcam | [P](https://www.plonkit.net/finland) |  |
+| Region | **Regional 3–4-digit road numbers: first digit = region**, 1 (south) → 9 (north); 2-digit majors don't follow | [P](https://www.plonkit.net/finland) |  |
+| Region | **Region metas**: Lapland big roads (2023+) = snow poles w/ 2 long reflectors; farmland → west + south coast; wind turbines → west coast; stunted spindly trees → north; **Gen3 snow only in far-NW Lapland** | [P](https://www.plonkit.net/finland) |  |
+| Region | **Swedish bilingual** → south + west coasts (Swedish inland ≈ never); **Sámi bilingual** (uses the letter **c**) → far north | [P](https://www.plonkit.net/finland) |  |
+| Region | Gen3 antenna metas: slightly **tilted long antenna** → southwest; **no antenna** → south-central | [P](https://www.plonkit.net/finland) |  |
+| Region | **Åland**: monolingual Swedish; red-tinted pavement + **dashed outer lines** (Sweden-like); short fully-white plates w/ blue text, no EU strip; some Swedish 4-stripe ped signs; bus stops w/ white 4-digit plate (+semicircle sign); **no Gen4** | [P](https://www.plonkit.net/finland) |  |
+| City | **Helsinki**: much Gen4 sidewalk trekker downtown; **green-yellow trams** (Tampere's are red); buses blue-white w/ HSL logo; **Tampere** buses 'NYSSE'; Turku = yellow buses w/ white rear; Jyväskylä = green buses; Oulu = pink-front buses | [P](https://www.plonkit.net/finland) |  |
+| City | **Tampere**: red metal plates w/ 7 golden protrusions (houses/lamps/posts); Seinäjoki & Isokyrö = unique blue street signs; **Lahti** = black-border ALL-CAPS street signs (Kuopio thicker font); Kerava = blue-yellow coat of arms top-left; Järvenpää = blue-grey arms + neighbourhood above the name | [P](https://www.plonkit.net/finland) |  |
+| Special | **Road 970** (Norwegian border): river valley, river usually NW, stunted birches, dead autumn Gen3; **Kilpisjärvi** = hilly low-vegetation Scandes foothills (spring Gen2, dead look) | [P](https://www.plonkit.net/finland) |  |
 
 ## Poland
 Study: [Plonk It](https://www.plonkit.net/poland) · [GeoGuessr map](https://www.geoguessr.com/maps/639012abdb1a28b03ddaf218)

@@ -5424,12 +5424,13 @@
    "area_km2": 338455,
    "links": {
     "plonkit": "https://www.plonkit.net/finland",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/64695710987cd3031852a79c"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "**Short** white plate + EU blue strip (Åland = short, fully white, no strip)",
+     "type": "plates",
+     "text": "**Shorter-than-normal** white plates + EU strip",
      "src": [
       "plonkit"
      ],
@@ -5439,233 +5440,338 @@
     },
     {
      "cat": "country",
-     "text": "Outer lines **always solid white** (Sweden/Norway use dashes); middle lines varied — yellow lines being **phased out**",
+     "type": "markings",
+     "text": "Outer lines **always solid white** (SE/NO use dashes — exception: Åland!); middle lines: white dashes ± solid white, solid yellow + white dashes, or double yellow (yellow being phased out)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "p7Kd",
-     "img": "Finland_road_lines_comp_2.png",
-     "type": "markings"
+     "anchor": "601H",
+     "img": "2022-12-21__2813_29.png",
+     "imgs": [
+      "Finland_road_lines_comp_2.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "sweden",
+       "note": "Sweden never has yellow middles; outers dashed on small roads.",
+       "diff": "Yellow middle → Finland (or Norway)."
+      },
+      {
+       "slug": "norway",
+       "note": "Norwegian middles have an orange tint + dashed outers.",
+       "diff": "Solid outers → Finland."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Bollard: long black-and-white, **white rectangle reflector front + two dots back**, **diagonal** black strip",
+     "type": "bollards",
+     "text": "Long b&w bollards: **rectangular white front reflector + two dots on the back**, diagonal black strip (round or thin-curved)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "cjgP",
-     "img": "Untitled_design6.png",
-     "type": "bollards"
+     "img": "Untitled_design6.png"
     },
     {
      "cat": "country",
-     "text": "Snow poles orange w/ a **thin white band near the top** (single band; Norway/Sweden = wider, lower, multiple)",
+     "type": "utility",
+     "text": "Snow poles orange w/ **thin white band near the TOP**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "7DPm",
      "img": "Finland_snowpole.png",
-     "type": "bollards"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "norway",
+       "note": "Reflector near the middle there.",
+       "diff": "Top band → Finland.",
+       "img": "no_snowpole.png"
+      },
+      {
+       "slug": "sweden",
+       "note": "Wider band, lower down.",
+       "diff": "Top band → Finland.",
+       "img": "snostolpe.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Finnish looks **unique**: long words, **double vowels**, letters **ä ö** (Estonian similar but adds õ ü)",
+     "type": "language",
+     "text": "**Finnish**: unrelated to most of Europe — long words, double vowels, ä/ö",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "b6ga",
-     "img": "fi_language.png"
+     "img": "fi_language.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "estonia",
+       "note": "Estonian is closely related and looks similar.",
+       "diff": "**õ / ü** → Estonian (Finnish never uses them)."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Street names end **-tie / -katu**; white street sign, black text",
+     "type": "naming",
+     "text": "Street names end **-tie / -katu** (also -polku, -kuja); street signs white w/ black text",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "dvdW",
      "img": "Finland_street_sign.png",
-     "type": "naming"
+     "super": true
     },
     {
      "cat": "country",
-     "text": "Road signs **yellow background**; red-border signs have a **thin yellow stroke** on the edge (unique to Finland)",
+     "type": "signs",
+     "text": "Road signs **yellow background** + red-border signs w/ a **thin yellow stroke on the edge** — no other Nordic country has that stroke",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "XM2x",
-     "img": "Finland-yellow-stroke.png",
-     "type": "signs"
+     "anchor": "n3ab",
+     "img": "Finland_yellow_sign_background.png",
+     "imgs": [
+      "Finland-yellow-stroke.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "Sweden/Iceland also have yellow signs — the thin yellow edge stroke is the Finland-only detail."
     },
     {
      "cat": "country",
-     "text": "Pedestrian signs have **5 stripes** (Sweden/Norway usually 4)",
+     "type": "signs",
+     "text": "Pedestrian signs **5 stripes** (SE/NO usually 4); directional signs solid blue w/ white border-arrows; chevrons **black w/ yellow arrows** (NO/IS similar; SE = blue-yellow)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "a1ax",
      "img": "FInland_Pedestrian_Signs.png",
-     "type": "signs"
+     "imgs": [
+      "Untitled_design4.png",
+      "Untitled_design2.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Directional signs = **solid blue bg, white text + arrows**; chevrons black w/ yellow arrows",
+     "type": "utility",
+     "text": "Wooden poles; lamps mounted **at the top w/ straight arm + double bolting** (SE: lower + curved); **blue-white striped signposts** (SE too; Estonian ones wider/looser)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "6iou",
-     "img": "Untitled_design4.png",
-     "type": "signs"
+     "anchor": "8fWv",
+     "img": "Finland_poles.png",
+     "imgs": [
+      "fi_lamp.png",
+      "Blue_and_white_signposts.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Wooden poles w/ streetlight, **lamp double-bolted at the top** (Sweden double too but lower & angled)",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "LRoW",
-     "img": "fi_lamp.png",
-     "type": "utility"
-    },
-    {
-     "cat": "country",
-     "text": "Signposts often have **blue-and-white striped** markings",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "A2lU",
-     "img": "Blue_and_white_signposts.png",
-     "type": "signs"
-    },
-    {
-     "cat": "country",
-     "text": "Dense **boreal forest** (pines + white-trunk **birches**); **Land of a Thousand Lakes** — water everywhere",
+     "type": "landscape",
+     "text": "Dense **boreal forest** (pines + white-trunk birches); Gen3 often in **autumn** (rare in other Nordics — fall vibe = Finland tell); **lakes everywhere** ('Land of a Thousand Lakes')",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "wdcQ",
      "img": "2022-12-19_4.png",
-     "type": "landscape"
-    },
-    {
-     "cat": "country",
-     "text": "Much Gen3 shot in **autumn** → distinct fall colours = good Finland tiebreaker vs other Nordics",
-     "src": [
-      "plonkit"
+     "imgs": [
+      "Autumn_vibe.png",
+      "2022-12-19_18.png"
      ],
-     "sv": null,
-     "anchor": "gI6b",
-     "img": "Autumn_vibe.png",
-     "type": "landscape"
+     "super": true
     },
     {
      "cat": "country",
-     "text": "Architecture modern/utilitarian (concrete apartments downtown); wooden-clad suburbs, some dark-red painted",
+     "type": "arch",
+     "text": "Modern utilitarian architecture; wooden cladding; **Falu-red** country houses (like SE/NO)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "hD3w",
-     "img": "Finland_architecture.png",
-     "type": "arch"
+     "img": "Finland_architecture.png"
     },
     {
      "cat": "country",
-     "text": "**K-Market & S-Market** supermarkets operate only in Finland (recognisable logos)",
+     "type": "signs",
+     "text": "Only **two bus-stop styles**: blue-white or yellow-black (Sweden has many, mostly with stop names)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "zktw",
+     "img": "Finland_bus_stop_signs.png"
+    },
+    {
+     "cat": "country",
+     "type": "general",
+     "text": "**K-Market & S-Market** supermarkets exist only in Finland",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "dnPB",
      "img": "Finnish_supermarkets.png",
-     "type": "general"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "'Shitcam' (Ari) low-quality camera: wide circular blur, **no sky halo**, brownish tint — Finland (& Spain) have the most",
+     "type": "cars",
+     "text": "**Shitcam** coverage (most in Europe together w/ Spain); Gen4 smallcam",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "D09g",
      "img": "fi_shitcam.png",
-     "type": "cars"
+     "imgs": [
+      "europe_smallcam.png"
+     ]
     },
     {
-     "cat": "state",
-     "text": "Regional roads **3–4 digit, first digit = region**, distributed **south→north** (1 south … 9 north)",
+     "cat": "region",
+     "type": "naming",
+     "text": "**Regional 3–4-digit road numbers: first digit = region**, 1 (south) → 9 (north); 2-digit majors don't follow",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "lvu5",
      "img": "Finland-road-numbering3.png",
-     "type": "naming"
+     "super": true
     },
     {
      "cat": "region",
-     "text": "**Swedish bilingual** signs on the south/west coast → don't guess inland; **Sámi** bilingual far north (alphabet uses **c**)",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "zivD",
-     "img": "Finland-Swedish-bilingualism2.png",
-     "type": "language"
-    },
-    {
-     "cat": "region",
-     "text": "**Wind turbines** & most farmland concentrated along the **west/south coast**",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "RM0Y",
-     "img": "Windmills_map.png",
-     "type": "landscape"
-    },
-    {
-     "cat": "region",
-     "text": "**Lapland**: snow poles with **2 long reflectors** (2023+ coverage); small stunted spindly trees in the north",
+     "type": "landscape",
+     "text": "**Region metas**: Lapland big roads (2023+) = snow poles w/ 2 long reflectors; farmland → west + south coast; wind turbines → west coast; stunted spindly trees → north; **Gen3 snow only in far-NW Lapland**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Aq7N",
      "img": "Lapland_Snowpoles.png",
-     "type": "bollards"
+     "imgs": [
+      "Farmland_In_Finland.png",
+      "Windmills_map.png",
+      "Finland-northern-trees2.png",
+      "Finland-Lapland-snow2.png"
+     ],
+     "super": true
     },
     {
-     "cat": "special",
-     "text": "**Åland Islands**: monolingually **Swedish**, **red-tinted** pavement, **dashed** outer lines, short all-white plates",
+     "cat": "region",
+     "type": "language",
+     "text": "**Swedish bilingual** → south + west coasts (Swedish inland ≈ never); **Sámi bilingual** (uses the letter **c**) → far north",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "EIZt",
-     "img": "Aland_-_Roads.png",
-     "type": "general"
+     "anchor": "zivD",
+     "img": "Finland-Swedish-bilingualism2.png",
+     "imgs": [
+      "Finland-Sami-signs2.png"
+     ],
+     "super": true
     },
     {
-     "cat": "special",
-     "text": "City transit: **Helsinki** green-yellow trams + blue/white buses; **Tampere** red trams ('NYSSE' buses); **Turku** yellow buses; **Jyväskylä** green; **Oulu** pink front",
+     "cat": "region",
+     "type": "cars",
+     "text": "Gen3 antenna metas: slightly **tilted long antenna** → southwest; **no antenna** → south-central",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "bayT",
-     "img": "Helsinki_Tram_hint.png",
-     "type": "general"
+     "anchor": "b3ID",
+     "img": "LT_Hint.png",
+     "imgs": [
+      "No_Antenna_Hint.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "general",
+     "text": "**Åland**: monolingual Swedish; red-tinted pavement + **dashed outer lines** (Sweden-like); short fully-white plates w/ blue text, no EU strip; some Swedish 4-stripe ped signs; bus stops w/ white 4-digit plate (+semicircle sign); **no Gen4**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "ju7h",
+     "img": "Aland-islands-location.png",
+     "imgs": [
+      "Aland_-_Swedish.png",
+      "Aland_-_Roads.png",
+      "ax_licenceplate.png",
+      "ax_pedestriansign.png",
+      "Aland_Bus_Stop_hint.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Road 970** (Norwegian border): river valley, river usually NW, stunted birches, dead autumn Gen3; **Kilpisjärvi** = hilly low-vegetation Scandes foothills (spring Gen2, dead look)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "eAl2",
+     "img": "Finland_Map2.png",
+     "imgs": [
+      "Kilpisjarvi_area.png"
+     ]
+    },
+    {
+     "cat": "city",
+     "type": "cars",
+     "text": "**Helsinki**: much Gen4 sidewalk trekker downtown; **green-yellow trams** (Tampere's are red); buses blue-white w/ HSL logo; **Tampere** buses 'NYSSE'; Turku = yellow buses w/ white rear; Jyväskylä = green buses; Oulu = pink-front buses",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "u8ow",
+     "img": "Finland-Helsinki-trekker.png",
+     "imgs": [
+      "Helsinki_Tram_hint.png",
+      "Helsinki_Bus_Hint.png",
+      "Tampere_Bus_Hint.png",
+      "Turku_buses_hint.png",
+      "fi_jyvaskylabus.png",
+      "fi_oulubus.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "city",
+     "type": "signs",
+     "text": "**Tampere**: red metal plates w/ 7 golden protrusions (houses/lamps/posts); Seinäjoki & Isokyrö = unique blue street signs; **Lahti** = black-border ALL-CAPS street signs (Kuopio thicker font); Kerava = blue-yellow coat of arms top-left; Järvenpää = blue-grey arms + neighbourhood above the name",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "oIBv",
+     "img": "Tampere_Plates_meta.png",
+     "imgs": [
+      "fi_seinajoki.png",
+      "Lahti_Streetsign.png",
+      "Kerava_Signs_Hint.png",
+      "Kerava_sign_hint.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },
