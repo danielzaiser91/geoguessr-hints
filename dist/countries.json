@@ -9328,102 +9328,250 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Short plates that show a **blue tinge or a hint of green on the left** through the blur",
+     "type": "plates",
+     "text": "Short plates — blurred they show a **blue tinge or a hint of green on the left**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "quLJ",
-     "img": "gt_licenceplate.png",
-     "type": "plates"
+     "img": "gt_licenceplate.png"
     },
     {
      "cat": "country",
-     "text": "**Grey car w/ a visible roof rack + side mirrors** on all car coverage (Laos similar; DR's car has black bar-stripes)",
+     "type": "cars",
+     "text": "**Grey Street View car w/ visible roof rack + side mirrors** on ALL car coverage",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "gZYw",
      "img": "gt_googlecar.png",
-     "type": "cars"
+     "uniq": "unique*",
+     "uniq_note": "Only Laos has a similar car among tropical countries; the Dominican Republic's has thick black bar-stripes and no visible mirrors.",
+     "shared_with": [
+      {
+       "slug": "laos",
+       "note": "The only other tropical country with a similar car.",
+       "diff": "Spanish + ALTO → Guatemala; Lao script → Laos."
+      },
+      {
+       "slug": "dominican-republic",
+       "note": "Similar car but thick black stripes on the bars, mirrors not visible.",
+       "diff": "Clean bars + mirrors → Guatemala."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Tropical, mostly **rainforest**; pastel stone houses w/ **rusted sheet-metal roofs** + exposed white brick",
+     "type": "landscape",
+     "text": "Tropical country, mainly covered by **rainforest**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "HQly",
+     "img": "gt_landscape.png"
+    },
+    {
+     "cat": "country",
+     "type": "arch",
+     "text": "**Pastel-painted stone houses w/ rusted sheet-metal roofs**; exposed white brick also common",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "PGLM",
-     "img": "gt_architecture.png",
-     "type": "arch"
+     "img": "gt_architecture.png"
     },
     {
      "cat": "country",
-     "text": "Roads: solid white outer + single yellow middle, **thinner than Mexico's**; stop sign says **\"ALTO\"** (like MX/PA/CR)",
+     "type": "markings",
+     "text": "Roads: solid white outer + single yellow middle — **significantly thinner lines than Mexico's**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "PUP5",
      "img": "gt_roadlines.png",
-     "type": "markings"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "mexico",
+       "note": "Same scheme in Mexico with thicker lines.",
+       "diff": "Thin lines + grey roof-rack car → Guatemala."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Utility poles very commonly painted **pink, green, or both**",
+     "type": "signs",
+     "text": "Stop signs say **'ALTO'**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "mgoz",
+     "img": "gt_alto.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "mexico",
+       "note": "Mexico uses ALTO too.",
+       "diff": "Car meta + pole paint decide."
+      },
+      {
+       "slug": "panama",
+       "note": "Panama uses ALTO.",
+       "diff": "Car meta decides."
+      },
+      {
+       "slug": "costa-rica",
+       "note": "Costa Rica uses ALTO.",
+       "diff": "Car meta decides."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "utility",
+     "text": "Poles very commonly painted **pink, green, or both**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "kyzr",
      "img": "gt_polepaint.png",
-     "type": "utility"
+     "uniq": "unique"
     },
     {
      "cat": "region",
-     "text": "**Green utility poles** → SE + far NE; white **pole plates** (top two characters = which road you're on)",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "wuun",
-     "img": "gt_greenpoles.png",
-     "type": "utility"
-    },
-    {
-     "cat": "region",
-     "text": "Middle of the country **mountainous**; south = flat & built-up; north = fairly flat / slightly rolling",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "bviD",
-     "img": "gt_topography.png",
-     "type": "landscape"
-    },
-    {
-     "cat": "region",
-     "text": "Oil-palm plantations SW + just north of the central mountains; **Lago de Atitlán** = big lake ringed by mountains & volcanoes",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "urVz",
-     "img": "gt_oilpalm.png",
-     "type": "landscape"
-    },
-    {
-     "cat": "special",
-     "text": "Phone: **2 = Guatemala City, 6 = Guatemala Dept**; **Tikal** Mayan-temple trekker (far north); 'electricista' stickers = Guatemala City",
+     "type": "general",
+     "text": "Coverage fairly sparse, especially in the north (map of covered roads)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "UdGx",
      "img": "gt_coverage.png",
-     "type": "naming"
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Topography**: middle = mountainous; south = completely flat farmland, more built-up; north = fairly flat w/ slight hills/rolling",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "bviD",
+     "img": "gt_topography.png",
+     "imgs": [
+      "gt_flatsouth.png",
+      "gt_mountainousmiddle.png",
+      "gt_semiflatnorth.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Oil-palm plantations** in two areas: southwest + just north of the central mountains",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "urVz",
+     "img": "gt_oilpalm.png"
+    },
+    {
+     "cat": "region",
+     "type": "utility",
+     "text": "**Completely green poles** → southeast (+ one eastern road further north + a stretch near Melchor de Mencos, far NE); their white **pole plates: top two characters = the road you're on** (infographic)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "wuun",
+     "img": "gt_greenpoles.png",
+     "imgs": [
+      "gt_poleplate.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "cars",
+     "text": "**Car-bar meta**: top-right bar faces FORWARD in most of the country; in the southeast it faces BACKWARD (often w/ a blue rope on the bottom-right bar); south + northeast also backward but **missing the thin black cap** on the bottom-right bar",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "LaQp",
+     "img": "gt_carbarforward.png",
+     "imgs": [
+      "backwards_bar_hint.png",
+      "gt_blueropecar.png",
+      "gt_carbarbackwardnocap.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "naming",
+     "text": "Phone numbers: **2 = Guatemala City only**; **6 = Guatemala Department only**; 7 = anywhere EXCEPT Guatemala Dept; 3/4/5 = anywhere",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "VLvK",
+     "img": "gt_phonecode2.png",
+     "imgs": [
+      "gt_phonecode6.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Spotlights**: Lago de Atitlán = by far the biggest mountain lake, ringed by volcanoes; jungle dirt road north of Tikal; small white bollards w/ 2 black stripes → road 1 NE of Quetzaltenango; PET-11 south of Las Pozas = rolling + perfectly N-S; CA9 (Escuintla→coast) = divided concrete highway",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "hIlm",
+     "img": "gt_lagodeatitlan.png",
+     "imgs": [
+      "gt_northofflores.png",
+      "gt_uniquebollardroad.png",
+      "gt_pet11northtosouth.png",
+      "gt_ca9.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "cars",
+     "text": "**Tikal trekker**: several Mayan temples just west of Tikal town — the most prominent ruins trekker (others exist, smaller)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "xmWF",
+     "img": "gt_tikal.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "city",
+     "type": "naming",
+     "text": "White rectangular **'electricista' stickers** on poles = unique to Guatemala City",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Wu24",
+     "img": "Guatemala_city_stickers.png",
+     "uniq": "unique"
     }
    ]
   },

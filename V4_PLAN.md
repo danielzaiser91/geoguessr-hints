@@ -134,7 +134,7 @@ Format: `- [ ] slug` → check when BOTH captured-complete AND classified.
 - [x] north-macedonia · - [x] montenegro · - [x] luxembourg · - [x] malta · - [x] andorra ·
 - [x] monaco · - [x] san-marino · - [x] liechtenstein · - [x] gibraltar · - [x] jersey ·
 - [x] isle-of-man · - [x] faroe-islands · - [x] madeira · - [x] azores · - [x] svalbard
-**N. America:** - [x] usa · - [x] canada · - [x] mexico · - [ ] guatemala · - [ ] costa-rica ·
+**N. America:** - [x] usa · - [x] canada · - [x] mexico · - [x] guatemala · - [ ] costa-rica ·
 - [ ] panama · - [ ] dominican-republic · - [ ] puerto-rico · - [ ] greenland · - [ ] bermuda ·
 - [ ] alaska · - [ ] hawaii · - [ ] martinique · - [ ] saint-pierre-and-miquelon ·
 - [ ] us-virgin-islands · - [ ] us-minor-outlying-islands

@@ -2503,15 +2503,22 @@ Study: [Plonk It](https://www.plonkit.net/guatemala)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Short plates that show a **blue tinge or a hint of green on the left** through the blur | [P](https://www.plonkit.net/guatemala) |  |
-| Country | **Grey car w/ a visible roof rack + side mirrors** on all car coverage (Laos similar; DR's car has black bar-stripes) | [P](https://www.plonkit.net/guatemala) |  |
-| Country | Tropical, mostly **rainforest**; pastel stone houses w/ **rusted sheet-metal roofs** + exposed white brick | [P](https://www.plonkit.net/guatemala) |  |
-| Country | Roads: solid white outer + single yellow middle, **thinner than Mexico's**; stop sign says **"ALTO"** (like MX/PA/CR) | [P](https://www.plonkit.net/guatemala) |  |
-| Country | Utility poles very commonly painted **pink, green, or both** | [P](https://www.plonkit.net/guatemala) |  |
-| Region | **Green utility poles** → SE + far NE; white **pole plates** (top two characters = which road you're on) | [P](https://www.plonkit.net/guatemala) |  |
-| Region | Middle of the country **mountainous**; south = flat & built-up; north = fairly flat / slightly rolling | [P](https://www.plonkit.net/guatemala) |  |
-| Region | Oil-palm plantations SW + just north of the central mountains; **Lago de Atitlán** = big lake ringed by mountains & volcanoes | [P](https://www.plonkit.net/guatemala) |  |
-| Special | Phone: **2 = Guatemala City, 6 = Guatemala Dept**; **Tikal** Mayan-temple trekker (far north); 'electricista' stickers = Guatemala City | [P](https://www.plonkit.net/guatemala) |  |
+| Country | Short plates — blurred they show a **blue tinge or a hint of green on the left** | [P](https://www.plonkit.net/guatemala) |  |
+| Country | **Grey Street View car w/ visible roof rack + side mirrors** on ALL car coverage | [P](https://www.plonkit.net/guatemala) |  |
+| Country | Tropical country, mainly covered by **rainforest** | [P](https://www.plonkit.net/guatemala) |  |
+| Country | **Pastel-painted stone houses w/ rusted sheet-metal roofs**; exposed white brick also common | [P](https://www.plonkit.net/guatemala) |  |
+| Country | Roads: solid white outer + single yellow middle — **significantly thinner lines than Mexico's** | [P](https://www.plonkit.net/guatemala) |  |
+| Country | Stop signs say **'ALTO'** | [P](https://www.plonkit.net/guatemala) |  |
+| Country | Poles very commonly painted **pink, green, or both** | [P](https://www.plonkit.net/guatemala) |  |
+| Region | Coverage fairly sparse, especially in the north (map of covered roads) | [P](https://www.plonkit.net/guatemala) |  |
+| Region | **Topography**: middle = mountainous; south = completely flat farmland, more built-up; north = fairly flat w/ slight hills/rolling | [P](https://www.plonkit.net/guatemala) |  |
+| Region | **Oil-palm plantations** in two areas: southwest + just north of the central mountains | [P](https://www.plonkit.net/guatemala) |  |
+| Region | **Completely green poles** → southeast (+ one eastern road further north + a stretch near Melchor de Mencos, far NE); their white **pole plates: top two characters = the road you're on** (infographic) | [P](https://www.plonkit.net/guatemala) |  |
+| Region | **Car-bar meta**: top-right bar faces FORWARD in most of the country; in the southeast it faces BACKWARD (often w/ a blue rope on the bottom-right bar); south + northeast also backward but **missing the thin black cap** on the bottom-right bar | [P](https://www.plonkit.net/guatemala) |  |
+| Region | Phone numbers: **2 = Guatemala City only**; **6 = Guatemala Department only**; 7 = anywhere EXCEPT Guatemala Dept; 3/4/5 = anywhere | [P](https://www.plonkit.net/guatemala) |  |
+| City | White rectangular **'electricista' stickers** on poles = unique to Guatemala City | [P](https://www.plonkit.net/guatemala) |  |
+| Special | **Spotlights**: Lago de Atitlán = by far the biggest mountain lake, ringed by volcanoes; jungle dirt road north of Tikal; small white bollards w/ 2 black stripes → road 1 NE of Quetzaltenango; PET-11 south of Las Pozas = rolling + perfectly N-S; CA9 (Escuintla→coast) = divided concrete highway | [P](https://www.plonkit.net/guatemala) |  |
+| Special | **Tikal trekker**: several Mayan temples just west of Tikal town — the most prominent ruins trekker (others exist, smaller) | [P](https://www.plonkit.net/guatemala) |  |
 
 ## Panama
 Study: [Plonk It](https://www.plonkit.net/panama)
