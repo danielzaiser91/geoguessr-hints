@@ -2084,17 +2084,23 @@ Study: [Plonk It](https://www.plonkit.net/slovenia)
 | City | **Ljubljana** = GREEN house numbers (+occasionally green street signs); Celje = signs w/ blue shield + 3 yellow stars; Trbovlje = blue-green shield w/ black crest | [P](https://www.plonkit.net/slovenia) |  |
 
 ## Montenegro
-Study: [Plonk It](https://www.plonkit.net/montenegro)
+Study: [Plonk It](https://www.plonkit.net/montenegro) · [GeoGuessr map](https://www.geoguessr.com/maps/631472ab345c30c3691bef52)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plate = EU blue strip + the **coat of arms on a red circle** (visible through the blur; Albania's has no red circle) | [P](https://www.plonkit.net/montenegro) |  |
-| Country | All Gen4 = smallcam; Gen3 = **long antenna + rifts inland**, **short antenna + no rifts on the coast** | [P](https://www.plonkit.net/montenegro) |  |
-| Country | Small & **mountainous**: inland lush green, coastal mountains = exposed light-coloured rock; roads only 1–2 lanes | [P](https://www.plonkit.net/montenegro) |  |
-| Country | Bollard white w/ **red front / white back reflector + a black top** (also found in Slovenia) | [P](https://www.plonkit.net/montenegro) |  |
-| Country | Chevrons **black-on-white or red-on-yellow** (Albania = white-on-black) | [P](https://www.plonkit.net/montenegro) |  |
-| Country | Guardrails often **rusted**; Montenegro is the only Balkan country where both **A- and B-type** guardrails are common | [P](https://www.plonkit.net/montenegro) |  |
-| Region | North = green farmland valleys; **Bay of Kotor** touristy w/ a steep rocky ridge; Podgorica = dry mountains + vineyards; **Durmitor NP** = grassy treeless high mountains | [P](https://www.plonkit.net/montenegro) |  |
+| Country | Plates: EU blue strip + the **coat of arms on a red circle** — the red circle stays visible through the blur | [P](https://www.plonkit.net/montenegro) |  |
+| Country | All Gen4 = **smallcam**: low-mounted camera, big circular blur w/ small front protrusion (can be fully transparent) | [P](https://www.plonkit.net/montenegro) |  |
+| Country | **Rifts** (sky tears) uncommonly in Gen3 | [P](https://www.plonkit.net/montenegro) |  |
+| Country | Small, **mountainous** country: inland mountains lush & green, coastal mountains w/ **exposed light-coloured rock**; roads mostly 1–2 lanes | [P](https://www.plonkit.net/montenegro) |  |
+| Country | Most common bollard: white w/ **red front / white back reflector + black top** | [P](https://www.plonkit.net/montenegro) |  |
+| Country | Chevrons **black-on-white or red-on-yellow** | [P](https://www.plonkit.net/montenegro) |  |
+| Country | Guardrails often **rusted**; only Balkan country where **both A- and B-type** guardrails are common | [P](https://www.plonkit.net/montenegro) |  |
+| Country | Simple **round concrete or wooden poles** | [P](https://www.plonkit.net/montenegro) |  |
+| Region | Gen3 rift map: **coast = short antenna, no rifts** / **inland = long antenna + rifts** (exception: around Utjeha & Dobra Voda on the coast) | [P](https://www.plonkit.net/montenegro) |  |
+| Region | Green agricultural valleys w/ deforested hills → **north**; dry treeless mountains + vineyards → around/south of **Podgorica**; pine forests → north, N of Nikšić, most commonly **east** | [P](https://www.plonkit.net/montenegro) |  |
+| Region | **Bay of Kotor**: touristy, populated, swimwear + a distinct steep rocky ridge; **Durmitor NP**: grassy treeless mountains w/ high-altitude feel (town of Žabljak inside, unique architecture) | [P](https://www.plonkit.net/montenegro) |  |
+| City | **Podgorica** = capital & largest city: modern buildings, wide roads, modern infrastructure | [P](https://www.plonkit.net/montenegro) |  |
+| Special | **Spotlights**: staircase-like mountainsides → Cemi River Valley; many small islands → Slansko Lake; wide artificial gravel wall → Pljevlja Coal Mine (visible from afar); railway + stone bollards → Skadar Lake Bridge | [P](https://www.plonkit.net/montenegro) |  |
 
 ## Luxembourg
 Study: [Plonk It](https://www.plonkit.net/luxembourg)
