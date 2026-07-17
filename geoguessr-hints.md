@@ -3087,11 +3087,12 @@ Study: [Plonk It](https://www.plonkit.net/cocos-islands)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Two coral atolls, Australian territory (counts as Australia); **bright white sand, palms & mowed grass** — far less forested/hilly than Christmas Island | [P](https://www.plonkit.net/cocos-islands) |  |
-| Country | **West Island** car = unique w/ a **snorkel at the front-right** + bed edges visible; **Bantam** car = white w/ rear edges visible (may be fully blurred) | [P](https://www.plonkit.net/cocos-islands) |  |
-| Region | **Bantam Village** = cross-hatched brick pavement; the runway is the **widest paved road** (mowed grass both sides + a follow car) | [P](https://www.plonkit.net/cocos-islands) |  |
-| Region | Many **coast trekkers** on white sand (ocean one side, palms the other); **Direction Island** beaches have noticeably more litter (bricks, styrofoam, dead coral) | [P](https://www.plonkit.net/cocos-islands) |  |
-| Region | **Horsburgh Island** (Pulau Luar) inland trekker = dry yellow grass + sparse vegetation | [P](https://www.plonkit.net/cocos-islands) |  |
+| Country | Two coral atolls, Australian territory — **counts as Australia** in streaks | [P](https://www.plonkit.net/cocos-islands) |  |
+| Country | **Bright white sand, palms & mowed grass** | [P](https://www.plonkit.net/cocos-islands) |  |
+| Region | **Car = island**: West Island = unique car w/ **front-right snorkel** + bed edges visible; Bantam = white car w/ rear edges visible (may be fully blurred) | [P](https://www.plonkit.net/cocos-islands) |  |
+| Region | **Bantam Village** = cross-hatched brick pavement; the **runway** = widest paved 'road', mowed grass both sides + a follow car | [P](https://www.plonkit.net/cocos-islands) |  |
+| Special | Many **coastal trekkers** (white sand, ocean one side / palms the other); **Direction Island** = noticeably littered beaches (bricks, styrofoam, dead coral) + palm-filled inland; **Horsburgh Island** (Pulau Luar) inland trekker = dry yellow grass + sparse vegetation | [P](https://www.plonkit.net/cocos-islands) |  |
+| Special | **Boats**: medium boat w/ big seating → West Island↔Bantam; small boat w/ black rear bars → north; small dark-grey boat w/ a woman at the back → south | [P](https://www.plonkit.net/cocos-islands) |  |
 
 # Antarctica
 

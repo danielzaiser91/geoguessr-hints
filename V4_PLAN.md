@@ -145,7 +145,7 @@ Format: `- [ ] slug` → check when BOTH captured-complete AND classified.
 - [x] eswatini · - [x] madagascar · - [x] tunisia · - [x] egypt · - [x] mali · - [x] reunion ·
 - [ ] sao-tome-and-principe
 **Oceania:** - [x] australia · - [x] new-zealand · - [x] vanuatu · - [x] guam ·
-- [x] american-samoa · - [x] christmas-island · - [ ] cocos-islands ·
+- [x] american-samoa · - [x] christmas-island · - [x] cocos-islands ·
 - [ ] northern-mariana-islands · - [ ] pitcairn-islands
 **Antarctica:** - [ ] antarctica · - [ ] south-georgia-sandwich-islands
 

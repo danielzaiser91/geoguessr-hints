@@ -5,10 +5,13 @@
  "area_km2": 14,
  "links": { "plonkit": "https://www.plonkit.net/cocos-islands", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Two coral atolls, Australian territory (counts as Australia); **bright white sand, palms & mowed grass** — far less forested/hilly than Christmas Island", "src": ["plonkit"], "sv": null, "anchor": "t4f1", "img": "image.png", "type": "landscape" },
-  { "cat": "country", "text": "**West Island** car = unique w/ a **snorkel at the front-right** + bed edges visible; **Bantam** car = white w/ rear edges visible (may be fully blurred)", "src": ["plonkit"], "sv": null, "anchor": "xFmx", "img": "West_Car.png", "type": "cars" },
-  { "cat": "region", "text": "**Bantam Village** = cross-hatched brick pavement; the runway is the **widest paved road** (mowed grass both sides + a follow car)", "src": ["plonkit"], "sv": null, "anchor": "YRBD", "img": "Bantam_Pavement.png", "type": "general" },
-  { "cat": "region", "text": "Many **coast trekkers** on white sand (ocean one side, palms the other); **Direction Island** beaches have noticeably more litter (bricks, styrofoam, dead coral)", "src": ["plonkit"], "sv": null, "anchor": "vuzg", "img": "Direction_Island.png", "type": "general" },
-  { "cat": "region", "text": "**Horsburgh Island** (Pulau Luar) inland trekker = dry yellow grass + sparse vegetation", "src": ["plonkit"], "sv": null, "anchor": "rCZB", "img": "Horsburgh_Island.png", "type": "general" }
+  { "cat": "country", "type": "general", "text": "Two coral atolls, Australian territory — **counts as Australia** in streaks", "src": ["plonkit"], "sv": null, "anchor": "Mrf6", "img": "Cocos_Keeling_Islands_in_Australia_-mini_map.png" },
+  { "cat": "country", "type": "landscape", "text": "**Bright white sand, palms & mowed grass**", "src": ["plonkit"], "sv": null, "anchor": "t4f1", "img": "image.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "christmas-island", "note": "Christmas Island is far more forested & hilly.", "diff": "Flat white-sand atoll → Cocos; jungle → Christmas Island." } ] },
+  { "cat": "region", "type": "cars", "text": "**Car = island**: West Island = unique car w/ **front-right snorkel** + bed edges visible; Bantam = white car w/ rear edges visible (may be fully blurred)", "src": ["plonkit"], "sv": null, "anchor": "xFmx", "img": "West_Car.png", "imgs": ["Bantam_Car.png"], "super": true, "uniq": "unique" },
+  { "cat": "region", "type": "general", "text": "**Bantam Village** = cross-hatched brick pavement; the **runway** = widest paved 'road', mowed grass both sides + a follow car", "src": ["plonkit"], "sv": null, "anchor": "YRBD", "img": "Bantam_Pavement.png", "imgs": ["Runway.png"], "uniq": "unique" },
+  { "cat": "special", "type": "landscape", "text": "Many **coastal trekkers** (white sand, ocean one side / palms the other); **Direction Island** = noticeably littered beaches (bricks, styrofoam, dead coral) + palm-filled inland; **Horsburgh Island** (Pulau Luar) inland trekker = dry yellow grass + sparse vegetation", "src": ["plonkit"], "sv": null, "anchor": "Jtsy", "img": "Trekkers.png", "imgs": ["Direction_Island.png", "Horsburgh_Island.png"], "uniq": "unique" },
+  { "cat": "special", "type": "cars", "text": "**Boats**: medium boat w/ big seating → West Island↔Bantam; small boat w/ black rear bars → north; small dark-grey boat w/ a woman at the back → south", "src": ["plonkit"], "sv": null, "anchor": "QDur", "img": "Big_Boat.png", "imgs": ["Black_Bar_Boat.png", "Woman_Boat.png"], "uniq": "unique" }
  ]
 }
