@@ -254,19 +254,22 @@ Study: [Plonk It](https://www.plonkit.net/lesotho)
 | Region | Coverage sparse (all urban coverage in the NW); **flat** region (tabletops far off) vs **mountainous** (road hugs the mountainside; only ~6 main roads covered) | [P](https://www.plonkit.net/lesotho) |  |
 
 ## Rwanda
-Study: [Plonk It](https://www.plonkit.net/rwanda)
+Study: [Plonk It](https://www.plonkit.net/rwanda) · [GeoGuessr map](https://www.geoguessr.com/maps/65832452fd6dcafd52b68b1a)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
 | Country | Plates **long white front / yellow back** | [P](https://www.plonkit.net/rwanda) |  |
-| Country | All Gen4; **pickup usually fully blurred** (white or brown w/ a brakelight); coverage has a noticeable **hazy** tint (also Senegal) | [P](https://www.plonkit.net/rwanda) |  |
-| Country | Architecture brick/concrete, single-family, steep roofs, fences — signature **ventilation bricks** | [P](https://www.plonkit.net/rwanda) |  |
-| Country | Generally **hilly** (not very mountainous); soil has a noticeable **red tint** | [P](https://www.plonkit.net/rwanda) |  |
-| Country | **Eucalyptus** + **banana** plants very common | [P](https://www.plonkit.net/rwanda) |  |
-| Country | Red-and-white **cylindrical bollards** + white concrete waystones | [P](https://www.plonkit.net/rwanda) |  |
-| Country | Streets very **clean**; **black-and-white striped kerbs**; drives right; motorcyclists all wear **red vests & helmets** | [P](https://www.plonkit.net/rwanda) |  |
-| Region | Limited coverage (mainly **Kigali** + patches); street names carry a **2-letter district code**; national roads paint the road number on lampposts | [P](https://www.plonkit.net/rwanda) |  |
-| Region | Tea plantations in the west; **volcanoes + volcanic rock NW**; Akagera NP = dry-vegetated, wide reddish-brown unpaved roads | [P](https://www.plonkit.net/rwanda) |  |
+| Country | All **Gen4**; the pickup truck is usually covered by one **big blur** — sometimes fully visible: big white or brown pickup w/ brakelight + camera mount | [P](https://www.plonkit.net/rwanda) |  |
+| Country | Coverage has a noticeable **hazy tint**, esp. in the sky | [P](https://www.plonkit.net/rwanda) |  |
+| Country | Brick & concrete single-family houses, often steep roofs + fences; signature **'ventilation bricks'** in many walls | [P](https://www.plonkit.net/rwanda) |  |
+| Country | Generally **hilly** (not truly mountainous); soil w/ a noticeable **red tint**; **eucalyptus** + **banana plants** everywhere | [P](https://www.plonkit.net/rwanda) |  |
+| Country | Multiple **red-white cylindrical bollards**; various **white concrete waystones** | [P](https://www.plonkit.net/rwanda) |  |
+| Country | Streets **remarkably clean**; kerbs painted **black-white**; villa areas w/ tall security walls; drives on the **right** | [P](https://www.plonkit.net/rwanda) |  |
+| Country | **All motorcyclists wear red vests & helmets** (required by law) | [P](https://www.plonkit.net/rwanda) |  |
+| Region | Coverage limited: **Kigali + a few patches** (still expanding) | [P](https://www.plonkit.net/rwanda) |  |
+| Region | Street names carry a **2-letter district code**; national-road lampposts have the **road number painted in black** + a lamp number that (usually) rises away from Kigali; lamp-arm style varies consistently by national road (map) | [P](https://www.plonkit.net/rwanda) |  |
+| Region | **Tea plantations → west**; NE = gentler rolling hills + open farmland/grassland; **volcanoes + volcanic rock → NW**; **Akagera NP** = dry but vegetated, wide reddish-brown unpaved roads, rectangular waystones, brown car | [P](https://www.plonkit.net/rwanda) |  |
+| Special | **Road spotlights**: Nyungwe Forest NP = lush hilly, NR10 paved w/ lines + French-style bollards + green lamps, NR26 mostly paved w/o lines (brown car); NR11 north of Mabanza = all-white lines; NR15 Muhanga→West border = potholed & lineless, then **unpaved along a red-dirt cliffside**; NR16 = the only road w/ predominantly dashed outer lines; wide river along NE Kigali; Kigali coverage = mostly rich villa areas; **Butare** = cobblestone streets | [P](https://www.plonkit.net/rwanda) |  |
 
 ## Eswatini
 Study: [Plonk It](https://www.plonkit.net/eswatini)

@@ -28237,11 +28237,12 @@
    "area_km2": 26338,
    "links": {
     "plonkit": "https://www.plonkit.net/rwanda",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/65832452fd6dcafd52b68b1a"
    },
    "hints": [
     {
      "cat": "country",
+     "type": "plates",
      "text": "Plates **long white front / yellow back**",
      "src": [
       "plonkit"
@@ -28249,93 +28250,185 @@
      "sv": null,
      "anchor": "6v8t",
      "img": "Rwanda_License_Plate.png",
-     "type": "plates"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "kenya",
+       "note": "Kenya/Uganda use the same white-front/yellow-rear scheme.",
+       "diff": "Drives RIGHT → Rwanda; left → Kenya/Uganda."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "All Gen4; **pickup usually fully blurred** (white or brown w/ a brakelight); coverage has a noticeable **hazy** tint (also Senegal)",
+     "type": "cars",
+     "text": "All **Gen4**; the pickup truck is usually covered by one **big blur** — sometimes fully visible: big white or brown pickup w/ brakelight + camera mount",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "kgGt",
      "img": "Big_blur.png",
-     "type": "cars"
+     "imgs": [
+      "Rwanda_Truck_Truncated.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Architecture brick/concrete, single-family, steep roofs, fences — signature **ventilation bricks**",
+     "type": "cars",
+     "text": "Coverage has a noticeable **hazy tint**, esp. in the sky",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "SBDN",
+     "img": "Hazy_sky.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "senegal",
+       "note": "Similar hazy Gen4 in Senegal.",
+       "diff": "Hills + red vests → Rwanda; flat sandy Sahel → Senegal."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "arch",
+     "text": "Brick & concrete single-family houses, often steep roofs + fences; signature **'ventilation bricks'** in many walls",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "w8kf",
      "img": "Rwanda_Architecture.png",
-     "type": "arch"
+     "uniq": "unique*",
+     "uniq_note": "The ventilation-brick rows are the Rwandan architecture tell."
     },
     {
      "cat": "country",
-     "text": "Generally **hilly** (not very mountainous); soil has a noticeable **red tint**",
+     "type": "landscape",
+     "text": "Generally **hilly** (not truly mountainous); soil w/ a noticeable **red tint**; **eucalyptus** + **banana plants** everywhere",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "mjV9",
      "img": "rw_hills.png",
-     "type": "landscape"
+     "imgs": [
+      "Rwandan_Soil.png",
+      "Eucalyptus.png",
+      "Rwandan_bananas.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "**Eucalyptus** + **banana** plants very common",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "UOlK",
-     "img": "Eucalyptus.png",
-     "type": "landscape"
-    },
-    {
-     "cat": "country",
-     "text": "Red-and-white **cylindrical bollards** + white concrete waystones",
+     "type": "bollards",
+     "text": "Multiple **red-white cylindrical bollards**; various **white concrete waystones**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "g5Yq",
      "img": "Rwandan_Bollards.png",
-     "type": "bollards"
+     "imgs": [
+      "Rwanda_Waystones.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Streets very **clean**; **black-and-white striped kerbs**; drives right; motorcyclists all wear **red vests & helmets**",
+     "type": "general",
+     "text": "Streets **remarkably clean**; kerbs painted **black-white**; villa areas w/ tall security walls; drives on the **right**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Hh5T",
      "img": "Clean_streets.png",
-     "type": "general"
+     "imgs": [
+      "Kerbs.png",
+      "Fences2.png",
+      "Driving_right.png"
+     ]
     },
     {
-     "cat": "region",
-     "text": "Limited coverage (mainly **Kigali** + patches); street names carry a **2-letter district code**; national roads paint the road number on lampposts",
+     "cat": "country",
+     "type": "cars",
+     "text": "**All motorcyclists wear red vests & helmets** (required by law)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "J31h",
-     "img": "Rwanda_Waystones.png",
-     "type": "naming"
+     "anchor": "840u",
+     "img": "Red_motorcycle_vests.png",
+     "uniq": "unique"
     },
     {
      "cat": "region",
-     "text": "Tea plantations in the west; **volcanoes + volcanic rock NW**; Akagera NP = dry-vegetated, wide reddish-brown unpaved roads",
+     "type": "general",
+     "text": "Coverage limited: **Kigali + a few patches** (still expanding)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "landscape"
+     "anchor": "fT6w",
+     "img": "Rwanda_Coverge_map.jpg",
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "naming",
+     "text": "Street names carry a **2-letter district code**; national-road lampposts have the **road number painted in black** + a lamp number that (usually) rises away from Kigali; lamp-arm style varies consistently by national road (map)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "cXjQ",
+     "img": "Rwanda_Signs_copy.png",
+     "imgs": [
+      "Rwanda_Road_Lamps_Infographic.png",
+      "NR_Pole_paintings.png"
+     ],
+     "super": true,
+     "uniq": "unique"
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Tea plantations → west**; NE = gentler rolling hills + open farmland/grassland; **volcanoes + volcanic rock → NW**; **Akagera NP** = dry but vegetated, wide reddish-brown unpaved roads, rectangular waystones, brown car",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "G0Ol",
+     "img": "RW_tea_plantations.png",
+     "imgs": [
+      "Rwanda_NorthEast_Hint.png",
+      "Volcanoes_Hint_fix.png",
+      "Rwanda_National_Park_Hint.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "roads",
+     "text": "**Road spotlights**: Nyungwe Forest NP = lush hilly, NR10 paved w/ lines + French-style bollards + green lamps, NR26 mostly paved w/o lines (brown car); NR11 north of Mabanza = all-white lines; NR15 Muhanga→West border = potholed & lineless, then **unpaved along a red-dirt cliffside**; NR16 = the only road w/ predominantly dashed outer lines; wide river along NE Kigali; Kigali coverage = mostly rich villa areas; **Butare** = cobblestone streets",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "rAil",
+     "img": "Nyungwe_Forest_National_Park_hint.png",
+     "imgs": [
+      "NR11_White_Lines.png",
+      "NR15_No_Lines.png",
+      "NR15_Unpaved.png",
+      "NR16_Dashes.png",
+      "Rwanda_River.png",
+      "rw_villasuburb.png",
+      "Cobblestone_hint.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },
