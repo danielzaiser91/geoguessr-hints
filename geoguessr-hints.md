@@ -2713,23 +2713,25 @@ Study: [Plonk It](https://www.plonkit.net/brazil) · [GeoGuessr map](https://www
 | Special | **Trekkers & unique cars**: Amazon boat+walking trekker on the Madeira/Aripuanã rivers (rainforest + villages); Lençóis Maranhenses NP = sand dunes w/ water pools, white truck w/ black bed; **Fernando de Noronha** (340 km offshore): white buggy visible at the front, big exposed rocks + boat coverage | [P](https://www.plonkit.net/brazil) |  |
 
 ## Argentina
-Study: [Plonk It](https://www.plonkit.net/argentina)
+Study: [Plonk It](https://www.plonkit.net/argentina) · [GeoGuessr map](https://www.geoguessr.com/maps/63a3cef9571dcbb3660427c4)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plate: black w/ **black dot** in middle (**AR only**), or white w/ blue top bar (blue bar also Brazil) | [P](https://www.plonkit.net/argentina) |  |
-| Country | Gen3 **black car** (S. America: only AR/PE/UY); smallcam exists (AR/PE/BR) | [P](https://www.plonkit.net/argentina) |  |
-| Country | **White-and-red chevrons** (only country in the Americas with these) | [P](https://www.plonkit.net/argentina) |  |
-| Country | Round concrete poles (3 lines, alternating) + doubled poles; **wooden A-frame poles** (only AR in S. America) | [P](https://www.plonkit.net/argentina) |  |
-| Country | km markers white w/ black top strip: **RN** = national, **RP** = provincial road | [P](https://www.plonkit.net/argentina) |  |
-| Country | Default vibe: flat, treeless, sparsely populated, "wide open" & desolate | [P](https://www.plonkit.net/argentina) |  |
-| Region | Far **west** mountainous (Andes); east rarely has mountains | [P](https://www.plonkit.net/argentina) |  |
-| Region | **Red soil → Misiones** (Brazil-like); Chaco/Formosa = sandy soil + low bushes | [P](https://www.plonkit.net/argentina) |  |
-| Region | **Cardón cactus** (candelabra) → NW mountains (Salta, Jujuy, Catamarca, Tucumán) | [P](https://www.plonkit.net/argentina) |  |
-| Region | Tierra del Fuego: flat grass + beech forest; Neuquén = flat w/ single poplar rows | [P](https://www.plonkit.net/argentina) |  |
-| Region | Pampas grass → Pampas; sugarcane → Tucumán | [P](https://www.plonkit.net/argentina) |  |
-| State | Vineyards + mountains to the west + flat east → Mendoza wine region | [P](https://www.plonkit.net/argentina) |  |
-| Special | Salt pans → Jujuy; red bricks (Bolivia-like) → NW (western Jujuy) | [P](https://www.plonkit.net/argentina) |  |
+| Country | Two plate types: **black w/ a black dot in the middle** (visible through blur) or white w/ **blue top bar** | [P](https://www.plonkit.net/argentina) |  |
+| Country | Gen3 = **black Google car**; Gen4 **smallcam** exists | [P](https://www.plonkit.net/argentina) |  |
+| Country | Very common: **round concrete poles w/ 3 alternating lines**; **doubled-up poles**; wooden poles w/ or w/o crossbar — **wooden A-frame poles = Argentina-only in S. America** | [P](https://www.plonkit.net/argentina) |  |
+| Country | Chevrons **white-and-red** — the only country in the Americas with these | [P](https://www.plonkit.net/argentina) |  |
+| Country | Road lines: mostly **dashed white, double yellow, or a mix** | [P](https://www.plonkit.net/argentina) |  |
+| Country | km markers white w/ **black top strip + road number**: **RN** = national (white label on the map), **RP** = provincial (green label) | [P](https://www.plonkit.net/argentina) |  |
+| Country | **Yellow & red rectangular reflectors** on guardrails | [P](https://www.plonkit.net/argentina) |  |
+| Country | Default vibe: relatively **flat, treeless, sparsely populated** — wide-open desolate feel | [P](https://www.plonkit.net/argentina) |  |
+| Region | Several cities have **unique recognisable taxis** (map) | [P](https://www.plonkit.net/argentina) |  |
+| Region | **Landscape by region**: | [P](https://www.plonkit.net/argentina) |  |
+| Region | **Flora**: | [P](https://www.plonkit.net/argentina) |  |
+| Region | **Crops**: sugarcane → Tucumán (+ Salta/Jujuy); sorghum (dark-red heads) → Santa Fe/Córdoba/Buenos Aires; corn → Córdoba + Santiago del Estero; sunflower fields → S-Chaco (+ BA/S-Córdoba) | [P](https://www.plonkit.net/argentina) |  |
+| Region | **Province infrastructure**: Latvian-style wooden **hook poles** → only La Rioja & Mendoza; single side insulator → Mendoza; white vertical pole stickers → Tucumán; unique provincial road markers → Córdoba; yellow T-junction signs w/ chevron pattern + road numbers → La Pampa | [P](https://www.plonkit.net/argentina) |  |
+| Special | **Spotlights (north/west)**: Bolivia-like red bricks → W-Jujuy; salt pans → Jujuy (also SW-Bolivia/NE-Chile); red mountains → RN68 valley, S-Salta; Gen4 volcanic rocks → RP43 south of Antofagasta de la Sierra; RN65 (W-Tucumán) = bendy unpaved mountain road into the clouds; Talampaya NP (RN76, W-La Rioja) = red soil + barren ranges; lower mountains → west of Córdoba; **horse trekker** → SW-San Juan (similar one in Chile!); Mendoza outskirts = vineyards w/ Andes west | [P](https://www.plonkit.net/argentina) |  |
+| Special | **Spotlights (south/east)**: Mar del Plata area = quartzite facades + orange tiles + vaulted porches; semi-coastal grass hills → NE of Bahía Blanca; monkey-puzzle trees → W-Neuquén (road 23; also Chile); **'sawdust' car** (sandy dust on black back) → centre-south; rock formations → Villa Dique Florentino Ameghino (NE-Chubut); Comodoro Rivadavia on Chenque hill slopes; snow coverage → eastern RP25 (E-Santa Cruz); melting snow → RN293 (SW-Santa Cruz); snowy mountains to the north → **Ushuaia** (southernmost city) | [P](https://www.plonkit.net/argentina) |  |
 
 ## Peru
 Study: [Plonk It](https://www.plonkit.net/peru)
