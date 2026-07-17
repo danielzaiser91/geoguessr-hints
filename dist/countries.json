@@ -23272,113 +23272,211 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Landscape **very hilly & forested**; a lot of coverage is on small roads deep inside forest",
+     "type": "landscape",
+     "text": "**Very hilly & forested**; much coverage on small roads **deep inside forest**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "c5sf",
      "img": "si_landscape.png",
-     "type": "landscape"
+     "imgs": [
+      "si_forest.png"
+     ],
+     "super": true
     },
     {
      "cat": "country",
-     "text": "Alpine-inspired architecture: light walls, dark wooden details, **half-hipped roofs**",
+     "type": "arch",
+     "text": "Alpine-inspired: light walls, dark wood, **half-hipped roofs**; **kozolec** hay sheds (thin wooden beams w/ gaps) = very typical",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "hUzj",
      "img": "si_architecture.png",
-     "type": "arch"
+     "imgs": [
+      "si_kozolec.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "The kozolec hay rack is THE Slovenian countryside tell."
     },
     {
      "cat": "country",
-     "text": "**Slovene** (Slavic): letters **Č Š Ž** (no Ć/Đ, unlike Croatian)",
+     "type": "language",
+     "text": "**Slovene: only Č Š Ž** (Croatian adds Ć and Đ)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Pi36",
      "img": "si_language.png",
-     "type": "language"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "croatia",
+       "note": "Nearly the same letters.",
+       "diff": "Ć or Đ on a sign → Croatia; ije → Croatian too.",
+       "img": "hr_language.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Bollards white w/ **black top, bright red front / white back** (Austria = dark-red front + grey/black back)",
+     "type": "bollards",
+     "text": "Bollards white w/ black top, **bright-red front / white back reflector**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "9Pxm",
      "img": "si_bollard.png",
-     "type": "bollards"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "austria",
+       "note": "Same shape — **dark**-red front + black/grey back there.",
+       "diff": "Bright red → Slovenia.",
+       "img": "Austria_or_Slovenia.png"
+      },
+      {
+       "slug": "montenegro",
+       "note": "Very similar red/white version.",
+       "diff": "Karst + coast + Cyrillic bits → Montenegro."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Directional signs **yellow w/ black border** (like other ex-Yugoslav; Austria = white/blue)",
+     "type": "signs",
+     "text": "Directional signs **yellow w/ black border** (ex-Yugoslav standard; Austria: white/blue); km markers = unique layout (yellow road-number box top-left, black divider, distance below; Austria: blue)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "LTMm",
      "img": "si_directionalsigns.png",
-     "type": "signs"
-    },
-    {
-     "cat": "country",
-     "text": "Distinct **km markers**: road number top-left in a yellow rectangle, black horizontal divider, distance below",
-     "src": [
-      "plonkit"
+     "imgs": [
+      "si_kmmarker.png"
      ],
-     "sv": null,
-     "anchor": "CUtN",
-     "img": "si_kmmarker.png",
-     "type": "signs"
+     "uniq": "unique*",
+     "uniq_note": "The km-marker layout is Slovenia-specific; the yellow directional signs are pan-ex-Yugoslav."
     },
     {
      "cat": "country",
-     "text": "Chevrons **red arrows on white**; pedestrian sign 5 stripes, **person has no belt** (Croatia's does)",
+     "type": "signs",
+     "text": "Chevrons red-on-white (rarer black-on-white); ped signs 5 stripes + **beltless person** (Croatia: belt; Austria: dotted lines)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Dzth",
      "img": "si_chevron.png",
-     "type": "signs"
+     "imgs": [
+      "si_pedestriansign.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Roads commonly have **long dashed outer lines** (neighbouring countries rarely do)",
+     "type": "markings",
+     "text": "**Long outer dashes** on roads (neighbours rarely dash outer lines)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "mOHj",
-     "img": "slovenia_roadlines.png",
-     "type": "markings"
+     "img": "slovenia_roadlines.png"
     },
     {
      "cat": "country",
-     "text": "Street signs white w/ metal border, or **red on house walls** (street names use **ulica**); house numbers red w/ white text (Ljubljana = green)",
+     "type": "signs",
+     "text": "Street signs white w/ metal border on posts, or **red on house walls** ('ulica' in the name; Czech red signs never say ulica); house numbers **red w/ white text**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "d0cG",
      "img": "si_streetsigns.png",
-     "type": "naming"
+     "imgs": [
+      "si_housenumber.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "czechia",
+       "note": "Red wall signs + red house numbers there too.",
+       "diff": "'ulica' → Slovenia; 'ulice'/none → Czechia.",
+       "img": "cz_streetsigns.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "A-type guardrails (rounded; Croatia = square B-type); **kozolec** hayrack sheds (thin wooden beams w/ gaps) are very typical",
+     "type": "utility",
+     "text": "**A-type guardrails** (rounded edges) — the CR-50-50 decider: Croatia uses B-type (square edges)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "AOGZ",
-     "img": "si_kozolec.png",
-     "type": "general"
+     "anchor": "Jptp",
+     "img": "si_guardrail.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "croatia",
+       "note": "Croatia = B-type.",
+       "diff": "Rounded A-type → Slovenia.",
+       "img": "Croatia_guardrails.png"
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "Gen4 black or (rarely) white car",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "KjFQ",
+     "img": "Screenshot (631).png",
+     "imgs": [
+      "Screenshot (633).png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "Tallest mountains → **NW Alpine region**; east = flat/rolling fields w/o mountains in view; coast = white cliffs + bushes + vineyards + Mediterranean houses; SE = wide E-W valley between ranges; **Italian bilingual signs** → far west",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "ta6V",
+     "img": "si_mountains.png",
+     "imgs": [
+      "si_eastplains.png",
+      "si_coastallandscape.png",
+      "si_southeastvalley.png",
+      "si_italian.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "city",
+     "type": "signs",
+     "text": "**Ljubljana** = GREEN house numbers (+occasionally green street signs); Celje = signs w/ blue shield + 3 yellow stars; Trbovlje = blue-green shield w/ black crest",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "y26n",
+     "img": "si_ljubljanahousenumber.png",
+     "imgs": [
+      "si_celjestreetsigns.png",
+      "si_trbovljestreetsigns.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },

@@ -2043,16 +2043,18 @@ Study: [Plonk It](https://www.plonkit.net/slovenia)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Landscape **very hilly & forested**; a lot of coverage is on small roads deep inside forest | [P](https://www.plonkit.net/slovenia) |  |
-| Country | Alpine-inspired architecture: light walls, dark wooden details, **half-hipped roofs** | [P](https://www.plonkit.net/slovenia) |  |
-| Country | **Slovene** (Slavic): letters **Č Š Ž** (no Ć/Đ, unlike Croatian) | [P](https://www.plonkit.net/slovenia) |  |
-| Country | Bollards white w/ **black top, bright red front / white back** (Austria = dark-red front + grey/black back) | [P](https://www.plonkit.net/slovenia) |  |
-| Country | Directional signs **yellow w/ black border** (like other ex-Yugoslav; Austria = white/blue) | [P](https://www.plonkit.net/slovenia) |  |
-| Country | Distinct **km markers**: road number top-left in a yellow rectangle, black horizontal divider, distance below | [P](https://www.plonkit.net/slovenia) |  |
-| Country | Chevrons **red arrows on white**; pedestrian sign 5 stripes, **person has no belt** (Croatia's does) | [P](https://www.plonkit.net/slovenia) |  |
-| Country | Roads commonly have **long dashed outer lines** (neighbouring countries rarely do) | [P](https://www.plonkit.net/slovenia) |  |
-| Country | Street signs white w/ metal border, or **red on house walls** (street names use **ulica**); house numbers red w/ white text (Ljubljana = green) | [P](https://www.plonkit.net/slovenia) |  |
-| Country | A-type guardrails (rounded; Croatia = square B-type); **kozolec** hayrack sheds (thin wooden beams w/ gaps) are very typical | [P](https://www.plonkit.net/slovenia) |  |
+| Country | **Very hilly & forested**; much coverage on small roads **deep inside forest** | [P](https://www.plonkit.net/slovenia) |  |
+| Country | Alpine-inspired: light walls, dark wood, **half-hipped roofs**; **kozolec** hay sheds (thin wooden beams w/ gaps) = very typical | [P](https://www.plonkit.net/slovenia) |  |
+| Country | **Slovene: only Č Š Ž** (Croatian adds Ć and Đ) | [P](https://www.plonkit.net/slovenia) |  |
+| Country | Bollards white w/ black top, **bright-red front / white back reflector** | [P](https://www.plonkit.net/slovenia) |  |
+| Country | Directional signs **yellow w/ black border** (ex-Yugoslav standard; Austria: white/blue); km markers = unique layout (yellow road-number box top-left, black divider, distance below; Austria: blue) | [P](https://www.plonkit.net/slovenia) |  |
+| Country | Chevrons red-on-white (rarer black-on-white); ped signs 5 stripes + **beltless person** (Croatia: belt; Austria: dotted lines) | [P](https://www.plonkit.net/slovenia) |  |
+| Country | **Long outer dashes** on roads (neighbours rarely dash outer lines) | [P](https://www.plonkit.net/slovenia) |  |
+| Country | Street signs white w/ metal border on posts, or **red on house walls** ('ulica' in the name; Czech red signs never say ulica); house numbers **red w/ white text** | [P](https://www.plonkit.net/slovenia) |  |
+| Country | **A-type guardrails** (rounded edges) — the CR-50-50 decider: Croatia uses B-type (square edges) | [P](https://www.plonkit.net/slovenia) |  |
+| Country | Gen4 black or (rarely) white car | [P](https://www.plonkit.net/slovenia) |  |
+| Region | Tallest mountains → **NW Alpine region**; east = flat/rolling fields w/o mountains in view; coast = white cliffs + bushes + vineyards + Mediterranean houses; SE = wide E-W valley between ranges; **Italian bilingual signs** → far west | [P](https://www.plonkit.net/slovenia) |  |
+| City | **Ljubljana** = GREEN house numbers (+occasionally green street signs); Celje = signs w/ blue shield + 3 yellow stars; Trbovlje = blue-green shield w/ black crest | [P](https://www.plonkit.net/slovenia) |  |
 
 ## Montenegro
 Study: [Plonk It](https://www.plonkit.net/montenegro)
