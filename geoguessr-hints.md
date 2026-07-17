@@ -2492,12 +2492,16 @@ Study: [Plonk It](https://www.plonkit.net/alaska)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | US state; most common plate is **all-yellow** (Gen4 can show one w/ a big orange circle); front plates required | [P](https://www.plonkit.net/alaska) |  |
-| Country | Alaska **highway shield has the Big Dipper** constellation (bottom-left) — unique tell | [P](https://www.plonkit.net/alaska) |  |
-| Country | Tall **snow-covered mountains** on much coverage; trees thinner & less broad-leaved than the lower 48 | [P](https://www.plonkit.net/alaska) |  |
-| Country | Lots of **Gen2** (rare elsewhere in the US), Gen4 **smallcam**, and **shitcam** (faded, low-res, big bottom blur) — Alaska is the only US state where shitcam is prevalent | [P](https://www.plonkit.net/alaska) |  |
-| Region | Interior/north = **tundra/subarctic** (short trees, low undergrowth); the **Alaska pipeline** is often visible from roads (nothing like it in the rest of the US) | [P](https://www.plonkit.net/alaska) |  |
-| Region | Only 2 urban areas: **Anchorage** (Gen4 + suburbs concentrated here) & **Fairbanks**; panhandle towns (Alexander Archipelago) = wooden buildings + misty Gen2; Juneau = capital | [P](https://www.plonkit.net/alaska) |  |
+| Country | Most common plate: **all-yellow** (Gen4 also shows one w/ a big orange circle); **front plates required** | [P](https://www.plonkit.net/alaska) |  |
+| Country | Alaska highway shield features the **Big Dipper constellation** bottom-left | [P](https://www.plonkit.net/alaska) |  |
+| Country | Trees **thinner & less broad-leaved** than in the other 49 states; tall **snow-covered mountains** visible on a lot of coverage | [P](https://www.plonkit.net/alaska) |  |
+| Country | Camera mix unlike the lower 48: fair amount of **Gen2**; Gen4 **smallcam** (white car front visible); and **shitcam** (low-res, faded colours, big bottom blur) — the only US state where shitcam is prevalent | [P](https://www.plonkit.net/alaska) |  |
+| Region | **Gen4 concentrated around Anchorage**; interior & north = subarctic/tundra (short trees, little undergrowth); **aspens** in lower interior/south-central; farmland only in the south (Matanuska Valley, Kenai Peninsula) | [P](https://www.plonkit.net/alaska) |  |
+| Region | **Alexander Archipelago** (panhandle, BC border): tall lush green mountains, wooden buildings, misty overcast Gen2 (coastal OR/WA can look similar); **Juneau** = the panhandle's only built-up city, ringed by forested mountains | [P](https://www.plonkit.net/alaska) |  |
+| Region | The **Trans-Alaska pipeline** is often visible from main roads — nothing similar exists in the rest of the US (map of viewpoints) | [P](https://www.plonkit.net/alaska) |  |
+| City | Only two major urban areas: **Anchorage & Fairbanks**; Anchorage suburbs = wide roads + commercial strips + mountains behind (Fairbanks similar but fewer mountains); fire hydrants: **pale pink/pale yellow → Anchorage**, bright yellow or yellow-blue → Fairbanks; shitcam only around Anchorage/Fairbanks + their connecting road | [P](https://www.plonkit.net/alaska) |  |
+| Special | **Highway spotlights**: Dalton Hwy north end = flat, snowy, overcast (hill ridge west); Denali Hwy (Cantwell↔Paxson) = E-W gravel Gen2, late summer wildflowers, big mountains; Steese Hwy (Fairbanks↔Central) = similar but noticeably lower mountains; Hwy 5 (Yukon border↔Tetlin Jct) = foggy rainy Gen2 — US side has outer lines & is unpaved east of Chicken (Canadian Top-of-the-World: paved, no outer lines) | [P](https://www.plonkit.net/alaska) |  |
+| Special | **Prudhoe Bay** = northernmost US town w/ coverage: dead cold landscape, overcast, sometimes a 2nd Google car; **Nome, Unalakleet, Galena** = trekker-only towns (lime-green hat or B&W beanie; the B&W bandana appears only in Nome) | [P](https://www.plonkit.net/alaska) |  |
 
 ## Guatemala
 Study: [Plonk It](https://www.plonkit.net/guatemala)
