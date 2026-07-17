@@ -2267,12 +2267,15 @@ Study: [Plonk It](https://www.plonkit.net/gibraltar)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | British Overseas Territory (counts as UK); all **Gen3** w/ a unique long **'Gibraltar antenna'** (silver tip; else only parts of Spain) | [P](https://www.plonkit.net/gibraltar) |  |
-| Country | The **Rock of Gibraltar** — a massive white-limestone mountain — dominates every part of the territory | [P](https://www.plonkit.net/gibraltar) |  |
-| Country | Plates **white front / yellow back** (UK-style) but drives on the **right** (unlike the UK) | [P](https://www.plonkit.net/gibraltar) |  |
-| Country | **English** on signs in a Mediterranean setting (also Malta) | [P](https://www.plonkit.net/gibraltar) |  |
-| Country | Dense pastel buildings w/ **louvered wooden shutters** (green/blue/brown); December coverage → Christmas decorations | [P](https://www.plonkit.net/gibraltar) |  |
-| Special | Famous **Barbary macaques** — the only wild monkeys in Europe; Ibrahim-al-Ibrahim mosque minarets (southernmost mosque in continental Europe) | [P](https://www.plonkit.net/gibraltar) |  |
+| Country | British Overseas Territory at the southern tip of Iberia, bordering Spain — **counts as UK** in country streaks | [P](https://www.plonkit.net/gibraltar) |  |
+| Country | All coverage = **Gen3** w/ a long **'Gibraltar antenna'** with a silver tip | [P](https://www.plonkit.net/gibraltar) |  |
+| Country | The **Rock of Gibraltar**: massive limestone mountain w/ exposed white rock & distinct shape — dominates every part of the territory | [P](https://www.plonkit.net/gibraltar) |  |
+| Country | Plates **white front / yellow back** (UK-style) — but Gibraltar **drives on the RIGHT** (unlike the UK) | [P](https://www.plonkit.net/gibraltar) |  |
+| Country | **English** is the main language — English on official signs in a Mediterranean setting | [P](https://www.plonkit.net/gibraltar) |  |
+| Country | Dense urban, Mediterranean-style pastel buildings w/ **louvered window shutters** (green/blue/brown) | [P](https://www.plonkit.net/gibraltar) |  |
+| Country | All coverage from **December → Christmas decorations** around town | [P](https://www.plonkit.net/gibraltar) |  |
+| Special | **Barbary macaques** — the only wild monkeys in Europe | [P](https://www.plonkit.net/gibraltar) |  |
+| Special | Southern tip: minarets of the **Ibrahim-al-Ibrahim Mosque** — southernmost mosque of continental Europe | [P](https://www.plonkit.net/gibraltar) |  |
 
 ## Monaco
 Study: [Plonk It](https://www.plonkit.net/monaco)

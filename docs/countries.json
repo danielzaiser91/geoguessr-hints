@@ -8145,69 +8145,129 @@
    "hints": [
     {
      "cat": "country",
-     "text": "British Overseas Territory (counts as UK); all **Gen3** w/ a unique long **'Gibraltar antenna'** (silver tip; else only parts of Spain)",
+     "type": "general",
+     "text": "British Overseas Territory at the southern tip of Iberia, bordering Spain — **counts as UK** in country streaks",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "H71R",
+     "img": "e.png"
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "All coverage = **Gen3** w/ a long **'Gibraltar antenna'** with a silver tip",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "4qh7",
      "img": "Gibraltar_antenna.png",
-     "type": "cars"
+     "uniq": "unique*",
+     "uniq_note": "Found nowhere else in Europe EXCEPT parts of Spain — and those parts don't border Gibraltar.",
+     "shared_with": [
+      {
+       "slug": "spain",
+       "note": "The same antenna exists in parts of Spain (not near Gibraltar).",
+       "diff": "English signs + the Rock → Gibraltar."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "The **Rock of Gibraltar** — a massive white-limestone mountain — dominates every part of the territory",
+     "type": "landscape",
+     "text": "The **Rock of Gibraltar**: massive limestone mountain w/ exposed white rock & distinct shape — dominates every part of the territory",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "iBNT",
      "img": "Rock_of_Gibraltar.png",
-     "type": "landscape"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Plates **white front / yellow back** (UK-style) but drives on the **right** (unlike the UK)",
+     "type": "plates",
+     "text": "Plates **white front / yellow back** (UK-style) — but Gibraltar **drives on the RIGHT** (unlike the UK)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "9WAS",
      "img": "Back_plates.png",
-     "type": "plates"
+     "imgs": [
+      "Driving_side.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "UK plates + right-hand traffic together = Gibraltar."
     },
     {
      "cat": "country",
-     "text": "**English** on signs in a Mediterranean setting (also Malta)",
+     "type": "language",
+     "text": "**English** is the main language — English on official signs in a Mediterranean setting",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "iUcf",
      "img": "English_language.png",
-     "type": "language"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "malta",
+       "note": "Malta is the other Mediterranean English-signs place.",
+       "diff": "The Rock + right-hand UK plates → Gibraltar; limestone field walls + triq → Malta."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Dense pastel buildings w/ **louvered wooden shutters** (green/blue/brown); December coverage → Christmas decorations",
+     "type": "arch",
+     "text": "Dense urban, Mediterranean-style pastel buildings w/ **louvered window shutters** (green/blue/brown)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "d95Z",
-     "img": "Gibraltar_architecture.png",
-     "type": "arch"
+     "img": "Gibraltar_architecture.png"
+    },
+    {
+     "cat": "country",
+     "type": "general",
+     "text": "All coverage from **December → Christmas decorations** around town",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "0Ld2",
+     "img": "Christmas_decorations2.png",
+     "uniq": "unique*",
+     "uniq_note": "Christmas decor in a Mediterranean Gen3 round is a strong Gibraltar signal."
     },
     {
      "cat": "special",
-     "text": "Famous **Barbary macaques** — the only wild monkeys in Europe; Ibrahim-al-Ibrahim mosque minarets (southernmost mosque in continental Europe)",
+     "type": "general",
+     "text": "**Barbary macaques** — the only wild monkeys in Europe",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "DOTU",
      "img": "gi_monke.png",
-     "type": "general"
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "arch",
+     "text": "Southern tip: minarets of the **Ibrahim-al-Ibrahim Mosque** — southernmost mosque of continental Europe",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "sCLF",
+     "img": "Mosque.png",
+     "uniq": "unique"
     }
    ]
   },
