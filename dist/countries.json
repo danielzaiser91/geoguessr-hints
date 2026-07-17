@@ -9556,85 +9556,213 @@
    "area_km2": 2166086,
    "links": {
     "plonkit": "https://www.plonkit.net/greenland",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/62face686a6b3898fa1ca37d"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "**50+ small disjoint coverage patches** (densest on the SW coast); all **Gen3 trekker**, often mounted on odd vehicles",
+     "type": "cars",
+     "text": "**50+ small disjoint coverage patches** (densest: southern west coast) — each with own weather/season; all **Gen3 trekker**, often attached to vehicles",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "EyQH",
      "img": "gl_coverage.png",
-     "type": "cars"
+     "super": true
     },
     {
      "cat": "country",
-     "text": "Each town has its **own unique Street View vehicle** (red tractor, snowmobile, ATV…) — the best way to ID the exact town",
+     "type": "cars",
+     "text": "Most locations have their **own odd Street View vehicle** (red tractor, snowmobile w/ box, ATVs…) — the best way to ID the exact town",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Mbzc",
      "img": "gl_vehicles.png",
-     "type": "cars"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Architecture = small, **colourful, simple wooden houses**, sparsely placed even in cities",
+     "type": "arch",
+     "text": "Small, **colourful simple wooden houses**, sparsely placed even in cities; bigger buildings minimalistic",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "otNH",
-     "img": "gl_houses.png",
-     "type": "arch"
+     "img": "gl_houses.png"
     },
     {
      "cat": "country",
-     "text": "Landscape very **barren, treeless, snowy**; mountains/hills + **fjords & coastlines** (nearly all coverage is coastal)",
+     "type": "landscape",
+     "text": "Very **barren**: no trees or tall vegetation, often snow; mountains/hills, almost everything coastal → **fjords & coastline everywhere**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "c8bS",
      "img": "gl_landscape.png",
-     "type": "landscape"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "svalbard",
+       "note": "Similar Arctic barrenness.",
+       "diff": "Colourful wooden houses + trekker vehicles → Greenland; black plates → Svalbard."
+      },
+      {
+       "slug": "iceland",
+       "note": "Treeless volcanic coasts can look similar.",
+       "diff": "Real roads + Gen4 → Iceland; trekker patches → Greenland."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Boat trekkers** are very common (many different boats)",
+     "type": "cars",
+     "text": "**Boat trekkers very common**, many different boats",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "mmU2",
-     "img": "gl_boats.png",
-     "type": "cars"
+     "img": "gl_boats.png"
     },
     {
-     "cat": "region",
-     "text": "**Nuuk** = the largest city + a grey car; **Sisimiut** = black snowmobile (overcast); **Ilulissat** = green ATV (sunny)",
+     "cat": "city",
+     "type": "cars",
+     "text": "**Major towns by vehicle**:",
+     "bullets": [
+      "Nuuk: grey car + by far the largest city",
+      "Sisimiut: black snowmobile w/ straight-up mirrors, very overcast/grey",
+      "Ilulissat: green ATV w/ black bars, driver in beige hat, sunny",
+      "Qaqortoq: red rectangular car, extremely sunny, greener than most",
+      "Aasiaat: windshield w/ shiny red-white-black reflection + big round mirrors, sunny, thawing snow",
+      "Tasiilaq: ATV w/ large grey handguards, thin clouds, somewhat green",
+      "Uummannaq: sharp mountain to the north + green snowmobile w/ big black mirrors",
+      "Narsaq: thin antenna right of the car, sunny, fairly green"
+     ],
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "cDtt",
      "img": "gl_nuuk.png",
-     "type": "naming"
+     "imgs": [
+      "gl_sisimiut.png",
+      "gl_ilulissat.png",
+      "gl_qaqortoq.png",
+      "gl_aasiaat.png",
+      "gl_tasiilaq.png",
+      "gl_uummannaq.png",
+      "gl_narsaq.png"
+     ],
+     "super": true,
+     "uniq": "unique"
     },
     {
-     "cat": "special",
-     "text": "More towns by vehicle: **Qaqortoq** = red car (sunny, greener); **Tasiilaq** = ATV w/ grey handguards; **Uummannaq** = sharp mountain to the north",
+     "cat": "city",
+     "type": "cars",
+     "text": "**Smaller settlements**:",
+     "bullets": [
+      "Maniitsoq: tractor coverage, overcast + snowy",
+      "Narsarsuaq: driver in black hoodie, sunset sun, unusual bushes",
+      "Brattahlíð (across the fjord): black ATV w/ orange-purple bag, tall green grass, reddish dirt",
+      "Qeqertarsuaq: blue ATV w/ wide mirrors, overcast, yellow grass",
+      "Ittoqqortoormiit: brown wooden box on ATV + purple beanie, stony grey ground, sunny",
+      "Igaliku: bright snow-covered range NE + green ATV",
+      "Paamiut: barely-visible round grey car, thin clouds, yellow-green grass + red moss",
+      "Kangerlussuaq: streaky clouds, dry almost arid sandy look; east = big white truck; road to Sisimiut = thick snow, sunset",
+      "Saattut: cloud-shrouded range north across the fjord, muddy paths",
+      "Kulusuk: round red ATV, pyramid mountain NE, dark post-sunset",
+      "Kangaatsiaq: thawing snow, setting sun, water west",
+      "Ikerasak: monolithic mountain west · Ukkusissat: tall cliffside east",
+      "Kuummiit: sharp mountain east + round one north, darkish",
+      "Tiilerilaaq: GREY houses (unusual!) + smooth light-grey rock ground",
+      "Niaqornat: big dark-grey rocks towering · Siorapaluk: sandy pyramid peaks + wide beach ('Pilersuisoq' store)",
+      "Qaanaaq: icebergs SW + bright snowy range behind",
+      "Kapisillit: red-black ATV, snow-dusted mountains",
+      "Kangerluk: evenly tall shaped mountains across the fjord",
+      "East of Nuuk: sharp snow-powdered peaks, dark",
+      "NE of Narsarsuaq: ice blocks in every direction",
+      "Upernavik: covered airport runway = widest paved 'road' in Greenland"
+     ],
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "9zdx",
-     "img": "gl_qaqortoq.png",
-     "type": "general"
+     "anchor": "o1St",
+     "img": "gl_maniitsoq.png",
+     "imgs": [
+      "gl_narsarsuaq.png",
+      "gl_brattahli.png",
+      "gl_qeqertarsuaq.png",
+      "gl_ittoqqortoormiit.png",
+      "gl_igaliku.png",
+      "gl_paamiut.png",
+      "gl_kangerlussuaq.png",
+      "gl_e_kangerlussuaq.png",
+      "gl_w_kangerlussuaq.png",
+      "gl_saattut.png",
+      "gl_kulusuk.png",
+      "gl_kangaatsiaq.png",
+      "gl_ikerasak.png",
+      "gl_ukkusissat.png",
+      "gl_kuummiut.png",
+      "gl_tiilerilaaq.png",
+      "gl_niaqornat.png",
+      "gl_siorapaluk.png",
+      "gl_qaanaaq.png",
+      "gl_kapisillit.png",
+      "gl_kangerluk.png",
+      "gl_nuukeastmountains.png",
+      "gl_iceblocks.png",
+      "gl_upernavikrunway.png"
+     ],
+     "super": true,
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "cars",
+     "text": "**Boat coverage**:",
+     "bullets": [
+      "White cabin + red roof: many west-coast towns, mostly around Aasiaat",
+      "Red square cabin: west coast, esp. around Akunnaaq",
+      "Black box + chequered bow + captain in black coat: NE coast (foggy west, sunny east)",
+      "Bright red boat: east coast near Tiilerilaaq (clear) & Kuummiit (overcast)",
+      "Black-white boat w/ blue roof: Kuummiit↔Tasiilaq",
+      "White boat w/ brown wooden top + instruments: Tiilerilaaq↔Tasiilaq",
+      "Small rounded red bow: south of Tasiilaq",
+      "Red-black boat w/ several people: far-north east-coast fjord",
+      "Wooden fishing boat: outside Ilulissat",
+      "White boat w/ silver bow handrail: west of Narsaq (sun west) / east of Qaqortoq (sun east)",
+      "Large all-white boat: off Narsarsuaq",
+      "Grey boat: east of Nuuk; white boat w/ very tall rear antennas: fjord east of Nuuk"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "35Vi",
+     "img": "gl_boatwestcoast1.png",
+     "imgs": [
+      "gl_boatwestcoast2.png",
+      "gl_boatittoqqortoormiit.png",
+      "gl_boattiilerilaaq.png",
+      "gl_boatkuummiit.png",
+      "gl_boatikateq.png",
+      "gl_boattasiilaq.png",
+      "gl_boatNE.png",
+      "gl_boatilulissat.png",
+      "gl_boatnarsaq.png",
+      "gl_boatnarsarsuaq.png",
+      "gl_boatnuuk.png",
+      "gl_boatnuukNE.png"
+     ],
+     "super": true,
+     "uniq": "unique"
     }
    ]
   },

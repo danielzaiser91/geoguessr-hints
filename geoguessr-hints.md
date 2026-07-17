@@ -2441,17 +2441,18 @@ Study: [Plonk It](https://www.plonkit.net/usa) · [GeoGuessr map](https://www.ge
 | Special | **National parks**: | [P](https://www.plonkit.net/usa) |  |
 
 ## Greenland
-Study: [Plonk It](https://www.plonkit.net/greenland)
+Study: [Plonk It](https://www.plonkit.net/greenland) · [GeoGuessr map](https://www.geoguessr.com/maps/62face686a6b3898fa1ca37d)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | **50+ small disjoint coverage patches** (densest on the SW coast); all **Gen3 trekker**, often mounted on odd vehicles | [P](https://www.plonkit.net/greenland) |  |
-| Country | Each town has its **own unique Street View vehicle** (red tractor, snowmobile, ATV…) — the best way to ID the exact town | [P](https://www.plonkit.net/greenland) |  |
-| Country | Architecture = small, **colourful, simple wooden houses**, sparsely placed even in cities | [P](https://www.plonkit.net/greenland) |  |
-| Country | Landscape very **barren, treeless, snowy**; mountains/hills + **fjords & coastlines** (nearly all coverage is coastal) | [P](https://www.plonkit.net/greenland) |  |
-| Country | **Boat trekkers** are very common (many different boats) | [P](https://www.plonkit.net/greenland) |  |
-| Region | **Nuuk** = the largest city + a grey car; **Sisimiut** = black snowmobile (overcast); **Ilulissat** = green ATV (sunny) | [P](https://www.plonkit.net/greenland) |  |
-| Special | More towns by vehicle: **Qaqortoq** = red car (sunny, greener); **Tasiilaq** = ATV w/ grey handguards; **Uummannaq** = sharp mountain to the north | [P](https://www.plonkit.net/greenland) |  |
+| Country | **50+ small disjoint coverage patches** (densest: southern west coast) — each with own weather/season; all **Gen3 trekker**, often attached to vehicles | [P](https://www.plonkit.net/greenland) |  |
+| Country | Most locations have their **own odd Street View vehicle** (red tractor, snowmobile w/ box, ATVs…) — the best way to ID the exact town | [P](https://www.plonkit.net/greenland) |  |
+| Country | Small, **colourful simple wooden houses**, sparsely placed even in cities; bigger buildings minimalistic | [P](https://www.plonkit.net/greenland) |  |
+| Country | Very **barren**: no trees or tall vegetation, often snow; mountains/hills, almost everything coastal → **fjords & coastline everywhere** | [P](https://www.plonkit.net/greenland) |  |
+| Country | **Boat trekkers very common**, many different boats | [P](https://www.plonkit.net/greenland) |  |
+| City | **Major towns by vehicle**: | [P](https://www.plonkit.net/greenland) |  |
+| City | **Smaller settlements**: | [P](https://www.plonkit.net/greenland) |  |
+| Special | **Boat coverage**: | [P](https://www.plonkit.net/greenland) |  |
 
 ## Mexico
 Study: [Plonk It](https://www.plonkit.net/mexico) · [GeoGuessr map](https://www.geoguessr.com/maps/63382d2cc00816fde6cd69b6)
