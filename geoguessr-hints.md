@@ -1667,16 +1667,19 @@ Study: [Plonk It](https://www.plonkit.net/iceland)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Gen4 = red & white **pickup trucks** (well blurred); Gen3 = white car w/ a long antenna | [P](https://www.plonkit.net/iceland) |  |
-| Country | Plates **fully white w/ blue characters, no blue strip** on the left | [P](https://www.plonkit.net/iceland) |  |
-| Country | **Unique yellow bollards w/ a white reflector** — extremely common on almost every rural road | [P](https://www.plonkit.net/iceland) |  |
-| Country | Landscape **barren, treeless, dark grey volcanic soil** — looks like nowhere else in Northern Europe | [P](https://www.plonkit.net/iceland) |  |
-| Country | Geologically active: lava fields, rift valleys, geothermal lakes, rugged towering mountains | [P](https://www.plonkit.net/iceland) |  |
-| Country | Direction signs **yellow w/ a white inset box** for road numbers (dashed border = a nearby road, not yours) | [P](https://www.plonkit.net/iceland) |  |
-| Country | **Icelandic**: unique letters **ð þ æ** (Ð); vowel accents á é í ó ö ú ý | [P](https://www.plonkit.net/iceland) |  |
-| Country | Pedestrian signs **4 stripes w/ a yellow tint** — Iceland is the only European country w/ yellow-bg pedestrian signs; chevrons black/yellow | [P](https://www.plonkit.net/iceland) |  |
-| Country | Street signs white bg/black text on lampposts; **all-white road lines** (no yellow → if yellow in a Nordic scene, think Norway/Finland) | [P](https://www.plonkit.net/iceland) |  |
-| State | Sparse coverage (densest SW); **ring road = 1**; other roads' **first digit = region, clockwise 2 (south) → 9**; red pickup SW / white NE; Westfjords = flat-top mountains | [P](https://www.plonkit.net/iceland) |  |
+| Country | Gen4 = **red & white pickup trucks** (well blurred); Gen3 = white car w/ long antenna | [P](https://www.plonkit.net/iceland) |  |
+| Country | Plates fully white w/ blue characters, **no EU strip** | [P](https://www.plonkit.net/iceland) |  |
+| Country | **Yellow bollards w/ white reflector** — on almost every rural road | [P](https://www.plonkit.net/iceland) |  |
+| Country | **Barren & treeless**, dark grey volcanic soil — looks like nowhere else in Northern Europe; geothermal lakes, lava fields, rifts, rock towers | [P](https://www.plonkit.net/iceland) |  |
+| Country | Direction signs **yellow** w/ white road-number inset (dashed border = nearby road, not yours; farm signs blue/white) | [P](https://www.plonkit.net/iceland) |  |
+| Country | Pedestrian signs: 4 stripes on a **yellow background** — Europe's only yellow ped signs | [P](https://www.plonkit.net/iceland) |  |
+| Country | **Icelandic: ð/Ð þ æ** + accented vowels (á é í ó ö ú ý) | [P](https://www.plonkit.net/iceland) |  |
+| Country | Street signs white/black w/ thin metal rim on lampposts; **all-white road lines** (yellow lines → think Norway/Finland); chevrons black w/ yellow arrows (NO/FI similar); signs w/ yellow background (like SE/FI) | [P](https://www.plonkit.net/iceland) |  |
+| Region | Sparse coverage (densest SW; few interior roads); **road numbers**: ring road = 1; first digit regional, **2 (south) → 9 clockwise** | [P](https://www.plonkit.net/iceland) |  |
+| Region | **Westfjords** = narrow fjords + flat-topped mountains; **east fjords** = larger, more jagged peaks; valleys west of Akureyri face N/NE between snowy peaks; inland = dark volcanic gravel deserts (mostly east); SW = flat farmland w/ distant mountains; Eiðar valley = hilly farms + snowy peaks both sides; Hallormsstaður = NE-SW valley w/ river + **unusually many trees**; Selfoss = lone flat-ridge mountain | [P](https://www.plonkit.net/iceland) |  |
+| Region | **Pickup colour splits the country**: red = southwest, white = northeast | [P](https://www.plonkit.net/iceland) |  |
+| City | **Reykjavík** = the only 'big city' feel, flat on a bay's south side; **Akureyri** = 2nd city in a N-S valley w/ mountains east AND west | [P](https://www.plonkit.net/iceland) |  |
+| Special | **Spotlights**: Vatnajökull glaciers visible from the southern ring road; only a handful of divided/3+-lane highways (mapped); **Heimaey** = ragged cliffs over Vestmannaeyjabær; very foggy coverage → Bakkagerði (NE) | [P](https://www.plonkit.net/iceland) |  |
 
 ## Hungary
 Study: [Plonk It](https://www.plonkit.net/hungary) · [GeoGuessr map](https://www.geoguessr.com/maps/63cc53e78a3419bffd7e53bd)
