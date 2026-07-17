@@ -8314,138 +8314,261 @@
    "area_km2": 93028,
    "links": {
     "plonkit": "https://www.plonkit.net/hungary",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/63cc53e78a3419bffd7e53bd"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Plate long white (2022+ format has the coat of arms); **taxi = yellow**",
+     "type": "plates",
+     "text": "Plates long white (2022+ format w/ coat of arms); taxis = yellow, EVs = green",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "A2Fx",
-     "img": "Hungary_License_Plate.png",
-     "type": "plates"
+     "img": "Hungary_License_Plate.png"
     },
     {
      "cat": "country",
-     "text": "Bollards B&W wedge-shaped, **red front / white back reflector** (blue common too); Croatia's are thinner w/ reflector higher up",
+     "type": "bollards",
+     "text": "Bollards b&w wedge-shaped, **red front reflector** (blue also common), white back",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "PvaK",
      "img": "hu_bollard.png",
-     "type": "bollards"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "croatia",
+       "note": "Very similar — but reflector nearer the top + thinner.",
+       "diff": "Croatian (č ć đ š ž) → Croatia; ő ű → Hungary."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Concrete **holey poles** with thin holes reaching the ground; wooden poles also common",
+     "type": "utility",
+     "text": "Concrete **holey poles w/ thin holes down to the ground**; wooden poles too",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "dM2y",
      "img": "hu_pole.png",
-     "type": "utility"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "poland",
+       "note": "Polish holey poles lack bottom holes + are thin.",
+       "diff": "Ground-level holes → Hungary.",
+       "img": "Poland-poles-comp2.png"
+      },
+      {
+       "slug": "romania",
+       "note": "Romanian holes are much wider or taller.",
+       "diff": "Thin holes → Hungary.",
+       "img": "ro_holeypole.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Chevrons **white on red**",
+     "type": "signs",
+     "text": "Chevrons **white on red** (b&w rarer)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Vhaj",
-     "img": "hu_chevron.png",
-     "type": "signs"
+     "img": "hu_chevron.png"
     },
     {
      "cat": "country",
-     "text": "**Hungarian**: many acute accents, umlauts, long words; **Ő Ű** (double acute) unique to the language",
+     "type": "language",
+     "text": "**Hungarian**: many acute accents, ö/ü umlauts, long words — **Ő Ű (double acutes) unique**; also spoken in central Romania + southern Slovakia",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "g7PT",
      "img": "hu_language.png",
-     "type": "language"
+     "uniq": "unique*",
+     "uniq_note": "Ő/Ű exist only in Hungarian — but Hungarian signage also appears in central Romania and S-Slovakia, so confirm with infrastructure."
     },
     {
      "cat": "country",
-     "text": "Street names end in **utca** (street) or **út** (road) — both unique to Hungarian",
+     "type": "naming",
+     "text": "Street names end **utca** (big roads: **út**) — unique words for 'street'",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "3LxD",
      "img": "hu_streetnames.png",
-     "type": "naming"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Green **km markers**; **abnormally tall sign posts**; signs held by **4 bolts** in a tall rectangle (rare elsewhere in E. Europe)",
+     "type": "signs",
+     "text": "**Green km markers** along most roads (highway numbers match the yellow exit boxes on the map)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "eBWy",
-     "img": "hu_roadmarkers.png",
-     "type": "signs"
+     "img": "hu_roadmarkers.png"
     },
     {
      "cat": "country",
-     "text": "Pedestrian sign **5 stripes, belt very low** ('sagging pants') — unique to Hungary",
+     "type": "signs",
+     "text": "Sign posts **abnormally tall** (often above camera height); signs bolted w/ **4 through-bolts in a tall rectangle** (not common elsewhere in Eastern Europe)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "N7yw",
+     "img": "hu_signpostheight.png",
+     "imgs": [
+      "hu_signbolts.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "The 4-bolt rectangle is Norway-like but unique within Eastern Europe."
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Pedestrian sign: 5 stripes + person w/ **belt sagging noticeably LOW** — unique detail (variant: 4 stripes + bag)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Tbty",
      "img": "hu_pedestriansign.png",
-     "type": "signs"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Road numbers in a **shield shape**; directional signs green (M-highways = blue)",
+     "type": "signs",
+     "text": "Numbered roads in a small **shield** on green signs (highways 'M' on blue); directional signs green (or blue on M) w/ double border",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "XwNR",
-     "img": "hu_directionalsigns.png",
-     "type": "signs"
+     "anchor": "s2B8",
+     "img": "hu_roadshield.png",
+     "imgs": [
+      "hu_directionalsigns.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Gen3 antenna often has a small **grey flag** (also CZ/SK/RO/BG); grey dead-looking **winter** Gen3; black Gen4 (no antenna)",
+     "type": "cars",
+     "text": "Gen3: **grey flag on the antenna** (also CZ/SK/RO/BG); Gen4 white or **antenna-less black** car; most Gen3 = grey dead **winter** (also CZ/BG)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "jEV4",
      "img": "hu_flagantenna.png",
-     "type": "cars"
+     "imgs": [
+      "Screenshot (621).png",
+      "Screenshot (623).png",
+      "hu_winter.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Houses stone, light-painted, almost always **red tiled roofs**, single-storey suburbs; bike-lane lines are **yellow**",
+     "type": "arch",
+     "text": "Light-painted stone houses, almost always **red tiled roofs**; suburbs single-storey; centres older but well-kept",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "94Xz",
-     "img": "hu_houses.png",
-     "type": "arch"
+     "img": "hu_houses.png"
     },
     {
-     "cat": "region",
-     "text": "Road **first digit = a circle around Budapest**; SE very flat (Puszta grasslands), N/W = forested hills; **Lake Balaton** = only large lake, touristy",
+     "cat": "country",
+     "type": "markings",
+     "text": "Road lines all-white — but **bicycle lanes use yellow lines**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "naming"
+     "anchor": "NJDC",
+     "img": "hu_bicyclelanelines.png"
+    },
+    {
+     "cat": "region",
+     "type": "naming",
+     "text": "**Area codes** (2 digits; Budapest = 1); **road-number first digit circles around Budapest**; town-name **prefix map** (local prefixes)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "1y8d",
+     "img": "hu_areacodes.png",
+     "imgs": [
+      "hu_roadnumbers.png",
+      "hu_townnameprefixes.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "signs",
+     "text": "Street sign w/ **thick metal frame** → west; blue/green **arrow street signs on utility poles** → Szabolcs-Szatmár-Bereg (Dunakeszi's are on blue posts)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "xpQW",
+     "img": "hu_streetsignmetalframe.png",
+     "imgs": [
+      "hu_bluegreenarrowstreetsignsonutilitypolesthistitleistoodamnlong.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**SE = pancake-flat**; north+west = forested hills/mountains (tallest north); **Lake Balaton** = the only big lake — hilly, touristy, hotel-dense; **Puszta** (Hortobágy) = barren wet natural grassland (rest of the plains = cultivated)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Ad5o",
+     "img": "hu_mountains.png",
+     "imgs": [
+      "hu_balaton.png",
+      "hu_puszta.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "city",
+     "type": "signs",
+     "text": "**Street-sign city metas**: infographic covers the 10 biggest towns w/ unique designs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "gMof",
+     "img": "hu_streetsigns.png",
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "Road east of **Tornanadaska** (Slovak border): snow on/along the road + bollards + railway right beside",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "ZEB9",
+     "img": "hu_snowroad.png",
+     "uniq": "unique"
     }
    ]
   },

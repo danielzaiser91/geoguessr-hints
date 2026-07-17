@@ -1667,22 +1667,28 @@ Study: [Plonk It](https://www.plonkit.net/iceland)
 | State | Sparse coverage (densest SW); **ring road = 1**; other roads' **first digit = region, clockwise 2 (south) → 9**; red pickup SW / white NE; Westfjords = flat-top mountains | [P](https://www.plonkit.net/iceland) |  |
 
 ## Hungary
-Study: [Plonk It](https://www.plonkit.net/hungary)
+Study: [Plonk It](https://www.plonkit.net/hungary) · [GeoGuessr map](https://www.geoguessr.com/maps/63cc53e78a3419bffd7e53bd)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plate long white (2022+ format has the coat of arms); **taxi = yellow** | [P](https://www.plonkit.net/hungary) |  |
-| Country | Bollards B&W wedge-shaped, **red front / white back reflector** (blue common too); Croatia's are thinner w/ reflector higher up | [P](https://www.plonkit.net/hungary) |  |
-| Country | Concrete **holey poles** with thin holes reaching the ground; wooden poles also common | [P](https://www.plonkit.net/hungary) |  |
-| Country | Chevrons **white on red** | [P](https://www.plonkit.net/hungary) |  |
-| Country | **Hungarian**: many acute accents, umlauts, long words; **Ő Ű** (double acute) unique to the language | [P](https://www.plonkit.net/hungary) |  |
-| Country | Street names end in **utca** (street) or **út** (road) — both unique to Hungarian | [P](https://www.plonkit.net/hungary) |  |
-| Country | Green **km markers**; **abnormally tall sign posts**; signs held by **4 bolts** in a tall rectangle (rare elsewhere in E. Europe) | [P](https://www.plonkit.net/hungary) |  |
-| Country | Pedestrian sign **5 stripes, belt very low** ('sagging pants') — unique to Hungary | [P](https://www.plonkit.net/hungary) |  |
-| Country | Road numbers in a **shield shape**; directional signs green (M-highways = blue) | [P](https://www.plonkit.net/hungary) |  |
-| Country | Gen3 antenna often has a small **grey flag** (also CZ/SK/RO/BG); grey dead-looking **winter** Gen3; black Gen4 (no antenna) | [P](https://www.plonkit.net/hungary) |  |
-| Country | Houses stone, light-painted, almost always **red tiled roofs**, single-storey suburbs; bike-lane lines are **yellow** | [P](https://www.plonkit.net/hungary) |  |
-| Region | Road **first digit = a circle around Budapest**; SE very flat (Puszta grasslands), N/W = forested hills; **Lake Balaton** = only large lake, touristy | [P](https://www.plonkit.net/hungary) |  |
+| Country | Plates long white (2022+ format w/ coat of arms); taxis = yellow, EVs = green | [P](https://www.plonkit.net/hungary) |  |
+| Country | Bollards b&w wedge-shaped, **red front reflector** (blue also common), white back | [P](https://www.plonkit.net/hungary) |  |
+| Country | Concrete **holey poles w/ thin holes down to the ground**; wooden poles too | [P](https://www.plonkit.net/hungary) |  |
+| Country | Chevrons **white on red** (b&w rarer) | [P](https://www.plonkit.net/hungary) |  |
+| Country | **Hungarian**: many acute accents, ö/ü umlauts, long words — **Ő Ű (double acutes) unique**; also spoken in central Romania + southern Slovakia | [P](https://www.plonkit.net/hungary) |  |
+| Country | Street names end **utca** (big roads: **út**) — unique words for 'street' | [P](https://www.plonkit.net/hungary) |  |
+| Country | **Green km markers** along most roads (highway numbers match the yellow exit boxes on the map) | [P](https://www.plonkit.net/hungary) |  |
+| Country | Sign posts **abnormally tall** (often above camera height); signs bolted w/ **4 through-bolts in a tall rectangle** (not common elsewhere in Eastern Europe) | [P](https://www.plonkit.net/hungary) |  |
+| Country | Pedestrian sign: 5 stripes + person w/ **belt sagging noticeably LOW** — unique detail (variant: 4 stripes + bag) | [P](https://www.plonkit.net/hungary) |  |
+| Country | Numbered roads in a small **shield** on green signs (highways 'M' on blue); directional signs green (or blue on M) w/ double border | [P](https://www.plonkit.net/hungary) |  |
+| Country | Gen3: **grey flag on the antenna** (also CZ/SK/RO/BG); Gen4 white or **antenna-less black** car; most Gen3 = grey dead **winter** (also CZ/BG) | [P](https://www.plonkit.net/hungary) |  |
+| Country | Light-painted stone houses, almost always **red tiled roofs**; suburbs single-storey; centres older but well-kept | [P](https://www.plonkit.net/hungary) |  |
+| Country | Road lines all-white — but **bicycle lanes use yellow lines** | [P](https://www.plonkit.net/hungary) |  |
+| Region | **Area codes** (2 digits; Budapest = 1); **road-number first digit circles around Budapest**; town-name **prefix map** (local prefixes) | [P](https://www.plonkit.net/hungary) |  |
+| Region | Street sign w/ **thick metal frame** → west; blue/green **arrow street signs on utility poles** → Szabolcs-Szatmár-Bereg (Dunakeszi's are on blue posts) | [P](https://www.plonkit.net/hungary) |  |
+| Region | **SE = pancake-flat**; north+west = forested hills/mountains (tallest north); **Lake Balaton** = the only big lake — hilly, touristy, hotel-dense; **Puszta** (Hortobágy) = barren wet natural grassland (rest of the plains = cultivated) | [P](https://www.plonkit.net/hungary) |  |
+| City | **Street-sign city metas**: infographic covers the 10 biggest towns w/ unique designs | [P](https://www.plonkit.net/hungary) |  |
+| Special | Road east of **Tornanadaska** (Slovak border): snow on/along the road + bollards + railway right beside | [P](https://www.plonkit.net/hungary) |  |
 
 ## Portugal
 Study: [Plonk It](https://www.plonkit.net/portugal) · [GeoGuessr map](https://www.geoguessr.com/maps/6484b2a40404933187c284b2)
