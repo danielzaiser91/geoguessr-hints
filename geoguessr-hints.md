@@ -1284,23 +1284,30 @@ Study: [Plonk It](https://www.plonkit.net/russia) · [GeoGuessr map](https://www
 | Special | **Baikal & south spotlights** | [P](https://www.plonkit.net/russia) |  |
 
 ## Ukraine
-Study: [Plonk It](https://www.plonkit.net/ukraine)
+Study: [Plonk It](https://www.plonkit.net/ukraine) · [GeoGuessr map](https://www.geoguessr.com/maps/65d8c274811075137ed28c01)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plate white + **blue-and-yellow strip left** (flag colours) — Russia = fully white, no strip | [P](https://www.plonkit.net/ukraine) |  |
-| Country | All coverage is **Gen3**, mostly a **red Google car** (~unique to Ukraine); no antenna → consider Ukraine (Russia's Gen3 always has an antenna, & has Gen2/Gen4) | [P](https://www.plonkit.net/ukraine) |  |
-| Country | Some of the **worst roads in Europe** (potholes, warped pavement) — good vs Russia; random objects painted **blue-yellow** (fences) | [P](https://www.plonkit.net/ukraine) |  |
-| Country | Ukrainian Cyrillic w/ unique **Є Ґ І Ї**; street = вулиця (вул.), city = місто (м.) | [P](https://www.plonkit.net/ukraine) |  |
-| Country | Square concrete poles (post-Soviet) often w/ **diagonal support beams**; wooden poles w/ concrete base blocks | [P](https://www.plonkit.net/ukraine) |  |
-| Country | Red chevrons w/ white arrows (like Russia/Estonia); pedestrian sign **3 stripes**; white town-entry signs | [P](https://www.plonkit.net/ukraine) |  |
-| Country | B&W painted guardrails; big **Soviet-era apartment blocks** (grey brick, rundown); fenced brick single-family homes | [P](https://www.plonkit.net/ukraine) |  |
-| Country | Rural vibe: bad road, flat/slightly hilly, tree line + wide open fields, low traffic, **summer green** foliage | [P](https://www.plonkit.net/ukraine) |  |
-| Country | Tall **poplar trees** common in many parts (most of Russia lacks them) | [P](https://www.plonkit.net/ukraine) |  |
-| Region | Coverage mostly urban + main (yellow) roads; almost none in the SE (except Donetsk) or south of Odesa | [P](https://www.plonkit.net/ukraine) |  |
-| Region | **Carpathian Mtns** (west) = hillier/forested, pine, curvy roads; Baltic pines (orange-red bark) → north near Belarus; arider south | [P](https://www.plonkit.net/ukraine) |  |
-| State | Landline **2-digit area code per oblast**; **plate first two letters = oblast** (codes non-intuitive → learn them) | [P](https://www.plonkit.net/ukraine) |  |
-| Special | 5 cities have **2011 autumn coverage** (long antenna): black car = Donetsk (no newer coverage!), white car = Lviv/Kyiv/Kharkiv (rare now) | [P](https://www.plonkit.net/ukraine) |  |
+| Country | Plates white + **blue-yellow strip left** (flag colours; old plates: strip hard to see) | [P](https://www.plonkit.net/ukraine) |  |
+| Country | All coverage **Gen3**, mostly a **RED Google car** (± antenna; colour sometimes visible via blur glitch) | [P](https://www.plonkit.net/ukraine) |  |
+| Country | Rarer cars: black long-antenna, white long-antenna, grey short-antenna (regional — see below) | [P](https://www.plonkit.net/ukraine) |  |
+| Country | Some of **Europe's worst roads** — potholes, cracks, warped pavement (Russia's are generally better) | [P](https://www.plonkit.net/ukraine) |  |
+| Country | Random roadside objects (esp. fences) painted **blue-and-yellow** | [P](https://www.plonkit.net/ukraine) |  |
+| Country | **Ukrainian Cyrillic**: unique letters **Є Ґ І Ї** (vs Russian); street = **вулиця (вул.)**, city = **місто (м.)** (Russian: улица/ул., город/г.) | [P](https://www.plonkit.net/ukraine) |  |
+| Country | Square concrete poles (varied tops, white-painted bottoms) + **diagonal support beams**; wooden poles w/ concrete base blocks — post-Soviet kit (RU/LT similar) | [P](https://www.plonkit.net/ukraine) |  |
+| Country | Chevrons **red w/ white arrows** (same in RU/EE); pedestrian signs **3 stripes** (also RU/EE/LT); white town-entry signs; **B&W-painted guardrails** (like Russia) | [P](https://www.plonkit.net/ukraine) |  |
+| Country | Soviet apartment blocks of **light-grey brick, rundown** (Baltic versions better kept); suburbs = fenced brick single-family houses, heavy vegetation, unpaved roads, corrugated roofs | [P](https://www.plonkit.net/ukraine) |  |
+| Country | **Rural vibe**: bad road + flat/slightly hilly + tree line then open fields + no infrastructure + no traffic; almost all coverage = **summer**; tall **poplars** common (most of Russia lacks them); ultra-rural tracks near cities exist despite the urban+main-road coverage rule | [P](https://www.plonkit.net/ukraine) |  |
+| Region | **Coverage map**: mostly cities + yellow roads; almost nothing in the SE (except Donetsk) and south of Odesa near Romania | [P](https://www.plonkit.net/ukraine) |  |
+| Region | **Area codes** per oblast (3rd digit 2 = oblast capital); **plate letter codes = oblast** (non-intuitive, learnable); oblast **second-level domains** (.te.ua = Ternopil) mostly intuitive | [P](https://www.plonkit.net/ukraine) |  |
+| Region | **May coverage** (yellowish leaf tint) → western half; **2011 autumn coverage** in 5 cities: Kyiv/Lviv/Kharkiv (mostly overwritten, white car), **Odesa** (mostly intact, silver short-antenna car), **Donetsk** (ONLY 2011, black long-antenna car — red car = never Donetsk) | [P](https://www.plonkit.net/ukraine) |  |
+| Region | **Carpathians** (west): hilly-mountainous, forested, pines, curvy roads; **Baltic-pine forests** → north near Belarus (flat!); **south** = warmer, drier, shrubs + open fields; blooming **sunflowers** → far south + east (Kherson/Mykolaiv/Odesa; T0403 to Nova Kakhovka) | [P](https://www.plonkit.net/ukraine) |  |
+| Region | **Russian language** → east + south (Ы/Э, ул., г.) | [P](https://www.plonkit.net/ukraine) |  |
+| Region | **Hungarian border area**: bilingual/monolingual Hungarian signs + Hungarian-style linear villages (single-storey, orange or diamond-slate roofs) | [P](https://www.plonkit.net/ukraine) |  |
+| Special | **Car metas**: leaf on the car's back → Ternopil↔Zolochiv/Brody/Dubno roads (H02/P39/E40/P26/E85); visual glitch → only Ivano-Frankivsk; yellow **Opel flag on the antenna** → one side of the Chernobyl road | [P](https://www.plonkit.net/ukraine) |  |
+| Special | **Red soil** on mine tracks + Brazil-style poles (bait! foliage isn't tropical + long antenna); poles w/ **red band** unique to Kryvyi Rih | [P](https://www.plonkit.net/ukraine) |  |
+| Special | **Sunflower bus shelters** (yellow-green, 'Оліс' brand) → Mykolaiv + Kherson oblasts; **'Polish' bollards** (wrap-around red reflector) → Zakarpattia | [P](https://www.plonkit.net/ukraine) |  |
+| Special | Special car trekker Ivankiv → **Pripyat**: inside Pripyat = abandoned, overgrown, eerie buildings | [P](https://www.plonkit.net/ukraine) |  |
 
 ## France
 Study: [Plonk It](https://www.plonkit.net/france) · [GeoGuessr map](https://www.geoguessr.com/maps/66338d3804309d08d22387c0)
