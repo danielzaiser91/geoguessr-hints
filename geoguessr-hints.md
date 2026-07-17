@@ -1645,17 +1645,22 @@ Study: [Plonk It](https://www.plonkit.net/bulgaria)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plate standard European (blue strip left) | [P](https://www.plonkit.net/bulgaria) |  |
-| Country | **Cyrillic** (Latin often too on signs); letter **Ъ** (only Bulgarian & Russian); street = улица (ul.) | [P](https://www.plonkit.net/bulgaria) |  |
-| Country | Cylindrical concrete poles; poletop w/ **3 large alternating upward-hook insulators** is ~unique to Bulgaria | [P](https://www.plonkit.net/bulgaria) |  |
-| Country | Chevrons **red on white** (like RO/TR/MK); directional & town signs show **two lines** (Cyrillic + Latin) — visible even from afar | [P](https://www.plonkit.net/bulgaria) |  |
-| Country | Pedestrian sign = **4 stripes, person wears a hat** (no other E/Central-European sign has 4 stripes) | [P](https://www.plonkit.net/bulgaria) |  |
-| Country | Bollards are **rare** & generic (red front / white back, inconsistent shape) | [P](https://www.plonkit.net/bulgaria) |  |
-| Country | **Thin road lines** (Romania's are thick); generally poor road quality w/ cracks & potholes | [P](https://www.plonkit.net/bulgaria) |  |
-| Country | Orange tiled roofs w/ **uneven mortar patches** (famously rough-looking); distinctive metallic trash bins | [P](https://www.plonkit.net/bulgaria) |  |
-| Country | Gen3 mostly **March/April dead 'winter' look**; grey-tape **'flag antenna'**; Gen4 blue/red/black cars (red → central/SE) | [P](https://www.plonkit.net/bulgaria) |  |
-| Region | **Balkan Mtns** split the country N/S (flat north to Romania); **Rhodope/Pirin/Rila** = highest peaks (S/SW); **area codes ordered by first digit** | [P](https://www.plonkit.net/bulgaria) |  |
-| Special | **Nessebar/Sozopol** old towns (stone + white walls + wood, cobbled streets); Sofia = white signs w/ two red strips; Stara Zagora = brown signs w/ yellow text | [P](https://www.plonkit.net/bulgaria) |  |
+| Country | Plates standard European (blue strip left) | [P](https://www.plonkit.net/bulgaria) |  |
+| Country | **Cyrillic — but very often paired with Latin** transliterations; **Ъ** only Bulgarian & (rarely) Russian; street = улица (ул.) | [P](https://www.plonkit.net/bulgaria) |  |
+| Country | Gen4 cars: blue (pan-European), **red** (also LV/LT/RU/SK/SE) or black (also GR/HR) — ± antenna, sometimes hidden; Gen3 = mostly **March/April dead-'winter'** look + grey-tape **'flag antenna'** | [P](https://www.plonkit.net/bulgaria) |  |
+| Country | Cylindrical concrete poles (+ladder variant, wooden); most poletops = small **alternating hook insulators**; **3 large upward-hook insulators ≈ unique to Bulgaria** (downward variant exists) | [P](https://www.plonkit.net/bulgaria) |  |
+| Country | Chevrons red-on-white (also RO/TR/MK; GR/RS = black-white); directional + town signs show **two lines (Cyrillic + Latin)** — visible even from afar | [P](https://www.plonkit.net/bulgaria) |  |
+| Country | Pedestrian sign: **4 stripes + person wearing a hat** — no other Eastern/Central-European sign has 4 stripes | [P](https://www.plonkit.net/bulgaria) |  |
+| Country | Bollards **rare** & generic (red front/white back, inconsistent shape — ≈ HR/HU designs) | [P](https://www.plonkit.net/bulgaria) |  |
+| Country | **Thin road lines** (Romania: much thicker); road quality fairly poor (cracks, potholes) | [P](https://www.plonkit.net/bulgaria) |  |
+| Country | Orange tiled roofs w/ **mortar patches along corner tiles** — famously uneven, 'poorly built' look | [P](https://www.plonkit.net/bulgaria) |  |
+| Country | **Metallic trash bins** of a distinct shape (also TR/RS/AL/MK) | [P](https://www.plonkit.net/bulgaria) |  |
+| Region | **Balkan range splits the country**: flat north to Romania; **Rhodope** SE w/ highest peaks; second flat area between the ranges; west = small valleys in hills | [P](https://www.plonkit.net/bulgaria) |  |
+| Region | **Area codes ordered by first digit** — the single best urban region clue | [P](https://www.plonkit.net/bulgaria) |  |
+| Region | **Pirin & Rila NP**: pyramid peaks visible from Blagoevgrad/Kyustendil/Sofia provinces; wind turbines → Dobrich coast; Alpine-look houses → Smolyan region | [P](https://www.plonkit.net/bulgaria) |  |
+| Region | **Car metas**: invisible Gen4 car → N+W borders + northern coast; red Gen4 → central + SE; short tape antenna → east (never Vratsa/Montana/Pazardzhik/Smolyan); taped LONG antenna + white car → Stara Zagora (+rare Plovdiv/Burgas); bulky unpeeled-tape antenna + March coverage → **Varna** | [P](https://www.plonkit.net/bulgaria) |  |
+| City | **Sofia**: white street signs w/ two red strips (others exist); **Stara Zagora**: brown signs w/ bright yellow text | [P](https://www.plonkit.net/bulgaria) |  |
+| Special | **Vratsa**: distinct 'bumpy' mountains SW of the city; **Nessebar/Sozopol** old towns = unpainted stone + white walls + brown wood + cobblestone | [P](https://www.plonkit.net/bulgaria) |  |
 
 ## Iceland
 Study: [Plonk It](https://www.plonkit.net/iceland)
