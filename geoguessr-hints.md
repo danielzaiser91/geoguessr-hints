@@ -1732,16 +1732,18 @@ Study: [Plonk It](https://www.plonkit.net/serbia)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Bollards: most have an **off-centred reflector** and are flat (no depth) | [P](https://www.plonkit.net/serbia) |  |
-| Country | **B-Profile guardrails** used exclusively (North Macedonia does not use them) | [P](https://www.plonkit.net/serbia) |  |
-| Country | Chevrons = **black arrow on white** (also Slovenia/Montenegro/N. Macedonia) | [P](https://www.plonkit.net/serbia) |  |
-| Country | Plate white + blue strip left; **agricultural plates green** (Croatia/N. Macedonia usually have no strip) | [P](https://www.plonkit.net/serbia) |  |
-| Country | **Serbian** uses both Cyrillic & Latin; unique **Ђ Ћ**; in Latin: Č Ć Đ Š Ž | [P](https://www.plonkit.net/serbia) |  |
-| Country | 4 different **truck colours** by area; smallcam; Gen3 mostly **no antenna** (rare for central/E. Europe) | [P](https://www.plonkit.net/serbia) |  |
-| Region | Coverage mostly **Vojvodina (north)**, around **Belgrade**, and **Niš (SE)**; Kosovo has none | [P](https://www.plonkit.net/serbia) |  |
-| Region | **Vojvodina** (north) = extremely flat farmland (Fruška Gora ridge is the exception); rolling hills centre; mountains SW/SE (Dinaric/Balkan) | [P](https://www.plonkit.net/serbia) |  |
-| State | 2-digit area codes (first digit 1–3): **2 = north, 1 = central/east, 3 = SW** | [P](https://www.plonkit.net/serbia) |  |
-| Special | **Vršac Mountains** protrude from flat land near Romania (vineyards + castle); **Hungarian bilingual** signs → northern Vojvodina | [P](https://www.plonkit.net/serbia) |  |
+| Country | Bollards flat (no depth) w/ **off-centred reflector** | [P](https://www.plonkit.net/serbia) |  |
+| Country | **Exclusively B-profile guardrails** | [P](https://www.plonkit.net/serbia) |  |
+| Country | Chevrons **black arrow on white** | [P](https://www.plonkit.net/serbia) |  |
+| Country | Plates white + blue strip left; **agricultural vehicles = green plates** | [P](https://www.plonkit.net/serbia) |  |
+| Country | **Serbian** in Cyrillic AND Latin: Cyrillic-unique **Ђ Ћ** (Љ Њ Џ shared w/ Macedonian); Latin: Č Ć Đ Š Ž (also HR/ME) | [P](https://www.plonkit.net/serbia) |  |
+| Country | **4 truck colours** used by area; Gen4 smallcam (like the Balkans) w/ short antenna or black blur at the back; **Gen3 mostly WITHOUT antenna** — nearly all of Central/Eastern Europe has antennas (only MK similar) | [P](https://www.plonkit.net/serbia) |  |
+| Region | **Gen3 coverage**: mostly Vojvodina (north), around Belgrade + Niš (SE); **Kosovo has no coverage** | [P](https://www.plonkit.net/serbia) |  |
+| Region | **Vojvodina** = totally flat farmland (only ridge: Fruška Gora NP, SW of Novi Sad); central-north = slight rolling hills; southern Morava basin = rolling + bigger mountains; south/southeast = lush green mountains (Bulgarian/Kosovo border) | [P](https://www.plonkit.net/serbia) |  |
+| Region | **Area codes** 2-digit: 2x = north, 1x = central+east, 3x = southwest | [P](https://www.plonkit.net/serbia) |  |
+| Region | Gen3 **fall coverage** → south of Čačak + around Valjevo; **white short-antenna car** → Novi Sad, Kovilj, Belgrade, Niš + the E75 | [P](https://www.plonkit.net/serbia) |  |
+| Region | **Hungarian bilingual signs** → northern Vojvodina | [P](https://www.plonkit.net/serbia) |  |
+| Special | **Vršac Mountains** (Romanian border): protrude from flat land, vineyards south, castle on top | [P](https://www.plonkit.net/serbia) |  |
 
 ## Austria
 Study: [Plonk It](https://www.plonkit.net/austria)

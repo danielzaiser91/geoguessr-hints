@@ -5,15 +5,33 @@
  "area_km2": 88361,
  "links": { "plonkit": "https://www.plonkit.net/serbia", "geoguessr": null },
  "hints": [
-  { "cat": "country", "text": "Bollards: most have an **off-centred reflector** and are flat (no depth)", "src": ["plonkit"], "sv": null, "anchor": "qGEx", "img": "bollard.png", "type": "bollards" },
-  { "cat": "country", "text": "**B-Profile guardrails** used exclusively (North Macedonia does not use them)", "src": ["plonkit"], "sv": null, "anchor": "WqwF", "img": "Screenshot_2023-07-01_160357.png", "type": "utility" },
-  { "cat": "country", "text": "Chevrons = **black arrow on white** (also Slovenia/Montenegro/N. Macedonia)", "src": ["plonkit"], "sv": null, "anchor": "VSVy", "img": "Screenshot_2023-07-01_160306.png", "type": "signs" },
-  { "cat": "country", "text": "Plate white + blue strip left; **agricultural plates green** (Croatia/N. Macedonia usually have no strip)", "src": ["plonkit"], "sv": null, "anchor": "eWgo", "img": "Serbia_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "**Serbian** uses both Cyrillic & Latin; unique **Ђ Ћ**; in Latin: Č Ć Đ Š Ž", "src": ["plonkit"], "sv": null, "anchor": "6jty", "img": "rs_cyrillic_fixed.png", "type": "language" },
-  { "cat": "country", "text": "4 different **truck colours** by area; smallcam; Gen3 mostly **no antenna** (rare for central/E. Europe)", "src": ["plonkit"], "sv": null, "anchor": "SDu4", "img": "Truck Serbia.png", "type": "cars" },
-  { "cat": "region", "text": "Coverage mostly **Vojvodina (north)**, around **Belgrade**, and **Niš (SE)**; Kosovo has none", "src": ["plonkit"], "sv": null, "anchor": "mTBk", "img": "Serbia_Coverage_Map_.png", "type": "general" },
-  { "cat": "state", "text": "2-digit area codes (first digit 1–3): **2 = north, 1 = central/east, 3 = SW**", "src": ["plonkit"], "sv": null, "anchor": "w6kX", "img": "area_codes_colourized.png", "type": "naming" },
-  { "cat": "region", "text": "**Vojvodina** (north) = extremely flat farmland (Fruška Gora ridge is the exception); rolling hills centre; mountains SW/SE (Dinaric/Balkan)", "src": ["plonkit"], "sv": null, "anchor": "un4M", "img": "vojvodina.png", "type": "landscape" },
-  { "cat": "special", "text": "**Vršac Mountains** protrude from flat land near Romania (vineyards + castle); **Hungarian bilingual** signs → northern Vojvodina", "src": ["plonkit"], "sv": null, "type": "general" }
+  { "cat": "country", "type": "bollards", "text": "Bollards flat (no depth) w/ **off-centred reflector**", "src": ["plonkit"], "sv": null, "anchor": "qGEx", "img": "bollard.png", "uniq": "unique*", "uniq_note": "The flat off-centre-reflector bollard is the quickest Serbia tell in the Balkans." },
+  { "cat": "country", "type": "utility", "text": "**Exclusively B-profile guardrails**", "src": ["plonkit"], "sv": null, "anchor": "VSVy", "img": "Screenshot_2023-07-01_160306.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "north-macedonia", "note": "MK does NOT use B-profile.", "diff": "B-profile guardrail → Serbia in that 50-50." } ] },
+  { "cat": "country", "type": "signs", "text": "Chevrons **black arrow on white**", "src": ["plonkit"], "sv": null, "anchor": "WqwF", "img": "Screenshot_2023-07-01_160357.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "slovenia", "note": "Same chevrons.", "diff": "Slovenian (č š ž only, no ć/đ) + Alpine → Slovenia." },
+      { "slug": "montenegro", "note": "Same chevrons.", "diff": "Dramatic karst + coast → Montenegro." },
+      { "slug": "north-macedonia", "note": "Same chevrons.", "diff": "Macedonian Ѕ/Ѓ/Ќ → North Macedonia." } ] },
+  { "cat": "country", "type": "plates", "text": "Plates white + blue strip left; **agricultural vehicles = green plates**", "src": ["plonkit"], "sv": null, "anchor": "eWgo", "img": "Serbia_Plate.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "croatia", "note": "Croatian plates usually lack the strip.", "diff": "Strip → Serbia." },
+      { "slug": "north-macedonia", "note": "MK plates usually lack the strip.", "diff": "Strip → Serbia." } ] },
+  { "cat": "country", "type": "language", "text": "**Serbian** in Cyrillic AND Latin: Cyrillic-unique **Ђ Ћ** (Љ Њ Џ shared w/ Macedonian); Latin: Č Ć Đ Š Ž (also HR/ME)", "src": ["plonkit"], "sv": null, "anchor": "6jty", "img": "rs_cyrillic_fixed.png", "imgs": ["rs_languagelatin.png"],
+    "uniq": "shared", "shared_with": [
+      { "slug": "north-macedonia", "note": "Shares Љ Њ Џ.", "diff": "Ѕ Ѓ Ќ → Macedonian; Ђ Ћ → Serbian." },
+      { "slug": "croatia", "note": "Latin Serbian ≈ Croatian.", "diff": "Any Cyrillic → Serbia; Croatia never uses it." },
+      { "slug": "montenegro", "note": "Nearly identical language.", "diff": "Ś/Ź → Montenegrin; landscape decides." },
+      { "slug": "bulgaria", "note": "Cyrillic neighbour.", "diff": "Ъ + two-line Latin transliterations → Bulgaria." } ] },
+  { "cat": "country", "type": "cars", "text": "**4 truck colours** used by area; Gen4 smallcam (like the Balkans) w/ short antenna or black blur at the back; **Gen3 mostly WITHOUT antenna** — nearly all of Central/Eastern Europe has antennas (only MK similar)", "src": ["plonkit"], "sv": null, "anchor": "SDu4", "img": "Truck Serbia.png", "imgs": ["Smallcam Serbia.png", "image.png"],
+    "uniq": "shared", "shared_with": [
+      { "slug": "north-macedonia", "note": "Also antenna-less Gen3.", "diff": "Macedonian letters → MK; B-profile guardrails → Serbia." } ] },
+  { "cat": "region", "type": "general", "text": "**Gen3 coverage**: mostly Vojvodina (north), around Belgrade + Niš (SE); **Kosovo has no coverage**", "src": ["plonkit"], "sv": null, "anchor": "mTBk", "img": "Serbia_Coverage_Map_.png", "super": true },
+  { "cat": "region", "type": "landscape", "text": "**Vojvodina** = totally flat farmland (only ridge: Fruška Gora NP, SW of Novi Sad); central-north = slight rolling hills; southern Morava basin = rolling + bigger mountains; south/southeast = lush green mountains (Bulgarian/Kosovo border)", "src": ["plonkit"], "sv": null, "anchor": "VetX", "img": "rl3c_rs_serbia_map_illdtmcolgw30s_ja_hres.jpg", "imgs": ["vojvodina.png", "ridge.png", "rolling.png", "basin.png", "mountain.png"], "super": true },
+  { "cat": "region", "type": "naming", "text": "**Area codes** 2-digit: 2x = north, 1x = central+east, 3x = southwest", "src": ["plonkit"], "sv": null, "anchor": "w6kX", "img": "area_codes_colourized.png", "super": true },
+  { "cat": "region", "type": "cars", "text": "Gen3 **fall coverage** → south of Čačak + around Valjevo; **white short-antenna car** → Novi Sad, Kovilj, Belgrade, Niš + the E75", "src": ["plonkit"], "sv": null, "anchor": "WCh2", "img": "fall.png", "imgs": ["rs_antenna.png"] },
+  { "cat": "special", "type": "landscape", "text": "**Vršac Mountains** (Romanian border): protrude from flat land, vineyards south, castle on top", "src": ["plonkit"], "sv": null, "anchor": "yQCt", "img": "vrsac_mountains.png", "uniq": "unique" },
+  { "cat": "region", "type": "language", "text": "**Hungarian bilingual signs** → northern Vojvodina", "src": ["plonkit"], "sv": null, "anchor": "ajNO", "img": "hungarian.png" }
  ]
 }
