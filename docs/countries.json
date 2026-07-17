@@ -22018,96 +22018,327 @@
    "area_km2": 825615,
    "links": {
     "plonkit": "https://www.plonkit.net/namibia",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/654791fd590e64ba24b8e2d5"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Plates **yellow front & back** (vanity plates = white w/ blue text) — only Botswana & Namibia predominantly use yellow rear plates",
+     "type": "plates",
+     "text": "Plates **yellow front AND back** (vanity: white w/ blue letters)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "WPiJ",
      "img": "0.png",
-     "type": "plates"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "botswana",
+       "note": "The only other southern-African country with predominantly yellow rears (but white fronts there).",
+       "diff": "Yellow FRONT too → Namibia."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Drives **left**; all coverage = white pickup w/ a **short front antenna that leans slightly left** (Oman's leans right)",
+     "type": "cars",
+     "text": "Drives **left**; ALL coverage = **white pickup w/ a short front antenna leaning slightly LEFT**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "eNdi",
      "img": "2.png",
-     "type": "cars"
+     "uniq": "unique*",
+     "uniq_note": "No other southern-African country has this car; Oman's similar antenna never leans left (often clearly right).",
+     "shared_with": [
+      {
+       "slug": "oman",
+       "note": "Most similar antenna car.",
+       "diff": "Leaning LEFT → Namibia; right → Oman (and Oman drives right)."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Roads: single **yellow outer + white centre** lines (like the rest of Southern Africa)",
+     "type": "markings",
+     "text": "Single **yellow outer + white centre lines** (southern-Africa scheme)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "IkJb",
      "img": "3.png",
-     "type": "markings"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "south-africa",
+       "note": "Region-wide scheme.",
+       "diff": "Yellow plates + C/D roads → Namibia."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Green direction signs w/ yellow road numbers; roads use **A/B/C/D/M (+ F)** — South Africa uses N & R",
+     "type": "signs",
+     "text": "Green direction signs w/ yellow road numbers; Namibia uses **A/B/C/D/M (+F) roads** — South Africa uses N & R",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "7cMz",
      "img": "5.png",
-     "type": "signs"
+     "uniq": "unique*",
+     "uniq_note": "C/D/M/F prefixes = Namibia within the green-sign region."
     },
     {
      "cat": "country",
-     "text": "Former **German colony** → German place names + some German-style old buildings; small stone bollards at intersections; green/white round bins at rest stops",
+     "type": "arch",
+     "text": "Former **German colony**: German place names + older German-style buildings",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "nVdM",
+     "img": "4.png",
+     "uniq": "unique*",
+     "uniq_note": "German names + desert = Namibia."
+    },
+    {
+     "cat": "country",
+     "type": "bollards",
+     "text": "Small **stone bollards** at intersections & roadsides; round metal bins painted **green-white** (some roads: blue-white) at rest stops",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "TqEE",
      "img": "6.png",
-     "type": "arch"
-    },
-    {
-     "cat": "region",
-     "text": "Coverage mostly main roads; **area codes** narrow urban rounds; where the **car is blurred** correlates with region (2024 coverage)",
-     "src": [
-      "plonkit"
+     "imgs": [
+      "9.png"
      ],
-     "sv": null,
-     "anchor": "ZRAe",
-     "img": "11.png",
-     "type": "naming"
+     "uniq": "unique"
     },
     {
      "cat": "region",
-     "text": "**D-road first digit = region**; 3-digit numbers (D203) in the far south → 4-digit (1/2/3) further north",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "ANJr",
-     "img": "Namibia_D-Roads_Infographic.png",
-     "type": "naming"
-    },
-    {
-     "cat": "region",
-     "text": "East of Windhoek = Botswana-like flat/red; NW greener; **coastal sand dunes** around Swakopmund; tall **pink dunes** east of Sossusvlei; lush green → S of Tsumeb",
+     "type": "general",
+     "text": "Coverage mostly **main roads** (map incl. pavement type + driving direction); **area codes** for urban rounds; **car-blur meta**: blurred car in the north only NW of Ondangwa; blurred on unpaved = B1 side roads/towns; Noordoewer↔Aussenkehr = unblurred (blur ≈ 2024 coverage — caution)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "VnA8",
      "img": "10.png",
-     "type": "landscape"
+     "imgs": [
+      "11.png",
+      "12.png",
+      "12A.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "naming",
+     "text": "**D-roads grouped by first digit**: 3-digit (D203) = far south; 4-digit starting 1 → 2 → 3 as you go north",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "ANJr",
+     "img": "Namibia_D-Roads_Infographic.png",
+     "super": true,
+     "uniq": "unique"
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Landscape**:",
+     "bullets": [
+      "Tall lush trees both sides → north (greener = further N-NE)",
+      "Oshakati pocket: farmland + very light sand + Hyphaene fan palms",
+      "East of Windhoek: Botswana-like flat dry, reddish soil, golden grass, acacias",
+      "West & south: dry mountains/hills; NW: greener shrub-covered mountains",
+      "South of Tsumeb: the lushest, fully green pocket",
+      "Around Windhoek: dry rolling hills w/ yellow grass + dead-looking bushes",
+      "Coastal sand (+ dunes): Swakopmund & north + Lüderitz/Oranjemund pockets",
+      "SE: countless NW-SE red sand ridges — 'rollercoaster' roads",
+      "Tall PINK dunes: east of Sossusvlei"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "o3qt",
+     "img": "13.png",
+     "imgs": [
+      "14.png",
+      "15.png",
+      "16.png",
+      "17.png",
+      "18.png",
+      "19.png",
+      "20.png",
+      "21.png",
+      "22.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Vineyards → only around Aussenkehr** (ZA border); baity agricultural fields just west of Mariental",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "vIAf",
+     "img": "23.png",
+     "imgs": [
+      "24.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "roads",
+     "text": "**B-road spotlights**:",
+     "bullets": [
+      "Only 2 divided roads: A1 Windhoek↔Okahandja (savanna) + SE of Swakopmund (coastal sand)",
+      "B1 south of Grunau: desolate N-NE desert road, minimal vegetation",
+      "B1 w/o outer yellows: Grunau↔Keetmanshoop (hillier, worse quality), cloudy bit north of Keetmanshoop, Gibeon↔Mariental (flat N-NE)",
+      "Gibeon↔Tses: wide shoulders + excellent pavement",
+      "B1 Mariental↔Rehoboth: NW angle, sun SE",
+      "Around Rehoboth→Windhoek: more vegetation + pointed lone hills",
+      "B1 north of Okahandja: northbound, bright sun N-NW; two pointy mountains west near Sukses",
+      "B2 NE of Swakopmund: sandy soil + ridge east (hazy near town); Karibib↔Usakos: sunrise + thin clouds; east of Karibib: clear, wide shoulders, E-NE",
+      "B4 east of Lüderitz: blindingly bright sand + railway south; east of Aus: table mountains; Kuibis plateau: very red empty soil",
+      "Seeheim↔Keetmanshoop: mountains always close + railway south",
+      "B6 Windhoek→Gobabis: orange soil + green grass, never clear sky",
+      "B8: light grainy pavement, E-NE, vegetated north"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "05Av",
+     "img": "25.png",
+     "imgs": [
+      "26.png",
+      "27.png",
+      "28.png",
+      "29.png",
+      "30.png",
+      "31.png",
+      "32.png",
+      "33.png",
+      "34.png",
+      "36.png",
+      "Namibia_B4-2.png",
+      "38.png",
+      "39.png",
+      "40.png",
+      "41.png"
+     ],
+     "super": true,
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "roads",
+     "text": "**C-road spotlights**:",
+     "bullets": [
+      "C14: unpaved, blanket clouds north / clear south (paved south of Bethanien)",
+      "C19: very red soil + golden grass tufts, dark clouds north",
+      "C22: fresh-cut orange grass tufts + rocky hills hugging the road, blinding low sun east",
+      "C13: rugged mountain formation west + wispy clouds hiding the sun",
+      "C34 (coast): dark sand streaks in endless sand + unique white bollards w/ 2 yellow front / 1 red back reflectors",
+      "C35 north: red-tinted grainy pavement + green savanna + low cumulus; south of C41: worse unpaved, S-SE; NW of Kamanjab: dramatic clouds + orange horizon; rugged formation west on some parts",
+      "C38: spotty cloud blanket, sun faint north",
+      "C39: wide valley w/ small green hills (mostly north), N-NE",
+      "C40: NW angle, cumulus, sun setting west near Kamanjab",
+      "C43: impressive red table mountains + light gravel",
+      "C44: wide sandy tree-lined, E-SE, driving WEST (D3301 similar but redder + driving east)",
+      "C47: even wider, redder, NE angle driving SW",
+      "C49 (panhandle): poor pavement, white-only/faded lines, low sun west",
+      "D3600/Mpungu road: light grainy pavement + nearly invisible faded yellows, N-S/NE",
+      "Northern roads w/o outer yellows: C46 (NW-SE; poor E-W bit near Ruacana), C41/M123 (cloudier), B10 west of Eenhana + east of Nkurenkuru (low sun)"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "1eVI",
+     "img": "43.png",
+     "imgs": [
+      "44.png",
+      "45.png",
+      "46.png",
+      "47.png",
+      "48.png",
+      "49.png",
+      "50.png",
+      "51.png",
+      "52.png",
+      "53.png",
+      "54.png",
+      "55.png",
+      "56.png",
+      "57.png",
+      "58.png",
+      "59.png",
+      "60.png",
+      "61.png"
+     ],
+     "super": true,
+     "uniq": "unique"
+    },
+    {
+     "cat": "city",
+     "type": "general",
+     "text": "**Towns**:",
+     "bullets": [
+      "Windhoek: by far the biggest & richest — high-rises, gated hillside houses, white street signs, NW slums",
+      "Gobabis: N-S grid, red soil, mostly unpaved, green street signs w/ silver frames, blue bins",
+      "Swakopmund/Walvis Bay: flat sandy streets, palms + Norfolk pines, square signposts; white-blue containers + yellow downtown lamps → Swakopmund",
+      "Henties Bay: like the above but poorer, unpaved, cloudy, yellow lamps everywhere",
+      "Langstrand: pink brick sidewalks + always overcast",
+      "Lüderitz: light rocky hillsides everywhere",
+      "Oranjemund: neat E-W grid, Norfolk pines, blue street markers",
+      "Aussenkehr: orange thatched fences/huts on a hillside (Noordoewer similar but flat, w/ a cliffside SW in South Africa)",
+      "Rosh Pinah: dry mountains NE + SW; Aus: rocky barren hills (smooth north, rugged south)",
+      "Rundu: deep light bumpy sand streets w/ tyre tracks",
+      "Opuwo: orange green-covered mountains around; Otavi: NE-SW grid between distant ranges",
+      "Karibib: dark Erongo silhouette north; Usakos: striated ridge SSE + red-tinted hill east",
+      "Uis: Mt Brandberg's crown outline NW + white open-pit mines; Ariamsvlei: lone flat-top hill + dark red soil"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "HF3M",
+     "img": "62.png",
+     "imgs": [
+      "63.png",
+      "64.png",
+      "65.png",
+      "66.png",
+      "67.png",
+      "68.png",
+      "69.png",
+      "70.png",
+      "71.png",
+      "72.png",
+      "73.png",
+      "74.png",
+      "75.png",
+      "76.png",
+      "77.png",
+      "78.png",
+      "79.png"
+     ],
+     "super": true,
+     "uniq": "unique"
     }
    ]
   },

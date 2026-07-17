@@ -106,18 +106,23 @@ Study: [Plonk It](https://www.plonkit.net/nigeria) · [GeoGuessr map](https://ww
 | Special | **Spotlights**: east of Lekki = flat sandy coast + palms, old Gen3 w/ silver follow car; A121 = divided highway w/ short concrete median + lush vegetation + trucks (A232 east of Benin City: wider median); A3 east of Potiskum = Gen4, open arid, divided; dark red soil → Benin City & Enugu; **Obudu Plateau road** = Nigeria's tallest covered mountains, winding, foggy & wet; blue-tinted shitcam in mapped areas; old Gen3 follow-car map (silver Lexus rarely Onitsha↔Enugu) | [P](https://www.plonkit.net/nigeria) |  |
 
 ## Namibia
-Study: [Plonk It](https://www.plonkit.net/namibia)
+Study: [Plonk It](https://www.plonkit.net/namibia) · [GeoGuessr map](https://www.geoguessr.com/maps/654791fd590e64ba24b8e2d5)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates **yellow front & back** (vanity plates = white w/ blue text) — only Botswana & Namibia predominantly use yellow rear plates | [P](https://www.plonkit.net/namibia) |  |
-| Country | Drives **left**; all coverage = white pickup w/ a **short front antenna that leans slightly left** (Oman's leans right) | [P](https://www.plonkit.net/namibia) |  |
-| Country | Roads: single **yellow outer + white centre** lines (like the rest of Southern Africa) | [P](https://www.plonkit.net/namibia) |  |
-| Country | Green direction signs w/ yellow road numbers; roads use **A/B/C/D/M (+ F)** — South Africa uses N & R | [P](https://www.plonkit.net/namibia) |  |
-| Country | Former **German colony** → German place names + some German-style old buildings; small stone bollards at intersections; green/white round bins at rest stops | [P](https://www.plonkit.net/namibia) |  |
-| Region | Coverage mostly main roads; **area codes** narrow urban rounds; where the **car is blurred** correlates with region (2024 coverage) | [P](https://www.plonkit.net/namibia) |  |
-| Region | **D-road first digit = region**; 3-digit numbers (D203) in the far south → 4-digit (1/2/3) further north | [P](https://www.plonkit.net/namibia) |  |
-| Region | East of Windhoek = Botswana-like flat/red; NW greener; **coastal sand dunes** around Swakopmund; tall **pink dunes** east of Sossusvlei; lush green → S of Tsumeb | [P](https://www.plonkit.net/namibia) |  |
+| Country | Plates **yellow front AND back** (vanity: white w/ blue letters) | [P](https://www.plonkit.net/namibia) |  |
+| Country | Drives **left**; ALL coverage = **white pickup w/ a short front antenna leaning slightly LEFT** | [P](https://www.plonkit.net/namibia) |  |
+| Country | Single **yellow outer + white centre lines** (southern-Africa scheme) | [P](https://www.plonkit.net/namibia) |  |
+| Country | Green direction signs w/ yellow road numbers; Namibia uses **A/B/C/D/M (+F) roads** — South Africa uses N & R | [P](https://www.plonkit.net/namibia) |  |
+| Country | Former **German colony**: German place names + older German-style buildings | [P](https://www.plonkit.net/namibia) |  |
+| Country | Small **stone bollards** at intersections & roadsides; round metal bins painted **green-white** (some roads: blue-white) at rest stops | [P](https://www.plonkit.net/namibia) |  |
+| Region | Coverage mostly **main roads** (map incl. pavement type + driving direction); **area codes** for urban rounds; **car-blur meta**: blurred car in the north only NW of Ondangwa; blurred on unpaved = B1 side roads/towns; Noordoewer↔Aussenkehr = unblurred (blur ≈ 2024 coverage — caution) | [P](https://www.plonkit.net/namibia) |  |
+| Region | **D-roads grouped by first digit**: 3-digit (D203) = far south; 4-digit starting 1 → 2 → 3 as you go north | [P](https://www.plonkit.net/namibia) |  |
+| Region | **Landscape**: | [P](https://www.plonkit.net/namibia) |  |
+| Region | **Vineyards → only around Aussenkehr** (ZA border); baity agricultural fields just west of Mariental | [P](https://www.plonkit.net/namibia) |  |
+| City | **Towns**: | [P](https://www.plonkit.net/namibia) |  |
+| Special | **B-road spotlights**: | [P](https://www.plonkit.net/namibia) |  |
+| Special | **C-road spotlights**: | [P](https://www.plonkit.net/namibia) |  |
 
 ## Madagascar
 Study: [Plonk It](https://www.plonkit.net/madagascar)
