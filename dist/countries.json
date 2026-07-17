@@ -15184,80 +15184,144 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Coverage = mainly **Gen3 trekker** in **Punjab** (major temples & tourist sites; very limited)",
+     "type": "cars",
+     "text": "Coverage mainly **Gen3 trekker** — extremely limited, only Punjab around major temples & tourist sites",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "zWRb",
      "img": "pk_trekker.png",
-     "type": "cars"
+     "super": true
     },
     {
      "cat": "country",
-     "text": "**Urdu** script (Arabic-like but softer/curvier fonts); **English** also common on signage",
+     "type": "language",
+     "text": "**Urdu** (Arabic-related but softer, curvier fonts) + fairly common **English**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "evsi",
      "img": "pk_language.png",
-     "type": "language"
+     "uniq": "unique*",
+     "uniq_note": "Urdu can look almost indistinguishable from Arabic — the softer/curvier nastaliq font style plus English co-signage points to Pakistan rather than the Middle East."
     },
     {
      "cat": "country",
-     "text": "Short plates, region-specific — coverage is all Punjab, so mostly a **green strip on the left** (or fully green); India uses long plates",
+     "type": "plates",
+     "text": "Plates **short**, per-region designs — coverage is all Punjab: **green strip left** or fully green plates",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "yktB",
      "img": "pk_licenceplate.png",
-     "type": "plates"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "india",
+       "note": "India looks similar on trekkers.",
+       "diff": "India uses **long** plates; Pakistan short. Baggy bright trousers → Pakistan, tighter → India.",
+       "img": "in_licenceplates.png"
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Much coverage in **Mughal gardens** — large ordered gardens w/ stone walls + old forts/temples",
+     "type": "arch",
+     "text": "Much coverage in **Mughal gardens** — ordered gardens, stone walls, old temples/fortresses",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Kxq2",
-     "img": "pk_mughalgardens.png",
-     "type": "landscape"
+     "img": "pk_mughalgardens.png"
     },
     {
      "cat": "country",
-     "text": "Brightly coloured **baggy pants** are common (India's Gen3-trekker clothing tends to be tighter)",
+     "type": "general",
+     "text": "Brightly coloured **baggy pants** everywhere (Indian trekkers: tighter pants)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Ujiq",
-     "img": "pk_widepants.png",
-     "type": "general"
-    },
-    {
-     "cat": "special",
-     "text": "**Lahore Fort** (Alamgiri Gate, tall red-brick walls); universities (gothic, colonial white domes, red-brick paths)",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "Rtub",
-     "img": "pk_lahorefort.png",
-     "type": "general"
+     "img": "pk_widepants.png"
     },
     {
      "cat": "region",
-     "text": "Other sites: **Hiran Minar** (temple on a lake), **Rohtas Fort** (near-black walls), **Harappa Museum**, Patriata pine forests",
+     "type": "general",
+     "text": "Coverage spots only in **Punjab**; several are **hidden coverage** (Map-Making App only)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "9S3l",
      "img": "pk_coverage.png",
-     "type": "naming"
+     "super": true
+    },
+    {
+     "cat": "city",
+     "area": "Lahore",
+     "type": "arch",
+     "text": "**Lahore spotlights**",
+     "bullets": [
+      "Grey car w/ visible right side around **Lahore Fort** (hidden coverage)",
+      "Urban trekker in busy narrow streets just south of the fort (hidden)",
+      "**Lahore Fort** + iconic Alamgiri Gate; inside: road between tall **red-brick walls**",
+      "**Government College University**: gothic architecture",
+      "**Patiala Block** (King Edward Medical Univ.): white colonial building, domes w/ black lines",
+      "**Kinnaird College**: red-brick buildings + red-brick paths",
+      "**Jallo** (east suburb): semi-urban, poor-looking, very thick haze",
+      "**Bahria Grand Hotel** (SW suburb): minigolf course + cow statue at the entrance"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "XzFd",
+     "img": "pk_lahorefort.png",
+     "imgs": [
+      "pk_lahorecar.png",
+      "pk_lahoreurbantrekker.png",
+      "pk_lahorefortroad.png",
+      "pk_governmentcollege.png",
+      "pk_patialablock.png",
+      "pk_kinnairdcollege.png",
+      "pk_jallo.png",
+      "pk_bahriagrandhotel.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "arch",
+     "text": "**Other pinpointable spots**",
+     "bullets": [
+      "**Harappa** (W of Sahiwal): trekker from Harappa Museum on a very narrow concrete path",
+      "**Hiran Minar** (NW of Sheikhupura): small temple in a lake, single bridge",
+      "**Hazrat Baba Bulleh Shah shrine** (W-Kasur): mosque w/ large green dome + 2 green minaret domes",
+      "**Pākpattan** (hidden): market street w/ rug roof, busy urban street, narrow alley",
+      "**Rohtas Fort** (W of Jhelum): near-black fortress walls",
+      "**Katas** (N of Sargodha): hazy + hilly",
+      "**Patriata** (NE of Islamabad): hilly pine forests, partly from an **aerial lift**",
+      "**Changa Manga Forest Park**: NE path angle + narrow channel along the path"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "ciEV",
+     "img": "pk_harappa.png",
+     "imgs": [
+      "pk_hiranminar.png",
+      "pk_hazrabababullehshah.png",
+      "pk_pakpattanmarket.png",
+      "pk_rohtasfort.png",
+      "pk_katas.png",
+      "pk_patriata.png",
+      "pk_changamanga.png"
+     ]
     }
    ]
   },
@@ -21566,12 +21630,13 @@
    "area_km2": 783562,
    "links": {
     "plonkit": "https://www.plonkit.net/turkey",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/65f033d3d34dd58742aaffc1"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Plate: long white + blue strip left (like most of Europe)",
+     "type": "plates",
+     "text": "Plates long white with **blue strip left** (like most of Europe)",
      "src": [
       "plonkit"
      ],
@@ -21581,176 +21646,388 @@
     },
     {
      "cat": "country",
-     "text": "Turkish: **Ç Ş Ö Ü Ğ** + **dotless ı** (essentially unique) & dotted **İ**",
+     "type": "language",
+     "text": "**Turkish**: Ç Ş (cedilla), Ö Ü, Ğ (breve), capital **İ with dot** — and the **dotless ı**, essentially unique to Turkish",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "qs57",
      "img": "tr_language.png",
-     "type": "language"
+     "uniq": "unique*",
+     "uniq_note": "The dotless ı is essentially unique to Turkish — Azerbaijani uses it too but has no Street View; within covered countries it means Turkey."
     },
     {
      "cat": "country",
-     "text": "Bollard: thin **rectangular plain white**, red front reflector (rare yellow in snowy areas)",
+     "type": "bollards",
+     "text": "Bollards: rectangular **plain white + red front reflector**, thin from the side (rare yellow snow version)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "qrJL",
      "img": "tr_bollard.png",
-     "type": "bollards"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "romania",
+       "note": "Romania has similar bollards — but they are rare there.",
+       "diff": "Romanian language (ă î ș ț) → Romania; dotless ı → Turkey."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Road lines inconsistent (white, yellow, or mixed); grainy **\"salt-and-pepper\" pavement** common",
+     "type": "markings",
+     "text": "Road lines inconsistent: white, yellow, or mixed; **salt-and-pepper pavement** common; **divided highways extremely common** for a Mediterranean country",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "p55d",
-     "img": "tr_saltandpepper.png",
-     "type": "markings"
+     "anchor": "D1EC",
+     "img": "tr_roadlines.png",
+     "imgs": [
+      "tr_saltandpepper.png",
+      "tr_divided.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "**Divided highways extremely common** (vs other Mediterranean countries)",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "DDP9",
-     "img": "tr_divided.png",
-     "type": "general"
-    },
-    {
-     "cat": "country",
-     "text": "Chevrons usually **red-on-white** (arrow tip doesn't touch the edge); black/yellow multi-arrow at intersections",
+     "type": "signs",
+     "text": "Chevrons: red-on-white (tip doesn't touch the edge, sometimes neon-yellow border); intersections: **black-yellow multi-arrow chevrons pointing up**; narrow red-white variant (≈ South Africa's)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "QOm1",
      "img": "tr_chevron.png",
-     "type": "signs"
+     "imgs": [
+      "tr_chevron2.png",
+      "tr_chevron1.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Stop sign says **\"DUR\"** (unique to Turkey); direction signs have very wide letter spacing",
+     "type": "signs",
+     "text": "Direction signs: distinct font with **noticeably wide letter spacing**; snow poles black-orange-black-white; stop sign says **DUR**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "eM9J",
-     "img": "tr_dur.png",
-     "type": "signs"
-    },
-    {
-     "cat": "country",
-     "text": "Snow poles = **black-orange-black-white** sequence w/ small red reflectors",
-     "src": [
-      "plonkit"
+     "anchor": "9RlL",
+     "img": "tr_directionalsigns.png",
+     "imgs": [
+      "tr_snowpole.png",
+      "tr_dur.png"
      ],
-     "sv": null,
-     "anchor": "4XWl",
-     "img": "tr_snowpole.png",
-     "type": "bollards"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Uses **both A- and B-type guardrails** (seeing both excludes most of S. Europe & Middle East)",
+     "type": "utility",
+     "text": "**Both A-type AND B-type guardrails** — seeing both excludes all of southern Europe/Middle East except Montenegro and Israel & the West Bank",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "DPuZ",
-     "img": "tr_guardrails.png",
-     "type": "utility"
+     "img": "tr_guardrails.png"
     },
     {
      "cat": "country",
-     "text": "**Metal ladder or mesh poles** extremely common",
+     "type": "utility",
+     "text": "Metal poles: **ladder-shaped or mesh pattern** — extremely common",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "N5vS",
-     "img": "tr_pole.png",
-     "type": "utility"
+     "img": "tr_pole.png"
     },
     {
      "cat": "country",
-     "text": "Gen3 = no antenna; Gen4 white car; grey **pickup truck** in some Gen4 (also Georgia); smallcam exists",
+     "type": "cars",
+     "text": "Gen3: **never an antenna**; Gen4: white car (sliver of the back, short/no antenna) + **grey pickup truck** in some areas + **smallcam** (low mount, big blur w/ front protrusion)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "Ce1R",
-     "img": "tr_gen4car.png",
-     "type": "cars"
+     "anchor": "eWbd",
+     "img": "tr_gen3noantenna.png",
+     "imgs": [
+      "tr_gen4car.png",
+      "tr_pickuptruck.png",
+      "Turkey_Smallcam.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "kenya",
+       "note": "Similar grey pickup exists in Kenya (also Georgia, Senegal, Rwanda, Ghana, Paraguay).",
+       "diff": "African savanna vs Anatolian steppe; Turkish signage decides."
+      },
+      {
+       "slug": "ghana",
+       "note": "Similar pickup.",
+       "diff": "West-African environment → Ghana."
+      },
+      {
+       "slug": "senegal",
+       "note": "Similar pickup.",
+       "diff": "French signage → Senegal."
+      },
+      {
+       "slug": "rwanda",
+       "note": "Similar pickup (also in Georgia and Paraguay — no separate pages here).",
+       "diff": "Hilly green East Africa → Rwanda."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Tall square **apartment blocks**; Muslim-majority → **mosques w/ tall minarets** in most towns",
+     "type": "landscape",
+     "text": "Landscape: arid SE → Mediterranean SW → lush forested north; most typical = **semi-arid rolling/flat vast farmland**",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "2P4G",
-     "img": "tr_mosque.png",
-     "type": "arch"
+     "anchor": "y8wc",
+     "img": "tr_landscape.png"
     },
     {
-     "super": true,
-     "cat": "state",
-     "text": "Area codes **1st digit 2 (west) → 4 (east)**; km markers show **province code (first 2 digits, ~alphabetical 01–76)**",
+     "cat": "country",
+     "type": "arch",
+     "text": "Tall square **apartment blocks** everywhere; Muslim-majority — **tall minarets** in most towns; distinctive **brick pavement** in cities",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "q9pP",
+     "img": "tr_apartmentblocks.png",
+     "imgs": [
+      "tr_mosque.png",
+      "tr_brickpavement.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "naming",
+     "text": "**Area codes**: first digit 2 (west) → 4 (east) (5xx not regional)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "vhPr",
      "img": "tr_areacodes_nobg.png",
-     "type": "naming"
+     "super": true
     },
     {
      "cat": "region",
-     "text": "North = lush/forested; **NE = deep-green grassy round hills** (Gen3), few trees; SE arid; SW Mediterranean",
+     "type": "naming",
+     "text": "**Road numbering**: O-roads (O-xx on markers); D-roads (3-digit number + section number on top — sections increase to the SE); provincial roads: **first 2 digits = province code** (alphabetical 01–76)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "os4B",
-     "img": "tr_northeast.png",
-     "type": "landscape"
+     "anchor": "pFHY",
+     "img": "tr_droads.png",
+     "imgs": [
+      "tr_provinceroads.png"
+     ],
+     "super": true
     },
     {
      "cat": "region",
-     "text": "Roofs: tiled → western ⅔; flat → SE + south coast; metal/low-pyramid → far east (Lake Van)",
+     "type": "cars",
+     "text": "**Gen4 truck coverage** → far east + south coast (+pockets west & around Kastamonu)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "3Nhk",
+     "img": "turkeytruckdistibution_credit_to_vols_jezuz.png"
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**North** = lusher & forested; **northeast** = treeless grassland valleys w/ round hills (deep green in Gen3, arid-looking in Gen4)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "pPdr",
+     "img": "tr_northlandscape.png",
+     "imgs": [
+      "tr_northeast.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Vegetation metas**: Turkish pines + olives → Mediterranean coast; tea → Rize; sunflowers → northwest; vineyards → east of Izmir; cotton → around Şanlıurfa; bananas → around Alanya; greenhouses → south coast west of Adana",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "l81d",
+     "img": "tr_pines.png",
+     "imgs": [
+      "tr_rizetea.png",
+      "tr_olives.png",
+      "tr_sunflowers.png",
+      "tr_wine.png",
+      "tr_cotton.png",
+      "tr_greenhouses.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Lake Van**: biggest lake, semi-arid dry grassy hills; dark **volcanic rocks** → Şanlıurfa↔Diyarbakır; barren rocky river valleys → Erzurum↔Artvin + near Hakkâri",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "cb18",
+     "img": "tr_lakevan.png",
+     "imgs": [
+      "tr_blackstones.png",
+      "tr_aridrockyvalleys.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "arch",
+     "text": "**Roof metas**: tiled → western ⅔; flat → southeast + south coast; metal → east; low-pyramid metal → around Lake Van; Nevşehir = big uneven sandstone bricks",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "wAF5",
+     "img": "tr_tiledroofs.png",
      "imgs": [
-      "tr_tiledroofs.png",
       "tr_flatroofs.png",
-      "tr_metalroofs.png"
-     ],
-     "type": "arch"
+      "tr_metalroofs.png",
+      "tr_pyramidmetalroof.png",
+      "tr_nevsehirbrick.png"
+     ]
     },
     {
-     "cat": "special",
-     "text": "**Göreme/Cappadocia** (Nevşehir): sandstone monoliths w/ carved dwellings; **Mt. Ararat** volcano far east; whitewashed flat-roof houses → Bodrum",
+     "cat": "region",
+     "type": "signs",
+     "text": "**Chevron regions**: yellow-on-black → Balıkesir + Kars; black-on-yellow → north of Izmir; 4-lane divided w/ only double middle lines → eastern half",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "QuGQ",
+     "anchor": "n73Y",
+     "img": "tr_chevronyellowonblack.png",
      "imgs": [
-      "tr_mountararat.png",
-      "tr_nevsehirbrick.png"
+      "tr_chevronblackonyellow.png",
+      "tr_eastdivider.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "utility",
+     "text": "**Water-tank metas**: vertical tanks = most of Turkey (rare on S/W coast); horizontal-on-vertical → south coast line up to Elâzığ; square w/ angled corners → İskenderun↔Şanlıurfa; white spheres → SE, south of Batman",
+     "src": [
+      "plonkit"
      ],
-     "type": "landscape"
+     "sv": null,
+     "anchor": "m6mB",
+     "img": "tr_watertankvertical.png",
+     "imgs": [
+      "tr_watertankhorizontalvertical.png",
+      "tr_watertanksquare.png",
+      "tr_watertanksphere.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "utility",
+     "text": "**European Turkey** (except Istanbul): 6-digit code plate under the yellow electricity warning on poles",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "cKHH",
+     "img": "Turkey European Pole Plates.png"
+    },
+    {
+     "cat": "city",
+     "area": "Ankara / Izmir",
+     "type": "signs",
+     "text": "Ankara: blue street signs w/ **small round top** (rarely Giresun; newer ones red); Izmir: dark blue, **bulging outward**, usually w/ white Izmir emblem",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "ZAFL",
+     "img": "tr_ankarastreetsign.png",
+     "imgs": [
+      "tr_izmirstreetsign.png"
+     ]
+    },
+    {
+     "cat": "city",
+     "area": "Istanbul",
+     "type": "signs",
+     "text": "Red street signs w/ coloured bottom strip: **double-headed arrow with single arrowhead** → almost certainly Istanbul (+ red house numbers)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "bl0n",
+     "img": "tr_streetsignistanbul.png"
+    },
+    {
+     "cat": "city",
+     "area": "Trabzon / Bursa / Bolu",
+     "type": "signs",
+     "text": "Trabzon (+Yalvaç): red **oval** street signs & house numbers; Bursa: green signs w/ extruded letters (green fences/guardrails too); Bolu: green but flat, borderless",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "xnIM",
+     "img": "tr_streetsigntrabzon.png",
+     "imgs": [
+      "tr_streetsignbursa.png",
+      "tr_streetsignbolu.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "arch",
+     "text": "**Spotlights**: Bodrum = whitewashed flat-roof buildings w/ blue details (Greek look); **Göreme** = sandstone monoliths w/ carved dwellings; **Mount Ararat** (Ağrı Dağı) = tallest peak + smaller Küçük Ağrı SE; Bozcaada island = light-blue/grey tourist signs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "7HDD",
+     "img": "tr_greekarchitecture.png",
+     "imgs": [
+      "tr_g_C3_B6reme.png",
+      "tr_mountararat.png",
+      "tr_bozcaadasign.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "markings",
+     "text": "**Road spotlights**: E99 S of Şanlıurfa = hazy Gen4 sunrise, flat farmland, N-S angle; D525 S of Söke = dead-straight SSW-NNE winter Gen3 + lots of reed; W shores of Lake Beyşehir & Eğirdir = single-lane road, jagged rock + pines west (Eğirdir's road has a middle line)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "2jLg",
+     "img": "tr_e99.png",
+     "imgs": [
+      "tr_d525.png",
+      "tr_lakebeysehir.png"
+     ]
     }
    ]
   },

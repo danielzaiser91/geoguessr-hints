@@ -488,35 +488,46 @@ Study: [Plonk It](https://www.plonkit.net/pakistan)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Coverage = mainly **Gen3 trekker** in **Punjab** (major temples & tourist sites; very limited) | [P](https://www.plonkit.net/pakistan) |  |
-| Country | **Urdu** script (Arabic-like but softer/curvier fonts); **English** also common on signage | [P](https://www.plonkit.net/pakistan) |  |
-| Country | Short plates, region-specific — coverage is all Punjab, so mostly a **green strip on the left** (or fully green); India uses long plates | [P](https://www.plonkit.net/pakistan) |  |
-| Country | Much coverage in **Mughal gardens** — large ordered gardens w/ stone walls + old forts/temples | [P](https://www.plonkit.net/pakistan) |  |
-| Country | Brightly coloured **baggy pants** are common (India's Gen3-trekker clothing tends to be tighter) | [P](https://www.plonkit.net/pakistan) |  |
-| Region | Other sites: **Hiran Minar** (temple on a lake), **Rohtas Fort** (near-black walls), **Harappa Museum**, Patriata pine forests | [P](https://www.plonkit.net/pakistan) |  |
-| Special | **Lahore Fort** (Alamgiri Gate, tall red-brick walls); universities (gothic, colonial white domes, red-brick paths) | [P](https://www.plonkit.net/pakistan) |  |
+| Country | Coverage mainly **Gen3 trekker** — extremely limited, only Punjab around major temples & tourist sites | [P](https://www.plonkit.net/pakistan) |  |
+| Country | **Urdu** (Arabic-related but softer, curvier fonts) + fairly common **English** | [P](https://www.plonkit.net/pakistan) |  |
+| Country | Plates **short**, per-region designs — coverage is all Punjab: **green strip left** or fully green plates | [P](https://www.plonkit.net/pakistan) |  |
+| Country | Much coverage in **Mughal gardens** — ordered gardens, stone walls, old temples/fortresses | [P](https://www.plonkit.net/pakistan) |  |
+| Country | Brightly coloured **baggy pants** everywhere (Indian trekkers: tighter pants) | [P](https://www.plonkit.net/pakistan) |  |
+| Region | Coverage spots only in **Punjab**; several are **hidden coverage** (Map-Making App only) | [P](https://www.plonkit.net/pakistan) |  |
+| City | **Lahore spotlights** | [P](https://www.plonkit.net/pakistan) |  |
+| Special | **Other pinpointable spots** | [P](https://www.plonkit.net/pakistan) |  |
 
 ## Turkey
-Study: [Plonk It](https://www.plonkit.net/turkey)
+Study: [Plonk It](https://www.plonkit.net/turkey) · [GeoGuessr map](https://www.geoguessr.com/maps/65f033d3d34dd58742aaffc1)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plate: long white + blue strip left (like most of Europe) | [P](https://www.plonkit.net/turkey) |  |
-| Country | Turkish: **Ç Ş Ö Ü Ğ** + **dotless ı** (essentially unique) & dotted **İ** | [P](https://www.plonkit.net/turkey) |  |
-| Country | Bollard: thin **rectangular plain white**, red front reflector (rare yellow in snowy areas) | [P](https://www.plonkit.net/turkey) |  |
-| Country | Road lines inconsistent (white, yellow, or mixed); grainy **"salt-and-pepper" pavement** common | [P](https://www.plonkit.net/turkey) |  |
-| Country | **Divided highways extremely common** (vs other Mediterranean countries) | [P](https://www.plonkit.net/turkey) |  |
-| Country | Chevrons usually **red-on-white** (arrow tip doesn't touch the edge); black/yellow multi-arrow at intersections | [P](https://www.plonkit.net/turkey) |  |
-| Country | Stop sign says **"DUR"** (unique to Turkey); direction signs have very wide letter spacing | [P](https://www.plonkit.net/turkey) |  |
-| Country | Snow poles = **black-orange-black-white** sequence w/ small red reflectors | [P](https://www.plonkit.net/turkey) |  |
-| Country | Uses **both A- and B-type guardrails** (seeing both excludes most of S. Europe & Middle East) | [P](https://www.plonkit.net/turkey) |  |
-| Country | **Metal ladder or mesh poles** extremely common | [P](https://www.plonkit.net/turkey) |  |
-| Country | Gen3 = no antenna; Gen4 white car; grey **pickup truck** in some Gen4 (also Georgia); smallcam exists | [P](https://www.plonkit.net/turkey) |  |
-| Country | Tall square **apartment blocks**; Muslim-majority → **mosques w/ tall minarets** in most towns | [P](https://www.plonkit.net/turkey) |  |
-| Region | North = lush/forested; **NE = deep-green grassy round hills** (Gen3), few trees; SE arid; SW Mediterranean | [P](https://www.plonkit.net/turkey) |  |
-| Region | Roofs: tiled → western ⅔; flat → SE + south coast; metal/low-pyramid → far east (Lake Van) | [P](https://www.plonkit.net/turkey) |  |
-| State | Area codes **1st digit 2 (west) → 4 (east)**; km markers show **province code (first 2 digits, ~alphabetical 01–76)** | [P](https://www.plonkit.net/turkey) |  |
-| Special | **Göreme/Cappadocia** (Nevşehir): sandstone monoliths w/ carved dwellings; **Mt. Ararat** volcano far east; whitewashed flat-roof houses → Bodrum | [P](https://www.plonkit.net/turkey) |  |
+| Country | Plates long white with **blue strip left** (like most of Europe) | [P](https://www.plonkit.net/turkey) |  |
+| Country | **Turkish**: Ç Ş (cedilla), Ö Ü, Ğ (breve), capital **İ with dot** — and the **dotless ı**, essentially unique to Turkish | [P](https://www.plonkit.net/turkey) |  |
+| Country | Bollards: rectangular **plain white + red front reflector**, thin from the side (rare yellow snow version) | [P](https://www.plonkit.net/turkey) |  |
+| Country | Road lines inconsistent: white, yellow, or mixed; **salt-and-pepper pavement** common; **divided highways extremely common** for a Mediterranean country | [P](https://www.plonkit.net/turkey) |  |
+| Country | Chevrons: red-on-white (tip doesn't touch the edge, sometimes neon-yellow border); intersections: **black-yellow multi-arrow chevrons pointing up**; narrow red-white variant (≈ South Africa's) | [P](https://www.plonkit.net/turkey) |  |
+| Country | Direction signs: distinct font with **noticeably wide letter spacing**; snow poles black-orange-black-white; stop sign says **DUR** | [P](https://www.plonkit.net/turkey) |  |
+| Country | **Both A-type AND B-type guardrails** — seeing both excludes all of southern Europe/Middle East except Montenegro and Israel & the West Bank | [P](https://www.plonkit.net/turkey) |  |
+| Country | Metal poles: **ladder-shaped or mesh pattern** — extremely common | [P](https://www.plonkit.net/turkey) |  |
+| Country | Gen3: **never an antenna**; Gen4: white car (sliver of the back, short/no antenna) + **grey pickup truck** in some areas + **smallcam** (low mount, big blur w/ front protrusion) | [P](https://www.plonkit.net/turkey) |  |
+| Country | Landscape: arid SE → Mediterranean SW → lush forested north; most typical = **semi-arid rolling/flat vast farmland** | [P](https://www.plonkit.net/turkey) |  |
+| Country | Tall square **apartment blocks** everywhere; Muslim-majority — **tall minarets** in most towns; distinctive **brick pavement** in cities | [P](https://www.plonkit.net/turkey) |  |
+| Region | **Area codes**: first digit 2 (west) → 4 (east) (5xx not regional) | [P](https://www.plonkit.net/turkey) |  |
+| Region | **Road numbering**: O-roads (O-xx on markers); D-roads (3-digit number + section number on top — sections increase to the SE); provincial roads: **first 2 digits = province code** (alphabetical 01–76) | [P](https://www.plonkit.net/turkey) |  |
+| Region | **Gen4 truck coverage** → far east + south coast (+pockets west & around Kastamonu) | [P](https://www.plonkit.net/turkey) |  |
+| Region | **North** = lusher & forested; **northeast** = treeless grassland valleys w/ round hills (deep green in Gen3, arid-looking in Gen4) | [P](https://www.plonkit.net/turkey) |  |
+| Region | **Vegetation metas**: Turkish pines + olives → Mediterranean coast; tea → Rize; sunflowers → northwest; vineyards → east of Izmir; cotton → around Şanlıurfa; bananas → around Alanya; greenhouses → south coast west of Adana | [P](https://www.plonkit.net/turkey) |  |
+| Region | **Lake Van**: biggest lake, semi-arid dry grassy hills; dark **volcanic rocks** → Şanlıurfa↔Diyarbakır; barren rocky river valleys → Erzurum↔Artvin + near Hakkâri | [P](https://www.plonkit.net/turkey) |  |
+| Region | **Roof metas**: tiled → western ⅔; flat → southeast + south coast; metal → east; low-pyramid metal → around Lake Van; Nevşehir = big uneven sandstone bricks | [P](https://www.plonkit.net/turkey) |  |
+| Region | **Chevron regions**: yellow-on-black → Balıkesir + Kars; black-on-yellow → north of Izmir; 4-lane divided w/ only double middle lines → eastern half | [P](https://www.plonkit.net/turkey) |  |
+| Region | **Water-tank metas**: vertical tanks = most of Turkey (rare on S/W coast); horizontal-on-vertical → south coast line up to Elâzığ; square w/ angled corners → İskenderun↔Şanlıurfa; white spheres → SE, south of Batman | [P](https://www.plonkit.net/turkey) |  |
+| Region | **European Turkey** (except Istanbul): 6-digit code plate under the yellow electricity warning on poles | [P](https://www.plonkit.net/turkey) |  |
+| City | Ankara: blue street signs w/ **small round top** (rarely Giresun; newer ones red); Izmir: dark blue, **bulging outward**, usually w/ white Izmir emblem | [P](https://www.plonkit.net/turkey) |  |
+| City | Red street signs w/ coloured bottom strip: **double-headed arrow with single arrowhead** → almost certainly Istanbul (+ red house numbers) | [P](https://www.plonkit.net/turkey) |  |
+| City | Trabzon (+Yalvaç): red **oval** street signs & house numbers; Bursa: green signs w/ extruded letters (green fences/guardrails too); Bolu: green but flat, borderless | [P](https://www.plonkit.net/turkey) |  |
+| Special | **Spotlights**: Bodrum = whitewashed flat-roof buildings w/ blue details (Greek look); **Göreme** = sandstone monoliths w/ carved dwellings; **Mount Ararat** (Ağrı Dağı) = tallest peak + smaller Küçük Ağrı SE; Bozcaada island = light-blue/grey tourist signs | [P](https://www.plonkit.net/turkey) |  |
+| Special | **Road spotlights**: E99 S of Şanlıurfa = hazy Gen4 sunrise, flat farmland, N-S angle; D525 S of Söke = dead-straight SSW-NNE winter Gen3 + lots of reed; W shores of Lake Beyşehir & Eğirdir = single-lane road, jagged rock + pines west (Eğirdir's road has a middle line) | [P](https://www.plonkit.net/turkey) |  |
 
 ## Thailand
 Study: [Plonk It](https://www.plonkit.net/thailand) · [GeoGuessr map](https://www.geoguessr.com/maps/638777aabd4e538d5e52d4f9)
