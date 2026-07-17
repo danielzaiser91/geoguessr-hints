@@ -209,19 +209,24 @@ Study: [Plonk It](https://www.plonkit.net/ghana) · [GeoGuessr map](https://www.
 | Special | **Rare cars**: nature reserves = white car w/ visible mirrors (tape still there); Ankasa Game Reserve = whole front visible, roof vinyl + tape; Boabeng-Fiema Monkey Sanctuary = no tape/rack, black right mirror just visible | [P](https://www.plonkit.net/ghana) |  |
 
 ## Senegal
-Study: [Plonk It](https://www.plonkit.net/senegal)
+Study: [Plonk It](https://www.plonkit.net/senegal) · [GeoGuessr map](https://www.geoguessr.com/maps/63e3062fa32d03a8402c11a0)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | The **only African country with fully blue plates** (newer Gen4 = white w/ a blue strip left) | [P](https://www.plonkit.net/senegal) |  |
-| Country | Gen4 = silver/white **truck cab** (region-specific variants) + a black pickup near Dakar/Thies; Gen3 car has the **right mirror visible** (unique to Senegal) | [P](https://www.plonkit.net/senegal) |  |
-| Country | Drives **right**; French-colonial infrastructure (bollards, poles, signs, road lines) | [P](https://www.plonkit.net/senegal) |  |
-| Country | **French** is the main language (the other sub-Saharan SV countries use English) | [P](https://www.plonkit.net/senegal) |  |
-| Country | White **km markers w/ a red top** (road number + distances; the farthest town is usually the biggest) | [P](https://www.plonkit.net/senegal) |  |
-| Country | Town-entry signs = white w/ a **thick pink outline** and bold black town name | [P](https://www.plonkit.net/senegal) |  |
-| Country | Simple black **lamps with a solar panel** on top are common | [P](https://www.plonkit.net/senegal) |  |
-| Country | **Yellow-orange taxis with black fenders** | [P](https://www.plonkit.net/senegal) |  |
-| Region | Coverage mostly west of Touba; north = flat arid savannah-desert (sparse faded trees); south of The Gambia = greener + palms; Diourbel = rural sandy roads | [P](https://www.plonkit.net/senegal) |  |
+| Country | The **only African country w/ fully BLUE plates**; newer Gen4 plates = European-style white w/ blue left strip | [P](https://www.plonkit.net/senegal) |  |
+| Country | Gen4: **silver or white truck cab** (many region/road-specific variants — see spotlight); black pickup around Dakar & Thiès; sometimes fully blurred | [P](https://www.plonkit.net/senegal) |  |
+| Country | Gen3: car w/ roof rack + **visible RIGHT side mirror** (this exact combo is Senegal-unique) + rifts in the sky | [P](https://www.plonkit.net/senegal) |  |
+| Country | Drives on the **right** (in covered Africa also GH/NG/RW/TN; Kenya & the south drive left); **French infrastructure**: bollards, poles, signs, road lines | [P](https://www.plonkit.net/senegal) |  |
+| Country | **French** official & dominant on signs — the other covered sub-Saharan countries use English | [P](https://www.plonkit.net/senegal) |  |
+| Country | White **km markers w/ red top** (road number + distances — the farthest town is usually the biggest); town-entry signs white w/ **thick pink outline** + bold black name | [P](https://www.plonkit.net/senegal) |  |
+| Country | Simple black **solar-panel lamps** common | [P](https://www.plonkit.net/senegal) |  |
+| Country | **Yellow-orange taxis w/ black fenders** | [P](https://www.plonkit.net/senegal) |  |
+| Region | Coverage mostly **west of Touba**; in the east only main roads (map) | [P](https://www.plonkit.net/senegal) |  |
+| Region | **Landscape**: north of The Gambia (+ generally) = flat arid savanna-desert w/ sparse short faded trees; **south of The Gambia** = lusher + palms near the coast (don't confuse w/ green-looking Dakar coastal scrub); **Diourbel** = the only region w/ extensive rural sandy-road coverage (grassier sand near Touba); NW coast = vegetated dunes; slight dry hills → Bakel (→Nayé); greener bigger hills → Kédougou/Mako; irrigated rice → St-Louis↔Richard Toll | [P](https://www.plonkit.net/senegal) |  |
+| Region | **Car meta**: silver car w/ **long front-left antenna** = many roads but never east of Diourbel Region; regular white car = mostly south of The Gambia (+ NE coast + Kaolack↔Saly) | [P](https://www.plonkit.net/senegal) |  |
+| City | **Dakar** = dense capital w/ taller modern buildings; **Touba** = the Great Mosque's five tall minarets visible from afar | [P](https://www.plonkit.net/senegal) |  |
+| Special | **Road spotlights**: | [P](https://www.plonkit.net/senegal) |  |
+| Special | **Car variants by road**: box back-right → Richard Toll↔Louga + N3 Tiourène↔Matam + Mauritania border dirt road; stain back-left → N2 Richard Toll↔Matam + Bakel↔Nayé + N1 Tambacounda↔Nayé; stain + dirty roof → N1 Kaffrine↔Tambacounda + N7 Tambacounda↔Kédougou; **red cloth front-left** → Ouro Sogui↔Bakel; white car w/ antenna DOWN → N6 Ziguinchor↔Kolda; white car w/ dirty back → north of Kolda | [P](https://www.plonkit.net/senegal) |  |
 
 ## Tunisia
 Study: [Plonk It](https://www.plonkit.net/tunisia)
