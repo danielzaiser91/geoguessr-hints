@@ -2844,20 +2844,25 @@ Study: [Plonk It](https://www.plonkit.net/ecuador)
 | Special | **Spotlights**: E-40 (Salinas↔Guayaquil) = one of the only divided highways, in the dry SW; brown pipe alongside some NE roads; **Galápagos** = trekkers + boats only — volcanic soil, low shrubs, craters, giant tortoises | [P](https://www.plonkit.net/ecuador) |  |
 
 ## Uruguay
-Study: [Plonk It](https://www.plonkit.net/uruguay)
+Study: [Plonk It](https://www.plonkit.net/uruguay) · [GeoGuessr map](https://www.geoguessr.com/maps/667ebde51c3e56a2b8db456b)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Vibe: often overcast, **open grasslands + gentle hills**, roads in worse condition than neighbours | [P](https://www.plonkit.net/uruguay) |  |
-| Country | Plates **plain white w/ black characters** (Argentina's have a black dot in the middle or a blue top bar) | [P](https://www.plonkit.net/uruguay) |  |
-| Country | Only **Gen3, black car, no antenna** (also AR/PE in S. America); camera often **smudgy** (rarer in Argentina) | [P](https://www.plonkit.net/uruguay) |  |
-| Country | **Thick white wooden signposts** with up to four rectangular notches at the back (also Bolivia) | [P](https://www.plonkit.net/uruguay) |  |
-| Country | **Triple road lines** = double yellow with white dashes between — a design not seen anywhere else in the Americas | [P](https://www.plonkit.net/uruguay) |  |
-| Country | **White bollards** (one side often painted yellow) + stone barriers — specific to Uruguay | [P](https://www.plonkit.net/uruguay) |  |
-| Country | **Trident poles** (3 upward-pointing insulators; also RS Brazil); plus round poles w/ flat-metal tops & square concrete poles | [P](https://www.plonkit.net/uruguay) |  |
-| Country | Guardrail support = 3 sides **+ corner bits of the 4th** (Argentina just 3 sides); green-painted **stone km marker** (unique) | [P](https://www.plonkit.net/uruguay) |  |
-| Country | Chevrons **yellow w/ black arrows** (Argentina uniquely = white w/ red); **reddish soil** common (a good clue vs Argentina) | [P](https://www.plonkit.net/uruguay) |  |
-| Country | Houses **cube-shaped concrete**, drab & weathered, flat roofs common; short stocky palms; **cattle everywhere** (≈4:1 vs people) | [P](https://www.plonkit.net/uruguay) |  |
+| Country | Stereotypical round: often **overcast**, open grasslands w/ **gentle hills** (subtle, never mountains), scattered tree plantations, roads in worse shape than the neighbours'; completely flat → think Argentina | [P](https://www.plonkit.net/uruguay) |  |
+| Country | Plates **plain white w/ black characters** | [P](https://www.plonkit.net/uruguay) |  |
+| Country | Only **Gen3**: black car w/o antenna (not always visible); camera often **smudgy** | [P](https://www.plonkit.net/uruguay) |  |
+| Country | **Thick white wooden signposts**, often w/ up to 4 rectangular notches at the back | [P](https://www.plonkit.net/uruguay) |  |
+| Country | **Triple road lines**: double yellow w/ white dashes in between — seen nowhere else in the Americas (also: yellow-white like AR, or plain white) | [P](https://www.plonkit.net/uruguay) |  |
+| Country | **White bollards** (one side often yellow) + stone barriers — specific to Uruguay | [P](https://www.plonkit.net/uruguay) |  |
+| Country | **Trident poles** (3 upward insulators); also round poles w/ flat metal-sheet tops + **square concrete poles** — all good Uruguay clues | [P](https://www.plonkit.net/uruguay) |  |
+| Country | Guardrails w/ yellow/red reflectors like Argentina — but the support has **3 sides + corner bits of a 4th** (Argentina: just 3 sides) | [P](https://www.plonkit.net/uruguay) |  |
+| Country | **Green-painted stone km marker** — unique to Uruguay; chevrons yellow-black (Argentina = white-red) | [P](https://www.plonkit.net/uruguay) |  |
+| Country | **Reddish soil** (light pink → deep red) in many areas — a good Uruguay-vs-Argentina clue (absence proves nothing) | [P](https://www.plonkit.net/uruguay) |  |
+| Country | Houses **cube-shaped concrete**, drab weathered colours, flat roofs (Argentina similar); short **stocky palms** occasionally; **cattle everywhere** (4:1 vs people) | [P](https://www.plonkit.net/uruguay) |  |
+| Region | Coverage limited: densest around **Montevideo**, elsewhere mostly yellow roads → **angle-guessing is powerful** | [P](https://www.plonkit.net/uruguay) |  |
+| Region | **Region reads**: tallest hills near **Minas** (exposed rocks + heavy bush) and **north of Tacuarembó** (darker soil, no rocks, plantations — esp. Route 30 near Tranqueras); tree-plantation hotspots north + northwest; **flat** → Laguna Merín/Brazil border SE; divided highways only near Montevideo (Ruta 1 to Colonia Valdense, Ruta IB to Punta del Este, Ruta 5 to Canelones); bins w/ orange lids → Rocha | [P](https://www.plonkit.net/uruguay) |  |
+| City | **Montevideo** = the only really big, dense urban area (half the population); **Punta del Este** = resort town w/ modern high-rises + sandy beach, villa suburbs w/ tall pines | [P](https://www.plonkit.net/uruguay) |  |
+| Special | **Special coverage**: Isla de Flores trekker (abandoned buildings + lighthouse); **Cabo Polonio** = unique car w/ orange strap, makeshift shacks, beach driving; **Valle del Lunarejo** = white-front car w/ black curved back + brown strap on a grassy track | [P](https://www.plonkit.net/uruguay) |  |
 
 ## Falkland Islands
 Study: [Plonk It](https://www.plonkit.net/falkland-islands)

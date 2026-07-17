@@ -3,17 +3,33 @@
  "slug": "uruguay",
  "continent": "South America",
  "area_km2": 176215,
- "links": { "plonkit": "https://www.plonkit.net/uruguay", "geoguessr": null },
+ "links": { "plonkit": "https://www.plonkit.net/uruguay", "geoguessr": "https://www.geoguessr.com/maps/667ebde51c3e56a2b8db456b" },
  "hints": [
-  { "cat": "country", "text": "Vibe: often overcast, **open grasslands + gentle hills**, roads in worse condition than neighbours", "src": ["plonkit"], "sv": null, "anchor": "grPh", "img": "Uruguay_vibe.png", "type": "landscape" },
-  { "cat": "country", "text": "Plates **plain white w/ black characters** (Argentina's have a black dot in the middle or a blue top bar)", "src": ["plonkit"], "sv": null, "anchor": "VOt5", "img": "Uruguay_License_Plate.png", "type": "plates" },
-  { "cat": "country", "text": "Only **Gen3, black car, no antenna** (also AR/PE in S. America); camera often **smudgy** (rarer in Argentina)", "src": ["plonkit"], "sv": null, "anchor": "mv5R", "img": "Car_meta.png", "type": "cars" },
-  { "cat": "country", "text": "**Thick white wooden signposts** with up to four rectangular notches at the back (also Bolivia)", "src": ["plonkit"], "sv": null, "anchor": "07Np", "img": "Signposts.png", "type": "signs" },
-  { "cat": "country", "text": "**Triple road lines** = double yellow with white dashes between — a design not seen anywhere else in the Americas", "src": ["plonkit"], "sv": null, "anchor": "ZQG4", "img": "Triple_road_lines.png", "type": "markings" },
-  { "cat": "country", "text": "**White bollards** (one side often painted yellow) + stone barriers — specific to Uruguay", "src": ["plonkit"], "sv": null, "anchor": "Pveh", "img": "Bollards_and_barriers.png", "type": "bollards" },
-  { "cat": "country", "text": "**Trident poles** (3 upward-pointing insulators; also RS Brazil); plus round poles w/ flat-metal tops & square concrete poles", "src": ["plonkit"], "sv": null, "anchor": "0wFk", "img": "Trident_pole.png", "type": "utility" },
-  { "cat": "country", "text": "Guardrail support = 3 sides **+ corner bits of the 4th** (Argentina just 3 sides); green-painted **stone km marker** (unique)", "src": ["plonkit"], "sv": null, "anchor": "3qgY", "img": "Road_marker.png", "type": "signs" },
-  { "cat": "country", "text": "Chevrons **yellow w/ black arrows** (Argentina uniquely = white w/ red); **reddish soil** common (a good clue vs Argentina)", "src": ["plonkit"], "sv": null, "anchor": "rYkI", "img": "Chevron.png", "type": "signs" },
-  { "cat": "country", "text": "Houses **cube-shaped concrete**, drab & weathered, flat roofs common; short stocky palms; **cattle everywhere** (≈4:1 vs people)", "src": ["plonkit"], "sv": null, "anchor": "mVth", "img": "Hilly_landscape.png", "type": "arch" }
+  { "cat": "country", "type": "landscape", "text": "Stereotypical round: often **overcast**, open grasslands w/ **gentle hills** (subtle, never mountains), scattered tree plantations, roads in worse shape than the neighbours'; completely flat → think Argentina", "src": ["plonkit"], "sv": null, "anchor": "grPh", "img": "Uruguay_vibe.png", "imgs": ["Hilly_landscape.png"] },
+  { "cat": "country", "type": "plates", "text": "Plates **plain white w/ black characters**", "src": ["plonkit"], "sv": null, "anchor": "VOt5", "img": "Uruguay_License_Plate.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "argentina", "note": "Argentine white plates have a black dot or blue top bar.", "diff": "Truly plain white → Uruguay." } ] },
+  { "cat": "country", "type": "cars", "text": "Only **Gen3**: black car w/o antenna (not always visible); camera often **smudgy**", "src": ["plonkit"], "sv": null, "anchor": "mv5R", "img": "Car_meta.png", "imgs": ["Smudgy_camera.png"],
+    "uniq": "shared", "shared_with": [
+      { "slug": "argentina", "note": "Black Gen3 car there too — smudge much rarer.", "diff": "Smudgy lens → lean Uruguay; Gen4 → Argentina." },
+      { "slug": "peru", "note": "Black car too.", "diff": "Mountains → Peru; grass hills → Uruguay." } ] },
+  { "cat": "country", "type": "signs", "text": "**Thick white wooden signposts**, often w/ up to 4 rectangular notches at the back", "src": ["plonkit"], "sv": null, "anchor": "07Np", "img": "Signposts.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "bolivia", "note": "Thick white posts there too.", "diff": "Notched backs + grasslands → Uruguay." } ] },
+  { "cat": "country", "type": "markings", "text": "**Triple road lines**: double yellow w/ white dashes in between — seen nowhere else in the Americas (also: yellow-white like AR, or plain white)", "src": ["plonkit"], "sv": null, "anchor": "ZQG4", "img": "Triple_road_lines.png", "imgs": ["Other_road_lines.png"], "uniq": "unique" },
+  { "cat": "country", "type": "bollards", "text": "**White bollards** (one side often yellow) + stone barriers — specific to Uruguay", "src": ["plonkit"], "sv": null, "anchor": "Pveh", "img": "Bollards_and_barriers.png", "uniq": "unique" },
+  { "cat": "country", "type": "utility", "text": "**Trident poles** (3 upward insulators); also round poles w/ flat metal-sheet tops + **square concrete poles** — all good Uruguay clues", "src": ["plonkit"], "sv": null, "anchor": "0wFk", "img": "Trident_pole.png", "imgs": ["Other_Uruguay_poles.png"],
+    "uniq": "shared", "shared_with": [
+      { "slug": "brazil", "note": "Similar tridents in Rio Grande do Sul.", "diff": "Spanish + plain plates → Uruguay." } ] },
+  { "cat": "country", "type": "utility", "text": "Guardrails w/ yellow/red reflectors like Argentina — but the support has **3 sides + corner bits of a 4th** (Argentina: just 3 sides)", "src": ["plonkit"], "sv": null, "anchor": "HRMl", "img": "Uruguay_Guardrail.png",
+    "uniq": "shared", "shared_with": [
+      { "slug": "argentina", "note": "Same reflectors, simpler support.", "diff": "4th-side corners → Uruguay." } ] },
+  { "cat": "country", "type": "signs", "text": "**Green-painted stone km marker** — unique to Uruguay; chevrons yellow-black (Argentina = white-red)", "src": ["plonkit"], "sv": null, "anchor": "3qgY", "img": "Road_marker.png", "imgs": ["Chevron.png"], "uniq": "unique" },
+  { "cat": "country", "type": "landscape", "text": "**Reddish soil** (light pink → deep red) in many areas — a good Uruguay-vs-Argentina clue (absence proves nothing)", "src": ["plonkit"], "sv": null, "anchor": "lQlm", "img": "Reddish_soil.png" },
+  { "cat": "country", "type": "arch", "text": "Houses **cube-shaped concrete**, drab weathered colours, flat roofs (Argentina similar); short **stocky palms** occasionally; **cattle everywhere** (4:1 vs people)", "src": ["plonkit"], "sv": null, "anchor": "gxV0", "img": "Architecture.png", "imgs": ["Palm_trees.png", "Cattle_farming.png"] },
+  { "cat": "region", "type": "general", "text": "Coverage limited: densest around **Montevideo**, elsewhere mostly yellow roads → **angle-guessing is powerful**", "src": ["plonkit"], "sv": null, "anchor": "Ql63", "img": "uy_coverage.png", "super": true },
+  { "cat": "region", "type": "landscape", "text": "**Region reads**: tallest hills near **Minas** (exposed rocks + heavy bush) and **north of Tacuarembó** (darker soil, no rocks, plantations — esp. Route 30 near Tranqueras); tree-plantation hotspots north + northwest; **flat** → Laguna Merín/Brazil border SE; divided highways only near Montevideo (Ruta 1 to Colonia Valdense, Ruta IB to Punta del Este, Ruta 5 to Canelones); bins w/ orange lids → Rocha", "src": ["plonkit"], "sv": null, "anchor": "8hZX", "img": "Elevation_map2.png", "imgs": ["Rocky_hills.png", "Northern_hills.png", "Tree_plantations.png", "Flatlands.png", "Divided_highways.png", "Rocha_bins.png"], "super": true },
+  { "cat": "city", "type": "general", "text": "**Montevideo** = the only really big, dense urban area (half the population); **Punta del Este** = resort town w/ modern high-rises + sandy beach, villa suburbs w/ tall pines", "src": ["plonkit"], "sv": null, "anchor": "Zjpu", "img": "Montevideo.png", "imgs": ["Punta_del_Este.png"] },
+  { "cat": "special", "type": "cars", "text": "**Special coverage**: Isla de Flores trekker (abandoned buildings + lighthouse); **Cabo Polonio** = unique car w/ orange strap, makeshift shacks, beach driving; **Valle del Lunarejo** = white-front car w/ black curved back + brown strap on a grassy track", "src": ["plonkit"], "sv": null, "anchor": "xQPs", "img": "Isla_de_Flores.png", "imgs": ["Cabo_Polonio.png", "Valle_de_Lunarejo.png"], "uniq": "unique" }
  ]
 }
