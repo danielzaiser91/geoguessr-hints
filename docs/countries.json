@@ -18433,91 +18433,289 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Plates white w/ a **red block near the left** (sometimes an EU strip too); Serbia almost always has a blue strip",
+     "type": "plates",
+     "text": "Plates white w/ a noticeable **red block near the left** (sometimes an EU-style blue strip too)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "VYOQ",
      "img": "North_Macedonia_License_Plate.png",
-     "type": "plates"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "serbia",
+       "note": "Serbia will almost always have a blue strip on their plates.",
+       "diff": "Red block near left → North Macedonia."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "All Gen4 = smallcam; the car **never has an antenna** (only Serbia is also usually antenna-less)",
+     "type": "cars",
+     "text": "All Gen4 = **smallcam**: low-mounted camera, big circular blur w/ small front protrusion (can be fully transparent)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "lNYT",
+     "img": "Smallcam.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "serbia",
+       "note": "Most of the Balkans and southern Europe have smallcam.",
+       "diff": "Smallcam only narrows to the region."
+      },
+      {
+       "slug": "greece",
+       "note": "Greek Gen4 is also smallcam.",
+       "diff": "Ѓ/Ќ Cyrillic → North Macedonia; Greek alphabet → Greece."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "The Google car **never has an antenna** — every other European country sometimes does in Gen3",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "lY5z",
      "img": "Antenna-FYROM.png",
-     "type": "cars"
+     "uniq": "unique*",
+     "uniq_note": "Only Serbia is also antenna-less MOST of the time — but Serbia does have an antenna sometimes. No antenna ≠ proof; an antenna DOES rule out North Macedonia.",
+     "shared_with": [
+      {
+       "slug": "serbia",
+       "note": "Serbia has no antenna the majority of the time, but sometimes does.",
+       "diff": "Antenna visible → never North Macedonia."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Two bollards: a thin rounded one + a wedge-shaped one (Croatia uses the same wedge)",
+     "type": "bollards",
+     "text": "Two bollard types: **thin rounded** + **wedge-shaped** — both white w/ red or white reflectors on a black surface",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "jQXp",
      "img": "Bollards.png",
-     "type": "bollards"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "croatia",
+       "note": "Croatia uses the same wedge-shaped bollard.",
+       "diff": "Cyrillic → North Macedonia; č/ć Latin → Croatia."
+      },
+      {
+       "slug": "hungary",
+       "note": "Similar wedge bollard but with more white space above the black rectangle.",
+       "diff": "More white above the rectangle → Hungary."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "A-Profile guardrails w/ red reflectors (Serbia = B-Profile); direction signs **yellow, biscriptal** (Latin + Cyrillic)",
+     "type": "utility",
+     "text": "**A-profile guardrails w/ red reflectors**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "dKOW",
+     "img": "Guardrail-FYROM.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "serbia",
+       "note": "Serbia uses B-profile guardrails.",
+       "diff": "A-profile (rounded edges) → North Macedonia."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Direction signs **yellow w/ biscriptal text** (Latin + Cyrillic town names)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Gary",
      "img": "Direction-Signs-FYROM.png",
-     "type": "signs"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "serbia",
+       "note": "Serbia is the only other yellow-sign country with biscriptal text.",
+       "diff": "Ѓ/Ќ letters → North Macedonia; B-profile guardrails → Serbia."
+      },
+      {
+       "slug": "slovenia",
+       "note": "Yellow direction signs, Latin only.",
+       "diff": "Cyrillic on the sign → not Slovenia."
+      },
+      {
+       "slug": "croatia",
+       "note": "Yellow direction signs, Latin only.",
+       "diff": "Cyrillic on the sign → not Croatia."
+      },
+      {
+       "slug": "montenegro",
+       "note": "Yellow direction signs, mostly Latin.",
+       "diff": "Biscriptal → NMK/Serbia."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Macedonian** Cyrillic: unique **Ѓ Ќ** (Љ Њ Џ are shared only with Serbian)",
+     "type": "language",
+     "text": "**Macedonian Cyrillic**: **Ѓ** and **Ќ** are unique to Macedonian (Љ Њ Џ shared only w/ Serbian); road signs biscriptal, other signs fully Cyrillic",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "k3sg",
      "img": "mk_language.png",
-     "type": "language"
+     "uniq": "unique*",
+     "uniq_note": "Ѓ/Ќ = 100% Macedonian. Without those letters, Cyrillic alone could also be Serbian/Bulgarian."
     },
     {
      "cat": "country",
-     "text": "Landscape = dry grasslands, small hills, scattered trees",
+     "type": "landscape",
+     "text": "Landscape: relatively **dry grasslands**, small hills, scattered trees",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "NOTA",
-     "img": "General-Landscape-FYROM.png",
-     "type": "landscape"
+     "img": "General-Landscape-FYROM.png"
     },
     {
      "cat": "country",
-     "text": "**Yellow-filled warning signs** (most of Europe = white; Greece also yellow); 'Greek Lamps' on utility poles",
+     "type": "utility",
+     "text": "**'Greek lamps'** on utility poles",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "FsbE",
+     "img": "Greek-Lamp-FYROM.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "greece",
+       "note": "Found in Greece too (hence the name).",
+       "diff": "Alphabet decides."
+      },
+      {
+       "slug": "serbia",
+       "note": "Also found in Serbia.",
+       "diff": "Ѓ/Ќ → North Macedonia."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "**Yellow-filled warning signs** (most of Europe uses white)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "wBz4",
      "img": "Warning-Signs-FYROM.png",
-     "type": "signs"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "greece",
+       "note": "Greece also commonly uses yellow-filled warning signs.",
+       "diff": "Alphabet decides."
+      },
+      {
+       "slug": "slovenia",
+       "note": "Slovenia sometimes has yellow-filled signs.",
+       "diff": "Cyrillic → North Macedonia."
+      }
+     ]
     },
     {
      "cat": "region",
-     "text": "Coverage sparse (8 cities; **Skopje** = capital & biggest → large apartments); **city-specific obituary posters** on poles (Kumanovo = thick light-blue border, etc.)",
+     "type": "naming",
+     "text": "Gen3 coverage **sparse**: some highways + only **Skopje, Bitola, Kumanovo, Prilep, Tetovo, Veles, Ohrid, Strumica** have significant city coverage; large apartments/buildings → almost guaranteed **Skopje**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "F1TE",
      "img": "mk_coverage.png",
-     "type": "naming"
+     "imgs": [
+      "Skopje-FYROM.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "city",
+     "type": "naming",
+     "text": "**City-specific obituary posters** on utility poles:",
+     "bullets": [
+      "Kumanovo: the only ones w/ a **thick light-blue border**",
+      "Bitola: horizontal, light/dark blue, cross in-between the border (gap in rectangle)",
+      "Ohrid: horizontal, red or blue; cross UNDER the border (unique when red)",
+      "Strumica: vertical, blue, **intricate corner pattern** (only city)",
+      "Veles: vertical, blue, biggest variety; only city w/ cross ABOVE border when blue",
+      "Prilep: vertical, black; border doesn't go fully around",
+      "Tetovo: vertical, black; cross above border OR thick cross in-between"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "IeVN",
+     "img": "City-Stickers-FYROM.png",
+     "imgs": [
+      "Kumanovo-Stickers-FYROM.png",
+      "Bitola-Stickers-FYROM.png",
+      "Ohrid-Stickers-FYROM_fix.png",
+      "Strumica-Stickers-FYROM.png",
+      "Veles-Stickers-FYROM.png",
+      "Prilep-Stickers-FYROM.png",
+      "Tetovo-Stickers-FYROM.png"
+     ],
+     "super": true,
+     "uniq": "unique"
+    },
+    {
+     "cat": "city",
+     "type": "landscape",
+     "text": "**City spotlights**: black-yellow striped kerbs → Strumica (at roundabouts → Tetovo); **Ohrid** = only large city on a lake; long rectangular lamps → only Prilep; two extremely rocky hills → Prilep",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "HFWt",
+     "img": "Strumica-Kerbs-FYROM.png",
+     "imgs": [
+      "Ohrid-Lake-FYROM.png",
+      "Prilep-Lamps-FYROM.png",
+      "Prilep-Hills-FYROM.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "cars",
+     "text": "Gen3 E-65 Kichevo–Arbinovo: a **green truck** behind the Google car (mostly obsolete)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "oHPQ",
+     "img": "Green-Truck-FYROM.png"
     }
    ]
   },

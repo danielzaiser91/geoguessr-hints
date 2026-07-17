@@ -2050,14 +2050,20 @@ Study: [Plonk It](https://www.plonkit.net/north-macedonia)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates white w/ a **red block near the left** (sometimes an EU strip too); Serbia almost always has a blue strip | [P](https://www.plonkit.net/north-macedonia) |  |
-| Country | All Gen4 = smallcam; the car **never has an antenna** (only Serbia is also usually antenna-less) | [P](https://www.plonkit.net/north-macedonia) |  |
-| Country | Two bollards: a thin rounded one + a wedge-shaped one (Croatia uses the same wedge) | [P](https://www.plonkit.net/north-macedonia) |  |
-| Country | A-Profile guardrails w/ red reflectors (Serbia = B-Profile); direction signs **yellow, biscriptal** (Latin + Cyrillic) | [P](https://www.plonkit.net/north-macedonia) |  |
-| Country | **Macedonian** Cyrillic: unique **Ѓ Ќ** (Љ Њ Џ are shared only with Serbian) | [P](https://www.plonkit.net/north-macedonia) |  |
-| Country | Landscape = dry grasslands, small hills, scattered trees | [P](https://www.plonkit.net/north-macedonia) |  |
-| Country | **Yellow-filled warning signs** (most of Europe = white; Greece also yellow); 'Greek Lamps' on utility poles | [P](https://www.plonkit.net/north-macedonia) |  |
-| Region | Coverage sparse (8 cities; **Skopje** = capital & biggest → large apartments); **city-specific obituary posters** on poles (Kumanovo = thick light-blue border, etc.) | [P](https://www.plonkit.net/north-macedonia) |  |
+| Country | Plates white w/ a noticeable **red block near the left** (sometimes an EU-style blue strip too) | [P](https://www.plonkit.net/north-macedonia) |  |
+| Country | All Gen4 = **smallcam**: low-mounted camera, big circular blur w/ small front protrusion (can be fully transparent) | [P](https://www.plonkit.net/north-macedonia) |  |
+| Country | The Google car **never has an antenna** — every other European country sometimes does in Gen3 | [P](https://www.plonkit.net/north-macedonia) |  |
+| Country | Two bollard types: **thin rounded** + **wedge-shaped** — both white w/ red or white reflectors on a black surface | [P](https://www.plonkit.net/north-macedonia) |  |
+| Country | **A-profile guardrails w/ red reflectors** | [P](https://www.plonkit.net/north-macedonia) |  |
+| Country | Direction signs **yellow w/ biscriptal text** (Latin + Cyrillic town names) | [P](https://www.plonkit.net/north-macedonia) |  |
+| Country | **Macedonian Cyrillic**: **Ѓ** and **Ќ** are unique to Macedonian (Љ Њ Џ shared only w/ Serbian); road signs biscriptal, other signs fully Cyrillic | [P](https://www.plonkit.net/north-macedonia) |  |
+| Country | Landscape: relatively **dry grasslands**, small hills, scattered trees | [P](https://www.plonkit.net/north-macedonia) |  |
+| Country | **'Greek lamps'** on utility poles | [P](https://www.plonkit.net/north-macedonia) |  |
+| Country | **Yellow-filled warning signs** (most of Europe uses white) | [P](https://www.plonkit.net/north-macedonia) |  |
+| Region | Gen3 coverage **sparse**: some highways + only **Skopje, Bitola, Kumanovo, Prilep, Tetovo, Veles, Ohrid, Strumica** have significant city coverage; large apartments/buildings → almost guaranteed **Skopje** | [P](https://www.plonkit.net/north-macedonia) |  |
+| City | **City-specific obituary posters** on utility poles: | [P](https://www.plonkit.net/north-macedonia) |  |
+| City | **City spotlights**: black-yellow striped kerbs → Strumica (at roundabouts → Tetovo); **Ohrid** = only large city on a lake; long rectangular lamps → only Prilep; two extremely rocky hills → Prilep | [P](https://www.plonkit.net/north-macedonia) |  |
+| Special | Gen3 E-65 Kichevo–Arbinovo: a **green truck** behind the Google car (mostly obsolete) | [P](https://www.plonkit.net/north-macedonia) |  |
 
 ## Slovenia
 Study: [Plonk It](https://www.plonkit.net/slovenia)
