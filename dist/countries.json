@@ -2407,69 +2407,118 @@
    "hints": [
     {
      "cat": "country",
-     "text": "British overseas territory (counts as UK); drives on the **left**; black SV car w/ its front sides visible",
+     "type": "general",
+     "text": "British overseas territory north of the Caribbean — **counts as UK** in country streaks; drives on the **left**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "rKvn",
+     "img": "bm_location.png",
+     "imgs": [
+      "bm_lefthanddrive.png"
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "**Black Street View car** w/ the entire front sides typically visible",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "iYFp",
      "img": "bm_googlecar.png",
-     "type": "cars"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Plates **all-white**, fairly long, black digits bunched in the **middle**",
+     "type": "landscape",
+     "text": "Typical look: fairly dense vegetation of **small trees + many bushes**, single-family houses strewn across; **palms** very common; the ocean is never far and looks distinctly **light blue**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "mcLU",
+     "img": "bm_generallook.png",
+     "imgs": [
+      "bm_palms.png",
+      "bm_bluewater.png"
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "plates",
+     "text": "Plates **all-white, fairly long**, black digits bunched in the middle",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Wp1S",
-     "img": "bm_licenceplate.png",
-     "type": "plates"
+     "img": "bm_licenceplate.png"
     },
     {
      "cat": "country",
-     "text": "Roads have a single **solid yellow centre line, no outer lines**; occasional white **zig-zag** markings",
+     "type": "markings",
+     "text": "Most roads: **single solid yellow middle line, NO outer lines**; occasional white **zig-zag lines**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "pS17",
      "img": "bm_yellowroadline.png",
-     "type": "markings"
+     "imgs": [
+      "bm_zigzaglines.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "Left-hand traffic + lone yellow centre line is a Bermuda signature."
     },
     {
      "cat": "country",
-     "text": "Single-family **stone houses in pastel colours w/ bright white roofs** (rainwater catchment)",
+     "type": "arch",
+     "text": "**Pastel stone houses w/ completely WHITE roofs** (stepped, for rain catchment)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "plHU",
      "img": "bm_architecture.png",
-     "type": "arch"
+     "uniq": "unique"
     },
     {
-     "cat": "country",
-     "text": "Dense small trees & bushes, lots of **palms**; you're never far from the distinctly **light-blue** ocean",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "2FIK",
-     "img": "bm_bluewater.png",
-     "type": "landscape"
-    },
-    {
-     "cat": "region",
-     "text": "**Hamilton** = by far the largest town (dense multi-floor downtown); NW tip has big **unpainted grey-brick** buildings (dockyard)",
+     "cat": "city",
+     "type": "arch",
+     "text": "**Hamilton**: by far the largest town — dense multi-floor downtown",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "1Tff",
-     "img": "bm_downtownhamilton.png",
-     "type": "general"
+     "img": "bm_downtownhamilton.png"
+    },
+    {
+     "cat": "special",
+     "type": "arch",
+     "text": "**NW tip** (Royal Naval Dockyard): many large **unpainted grey-brick buildings**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "wEtL",
+     "img": "bm_northwestpeninsula.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "cars",
+     "text": "**Boat trekker** on the east coast: around Saint George's Harbour + past Fort St. Catherine (NE tip)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "8UWt",
+     "img": "bermuda_boat.png",
+     "uniq": "unique"
     }
    ]
   },

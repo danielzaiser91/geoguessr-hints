@@ -2655,12 +2655,15 @@ Study: [Plonk It](https://www.plonkit.net/bermuda)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | British overseas territory (counts as UK); drives on the **left**; black SV car w/ its front sides visible | [P](https://www.plonkit.net/bermuda) |  |
-| Country | Plates **all-white**, fairly long, black digits bunched in the **middle** | [P](https://www.plonkit.net/bermuda) |  |
-| Country | Roads have a single **solid yellow centre line, no outer lines**; occasional white **zig-zag** markings | [P](https://www.plonkit.net/bermuda) |  |
-| Country | Single-family **stone houses in pastel colours w/ bright white roofs** (rainwater catchment) | [P](https://www.plonkit.net/bermuda) |  |
-| Country | Dense small trees & bushes, lots of **palms**; you're never far from the distinctly **light-blue** ocean | [P](https://www.plonkit.net/bermuda) |  |
-| Region | **Hamilton** = by far the largest town (dense multi-floor downtown); NW tip has big **unpainted grey-brick** buildings (dockyard) | [P](https://www.plonkit.net/bermuda) |  |
+| Country | British overseas territory north of the Caribbean — **counts as UK** in country streaks; drives on the **left** | [P](https://www.plonkit.net/bermuda) |  |
+| Country | **Black Street View car** w/ the entire front sides typically visible | [P](https://www.plonkit.net/bermuda) |  |
+| Country | Typical look: fairly dense vegetation of **small trees + many bushes**, single-family houses strewn across; **palms** very common; the ocean is never far and looks distinctly **light blue** | [P](https://www.plonkit.net/bermuda) |  |
+| Country | Plates **all-white, fairly long**, black digits bunched in the middle | [P](https://www.plonkit.net/bermuda) |  |
+| Country | Most roads: **single solid yellow middle line, NO outer lines**; occasional white **zig-zag lines** | [P](https://www.plonkit.net/bermuda) |  |
+| Country | **Pastel stone houses w/ completely WHITE roofs** (stepped, for rain catchment) | [P](https://www.plonkit.net/bermuda) |  |
+| City | **Hamilton**: by far the largest town — dense multi-floor downtown | [P](https://www.plonkit.net/bermuda) |  |
+| Special | **NW tip** (Royal Naval Dockyard): many large **unpainted grey-brick buildings** | [P](https://www.plonkit.net/bermuda) |  |
+| Special | **Boat trekker** on the east coast: around Saint George's Harbour + past Fort St. Catherine (NE tip) | [P](https://www.plonkit.net/bermuda) |  |
 
 # South America
 
