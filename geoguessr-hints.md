@@ -250,16 +250,20 @@ Study: [Plonk It](https://www.plonkit.net/tunisia)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates **black w/ white text** (military plates have a small Tunisian flag on the left) | [P](https://www.plonkit.net/tunisia) |  |
-| Country | A **follow car** escorts the Google car in most coverage (can be ahead or far behind — pan & zoom to find it) | [P](https://www.plonkit.net/tunisia) |  |
-| Country | Google car is **black with a medium-length thin antenna** | [P](https://www.plonkit.net/tunisia) |  |
-| Country | **Olive-tree plantations** in neat rows on raked, weedless soil; road lines white (outer dashed or solid) | [P](https://www.plonkit.net/tunisia) |  |
-| Country | **French + Arabic** common — often bilingual signs; distinctive Latin font | [P](https://www.plonkit.net/tunisia) |  |
-| Country | Direction signs white bg, towns in Arabic + Latin (Tunis often listed even far away) | [P](https://www.plonkit.net/tunisia) |  |
-| Country | Traditional **blue** doors/windows/gates (esp. on Djerba); red-and-white striped curbs (also Israel/Palestine) | [P](https://www.plonkit.net/tunisia) |  |
-| Country | White concrete **markers w/ a rounded red/yellow/green top** (distances + road number → pinpoint) | [P](https://www.plonkit.net/tunisia) |  |
-| Country | Fairly unique **stop sign** with Arabic + Latin (Jordan/UAE similar; Israel/Palestine use a hand) | [P](https://www.plonkit.net/tunisia) |  |
-| Region | Coverage mostly **east coast** (Bizerte→Medenine); **follow-car type = region** (light-green Toyota north, dark-green Mazda Hammamet→Djerba, Kairouan white Mitsubishi, **Djerba = no follow car**); N Mediterranean/hilly, centre flat/arid, S desert | [P](https://www.plonkit.net/tunisia) |  |
+| Country | Plates **black w/ white text** (military plates: small Tunisian flag left — visible on the dark-green follow car) | [P](https://www.plonkit.net/tunisia) |  |
+| Country | A **follow car escorts the Google car** in most coverage (several types; may be ahead or FAR behind — pan around!); the Google car itself is **black w/ a medium thin antenna** | [P](https://www.plonkit.net/tunisia) |  |
+| Country | Climates: Mediterranean → dry → semi-desert; **olive plantations** in neat rows on raked weedless soil along many roads | [P](https://www.plonkit.net/tunisia) |  |
+| Country | Road lines usually **white** (outer dashed or solid; a few Sfax roads have yellow middles) | [P](https://www.plonkit.net/tunisia) |  |
+| Country | **French + Arabic**, often bilingual signs | [P](https://www.plonkit.net/tunisia) |  |
+| Country | Direction signs: white background, towns in **Arabic + Latin** w/ a distinctive Latin font ('Tunis' listed everywhere — doesn't mean you're close!) | [P](https://www.plonkit.net/tunisia) |  |
+| Country | Traditional **'Tunisian blue'** doors, windows & gates — everywhere, most of all on Djerba | [P](https://www.plonkit.net/tunisia) |  |
+| Country | **Red-white striped kerbs** common | [P](https://www.plonkit.net/tunisia) |  |
+| Country | White concrete **km markers w/ rounded red/yellow/green top** — sides show distances to towns, road-facing side the road number → great for pinpointing | [P](https://www.plonkit.net/tunisia) |  |
+| Country | Fairly unique **stop sign w/ Arabic + Latin text** | [P](https://www.plonkit.net/tunisia) |  |
+| Region | Coverage mostly the **east coast Bizerte→Medenine**, main roads + big towns (Djerba has dense side streets) | [P](https://www.plonkit.net/tunisia) |  |
+| Region | **Follow car = region**: light-green Toyota → far north (never south of Hammamet); dark-green Mazda (military plate w/ red strip) → Hammamet→Djerba (most common); Tunis = many different ones; Kairouan = white **Mitsubishi** w/ white mirrors; **Djerba = usually NO follow car** (rare white Mercedes/dark-green) | [P](https://www.plonkit.net/tunisia) |  |
+| Region | **Landscape north→south**: north of Tunis = Mediterranean hills, fallow fields; Tunis↔Hammamet = higher greener hills; Hammamet↔Gabès = flat & arid w/ olives (drier southward); south of Gabès = semi-desert w/ rubbish + small white rocks + a range far SW; **Djerba** = palms + whitewashed traditional buildings w/ blue doors | [P](https://www.plonkit.net/tunisia) |  |
+| Special | **Spotlights**: Bizerte Lake = teal water + slight hills south; mass of palms in one place → **Gabès**; sandy hills → P1 NW of Medenine (south is otherwise flat); P12 off-road SW of Sousse = dark pavement + bright sand, prickly pears east; **Djerba-Zarzis causeway** = water both sides + pipeline west; trekkers all over (forts, mosques, a **Star Wars set**) | [P](https://www.plonkit.net/tunisia) |  |
 
 ## Lesotho
 Study: [Plonk It](https://www.plonkit.net/lesotho)
