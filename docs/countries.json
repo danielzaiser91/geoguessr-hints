@@ -5676,150 +5676,480 @@
    "area_km2": 551695,
    "links": {
     "plonkit": "https://www.plonkit.net/france",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/66338d3804309d08d22387c0"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "Plates: long white, **blue strips both sides** (left more visible) — Italy has equal strips + shorter front plate",
+     "type": "plates",
+     "text": "Plates long white, **blue strips both sides** (left more visible; rare old plates: yellow rear)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "4kQ6",
-     "img": "1_licenceplate2.png"
+     "img": "1_licenceplate2.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "italy",
+       "note": "Italian plates have two **equally visible** blue strips.",
+       "diff": "Italian front plates are much **shorter**; language decides."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "French: é à è â ê î ô û, œ, ç; **-ux** suffix only French; street = **rue**",
+     "type": "language",
+     "text": "**French**: é à è ù â ê î ô û ë ï ç œ — the **-ux suffix** is French-only; street = **rue**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "944S",
-     "img": "1_language.png"
+     "img": "1_language.png",
+     "imgs": [
+      "1_rue.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "belgium",
+       "note": "Francophone south (Wallonia).",
+       "diff": "Belgian plates: white w/ **red text**."
+      },
+      {
+       "slug": "luxembourg",
+       "note": "French used too.",
+       "diff": "Yellow plates → Luxembourg."
+      },
+      {
+       "slug": "monaco",
+       "note": "French-speaking.",
+       "diff": "Dense high-rise + wealth → Monaco."
+      },
+      {
+       "slug": "switzerland",
+       "note": "Romandy speaks French.",
+       "diff": "Low-cam + blurred car → Switzerland."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**French bollard**: round white, **pointed top**, reflector band all around (Scotland's is blunt-topped)",
+     "type": "bollards",
+     "text": "Iconic bollard: round white, **pointed top, reflector band all around** (grey or red); variants: two indented bands (also green/yellow) or wedge-shaped w/ wide rectangular reflectors — both France-only",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "eNYi",
      "img": "Bollard.png",
-     "type": "bollards"
+     "imgs": [
+      "Medium_bollard.png",
+      "Rare_bollard.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "The two rarer designs are unique to France; the classic pointed bollard has a Scottish lookalike with a **blunt** top — pointed = France."
     },
     {
      "cat": "country",
-     "text": "**Waffle/ladder poles** (step indents; also Spain) + small **blue plates** on poles (France-unique) + diamond \"French poletops\"",
+     "type": "utility",
+     "text": "**Ladder/waffle poles** (step-indent concrete) + 'French poletops' (diamond, 3 wires)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "DCU8",
      "img": "Ladder_poles.png",
-     "type": "utility"
+     "imgs": [
+      "French_poletop.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "spain",
+       "note": "Ladder poles + French poletops are common in Spain too.",
+       "diff": "Blue pole plates → France; Spanish signage → Spain."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Yellow \"D\" road-number signs** = France only; town-entry signs red border w/ thin white outline",
+     "type": "utility",
+     "text": "Rural: wooden + thin octagonal metal poles; small **blue rectangular plates ('stickers') on poles** = unique to France; poletop w/ **insulators on top** (arrowhead look) = unique",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "u1uQ",
+     "img": "1_ruralpoles.png",
+     "imgs": [
+      "Blue_sticker_2.png",
+      "Top_insulators.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "Gen4 **smallcam** (low mount, big blur, front protrusion) — like most of Western Europe",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "n2Xh",
+     "img": "europe_smallcam.png"
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Small **yellow road-number signs** ('D…') on top of directional/town signs = unique; directional signs white w/ offset black border, arrow-shaped; highways blue/green; italic font for POIs",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "AuxP",
      "img": "1_roadnumber.png",
-     "type": "signs"
+     "imgs": [
+      "Directional_signs.jpg"
+     ],
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Chevrons **white-on-blue** (only France + Spain; Spain uses only 2 or 4 arrows)",
+     "type": "signs",
+     "text": "Town entry + road signs: **red border w/ thin white outline** (Spain: thick border to the edge); white sub-signs w/ black text; **flat rectangular signposts** (elsewhere only PT/ES/AD) often very short; unorthodox sign colours common",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "4OYB",
+     "img": "Town_entrance.png",
+     "imgs": [
+      "Signs_border.png",
+      "Flat_signpost.png",
+      "1_lowsign.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "spain",
+       "note": "Flat posts + similar signs.",
+       "diff": "Spain's red sign border reaches the edge; Spanish language."
+      },
+      {
+       "slug": "portugal",
+       "note": "Flat posts too.",
+       "diff": "Portuguese language."
+      },
+      {
+       "slug": "andorra",
+       "note": "Flat posts too.",
+       "diff": "Catalan + Pyrenees microstate."
+      }
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Chevrons **white on blue**, 1–5 arrows (Spain: only 2 or 4); pedestrian sign: 5 stripes + **disconnected head** (or dashed-line variant)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "gORW",
      "img": "Chevrons.png",
-     "type": "signs"
+     "imgs": [
+      "Pedestrian.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "spain",
+       "note": "Same blue chevrons — but only with 2 or 4 arrows.",
+       "diff": "1, 3 or 5 arrows → France."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Middle-line dashes = **two offset blocks** → France; blue house numbers (Italy rarely blue)",
+     "type": "signs",
+     "text": "Km markers: white w/ **yellow or red semicircle top** (waystone or flat, parallel or perpendicular); highways: square w/ red top",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "pf4x",
-     "img": "Middle_Z_line.png",
-     "type": "markings"
+     "anchor": "IaD0",
+     "img": "1_kmmarker.png",
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Peugeot / Renault / Citroën ≈ half of all cars; smallcam (most of W. Europe)",
+     "type": "markings",
+     "text": "Outer lines = long spaced dashes; **'Z-block' middle dashes** (two offset blocks) = France-only; unusually long middle dashes (also UK); end-of-passing-zone arrows (also ES/PT/RO; UK's point left)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "WdcG",
-     "img": "1_carbrands.png",
-     "type": "cars"
+     "anchor": "vSP7",
+     "img": "Lines_dashes.png",
+     "imgs": [
+      "Middle_Z_line.png",
+      "Long_dashes.png",
+      "1_roadarrow.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "The offset-block middle line is unique — the rest of the line metas are shared (UK/ES/PT/RO)."
     },
     {
-     "super": true,
-     "cat": "state",
-     "text": "**Postal code first 2 digits = department number** (alphabetical); also inside the right blue plate strip",
+     "cat": "country",
+     "type": "utility",
+     "text": "**A-type guardrails without reflectors** (Spain/Andorra/Belgium use yellow reflectors; rare thin B-type); roadside **Austrian-flag-coloured flag markers** found nowhere else",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "3Q5x",
-     "img": "2_postcodes.png",
-     "type": "naming"
-    },
-    {
-     "cat": "state",
-     "text": "Phone: **01 = Île-de-France**, 02–05 run clockwise from the NW",
-     "src": [
-      "plonkit"
+     "anchor": "Eqaj",
+     "img": "Guardrail.png",
+     "imgs": [
+      "1_flagmarker.png"
      ],
-     "sv": null,
-     "anchor": "RkYB",
-     "img": "2_areacodes.png",
-     "type": "naming"
+     "uniq": "unique*",
+     "uniq_note": "The red-white-red flag markers are unique; plain A-type guardrails are pan-European."
     },
     {
-     "cat": "state",
-     "text": "**Department logos** on bus stops / km markers / signbacks → identify department",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "lVS8",
-     "img": "2_departmentlogo2.png",
-     "type": "naming"
-    },
-    {
-     "cat": "region",
-     "text": "Stone houses, gable roofs w/ orange tiles (S) or black slate (N); very diverse regional architecture",
+     "cat": "country",
+     "type": "arch",
+     "text": "Stone houses, unpainted/grey/yellow pastel; simple gable roofs w/ orange tiles or black slate; wall-to-wall townhouses (very diverse regional styles!); **blue serif house numbers** (Italy almost never blue)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "pP2z",
      "img": "1_architecture.jpg",
-     "type": "arch"
+     "imgs": [
+      "1_housenumber.png"
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "**Peugeot/Renault/Citroën** ≈ half of all cars",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "WdcG",
+     "img": "1_carbrands.png"
     },
     {
      "cat": "region",
-     "text": "Regional languages appear (Breton NW, Alsatian E, Occitan/Basque/Catalan S)",
+     "type": "naming",
+     "text": "**13 regions / 96 departments** (on the map!); area codes: 01 Île-de-France, 02–05 clockwise from NW; secondary 2X north → anticlockwise (9X = far NW + far SE); **postal codes: first 2 digits = department number** (mostly alphabetical — same code in the right plate strip)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "etqG",
+     "img": "2_divisions.png",
+     "imgs": [
+      "2_areacodes.png",
+      "2_postcodes.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "signs",
+     "text": "**Department logos** on bus stops, km markers, signbacks (Occitanie = red-yellow Occitan cross; Pyrénées-Orientales = Senyera stripes — Provence similar but vertical)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "lVS8",
+     "img": "2_departmentlogo2.png",
+     "imgs": [
+      "2_occitanielogo.png",
+      "2_senyera.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "markings",
+     "text": "**Red/burgundy-tinted roads** → between Paris and Dijon (+Normandy) — historical Burgundy",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "Ducm",
+     "img": "2_redroad.png"
+    },
+    {
+     "cat": "region",
+     "type": "signs",
+     "text": "**Coloured sign infra**: dark green posts/backs → Brittany, Paris area, south; Eure-et-Loir = green logo sticker + superscript **D-road decimals** (D134.10); grey-green back + darker post → Côtes-d'Armor/E-Ille-et-Vilaine, Pyrénées-Atlantiques, Alps; Pas-de-Calais = dark green post + lighter green back (+triangle logo); brown post+back → Seine-et-Marne; Haute-Garonne = burgundy attachments + yellow posts; Marne = combined thick town entry/exit blocks",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "rGE0",
+     "img": "2_darkgreenposts.png",
+     "imgs": [
+      "2_eureetloirsticker.png",
+      "decimal_d_roads.png",
+      "2_darkdarker.png",
+      "2_pasdecalaissignback.png",
+      "2_brownbacks.png",
+      "hautegaronne_fixations.png",
+      "marne_town_entry_signs.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Topography**: tallest mountains SE + Spanish border; north/west flat-rolling, south hillier; NW (Normandy) = hedge-lined UK-like roads; stone pines → south coast (to Nantes); flat **maritime-pine forests** → Gironde/Landes; vineyards → Bordeaux, south coast, Champagne, Loire, Alsace, Corsica; sunflowers → SW (Toulouse); wind turbines → north",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "xk28",
+     "img": "2_topography.png",
+     "imgs": [
+      "2_westernvibe.png",
+      "2_stonepine.png",
+      "2_bordeauxpine.png",
+      "2_vineyards2.png",
+      "2_sunflower.png",
+      "2_windfarms.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "arch",
+     "text": "**Architecture regions**: black shingle roofs → NW of the Loire (+Belgian border, south-centre, Pyrenees — good Alps-vs-Pyrenees tell); Brittany = black roofs + edge chimneys + slate walls + stone-framed windows; rounded south-tiles; dark-red Flemish brick → Belgian border; bright orange brick → Toulouse; cream/orange stone w/ brick details → Paris-area towns; Riviera = Monaco-like palms & balconies (+harbour boat trekkers); Basque = white houses w/ coloured timber (Spanish Basque = unpainted); Alpine wood houses; Alsace = German timber framing + fish-scale roofs",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "EDtV",
+     "img": "2_blackroofs.png",
+     "imgs": [
+      "2_brittanyhouses.png",
+      "2_southerntiles.png",
+      "2_belgianbrick.png",
+      "2_toulousebrick.png",
+      "2_pariswalls.png",
+      "2_rivieraarchitecture.png",
+      "2_basquehouse.png",
+      "2_alpinehouse.png",
+      "2_germanhouse.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "language",
+     "text": "**Minority languages**: Breton (Celtic, k/w/ñ, street = straed; Plou- towns → NW Brittany); Alsatian (gasse/strasse); Occitan (carrièra Toulouse / carriero Avignon); Basque (K X Z, street = karrika, thin font) → W-Pyrénées-Atlantiques; Corsican (Italian-like, -u endings); Catalan (carrer, ç) → Pyrénées-Orientales — French always dominates!",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "XTPv",
      "img": "2_languageoverview.png",
-     "type": "language"
+     "imgs": [
+      "2_breton.png",
+      "2_plouprefix.png",
+      "2_alsatian.png",
+      "2_occitan.png",
+      "2_basque.png",
+      "2_corsican.png",
+      "2_catalan.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "naming",
+     "text": "**Toponym suffix map** + rivers: -sur-[river] (shortened ˢ/), -sur-mer/-plage = coast only",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "AUpF",
+     "img": "2_majortoponyms.png",
+     "imgs": [
+      "3_rivertoponyms.webp"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "general",
+     "text": "**Overseas** (count as France): Réunion, Saint-Pierre & Miquelon, Martinique — each has its own page here",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "0HXZ",
+     "img": "2_reunion.png"
+    },
+    {
+     "cat": "special",
+     "type": "arch",
+     "text": "**Paris**: mansard roofs (steep black shingle + dormers) on wide boulevards; **Corsica**: stone-mortar cuboid barriers (rounded-top ones ≠ Corsica); **Belle-Île-en-Mer**: Brittany houses w/ colourful facades, only oversaturated **Gen2**; lavender fields → SE; salt farms → Atlantic coast (Guérande, Île de Ré...)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "7CKN",
+     "img": "3_mansardroof.png",
+     "imgs": [
+      "2_corsicastoneguardrail.png",
+      "3_belleileenmer.png",
+      "3_lavender.png",
+      "salt_farms_new.png"
+     ]
+    },
+    {
+     "cat": "city",
+     "type": "signs",
+     "text": "**Street-sign city metas**: Paris/Lyon/Marseille = the only cities w/ **arrondissements** (on the map!); Paris = green & Prussian-blue arch design (imitated in Bucharest!); Lyon = 4 corner bolts + notched inner border; Marseille = Greek-cross emblem + top-interrupted border; Bordeaux = 'Arrᵗ' tables (despite no arrondissements) + bordeaux-red posts in the outskirts; Montpellier = blue 'M' top-left; **Lille = red slanted fleur-de-lis** (unique)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "aay7",
+     "img": "3_arrondissement.png",
+     "imgs": [
+      "3_parisstreetsign.png",
+      "3_lyonstreetsign.png",
+      "3_marseillestreetsign.png",
+      "2_bordeauxstreetsign.png",
+      "3_montpelierstreetsign.png",
+      "3_lillestreetsign.png",
+      "3_bordeauxpost.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "signs",
+     "text": "**Riviera**: azure-blue painted signposts (Cagnes-sur-mer = powder blue); thin **B-type guardrails** on some northern highways (Le Mans/Tours/Paris/Reims/Metz axes); Gen3 **antenna flags** (colourful, France-unique) — distribution learnable",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "CuZO",
+     "img": "3_rivierapost.png",
+     "imgs": [
+      "3_thinB.png",
+      "3_gen3antenna.jpeg"
+     ],
+     "uniq": "unique"
     }
    ]
   },
@@ -5830,150 +6160,445 @@
    "area_km2": 357022,
    "links": {
     "plonkit": "https://www.plonkit.net/germany",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/64c1ac0288458417f7393668"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "All car coverage = **Gen4**; **bollard roughly every 50 m** (B&W, white/grey reflectors, orange at intersections)",
+     "type": "cars",
+     "text": "All car coverage = **Gen4** (only some Gen2/3 trekkers + spill)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "7lT0",
+     "img": "German_cars.png"
+    },
+    {
+     "cat": "country",
+     "type": "bollards",
+     "text": "B&W bollards w/ **white/light-grey reflectors** (orange at intersections); often road-number plates + **blue side attachments**; a bollard roughly **every 50 m**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "LIr8",
-     "img": "Germany_Bollard_v2.png"
+     "img": "Germany_Bollard_v2.png",
+     "imgs": [
+      "ui_remover.png"
+     ],
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "luxembourg",
+       "note": "Almost identical bollards — but with **3 bolts** on the reflector (Germany: 2).",
+       "diff": "Count the bolts; Luxembourgish/French signage → Luxembourg."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "German: **Ä Ö Ü ß**; Luxembourg has near-identical bollards but **3 bolts** (Germany = 2)",
+     "type": "language",
+     "text": "**German**: Ä Ö Ü **ß**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "1NkZ",
-     "img": "German.png"
+     "img": "German.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "switzerland",
+       "note": "German-speaking too — but **no ß** (uses ss).",
+       "diff": "ß on signs → Germany/Austria; Alpine landscape + low-cam → Switzerland."
+      },
+      {
+       "slug": "austria",
+       "note": "German-speaking.",
+       "diff": "EINBAHN (vs Einbahnstraße), different town signs → Austria."
+      },
+      {
+       "slug": "liechtenstein",
+       "note": "German-speaking.",
+       "diff": "FL plates, tiny alpine country → Liechtenstein."
+      },
+      {
+       "slug": "belgium",
+       "note": "East Belgium speaks German.",
+       "diff": "Belgian plates (red text) → Belgium."
+      },
+      {
+       "slug": "italy",
+       "note": "South Tyrol is German-speaking.",
+       "diff": "Italian co-signage → Italy."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Yellow town-entry signs** (black text, metal frame) = town / municipality / county",
+     "type": "utility",
+     "text": "Wooden poles w/ **rectangular white sticker**; many poletop styles: uneven hanging insulators, triangle tops, T-shaped tops",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "iiZK",
-     "img": "German_town_entry_signs.png",
-     "type": "signs"
+     "anchor": "vbHB",
+     "img": "White_sticker.png",
+     "imgs": [
+      "Some_german_Poletops.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "**\"Einbahnstraße\"** one-way sign = Germany (Austria = \"EINBAHN\"); yellow mailboxes",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "OO0W",
-     "img": "de_einbahnstrasse.png",
-     "type": "signs"
-    },
-    {
-     "cat": "country",
-     "text": "km markers: **blue = Autobahn (A-road)**, white w/ black border = B/local; black/dark **sign backs** (also IT/RO/AL)",
+     "type": "signs",
+     "text": "**Black/dark-grey sign backs** (rare in Europe) + sticker with a red upside-down triangle on black",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "2QHh",
      "img": "German_Signback.png",
-     "type": "signs"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "italy",
+       "note": "Black sign backs too.",
+       "diff": "Landscape + language decide."
+      },
+      {
+       "slug": "romania",
+       "note": "Black sign backs too.",
+       "diff": "Romanian diacritics → Romania."
+      },
+      {
+       "slug": "albania",
+       "note": "Black sign backs too.",
+       "diff": "Albanian + Gen4 red-strip plates → Albania."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "**Wind turbines** far more common than anywhere else in Europe; green windshield sticker (\"4\")",
+     "type": "signs",
+     "text": "Bus stops with the **yellow-green H symbol** (regional designs, like Austria); mailboxes **bright yellow** w/ Deutsche-Post horn logo",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "4rEl",
+     "img": "German_Bus_Stops.png",
+     "imgs": [
+      "deutsche_post.png"
+     ]
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "**Yellow town-entry signs** (black text, metal frame): town on top, municipality middle, county bottom",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "iiZK",
+     "img": "German_town_entry_signs.png"
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Km markers: **blue w/ white border = Autobahn**; white w/ black border = B/local roads; triangular markers on smaller roads (regional)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "pJU0",
+     "img": "Add a heading.png"
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Pedestrian signs: **5 stripes + person with belt** (same in Luxembourg); **Einbahnstraße** one-way signs unique (Austria writes EINBAHN); no-stopping signs w/ white arrows",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "6qzp",
+     "img": "de_pedestriansign.png",
+     "imgs": [
+      "de_einbahnstrasse.png",
+      "de_nostoppingarrow.png"
+     ],
+     "uniq": "unique*",
+     "uniq_note": "The word Einbahnstraße is Germany-only (Austria uses EINBAHN); the belt pedestrian sign is shared with Luxembourg."
+    },
+    {
+     "cat": "country",
+     "type": "cars",
+     "text": "Cars: **green circular windshield sticker** (number 4; rarely yellow 3 / red 2) bottom-right on nearly every car",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "T3Bx",
+     "img": "German Windshield stickers.jpg"
+    },
+    {
+     "cat": "country",
+     "type": "utility",
+     "text": "**Wind turbines** far more common than in any other European country",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "iPnK",
-     "img": "Windmills_Hint.png",
-     "type": "landscape"
+     "img": "Windmills_Hint.png"
     },
     {
      "cat": "region",
-     "text": "Elevation: NW very flat · centre hilly · **south = Alps** (Austrian border)",
+     "type": "landscape",
+     "text": "**Elevation**: north(-west) very flat · centre hilly · far south big mountains (**German Alps** on the Austrian border); plains SE of Regensburg = flat farmland w/ slight ridge NE",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "KfVL",
-     "img": "Improved_Terrain_Map_of_Germany.png"
-    },
-    {
-     "super": true,
-     "cat": "state",
-     "text": "**Postal codes counter-clockwise: 0 = Saxony (E) → 9 = N. Bavaria**",
-     "src": [
-      "plonkit"
+     "img": "Improved_Terrain_Map_of_Germany.png",
+     "imgs": [
+      "German_Alps.png",
+      "This_One_Area_Hint.png"
      ],
-     "sv": null,
-     "anchor": "0QTU",
-     "img": "postleitzahlen_deutschland_cropped.png",
-     "type": "naming"
-    },
-    {
-     "cat": "state",
-     "text": "Place-name suffixes: **-ow / -itz = east** (Slavic); **-weiler / -ach = south**",
-     "src": [
-      "plonkit"
-     ],
-     "sv": null,
-     "anchor": "8CJo",
-     "img": "German_Suffixes_Map.png",
-     "type": "naming"
+     "super": true
     },
     {
      "cat": "region",
-     "text": "\"Commie blocks\" (socialist-era apartments) → former **East** Germany",
+     "type": "naming",
+     "text": "**Area codes** grouped by first digit; **postal codes counter-clockwise**: 0 = Saxony → 9 = N-Bavaria/Thuringia; state flags & coats of arms (on unblurred plates); **suffix meta**: -ow/-itz = east (Slavic), -weiler/-ach = south",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "o1vB",
-     "img": "Commie_Blocks_Hint.png",
-     "type": "arch"
+     "anchor": "CnFf",
+     "img": "800px-Karte_Telefonvorwahlen_Deutschland.png",
+     "imgs": [
+      "postleitzahlen_deutschland_cropped.png",
+      "German_flags.jpg",
+      "b3579ba53fa81de27ea0f3a4bea4a72b--german-heraldry-german-symbols.jpg",
+      "German_Suffixes_Map.png"
+     ],
+     "super": true
     },
     {
      "cat": "region",
-     "text": "Brick houses → NW; thatched roofs + rock walls → Schleswig-Holstein / N. Frisian islands; vineyards → SW",
+     "type": "utility",
+     "text": "Guardrails: mostly **B-type**; A-type → northwest + Rhineland-Palatinate + parts of Bavaria",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "O4bv",
+     "img": "German_Guardrails_Map.png"
+    },
+    {
+     "cat": "region",
+     "type": "signs",
+     "text": "**Bicycle signs**: white w/ green letters; **red letters** → Hamburg/NRW/nearby Lower Saxony; Saarland = white text on dark green; **sign backs** (folded vs flat) + connector types (double/T-shaped) regionguess Germany",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "n3r2",
+     "img": "Germany_bicycle_signs_map.png",
+     "imgs": [
+      "Germany_SignBacks_Map_V2.png",
+      "Germany_SignBacks_map_2_.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "landscape",
+     "text": "**Vegetation**: Baltic pines (orange trunks) → northeast; white-painted tree bottoms → northeast; vineyards → southwest (+few east); hop fields → north of Munich",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "jGsh",
+     "img": "baltic_Pines.png",
+     "imgs": [
+      "Painted_Trees_Hint.png",
+      "GermanVineyardsHint.png",
+      "Hops_Hint_Germany.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "arch",
+     "text": "**Architecture**: brick houses → northwest; thatched roofs + rock walls → North Frisian Islands, Schleswig-Holstein, MV resorts; black **slate 'fish-scale' walls** → central belt; **Commie blocks** → all of former East Germany",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "vfTH",
      "img": "Brick_Houses_Hint.png",
-     "type": "arch"
+     "imgs": [
+      "Thatched_Roofs_And_rockwalls_Hint.png",
+      "Black_Tiled_Wall_Hint_v2.png",
+      "Commie_Blocks_Hint.png"
+     ]
     },
     {
      "cat": "state",
-     "area": "Bavaria",
-     "text": "White **3-section road markers** + round wooden bollards; black-disk bollard bases → all of eastern Germany",
+     "type": "bollards",
+     "text": "**Bollard state metas**",
+     "bullets": [
+      "Darker-grey reflectors → mapped regions",
+      "NRW: green (or other-colour) caps; caps w/ **LVR text** = southern NRW only",
+      "Bavaria: round wooden bollards w/ painted top; simple orange posts (also other mapped states)",
+      "Lower Saxony K-roads (one region): irregular bollards w/o white casing",
+      "White bollard plates → mapped states; black **disks under bollards** → east; **orange plates = Rhineland-Palatinate only**; grey plates = Baden-Württemberg only",
+      "White posts w/ **red cap** → former East (esp. Saxony-Anhalt); fully **yellow posts** → Brandenburg; yellow + white plate → Saxony-Anhalt",
+      "Triangular posts: unpainted rocky + white plates → RLP & Saxony; tall white + plates → Saarland/Thuringia/BW (short in BW; BW also grey); white w/o plates → NRW"
+     ],
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "0ZC9",
+     "img": "Gray_Bollards.png",
+     "imgs": [
+      "NRW_Green_Caps_Hint.png",
+      "LVR_Bollard_Hint.png",
+      "Bavarian_Bollard_Hint.png",
+      "Odd_Bollard_Hint.png",
+      "Orange_posts_hint.png",
+      "White_Bollard_Plates.png",
+      "Bollard_Disks_Hint.png",
+      "Rhineland_palatinate_Markers.png",
+      "Baden_bollard.png",
+      "RedTop.png",
+      "Yellow.png",
+      "Copy_of_Yellow_Tagged.png",
+      "Germany_Triangle_Posts_Map.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "state",
+     "type": "signs",
+     "text": "**Road-marker state metas**: Bavaria = white rectangles split in 3 (left = current road); Lower Saxony = simple rounded rectangles; Schleswig-Holstein + Lower Saxony = metal-bordered markers (LS: smaller post-comma digits); tree markers (tiny green) → Brandenburg & MV",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Lhfc",
      "img": "Bavaria_Markers.png",
-     "type": "bollards"
+     "imgs": [
+      "Lower_Saxony_Markers_Hint_v2.png",
+      "Lower_Saxony_and_Schleswig-Holstein_markers_Hint.png",
+      "Tree_markers_hint.png"
+     ]
     },
     {
      "cat": "state",
-     "text": "Roadside post styles differ by state (rocky unpainted → Rhineland-Palatinate/Saxony; tall white → Saarland/Thuringia)",
+     "type": "utility",
+     "text": "**Pole state metas**: round concrete poles ≈ former East only; trident tops → Bavaria/Saxony-Anhalt/BW; triangle tops (CZ/SK-like) → west; thick-middle-bar tops → former East; curved-bar tops → Bavaria (rare)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "8xMd",
-     "img": "Germany_Triangle_Posts_Map.png",
-     "type": "utility"
+     "anchor": "2hc8",
+     "img": "East_german_Pole.png",
+     "imgs": [
+      "Trident_Pole_Hint_v2.png",
+      "Triangle_Pole_Hint.png",
+      "Thick_Middle_Bar_Pole_Hint.png",
+      "Curved_Pole_Hint.png"
+     ]
+    },
+    {
+     "cat": "region",
+     "type": "cars",
+     "text": "Rare white-black **Gen4 EV car** → Hamburg + around Frankfurt (same car: London, Ireland); **Aldi split**: Aldi Süd = south, Aldi Nord = north",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "fv7n",
+     "img": "EV_Car_Map.png",
+     "imgs": [
+      "Aldi_Map_germany_copy.png"
+     ]
+    },
+    {
+     "cat": "city",
+     "type": "signs",
+     "text": "**Street-sign city metas**: Berlin = white w/ grey border + number section (note the ß); Munich = blue w/ white decorative border + unique font; Stuttgart = black, borderless; Düsseldorf = black w/ white border + metal frame; Dortmund = blue w/ white border (small towns can imitate!)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "SDqs",
+     "img": "German_Street_Signs_Map.png",
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "language",
+     "text": "**Sorbian** (Slavic) on signs near the Polish/Czech border",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "ZowM",
+     "img": "de_sorbian_new.png",
+     "uniq": "unique"
+    },
+    {
+     "cat": "city",
+     "type": "general",
+     "text": "**City-state metas**: bus stops — Berlin segmented w/ yellow post; Hamburg red post + hexagon route numbers (also outside HH); Bremen = name in red section; Bremerhaven = grey section variant. Bins — Berlin bright orange; Hamburg red w/ speech bubbles; Bremen green-grey w/ orange bubbles; Bremerhaven generic green. Cologne: **yellow numbers on black plastic** on lampposts",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "wnBA",
+     "img": "Germany_Stadsteen_Bus_Stops.png",
+     "imgs": [
+      "Germany_Stadtstaaten_Rubbish_Bins.png",
+      "Cologne_Sticker.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "arch",
+     "text": "**Saxony**: half-timbered **arch houses** (Umgebindehäuser) in one region; **Sylt**: shrub-and-sand hills unique to the island + Frisian rock walls/thatch/brick",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "MPmF",
+     "img": "Arch_Houses_Hint.png",
+     "imgs": [
+      "Sylt_Hint.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "cars",
+     "text": "**Coverage spotlights**: low-cam around Singen/Swiss border; Gen3 **black car in the safari park** SE of Bielefeld (zebra-painted 4x4s; Europe-unique); rare Gen3 antenna car in central Hamburg",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "H6Lb",
+     "img": "Germany_Lowcam_map.png",
+     "imgs": [
+      "Black_car.png",
+      "Short_Antenna_Hint.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },

@@ -1303,23 +1303,36 @@ Study: [Plonk It](https://www.plonkit.net/ukraine)
 | Special | 5 cities have **2011 autumn coverage** (long antenna): black car = Donetsk (no newer coverage!), white car = Lviv/Kyiv/Kharkiv (rare now) | [P](https://www.plonkit.net/ukraine) |  |
 
 ## France
-Study: [Plonk It](https://www.plonkit.net/france)
+Study: [Plonk It](https://www.plonkit.net/france) · [GeoGuessr map](https://www.geoguessr.com/maps/66338d3804309d08d22387c0)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates: long white, **blue strips both sides** (left more visible) — Italy has equal strips + shorter front plate | [P](https://www.plonkit.net/france) |  |
-| Country | French: é à è â ê î ô û, œ, ç; **-ux** suffix only French; street = **rue** | [P](https://www.plonkit.net/france) |  |
-| Country | **French bollard**: round white, **pointed top**, reflector band all around (Scotland's is blunt-topped) | [P](https://www.plonkit.net/france) |  |
-| Country | **Waffle/ladder poles** (step indents; also Spain) + small **blue plates** on poles (France-unique) + diamond "French poletops" | [P](https://www.plonkit.net/france) |  |
-| Country | **Yellow "D" road-number signs** = France only; town-entry signs red border w/ thin white outline | [P](https://www.plonkit.net/france) |  |
-| Country | Chevrons **white-on-blue** (only France + Spain; Spain uses only 2 or 4 arrows) | [P](https://www.plonkit.net/france) |  |
-| Country | Middle-line dashes = **two offset blocks** → France; blue house numbers (Italy rarely blue) | [P](https://www.plonkit.net/france) |  |
-| Country | Peugeot / Renault / Citroën ≈ half of all cars; smallcam (most of W. Europe) | [P](https://www.plonkit.net/france) |  |
-| Region | Stone houses, gable roofs w/ orange tiles (S) or black slate (N); very diverse regional architecture | [P](https://www.plonkit.net/france) |  |
-| Region | Regional languages appear (Breton NW, Alsatian E, Occitan/Basque/Catalan S) | [P](https://www.plonkit.net/france) |  |
-| State | **Postal code first 2 digits = department number** (alphabetical); also inside the right blue plate strip | [P](https://www.plonkit.net/france) |  |
-| State | Phone: **01 = Île-de-France**, 02–05 run clockwise from the NW | [P](https://www.plonkit.net/france) |  |
-| State | **Department logos** on bus stops / km markers / signbacks → identify department | [P](https://www.plonkit.net/france) |  |
+| Country | Plates long white, **blue strips both sides** (left more visible; rare old plates: yellow rear) | [P](https://www.plonkit.net/france) |  |
+| Country | **French**: é à è ù â ê î ô û ë ï ç œ — the **-ux suffix** is French-only; street = **rue** | [P](https://www.plonkit.net/france) |  |
+| Country | Iconic bollard: round white, **pointed top, reflector band all around** (grey or red); variants: two indented bands (also green/yellow) or wedge-shaped w/ wide rectangular reflectors — both France-only | [P](https://www.plonkit.net/france) |  |
+| Country | **Ladder/waffle poles** (step-indent concrete) + 'French poletops' (diamond, 3 wires) | [P](https://www.plonkit.net/france) |  |
+| Country | Rural: wooden + thin octagonal metal poles; small **blue rectangular plates ('stickers') on poles** = unique to France; poletop w/ **insulators on top** (arrowhead look) = unique | [P](https://www.plonkit.net/france) |  |
+| Country | Gen4 **smallcam** (low mount, big blur, front protrusion) — like most of Western Europe | [P](https://www.plonkit.net/france) |  |
+| Country | Small **yellow road-number signs** ('D…') on top of directional/town signs = unique; directional signs white w/ offset black border, arrow-shaped; highways blue/green; italic font for POIs | [P](https://www.plonkit.net/france) |  |
+| Country | Town entry + road signs: **red border w/ thin white outline** (Spain: thick border to the edge); white sub-signs w/ black text; **flat rectangular signposts** (elsewhere only PT/ES/AD) often very short; unorthodox sign colours common | [P](https://www.plonkit.net/france) |  |
+| Country | Chevrons **white on blue**, 1–5 arrows (Spain: only 2 or 4); pedestrian sign: 5 stripes + **disconnected head** (or dashed-line variant) | [P](https://www.plonkit.net/france) |  |
+| Country | Km markers: white w/ **yellow or red semicircle top** (waystone or flat, parallel or perpendicular); highways: square w/ red top | [P](https://www.plonkit.net/france) |  |
+| Country | Outer lines = long spaced dashes; **'Z-block' middle dashes** (two offset blocks) = France-only; unusually long middle dashes (also UK); end-of-passing-zone arrows (also ES/PT/RO; UK's point left) | [P](https://www.plonkit.net/france) |  |
+| Country | **A-type guardrails without reflectors** (Spain/Andorra/Belgium use yellow reflectors; rare thin B-type); roadside **Austrian-flag-coloured flag markers** found nowhere else | [P](https://www.plonkit.net/france) |  |
+| Country | Stone houses, unpainted/grey/yellow pastel; simple gable roofs w/ orange tiles or black slate; wall-to-wall townhouses (very diverse regional styles!); **blue serif house numbers** (Italy almost never blue) | [P](https://www.plonkit.net/france) |  |
+| Country | **Peugeot/Renault/Citroën** ≈ half of all cars | [P](https://www.plonkit.net/france) |  |
+| Region | **13 regions / 96 departments** (on the map!); area codes: 01 Île-de-France, 02–05 clockwise from NW; secondary 2X north → anticlockwise (9X = far NW + far SE); **postal codes: first 2 digits = department number** (mostly alphabetical — same code in the right plate strip) | [P](https://www.plonkit.net/france) |  |
+| Region | **Department logos** on bus stops, km markers, signbacks (Occitanie = red-yellow Occitan cross; Pyrénées-Orientales = Senyera stripes — Provence similar but vertical) | [P](https://www.plonkit.net/france) |  |
+| Region | **Red/burgundy-tinted roads** → between Paris and Dijon (+Normandy) — historical Burgundy | [P](https://www.plonkit.net/france) |  |
+| Region | **Coloured sign infra**: dark green posts/backs → Brittany, Paris area, south; Eure-et-Loir = green logo sticker + superscript **D-road decimals** (D134.10); grey-green back + darker post → Côtes-d'Armor/E-Ille-et-Vilaine, Pyrénées-Atlantiques, Alps; Pas-de-Calais = dark green post + lighter green back (+triangle logo); brown post+back → Seine-et-Marne; Haute-Garonne = burgundy attachments + yellow posts; Marne = combined thick town entry/exit blocks | [P](https://www.plonkit.net/france) |  |
+| Region | **Topography**: tallest mountains SE + Spanish border; north/west flat-rolling, south hillier; NW (Normandy) = hedge-lined UK-like roads; stone pines → south coast (to Nantes); flat **maritime-pine forests** → Gironde/Landes; vineyards → Bordeaux, south coast, Champagne, Loire, Alsace, Corsica; sunflowers → SW (Toulouse); wind turbines → north | [P](https://www.plonkit.net/france) |  |
+| Region | **Architecture regions**: black shingle roofs → NW of the Loire (+Belgian border, south-centre, Pyrenees — good Alps-vs-Pyrenees tell); Brittany = black roofs + edge chimneys + slate walls + stone-framed windows; rounded south-tiles; dark-red Flemish brick → Belgian border; bright orange brick → Toulouse; cream/orange stone w/ brick details → Paris-area towns; Riviera = Monaco-like palms & balconies (+harbour boat trekkers); Basque = white houses w/ coloured timber (Spanish Basque = unpainted); Alpine wood houses; Alsace = German timber framing + fish-scale roofs | [P](https://www.plonkit.net/france) |  |
+| Region | **Minority languages**: Breton (Celtic, k/w/ñ, street = straed; Plou- towns → NW Brittany); Alsatian (gasse/strasse); Occitan (carrièra Toulouse / carriero Avignon); Basque (K X Z, street = karrika, thin font) → W-Pyrénées-Atlantiques; Corsican (Italian-like, -u endings); Catalan (carrer, ç) → Pyrénées-Orientales — French always dominates! | [P](https://www.plonkit.net/france) |  |
+| Region | **Toponym suffix map** + rivers: -sur-[river] (shortened ˢ/), -sur-mer/-plage = coast only | [P](https://www.plonkit.net/france) |  |
+| Region | **Overseas** (count as France): Réunion, Saint-Pierre & Miquelon, Martinique — each has its own page here | [P](https://www.plonkit.net/france) |  |
+| City | **Street-sign city metas**: Paris/Lyon/Marseille = the only cities w/ **arrondissements** (on the map!); Paris = green & Prussian-blue arch design (imitated in Bucharest!); Lyon = 4 corner bolts + notched inner border; Marseille = Greek-cross emblem + top-interrupted border; Bordeaux = 'Arrᵗ' tables (despite no arrondissements) + bordeaux-red posts in the outskirts; Montpellier = blue 'M' top-left; **Lille = red slanted fleur-de-lis** (unique) | [P](https://www.plonkit.net/france) |  |
+| Special | **Paris**: mansard roofs (steep black shingle + dormers) on wide boulevards; **Corsica**: stone-mortar cuboid barriers (rounded-top ones ≠ Corsica); **Belle-Île-en-Mer**: Brittany houses w/ colourful facades, only oversaturated **Gen2**; lavender fields → SE; salt farms → Atlantic coast (Guérande, Île de Ré...) | [P](https://www.plonkit.net/france) |  |
+| Special | **Riviera**: azure-blue painted signposts (Cagnes-sur-mer = powder blue); thin **B-type guardrails** on some northern highways (Le Mans/Tours/Paris/Reims/Metz axes); Gen3 **antenna flags** (colourful, France-unique) — distribution learnable | [P](https://www.plonkit.net/france) |  |
 
 ## Spain
 Study: [Plonk It](https://www.plonkit.net/spain)
@@ -1396,23 +1409,36 @@ Study: [Plonk It](https://www.plonkit.net/norway)
 | Special | **Røros**: densely-built traditional wooden mining town | [P](https://www.plonkit.net/norway) |  |
 
 ## Germany
-Study: [Plonk It](https://www.plonkit.net/germany)
+Study: [Plonk It](https://www.plonkit.net/germany) · [GeoGuessr map](https://www.geoguessr.com/maps/64c1ac0288458417f7393668)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | All car coverage = **Gen4**; **bollard roughly every 50 m** (B&W, white/grey reflectors, orange at intersections) | [P](https://www.plonkit.net/germany) |  |
-| Country | German: **Ä Ö Ü ß**; Luxembourg has near-identical bollards but **3 bolts** (Germany = 2) | [P](https://www.plonkit.net/germany) |  |
-| Country | **Yellow town-entry signs** (black text, metal frame) = town / municipality / county | [P](https://www.plonkit.net/germany) |  |
-| Country | **"Einbahnstraße"** one-way sign = Germany (Austria = "EINBAHN"); yellow mailboxes | [P](https://www.plonkit.net/germany) |  |
-| Country | km markers: **blue = Autobahn (A-road)**, white w/ black border = B/local; black/dark **sign backs** (also IT/RO/AL) | [P](https://www.plonkit.net/germany) |  |
-| Country | **Wind turbines** far more common than anywhere else in Europe; green windshield sticker ("4") | [P](https://www.plonkit.net/germany) |  |
-| Region | Elevation: NW very flat · centre hilly · **south = Alps** (Austrian border) | [P](https://www.plonkit.net/germany) |  |
-| Region | "Commie blocks" (socialist-era apartments) → former **East** Germany | [P](https://www.plonkit.net/germany) |  |
-| Region | Brick houses → NW; thatched roofs + rock walls → Schleswig-Holstein / N. Frisian islands; vineyards → SW | [P](https://www.plonkit.net/germany) |  |
-| State | **Postal codes counter-clockwise: 0 = Saxony (E) → 9 = N. Bavaria** | [P](https://www.plonkit.net/germany) |  |
-| State | Place-name suffixes: **-ow / -itz = east** (Slavic); **-weiler / -ach = south** | [P](https://www.plonkit.net/germany) |  |
-| State | White **3-section road markers** + round wooden bollards; black-disk bollard bases → all of eastern Germany | [P](https://www.plonkit.net/germany) |  |
-| State | Roadside post styles differ by state (rocky unpainted → Rhineland-Palatinate/Saxony; tall white → Saarland/Thuringia) | [P](https://www.plonkit.net/germany) |  |
+| Country | All car coverage = **Gen4** (only some Gen2/3 trekkers + spill) | [P](https://www.plonkit.net/germany) |  |
+| Country | B&W bollards w/ **white/light-grey reflectors** (orange at intersections); often road-number plates + **blue side attachments**; a bollard roughly **every 50 m** | [P](https://www.plonkit.net/germany) |  |
+| Country | **German**: Ä Ö Ü **ß** | [P](https://www.plonkit.net/germany) |  |
+| Country | Wooden poles w/ **rectangular white sticker**; many poletop styles: uneven hanging insulators, triangle tops, T-shaped tops | [P](https://www.plonkit.net/germany) |  |
+| Country | **Black/dark-grey sign backs** (rare in Europe) + sticker with a red upside-down triangle on black | [P](https://www.plonkit.net/germany) |  |
+| Country | Bus stops with the **yellow-green H symbol** (regional designs, like Austria); mailboxes **bright yellow** w/ Deutsche-Post horn logo | [P](https://www.plonkit.net/germany) |  |
+| Country | **Yellow town-entry signs** (black text, metal frame): town on top, municipality middle, county bottom | [P](https://www.plonkit.net/germany) |  |
+| Country | Km markers: **blue w/ white border = Autobahn**; white w/ black border = B/local roads; triangular markers on smaller roads (regional) | [P](https://www.plonkit.net/germany) |  |
+| Country | Pedestrian signs: **5 stripes + person with belt** (same in Luxembourg); **Einbahnstraße** one-way signs unique (Austria writes EINBAHN); no-stopping signs w/ white arrows | [P](https://www.plonkit.net/germany) |  |
+| Country | Cars: **green circular windshield sticker** (number 4; rarely yellow 3 / red 2) bottom-right on nearly every car | [P](https://www.plonkit.net/germany) |  |
+| Country | **Wind turbines** far more common than in any other European country | [P](https://www.plonkit.net/germany) |  |
+| Region | **Elevation**: north(-west) very flat · centre hilly · far south big mountains (**German Alps** on the Austrian border); plains SE of Regensburg = flat farmland w/ slight ridge NE | [P](https://www.plonkit.net/germany) |  |
+| Region | **Area codes** grouped by first digit; **postal codes counter-clockwise**: 0 = Saxony → 9 = N-Bavaria/Thuringia; state flags & coats of arms (on unblurred plates); **suffix meta**: -ow/-itz = east (Slavic), -weiler/-ach = south | [P](https://www.plonkit.net/germany) |  |
+| Region | Guardrails: mostly **B-type**; A-type → northwest + Rhineland-Palatinate + parts of Bavaria | [P](https://www.plonkit.net/germany) |  |
+| Region | **Bicycle signs**: white w/ green letters; **red letters** → Hamburg/NRW/nearby Lower Saxony; Saarland = white text on dark green; **sign backs** (folded vs flat) + connector types (double/T-shaped) regionguess Germany | [P](https://www.plonkit.net/germany) |  |
+| Region | **Vegetation**: Baltic pines (orange trunks) → northeast; white-painted tree bottoms → northeast; vineyards → southwest (+few east); hop fields → north of Munich | [P](https://www.plonkit.net/germany) |  |
+| Region | **Architecture**: brick houses → northwest; thatched roofs + rock walls → North Frisian Islands, Schleswig-Holstein, MV resorts; black **slate 'fish-scale' walls** → central belt; **Commie blocks** → all of former East Germany | [P](https://www.plonkit.net/germany) |  |
+| Region | Rare white-black **Gen4 EV car** → Hamburg + around Frankfurt (same car: London, Ireland); **Aldi split**: Aldi Süd = south, Aldi Nord = north | [P](https://www.plonkit.net/germany) |  |
+| Region | **Sorbian** (Slavic) on signs near the Polish/Czech border | [P](https://www.plonkit.net/germany) |  |
+| State | **Bollard state metas** | [P](https://www.plonkit.net/germany) |  |
+| State | **Road-marker state metas**: Bavaria = white rectangles split in 3 (left = current road); Lower Saxony = simple rounded rectangles; Schleswig-Holstein + Lower Saxony = metal-bordered markers (LS: smaller post-comma digits); tree markers (tiny green) → Brandenburg & MV | [P](https://www.plonkit.net/germany) |  |
+| State | **Pole state metas**: round concrete poles ≈ former East only; trident tops → Bavaria/Saxony-Anhalt/BW; triangle tops (CZ/SK-like) → west; thick-middle-bar tops → former East; curved-bar tops → Bavaria (rare) | [P](https://www.plonkit.net/germany) |  |
+| City | **Street-sign city metas**: Berlin = white w/ grey border + number section (note the ß); Munich = blue w/ white decorative border + unique font; Stuttgart = black, borderless; Düsseldorf = black w/ white border + metal frame; Dortmund = blue w/ white border (small towns can imitate!) | [P](https://www.plonkit.net/germany) |  |
+| City | **City-state metas**: bus stops — Berlin segmented w/ yellow post; Hamburg red post + hexagon route numbers (also outside HH); Bremen = name in red section; Bremerhaven = grey section variant. Bins — Berlin bright orange; Hamburg red w/ speech bubbles; Bremen green-grey w/ orange bubbles; Bremerhaven generic green. Cologne: **yellow numbers on black plastic** on lampposts | [P](https://www.plonkit.net/germany) |  |
+| Special | **Saxony**: half-timbered **arch houses** (Umgebindehäuser) in one region; **Sylt**: shrub-and-sand hills unique to the island + Frisian rock walls/thatch/brick | [P](https://www.plonkit.net/germany) |  |
+| Special | **Coverage spotlights**: low-cam around Singen/Swiss border; Gen3 **black car in the safari park** SE of Bielefeld (zebra-painted 4x4s; Europe-unique); rare Gen3 antenna car in central Hamburg | [P](https://www.plonkit.net/germany) |  |
 
 ## Finland
 Study: [Plonk It](https://www.plonkit.net/finland)
