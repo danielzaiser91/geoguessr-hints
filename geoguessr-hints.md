@@ -2765,18 +2765,21 @@ Study: [Plonk It](https://www.plonkit.net/colombia)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Plates typically **yellow** (in S. America almost exclusively Colombia) | [P](https://www.plonkit.net/colombia) |  |
-| Country | Gen3 short thick **antenna on a black car** (unique — MX/EC/BR have the antenna but not on black); Gen4 white/silver car | [P](https://www.plonkit.net/colombia) |  |
-| Country | km markers: tall **green "Pr"** version + traditional stone marker (both unique to Colombia) | [P](https://www.plonkit.net/colombia) |  |
-| Country | Concrete **dark-coloured poles** w/ black-and-yellow/orange stripe markings; octagonal poles possible (only CO/MX/EC in Americas) | [P](https://www.plonkit.net/colombia) |  |
-| Country | **Wooden fences** very common; some painted with sharp-cut tops (almost unique to Colombia) | [P](https://www.plonkit.net/colombia) |  |
-| Country | **Taxis pastel yellow** with white plates, city name often printed on the side/roof (Ecuador's are more saturated w/ orange plates) | [P](https://www.plonkit.net/colombia) |  |
-| Region | Coverage mostly **north & west** + Caribbean islands San Andrés / Providencia | [P](https://www.plonkit.net/colombia) |  |
-| Region | **North** = white sandy arid soil, cacti (La Guajira = extreme dryness, low vegetation) | [P](https://www.plonkit.net/colombia) |  |
-| Region | **Llanos** (east of the Andes) = open tropical grasslands & savanna w/ scattered trees, seasonal flooding | [P](https://www.plonkit.net/colombia) |  |
-| Region | **Pacific coast** = majority Afro-Colombian; sugarcane along the Cauca river (Valle del Cauca) | [P](https://www.plonkit.net/colombia) |  |
-| State | Pole markings = short black strip top & bottom + longer **yellow middle** → Antioquia (sometimes Córdoba) | [P](https://www.plonkit.net/colombia) |  |
-| Special | **Barranquilla** intersections marked by concrete **mojones** (street-name posts); San Andrés = white car, Providencia = grey truck | [P](https://www.plonkit.net/colombia) |  |
+| Country | Plates typically **yellow** | [P](https://www.plonkit.net/colombia) |  |
+| Country | Gen3: short thick **antenna, sometimes on a black car** (also white/grey); Gen4: white or silver car | [P](https://www.plonkit.net/colombia) |  |
+| Country | Signposts of **white metal forming a distinct cross on the back** of signs | [P](https://www.plonkit.net/colombia) |  |
+| Country | km markers: tall **green 'Pr' marker** + traditional stone marker w/ black text — both Colombia-unique; bottom digits = road number + section (sections rise W→E on even roads, S→N on odd) | [P](https://www.plonkit.net/colombia) |  |
+| Country | Poles marked w/ **black-yellow or black-orange stripes**; generally concrete, **often dark-coloured** (darker than neighbours); octagonal poles possible (Americas: only CO/MX/EC) | [P](https://www.plonkit.net/colombia) |  |
+| Country | **Wooden fences** particularly common — painted posts w/ **sharp-cut tops** are almost exclusive to Colombia | [P](https://www.plonkit.net/colombia) |  |
+| Country | Taxis **pastel yellow** w/ WHITE plates, plate often printed on side & roof (+ city name) | [P](https://www.plonkit.net/colombia) |  |
+| Country | Sidewalks commonly decorated w/ **reddish tiles** | [P](https://www.plonkit.net/colombia) |  |
+| Region | Coverage mainly **north & west** + the islands **San Andrés & Providencia** | [P](https://www.plonkit.net/colombia) |  |
+| Region | **North** = white sandy soil, arid; **Llanos** (east of the Andes) = open tropical grassland/savanna w/ scattered trees + seasonal flooding; **sugar cane** along the Cauca river (Valle del Cauca); Pacific coast = predominantly Afro-Colombian population | [P](https://www.plonkit.net/colombia) |  |
+| Region | Camera glitch making part of the image look **oversaturated** → southern Colombia | [P](https://www.plonkit.net/colombia) |  |
+| State | Pole markings: short black strips top & bottom + **long yellow middle** → Antioquia (sometimes Córdoba) | [P](https://www.plonkit.net/colombia) |  |
+| City | **Barranquilla**: intersections marked by small concrete **'mojones'** posts bearing the street names (e.g. Carrera 42 × Calle 68) | [P](https://www.plonkit.net/colombia) |  |
+| Special | **Spotlights**: La Guajira = extreme dryness + cacti (Uribia–Puerto Bolívar road: dead straight w/ a train track always to the east); **Ruta 90 landbridge** (Barranquilla↔Ciénaga) = dashed yellow lines + shallow water both sides + ocean north | [P](https://www.plonkit.net/colombia) |  |
+| Special | **Unique vehicles**: Leticia (southernmost town) = unique vehicle + long concrete blocks on the road north; **San Andrés** = distinct white car; **Providencia** = grey truck + green street lights on trapezoidal metal supports (support shape also in Barranquilla) | [P](https://www.plonkit.net/colombia) |  |
 
 ## Bolivia
 Study: [Plonk It](https://www.plonkit.net/bolivia)
