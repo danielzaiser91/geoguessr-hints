@@ -142,7 +142,7 @@ Format: `- [ ] slug` → check when BOTH captured-complete AND classified.
 - [x] bolivia · - [x] ecuador · - [x] uruguay · - [x] curacao · - [ ] falkland-islands
 **Africa:** - [x] south-africa · - [x] kenya · - [x] nigeria · - [x] ghana · - [x] uganda ·
 - [x] tanzania · - [x] rwanda · - [x] senegal · - [x] botswana · - [x] namibia · - [x] lesotho ·
-- [x] eswatini · - [x] madagascar · - [x] tunisia · - [x] egypt · - [ ] mali · - [ ] reunion ·
+- [x] eswatini · - [x] madagascar · - [x] tunisia · - [x] egypt · - [x] mali · - [ ] reunion ·
 - [ ] sao-tome-and-principe
 **Oceania:** - [ ] australia · - [ ] new-zealand · - [ ] vanuatu · - [ ] guam ·
 - [ ] american-samoa · - [ ] christmas-island · - [ ] cocos-islands ·

@@ -31,12 +31,12 @@ Study: [Plonk It](https://www.plonkit.net/mali)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Very limited coverage: **10 tripods across 7 locations**, mostly at historic mosques; tripod camera = ethereal motion-blur look | [P](https://www.plonkit.net/mali) |  |
-| Country | Mosques of **mud brick + adobe plaster**, decorated with protruding **wooden sticks**; interiors = adobe walls + prayer rugs | [P](https://www.plonkit.net/mali) |  |
-| Country | Generally **arid** — a sandy, dry landscape helps tell Mali tripods apart from tripods in other countries | [P](https://www.plonkit.net/mali) |  |
-| Special | **Niono Mosque** = busy wide sandy road; interior has unique 'European-style' pillars | [P](https://www.plonkit.net/mali) |  |
-| Special | **Timbuktu** mosques (Sidi Yahiya, Djingareyber, Sankoré) = peachy-orange brick, yellow interior walls; Sankoré has a pyramid-shaped tower | [P](https://www.plonkit.net/mali) |  |
-| Special | **Gao** mosque (reddish dirt, pyramid w/ dry branches) & the iconic **Djenné** mud mosque | [P](https://www.plonkit.net/mali) |  |
+| Country | Very limited coverage: **10 tripods across 7 locations** — consumer camera on a tripod = 'ethereal' look (motion blur, saturated colours); memorise them | [P](https://www.plonkit.net/mali) |  |
+| Country | Almost all tripods show **historic mosques**: mud brick + adobe plaster, walls decorated w/ protruding **wooden sticks**; interiors = adobe + prayer rugs; some exteriors are pinpointable streets | [P](https://www.plonkit.net/mali) |  |
+| Country | Generally **arid** — sandy dry surroundings separate Mali tripods from other countries' tripods instantly | [P](https://www.plonkit.net/mali) |  |
+| Special | **Pinpointable tripods**: Niono mosque = busy wide sandy dirty road + trees at the walls ('Centre Commercial' on the map helps); interior = unique **'European-style' pillars**; **Sidi Yahiya** (Timbuktu) = bread-slice-shaped tiles (Mali-unique) + peachy-orange bricks, interior yellow w/ unpainted brick base; **Djingareyber** (Timbuktu) = rectangular-tile street, interior yellow walls + wide round arches + red carpet | [P](https://www.plonkit.net/mali) |  |
+| Special | **Non-pinpointable tripods**: Sankoré (Timbuktu) = very sandy + **pyramid tower** + decorated wood-metal doors, interior blue carpet + low wood-beam ceiling; **Gao** = desolate reddish dirt, pyramid structure full of dry branches; **Djenné** = the iconic open mud-mosque front, dark interior w/ gothic arches + sandy courtyard; **Mopti** = like Djenné but trees at the walls + some clouds + narrower streets, interior open w/ blue carpet + no arches | [P](https://www.plonkit.net/mali) |  |
+| Special | **'Bamako' mosque** (misplaced! actually rural): empty modern mosque w/ **light-blue walls + pink floor**, yard w/ yellow-orange concrete walls; **Bandiagara Escarpment** = rocky gorge w/ dry trees — the only fully rural coverage; misplaced misc tripods hidden inside the Sankoré coverage (tour office, classroom, streets) | [P](https://www.plonkit.net/mali) |  |
 
 ## South Africa
 Study: [Plonk It](https://www.plonkit.net/south-africa) · [GeoGuessr map](https://www.geoguessr.com/maps/6929025bb05048c95545baa6)
