@@ -2575,12 +2575,15 @@ Study: [Plonk It](https://www.plonkit.net/dominican-republic)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Unique car: **two metal bars with thick black stripes** + a white hood at the front (Mongolia's striped car has different landscape) | [P](https://www.plonkit.net/dominican-republic) |  |
-| Country | Poles mostly **square concrete w/ a reverse-'L' top** (in the Americas only DR / Puerto Rico / Uruguay use square poles) | [P](https://www.plonkit.net/dominican-republic) |  |
-| Country | Plates **pale yellow top / white bottom** (New-Jersey-like); no front plate required | [P](https://www.plonkit.net/dominican-republic) |  |
-| Country | Roads often **smooth, notably dark asphalt**; stop sign says **"PARE"**, many signs on **yellow signposts** | [P](https://www.plonkit.net/dominican-republic) |  |
-| Region | Coverage only **Santo Domingo + Santiago de los Caballeros**; proper **mountains to the north = Santiago** | [P](https://www.plonkit.net/dominican-republic) |  |
-| Region | **Santo Domingo** = developed downtown, wide avenues, **"ADN"** on street signs (Distrito Nacional), black-and-purple pole markings | [P](https://www.plonkit.net/dominican-republic) |  |
+| Country | Unique car on ALL coverage: **two metal bars w/ thick black stripes** + white hood visible at the front | [P](https://www.plonkit.net/dominican-republic) |  |
+| Country | Poles mostly **square concrete w/ a reverse-'L' top** (round/octagonal rarer) | [P](https://www.plonkit.net/dominican-republic) |  |
+| Country | Plates **pale yellow top / white bottom** (New-Jersey-like); front plates not required (in LatAm otherwise only PR + Panama) | [P](https://www.plonkit.net/dominican-republic) |  |
+| Country | Roads often of **smooth, noticeably darker asphalt** | [P](https://www.plonkit.net/dominican-republic) |  |
+| Country | Stop signs say **'PARE'** despite the Central American location; many signs on **yellow signposts** | [P](https://www.plonkit.net/dominican-republic) |  |
+| Region | Coverage very limited: **only Santo Domingo + Santiago de los Caballeros** | [P](https://www.plonkit.net/dominican-republic) |  |
+| Region | **Mountains to the north = always Santiago de los Caballeros** (Santo Domingo has hills, never real mountains); Santiago also has **yellow traffic-light poles** (yellow signposts exist in both cities!) | [P](https://www.plonkit.net/dominican-republic) |  |
+| City | **Santo Domingo**: developed downtown w/ tall buildings + wide avenues; street signs w/ **'ADN'** (Distrito Nacional); **black-purple pole markings** only here; outskirts = whitish dirt tracks, dry shrubs, debris | [P](https://www.plonkit.net/dominican-republic) |  |
+| Special | Some **late-evening coverage in Santo Domingo** — Santiago has none | [P](https://www.plonkit.net/dominican-republic) |  |
 
 ## Hawaii
 Study: [Plonk It](https://www.plonkit.net/hawaii)

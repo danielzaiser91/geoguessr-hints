@@ -6801,69 +6801,155 @@
    "hints": [
     {
      "cat": "country",
-     "text": "Unique car: **two metal bars with thick black stripes** + a white hood at the front (Mongolia's striped car has different landscape)",
+     "type": "cars",
+     "text": "Unique car on ALL coverage: **two metal bars w/ thick black stripes** + white hood visible at the front",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "isVx",
      "img": "googlecar.png",
-     "type": "cars"
+     "uniq": "unique*",
+     "uniq_note": "One Mongolian car has similar stripes (landscape separates); Guatemala/Curaçao have metal bars WITHOUT thick black stripes.",
+     "shared_with": [
+      {
+       "slug": "mongolia",
+       "note": "A Mongolian car has similar striped bars.",
+       "diff": "Tropical Caribbean vs steppe — instant."
+      },
+      {
+       "slug": "guatemala",
+       "note": "Metal bars, but no thick black stripes; mirrors visible.",
+       "diff": "Black stripes → DR."
+      },
+      {
+       "slug": "curacao",
+       "note": "Metal bars without the stripes.",
+       "diff": "Black stripes → DR."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Poles mostly **square concrete w/ a reverse-'L' top** (in the Americas only DR / Puerto Rico / Uruguay use square poles)",
+     "type": "utility",
+     "text": "Poles mostly **square concrete w/ a reverse-'L' top** (round/octagonal rarer)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "CWXA",
      "img": "Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Small_Pin__282_29.png",
-     "type": "utility"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "puerto-rico",
+       "note": "Also square poles.",
+       "diff": "Car meta decides instantly."
+      },
+      {
+       "slug": "uruguay",
+       "note": "The only other square-pole country in the Americas.",
+       "diff": "Caribbean vs Pampas landscape."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Plates **pale yellow top / white bottom** (New-Jersey-like); no front plate required",
+     "type": "plates",
+     "text": "Plates **pale yellow top / white bottom** (New-Jersey-like); front plates not required (in LatAm otherwise only PR + Panama)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "FOlT",
-     "img": "Dominican_Republic_License_Plate.png",
-     "type": "plates"
+     "img": "Dominican_Republic_License_Plate.png"
     },
     {
      "cat": "country",
-     "text": "Roads often **smooth, notably dark asphalt**; stop sign says **\"PARE\"**, many signs on **yellow signposts**",
+     "type": "markings",
+     "text": "Roads often of **smooth, noticeably darker asphalt**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "bzLa",
-     "img": "smoothasphalt.png",
-     "type": "markings"
+     "img": "smoothasphalt.png"
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Stop signs say **'PARE'** despite the Central American location; many signs on **yellow signposts**",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "jcOp",
+     "img": "pare.png",
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "puerto-rico",
+       "note": "PR also uses PARE.",
+       "diff": "Striped-bar car → DR."
+      }
+     ]
     },
     {
      "cat": "region",
-     "text": "Coverage only **Santo Domingo + Santiago de los Caballeros**; proper **mountains to the north = Santiago**",
+     "type": "general",
+     "text": "Coverage very limited: **only Santo Domingo + Santiago de los Caballeros**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "DC2k",
      "img": "do_coveragemap.png",
-     "type": "naming"
+     "super": true
     },
     {
      "cat": "region",
-     "text": "**Santo Domingo** = developed downtown, wide avenues, **\"ADN\"** on street signs (Distrito Nacional), black-and-purple pole markings",
+     "type": "landscape",
+     "text": "**Mountains to the north = always Santiago de los Caballeros** (Santo Domingo has hills, never real mountains); Santiago also has **yellow traffic-light poles** (yellow signposts exist in both cities!)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "jtB1",
-     "img": "Santo_Domingo_ADN_Signs.png",
-     "type": "general"
+     "anchor": "pfJU",
+     "img": "Landscape_-_Santiago_de_los_Caballeros_Mountains.png",
+     "imgs": [
+      "Santiago_de_los_Caballeros_Traffic_Light_Poles.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "city",
+     "area": "Santo Domingo",
+     "type": "signs",
+     "text": "**Santo Domingo**: developed downtown w/ tall buildings + wide avenues; street signs w/ **'ADN'** (Distrito Nacional); **black-purple pole markings** only here; outskirts = whitish dirt tracks, dry shrubs, debris",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "6BE0",
+     "img": "Santo_Domingo_Developed.png",
+     "imgs": [
+      "Santo_Domingo_ADN_Signs.png",
+      "Santo_Domingo_Striped_Poles.png",
+      "Landscape_-_Santo_Domingo_Outskirts.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "special",
+     "type": "cars",
+     "text": "Some **late-evening coverage in Santo Domingo** — Santiago has none",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "2Vae",
+     "img": "Santo_Domingo_Evening_Coverage.png",
+     "uniq": "unique"
     }
    ]
   },
