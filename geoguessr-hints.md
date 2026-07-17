@@ -1880,17 +1880,20 @@ Study: [Plonk It](https://www.plonkit.net/slovakia)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Bollards: **orange double reflector front / single white back** (only Slovakia + Czechia); rare blue/red variants | [P](https://www.plonkit.net/slovakia) |  |
-| Country | Special **extra-wide B-type guardrail** used only by Slovakia & Czechia (SK also uses others occasionally) | [P](https://www.plonkit.net/slovakia) |  |
-| Country | Wide round concrete poles, often **paired**; trident / upside-down-triangle poletops | [P](https://www.plonkit.net/slovakia) |  |
-| Country | Chevrons **white w/ red arrows**; temporary red-and-white striped signposts | [P](https://www.plonkit.net/slovakia) |  |
-| Country | **Hiking markers** (colour strip between two white); cycling signs use the letter **C** (unique to Slovakia) | [P](https://www.plonkit.net/slovakia) |  |
-| Country | Prefab **panel apartment blocks** — well-maintained, vibrant colours; **diamond-tile roofs** | [P](https://www.plonkit.net/slovakia) |  |
-| Country | Stripy **gas/water poles** (snow-pole-like) common next to the road | [P](https://www.plonkit.net/slovakia) |  |
-| Country | Gen3 antenna w/ **grey tape**; red & black Gen4 cars; lots of Gen3 **spring** coverage (Czechia = winter) | [P](https://www.plonkit.net/slovakia) |  |
-| Country | **Slovak** distinct letters **Ľ Ô Ä Ŕ Ĺ** (Czech: Ř Ě Ů); street = **ulica**; white street signs w/ blue text + thin red border | [P](https://www.plonkit.net/slovakia) |  |
-| Country | Directional signs blue w/ **small white arrows** (Czechia = large filled arrows); km markers = two sections split by a **black horizontal line**; bold sign font | [P](https://www.plonkit.net/slovakia) |  |
-| Region | Landscape swings **very mountainous ↔ flat** (Czechia hillier but less mountainous); grey metal roofs common in the east; hip-end roofs + window shutters | [P](https://www.plonkit.net/slovakia) |  |
+| Country | Bollards: **orange double reflectors front / single white back** (rare blue/red); new rare wedge bollard ≈ Hungary's | [P](https://www.plonkit.net/slovakia) |  |
+| Country | **Extra-wide B-type guardrails** (only CZ+SK; SK occasionally uses others); wide round concrete poles often in pairs; short-bar poletops; upside-down-triangle supports (also DE/AL/RS/RO); upward-trident tops = CZ+SK; thick-base bolted lamp posts; wooden poles + white concrete supports **commoner than in CZ** | [P](https://www.plonkit.net/slovakia) |  |
+| Country | Red-white striped temporary posts; chevrons white w/ red arrows (rarer red-on-yellow); stripy gas/water poles; **hiking markers** (colour strip between white); **cycling signs with a C** — unique to Slovakia (yellow-post directional versions) | [P](https://www.plonkit.net/slovakia) |  |
+| Country | Well-kept colourful prefab blocks (like CZ); **diamond-tile roofs** (also HU); window shutters much commoner than CZ (also HU); houses w/ **short side to the road + hip-end roof** (also HU); grey metal roofs → east | [P](https://www.plonkit.net/slovakia) |  |
+| Country | Gen3 tape antenna (also HU/RO/BG); Gen4 red or black car; **Gen3 = much SPRING coverage** (CZ: winter); black bridge-end signs w/ road number | [P](https://www.plonkit.net/slovakia) |  |
+| Country | **Slovak: Ľ Ô Ä Ŕ Ĺ** (Czech: Ř Ě Ů); acute vowels in both; street = **ulica** | [P](https://www.plonkit.net/slovakia) |  |
+| Country | Landscape swings between **very mountainous and completely flat** (CZ = hillier but less mountainous) | [P](https://www.plonkit.net/slovakia) |  |
+| Country | **SK-vs-CZ sign kit**: blue directional signs w/ **small white arrows** (CZ: big filled arrows); borders **on the sign edge** (CZ: separated); street signs white w/ blue text + thin red border; house numbers white w/ red/black border; posts open or w/ grey/thin-black caps (CZ: thick black); ped signs 5 stripes — belted person (like DE) or condensed stripes; **bold font** (CZ thin); km markers w/ **black middle line** (CZ: yellow outline); railway-cross signs w/ white background (CZ: none); small signs often on **double posts** | [P](https://www.plonkit.net/slovakia) |  |
+| Region | **Phone numbers start with 0** (CZ doesn't), area code = first 2–3 digits; 3-digit roads 500–560 + all 4-digit roads increase **west → east** | [P](https://www.plonkit.net/slovakia) |  |
+| Region | Tallest mountains central+north; **western lowlands = horizon-to-horizon flat fields** (rare in CZ!); eastern lowlands = flat w/ distant hills; two northern valleys between sharp ranges — direction to the nearest mountains separates them; pine forests → far west | [P](https://www.plonkit.net/slovakia) |  |
+| Region | **Hungarian bilingual signs** → south; **Rusyn** (Cyrillic, Ukrainian-like) town signs → NE Prešov region | [P](https://www.plonkit.net/slovakia) |  |
+| Region | **Yellow circles w/ numbers on poles** → Nitra + Trnava; yellow lamp posts w/ **blue base** → east (+Zvolen) | [P](https://www.plonkit.net/slovakia) |  |
+| City | **Bratislava** = only major city on a big river; trams only Bratislava (red) + Košice (yellow-blue-white; same bus colours, red buses also Prešov); **Žilina** trolleybuses green-yellow-white + matching painted poles | [P](https://www.plonkit.net/slovakia) |  |
+| Special | **Skalica** = Czech-like red street signs w/ stylised font; **Čičmany** = dark wooden houses covered in white line art | [P](https://www.plonkit.net/slovakia) |  |
 
 ## Estonia
 Study: [Plonk It](https://www.plonkit.net/estonia)

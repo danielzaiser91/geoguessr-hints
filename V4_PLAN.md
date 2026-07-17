@@ -129,7 +129,7 @@ Format: `- [ ] slug` → check when BOTH captured-complete AND classified.
 - [x] netherlands · - [x] poland · - [x] sweden · - [x] norway · - [x] finland · - [x] denmark ·
 - [x] ireland · - [x] belgium · - [x] switzerland · - [x] austria · - [x] portugal ·
 - [x] greece · - [x] czechia · - [x] romania · - [x] hungary · - [x] ukraine · - [x] belarus ·
-- [x] bulgaria · - [x] serbia · - [x] croatia · - [ ] slovakia · - [ ] slovenia ·
+- [x] bulgaria · - [x] serbia · - [x] croatia · - [x] slovakia · - [ ] slovenia ·
 - [ ] lithuania · - [ ] latvia · - [ ] estonia · - [ ] iceland · - [ ] albania ·
 - [ ] north-macedonia · - [ ] montenegro · - [ ] luxembourg · - [ ] malta · - [ ] andorra ·
 - [ ] monaco · - [ ] san-marino · - [ ] liechtenstein · - [ ] gibraltar · - [ ] jersey ·
