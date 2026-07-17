@@ -2352,58 +2352,81 @@ Study: [Plonk It](https://www.plonkit.net/canada)
 | State | Guardrail wooden posts with a **pyramid-shaped top**; diamond marker beside fire hydrants | [P](https://www.plonkit.net/canada) |  |
 
 ## United States
-Study: [Plonk It](https://www.plonkit.net/usa)
+Study: [Plonk It](https://www.plonkit.net/usa) · [GeoGuessr map](https://www.geoguessr.com/maps/61dfb63654e4730001e8faf5)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | Speed signs say **"SPEED LIMIT"** (Canada = "MAXIMUM"); **miles**, feet/inches; limits often end in 5 | [P](https://www.plonkit.net/usa) |  |
-| Country | Wordy signs (railway crossing spelled out); **US English** (center, color) | [P](https://www.plonkit.net/usa) |  |
-| Country | **"No Passing Zone"** yellow triangle = US only; rectangular junction signs (Canada = diamond) | [P](https://www.plonkit.net/usa) |  |
-| Country | Yellow centre + white outer lines; **double yellow** common (v. rare in Europe) | [P](https://www.plonkit.net/usa) |  |
-| Country | White+orange **fibre-optic markers** ~unique to US; rumble strips common | [P](https://www.plonkit.net/usa) |  |
-| Country | Trailer/mobile homes rural (esp. SE); **Baptist churches** common | [P](https://www.plonkit.net/usa) |  |
-| Country | US+Canada: post mailbox w/ flag; wooden poles + **cylindrical transformers**; short plates (no blue strip); overhead signal bars; long-nose semis (Europe = cabover) | [P](https://www.plonkit.net/usa) |  |
-| Country | Gen2 rare → if Gen2 in N. America likely **Canada** (except Alaska, some Hawaii); Gen3 mirror = **single peak** (Canada = two peaks); NA Gen3 usually **no antenna** | [P](https://www.plonkit.net/usa) |  |
-| Region | East of Missouri R. = denser pop. & greener; West = mountains, drier | [P](https://www.plonkit.net/usa) |  |
-| Region | Deep South (OK→SC) **reddish soil**; SW Four Corners red mesas/tablelands | [P](https://www.plonkit.net/usa) |  |
-| Region | PNW (WA/OR/N.CA coast) **temperate rainforest**; Great Plains flat, few trees | [P](https://www.plonkit.net/usa) |  |
-| Region | New England architecture (shingle/wood panel, porch, high roof) + **three-deckers** → Northeast | [P](https://www.plonkit.net/usa) |  |
-| State | Interstates: **even = W–E** (low #s at Gulf/Mexico), **odd = S–N** (low #s at West Coast); US Highways numbered inversely | [P](https://www.plonkit.net/usa) |  |
-| State | **No front plate** → rear-only states skew **South & East** (front-plate states are mostly West/Midwest); each state also has a unique plate design (some readable through blur) | [P](https://www.plonkit.net/usa) |  |
-| State | 3-digit **area codes** (not clustered but learnable); each state has its own **flag** (distinct ones appear often) | [P](https://www.plonkit.net/usa) |  |
-| State | Appalachians (low forested mtns) → east; Rockies → MT–NM; Great Basin (mtns + dry shrubby plains) → NV/UT | [P](https://www.plonkit.net/usa) |  |
+| Country | Speed signs say **"SPEED LIMIT"** in **miles** — numbers lower than Canada's, often ending in 5 | [P](https://www.plonkit.net/usa) |  |
+| Country | US signs are **wordy**: railway crossings literally say 'RAILROAD CROSSING'; warning text sits ON the yellow diamond | [P](https://www.plonkit.net/usa) |  |
+| Country | **American spelling** (center, color) + **imperial units**: miles, feet & inches on bridge-height signs | [P](https://www.plonkit.net/usa) |  |
+| Country | Yellow triangle **'No Passing Zone'** signs are exclusive to the US | [P](https://www.plonkit.net/usa) |  |
+| Country | **Rectangular junction signs** w/ single/double arrow | [P](https://www.plonkit.net/usa) |  |
+| Country | Yield signs: red border, white centre **+ the word 'YIELD'** | [P](https://www.plonkit.net/usa) |  |
+| Country | One-way signs: black rectangle w/ white arrow, always **'ONE WAY'** printed (cities: white vertical version) | [P](https://www.plonkit.net/usa) |  |
+| Country | White & orange **fibre-optic cable markers** along roads | [P](https://www.plonkit.net/usa) |  |
+| Country | **Yellow middle + white outer lines**; double yellow middle most common; on divided roads the line nearest the median is yellow | [P](https://www.plonkit.net/usa) |  |
+| Country | **Rumble strips** (small perpendicular indentations) on interstate/US-highway edges & between lanes | [P](https://www.plonkit.net/usa) |  |
+| Country | **Mobile/trailer homes** popular in rural areas (most common Southeast, found everywhere) | [P](https://www.plonkit.net/usa) |  |
+| Country | **Baptist churches** very common (esp. Southern Plains & Southeast, but in all 50 states) | [P](https://www.plonkit.net/usa) |  |
+| Country | Highway exits: large green metal signs w/ **curved edges**; blue **services signs** (food/lodging/gas) before exits | [P](https://www.plonkit.net/usa) |  |
+| Country | **Gen2 is rare** in the US → a North American Gen2 round is more likely Canada (exceptions: Alaska, some Hawaii, rarely Deep South); Gen3 less common than in Canada; Gen3 **side-mirror blur = single peak** (Canada: two peaks) | [P](https://www.plonkit.net/usa) |  |
+| Country | Parking signs: white metal w/ red/green/black text, **wordy** rules + arrows | [P](https://www.plonkit.net/usa) |  |
+| Country | Orange **construction barrels** w/ horizontal white stripes + black rubber base | [P](https://www.plonkit.net/usa) |  |
+| Country | **North America vs Europe tells** (US + Canada): | [P](https://www.plonkit.net/usa) |  |
+| Region | **Population density**: east of the Missouri River much denser than the west (clickable map) | [P](https://www.plonkit.net/usa) |  |
+| Region | Each state has a **unique plate design** (some readable through blur); about **half the states don't require a front plate** — rear-only skews South & East (map) | [P](https://www.plonkit.net/usa) |  |
+| Region | **Interstates**: even = W–E (lowest along Gulf/Mexico), odd = S–N (lowest at West Coast). **US Highways** numbered roughly inversely (low odd = East Coast, low even = north) — more exceptions there | [P](https://www.plonkit.net/usa) |  |
+| Region | Phone numbers start w/ a 3-digit **area code** — not clustered, but learnable (map) | [P](https://www.plonkit.net/usa) |  |
+| Region | Each state flies its own **state flag** — the distinct ones appear often (overview) | [P](https://www.plonkit.net/usa) |  |
+| Region | **Topography**: high west (Rockies, plateaus; low Central & Imperial Valley in CA) vs low east (Appalachians the main relief; hills also in the Driftless Area + Ozarks); **forest density**: east & north much denser than west/southwest | [P](https://www.plonkit.net/usa) |  |
+| Region | **Landscape regions**: | [P](https://www.plonkit.net/usa) |  |
+| Region | **Crops**: | [P](https://www.plonkit.net/usa) |  |
+| Region | **Flora**: | [P](https://www.plonkit.net/usa) |  |
+| Region | **State infrastructure IDs**: each state has its own **highway shield** + distinct **Adopt-a-Highway** sign designs; blue-yellow **county road shields** in certain states; **US National Parks paint guardrails/signs/posts brown** (wood or metal, sometimes rock walls) | [P](https://www.plonkit.net/usa) |  |
+| Region | **Road-surface state metas**: | [P](https://www.plonkit.net/usa) |  |
+| Region | **Multi-state sign metas**: | [P](https://www.plonkit.net/usa) |  |
+| Region | **New England kit**: short roadside **rock walls** (CT/RI/MA/NH); coastal **shingle-wall** houses; urban **three-deckers** (NY/CT/RI/MA — also Atlantic Canada); **brownstone** row houses (NE cities + Chicago) | [P](https://www.plonkit.net/usa) |  |
+| Region | **Architecture by region**: | [P](https://www.plonkit.net/usa) |  |
+| Region | **Pole metas**: 3 yellow base stripes → most of California (exc. Modoc/Lassen; also Grants Pass, OR); white plate w/ orange rectangle + diamond → Wisconsin & Michigan's Upper Peninsula; yellow **PacifiCorp** plates → OR, E-ID, UT, WY (rarer CA/WA) | [P](https://www.plonkit.net/usa) |  |
+| Region | **Store & restaurant chains** (region deciders): | [P](https://www.plonkit.net/usa) |  |
+| Region | **Non-contiguous US** (all have their own pages on this site): Alaska (northern-/western-/easternmost state), Hawaii (only state outside N. America), Puerto Rico (Caribbean Commonwealth), American Samoa, Guam, Northern Marianas, US Virgin Islands (**the only left-driving part of the US**), US Minor Outlying Islands (Midway) | [P](https://www.plonkit.net/usa) |  |
 | State | **Saguaro cacti** (tall tubes w/ branching arms) → southern Arizona, Sonoran border | [P](https://www.plonkit.net/usa) |  |
 | State | Utility poles w/ **3 yellow stripes** at the base (most of CA, exc. Modoc/Lassen NE) | [P](https://www.plonkit.net/usa) |  |
-| State | **Front Range**: a N–S mountain ridge flanking Denver/Boulder/Colorado Springs, plains to the east | [P](https://www.plonkit.net/usa) |  |
-| State | Central FL (Orlando↔Lakeland) = the only real **rolling hills**, lakes + groves; jungle-straight roads far south | [P](https://www.plonkit.net/usa) |  |
-| State | **Square-reflector bollard** (also UT/AZ) — Idaho appears with both 1 and 2 bolts | [P](https://www.plonkit.net/usa) |  |
+| State | **Front Range**: N–S mountain ridge flanking Denver/Boulder/Colorado Springs — Rockies west, Great Plains east | [P](https://www.plonkit.net/usa) |  |
+| State | Central FL (Orlando↔Lakeland) = the only real **rolling hills** area, w/ lakes + fields | [P](https://www.plonkit.net/usa) |  |
+| State | **Square-reflector bollard** (also UT/AZ) — Idaho appears w/ both 1 and 2 bolts (UT usually 2, AZ 1) | [P](https://www.plonkit.net/usa) |  |
+| State | Grainy **salt-and-pepper rural roads** of the Upper Midwest are most common in Illinois (colour varies) | [P](https://www.plonkit.net/usa) |  |
 | State | **Concrete paving** on ordinary rural roads much more common than elsewhere (ignore bridges/highways/cities) | [P](https://www.plonkit.net/usa) |  |
-| State | **White reflectors** on rural signposts (esp. stop signs) — unique to Kansas | [P](https://www.plonkit.net/usa) |  |
+| State | **White reflectors on signposts** (esp. rural stop signs) — unique to Kansas | [P](https://www.plonkit.net/usa) |  |
 | State | Uniquely-shaped **rumble strips**: thin, long recessed lines on the very outside road edges | [P](https://www.plonkit.net/usa) |  |
 | State | **Shotgun houses** (very narrow 1-storey wood) → New Orleans area (also Houston, Louisville, Mississippi) | [P](https://www.plonkit.net/usa) |  |
-| State | Stoplights & signs **hang from wires** across big intersections, often in yellow boxes | [P](https://www.plonkit.net/usa) |  |
-| State | **Yellow signs w/ vertical black triangles** before bridges at major river crossings & guardrail ends | [P](https://www.plonkit.net/usa) |  |
-| State | County highways use a **letter system (A–ZZZ)** — Missouri signs lack the word 'county' (Wisconsin has it) | [P](https://www.plonkit.net/usa) |  |
-| State | **Sandhills**: rolling grass-covered dunes in the central-north of the state | [P](https://www.plonkit.net/usa) |  |
+| State | Stoplights & signs **hang from wires** across big intersections, often in yellow boxes; signs often on two posts (also OH/MN/NY) | [P](https://www.plonkit.net/usa) |  |
+| State | **Yellow signs w/ vertical black triangles** before bridges & guardrail ends; horizontal black-white marker on rural stop-sign posts | [P](https://www.plonkit.net/usa) |  |
+| State | County highways lettered **A–ZZZ** (only WI does this too) | [P](https://www.plonkit.net/usa) |  |
+| State | **Sandhills**: rolling prairie-grass dunes in the central-north of the state | [P](https://www.plonkit.net/usa) |  |
 | State | Bollard = **white vertical-rectangle reflector w/ black outline** on a thin stick | [P](https://www.plonkit.net/usa) |  |
-| State | White metal **"E-2" sign** beside the road, typically at bridge ends | [P](https://www.plonkit.net/usa) |  |
-| State | Bollard with **3 circular reflectors**; Pueblo-Revival adobe (flat roofs, rounded, sand-brown) buildings | [P](https://www.plonkit.net/usa) |  |
-| State | **Square guardrails** (long top bar on square legs) dominant here (also Wyoming) | [P](https://www.plonkit.net/usa) |  |
-| State | Street signs showing **street numbers + arrows** alongside the name | [P](https://www.plonkit.net/usa) |  |
-| State | **Green sign, 3 rows of numbers** on the back of rural stop signs at intersections | [P](https://www.plonkit.net/usa) |  |
-| State | Speed signs often say just **"SPEED"** (not "SPEED LIMIT"); bollard = very long rectangular reflector on top | [P](https://www.plonkit.net/usa) |  |
-| State | White intersection signs w/ the **converging state-route number** on top; **keystone** route markers | [P](https://www.plonkit.net/usa) |  |
-| State | **White diamond reflector** bollard, usually **2 bolts** (Montana = 1 bolt); Black Hills (conifers) far west | [P](https://www.plonkit.net/usa) |  |
-| State | **Yellow/red bands** ('ketchup & mustard') around signposts; grainy salt-and-pepper roads; Hill Country oaks W of Austin | [P](https://www.plonkit.net/usa) |  |
-| State | Bollard = **white square reflector atop a black rectangle** (unique); streets named like **"600 South"** | [P](https://www.plonkit.net/usa) |  |
-| State | Small **green signs, 3 rows of numbers**, 2nd row starts with **0** (New York's starts with a NYSDOT district #) | [P](https://www.plonkit.net/usa) |  |
-| State | Bollard = white/brown post, **white rectangle on front + two small squares on back**; golden wheat fields east | [P](https://www.plonkit.net/usa) |  |
-| State | Street signs with a **fraction-in-a-circle** symbol | [P](https://www.plonkit.net/usa) |  |
-| State | Simple **white bollards w/ black reflectors** (unique); green **ATV Route** signs; orange rectangle+diamond pole plate (also MI UP) | [P](https://www.plonkit.net/usa) |  |
-| State | Bollard: dark post, white circular reflector w/ post rising **above** it; top sometimes painted **white/grey** (unique) | [P](https://www.plonkit.net/usa) |  |
-| Special | **Interstate 19** (Tucson → Mexico) is the only US highway signed in **kilometres** (speed still MPH) | [P](https://www.plonkit.net/usa) |  |
-| Special | **Ford Bronco** (unblurred black roof, red hood) on unpaved roads = TransAmerica Trail promo, OR→NC | [P](https://www.plonkit.net/usa) |  |
-| Special | **Devil's Tower** (lone butte, NE Wyoming) visible for miles; Badlands/Theodore Roosevelt = sand-brown eroded rock | [P](https://www.plonkit.net/usa) |  |
+| State | White metal **'E-2' sign** beside the road, typically at bridge ends | [P](https://www.plonkit.net/usa) |  |
+| State | Bollard w/ **3 circular reflectors**; **Pueblo-Revival adobe** houses (rounded edges, flat roofs, sand-brown — also AZ/CO to a lesser extent) | [P](https://www.plonkit.net/usa) |  |
+| State | **Square guardrails** (long top bar on square legs) dominant (also Wyoming); small green 3-row number signs (2nd row = NYSDOT district; Vermont's start w/ 0) | [P](https://www.plonkit.net/usa) |  |
+| State | Street signs showing **street numbers + arrows** alongside the name; plain white signs on posts common too | [P](https://www.plonkit.net/usa) |  |
+| State | **Green sign w/ 3 rows of numbers** on the back of rural stop signs | [P](https://www.plonkit.net/usa) |  |
+| State | Speed signs often just say **'SPEED'**; bollard = very long rectangular reflector on top (similar in CA) | [P](https://www.plonkit.net/usa) |  |
+| State | White rectangular signs at intersections w/ the **converging state-route number** on top | [P](https://www.plonkit.net/usa) |  |
+| State | **Black street signs w/ white text** common at intersections | [P](https://www.plonkit.net/usa) |  |
+| State | **White diamond-reflector bollard**, usually **2 bolts** (Montana = 1 bolt; design exists elsewhere — caution, squares can be rotated) | [P](https://www.plonkit.net/usa) |  |
+| State | **Yellow/red 'ketchup & mustard' bands** around signposts; grainy salt-and-pepper roads; huge sloped roofs (also OK/LA); oil pumpjacks (also E-NM/ND) | [P](https://www.plonkit.net/usa) |  |
+| State | Bollard = **white square reflector atop a black rectangle** (unique to Utah); black paddle bollards (also WY/NE); streets named like **'600 South'** (also ID) | [P](https://www.plonkit.net/usa) |  |
+| State | Small **green 3-row number signs** — 2nd row almost always starts w/ **0** (New York's = NYSDOT district number) | [P](https://www.plonkit.net/usa) |  |
+| State | White rectangular signs at intersections; **thicker yellow middle lines** (also WV/MD/DE) | [P](https://www.plonkit.net/usa) |  |
+| State | Bollard = white/brown post, **white rectangle front + two small squares on the back**; golden wheat fields in the east | [P](https://www.plonkit.net/usa) |  |
+| State | Street signs w/ a **fraction-in-a-circle** symbol | [P](https://www.plonkit.net/usa) |  |
+| State | Simple **white bollards w/ black reflectors** (unique); green **ATV Route** signs (unique); orange rectangle+diamond pole plate (also MI UP); county letters w/ the word 'COUNTY' | [P](https://www.plonkit.net/usa) |  |
+| State | Bollard: dark post, white circular reflector w/ the post rising **above** it — top sometimes painted **white/grey (unique)**; black paddle bollard w/ white square reflector = WY-only variant | [P](https://www.plonkit.net/usa) |  |
+| City | **City tells**: Pittsburgh = yellow steel bridges + 3 rivers + bluffs; San Francisco = colourful Victorian row houses w/ bay windows; New Orleans = colourful shotgun houses + wrap-around balconies; Miami (Beach) = bright art-deco blocks near the coast | [P](https://www.plonkit.net/usa) |  |
+| Special | **Landscape spotlights**: Everglades (jungle-straight lonely roads Ft. Myers↔Miami); Florida Keys (single-lane highway, tropical green, white sandy soil); Wichita Mtns (SW-OK, pink-red rocky peaks); Guadalupe Mtns (NM/TX border, tall dry ridge); Black Hills (W-SD/E-WY, conifer mountains in flat surroundings) | [P](https://www.plonkit.net/usa) |  |
+| Special | **Ford Bronco** (unblurred black roof, red hood, 2 escorting Ford SUVs behind) on unpaved rural roads = TransAmerica-Trail promo coverage, Oregon → North Carolina | [P](https://www.plonkit.net/usa) |  |
+| Special | **Interstate 19** (Tucson → Mexico border) is the only US highway signed in **kilometres** (speed limits still MPH) | [P](https://www.plonkit.net/usa) |  |
+| Special | **National parks**: | [P](https://www.plonkit.net/usa) |  |
 
 ## Greenland
 Study: [Plonk It](https://www.plonkit.net/greenland)
