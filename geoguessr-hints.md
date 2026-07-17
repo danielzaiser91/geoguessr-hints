@@ -1914,24 +1914,28 @@ Study: [Plonk It](https://www.plonkit.net/netherlands) · [GeoGuessr map](https:
 | Special | **Afsluitdijk**: dead-straight SW-NE divided causeway, water SE + dike NW; **Westland**: greenhouse ocean SW of The Hague; **Rotterdam harbour**: industry + round fuel tanks (Amsterdam/Delfzijl similar); Hoge Veluwe NP trekker w/ visible **brown hair** | [P](https://www.plonkit.net/netherlands) |  |
 
 ## Switzerland
-Study: [Plonk It](https://www.plonkit.net/switzerland)
+Study: [Plonk It](https://www.plonkit.net/switzerland) · [GeoGuessr map](https://www.geoguessr.com/maps/5fd4a9e412f8270001f5d6d9)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | **Low-cam** (bigger car blur, roads look wide, low angle) — only Japan & Liechtenstein are also always low-cam | [P](https://www.plonkit.net/switzerland) |  |
-| Country | Plates **fully white, no blue strip**; **very short front plate**; rear has red country emblem left + canton emblem right | [P](https://www.plonkit.net/switzerland) |  |
-| Country | Bollards black-and-white (white/grey reflector), wedge-shaped or cylindrical w/ rounded top | [P](https://www.plonkit.net/switzerland) |  |
-| Country | Directional-sign colour = road type: **blue = main road, white = side road** | [P](https://www.plonkit.net/switzerland) |  |
-| Country | Pedestrian sign = **7 stripes** in a **tall blue rectangle** (almost unique in Europe) | [P](https://www.plonkit.net/switzerland) |  |
-| Country | **Long dashed yellow** road lines; **yellow-painted pedestrian crossings** (only CH + Liechtenstein in Europe) | [P](https://www.plonkit.net/switzerland) |  |
-| Country | Road signs with a **round grey metal border**; town-entry signs white/blue w/ metal frame + canton abbreviation | [P](https://www.plonkit.net/switzerland) |  |
-| Country | Chevrons black w/ white arrow (Austria = red/white or red/yellow) | [P](https://www.plonkit.net/switzerland) |  |
-| Country | **South extremely mountainous** (thin valleys); north = farmland on flat/rolling hills w/ forested hills in distance | [P](https://www.plonkit.net/switzerland) |  |
-| Country | Alpine architecture: light warm stone + wood, gable tiled roofs, **two-part wooden shutters**; unique thick-metal-frame bus-stop signs | [P](https://www.plonkit.net/switzerland) |  |
-| Region | **4 official languages** (German/French/Italian/Romansh); Swiss German has **no ß**; speed-sign text varies by region | [P](https://www.plonkit.net/switzerland) |  |
-| Region | **Jura Mountains** (NW) = fairly flat + a long chain of forested ridges, exposed limestone; rock walls | [P](https://www.plonkit.net/switzerland) |  |
-| State | **Canton 2-letter abbreviation** on town signs & plates; postal-code first digits increase **west→east** | [P](https://www.plonkit.net/switzerland) |  |
-| Special | **Ticino** = Italian architecture (south); Graubünden painted-detail stone houses + **Bernina Express** train coverage; Valais thick wooden bollards | [P](https://www.plonkit.net/switzerland) |  |
+| Country | ALL car coverage = **low-cam** (bigger blur, roads look wide, low angle) | [P](https://www.plonkit.net/switzerland) |  |
+| Country | Plates **fully white, NO blue strip**; front plate extremely short; rear long or tall w/ **red Swiss emblem left + canton emblem right** | [P](https://www.plonkit.net/switzerland) |  |
+| Country | Bollards black-white w/ white/grey reflectors — wedge or cylindrical w/ rounded top (Liechtenstein nearly identical) | [P](https://www.plonkit.net/switzerland) |  |
+| Country | Directional signs: **blue = main road, white = side road**; road signs often in a **round grey metal border**; town signs white/blue w/ metal frame (back: distances + canton abbreviation) | [P](https://www.plonkit.net/switzerland) |  |
+| Country | Pedestrian signs: **7 stripes on a tall blue rectangle** (Europe: only CH+FL) | [P](https://www.plonkit.net/switzerland) |  |
+| Country | **Long dashed yellow lines** + **yellow pedestrian crossings** (Europe: only CH+FL) | [P](https://www.plonkit.net/switzerland) |  |
+| Country | Chevrons **black w/ white arrow** (rarely inverted; Austria = red-white/red-yellow) | [P](https://www.plonkit.net/switzerland) |  |
+| Country | South = extremely mountainous w/ thin valleys; north = farmland on flat/rolling ground w/ forested hills | [P](https://www.plonkit.net/switzerland) |  |
+| Country | Alpine: light warm stone + wood, gable tiled roofs, **two-part horizontal wooden shutters** | [P](https://www.plonkit.net/switzerland) |  |
+| Country | Bus-stop signs w/ **thick metal post looping around them** — unique to Switzerland | [P](https://www.plonkit.net/switzerland) |  |
+| Region | **4 languages** (German/French/Italian/Romansh) by region; Swiss German has **NO ß**; speed-sign text language matches the region | [P](https://www.plonkit.net/switzerland) |  |
+| Region | **Canton 2-letter abbreviations** on town signs + unblurred plates; postal-code first digit increases **west → east** | [P](https://www.plonkit.net/switzerland) |  |
+| Region | **Jura**: flatter land w/ long forested medium ridge NW; exposed limestone from forested hills; rock walls (also Italian-speaking Alps) | [P](https://www.plonkit.net/switzerland) |  |
+| Region | **Architecture regions**: Ticino = Italian style (smooth orange-yellow stone, IT shutters); Bern area = thick arch-shaped roofs; northeast = elaborate **red timber frames**; Appenzell = house+barn at 90° w/ square-grid facades; Graubünden = all-stone houses w/ white painted window decor | [P](https://www.plonkit.net/switzerland) |  |
+| Region | **Canton infra**: Vaud = large town signs; Basel-Landschaft = **olive-green** posts/borders/backs; Valais = thick wooden bollards; Glarus = reflectors on fences instead of bollards; Geneva (+Martigny valley) = simplified bike symbol w/ disconnected wheels; road-divider types mapped | [P](https://www.plonkit.net/switzerland) |  |
+| City | **Sankt Gallen** = blue street signs w/ rounded side edges (unique); **Basel** = big blue signs on low double posts (Denmark-like); **Bern** downtown = grey 4-storey buildings w/ rounded arcade openings | [P](https://www.plonkit.net/switzerland) |  |
+| Special | **Lake tells**: hilly + big lake south w/ tall mountains behind = north of **Lake Geneva**; wide lake NE in low terrain = **Lake Constance**; Martigny valley = highest fruit-plantation density (also near Constance & NW of Geneva) | [P](https://www.plonkit.net/switzerland) |  |
+| Special | **Bernina-Express train coverage** in Graubünden (down to Tirano/Italy); Gen2 only near the Bern/Valais border + short Schaffhausen bits (+Gen2 ski resorts in the south) | [P](https://www.plonkit.net/switzerland) |  |
 
 ## Belgium
 Study: [Plonk It](https://www.plonkit.net/belgium) · [GeoGuessr map](https://www.geoguessr.com/maps/60abde927d6ac000015caec8)

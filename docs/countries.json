@@ -23991,160 +23991,282 @@
    "area_km2": 41285,
    "links": {
     "plonkit": "https://www.plonkit.net/switzerland",
-    "geoguessr": null
+    "geoguessr": "https://www.geoguessr.com/maps/5fd4a9e412f8270001f5d6d9"
    },
    "hints": [
     {
      "cat": "country",
-     "text": "**Low-cam** (bigger car blur, roads look wide, low angle) — only Japan & Liechtenstein are also always low-cam",
+     "type": "cars",
+     "text": "ALL car coverage = **low-cam** (bigger blur, roads look wide, low angle)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "srYV",
      "img": "Lowcam.png",
-     "type": "cars"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "japan",
+       "note": "Japan is always low-cam too.",
+       "diff": "Kanji/kana + left-hand traffic → Japan.",
+       "img": "3.png"
+      },
+      {
+       "slug": "liechtenstein",
+       "note": "Liechtenstein always low-cam.",
+       "diff": "FL plates; tiny country between CH and AT."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Plates **fully white, no blue strip**; **very short front plate**; rear has red country emblem left + canton emblem right",
+     "type": "plates",
+     "text": "Plates **fully white, NO blue strip**; front plate extremely short; rear long or tall w/ **red Swiss emblem left + canton emblem right**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "wLZ9",
      "img": "Switzerland_License_Plate.png",
-     "type": "plates"
+     "uniq": "unique"
     },
     {
      "cat": "country",
-     "text": "Bollards black-and-white (white/grey reflector), wedge-shaped or cylindrical w/ rounded top",
+     "type": "bollards",
+     "text": "Bollards black-white w/ white/grey reflectors — wedge or cylindrical w/ rounded top (Liechtenstein nearly identical)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "lPuj",
      "img": "ch_bollard.png",
-     "type": "bollards"
+     "uniq": "shared",
+     "shared_with": [
+      {
+       "slug": "liechtenstein",
+       "note": "Almost identical round bollards.",
+       "diff": "FL plates + Vaduz castle views → Liechtenstein."
+      }
+     ]
     },
     {
      "cat": "country",
-     "text": "Directional-sign colour = road type: **blue = main road, white = side road**",
+     "type": "signs",
+     "text": "Directional signs: **blue = main road, white = side road**; road signs often in a **round grey metal border**; town signs white/blue w/ metal frame (back: distances + canton abbreviation)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "9CSb",
      "img": "ch_directionsigns.png",
-     "type": "signs"
+     "imgs": [
+      "ch_sign_border.png",
+      "ch_townsign.png"
+     ]
     },
     {
      "cat": "country",
-     "text": "Pedestrian sign = **7 stripes** in a **tall blue rectangle** (almost unique in Europe)",
+     "type": "signs",
+     "text": "Pedestrian signs: **7 stripes on a tall blue rectangle** (Europe: only CH+FL)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "e1U8",
      "img": "ch_pedestrian_sign.png",
-     "type": "signs"
+     "uniq": "unique*",
+     "uniq_note": "Liechtenstein uses identical signs — everything else in Europe differs."
     },
     {
      "cat": "country",
-     "text": "**Long dashed yellow** road lines; **yellow-painted pedestrian crossings** (only CH + Liechtenstein in Europe)",
+     "type": "markings",
+     "text": "**Long dashed yellow lines** + **yellow pedestrian crossings** (Europe: only CH+FL)",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "anchor": "K1Ul",
-     "img": "ch_pedestrian_crossing.png",
-     "type": "markings"
-    },
-    {
-     "cat": "country",
-     "text": "Road signs with a **round grey metal border**; town-entry signs white/blue w/ metal frame + canton abbreviation",
-     "src": [
-      "plonkit"
+     "anchor": "WZTx",
+     "img": "Screenshot__28505_29.png",
+     "imgs": [
+      "ch_pedestrian_crossing.png"
      ],
-     "sv": null,
-     "anchor": "PEET",
-     "img": "ch_sign_border.png",
-     "type": "signs"
+     "uniq": "unique*",
+     "uniq_note": "Yellow crossings/dashes = Switzerland or Liechtenstein only."
     },
     {
      "cat": "country",
-     "text": "Chevrons black w/ white arrow (Austria = red/white or red/yellow)",
+     "type": "signs",
+     "text": "Chevrons **black w/ white arrow** (rarely inverted; Austria = red-white/red-yellow)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "JMIW",
-     "img": "ch_chevron.png",
-     "type": "signs"
+     "img": "ch_chevron.png"
     },
     {
      "cat": "country",
-     "text": "**South extremely mountainous** (thin valleys); north = farmland on flat/rolling hills w/ forested hills in distance",
+     "type": "landscape",
+     "text": "South = extremely mountainous w/ thin valleys; north = farmland on flat/rolling ground w/ forested hills",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "FOTA",
-     "img": "ch_landscape.png",
-     "type": "landscape"
+     "img": "ch_landscape.png"
     },
     {
      "cat": "country",
-     "text": "Alpine architecture: light warm stone + wood, gable tiled roofs, **two-part wooden shutters**; unique thick-metal-frame bus-stop signs",
+     "type": "arch",
+     "text": "Alpine: light warm stone + wood, gable tiled roofs, **two-part horizontal wooden shutters**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "aYNF",
-     "img": "ch_houses.png",
-     "type": "arch"
+     "img": "ch_houses.png"
+    },
+    {
+     "cat": "country",
+     "type": "signs",
+     "text": "Bus-stop signs w/ **thick metal post looping around them** — unique to Switzerland",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "kRj5",
+     "img": "ch_busstop.png",
+     "uniq": "unique"
     },
     {
      "cat": "region",
-     "text": "**4 official languages** (German/French/Italian/Romansh); Swiss German has **no ß**; speed-sign text varies by region",
+     "type": "language",
+     "text": "**4 languages** (German/French/Italian/Romansh) by region; Swiss German has **NO ß**; speed-sign text language matches the region",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "Oo4G",
      "img": "ch_languages.png",
-     "type": "language"
+     "imgs": [
+      "ch_speedsigns.png"
+     ],
+     "super": true
     },
     {
-     "cat": "state",
-     "text": "**Canton 2-letter abbreviation** on town signs & plates; postal-code first digits increase **west→east**",
+     "cat": "region",
+     "type": "naming",
+     "text": "**Canton 2-letter abbreviations** on town signs + unblurred plates; postal-code first digit increases **west → east**",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "hhwq",
      "img": "ch_cantons.png",
-     "type": "naming"
+     "imgs": [
+      "2_digit_postcode_switzerland.png"
+     ],
+     "super": true
     },
     {
      "cat": "region",
-     "text": "**Jura Mountains** (NW) = fairly flat + a long chain of forested ridges, exposed limestone; rock walls",
+     "type": "landscape",
+     "text": "**Jura**: flatter land w/ long forested medium ridge NW; exposed limestone from forested hills; rock walls (also Italian-speaking Alps)",
      "src": [
       "plonkit"
      ],
      "sv": null,
      "anchor": "nUOq",
      "img": "Jura_Mountains_hint.png",
-     "type": "landscape"
+     "imgs": [
+      "ch_juralimestone.png",
+      "ch_rockwalls.png"
+     ]
     },
     {
-     "cat": "special",
-     "text": "**Ticino** = Italian architecture (south); Graubünden painted-detail stone houses + **Bernina Express** train coverage; Valais thick wooden bollards",
+     "cat": "region",
+     "type": "arch",
+     "text": "**Architecture regions**: Ticino = Italian style (smooth orange-yellow stone, IT shutters); Bern area = thick arch-shaped roofs; northeast = elaborate **red timber frames**; Appenzell = house+barn at 90° w/ square-grid facades; Graubünden = all-stone houses w/ white painted window decor",
      "src": [
       "plonkit"
      ],
      "sv": null,
-     "type": "general"
+     "anchor": "pdKy",
+     "img": "ch_italyhouses.png",
+     "imgs": [
+      "ch_architecturebern.png",
+      "ch_timberframes.png",
+      "ch_appenzellarchitecture.png",
+      "ch_graubundenarchitecture.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "region",
+     "type": "signs",
+     "text": "**Canton infra**: Vaud = large town signs; Basel-Landschaft = **olive-green** posts/borders/backs; Valais = thick wooden bollards; Glarus = reflectors on fences instead of bollards; Geneva (+Martigny valley) = simplified bike symbol w/ disconnected wheels; road-divider types mapped",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "JkUC",
+     "img": "ch_vaudtownsign.png",
+     "imgs": [
+      "ch_baselolivegreen.png",
+      "ch_thickwoodenbollard.png",
+      "ch_fencereflectors.png",
+      "ch_genevabikesymbol.png",
+      "Reflectors_wide.png"
+     ],
+     "super": true
+    },
+    {
+     "cat": "special",
+     "type": "landscape",
+     "text": "**Lake tells**: hilly + big lake south w/ tall mountains behind = north of **Lake Geneva**; wide lake NE in low terrain = **Lake Constance**; Martigny valley = highest fruit-plantation density (also near Constance & NW of Geneva)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "fLRI",
+     "img": "ch_lakegeneva.png",
+     "imgs": [
+      "ch_bodensee.png",
+      "ch_martignyfruits1.png",
+      "ch_fruittrees.png"
+     ]
+    },
+    {
+     "cat": "special",
+     "type": "cars",
+     "text": "**Bernina-Express train coverage** in Graubünden (down to Tirano/Italy); Gen2 only near the Bern/Valais border + short Schaffhausen bits (+Gen2 ski resorts in the south)",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "q9q8",
+     "img": "ch_traintrekker_copy.png",
+     "imgs": [
+      "ch_gen2.png"
+     ],
+     "uniq": "unique"
+    },
+    {
+     "cat": "city",
+     "type": "signs",
+     "text": "**Sankt Gallen** = blue street signs w/ rounded side edges (unique); **Basel** = big blue signs on low double posts (Denmark-like); **Bern** downtown = grey 4-storey buildings w/ rounded arcade openings",
+     "src": [
+      "plonkit"
+     ],
+     "sv": null,
+     "anchor": "5c2b",
+     "img": "ch_stgallen_streetsign.png",
+     "imgs": [
+      "ch_baselstreetsigns.png",
+      "ch_bern.png"
+     ],
+     "uniq": "unique"
     }
    ]
   },
