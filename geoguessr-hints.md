@@ -2954,25 +2954,29 @@ Study: [Plonk It](https://www.plonkit.net/curacao)
 # Oceania
 
 ## Australia
-Study: [Plonk It](https://www.plonkit.net/australia)
+Study: [Plonk It](https://www.plonkit.net/australia) · [GeoGuessr map](https://www.geoguessr.com/maps/60afb9b2dcdbe60001438fa6)
 
 | Cat | Hint | Src | SV |
 |---|---|---|---|
-| Country | **Eucalyptus (gum) trees** everywhere, light bark; drives on the **left** | [P](https://www.plonkit.net/australia) |  |
-| Country | Bollard: white, **red reflector front / grey back** (NZ = red wraps around the back) | [P](https://www.plonkit.net/australia) |  |
-| Country | Almost all **white** road lines — yellow lines → South Africa or NZ instead | [P](https://www.plonkit.net/australia) |  |
-| Country | Give-way sign: white border + **black** text (NZ = red text); speed sign red circle on white rectangle (NZ = no rectangle) | [P](https://www.plonkit.net/australia) |  |
-| Country | Gen3 = long antenna; chevrons white-on-black & black-on-yellow | [P](https://www.plonkit.net/australia) |  |
-| Region | Interior = **red soil**, dry; SE + SW corners greener; can "fry eggs" red outback | [P](https://www.plonkit.net/australia) |  |
-| Region | Tasmania: cool temperate green rolling hills (like NZ/S. Chile) | [P](https://www.plonkit.net/australia) |  |
-| Region | Coastal N. Queensland tropical: palms + sugarcane; Darwin (NT) dark red soil + black tree trunks | [P](https://www.plonkit.net/australia) |  |
-| State | **Stobie pole** (two steel joists + concrete slab middle) is iconic to South Australia | [P](https://www.plonkit.net/australia) |  |
-| State | Rusty metal poles w/ holes; **130 km/h** speed limit = NT only; termite mounds | [P](https://www.plonkit.net/australia) |  |
-| State | **Yellow signposts**; black-and-white **stripy bollards** unique to WA; green-based poles | [P](https://www.plonkit.net/australia) |  |
-| State | ~**64% of concrete poles** are in Victoria; 'C' roads only in Victoria & Tasmania | [P](https://www.plonkit.net/australia) |  |
-| State | Unique **pole-top coils** angled upward; fluorescent-border road signs; black-and-yellow bollard | [P](https://www.plonkit.net/australia) |  |
-| State | **Red 'No Stopping' signs** (other states white); snorkel-fitted rare cars → NSW/ACT | [P](https://www.plonkit.net/australia) |  |
-| State | Different states use different **licence-plate** designs + slogans; 2-digit phone area codes map to state | [P](https://www.plonkit.net/australia) |  |
+| Country | **Gum trees (eucalyptus)** dominate: light bark, puffy leaf clusters (look varies by region); drives on the **left** | [P](https://www.plonkit.net/australia) |  |
+| Country | Bollards white w/ **red front reflector / grey back** | [P](https://www.plonkit.net/australia) |  |
+| Country | Road lines almost exclusively **all white** (rare alpine exceptions like Kosciuszko/Hotham); outer lines sometimes w/ perpendicular **rumble-strip stripes** (very rare in NT) | [P](https://www.plonkit.net/australia) |  |
+| Country | Give-way signs: white border + **black text**; speed signs: red circle **on a large white rectangle** | [P](https://www.plonkit.net/australia) |  |
+| Country | Chevrons **white-on-black + black-on-yellow**; green signs w/ white arrows + town distances at intersections | [P](https://www.plonkit.net/australia) |  |
+| Country | Gen3 has a **long antenna** | [P](https://www.plonkit.net/australia) |  |
+| Region | **State plate designs** partly readable through the blur; **2-digit phone area codes** map to states; each state has a unique **bus-stop design** (Darwin: concrete shelters; Tasmania: 'metro') | [P](https://www.plonkit.net/australia) |  |
+| Region | **Landscape regions**: | [P](https://www.plonkit.net/australia) |  |
+| Region | **Traffic lights**: white outline around the frame → WA/QLD/NSW/ACT/Tas; no border → the central states (SA/NT/Vic) | [P](https://www.plonkit.net/australia) |  |
+| Region | **Christmas Island & Cocos Islands count as Australia** for streaks — both have unique cars (own pages on this site) | [P](https://www.plonkit.net/australia) |  |
+| State | **Stobie poles** (steel + concrete, trident or rotated-'E' tops) are the SA icon (a few thousand strayed to other states, esp. Tasmania); short bollard reflectors common (also QLD); white property markers; flat signposts (also WA); SA bus stops have yellow posts | [P](https://www.plonkit.net/australia) |  |
+| State | **Rusty metal poles w/ holes** (also Wyndham, N-WA); **130 km/h limits = NT only**; yellow signpost stickers; **no Gen2 in NT** | [P](https://www.plonkit.net/australia) |  |
+| State | **Yellow signposts** = WA-specific; **black-white striped bollards** unique to WA; brown-bottomed bollards; poles w/ green-painted bases + white sticker/red-white band; trident poletops w/ red insulators + black crossbar (also Vic); dark-green property markers | [P](https://www.plonkit.net/australia) |  |
+| State | ~**64% of Australia's concrete poles** are in Victoria; poletops w/ **3 circular coils** (2 sides + 1 top); 'C' roads only Vic/Tas (+SA border); white hydrant poles w/ blue circle + red top; fire hydrants w/ red-painted tops (unique) | [P](https://www.plonkit.net/australia) |  |
+| State | Poletops w/ **upward-angled coils** (unique); circular **blue pole stickers**; black pole markings + diagonal numbers → Gold Coast/Brisbane/Sunshine Coast; **fluorescent-border signs** ≈ QLD-only; black-yellow bollard exclusive to QLD | [P](https://www.plonkit.net/australia) |  |
+| State | Thin metal **L-shaped crossbars** (mainland uses wood); **olive-green possum guards** on poles (colour = Tas-only); **white directional signs** = only Tasmania | [P](https://www.plonkit.net/australia) |  |
+| State | **Red 'No Stopping' signs** = NSW only (others white; ACT's white ones w/ text = ACT-unique); guardrail endings w/ black dash on yellow ≈ NSW/ACT; thin arrow-less 'Keep Left' → NSW/QLD/NT; most **snorkel cars** → NSW/ACT (only 2 in WA) | [P](https://www.plonkit.net/australia) |  |
+| City | **City street signs**: Melbourne poles = white rectangular sticker w/ small blue square; unique council designs for **Brisbane**, **Gold Coast** and **Sydney** | [P](https://www.plonkit.net/australia) |  |
+| Special | **Spotlights**: | [P](https://www.plonkit.net/australia) |  |
 
 ## New Zealand
 Study: [Plonk It](https://www.plonkit.net/new-zealand)
