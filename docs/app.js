@@ -431,13 +431,15 @@ function videoSec() {
     ph.onclick = () => {
       const wrap = document.createElement("div"); wrap.className = "vid-frame";
       const f = document.createElement("iframe");
-      f.src = `https://www.youtube-nocookie.com/embed/${v.id}?autoplay=1&rel=0`;
+      f.src = `https://www.youtube-nocookie.com/embed/${v.id}?autoplay=1&rel=0&fs=0`;
       f.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
       f.allowFullscreen = true; f.title = v.title;
       wrap.appendChild(f);
-      // YouTube's Shorts embed UI (phone-style chrome) ships with no fullscreen button of its own,
-      // so we add one here. It fullscreens the WRAPPER (not the iframe itself) so the button stays
-      // inside the fullscreen element and can toggle back out again.
+      // fs=0 hides YouTube's own fullscreen button — clicking it fullscreens the iframe directly,
+      // which makes our overlay button (a sibling of the iframe, not a descendant) vanish per the
+      // Fullscreen API's sibling-invisibility rule. We provide our own button instead, fullscreening
+      // the WRAPPER (not the iframe) so the button stays inside the fullscreen element and can toggle
+      // back out again.
       if (v.short) {
         const fs = document.createElement("button");
         fs.type = "button"; fs.className = "vid-fs"; fs.title = "Fullscreen"; fs.textContent = "⛶";
