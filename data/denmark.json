@@ -5,7 +5,11 @@
  "area_km2": 43094,
  "links": { "plonkit": "https://www.plonkit.net/denmark", "geoguessr": null },
  "hints": [
-  { "cat": "country", "type": "plates", "text": "Plates long white + blue strip; commercial **yellow**; **'Parrot' plates** (yellow left section) unique to Denmark", "src": ["plonkit"], "sv": null, "anchor": "I8Xz", "img": "Denmark_License_Plate.png", "uniq": "unique*", "uniq_note": "The half-yellow parrot plate exists nowhere else — plain yellow plates also in NL/LU/UK." },
+  { "cat": "country", "type": "plates", "text": "Plates long white + blue strip; commercial **yellow**; **'Parrot' plates** (yellow left section) unique to Denmark", "src": ["plonkit"], "sv": null, "anchor": "I8Xz", "img": "Denmark_License_Plate.png", "uniq": "unique*", "uniq_note": "The half-yellow parrot plate exists nowhere else — plain yellow plates also in NL/LU/UK.",
+    "shared_with": [
+      { "slug": "netherlands", "note": "Dutch plates are fully yellow with a blue strip.", "diff": "Half-white/half-yellow → Denmark; fully yellow → Netherlands.", "img": "Netherlands_plate.png" },
+      { "slug": "luxembourg", "note": "Luxembourg plates are fully yellow with a blue strip too.", "diff": "Half-and-half → Denmark; fully yellow → Luxembourg.", "img": "Luxembourg_License_Plate.png" },
+      { "slug": "united-kingdom", "note": "UK plates are white front / yellow REAR only, usually no blue strip.", "diff": "Same plate front & back → Denmark; different front/back colours → UK.", "img": "United_Kingdom_License_Plate.png" } ] },
   { "cat": "country", "type": "landscape", "text": "Generally **flat**, wide open fields; airy suburbs, dense urban cores", "src": ["plonkit"], "sv": null, "anchor": "dC2V", "img": "General_Landscape.png" },
   { "cat": "country", "type": "markings", "text": "All-white lines; **double middles** common; outer lines of **small white squares** — a great Denmark tell", "src": ["plonkit"], "sv": null, "anchor": "iepe", "img": "Road_Lines.png", "imgs": ["Blocky_Gapped_Outside_Road_Lines.png"],
     "uniq": "shared", "shared_with": [

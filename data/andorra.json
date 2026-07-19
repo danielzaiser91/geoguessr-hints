@@ -15,7 +15,9 @@
   { "cat": "country", "type": "language", "text": "**Catalan** is the main language: Romance, close to Spanish/French — **'i' instead of 'y' for 'and'**, more words ending in consonants; street = **carrer**", "src": ["plonkit"], "sv": null, "anchor": "ZYyW", "img": "Andorra_Catalan.png", "imgs": ["Screenshot_2022-06-29_203415.png"],
     "uniq": "shared", "shared_with": [
       { "slug": "spain", "note": "Catalan is also used in Catalonia, Valencia and the Balearics.", "diff": "Catalan + orange-dot plates + mountains everywhere → Andorra." } ] },
-  { "cat": "country", "type": "signs", "text": "km markers w/ **CG / CS road numbers**", "src": ["plonkit"], "sv": null, "anchor": "kLb3", "img": "Copy_of_Copy_of_Copy_of_Copy_of_Small_Pin_281_29.png", "uniq": "unique*", "uniq_note": "CG/CS numbering is Andorra-only; the marker DESIGN itself resembles Spain's." },
+  { "cat": "country", "type": "signs", "text": "km markers w/ **CG / CS road numbers**", "src": ["plonkit"], "sv": null, "anchor": "kLb3", "img": "Copy_of_Copy_of_Copy_of_Copy_of_Small_Pin_281_29.png", "uniq": "unique*", "uniq_note": "CG/CS numbering is Andorra-only; the marker DESIGN itself resembles Spain's.",
+    "shared_with": [
+      { "slug": "spain", "note": "Spanish markers use the same colourful-border design, just with different regional letter codes (e.g. SG = Segovia).", "diff": "CG/CS lettering → Andorra; any other letter code → Spain.", "img": "Spain_marker.png" } ] },
   { "cat": "country", "type": "utility", "text": "Guardrails w/ **yellow reflectors**", "src": ["plonkit"], "sv": null, "anchor": "yQEn", "img": "guardrailreflector.png",
     "uniq": "shared", "shared_with": [
       { "slug": "spain", "note": "Yellow guardrail reflectors also in Spain.", "diff": "CG/CS markers + orange-dot plates → Andorra." },

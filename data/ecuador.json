@@ -5,7 +5,9 @@
  "area_km2": 283561,
  "links": { "plonkit": "https://www.plonkit.net/ecuador", "geoguessr": null },
  "hints": [
-  { "cat": "country", "type": "plates", "text": "Plates white, a **mix of short & long** — the only Latin American country with both; commercial (taxis/buses) = **solid orange** or orange top bar", "src": ["plonkit"], "sv": null, "anchor": "8Xg1", "img": "Ecuador_License_Plate.png", "uniq": "unique*", "uniq_note": "The short+long mix is the tell; orange commercial plates also exist in Chile." },
+  { "cat": "country", "type": "plates", "text": "Plates white, a **mix of short & long** — the only Latin American country with both; commercial (taxis/buses) = **solid orange** or orange top bar", "src": ["plonkit"], "sv": null, "anchor": "8Xg1", "img": "Ecuador_License_Plate.png", "uniq": "unique*", "uniq_note": "The short+long mix is the tell; orange commercial plates also exist in Chile.",
+    "shared_with": [
+      { "slug": "chile", "note": "Chilean commercial and taxi plates are also orange.", "diff": "Short+long plate MIX → Ecuador; Chile only has one plate length.", "img": "Chile_License_Plate.png" } ] },
   { "cat": "country", "type": "cars", "text": "Gen3: white car w/ **stubby coiled antenna**; Gen4: **white pickup w/ black trunk, NO antenna**", "src": ["plonkit"], "sv": null, "anchor": "HsDH", "img": "ec_antenna.png", "imgs": ["Screenshot__281151_29.png"],
     "uniq": "shared", "shared_with": [
       { "slug": "colombia", "note": "Same antenna; on a BLACK car it's Colombia-only (Colombia can have white too).", "diff": "Teal sign backs + bollards → Ecuador." },
@@ -14,7 +16,9 @@
       { "slug": "panama", "note": "PA/CR pickups have a FRONT antenna.", "diff": "No antenna on the truck → Ecuador." },
       { "slug": "costa-rica", "note": "CR truck has an antenna and is often visible.", "diff": "No antenna → Ecuador." } ] },
   { "cat": "country", "type": "cars", "text": "**Shitcam** coverage (official Ari): wide circular blur, brownish colours, sometimes a **red logo** at the front — the only Latin American country with it", "src": ["plonkit"], "sv": null, "anchor": "CduU", "img": "ecua_shitcam_with_logo.png", "uniq": "unique" },
-  { "cat": "country", "type": "bollards", "text": "**Bollards very common** (rare in LatAm): round w/ **2 red stripes**, or flat black w/ 2 red reflectors (variants keep the scheme)", "src": ["plonkit"], "sv": null, "anchor": "cF1l", "img": "Bollards-EC.png", "uniq": "unique*", "uniq_note": "Within Latin America a bollard-heavy round leans Ecuador; a similar rectangle exists in Malaysia." },
+  { "cat": "country", "type": "bollards", "text": "**Bollards very common** (rare in LatAm): round w/ **2 red stripes**, or flat black w/ 2 red reflectors (variants keep the scheme)", "src": ["plonkit"], "sv": null, "anchor": "cF1l", "img": "Bollards-EC.png", "uniq": "unique*", "uniq_note": "Within Latin America a bollard-heavy round leans Ecuador; a similar rectangle exists in Malaysia.",
+    "shared_with": [
+      { "slug": "malaysia", "note": "Malaysian bollards use a similar black/white/red rectangular layout.", "diff": "Latin American context (Spanish, cars) → Ecuador; Southeast Asian context → Malaysia.", "img": "Untitled_design__2823_29.png" } ] },
   { "cat": "country", "type": "utility", "text": "Poles mostly round concrete (generic); the useful one: **ladder pole w/ MANY small indents** — more or less unique in LatAm (Brazil's waffle poles have only a few)", "src": ["plonkit"], "sv": null, "anchor": "ki46", "img": "Ecua_poles.png",
     "uniq": "shared", "shared_with": [
       { "slug": "brazil", "note": "Brazilian ladder/waffle poles have far fewer indents.", "diff": "Many indents → Ecuador." } ] },

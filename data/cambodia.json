@@ -7,7 +7,9 @@
  "hints": [
   { "cat": "country", "type": "plates", "text": "Plates white with **blue letters** (may look plain white through the blur); government vehicles = **green plates**", "src": ["plonkit"], "sv": null, "anchor": "wmTo", "img": "Cambodia_License_Plate.png" },
   { "cat": "country", "type": "cars", "text": "Gen3 cars: **stubby 3-ridge antenna** car OR **striped white car** (white stripe left, yellow right)", "src": ["plonkit"], "sv": null, "anchor": "MWhC", "img": "Cambodia_cars_large.png",
-    "uniq": "unique*", "uniq_note": "The striped white car is unique to Cambodia (Bangladesh's striped car looks slightly different). The stubby antenna resembles Latin-American cars (MX/CO/EC/BR) — theirs have a diagonally coiled ridge instead of three ridges." },
+    "uniq": "unique*", "uniq_note": "The striped white car is unique to Cambodia (Bangladesh's striped car looks slightly different). The stubby antenna resembles Latin-American cars (MX/CO/EC/BR) — theirs have a diagonally coiled ridge instead of three ridges.",
+    "shared_with": [
+      { "slug": "bangladesh", "note": "Bangladesh also has a striped white car, patterned slightly differently.", "diff": "Check Khmer vs Bengali script to confirm.", "img": "Untitled_design_2863_29.png" } ] },
   { "cat": "country", "type": "general", "text": "Drives on the **right**", "src": ["plonkit"], "sv": null, "anchor": "5Ed2", "img": "Driving_side.png",
     "uniq": "shared", "shared_with": [
       { "slug": "vietnam", "note": "Also right-hand traffic.", "diff": "Latin script w/ heavy diacritics → Vietnam." },

@@ -17,7 +17,11 @@
       { "slug": "iceland", "note": "Icelandic shares most letters but uses É and Þ instead of Ø.", "diff": "**Ø → Faroese; Þ → Icelandic.**" },
       { "slug": "denmark", "note": "Danish also uses Ø.", "diff": "Ð/accented vowels → Faroese; flat Denmark vs fjord walls." } ] },
   { "cat": "country", "type": "bollards", "text": "Bollards = small **wooden sticks painted yellow**, sometimes red on top", "src": ["plonkit"], "sv": null, "anchor": "u8Th", "img": "fo5.png", "uniq": "unique" },
-  { "cat": "country", "type": "utility", "text": "Guardrails w/ **yellow reflectors** — no other northern European country has them", "src": ["plonkit"], "sv": null, "anchor": "ggio", "img": "fo_reflector.png", "uniq": "unique*", "uniq_note": "Within northern Europe unique; Andorra/Spain/Belgium use yellow too but look nothing alike." },
+  { "cat": "country", "type": "utility", "text": "Guardrails w/ **yellow reflectors** — no other northern European country has them", "src": ["plonkit"], "sv": null, "anchor": "ggio", "img": "fo_reflector.png", "uniq": "unique*", "uniq_note": "Within northern Europe unique; Andorra/Spain/Belgium use yellow too but look nothing alike.",
+    "shared_with": [
+      { "slug": "andorra", "note": "Andorra also uses yellow guardrail reflectors.", "diff": "Faroese fjords + Ø/Ð → Faroes; high Pyrenees + Catalan → Andorra.", "img": "guardrailreflector.png" },
+      { "slug": "spain", "note": "Spanish A-type guardrails also use yellow reflectors.", "diff": "Faroese fjords + turf roofs → Faroes; Spanish landscape/language → Spain.", "img": "2022-12-11_5.png" },
+      { "slug": "belgium", "note": "Belgian A-type guardrails also use yellow reflectors.", "diff": "Faroese fjords + turf roofs → Faroes; flat Belgian landscape → Belgium.", "img": "Ontwerp_zonder_titel_1.png" } ] },
   { "cat": "country", "type": "signs", "text": "Directional signs **yellow w/ thin black border + metal frame**", "src": ["plonkit"], "sv": null, "anchor": "AtU1", "img": "fo6.png",
     "uniq": "shared", "shared_with": [
       { "slug": "iceland", "note": "Very similar yellow signs in Iceland.", "diff": "Ø + turf roofs → Faroes; ð/þ → Iceland." } ] },

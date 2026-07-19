@@ -761,7 +761,15 @@
      "anchor": "kLb3",
      "img": "Copy_of_Copy_of_Copy_of_Copy_of_Small_Pin_281_29.png",
      "uniq": "unique*",
-     "uniq_note": "CG/CS numbering is Andorra-only; the marker DESIGN itself resembles Spain's."
+     "uniq_note": "CG/CS numbering is Andorra-only; the marker DESIGN itself resembles Spain's.",
+     "shared_with": [
+      {
+       "slug": "spain",
+       "note": "Spanish markers use the same colourful-border design, just with different regional letter codes (e.g. SG = Segovia).",
+       "diff": "CG/CS lettering → Andorra; any other letter code → Spain.",
+       "img": "Spain_marker.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -1841,7 +1849,21 @@
      "anchor": "aurF",
      "img": "Pedestrian_sign.png",
      "uniq": "unique*",
-     "uniq_note": "Belgium and Poland also use line-based designs — but within the Alpine neighbourhood this sign means Austria."
+     "uniq_note": "Belgium and Poland also use line-based designs — but within the Alpine neighbourhood this sign means Austria.",
+     "shared_with": [
+      {
+       "slug": "belgium",
+       "note": "Belgian pedestrian signs use two dotted lines PLUS a square-headed walking figure.",
+       "diff": "Plain lines, no figure → Austria; added figure → Belgium.",
+       "img": "Ontwerp_zonder_titel_10.png"
+      },
+      {
+       "slug": "poland",
+       "note": "Polish pedestrian signs use a SINGLE horizontal line (Austria uses two).",
+       "diff": "Two lines → Austria; one line → Poland.",
+       "img": "Poland-pedestrian-sign.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -2264,7 +2286,15 @@
      "anchor": "OXUJ",
      "img": "Untitled_design_2863_29.png",
      "uniq": "unique*",
-     "uniq_note": "Red-mirror and striped-white cars are unique to Bangladesh — but don't confuse the striped white with Cambodia's similar-looking car."
+     "uniq_note": "Red-mirror and striped-white cars are unique to Bangladesh — but don't confuse the striped white with Cambodia's similar-looking car.",
+     "shared_with": [
+      {
+       "slug": "cambodia",
+       "note": "Cambodia also has a striped white car: white stripe left, YELLOW stripe right.",
+       "diff": "Bangladesh's stripe colouring differs slightly — check language/script to be certain.",
+       "img": "Cambodia_cars_large.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -2751,7 +2781,21 @@
       "Kopie_van_Magnifying_Effect_1.png"
      ],
      "uniq": "unique*",
-     "uniq_note": "The gutters + concrete slabs combo is the fastest NL-vs-BE separator."
+     "uniq_note": "The gutters + concrete slabs combo is the fastest NL-vs-BE separator.",
+     "shared_with": [
+      {
+       "slug": "philippines",
+       "note": "Concrete slab roads are extremely common there too.",
+       "diff": "Gutters both sides + European context → Belgium.",
+       "img": "1_concreteroad.png"
+      },
+      {
+       "slug": "thailand",
+       "note": "Concrete roads with a large square pattern are common.",
+       "diff": "Gutters both sides + European context → Belgium.",
+       "img": "th_concrete_roads.webp"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -3055,7 +3099,15 @@
      "anchor": "y1Qr",
      "img": "googlecar.png",
      "uniq": "unique*",
-     "uniq_note": "The only LEFT-driving country with a grey car — don't mistake it for a white car (e.g. Philippines' silvery grey drives right)."
+     "uniq_note": "The only LEFT-driving country with a grey car — don't mistake it for a white car (e.g. Philippines' silvery grey drives right).",
+     "shared_with": [
+      {
+       "slug": "philippines",
+       "note": "The Philippine Gen3 car is mostly white but sometimes looks silvery grey.",
+       "diff": "Left-hand traffic → Bhutan; right-hand traffic → Philippines.",
+       "img": "1_gen3car.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -3440,7 +3492,15 @@
       "1_redrocks.png"
      ],
      "uniq": "unique*",
-     "uniq_note": "MAS colours + Wiphala + Tigo are Bolivia's fastest urban tells vs Peru."
+     "uniq_note": "MAS colours + Wiphala + Tigo are Bolivia's fastest urban tells vs Peru.",
+     "shared_with": [
+      {
+       "slug": "peru",
+       "note": "The Andean look (red brick, traditional dress, brimmed hats) intensifies toward Lake Titicaca and can look near-identical to Bolivia.",
+       "diff": "MAS graffiti + Wiphala flag + Tigo ads → Bolivia; none of those exist in Peru.",
+       "img": "2.redbrick.png"
+      }
+     ]
     },
     {
      "cat": "region",
@@ -3941,7 +4001,26 @@
      "anchor": "N06x",
      "img": "Untitled_design32.png",
      "uniq": "unique*",
-     "uniq_note": "Most of South America uses the inverted black-on-yellow."
+     "uniq_note": "Most of South America uses the inverted black-on-yellow.",
+     "shared_with": [
+      {
+       "slug": "chile",
+       "note": "Chile uses the standard scheme: yellow background with black arrows.",
+       "diff": "Black background, yellow arrow → Brazil; yellow background, black arrow → Chile.",
+       "img": "Chile Chevron.png"
+      },
+      {
+       "slug": "uruguay",
+       "note": "Uruguay also uses yellow-black chevrons in the standard orientation.",
+       "diff": "Portuguese + black-background chevron → Brazil.",
+       "img": "Chevron.png"
+      },
+      {
+       "slug": "argentina",
+       "note": "Argentina is the exception — white-and-red chevrons, not yellow-black at all.",
+       "diff": "White-red → Argentina; either yellow-black variant → Brazil or its neighbours."
+      }
+     ]
     },
     {
      "cat": "country",
@@ -4730,7 +4809,15 @@
      "anchor": "MWhC",
      "img": "Cambodia_cars_large.png",
      "uniq": "unique*",
-     "uniq_note": "The striped white car is unique to Cambodia (Bangladesh's striped car looks slightly different). The stubby antenna resembles Latin-American cars (MX/CO/EC/BR) — theirs have a diagonally coiled ridge instead of three ridges."
+     "uniq_note": "The striped white car is unique to Cambodia (Bangladesh's striped car looks slightly different). The stubby antenna resembles Latin-American cars (MX/CO/EC/BR) — theirs have a diagonally coiled ridge instead of three ridges.",
+     "shared_with": [
+      {
+       "slug": "bangladesh",
+       "note": "Bangladesh also has a striped white car, patterned slightly differently.",
+       "diff": "Check Khmer vs Bengali script to confirm.",
+       "img": "Untitled_design_2863_29.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -6499,7 +6586,20 @@
      "anchor": "JMPO",
      "img": "Copy_of_Copy_of_Copy_of_Copy_of_Untitled.png",
      "uniq": "unique*",
-     "uniq_note": "Brazil has white posts too but wider; Costa Rica's back crosses sit on grey posts."
+     "uniq_note": "Brazil has white posts too but wider; Costa Rica's back crosses sit on grey posts.",
+     "shared_with": [
+      {
+       "slug": "costa-rica",
+       "note": "Costa Rica also often has a cross on the back of signs (esp. diamond warnings).",
+       "diff": "Grey posts → Costa Rica; white posts → Colombia.",
+       "img": "dL93E6u.png"
+      },
+      {
+       "slug": "brazil",
+       "note": "Brazilian posts are also white, but noticeably wider.",
+       "diff": "Thinner cross-forming post → Colombia; wide flat post → Brazil."
+      }
+     ]
     },
     {
      "cat": "country",
@@ -8099,7 +8199,27 @@
      "anchor": "I8Xz",
      "img": "Denmark_License_Plate.png",
      "uniq": "unique*",
-     "uniq_note": "The half-yellow parrot plate exists nowhere else — plain yellow plates also in NL/LU/UK."
+     "uniq_note": "The half-yellow parrot plate exists nowhere else — plain yellow plates also in NL/LU/UK.",
+     "shared_with": [
+      {
+       "slug": "netherlands",
+       "note": "Dutch plates are fully yellow with a blue strip.",
+       "diff": "Half-white/half-yellow → Denmark; fully yellow → Netherlands.",
+       "img": "Netherlands_plate.png"
+      },
+      {
+       "slug": "luxembourg",
+       "note": "Luxembourg plates are fully yellow with a blue strip too.",
+       "diff": "Half-and-half → Denmark; fully yellow → Luxembourg.",
+       "img": "Luxembourg_License_Plate.png"
+      },
+      {
+       "slug": "united-kingdom",
+       "note": "UK plates are white front / yellow REAR only, usually no blue strip.",
+       "diff": "Same plate front & back → Denmark; different front/back colours → UK.",
+       "img": "United_Kingdom_License_Plate.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -8538,7 +8658,15 @@
      "anchor": "8Xg1",
      "img": "Ecuador_License_Plate.png",
      "uniq": "unique*",
-     "uniq_note": "The short+long mix is the tell; orange commercial plates also exist in Chile."
+     "uniq_note": "The short+long mix is the tell; orange commercial plates also exist in Chile.",
+     "shared_with": [
+      {
+       "slug": "chile",
+       "note": "Chilean commercial and taxi plates are also orange.",
+       "diff": "Short+long plate MIX → Ecuador; Chile only has one plate length.",
+       "img": "Chile_License_Plate.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -8605,7 +8733,15 @@
      "anchor": "cF1l",
      "img": "Bollards-EC.png",
      "uniq": "unique*",
-     "uniq_note": "Within Latin America a bollard-heavy round leans Ecuador; a similar rectangle exists in Malaysia."
+     "uniq_note": "Within Latin America a bollard-heavy round leans Ecuador; a similar rectangle exists in Malaysia.",
+     "shared_with": [
+      {
+       "slug": "malaysia",
+       "note": "Malaysian bollards use a similar black/white/red rectangular layout.",
+       "diff": "Latin American context (Spanish, cars) → Ecuador; Southeast Asian context → Malaysia.",
+       "img": "Untitled_design__2823_29.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -9066,7 +9202,15 @@
       "Small_road_coverage.png"
      ],
      "uniq": "unique*",
-     "uniq_note": "The green blur is the Estonia tell within the Baltics — Sweden's Gotland shares it, but the language separates instantly."
+     "uniq_note": "The green blur is the Estonia tell within the Baltics — Sweden's Gotland shares it, but the language separates instantly.",
+     "shared_with": [
+      {
+       "slug": "sweden",
+       "note": "The island of Gotland has the same green-tinted Gen3 blur.",
+       "diff": "Estonian language + Baltic context → Estonia; Swedish + Gotland's white sand/limestone houses → Sweden.",
+       "img": "Green_blur.png"
+      }
+     ]
     },
     {
      "cat": "region",
@@ -9475,7 +9619,27 @@
      "anchor": "ggio",
      "img": "fo_reflector.png",
      "uniq": "unique*",
-     "uniq_note": "Within northern Europe unique; Andorra/Spain/Belgium use yellow too but look nothing alike."
+     "uniq_note": "Within northern Europe unique; Andorra/Spain/Belgium use yellow too but look nothing alike.",
+     "shared_with": [
+      {
+       "slug": "andorra",
+       "note": "Andorra also uses yellow guardrail reflectors.",
+       "diff": "Faroese fjords + Ø/Ð → Faroes; high Pyrenees + Catalan → Andorra.",
+       "img": "guardrailreflector.png"
+      },
+      {
+       "slug": "spain",
+       "note": "Spanish A-type guardrails also use yellow reflectors.",
+       "diff": "Faroese fjords + turf roofs → Faroes; Spanish landscape/language → Spain.",
+       "img": "2022-12-11_5.png"
+      },
+      {
+       "slug": "belgium",
+       "note": "Belgian A-type guardrails also use yellow reflectors.",
+       "diff": "Faroese fjords + turf roofs → Faroes; flat Belgian landscape → Belgium.",
+       "img": "Ontwerp_zonder_titel_1.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -9693,7 +9857,21 @@
       "Finland-yellow-stroke.png"
      ],
      "uniq": "unique*",
-     "uniq_note": "Sweden/Iceland also have yellow signs — the thin yellow edge stroke is the Finland-only detail."
+     "uniq_note": "Sweden/Iceland also have yellow signs — the thin yellow edge stroke is the Finland-only detail.",
+     "shared_with": [
+      {
+       "slug": "sweden",
+       "note": "Swedish road signs can also be yellow with a red border (small places).",
+       "diff": "Thin yellow edge stroke → Finland; plain red border → Sweden.",
+       "img": "vagskylt.png"
+      },
+      {
+       "slug": "iceland",
+       "note": "Iceland's directional signs are also yellow.",
+       "diff": "Yellow edge stroke on red-border signs → Finland; Iceland's design lacks it.",
+       "img": "Screenshot__281161_29.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -10152,7 +10330,15 @@
       "1_roadarrow.png"
      ],
      "uniq": "unique*",
-     "uniq_note": "The offset-block middle line is unique — the rest of the line metas are shared (UK/ES/PT/RO)."
+     "uniq_note": "The offset-block middle line is unique — the rest of the line metas are shared (UK/ES/PT/RO).",
+     "shared_with": [
+      {
+       "slug": "united-kingdom",
+       "note": "The UK also has unusually long middle dashes, sometimes with 'cat's eyes' reflectors set into the gaps.",
+       "diff": "The 'Z-block' offset-dash pattern never appears in the UK — if you see it, it's France.",
+       "img": "Kopie_van_Magnifying_Effect_10.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -10581,7 +10767,21 @@
       "de_nostoppingarrow.png"
      ],
      "uniq": "unique*",
-     "uniq_note": "The word Einbahnstraße is Germany-only (Austria uses EINBAHN); the belt pedestrian sign is shared with Luxembourg."
+     "uniq_note": "The word Einbahnstraße is Germany-only (Austria uses EINBAHN); the belt pedestrian sign is shared with Luxembourg.",
+     "shared_with": [
+      {
+       "slug": "austria",
+       "note": "Austria uses the shortened 'EINBAHN' instead of the full word.",
+       "diff": "'Einbahnstraße' (full word) → Germany; 'EINBAHN' → Austria.",
+       "img": "Einbahn.png"
+      },
+      {
+       "slug": "luxembourg",
+       "note": "Luxembourg's pedestrian sign is also a 5-stripe design.",
+       "diff": "German text on nearby signs → Germany; French/Luxembourgish → Luxembourg.",
+       "img": "Pedestrian_sign.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -12653,7 +12853,21 @@
      "anchor": "g7PT",
      "img": "hu_language.png",
      "uniq": "unique*",
-     "uniq_note": "Ő/Ű exist only in Hungarian — but Hungarian signage also appears in central Romania and S-Slovakia, so confirm with infrastructure."
+     "uniq_note": "Ő/Ű exist only in Hungarian — but Hungarian signage also appears in central Romania and S-Slovakia, so confirm with infrastructure.",
+     "shared_with": [
+      {
+       "slug": "romania",
+       "note": "Hungarian-border villages in Romania have Hungarian-style architecture + bilingual Hungarian signs.",
+       "diff": "Romanian ă/î/ș/ț on OTHER signs nearby → Romania.",
+       "img": "ro_hungarianvillage.png"
+      },
+      {
+       "slug": "slovakia",
+       "note": "Southern Slovakia has bilingual Hungarian town signs.",
+       "diff": "Slovak č/ř/ľ diacritics on other signs → Slovakia.",
+       "img": "sk_hungarian.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -12692,7 +12906,14 @@
       "hu_signbolts.png"
      ],
      "uniq": "unique*",
-     "uniq_note": "The 4-bolt rectangle is Norway-like but unique within Eastern Europe."
+     "uniq_note": "The 4-bolt rectangle is Norway-like but unique within Eastern Europe.",
+     "shared_with": [
+      {
+       "slug": "norway",
+       "note": "Norwegian signposts can use a similar 4-bolt mounting rectangle.",
+       "diff": "Eastern European context (Hungarian language, architecture) → Hungary; Nordic landscape → Norway."
+      }
+     ]
     },
     {
      "cat": "country",
@@ -27069,7 +27290,21 @@
      "anchor": "htL5",
      "img": "Poland-pedestrian-sign.png",
      "uniq": "unique*",
-     "uniq_note": "Austria and Belgium also use horizontal lines — but TWO of them; a single line = Poland."
+     "uniq_note": "Austria and Belgium also use horizontal lines — but TWO of them; a single line = Poland.",
+     "shared_with": [
+      {
+       "slug": "austria",
+       "note": "Austrian pedestrian signs use TWO horizontal dashed lines (Poland: one).",
+       "diff": "One line → Poland; two lines → Austria.",
+       "img": "Pedestrian_sign.png"
+      },
+      {
+       "slug": "belgium",
+       "note": "Belgian pedestrian signs use two dotted lines plus a square-headed figure.",
+       "diff": "Single plain line → Poland; two lines + figure → Belgium.",
+       "img": "Ontwerp_zonder_titel_10.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -33370,7 +33605,7 @@
     {
      "cat": "region",
      "type": "landscape",
-     "text": "**Islands**: Gotland = white roadside sand (north + Fårö), wedge-cut fences, limestone houses w/ dirty-white facades, distinct churches; **Öland** = dead-flat, barren bushy south / lusher north, many small rock walls + uneven stone brick, most **windmills** in Sweden; red dirt roads → Dalarna (+Kalmar, Norrbotten/Västerbotten border); grey dirt roads w/ green edges → N-Jämtland; birch rows in northern coastal towns",
+     "text": "**Islands**: Gotland = white roadside sand (north + Fårö), wedge-cut fences, limestone houses w/ dirty-white facades, distinct churches, and the same **green Gen3 blur tint** seen in Estonia; **Öland** = dead-flat, barren bushy south / lusher north, many small rock walls + uneven stone brick, most **windmills** in Sweden; red dirt roads → Dalarna (+Kalmar, Norrbotten/Västerbotten border); grey dirt roads w/ green edges → N-Jämtland; birch rows in northern coastal towns",
      "src": [
       "plonkit"
      ],

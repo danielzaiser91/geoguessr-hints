@@ -10,7 +10,9 @@
     "uniq": "shared", "shared_with": [
       { "slug": "india", "note": "Bengali is official in eastern India (West Bengal) too.", "diff": "India = shitcam/smallcam + B&W signposts w/ Indian context; check the cars and plate colours.", "img": "in_languagebengali.png" } ] },
   { "cat": "country", "type": "cars", "text": "Gen3 cars: **red-mirror w/ bars**, **classic white**, **striped white** (only the classic white isn't Bangladesh-unique)", "src": ["plonkit"], "sv": null, "anchor": "OXUJ", "img": "Untitled_design_2863_29.png",
-    "uniq": "unique*", "uniq_note": "Red-mirror and striped-white cars are unique to Bangladesh — but don't confuse the striped white with Cambodia's similar-looking car." },
+    "uniq": "unique*", "uniq_note": "Red-mirror and striped-white cars are unique to Bangladesh — but don't confuse the striped white with Cambodia's similar-looking car.",
+    "shared_with": [
+      { "slug": "cambodia", "note": "Cambodia also has a striped white car: white stripe left, YELLOW stripe right.", "diff": "Bangladesh's stripe colouring differs slightly — check language/script to be certain.", "img": "Cambodia_cars_large.png" } ] },
   { "cat": "country", "type": "cars", "text": "Gen4: **black or white car**; Gen4 often has a **smoky feel**; shitcam exists too (black/white car, sometimes fully blurred)", "src": ["plonkit"], "sv": null, "anchor": "cdPX", "img": "gen4cars.png", "imgs": ["1shitcam.png", "smokyfeel.png"] },
   { "cat": "country", "type": "cars", "text": "**Rickshaws** everywhere — especially the green auto-rickshaws", "src": ["plonkit"], "sv": null, "anchor": "xulk", "img": "Rickshaw.png" },
   { "cat": "country", "type": "utility", "text": "**Black-white striped signposts**", "src": ["plonkit"], "sv": null, "anchor": "kiNu", "img": "signpost.png",

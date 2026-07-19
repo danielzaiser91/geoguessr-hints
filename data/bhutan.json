@@ -7,7 +7,9 @@
  "hints": [
   { "cat": "country", "type": "plates", "text": "Plates almost always **full red**; taxis = **yellow plates + yellow roofs**", "src": ["plonkit"], "sv": null, "anchor": "FySh", "img": "Bhutan_License_Plate.png", "imgs": ["taxi.png"], "uniq": "unique*", "uniq_note": "Within Asia, Bhutan is the only country with full-red plates — outside Asia, red plates exist (e.g. some European trade plates), so confirm with Dzongkha script or the stone barriers." },
   { "cat": "country", "type": "cars", "text": "Coverage = **grey Google car without antenna**", "src": ["plonkit"], "sv": null, "anchor": "y1Qr", "img": "googlecar.png",
-    "uniq": "unique*", "uniq_note": "The only LEFT-driving country with a grey car — don't mistake it for a white car (e.g. Philippines' silvery grey drives right)." },
+    "uniq": "unique*", "uniq_note": "The only LEFT-driving country with a grey car — don't mistake it for a white car (e.g. Philippines' silvery grey drives right).",
+    "shared_with": [
+      { "slug": "philippines", "note": "The Philippine Gen3 car is mostly white but sometimes looks silvery grey.", "diff": "Left-hand traffic → Bhutan; right-hand traffic → Philippines.", "img": "1_gen3car.png" } ] },
   { "cat": "country", "type": "utility", "text": "**Stone-block safety barriers** on winding rural roads (guardrails rare) — the best rural Bhutan tell", "src": ["plonkit"], "sv": null, "anchor": "uFJO", "img": "stonebarriers.png", "uniq": "unique" },
   { "cat": "country", "type": "arch", "text": "Traditional architecture: **tin roofs + ornate painted wooden frames** — very distinct", "src": ["plonkit"], "sv": null, "anchor": "uyf1", "img": "architecture.png", "uniq": "unique" },
   { "cat": "country", "type": "language", "text": "**Dzongkha** script — on Street View these letters exist only in Bhutan", "src": ["plonkit"], "sv": null, "anchor": "iq4h", "img": "Dzongkha.png", "uniq": "unique" },
