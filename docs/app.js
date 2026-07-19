@@ -436,15 +436,28 @@ function videoSec() {
       f.allowFullscreen = true; f.title = v.title;
       wrap.appendChild(f);
       // YouTube's Shorts embed UI (phone-style chrome) ships with no fullscreen button of its own,
-      // so we add one here that puts the iframe itself into the browser Fullscreen API.
+      // so we add one here. It fullscreens the WRAPPER (not the iframe itself) so the button stays
+      // inside the fullscreen element and can toggle back out again.
       if (v.short) {
         const fs = document.createElement("button");
         fs.type = "button"; fs.className = "vid-fs"; fs.title = "Fullscreen"; fs.textContent = "⛶";
+        const syncFsBtn = () => {
+          const isFs = document.fullscreenElement === wrap || document.webkitFullscreenElement === wrap;
+          fs.textContent = isFs ? "✕" : "⛶";
+          fs.title = isFs ? "Exit fullscreen" : "Fullscreen";
+        };
         fs.onclick = (e) => {
           e.stopPropagation();
-          const req = f.requestFullscreen || f.webkitRequestFullscreen || f.msRequestFullscreen;
-          if (req) req.call(f);
+          if (document.fullscreenElement === wrap || document.webkitFullscreenElement === wrap) {
+            const exit = document.exitFullscreen || document.webkitExitFullscreen || document.msExitFullscreen;
+            if (exit) exit.call(document);
+          } else {
+            const req = wrap.requestFullscreen || wrap.webkitRequestFullscreen || wrap.msRequestFullscreen;
+            if (req) req.call(wrap);
+          }
         };
+        document.addEventListener("fullscreenchange", syncFsBtn);
+        document.addEventListener("webkitfullscreenchange", syncFsBtn);
         wrap.appendChild(fs);
       }
       ph.replaceWith(wrap);
