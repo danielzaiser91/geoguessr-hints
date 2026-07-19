@@ -10,7 +10,9 @@
     "uniq": "shared", "shared_with": [
       { "slug": "france", "note": "Riviera cities like Nice look similar.", "diff": "Short strip-less plates + extreme density/luxury → Monaco." },
       { "slug": "italy", "note": "Ligurian coastal towns look similar.", "diff": "Italian plates + language → Italy." } ] },
-  { "cat": "country", "type": "plates", "text": "Monégasque plates **short & without the blue strip** (many normal French plates around too — often old yellow rears, the Gen2 coverage is that old)", "src": ["plonkit"], "sv": null, "anchor": "c3Rx", "img": "Monaco_Licence_Plate.png", "uniq": "unique*", "uniq_note": "Short + no EU strip separates from France; but French-plated cars dominate the streets, so look for several." },
+  { "cat": "country", "type": "plates", "text": "Monégasque plates **short & without the blue strip** (many normal French plates around too — often old yellow rears, the Gen2 coverage is that old)", "src": ["plonkit"], "sv": null, "anchor": "c3Rx", "img": "Monaco_Licence_Plate.png", "uniq": "unique*", "uniq_note": "Short + no EU strip separates from France; but French-plated cars dominate the streets, so look for several.",
+    "shared_with": [
+      { "slug": "france", "note": "Ordinary French plates (long, blue strip both sides) are everywhere in Monaco too.", "diff": "Short plate with no strip → Monaco; long plate with strips → France.", "img": "1_licenceplate2.png" } ] },
   { "cat": "country", "type": "landscape", "text": "**Hilly**; the few unbuilt spots show Mediterranean vegetation; planted **palm trees** common", "src": ["plonkit"], "sv": null, "anchor": "W7d3", "img": "Monaco_Hilly.png", "imgs": ["Palm_trees.png"] },
   { "cat": "country", "type": "roads", "text": "A lot of coverage **inside tunnels**", "src": ["plonkit"], "sv": null, "anchor": "6LyB", "img": "Tunnels.png" },
   { "cat": "country", "type": "cars", "text": "Rows of **parked mopeds** all around the streets", "src": ["plonkit"], "sv": null, "anchor": "gJQj", "img": "Monaco_Mopeds.png" },

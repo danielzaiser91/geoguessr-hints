@@ -22134,7 +22134,15 @@
       "mx_gen4cars2.png"
      ],
      "uniq": "unique*",
-     "uniq_note": "The stubby coiled antenna also appears in US national parks — ALTO/Spanish decides."
+     "uniq_note": "The stubby coiled antenna also appears in US national parks — ALTO/Spanish decides.",
+     "shared_with": [
+      {
+       "slug": "usa",
+       "note": "US national park Gen3 cars can have the same stubby coiled antenna.",
+       "diff": "ALTO stop signs + Spanish → Mexico; STOP signs + English → USA.",
+       "img": "us_vs_eu_antennas.png"
+      }
+     ]
     },
     {
      "cat": "region",
@@ -22468,7 +22476,15 @@
      "anchor": "c3Rx",
      "img": "Monaco_Licence_Plate.png",
      "uniq": "unique*",
-     "uniq_note": "Short + no EU strip separates from France; but French-plated cars dominate the streets, so look for several."
+     "uniq_note": "Short + no EU strip separates from France; but French-plated cars dominate the streets, so look for several.",
+     "shared_with": [
+      {
+       "slug": "france",
+       "note": "Ordinary French plates (long, blue strip both sides) are everywhere in Monaco too.",
+       "diff": "Short plate with no strip → Monaco; long plate with strips → France.",
+       "img": "1_licenceplate2.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -22620,7 +22636,15 @@
      "anchor": "2q6G",
      "img": "1._infrastructure.png",
      "uniq": "unique*",
-     "uniq_note": "The ЗОГС stop sign exists nowhere else; the rest of the infrastructure is shared post-Soviet style (Russia etc.) — use the stop sign or the camera truck to confirm."
+     "uniq_note": "The ЗОГС stop sign exists nowhere else; the rest of the infrastructure is shared post-Soviet style (Russia etc.) — use the stop sign or the camera truck to confirm.",
+     "shared_with": [
+      {
+       "slug": "russia",
+       "note": "Russia has near-identical concrete poles with support blocks at the base.",
+       "diff": "'ЗОГС' stop sign or Mongolia's snorkel/tent camera truck → Mongolia; anything else post-Soviet without those → check further.",
+       "img": "Russian_pole.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -23552,7 +23576,15 @@
      "anchor": "fLll",
      "img": "6.png",
      "uniq": "unique*",
-     "uniq_note": "The trident+triangle-support pole is unique, the wide-gap insulator pole almost unique — all other Nepali poles look like India's, so anchor on those two."
+     "uniq_note": "The trident+triangle-support pole is unique, the wide-gap insulator pole almost unique — all other Nepali poles look like India's, so anchor on those two.",
+     "shared_with": [
+      {
+       "slug": "india",
+       "note": "India's most common pole is also square concrete with a trident poletop, without the triangle supports.",
+       "diff": "Triangle supports under the trident, or the wide-gap insulator pole → Nepal; plain trident → could be either, check other clues.",
+       "img": "in_pole.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -23971,7 +24003,15 @@
       "Sidewalks.png"
      ],
      "uniq": "unique*",
-     "uniq_note": "Green middle lines are NL-unique; the rest of the road kit (bike lanes, brick roads) is strongly Dutch but exists in Belgium too."
+     "uniq_note": "Green middle lines are NL-unique; the rest of the road kit (bike lanes, brick roads) is strongly Dutch but exists in Belgium too.",
+     "shared_with": [
+      {
+       "slug": "belgium",
+       "note": "Belgium also has bike lanes on both sides with dashed outer lines, and red-brick houses.",
+       "diff": "Green middle line → Netherlands, never Belgium.",
+       "img": "Belgian_Bicycle_paths.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -24671,7 +24711,21 @@
      "anchor": "6QNl",
      "img": "uhfdEzy.png",
      "uniq": "unique*",
-     "uniq_note": "African shitcam = Nigeria (Madeira/Ecuador have it on other continents)."
+     "uniq_note": "African shitcam = Nigeria (Madeira/Ecuador have it on other continents).",
+     "shared_with": [
+      {
+       "slug": "madeira",
+       "note": "Madeira also has shitcam coverage (its own gloomy wide-blur variant).",
+       "diff": "Continent decides instantly — African setting → Nigeria.",
+       "img": "madeira_shitcam"
+      },
+      {
+       "slug": "ecuador",
+       "note": "Ecuador also has shitcam, with a distinct red logo at the front.",
+       "diff": "Continent decides instantly — African setting → Nigeria.",
+       "img": "ecua_shitcam_with_logo.png"
+      }
+     ]
     },
     {
      "cat": "region",
@@ -25170,7 +25224,15 @@
       "nmi_redflower.png"
      ],
      "uniq": "unique*",
-     "uniq_note": "Red-flowered flame trees in a Pacific-US setting → NMI over Guam."
+     "uniq_note": "Red-flowered flame trees in a Pacific-US setting → NMI over Guam.",
+     "shared_with": [
+      {
+       "slug": "guam",
+       "note": "Guam has a similarly dense tropical vegetation overall, but lacks the red-flowered flame trees.",
+       "diff": "Flame trees present → NMI; absent in an otherwise identical-looking round → lean Guam.",
+       "img": "gu_landscape.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -25391,7 +25453,19 @@
       "no_rustyguardrail.png"
      ],
      "uniq": "unique*",
-     "uniq_note": "Wooden guardrail posts are the quick Nordic separator — Sweden and Finland use steel."
+     "uniq_note": "Wooden guardrail posts are the quick Nordic separator — Sweden and Finland use steel.",
+     "shared_with": [
+      {
+       "slug": "sweden",
+       "note": "Swedish guardrails are mounted on steel posts, not wood.",
+       "diff": "Wooden posts → Norway; steel posts → Sweden."
+      },
+      {
+       "slug": "finland",
+       "note": "Finnish guardrails are also mounted on steel posts.",
+       "diff": "Wooden posts → Norway; steel posts → Finland."
+      }
+     ]
     },
     {
      "cat": "country",
@@ -25651,7 +25725,21 @@
      "anchor": "n8zU",
      "img": "3.png",
      "uniq": "unique*",
-     "uniq_note": "Within the covered Middle East, yellow private plates = Oman (Israel's yellow plates carry a blue strip; Laos' yellow plates are in SE Asia)."
+     "uniq_note": "Within the covered Middle East, yellow private plates = Oman (Israel's yellow plates carry a blue strip; Laos' yellow plates are in SE Asia).",
+     "shared_with": [
+      {
+       "slug": "israel-west-bank",
+       "note": "Israeli plates are yellow too, but always with a blue strip on the left.",
+       "diff": "Plain yellow → Oman; yellow + blue strip → Israel.",
+       "img": "il_Licence_Plate.png"
+      },
+      {
+       "slug": "laos",
+       "note": "Laotian private plates are also short and yellow.",
+       "diff": "Middle East Arabic signage → Oman; Lao script → Laos.",
+       "img": "Laos_License_Plate.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -25751,7 +25839,15 @@
       "11.png"
      ],
      "uniq": "unique*",
-     "uniq_note": "The triangle-topped wooden pole is unique to Oman; the plain 3-insulator design is shared with the UAE."
+     "uniq_note": "The triangle-topped wooden pole is unique to Oman; the plain 3-insulator design is shared with the UAE.",
+     "shared_with": [
+      {
+       "slug": "united-arab-emirates",
+       "note": "UAE has the same black-white striped signposts and the same plain 3-insulator dark-brown wooden poles.",
+       "diff": "Metal triangle above the pole → Oman only.",
+       "img": "ae_poles.png"
+      }
+     ]
     },
     {
      "cat": "country",
