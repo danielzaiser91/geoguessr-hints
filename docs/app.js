@@ -646,7 +646,7 @@ function cardEl(h) {
   const body = card.querySelector(".body");
   const openBtn = (label) => {
     const b = document.createElement("button"); b.className = "imgbtn"; b.textContent = label;
-    b.onclick = () => openImg(selected.name + " — " + tm.label, imgs.map(f => imgUrlFor(f, 1600)), h.text, "Source: " + srcRefs(h));
+    b.onclick = () => openImg(selected.name + " — " + tm.label, imgs.map(f => hiRes(imgUrlFor(f, 900))), h.text, "Source: " + srcRefs(h));
     return b;
   };
   const srcBtn = (cls) => {
