@@ -429,11 +429,25 @@ function videoSec() {
       (v.short ? ` onerror="this.src='https://i.ytimg.com/vi/${v.id}/hqdefault.jpg'"` : "") +
       `><span class="vid-play">▶</span>`;
     ph.onclick = () => {
+      const wrap = document.createElement("div"); wrap.className = "vid-frame";
       const f = document.createElement("iframe");
       f.src = `https://www.youtube-nocookie.com/embed/${v.id}?autoplay=1&rel=0`;
       f.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
       f.allowFullscreen = true; f.title = v.title;
-      ph.replaceWith(f);
+      wrap.appendChild(f);
+      // YouTube's Shorts embed UI (phone-style chrome) ships with no fullscreen button of its own,
+      // so we add one here that puts the iframe itself into the browser Fullscreen API.
+      if (v.short) {
+        const fs = document.createElement("button");
+        fs.type = "button"; fs.className = "vid-fs"; fs.title = "Fullscreen"; fs.textContent = "⛶";
+        fs.onclick = (e) => {
+          e.stopPropagation();
+          const req = f.requestFullscreen || f.webkitRequestFullscreen || f.msRequestFullscreen;
+          if (req) req.call(f);
+        };
+        wrap.appendChild(fs);
+      }
+      ph.replaceWith(wrap);
     };
     const cap = document.createElement("div"); cap.className = "vid-cap";
     cap.innerHTML = (v.short ? `<span class="vid-tag">Short</span>` : "") +
