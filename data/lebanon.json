@@ -7,7 +7,10 @@
  "hints": [
   { "cat": "country", "type": "plates", "text": "Plates long or short w/ **blue strip left** (Euro-like); **taxis = deep-red plates**", "src": ["plonkit"], "sv": null, "anchor": "2BL4", "img": "lb_licenceplates.png" },
   { "cat": "country", "type": "language", "text": "**Arabic** official — plus common **English and French**", "src": ["plonkit"], "sv": null, "anchor": "C649", "img": "lb_arabic.png",
-    "uniq": "unique*", "uniq_note": "The Arabic+French mix is the Middle-East tell for Lebanon — other Arabic countries on Street View pair with English (UAE) or nothing (Jordan)." },
+    "uniq": "unique*", "uniq_note": "The Arabic+French mix is the Middle-East tell for Lebanon — other Arabic countries on Street View pair with English (UAE) or nothing (Jordan).",
+    "shared_with": [
+      { "slug": "united-arab-emirates", "note": "UAE pairs Arabic with English (tourism signage), not French.", "diff": "French on signs → Lebanon; English → UAE.", "img": "arabic_language.png" },
+      { "slug": "jordan", "note": "Jordanian signs are mostly Arabic-only, with little English or French.", "diff": "French present → Lebanon; Arabic-only → Jordan.", "img": "arabic_language.png" } ] },
   { "cat": "country", "type": "cars", "text": "**Only Middle-Eastern country with official shitcam** coverage; everything else = **Gen3 trekkers**", "src": ["plonkit"], "sv": null, "anchor": "DdnD", "img": "lb_shitcam.png", "imgs": ["lb_trekker.png"], "uniq": "unique" },
   { "cat": "country", "type": "landscape", "text": "Mediterranean landscape — many **hills & rocky cliffs**", "src": ["plonkit"], "sv": null, "anchor": "Lgc7", "img": "lb_landscape.png" },
   { "cat": "country", "type": "utility", "text": "**Metal mesh poles**, sometimes painted bright **yellow**; generic wooden poles too", "src": ["plonkit"], "sv": null, "anchor": "cdUJ", "img": "Lebanon_Poles.png" },

@@ -6,7 +6,10 @@
  "links": { "plonkit": "https://www.plonkit.net/italy", "geoguessr": "https://www.geoguessr.com/maps/653b2196685acb6e827bb4de" },
  "hints": [
   { "cat": "country", "type": "plates", "text": "Plates: **blue strips both sides + distinctly short front plate** — the combination is unique", "src": ["plonkit"], "sv": null, "anchor": "sYKL", "img": "it_licenceplate.png",
-    "uniq": "unique*", "uniq_note": "Albania also has two blue strips and France a small right strip — but neither has the short front plate; short front + two strips = Italy." },
+    "uniq": "unique*", "uniq_note": "Albania also has two blue strips and France a small right strip — but neither has the short front plate; short front + two strips = Italy.",
+    "shared_with": [
+      { "slug": "albania", "note": "Albania also has blue strips on both sides, but never a shortened front plate.", "diff": "Short front plate → Italy; full-length front → Albania.", "img": "albania_plate.png" },
+      { "slug": "france", "note": "French plates have blue strips too, but only a small one on the right.", "diff": "Blue on BOTH sides + short front → Italy; small right-only strip → France.", "img": "1_licenceplate2.png" } ] },
   { "cat": "country", "type": "bollards", "text": "Bollards **triangular, white w/ black top**, red front / white rear reflector", "src": ["plonkit"], "sv": null, "anchor": "BBrE", "img": "it_bollard.png",
     "uniq": "shared", "shared_with": [
       { "slug": "albania", "note": "Albania uses the same bollards.", "diff": "Albanian language + Gen4 quality + poorer roads → Albania.", "img": "Bollards.png" } ] },

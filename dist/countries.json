@@ -14337,7 +14337,15 @@
      "anchor": "Sl44",
      "img": "Waystones_1.png",
      "uniq": "unique*",
-     "uniq_note": "Plonk It calls these 'unique to Indonesia'. The Philippines has waystones too — but **perpendicular** to the road with text facing away, so the angled orientation is the tell."
+     "uniq_note": "Plonk It calls these 'unique to Indonesia'. The Philippines has waystones too — but **perpendicular** to the road with text facing away, so the angled orientation is the tell.",
+     "shared_with": [
+      {
+       "slug": "philippines",
+       "note": "The Philippines also has tall yellow km stones, but mounted perpendicular to the road.",
+       "diff": "Angled toward the road → Indonesia; perpendicular, text facing away → Philippines.",
+       "img": "1_kmstone.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -15155,7 +15163,15 @@
      "anchor": "hu7c",
      "img": "gen2.png",
      "uniq": "unique*",
-     "uniq_note": "An all-Gen2 British-looking island round is IoM or Jersey — IoM is gloomier/hillier, Jersey sunnier with French names."
+     "uniq_note": "An all-Gen2 British-looking island round is IoM or Jersey — IoM is gloomier/hillier, Jersey sunnier with French names.",
+     "shared_with": [
+      {
+       "slug": "jersey",
+       "note": "Jersey is also all-Gen2 with English-style hedgerow lanes — but usually SUNNY.",
+       "diff": "Gloomier/hillier + red-strip plates → Isle of Man; sunny + French place names → Jersey.",
+       "img": "Jersey_vibe.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -15348,7 +15364,25 @@
      "anchor": "Lxx7",
      "img": "il_Licence_Plate.png",
      "uniq": "unique*",
-     "uniq_note": "Yellow+blue-strip plates are specific to Israel — Jordan and the UAE use white plates, Tunisia black; but the design also dominates in the West Bank (same page here)."
+     "uniq_note": "Yellow+blue-strip plates are specific to Israel — Jordan and the UAE use white plates, Tunisia black; but the design also dominates in the West Bank (same page here).",
+     "shared_with": [
+      {
+       "slug": "jordan",
+       "note": "Jordanian plates are plain white (long or short).",
+       "diff": "Yellow + blue strip → Israel; white → Jordan.",
+       "img": "Jordan_License_Plate.png"
+      },
+      {
+       "slug": "tunisia",
+       "note": "Tunisian plates are black with white text.",
+       "diff": "Yellow → Israel; black → Tunisia."
+      },
+      {
+       "slug": "united-arab-emirates",
+       "note": "UAE plates are white.",
+       "diff": "Yellow + blue strip → Israel; white → UAE."
+      }
+     ]
     },
     {
      "cat": "country",
@@ -15727,7 +15761,21 @@
      "anchor": "sYKL",
      "img": "it_licenceplate.png",
      "uniq": "unique*",
-     "uniq_note": "Albania also has two blue strips and France a small right strip — but neither has the short front plate; short front + two strips = Italy."
+     "uniq_note": "Albania also has two blue strips and France a small right strip — but neither has the short front plate; short front + two strips = Italy.",
+     "shared_with": [
+      {
+       "slug": "albania",
+       "note": "Albania also has blue strips on both sides, but never a shortened front plate.",
+       "diff": "Short front plate → Italy; full-length front → Albania.",
+       "img": "albania_plate.png"
+      },
+      {
+       "slug": "france",
+       "note": "French plates have blue strips too, but only a small one on the right.",
+       "diff": "Blue on BOTH sides + short front → Italy; small right-only strip → France.",
+       "img": "1_licenceplate2.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -16717,7 +16765,15 @@
      "anchor": "WJRF",
      "img": "Jersey_vibe.png",
      "uniq": "unique*",
-     "uniq_note": "Sunny Gen2 'England' with tree tunnels = Jersey lean; mainland UK Gen2 is rarer and usually gloomier."
+     "uniq_note": "Sunny Gen2 'England' with tree tunnels = Jersey lean; mainland UK Gen2 is rarer and usually gloomier.",
+     "shared_with": [
+      {
+       "slug": "isle-of-man",
+       "note": "Isle of Man is also all-Gen2 with a similar British look — but gloomier and hillier.",
+       "diff": "Sunny + French names → Jersey; gloomy/hilly + red-strip plates → Isle of Man.",
+       "img": "gen2.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -16832,7 +16888,14 @@
      "anchor": "2Pw0",
      "img": "Yellow_give_way_lines.png",
      "uniq": "unique*",
-     "uniq_note": "Within the UK-signage world the yellow give-way line is the fastest Jersey tell."
+     "uniq_note": "Within the UK-signage world the yellow give-way line is the fastest Jersey tell.",
+     "shared_with": [
+      {
+       "slug": "united-kingdom",
+       "note": "Mainland UK uses double dotted WHITE lines for the same give-way purpose.",
+       "diff": "Yellow → Jersey; white dots → UK mainland."
+      }
+     ]
     },
     {
      "cat": "country",
@@ -17229,7 +17292,15 @@
      "anchor": "tn7H",
      "img": "3.png",
      "uniq": "unique*",
-     "uniq_note": "Several countries have white pickup cameras (e.g. UAE Gen4 trekker-style) — but in a post-Soviet steppe context the white pickup means Kazakhstan."
+     "uniq_note": "Several countries have white pickup cameras (e.g. UAE Gen4 trekker-style) — but in a post-Soviet steppe context the white pickup means Kazakhstan.",
+     "shared_with": [
+      {
+       "slug": "united-arab-emirates",
+       "note": "UAE Gen4 also uses a white pickup with a trekker-style camera.",
+       "diff": "Post-Soviet steppe + Cyrillic → Kazakhstan; Gulf desert + Arabic → UAE.",
+       "img": "2022-12-14_1__281_29.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -17947,7 +18018,15 @@
      "anchor": "L1ht",
      "img": "Please_dont_guess_Guatemala.png",
      "uniq": "unique*",
-     "uniq_note": "Other countries have similar silver Street View cars (e.g. **Guatemala**), but no country with a **similar landscape** has one — and none of them uses the **Cyrillic** alphabet."
+     "uniq_note": "Other countries have similar silver Street View cars (e.g. **Guatemala**), but no country with a **similar landscape** has one — and none of them uses the **Cyrillic** alphabet.",
+     "shared_with": [
+      {
+       "slug": "guatemala",
+       "note": "Guatemala's car is also grey/silver with a visible roof rack and mirrors.",
+       "diff": "Cyrillic + Central Asian mountains → Kyrgyzstan; Spanish + Central American jungle → Guatemala.",
+       "img": "gt_googlecar.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -19195,7 +19274,21 @@
      "anchor": "C649",
      "img": "lb_arabic.png",
      "uniq": "unique*",
-     "uniq_note": "The Arabic+French mix is the Middle-East tell for Lebanon — other Arabic countries on Street View pair with English (UAE) or nothing (Jordan)."
+     "uniq_note": "The Arabic+French mix is the Middle-East tell for Lebanon — other Arabic countries on Street View pair with English (UAE) or nothing (Jordan).",
+     "shared_with": [
+      {
+       "slug": "united-arab-emirates",
+       "note": "UAE pairs Arabic with English (tourism signage), not French.",
+       "diff": "French on signs → Lebanon; English → UAE.",
+       "img": "arabic_language.png"
+      },
+      {
+       "slug": "jordan",
+       "note": "Jordanian signs are mostly Arabic-only, with little English or French.",
+       "diff": "French present → Lebanon; Arabic-only → Jordan.",
+       "img": "arabic_language.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -19384,7 +19477,15 @@
      "anchor": "kxM2",
      "img": "Lesotho_mountains.png",
      "uniq": "unique*",
-     "uniq_note": "Western-Cape ZA mountains can look similar — the everywhere-ness of the tabletops is the Lesotho tell."
+     "uniq_note": "Western-Cape ZA mountains can look similar — the everywhere-ness of the tabletops is the Lesotho tell.",
+     "shared_with": [
+      {
+       "slug": "south-africa",
+       "note": "Western Cape has similar rocky, treeless, steep-sided mountains.",
+       "diff": "Tabletop ridges EVERYWHERE you look → Lesotho; ZA's are more localised to the Cape.",
+       "img": "za_wc_mountains.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -20113,7 +20214,39 @@
      "anchor": "DmBj",
      "img": "Chevrons.png",
      "uniq": "unique*",
-     "uniq_note": "Only Iceland, Norway, Finland, Ireland and Portugal share the colour scheme — all with wildly different landscapes."
+     "uniq_note": "Only Iceland, Norway, Finland, Ireland and Portugal share the colour scheme — all with wildly different landscapes.",
+     "shared_with": [
+      {
+       "slug": "ireland",
+       "note": "Same black-yellow chevrons.",
+       "diff": "Green rolling hills + English/Irish → Ireland; central-European hills + French/Luxembourgish → Luxembourg.",
+       "img": "Chevrons.png"
+      },
+      {
+       "slug": "norway",
+       "note": "Same colour scheme.",
+       "diff": "Fjords/mountains → Norway.",
+       "img": "no_chevron.png"
+      },
+      {
+       "slug": "finland",
+       "note": "Same colour scheme.",
+       "diff": "Flat lake-forest landscape → Finland.",
+       "img": "FInland_Pedestrian_Signs.png"
+      },
+      {
+       "slug": "iceland",
+       "note": "Same colour scheme.",
+       "diff": "Treeless volcanic landscape → Iceland.",
+       "img": "Screenshot__281163_29.png"
+      },
+      {
+       "slug": "portugal",
+       "note": "Same colour scheme — the only Mediterranean country with it.",
+       "diff": "Mediterranean landscape + Portuguese → Portugal.",
+       "img": "chevron.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -27640,7 +27773,39 @@
       "chevron.png"
      ],
      "uniq": "unique*",
-     "uniq_note": "Black-yellow chevrons are Mediterranean-unique to Portugal (Nordics/Ireland use them too — but the landscape separates)."
+     "uniq_note": "Black-yellow chevrons are Mediterranean-unique to Portugal (Nordics/Ireland use them too — but the landscape separates).",
+     "shared_with": [
+      {
+       "slug": "ireland",
+       "note": "Same black-yellow chevrons.",
+       "diff": "Mediterranean look + Portuguese → Portugal; green rolling hills → Ireland.",
+       "img": "Chevrons.png"
+      },
+      {
+       "slug": "luxembourg",
+       "note": "Same colour scheme.",
+       "diff": "Mediterranean landscape → Portugal; central-European hills → Luxembourg.",
+       "img": "Chevrons.png"
+      },
+      {
+       "slug": "norway",
+       "note": "Same colour scheme.",
+       "diff": "Fjords/mountains → Norway.",
+       "img": "no_chevron.png"
+      },
+      {
+       "slug": "finland",
+       "note": "Same colour scheme.",
+       "diff": "Flat lake-forest landscape → Finland.",
+       "img": "FInland_Pedestrian_Signs.png"
+      },
+      {
+       "slug": "iceland",
+       "note": "Same colour scheme.",
+       "diff": "Treeless volcanic landscape → Iceland.",
+       "img": "Screenshot__281163_29.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -27690,7 +27855,15 @@
       "cobblestonesidewalk.png"
      ],
      "uniq": "unique*",
-     "uniq_note": "The diagonal square-cobblestone roads + calçada sidewalks are the classic Portugal tell — Brazil inherited the sidewalks, so check the plates."
+     "uniq_note": "The diagonal square-cobblestone roads + calçada sidewalks are the classic Portugal tell — Brazil inherited the sidewalks, so check the plates.",
+     "shared_with": [
+      {
+       "slug": "brazil",
+       "note": "Brazil inherited cobblestone paving in the NE and Rio Grande do Sul (colonial heritage).",
+       "diff": "Diagonal square-stone roads → Portugal; blue-stripe plates + Brazilian Portuguese spelling → Brazil.",
+       "img": "NEroads.png"
+      }
+     ]
     },
     {
      "cat": "country",

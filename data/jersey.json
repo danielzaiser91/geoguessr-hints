@@ -6,7 +6,9 @@
  "links": { "plonkit": "https://www.plonkit.net/jersey", "geoguessr": null },
  "hints": [
   { "cat": "country", "type": "general", "text": "Self-governing **Channel Island** off NW France; British Crown Dependency — **counts as UK** in streaks", "src": ["plonkit"], "sv": null, "anchor": "r1L7", "img": "Jersey_in_its_region2.png" },
-  { "cat": "country", "type": "cars", "text": "All coverage = **Gen2**; English-style winding hedgerow/tree-tunnel lanes but usually **sunny weather**", "src": ["plonkit"], "sv": null, "anchor": "WJRF", "img": "Jersey_vibe.png", "uniq": "unique*", "uniq_note": "Sunny Gen2 'England' with tree tunnels = Jersey lean; mainland UK Gen2 is rarer and usually gloomier." },
+  { "cat": "country", "type": "cars", "text": "All coverage = **Gen2**; English-style winding hedgerow/tree-tunnel lanes but usually **sunny weather**", "src": ["plonkit"], "sv": null, "anchor": "WJRF", "img": "Jersey_vibe.png", "uniq": "unique*", "uniq_note": "Sunny Gen2 'England' with tree tunnels = Jersey lean; mainland UK Gen2 is rarer and usually gloomier.",
+    "shared_with": [
+      { "slug": "isle-of-man", "note": "Isle of Man is also all-Gen2 with a similar British look — but gloomier and hillier.", "diff": "Sunny + French names → Jersey; gloomy/hilly + red-strip plates → Isle of Man.", "img": "gen2.png" } ] },
   { "cat": "country", "type": "plates", "text": "Plates UK-model (white front / **yellow rear**) + the island's **red coat of arms** left + **'J' prefix**; **no blue strip** (Jersey was never in the EU)", "src": ["plonkit"], "sv": null, "anchor": "QfN6", "img": "Jersey_License_Plate.png", "uniq": "unique*", "uniq_note": "The red arms + J-prefix are Jersey-only; blurred, it still reads as a UK plate.",
     "shared_with": [
       { "slug": "united-kingdom", "note": "Same white/yellow model; mainland plates (post-Brexit aside) often had a blue strip.", "diff": "Red coat of arms + J → Jersey." } ] },
@@ -20,7 +22,9 @@
   { "cat": "country", "type": "landscape", "text": "**Cornish palms** (thin trunks, arching leaves) common as decoration", "src": ["plonkit"], "sv": null, "anchor": "DwPv", "img": "Cornish_palms.png",
     "uniq": "shared", "shared_with": [
       { "slug": "united-kingdom", "note": "Also on some mainland coastal stretches.", "diff": "Plates + yellow lines decide." } ] },
-  { "cat": "country", "type": "markings", "text": "**Yellow give-way lines** at intersections (UK uses double dotted white)", "src": ["plonkit"], "sv": null, "anchor": "2Pw0", "img": "Yellow_give_way_lines.png", "uniq": "unique*", "uniq_note": "Within the UK-signage world the yellow give-way line is the fastest Jersey tell." },
+  { "cat": "country", "type": "markings", "text": "**Yellow give-way lines** at intersections (UK uses double dotted white)", "src": ["plonkit"], "sv": null, "anchor": "2Pw0", "img": "Yellow_give_way_lines.png", "uniq": "unique*", "uniq_note": "Within the UK-signage world the yellow give-way line is the fastest Jersey tell.",
+    "shared_with": [
+      { "slug": "united-kingdom", "note": "Mainland UK uses double dotted WHITE lines for the same give-way purpose.", "diff": "Yellow → Jersey; white dots → UK mainland." } ] },
   { "cat": "country", "type": "signs", "text": "Extensive cycling network: **'Green Lane' signs** + blue route markers w/ an island map in the centre; some signs asymmetrically attached to posts (more than mainland)", "src": ["plonkit"], "sv": null, "anchor": "mfYy", "img": "Cycling_route_signs.png", "imgs": ["Signpost_attachments.png"], "uniq": "unique" },
   { "cat": "region", "type": "naming", "text": "Most street signs carry the **coat of arms of their parish** — enlargeable overview graphic", "src": ["plonkit"], "sv": null, "anchor": "VFkp", "img": "Parish_Specific_Street_Name_Signs.png", "super": true, "uniq": "unique" },
   { "cat": "region", "type": "landscape", "text": "**St Helier** area = urbanised (taller buildings, narrow lively streets); **Les Mielles** reserve = vast treeless western coast w/ gentle westward slope + partially overcast coverage; SW of the island: **greenish-purple glitch** imagery (darker screen; not Jersey-exclusive)", "src": ["plonkit"], "sv": null, "anchor": "VJhc", "img": "St_Helier.png", "imgs": ["Les_Mielles.png", "October_glitch.png"], "super": true },

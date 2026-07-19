@@ -6,7 +6,9 @@
  "links": { "plonkit": "https://www.plonkit.net/isle-of-man", "geoguessr": "https://www.geoguessr.com/maps/673b8d44492287e99fd31fa3" },
  "hints": [
   { "cat": "country", "type": "general", "text": "British Crown dependency **between the UK and Ireland** — counts as UK in streaks", "src": ["plonkit"], "sv": null, "anchor": "cEF8", "img": "isleofmanplace.png" },
-  { "cat": "country", "type": "cars", "text": "Coverage is **Gen2 only**: lower quality, circular blur above & below, slightly off colours", "src": ["plonkit"], "sv": null, "anchor": "hu7c", "img": "gen2.png", "uniq": "unique*", "uniq_note": "An all-Gen2 British-looking island round is IoM or Jersey — IoM is gloomier/hillier, Jersey sunnier with French names." },
+  { "cat": "country", "type": "cars", "text": "Coverage is **Gen2 only**: lower quality, circular blur above & below, slightly off colours", "src": ["plonkit"], "sv": null, "anchor": "hu7c", "img": "gen2.png", "uniq": "unique*", "uniq_note": "An all-Gen2 British-looking island round is IoM or Jersey — IoM is gloomier/hillier, Jersey sunnier with French names.",
+    "shared_with": [
+      { "slug": "jersey", "note": "Jersey is also all-Gen2 with English-style hedgerow lanes — but usually SUNNY.", "diff": "Gloomier/hillier + red-strip plates → Isle of Man; sunny + French place names → Jersey.", "img": "Jersey_vibe.png" } ] },
   { "cat": "country", "type": "plates", "text": "Plates UK-style (white front / yellow rear) but w/ a **red strip on the left**", "src": ["plonkit"], "sv": null, "anchor": "eKbX", "img": "IOM_Plate.png", "uniq": "unique*", "uniq_note": "The red strip separates IoM from mainland UK & Jersey plates.",
     "shared_with": [
       { "slug": "united-kingdom", "note": "Same white/yellow scheme, no red strip there.", "diff": "Red strip → Isle of Man." } ] },

@@ -14,7 +14,13 @@
     "uniq": "shared", "shared_with": [
       { "slug": "germany", "note": "More or less identical to German bollards.", "diff": "Reflector bolts: **3 → Luxembourg, 2 → Germany**." },
       { "slug": "belgium", "note": "Belgian bollards look very different.", "diff": "This wedge design → LU/DE, not BE/NL/FR." } ] },
-  { "cat": "country", "type": "signs", "text": "Chevrons **black w/ yellow arrows** (rarely blue-yellow) — none of the neighbours use these", "src": ["plonkit"], "sv": null, "anchor": "DmBj", "img": "Chevrons.png", "uniq": "unique*", "uniq_note": "Only Iceland, Norway, Finland, Ireland and Portugal share the colour scheme — all with wildly different landscapes." },
+  { "cat": "country", "type": "signs", "text": "Chevrons **black w/ yellow arrows** (rarely blue-yellow) — none of the neighbours use these", "src": ["plonkit"], "sv": null, "anchor": "DmBj", "img": "Chevrons.png", "uniq": "unique*", "uniq_note": "Only Iceland, Norway, Finland, Ireland and Portugal share the colour scheme — all with wildly different landscapes.",
+    "shared_with": [
+      { "slug": "ireland", "note": "Same black-yellow chevrons.", "diff": "Green rolling hills + English/Irish → Ireland; central-European hills + French/Luxembourgish → Luxembourg.", "img": "Chevrons.png" },
+      { "slug": "norway", "note": "Same colour scheme.", "diff": "Fjords/mountains → Norway.", "img": "no_chevron.png" },
+      { "slug": "finland", "note": "Same colour scheme.", "diff": "Flat lake-forest landscape → Finland.", "img": "FInland_Pedestrian_Signs.png" },
+      { "slug": "iceland", "note": "Same colour scheme.", "diff": "Treeless volcanic landscape → Iceland.", "img": "Screenshot__281163_29.png" },
+      { "slug": "portugal", "note": "Same colour scheme — the only Mediterranean country with it.", "diff": "Mediterranean landscape + Portuguese → Portugal.", "img": "chevron.png" } ] },
   { "cat": "country", "type": "utility", "text": "Poles w/ **upside-down trident** poletops are the most common type (+ various others)", "src": ["plonkit"], "sv": null, "anchor": "nKRO", "img": "Poletops.png",
     "uniq": "shared", "shared_with": [
       { "slug": "france", "note": "Common in France too.", "diff": "Yellow plates + framed yellow signs → Luxembourg." },

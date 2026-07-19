@@ -6,7 +6,11 @@
  "links": { "plonkit": "https://www.plonkit.net/israel-west-bank", "geoguessr": "https://www.geoguessr.com/maps/63728a6bab17814982dc0412" },
  "hints": [
   { "cat": "country", "type": "plates", "text": "Israeli plates **yellow with blue strip left** (also common in the West Bank)", "src": ["plonkit"], "sv": null, "anchor": "Lxx7", "img": "il_Licence_Plate.png",
-    "uniq": "unique*", "uniq_note": "Yellow+blue-strip plates are specific to Israel — Jordan and the UAE use white plates, Tunisia black; but the design also dominates in the West Bank (same page here)." },
+    "uniq": "unique*", "uniq_note": "Yellow+blue-strip plates are specific to Israel — Jordan and the UAE use white plates, Tunisia black; but the design also dominates in the West Bank (same page here).",
+    "shared_with": [
+      { "slug": "jordan", "note": "Jordanian plates are plain white (long or short).", "diff": "Yellow + blue strip → Israel; white → Jordan.", "img": "Jordan_License_Plate.png" },
+      { "slug": "tunisia", "note": "Tunisian plates are black with white text.", "diff": "Yellow → Israel; black → Tunisia." },
+      { "slug": "united-arab-emirates", "note": "UAE plates are white.", "diff": "Yellow + blue strip → Israel; white → UAE." } ] },
   { "cat": "country", "type": "cars", "text": "Most Gen3: **black car with long antenna** (also black w/o antenna, silver w/ short antenna)", "src": ["plonkit"], "sv": null, "anchor": "UXde", "img": "il_car.png" },
   { "cat": "country", "type": "language", "text": "**Hebrew** (practically only here) + **Arabic** (esp. West Bank)", "src": ["plonkit"], "sv": null, "anchor": "26il", "img": "il_language.png", "uniq": "unique" },
   { "cat": "country", "type": "landscape", "text": "Landscape: greener **Mediterranean north** → very **arid south**", "src": ["plonkit"], "sv": null, "anchor": "cY6B", "img": "il_landscape.png" },

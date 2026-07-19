@@ -13,7 +13,9 @@
       { "slug": "russia", "note": "Russian text appears monolingually in KZ too.", "diff": "Spot any of **Ә Ғ Қ Ң Ө Ұ Ү Һ І** → Kazakhstan. White pickup camera confirms.", "img": "cyrillic.png" },
       { "slug": "kyrgyzstan", "note": "Kyrgyz shares **Ө Ү Ң** — but not the rest.", "diff": "**Ә Қ Ғ Ұ І** → Kazakhstan; silver 4-bar Gen3 car → Kyrgyzstan.", "img": "kg_language.png" },
       { "slug": "mongolia", "note": "Mongolian shares **Ө Ү**.", "diff": "Double vowels (аа/ээ) + yurts → Mongolia.", "img": "1._language.png" } ] },
-  { "cat": "country", "type": "cars", "text": "ALL coverage = **white pickup truck** (fully visible or mostly blurred)", "src": ["plonkit"], "sv": null, "anchor": "tn7H", "img": "3.png", "uniq": "unique*", "uniq_note": "Several countries have white pickup cameras (e.g. UAE Gen4 trekker-style) — but in a post-Soviet steppe context the white pickup means Kazakhstan." },
+  { "cat": "country", "type": "cars", "text": "ALL coverage = **white pickup truck** (fully visible or mostly blurred)", "src": ["plonkit"], "sv": null, "anchor": "tn7H", "img": "3.png", "uniq": "unique*", "uniq_note": "Several countries have white pickup cameras (e.g. UAE Gen4 trekker-style) — but in a post-Soviet steppe context the white pickup means Kazakhstan.",
+    "shared_with": [
+      { "slug": "united-arab-emirates", "note": "UAE Gen4 also uses a white pickup with a trekker-style camera.", "diff": "Post-Soviet steppe + Cyrillic → Kazakhstan; Gulf desert + Arabic → UAE.", "img": "2022-12-14_1__281_29.png" } ] },
   { "cat": "country", "type": "landscape", "text": "Huge & diverse — deserts, grassy steppes, mountain passes, birch forests; rural coverage overwhelmingly **empty, open, flat**", "src": ["plonkit"], "sv": null, "anchor": "RN95", "img": "4.png" },
   { "cat": "country", "type": "utility", "text": "Infrastructure very **Russia-like** (ped signs, poles, houses, bollards); tree trunks often painted **white at the bottom**", "src": ["plonkit"], "sv": null, "anchor": "V4BR", "img": "Russian_Infra_Hint.png", "imgs": ["8.png"],
     "uniq": "shared", "shared_with": [

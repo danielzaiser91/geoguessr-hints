@@ -23,7 +23,9 @@
   { "cat": "country", "type": "utility", "text": "Poles **round**, steel or concrete; steel often painted **black**, many with **Indonesian flag colours** (red/white); pole tops even or uneven by region", "src": ["plonkit"], "sv": null, "anchor": "cPPJ", "img": "Copy_of_IndoPoles_copy.png" },
   { "cat": "country", "type": "bollards", "text": "**Black-and-white** square/circular bollards + **yellow-and-black** ones (sometimes red reflector)", "bullets": ["UK-style bollards mostly in **Kalimantan**"], "src": ["plonkit"], "sv": null, "anchor": "u0Sw", "img": "Dont_guess_Thailand_or_UK.png" },
   { "cat": "country", "type": "signs", "text": "**Yellow waystones angled towards the road** with a cutout near the top (3 town shorthands, biggest on top)", "src": ["plonkit"], "sv": null, "anchor": "Sl44", "img": "Waystones_1.png",
-    "uniq": "unique*", "uniq_note": "Plonk It calls these 'unique to Indonesia'. The Philippines has waystones too — but **perpendicular** to the road with text facing away, so the angled orientation is the tell." },
+    "uniq": "unique*", "uniq_note": "Plonk It calls these 'unique to Indonesia'. The Philippines has waystones too — but **perpendicular** to the road with text facing away, so the angled orientation is the tell.",
+    "shared_with": [
+      { "slug": "philippines", "note": "The Philippines also has tall yellow km stones, but mounted perpendicular to the road.", "diff": "Angled toward the road → Indonesia; perpendicular, text facing away → Philippines.", "img": "1_kmstone.png" } ] },
   { "cat": "country", "type": "language", "text": "**Indonesian** looks like Malaysian, but was influenced by **Dutch** (Malaysian by English): televisi (≈ Dutch televisie) vs Malaysian televisyen", "src": ["plonkit"], "sv": null, "anchor": "SYxy", "img": "Indonesian_language.png",
     "uniq": "shared", "shared_with": [
       { "slug": "malaysia", "note": "Nearly identical language on signs.", "diff": "Dutch-style spellings (-si, -tas) → Indonesia; English-style (-syen, -titi) → Malaysia. Plates: 3 vs 2 white sections.", "img": "my_language.png" } ] },

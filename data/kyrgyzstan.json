@@ -13,7 +13,9 @@
       { "slug": "albania", "note": "Albanian plates can also carry a **single red strip on the left** — the only European country with red on the plate.", "diff": "Albania = Gen4 camera, Mediterranean landscape, **Latin** script; bollards with black top + red reflector.", "img": "albania_plate.png" },
       { "slug": "united-arab-emirates", "note": "Very rarely, UAE plates show a red element too.", "diff": "UAE = desert, **Arabic** script, white Gen3 car with black roof racks — nothing like snowy Central Asia.", "img": "gen3car.png" } ] },
   { "cat": "country", "type": "cars", "text": "**Silver car with four bars** visible; all coverage is **Gen3**", "src": ["plonkit"], "sv": null, "anchor": "L1ht", "img": "Please_dont_guess_Guatemala.png",
-    "uniq": "unique*", "uniq_note": "Other countries have similar silver Street View cars (e.g. **Guatemala**), but no country with a **similar landscape** has one — and none of them uses the **Cyrillic** alphabet." },
+    "uniq": "unique*", "uniq_note": "Other countries have similar silver Street View cars (e.g. **Guatemala**), but no country with a **similar landscape** has one — and none of them uses the **Cyrillic** alphabet.",
+    "shared_with": [
+      { "slug": "guatemala", "note": "Guatemala's car is also grey/silver with a visible roof rack and mirrors.", "diff": "Cyrillic + Central Asian mountains → Kyrgyzstan; Spanish + Central American jungle → Guatemala.", "img": "gt_googlecar.png" } ] },
   { "cat": "country", "type": "language", "text": "**Kyrgyz Cyrillic** — like Russian but with extra letters **Ө Ү Ң** (not in Russian Cyrillic)", "src": ["plonkit"], "sv": null, "anchor": "3dxS", "img": "kg_language.png",
     "uniq": "shared", "shared_with": [
       { "slug": "kazakhstan", "note": "Kazakh Cyrillic ALSO has **Ө Ү Ң** — plus even more extras: **Ә Ғ Қ Ұ Һ І**.", "diff": "Spot **Ә Қ Ғ Ұ І** → Kazakhstan. Camera: KZ = white pickup (often Gen4), KG = silver Gen3 car with 4 bars.", "img": "kz_language.png" },
