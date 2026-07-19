@@ -25,7 +25,10 @@
     "uniq": "shared", "shared_with": [
       { "slug": "germany", "note": "One Russian type IS the German-style bollard.", "diff": "Latin script, EU plates, German road furniture → Germany." } ] },
   { "cat": "country", "type": "bollards", "text": "Near intersections: a very **large number of bollards**; intersections unusually **wide**", "src": ["plonkit"], "sv": null, "anchor": "h2Gm", "img": "bollardspam.png", "imgs": ["bigintersections.png"],
-    "uniq": "unique*", "uniq_note": "Bollards and wide roads exist elsewhere (esp. Kazakhstan/Ukraine with similar post-Soviet layouts) — but the sheer bollard **quantity** at huge intersections is a strong Russia tell. Confirm with plates & language." },
+    "uniq": "unique*", "uniq_note": "Bollards and wide roads exist elsewhere (esp. Kazakhstan/Ukraine with similar post-Soviet layouts) — but the sheer bollard **quantity** at huge intersections is a strong Russia tell. Confirm with plates & language.",
+    "shared_with": [
+      { "slug": "kazakhstan", "note": "Kazakhstan's infrastructure (poles, signs, bollards) is very Russia-like.", "diff": "Cyrillic + Russian plates → Russia; Kazakh context (steppe, Kazakh script mixed in) → Kazakhstan.", "img": "Russian_Infra_Hint.png" },
+      { "slug": "ukraine", "note": "Ukraine shares the same post-Soviet wide-road, bollard-heavy layout in many regions.", "diff": "No Ukrainian plates/language present → Russia." } ] },
   { "cat": "country", "type": "utility", "text": "Signposts often have **black-painted bottoms**", "src": ["plonkit"], "sv": null, "anchor": "bXD0", "img": "blacksocks.png",
     "uniq": "shared", "shared_with": [
       { "slug": "kazakhstan", "note": "Black signpost bottoms are also common in Kazakhstan.", "diff": "White pickup camera + Kazakh letters → Kazakhstan.", "img": "Russian_Infra_Hint.png" } ] },

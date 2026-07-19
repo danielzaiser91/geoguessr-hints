@@ -6,8 +6,12 @@
  "links": { "plonkit": "https://www.plonkit.net/svalbard", "geoguessr": null },
  "hints": [
   { "cat": "country", "type": "general", "text": "Arctic archipelago under Norwegian sovereignty — **counts as Norway** in country streaks", "src": ["plonkit"], "sv": null, "anchor": "TJmr", "img": "Svalbard_in_Europe__28-mini_map_-rivers_29.svg.png" },
-  { "cat": "country", "type": "plates", "text": "Plates generally **black w/ yellow text**", "src": ["plonkit"], "sv": null, "anchor": "V6YU", "img": "svalbard_licenceplate.png", "uniq": "unique*", "uniq_note": "Mainland Norway uses white plates — black/yellow in an Arctic setting → Svalbard." },
-  { "cat": "country", "type": "landscape", "text": "**Barren, treeless mountains**; vegetation = only moss & grasses; sky often overcast, gloomy coverage", "src": ["plonkit"], "sv": null, "anchor": "pmRN", "img": "image.png", "uniq": "unique*", "uniq_note": "Iceland is the lookalike — Svalbard is even more barren, with zero trees and Arctic light." },
+  { "cat": "country", "type": "plates", "text": "Plates generally **black w/ yellow text**", "src": ["plonkit"], "sv": null, "anchor": "V6YU", "img": "svalbard_licenceplate.png", "uniq": "unique*", "uniq_note": "Mainland Norway uses white plates — black/yellow in an Arctic setting → Svalbard.",
+    "shared_with": [
+      { "slug": "norway", "note": "Mainland Norwegian plates are long white with an EU strip.", "diff": "Black/yellow → Svalbard; white → mainland Norway.", "img": "no_licenceplate.png" } ] },
+  { "cat": "country", "type": "landscape", "text": "**Barren, treeless mountains**; vegetation = only moss & grasses; sky often overcast, gloomy coverage", "src": ["plonkit"], "sv": null, "anchor": "pmRN", "img": "image.png", "uniq": "unique*", "uniq_note": "Iceland is the lookalike — Svalbard is even more barren, with zero trees and Arctic light.",
+    "shared_with": [
+      { "slug": "iceland", "note": "Iceland is also barren and treeless, with dark volcanic soil.", "diff": "Zero vegetation at all + Arctic light → Svalbard; moss/grass patches + volcanic features (geothermal lakes) → Iceland.", "img": "Screenshot__281156_29.png" } ] },
   { "cat": "country", "type": "language", "text": "**Russian** sometimes on signs (Soviet-era mining settlements)", "src": ["plonkit"], "sv": null, "anchor": "Hxz3", "img": "svalbard_russian.png" },
   { "cat": "city", "type": "arch", "text": "**Longyearbyen**: largest settlement, many **boxy minimalistic buildings**", "src": ["plonkit"], "sv": null, "anchor": "igav", "img": "Longyearbyen.png" },
   { "cat": "city", "type": "arch", "text": "**Pyramiden**: feels abandoned — Soviet-style multi-storey blocks, no human activity, **pyramidal mountains** in the distance", "src": ["plonkit"], "sv": null, "anchor": "ywbM", "img": "Pyramiden.png", "uniq": "unique" },

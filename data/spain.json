@@ -24,7 +24,9 @@
       { "slug": "belgium", "note": "Yellow reflectors too.", "diff": "North-European look + Dutch/French → Belgium." },
       { "slug": "andorra", "note": "Yellow reflectors too.", "diff": "Pyrenees microstate." },
       { "slug": "gibraltar", "note": "Yellow reflectors too.", "diff": "UK infrastructure + the Rock → Gibraltar." } ] },
-  { "cat": "country", "type": "signs", "text": "Pedestrian signs with **8 stripes** — Europe-max (only Andorra matches); stop signs with a distinctly **small font** (Portugal: large font)", "src": ["plonkit"], "sv": null, "anchor": "JLZT", "img": "2022-12-11_11.png", "imgs": ["Spain_stop_sign.png"], "uniq": "unique*", "uniq_note": "8-stripe crossings exist only in Spain and Andorra — everything else in Europe has fewer stripes." },
+  { "cat": "country", "type": "signs", "text": "Pedestrian signs with **8 stripes** — Europe-max (only Andorra matches); stop signs with a distinctly **small font** (Portugal: large font)", "src": ["plonkit"], "sv": null, "anchor": "JLZT", "img": "2022-12-11_11.png", "imgs": ["Spain_stop_sign.png"], "uniq": "unique*", "uniq_note": "8-stripe crossings exist only in Spain and Andorra — everything else in Europe has fewer stripes.",
+    "shared_with": [
+      { "slug": "andorra", "note": "Andorra has the same 8-stripe pedestrian sign.", "diff": "Andorra also has orange-dot plates + Catalan-only signs; Spain has Spanish/regional languages.", "img": "Pedestrian_sign.png" } ] },
   { "cat": "country", "type": "signs", "text": "Red sign borders **reach the edge** (FR/IT/PT keep a thin white edge); nearly all signs on **flat posts** (Europe: only PT/FR/AD too)", "src": ["plonkit"], "sv": null, "anchor": "lZxf", "img": "Red_border.png", "imgs": ["Flat_signpost.png"] },
   { "cat": "country", "type": "signs", "text": "Chevrons: **black w/ white** AND **blue w/ white** (only 2 or 4 arrows; France has 1–5); direction signs white w/ **colourful road-number boxes**, highways blue", "src": ["plonkit"], "sv": null, "anchor": "4Xxl", "img": "Chevrons.png", "imgs": ["Spain_direction_signs.png"],
     "uniq": "shared", "shared_with": [

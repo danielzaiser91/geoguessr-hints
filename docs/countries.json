@@ -28694,7 +28694,19 @@
       "ro_polesticker.png"
      ],
      "uniq": "unique*",
-     "uniq_note": "The extremely large yellow sticker is Romania-only — smaller yellow stickers also exist in Bulgaria and Hungary."
+     "uniq_note": "The extremely large yellow sticker is Romania-only — smaller yellow stickers also exist in Bulgaria and Hungary.",
+     "shared_with": [
+      {
+       "slug": "bulgaria",
+       "note": "Bulgarian poles can carry small yellow stickers too.",
+       "diff": "Huge sticker with the town name → Romania; smaller sticker → Bulgaria."
+      },
+      {
+       "slug": "hungary",
+       "note": "Hungarian poles can carry small yellow stickers too.",
+       "diff": "Huge sticker with the town name → Romania; smaller sticker → Hungary."
+      }
+     ]
     },
     {
      "cat": "country",
@@ -29053,7 +29065,20 @@
       "bigintersections.png"
      ],
      "uniq": "unique*",
-     "uniq_note": "Bollards and wide roads exist elsewhere (esp. Kazakhstan/Ukraine with similar post-Soviet layouts) — but the sheer bollard **quantity** at huge intersections is a strong Russia tell. Confirm with plates & language."
+     "uniq_note": "Bollards and wide roads exist elsewhere (esp. Kazakhstan/Ukraine with similar post-Soviet layouts) — but the sheer bollard **quantity** at huge intersections is a strong Russia tell. Confirm with plates & language.",
+     "shared_with": [
+      {
+       "slug": "kazakhstan",
+       "note": "Kazakhstan's infrastructure (poles, signs, bollards) is very Russia-like.",
+       "diff": "Cyrillic + Russian plates → Russia; Kazakh context (steppe, Kazakh script mixed in) → Kazakhstan.",
+       "img": "Russian_Infra_Hint.png"
+      },
+      {
+       "slug": "ukraine",
+       "note": "Ukraine shares the same post-Soviet wide-road, bollard-heavy layout in many regions.",
+       "diff": "No Ukrainian plates/language present → Russia."
+      }
+     ]
     },
     {
      "cat": "country",
@@ -30594,7 +30619,14 @@
      "anchor": "HAjS",
      "img": "San_Marino_Trash_Bins.png",
      "uniq": "unique*",
-     "uniq_note": "Within the Italy/San Marino border zone the lime bins lean San Marino strongly."
+     "uniq_note": "Within the Italy/San Marino border zone the lime bins lean San Marino strongly.",
+     "shared_with": [
+      {
+       "slug": "italy",
+       "note": "Italy's Emilia-Romagna/Marche border region doesn't typically use these lime bins, but shares everything else infrastructure-wise.",
+       "diff": "Lime-green bins + short strip-less plates → San Marino; ordinary bins + long plates → Italy."
+      }
+     ]
     },
     {
      "cat": "region",
@@ -30821,7 +30853,14 @@
      "anchor": "GNSK",
      "img": "fr_language.png",
      "uniq": "unique*",
-     "uniq_note": "French + Sahel landscape = Senegal (Rwanda has minor French but looks totally different)."
+     "uniq_note": "French + Sahel landscape = Senegal (Rwanda has minor French but looks totally different).",
+     "shared_with": [
+      {
+       "slug": "rwanda",
+       "note": "Rwanda also has some French signage (alongside English/Kinyarwanda), but far less dominant.",
+       "diff": "Sahel/arid savanna → Senegal; green hilly 'land of a thousand hills' → Rwanda."
+      }
+     ]
     },
     {
      "cat": "country",
@@ -31474,7 +31513,15 @@
       "sk_cyclingsigns.png"
      ],
      "uniq": "unique*",
-     "uniq_note": "The C cycling signs are Slovakia-only; the rest is shared with Czechia."
+     "uniq_note": "The C cycling signs are Slovakia-only; the rest is shared with Czechia.",
+     "shared_with": [
+      {
+       "slug": "czechia",
+       "note": "Very similar overall sign kit — Czechia's own page has a dedicated CZ-vs-SK comparison (arrow tips, borders, fonts, km markers).",
+       "diff": "'C' cycling signs → Slovakia only; none of that comparison list applies to CZ.",
+       "img": "cz_directionalsigns.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -32682,7 +32729,15 @@
       "Spain_stop_sign.png"
      ],
      "uniq": "unique*",
-     "uniq_note": "8-stripe crossings exist only in Spain and Andorra — everything else in Europe has fewer stripes."
+     "uniq_note": "8-stripe crossings exist only in Spain and Andorra — everything else in Europe has fewer stripes.",
+     "shared_with": [
+      {
+       "slug": "andorra",
+       "note": "Andorra has the same 8-stripe pedestrian sign.",
+       "diff": "Andorra also has orange-dot plates + Catalan-only signs; Spain has Spanish/regional languages.",
+       "img": "Pedestrian_sign.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -33152,7 +33207,15 @@
      "anchor": "Vtwe",
      "img": "Gen_3_car2.png",
      "uniq": "unique*",
-     "uniq_note": "This car is unique to Sri Lanka — Ghana's coverage shows a similar car front, but that car also carries a roof rack."
+     "uniq_note": "This car is unique to Sri Lanka — Ghana's coverage shows a similar car front, but that car also carries a roof rack.",
+     "shared_with": [
+      {
+       "slug": "ghana",
+       "note": "Ghana's Gen3 car front can look similar, but always has a roof rack with black tape on the right end.",
+       "diff": "No roof rack → Sri Lanka; roof rack + tape → Ghana.",
+       "img": "Ghana_car.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -33190,7 +33253,15 @@
      "anchor": "obMz",
      "img": "Sri_Lanka_scripts.png",
      "uniq": "unique*",
-     "uniq_note": "Sinhala is unique to Sri Lanka — but Tamil is also found in India's Tamil Nadu; a Tamil-only sign alone doesn't settle the country."
+     "uniq_note": "Sinhala is unique to Sri Lanka — but Tamil is also found in India's Tamil Nadu; a Tamil-only sign alone doesn't settle the country.",
+     "shared_with": [
+      {
+       "slug": "india",
+       "note": "Tamil is the official script in India's Tamil Nadu state.",
+       "diff": "Sinhala present anywhere on the sign → Sri Lanka; Tamil-only → could be Tamil Nadu, check other Indian clues.",
+       "img": "in_languagetamil.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -33446,7 +33517,15 @@
      "anchor": "V6YU",
      "img": "svalbard_licenceplate.png",
      "uniq": "unique*",
-     "uniq_note": "Mainland Norway uses white plates — black/yellow in an Arctic setting → Svalbard."
+     "uniq_note": "Mainland Norway uses white plates — black/yellow in an Arctic setting → Svalbard.",
+     "shared_with": [
+      {
+       "slug": "norway",
+       "note": "Mainland Norwegian plates are long white with an EU strip.",
+       "diff": "Black/yellow → Svalbard; white → mainland Norway.",
+       "img": "no_licenceplate.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -33459,7 +33538,15 @@
      "anchor": "pmRN",
      "img": "image.png",
      "uniq": "unique*",
-     "uniq_note": "Iceland is the lookalike — Svalbard is even more barren, with zero trees and Arctic light."
+     "uniq_note": "Iceland is the lookalike — Svalbard is even more barren, with zero trees and Arctic light.",
+     "shared_with": [
+      {
+       "slug": "iceland",
+       "note": "Iceland is also barren and treeless, with dark volcanic soil.",
+       "diff": "Zero vegetation at all + Arctic light → Svalbard; moss/grass patches + volcanic features (geothermal lakes) → Iceland.",
+       "img": "Screenshot__281156_29.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -33749,7 +33836,15 @@
       "skyltf_C3_A4rg.png"
      ],
      "uniq": "unique*",
-     "uniq_note": "Yellow-on-blue chevrons: only Sweden (Luxembourg has ultra-rare ones). The red-yellow infra scheme is the fastest Sweden tell."
+     "uniq_note": "Yellow-on-blue chevrons: only Sweden (Luxembourg has ultra-rare ones). The red-yellow infra scheme is the fastest Sweden tell.",
+     "shared_with": [
+      {
+       "slug": "luxembourg",
+       "note": "Luxembourg's main chevron is black-yellow, but a rare blue-yellow variant exists too.",
+       "diff": "Red-yellow painted infrastructure (roadwork, blocks) → Sweden; Luxembourg lacks that scheme entirely.",
+       "img": "Chevrons.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -34209,7 +34304,15 @@
      "anchor": "e1U8",
      "img": "ch_pedestrian_sign.png",
      "uniq": "unique*",
-     "uniq_note": "Liechtenstein uses identical signs — everything else in Europe differs."
+     "uniq_note": "Liechtenstein uses identical signs — everything else in Europe differs.",
+     "shared_with": [
+      {
+       "slug": "liechtenstein",
+       "note": "Liechtenstein uses the exact same 7-stripe pedestrian sign.",
+       "diff": "Black plates w/ yellow-red emblem → Liechtenstein; white plates → Switzerland.",
+       "img": "6.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -34225,7 +34328,14 @@
       "ch_pedestrian_crossing.png"
      ],
      "uniq": "unique*",
-     "uniq_note": "Yellow crossings/dashes = Switzerland or Liechtenstein only."
+     "uniq_note": "Yellow crossings/dashes = Switzerland or Liechtenstein only.",
+     "shared_with": [
+      {
+       "slug": "liechtenstein",
+       "note": "Liechtenstein shares the same Swiss-style yellow road markings.",
+       "diff": "Black plates w/ yellow-red emblem → Liechtenstein; white plates → Switzerland."
+      }
+     ]
     },
     {
      "cat": "country",
@@ -35521,7 +35631,20 @@
      "anchor": "1chu",
      "img": "Tunisia_License_Plate.png",
      "uniq": "unique*",
-     "uniq_note": "Black plates in an Arabic-French country = Tunisia (UAE/Jordan plates are white)."
+     "uniq_note": "Black plates in an Arabic-French country = Tunisia (UAE/Jordan plates are white).",
+     "shared_with": [
+      {
+       "slug": "jordan",
+       "note": "Jordanian plates are plain white.",
+       "diff": "Black → Tunisia; white → Jordan.",
+       "img": "Jordan_License_Plate.png"
+      },
+      {
+       "slug": "united-arab-emirates",
+       "note": "UAE plates are white.",
+       "diff": "Black → Tunisia; white → UAE."
+      }
+     ]
     },
     {
      "cat": "country",
@@ -36406,7 +36529,15 @@
      "anchor": "ugIv",
      "img": "Red_car.png",
      "uniq": "unique*",
-     "uniq_note": "The red Gen3 car is almost unique to Ukraine (parts of Belgium have a red long-antenna car). Vs Russia: no red car there, Russia has Gen4/Gen2 (Ukraine never), Russian Gen3 always has an antenna — antenna-less = think Ukraine."
+     "uniq_note": "The red Gen3 car is almost unique to Ukraine (parts of Belgium have a red long-antenna car). Vs Russia: no red car there, Russia has Gen4/Gen2 (Ukraine never), Russian Gen3 always has an antenna — antenna-less = think Ukraine.",
+     "shared_with": [
+      {
+       "slug": "belgium",
+       "note": "Belgium rarely has a similar red car with a long antenna.",
+       "diff": "Cyrillic + no Gen4/Gen2 → Ukraine; Latin script + Western European infra → Belgium.",
+       "img": "redcar.png"
+      }
+     ]
     },
     {
      "cat": "country",
@@ -38003,7 +38134,14 @@
      "anchor": "LBiS",
      "img": "fibre_line.png",
      "uniq": "unique*",
-     "uniq_note": "Almost unique to the US — very rarely seen in Canada."
+     "uniq_note": "Almost unique to the US — very rarely seen in Canada.",
+     "shared_with": [
+      {
+       "slug": "canada",
+       "note": "Canada very rarely has similar fibre-optic markers.",
+       "diff": "US signage/plates → US; Canadian bilingual signs/plates → Canada."
+      }
+     ]
     },
     {
      "cat": "country",

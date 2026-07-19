@@ -15,7 +15,9 @@
       { "slug": "italy", "note": "Infrastructure is deliberately Italian-standard.", "diff": "Plates + yellow-burgundy chevrons + lime bins → San Marino." } ] },
   { "cat": "country", "type": "signs", "text": "The **only country in the world with yellow chevrons + burgundy-red arrows**", "src": ["plonkit"], "sv": null, "anchor": "XqN5", "img": "San_Marino_Chevron.png", "uniq": "unique" },
   { "cat": "country", "type": "markings", "text": "Elaborate pedestrian crossings: **blue-painted crosswalks + hanging signs** — specific to San Marino", "src": ["plonkit"], "sv": null, "anchor": "RCBb", "img": "San_Marino_Pedestrian_Crossing.png", "uniq": "unique" },
-  { "cat": "country", "type": "general", "text": "**Lime-green trash bins** particularly common (in Gen4 some replaced by black bins)", "src": ["plonkit"], "sv": null, "anchor": "HAjS", "img": "San_Marino_Trash_Bins.png", "uniq": "unique*", "uniq_note": "Within the Italy/San Marino border zone the lime bins lean San Marino strongly." },
+  { "cat": "country", "type": "general", "text": "**Lime-green trash bins** particularly common (in Gen4 some replaced by black bins)", "src": ["plonkit"], "sv": null, "anchor": "HAjS", "img": "San_Marino_Trash_Bins.png", "uniq": "unique*", "uniq_note": "Within the Italy/San Marino border zone the lime bins lean San Marino strongly.",
+    "shared_with": [
+      { "slug": "italy", "note": "Italy's Emilia-Romagna/Marche border region doesn't typically use these lime bins, but shares everything else infrastructure-wise.", "diff": "Lime-green bins + short strip-less plates → San Marino; ordinary bins + long plates → Italy." } ] },
   { "cat": "region", "type": "roads", "text": "**Superstrada di San Marino** (Dogana → City of San Marino) = the **only divided road** in the country, lanes separated by metal guardrail", "src": ["plonkit"], "sv": null, "anchor": "7HE9", "img": "San_Marino_divided_road.png", "super": true },
   { "cat": "special", "type": "cars", "text": "The **historic centre** is covered by a Gen3 **trekker camera**", "src": ["plonkit"], "sv": null, "anchor": "nInM", "img": "Historic_Centre_Trekker.png", "uniq": "unique" }
  ]

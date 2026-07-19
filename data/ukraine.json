@@ -9,7 +9,9 @@
     "uniq": "shared", "shared_with": [
       { "slug": "russia", "note": "Russian plates fully white, NO strip.", "diff": "Any blue-yellow → Ukraine.", "img": "licenceplate.png" } ] },
   { "cat": "country", "type": "cars", "text": "All coverage **Gen3**, mostly a **RED Google car** (± antenna; colour sometimes visible via blur glitch)", "src": ["plonkit"], "sv": null, "anchor": "ugIv", "img": "Red_car.png",
-    "uniq": "unique*", "uniq_note": "The red Gen3 car is almost unique to Ukraine (parts of Belgium have a red long-antenna car). Vs Russia: no red car there, Russia has Gen4/Gen2 (Ukraine never), Russian Gen3 always has an antenna — antenna-less = think Ukraine." },
+    "uniq": "unique*", "uniq_note": "The red Gen3 car is almost unique to Ukraine (parts of Belgium have a red long-antenna car). Vs Russia: no red car there, Russia has Gen4/Gen2 (Ukraine never), Russian Gen3 always has an antenna — antenna-less = think Ukraine.",
+    "shared_with": [
+      { "slug": "belgium", "note": "Belgium rarely has a similar red car with a long antenna.", "diff": "Cyrillic + no Gen4/Gen2 → Ukraine; Latin script + Western European infra → Belgium.", "img": "redcar.png" } ] },
   { "cat": "country", "type": "cars", "text": "Rarer cars: black long-antenna, white long-antenna, grey short-antenna (regional — see below)", "src": ["plonkit"], "sv": null, "anchor": "JmjH", "img": "Other_Ukraine_cars.png" },
   { "cat": "country", "type": "markings", "text": "Some of **Europe's worst roads** — potholes, cracks, warped pavement (Russia's are generally better)", "src": ["plonkit"], "sv": null, "anchor": "9fKw", "img": "Bad_roads2.png", "super": true },
   { "cat": "country", "type": "general", "text": "Random roadside objects (esp. fences) painted **blue-and-yellow**", "src": ["plonkit"], "sv": null, "anchor": "CdRn", "img": "Flag_colours.png", "uniq": "unique" },

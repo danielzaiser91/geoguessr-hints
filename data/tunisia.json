@@ -5,7 +5,10 @@
  "area_km2": 163610,
  "links": { "plonkit": "https://www.plonkit.net/tunisia", "geoguessr": null },
  "hints": [
-  { "cat": "country", "type": "plates", "text": "Plates **black w/ white text** (military plates: small Tunisian flag left — visible on the dark-green follow car)", "src": ["plonkit"], "sv": null, "anchor": "1chu", "img": "Tunisia_License_Plate.png", "uniq": "unique*", "uniq_note": "Black plates in an Arabic-French country = Tunisia (UAE/Jordan plates are white)." },
+  { "cat": "country", "type": "plates", "text": "Plates **black w/ white text** (military plates: small Tunisian flag left — visible on the dark-green follow car)", "src": ["plonkit"], "sv": null, "anchor": "1chu", "img": "Tunisia_License_Plate.png", "uniq": "unique*", "uniq_note": "Black plates in an Arabic-French country = Tunisia (UAE/Jordan plates are white).",
+    "shared_with": [
+      { "slug": "jordan", "note": "Jordanian plates are plain white.", "diff": "Black → Tunisia; white → Jordan.", "img": "Jordan_License_Plate.png" },
+      { "slug": "united-arab-emirates", "note": "UAE plates are white.", "diff": "Black → Tunisia; white → UAE." } ] },
   { "cat": "country", "type": "cars", "text": "A **follow car escorts the Google car** in most coverage (several types; may be ahead or FAR behind — pan around!); the Google car itself is **black w/ a medium thin antenna**", "src": ["plonkit"], "sv": null, "anchor": "LVo2", "img": "followcars.png", "imgs": ["googlecar.jpg"], "uniq": "unique" },
   { "cat": "country", "type": "landscape", "text": "Climates: Mediterranean → dry → semi-desert; **olive plantations** in neat rows on raked weedless soil along many roads", "src": ["plonkit"], "sv": null, "anchor": "1Ppw", "img": "Tunisia_landscapes2.png", "imgs": ["oliveplantations.jpg"] },
   { "cat": "country", "type": "markings", "text": "Road lines usually **white** (outer dashed or solid; a few Sfax roads have yellow middles)", "src": ["plonkit"], "sv": null, "anchor": "WjkC", "img": "2022-12-02.png" },

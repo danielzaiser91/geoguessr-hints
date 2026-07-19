@@ -29,7 +29,9 @@
   { "cat": "country", "type": "signs", "text": "One-way signs: black rectangle w/ white arrow, always **'ONE WAY'** printed (cities: white vertical version)", "src": ["plonkit"], "sv": null, "anchor": "mvHr", "img": "one_way_road_signs_final.png",
     "uniq": "shared", "shared_with": [
       { "slug": "canada", "note": "Same shape/colour, but may lack the 'ONE WAY' text.", "diff": "Missing text → lean Canada." } ] },
-  { "cat": "country", "type": "utility", "text": "White & orange **fibre-optic cable markers** along roads", "src": ["plonkit"], "sv": null, "anchor": "LBiS", "img": "fibre_line.png", "uniq": "unique*", "uniq_note": "Almost unique to the US — very rarely seen in Canada." },
+  { "cat": "country", "type": "utility", "text": "White & orange **fibre-optic cable markers** along roads", "src": ["plonkit"], "sv": null, "anchor": "LBiS", "img": "fibre_line.png", "uniq": "unique*", "uniq_note": "Almost unique to the US — very rarely seen in Canada.",
+    "shared_with": [
+      { "slug": "canada", "note": "Canada very rarely has similar fibre-optic markers.", "diff": "US signage/plates → US; Canadian bilingual signs/plates → Canada." } ] },
   { "cat": "country", "type": "markings", "text": "**Yellow middle + white outer lines**; double yellow middle most common; on divided roads the line nearest the median is yellow", "src": ["plonkit"], "sv": null, "anchor": "FU8a", "img": "road_lines.png",
     "uniq": "shared", "shared_with": [
       { "slug": "canada", "note": "Double middle lines are less common in Canada, but not rare — caution.", "diff": "Double yellow → lean US." } ] },

@@ -7,13 +7,17 @@
  "hints": [
   { "cat": "country", "type": "plates", "text": "Plates: **long white front / short yellow rear**", "src": ["plonkit"], "sv": null, "anchor": "oQcO", "img": "Sri_Lanka_License_Plate.png" },
   { "cat": "country", "type": "cars", "text": "Gen3: car front shows **blue-white-red patches** through the blur ('French flag', red most visible)", "src": ["plonkit"], "sv": null, "anchor": "Vtwe", "img": "Gen_3_car2.png",
-    "uniq": "unique*", "uniq_note": "This car is unique to Sri Lanka — Ghana's coverage shows a similar car front, but that car also carries a roof rack." },
+    "uniq": "unique*", "uniq_note": "This car is unique to Sri Lanka — Ghana's coverage shows a similar car front, but that car also carries a roof rack.",
+    "shared_with": [
+      { "slug": "ghana", "note": "Ghana's Gen3 car front can look similar, but always has a roof rack with black tape on the right end.", "diff": "No roof rack → Sri Lanka; roof rack + tape → Ghana.", "img": "Ghana_car.png" } ] },
   { "cat": "country", "type": "cars", "text": "All **Gen4 = low-cam** (bigger blur, wide-looking roads, low angle) — Gen3 here is normal height!", "src": ["plonkit"], "sv": null, "anchor": "QMG3", "img": "Gen_4_coverage.png",
     "uniq": "shared", "shared_with": [
       { "slug": "japan", "note": "All Japanese coverage is low-cam.", "diff": "Kanji/kana + temperate landscape → Japan.", "img": "3.png" },
       { "slug": "switzerland", "note": "All Swiss coverage is low-cam (car blurred).", "diff": "Alpine Europe → Switzerland." } ] },
   { "cat": "country", "type": "language", "text": "**Sinhala** (very curvy, rounded) everywhere + **Tamil** (straighter) regionally; some English", "src": ["plonkit"], "sv": null, "anchor": "obMz", "img": "Sri_Lanka_scripts.png",
-    "uniq": "unique*", "uniq_note": "Sinhala is unique to Sri Lanka — but Tamil is also found in India's Tamil Nadu; a Tamil-only sign alone doesn't settle the country." },
+    "uniq": "unique*", "uniq_note": "Sinhala is unique to Sri Lanka — but Tamil is also found in India's Tamil Nadu; a Tamil-only sign alone doesn't settle the country.",
+    "shared_with": [
+      { "slug": "india", "note": "Tamil is the official script in India's Tamil Nadu state.", "diff": "Sinhala present anywhere on the sign → Sri Lanka; Tamil-only → could be Tamil Nadu, check other Indian clues.", "img": "in_languagetamil.png" } ] },
   { "cat": "country", "type": "utility", "text": "Concrete poles: **square w/ pinholes only in the top part** + **holey poles** (big see-through holes, lower half)", "src": ["plonkit"], "sv": null, "anchor": "AYFb", "img": "Utility_poles.png",
     "uniq": "shared", "shared_with": [
       { "slug": "thailand", "note": "Thai square poles look similar — but the pinholes run **all the way down**.", "diff": "Pinholes bottom-to-top → Thailand; top-only → Sri Lanka.", "img": "th_square_poles.webp" },
